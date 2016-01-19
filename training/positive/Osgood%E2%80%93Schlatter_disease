@@ -1,0 +1,1073 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Osgood–Schlatter disease - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Osgood%E2%80%93Schlatter_disease" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Osgood%E2%80%93Schlatter_disease" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Osgood–Schlatter_disease","wgTitle":"Osgood–Schlatter disease","wgCurRevisionId":670018747,"wgRevisionId":670018747,"wgArticleId":1720874,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from November 2014","Commons category with local link different than on Wikidata","Articles that use a Medicine navs subtemplate","Chondropathies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Osgood–Schlatter_disease","wgRelevantArticleId":1720874,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png/80px-Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png","wgULSAcceptLanguageList":["en-gb","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1066265"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Osgood–Schlatter_disease skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Osgood–Schlatter disease</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">See also: <a href="/wiki/Sinding-Larsen_and_Johansson_syndrome" title="Sinding-Larsen and Johansson syndrome">Sinding-Larsen and Johansson syndrome</a></div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Osgood-Schlatter disease</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png" class="image"><img alt="Radiograph of human knee with Osgood–Schlatter disease.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png/230px-Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png" width="230" height="286" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png/345px-Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png/460px-Radiograph_of_human_knee_with_Osgood%E2%80%93Schlatter_disease.png 2x" data-file-width="758" data-file-height="944" /></a>
+<div>Lateral view <a href="/wiki/Radiograph" title="Radiograph" class="mw-redirect">X-ray</a> of the knee demonstrating fragmentation of the tibial tubercle with overlying soft tissue swelling.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Orthopedics" title="Orthopedics" class="mw-redirect">Orthopedics</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/M92.5">M92.5</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=732.4">732.4</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb9299.htm">9299</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/001258.htm">001258</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/emerg/topic347.htm">emerg/347</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/orthoped/topic426.htm#">orthoped/426</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/radio/topic491.htm#">radio/491</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/sports/topic89.htm#">sports/89</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/osgood-schlatter-disease">Osgood–Schlatter disease</a></td>
+</tr>
+</table>
+<p><b>Osgood–Schlatter disease</b> (also known as <b>apophysitis of the tibial tubercle</b> or <b>OSD</b>) is an <a href="/wiki/Inflammation" title="Inflammation">inflammation</a> of the <a href="/wiki/Patellar_ligament" title="Patellar ligament">patellar ligament</a> at the <a href="/wiki/Tibial_tuberosity" title="Tibial tuberosity" class="mw-redirect">tibial tuberosity</a>.<sup id="cite_ref-pmid9732084_1-0" class="reference"><a href="#cite_note-pmid9732084-1"><span>[</span>1<span>]</span></a></sup> It is characterized by a painful lump just below the <a href="/wiki/Knee" title="Knee">knee</a> and is most often seen in young adolescents. Risk factors include overuse (especially in sports involving running, jumping and quick changes of direction) and adolescent growth spurts. The condition is named after <a href="/w/index.php?title=Robert_Bayley_Osgood&amp;action=edit&amp;redlink=1" class="new" title="Robert Bayley Osgood (page does not exist)">Robert Bayley Osgood</a> (1873–1956), an American orthopedic surgeon and <a href="/w/index.php?title=Carl_B._Schlatter&amp;action=edit&amp;redlink=1" class="new" title="Carl B. Schlatter (page does not exist)">Carl B. Schlatter</a>, (1864–1934), a Swiss surgeon who described the condition independently in 1903.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cause"><span class="tocnumber">2</span> <span class="toctext">Cause</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Ultrasonography"><span class="tocnumber">3.1</span> <span class="toctext">Ultrasonography</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Differential_diagnosis"><span class="tocnumber">3.2</span> <span class="toctext">Differential diagnosis</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Types"><span class="tocnumber">3.3</span> <span class="toctext">Types</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Prevention"><span class="tocnumber">4</span> <span class="toctext">Prevention</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Treatment"><span class="tocnumber">5</span> <span class="toctext">Treatment</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Physiotherapy"><span class="tocnumber">5.1</span> <span class="toctext">Physiotherapy</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Surgery"><span class="tocnumber">5.2</span> <span class="toctext">Surgery</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Rehabilitation"><span class="tocnumber">5.3</span> <span class="toctext">Rehabilitation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Prognosis"><span class="tocnumber">6</span> <span class="toctext">Prognosis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Long-term_implications"><span class="tocnumber">6.1</span> <span class="toctext">Long-term implications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Society_and_culture"><span class="tocnumber">7</span> <span class="toctext">Society and culture</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:MaleWithOsgoodSchlatter.jpg" class="image"><img alt="25 year old male with Osgood-Schlatter disease." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/MaleWithOsgoodSchlatter.jpg/220px-MaleWithOsgoodSchlatter.jpg" width="220" height="271" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/MaleWithOsgoodSchlatter.jpg/330px-MaleWithOsgoodSchlatter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/MaleWithOsgoodSchlatter.jpg/440px-MaleWithOsgoodSchlatter.jpg 2x" data-file-width="1700" data-file-height="2094" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:MaleWithOsgoodSchlatter.jpg" class="internal" title="Enlarge"></a></div>
+Male with Osgood-Schlatter disease</div>
+</div>
+</div>
+<p>Osgood–Schlatter disease causes pain in the front lower part of the knee.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> This is usually at the ligament-bone junction of the patellar ligament and the <a href="/wiki/Tibial_tuberosity" title="Tibial tuberosity" class="mw-redirect">tibial tuberosity</a>.<sup id="cite_ref-Cak_4-0" class="reference"><a href="#cite_note-Cak-4"><span>[</span>4<span>]</span></a></sup> The tibial tuberosity is a slight elevation of bone on the <a href="/wiki/Anterior" title="Anterior" class="mw-redirect">anterior</a> and <a href="/wiki/Proximal" title="Proximal" class="mw-redirect">proximal</a> portion of the <a href="/wiki/Tibia" title="Tibia">tibia</a>. The <a href="/wiki/Patellar_tendon" title="Patellar tendon" class="mw-redirect">patellar tendon</a> attaches the anterior <a href="/wiki/Quadriceps" title="Quadriceps" class="mw-redirect">quadriceps</a> muscles to the tibia.<sup id="cite_ref-Nakase_5-0" class="reference"><a href="#cite_note-Nakase-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Intense knee pain is usually the presenting symptom that occurs during activities such as running, jumping, squatting, and especially ascending or descending stairs and during kneeling.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>]</sup> The pain is worse with acute knee impact. The pain can be reproduced by extending the knee against resistance, stressing the quadriceps, or striking the knee. Pain is initially mild and intermittent. In the acute phase, the pain is severe and continuous in nature. Impact of the affected area can be very painful. Bilateral symptoms are observed in 20–30% of patients.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Cause">Cause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=2" title="Edit section: Cause">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Osgood–Schlatter disease generally occurs in boys and girls aged 9–16<sup id="cite_ref-pmid7790482_6-0" class="reference"><a href="#cite_note-pmid7790482-6"><span>[</span>6<span>]</span></a></sup> coinciding with periods of growth spurts. It occurs more frequently in boys than in girls, with reports of a male-to-female ratio ranging from 3:1 to as high as 7:1. It has been suggested that difference is related to a greater participation by boys in sports and risk activities than by girls.<sup id="cite_ref-pmid21210020_7-0" class="reference"><a href="#cite_note-pmid21210020-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=3" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diagnosis is made based on signs and symptoms.<sup id="cite_ref-pmid16570735_8-0" class="reference"><a href="#cite_note-pmid16570735-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Ultrasonography">Ultrasonography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=4" title="Edit section: Ultrasonography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This test can see various warning signs that predict if OSD might occur. <a href="/wiki/Ultrasonography" title="Ultrasonography" class="mw-redirect">Ultrasonography</a> can detect if there is any swelling within the tissue as well as <a href="/wiki/Cartilage" title="Cartilage">cartilage</a> swelling.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> Ultrasonography's main goal is to identify OSD in the early stage rather than later on. It has unique features such as detection of an increase of swelling within the tibia or the cartilage surrounding the area and can also see if there is any new bone starting to build up around the <a href="/wiki/Tibial_tuberosity" title="Tibial tuberosity" class="mw-redirect">tibial tuberosity</a>.</p>
+<h3><span class="mw-headline" id="Differential_diagnosis">Differential diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=5" title="Edit section: Differential diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Sinding-Larsen_and_Johansson_syndrome" title="Sinding-Larsen and Johansson syndrome">Sinding-Larsen and Johansson syndrome</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> is an analogous condition involving the <a href="/wiki/Patellar_tendon" title="Patellar tendon" class="mw-redirect">patellar tendon</a> and the lower margin of the <a href="/wiki/Patella" title="Patella">patella</a> bone, instead of the upper margin of the tibia. <a href="/wiki/Sever%27s_disease" title="Sever's disease">Sever's disease</a> is a similar condition affecting the <a href="/wiki/Heel" title="Heel">heel</a>.</p>
+<h3><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=6" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Three_types_of_avulsion_fractures.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Three_types_of_avulsion_fractures.png/220px-Three_types_of_avulsion_fractures.png" width="220" height="130" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Three_types_of_avulsion_fractures.png/330px-Three_types_of_avulsion_fractures.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Three_types_of_avulsion_fractures.png/440px-Three_types_of_avulsion_fractures.png 2x" data-file-width="542" data-file-height="320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Three_types_of_avulsion_fractures.png" class="internal" title="Enlarge"></a></div>
+Three types of avulsion fractures.</div>
+</div>
+</div>
+<p>OSD may result in an <a href="/wiki/Avulsion_fracture" title="Avulsion fracture">avulsion fracture</a>, with the <a href="/wiki/Tibial_tuberosity" title="Tibial tuberosity" class="mw-redirect">tibial tuberosity</a> separating from the tibia (usually remaining connected to a <a href="/wiki/Tendon" title="Tendon">tendon</a> or <a href="/wiki/Ligament" title="Ligament">ligament</a>). This injury is uncommon because there are mechanisms that prevent strong muscles from doing damage. The fracture on the tibial tuberosity can be a complete or incomplete break.</p>
+<p>Type I: A small fragment is displaced <a href="/wiki/Proximally" title="Proximally" class="mw-redirect">proximally</a> and does not require surgery.</p>
+<p>Type II: The <a href="/wiki/Articular_surface" title="Articular surface" class="mw-redirect">articular surface</a> remains together and the fracture occurs at the junction where the secondary center of <a href="/wiki/Ossification" title="Ossification">ossification</a> and the <a href="/wiki/Proximal" title="Proximal" class="mw-redirect">proximal</a> tibial <a href="/wiki/Epiphysis" title="Epiphysis">epiphysis</a> come together (may or may not require surgery).</p>
+<p>Type III: Total break (through articular surface) including high chance of <a href="/wiki/Meniscal" title="Meniscal" class="mw-redirect">meniscal</a> damage that usually requires surgery.</p>
+<h2><span class="mw-headline" id="Prevention">Prevention</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=7" title="Edit section: Prevention">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:137px;"><a href="/wiki/File:OSD_Picture.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/7/79/OSD_Picture.jpg" width="135" height="199" class="thumbimage" data-file-width="135" data-file-height="199" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OSD_Picture.jpg" class="internal" title="Enlarge"></a></div>
+Example of how to stretch the quadriceps muscle.</div>
+</div>
+</div>
+<p>One of the main ways to prevent OSD is to check the participant's flexibility in their quadriceps and hamstrings. Lack of flexibility in these muscles can be direct risk indicator for OSD. Muscles can shorten, which can cause pain but this is not permanent.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Stretches can help reduce shortening of the muscles. The main stretches for prevention of OSD focus on the <a href="/wiki/Hamstrings" title="Hamstrings" class="mw-redirect">hamstrings</a> and <a href="/wiki/Quadriceps" title="Quadriceps" class="mw-redirect">quadriceps</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=8" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Treatment is generally conservative with rest, ice, and specific exercises being recommended.<sup id="cite_ref-Gh2007_13-0" class="reference"><a href="#cite_note-Gh2007-13"><span>[</span>13<span>]</span></a></sup> Simple pain killers may be used if required such as <a href="/wiki/Acetaminophen" title="Acetaminophen" class="mw-redirect">acetaminophen</a> (paracetamol) or <a href="/wiki/Ibuprofen" title="Ibuprofen">ibuprofen</a>. Typically symptoms resolve as the growth plate closes.<sup id="cite_ref-Gh2007_13-1" class="reference"><a href="#cite_note-Gh2007-13"><span>[</span>13<span>]</span></a></sup> Physiotherapy is generally recommended once the initial symptoms have improved to prevent recurrence.<sup id="cite_ref-Gh2007_13-2" class="reference"><a href="#cite_note-Gh2007-13"><span>[</span>13<span>]</span></a></sup> Surgery may rarely be used in those who have stopped growing yet still have symptoms.<sup id="cite_ref-Gh2007_13-3" class="reference"><a href="#cite_note-Gh2007-13"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Physiotherapy">Physiotherapy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=9" title="Edit section: Physiotherapy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Recommended efforts include exercises to improve the strength of the <a href="/wiki/Quadriceps" title="Quadriceps" class="mw-redirect">quadriceps</a>, <a href="/wiki/Hamstring" title="Hamstring">hamstring</a> and <a href="/wiki/Gastrocnemius" title="Gastrocnemius" class="mw-redirect">gastrocnemius</a> muscles.<sup id="cite_ref-Gh2007_13-4" class="reference"><a href="#cite_note-Gh2007-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Bracing or use of an <a href="/wiki/Orthopedic_cast" title="Orthopedic cast">orthopedic cast</a> to enforce joint immobilization is rarely required and does not necessarily give quicker resolution. Sometimes, however, bracing may give comfort and help reduce pain as it reduces strain on the tibial tubercle.<sup id="cite_ref-pmid3508010_14-0" class="reference"><a href="#cite_note-pmid3508010-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Surgery">Surgery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=10" title="Edit section: Surgery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Surgical excision may rarely be required in skeletally mature patients.<sup id="cite_ref-pmid17224661_15-0" class="reference"><a href="#cite_note-pmid17224661-15"><span>[</span>15<span>]</span></a></sup> In chronic cases that are refractory to conservative treatment, surgical intervention yields good results, particularly for patients with bony or cartilaginous ossicles. Excision of these ossicles produces resolution of symptoms and return to activity in several weeks. After surgery, it is common for lack of blood flow to below the knees and to the feet. This may cause the loss of circulation to the area, but will be back to normal again shortly. A high pain may come and go every once in a while, due to the lack of blood flow. If this happens, sitting down will help the pain decrease. Removal of all loose intratendinous ossicles associated with prominent tibial tubercles is the procedure of choice, both from the functional and the cosmetic point of view.<sup id="cite_ref-umsystem_16-0" class="reference"><a href="#cite_note-umsystem-16"><span>[</span>16<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Rehabilitation">Rehabilitation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=11" title="Edit section: Rehabilitation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Straight_Leg_Raise_Exercise.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Straight_Leg_Raise_Exercise.jpeg/220px-Straight_Leg_Raise_Exercise.jpeg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Straight_Leg_Raise_Exercise.jpeg/330px-Straight_Leg_Raise_Exercise.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Straight_Leg_Raise_Exercise.jpeg/440px-Straight_Leg_Raise_Exercise.jpeg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Straight_Leg_Raise_Exercise.jpeg" class="internal" title="Enlarge"></a></div>
+Straight leg raises help strengthen the quadriceps without the need to bend the knee. The knee should be kept straight, legs should be lifted and lowered slowly, and reps should be held for three to five seconds.</div>
+</div>
+</div>
+<p>Rehabilitation focuses on muscle strengthening, gait training, and pain control to restore knee function.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> Nonsurgical treatments for less severe symptoms include: exercises for strength, stretches to increase range of motion, ice packs, knee tape, knee braces, anti-inflammatory agents, and electrical stimulation to control inflammation and pain. <a href="/wiki/Quadriceps" title="Quadriceps" class="mw-redirect">Quadriceps</a> and <a href="/wiki/Hamstring" title="Hamstring">hamstring</a> exercises prescribed by rehabilitation experts restore flexibility and muscle strength.</p>
+<p>Education and knowledge on stretches and exercises is important. Exercises should lack pain and increase gradually with intensity. The patient is given strict guidelines on how to perform exercises at home to avoid more injury.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> Exercises can include leg raises, squats, and wall stretches to increase quadriceps and hamstring strength. This helps to avoid pain, stress, and tight muscles that lead to further injury that oppose healing. Knee <a href="/wiki/Orthotics" title="Orthotics">orthotics</a> such as patella straps and knee sleeves help decrease force traction and prevent painful <a href="/wiki/Tibia" title="Tibia">tibia</a> contact by restricting unnecessary movement, providing support, and also adding compression to the area of pain.</p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=12" title="Edit section: Prognosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Patientdischarge.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Patientdischarge.jpg/220px-Patientdischarge.jpg" width="220" height="152" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Patientdischarge.jpg/330px-Patientdischarge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Patientdischarge.jpg/440px-Patientdischarge.jpg 2x" data-file-width="640" data-file-height="443" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Patientdischarge.jpg" class="internal" title="Enlarge"></a></div>
+This graph represents the total amount of subjects that were discharged from the hospital with OSD within the years of 2008 and 2011. 100% of patients admitted were discharged, and each year showed that males obtained the disease more frequently than females.</div>
+</div>
+</div>
+<p>The condition is usually self-limiting and is caused by stress on the <a href="/wiki/Patellar_ligament" title="Patellar ligament">patellar tendon</a> that attaches the <a href="/wiki/Quadriceps_femoris_muscle" title="Quadriceps femoris muscle">quadriceps muscle</a> at the front of the <a href="/wiki/Thigh" title="Thigh">thigh</a> to the <a href="/wiki/Tibia" title="Tibia">tibial tuberosity</a>. Following an adolescent growth spurt, repeated stress from contraction of the <a href="/wiki/Quadriceps" title="Quadriceps" class="mw-redirect">quadriceps</a> is transmitted through the patellar tendon to the immature tibial tuberosity. This can cause multiple subacute <a href="/wiki/Avulsion_fracture" title="Avulsion fracture">avulsion fractures</a> along with inflammation of the tendon, leading to excess bone growth in the tuberosity and producing a visible lump which can be very painful, especially when hit. Activities such as kneeling may also irritate the tendon.</p>
+<p>The syndrome may develop without trauma or other apparent cause; however, some studies report up to 50% of patients relate a history of precipitating trauma. Several authors have tried to identify the actual underlying etiology and risk factors that predispose Osgood–Schlatter disease and postulated various theories. However, currently it is widely accepted that Osgood–Schlatter disease is a traction apophysitis of the proximal tibial tubercle at the insertion of the patellar tendon caused by repetitive micro-trauma. In other words, Osgood–Schlatter disease is an overuse injury and closely related to the physical activity of the child. It was shown that children who actively participate in sports are affected more frequently as compared with non-participants. In a retrospective study of adolescents, old athletes actively participating in sports showed a frequency of 21% reporting the syndrome compared with only 4.5% of age-matched nonathletic controls.<sup id="cite_ref-pmid4025675_19-0" class="reference"><a href="#cite_note-pmid4025675-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>The symptoms usually resolve with treatment but may recur for 12–24 months before complete resolution at skeletal maturity, when the tibial epiphysis fuses. In some cases the symptoms do not resolve until the patient is fully grown. In approximately 10% of patients the symptoms continue unabated into adulthood, despite all conservative measures.<sup id="cite_ref-pmid17224661_15-1" class="reference"><a href="#cite_note-pmid17224661-15"><span>[</span>15<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Long-term_implications">Long-term implications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=13" title="Edit section: Long-term implications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>OSD occurs from the combined effects of tibial tuberosity immaturity and quadriceps tightness.<sup id="cite_ref-Nakase_5-1" class="reference"><a href="#cite_note-Nakase-5"><span>[</span>5<span>]</span></a></sup> There is a possibility of migration of the <a href="/wiki/Ossicle" title="Ossicle" class="mw-redirect">ossicle</a> or <a href="/wiki/Fragmentation" title="Fragmentation" class="mw-disambig">fragmentation</a> in Osgood-Schlatter patients.<sup id="cite_ref-Cak_4-1" class="reference"><a href="#cite_note-Cak-4"><span>[</span>4<span>]</span></a></sup> The implications of OSD and the <a href="/wiki/Ossification" title="Ossification">ossification</a> of the <a href="/wiki/Tubercle" title="Tubercle">tubercle</a> can lead to functional limitations and pain for patients into adulthood.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Of people admitted with OSD, about half were children who were between the ages of 1 and 17. In addition, in 2014, a case study of 261 patients was observed over 12 to 24 months. 237 of these patients responded well to sport restriction and non-steroid <a href="/wiki/Anti-inflammatory_agents" title="Anti-inflammatory agents" class="mw-redirect">anti-inflammatory agents</a>, which resulted in recovery to normal <a href="/wiki/Athletic_activity" title="Athletic activity" class="mw-redirect">athletic activity</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Society_and_culture">Society and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=14" title="Edit section: Society and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Steven_Gerrard" title="Steven Gerrard">Steven Gerrard</a>, <a href="/wiki/Rafael_Nadal" title="Rafael Nadal">Rafael Nadal</a>, <a href="/wiki/Paul_Scholes" title="Paul Scholes">Paul Scholes</a>, <a href="/wiki/Danny_Welbeck" title="Danny Welbeck">Danny Welbeck</a> and <a href="/wiki/Stephen_Ireland" title="Stephen Ireland">Stephen Ireland</a> are sportsmen who have recovered from this condition.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> The French tennis player, <a href="/wiki/Ga%C3%ABl_Monfils" title="Gaël Monfils">Gaël Monfils</a> wears patella bands in an attempt to combat the condition.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pmid9732084-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9732084_1-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Nowinski RJ, Mehlman CT (1998). "Hyphenated history: Osgood-Schlatter disease". <i>Am J. Orthop.</i> <b>27</b> (8): 584–5. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9732084">9732084</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Hyphenated+history%3A+Osgood-Schlatter+disease&amp;rft.aulast=Nowinski+RJ%2C+Mehlman+CT&amp;rft.au=Nowinski+RJ%2C+Mehlman+CT&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F9732084&amp;rft.issue=8&amp;rft.jtitle=Am+J.+Orthop.&amp;rft.pages=584-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=27" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/1711.html">Osgood-Schlatter disease</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Atanda A, Jr; Shah, SA; O'Brien, K (1 February 2011). "Osteochondrosis: common causes of pain in growing bones.". <i>American family physician</i> <b>83</b> (3): 285–91. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21302869">21302869</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Osteochondrosis%3A+common+causes+of+pain+in+growing+bones.&amp;rft.au=Atanda+A%2C+Jr&amp;rft.aufirst=Jr&amp;rft.aulast=Atanda+A&amp;rft.au=O%27Brien%2C+K&amp;rft.au=Shah%2C+SA&amp;rft.date=1+February+2011&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F21302869&amp;rft.issue=3&amp;rft.jtitle=American+family+physician&amp;rft.pages=285-91&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=83" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Cak-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cak_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cak_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Çakmak, S., Tekin, L., &amp; Akarsu, S. (2014). Long-term outcome of Osgood-Schlatter disease: not always favorable. Rheumatology International, 34(1), 135-136.</span></li>
+<li id="cite_note-Nakase-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nakase_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nakase_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Nakase, J., Aiba, T., Goshima, K., Takahashi, R., Toratani, T., Kosaka, M., &amp; ... Tsuchiya, H. (2014). Relationship between the skeletal maturation of the distal attachment of the patellar ligament and physical features in preadolescent male football players. Knee Surgery, Sports Traumatology, Arthroscopy, 22(1), 195-199.</span></li>
+<li id="cite_note-pmid7790482-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7790482_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Yashar A, Loder RT, Hensinger RN (1995). "Determination of skeletal age in children with Osgood-Schlatter disease by using radiographs of the knee". <i>J Pediatr Orthop</i> <b>15</b> (3): 298–301. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F01241398-199505000-00006">10.1097/01241398-199505000-00006</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7790482">7790482</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Determination+of+skeletal+age+in+children+with+Osgood-Schlatter+disease+by+using+radiographs+of+the+knee&amp;rft.aulast=Yashar+A%2C+Loder+RT%2C+Hensinger+RN&amp;rft.au=Yashar+A%2C+Loder+RT%2C+Hensinger+RN&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2F01241398-199505000-00006&amp;rft_id=info%3Apmid%2F7790482&amp;rft.issue=3&amp;rft.jtitle=J+Pediatr+Orthop&amp;rft.pages=298-301&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid21210020-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid21210020_7-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Vreju F, Ciurea P, Rosu A (December 2010). <a rel="nofollow" class="external text" href="http://www.medultrason.ro/feednlm/linkout/2010/12/336">"Osgood-Schlatter disease--ultrasonographic diagnostic"</a>. <i>Med Ultrason</i> <b>12</b> (4): 336–9. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21210020">21210020</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Osgood-Schlatter+disease--ultrasonographic+diagnostic&amp;rft.aulast=Vreju+F%2C+Ciurea+P%2C+Rosu+A&amp;rft.au=Vreju+F%2C+Ciurea+P%2C+Rosu+A&amp;rft.date=December+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.medultrason.ro%2Ffeednlm%2Flinkout%2F2010%2F12%2F336&amp;rft_id=info%3Apmid%2F21210020&amp;rft.issue=4&amp;rft.jtitle=Med+Ultrason&amp;rft.pages=336-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16570735-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16570735_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Cassas KJ, Cassettari-Wayhs A (2006). "Childhood and adolescent sports-related overuse injuries". <i>Am Fam Physician</i> <b>73</b> (6): 1014–22. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16570735">16570735</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Childhood+and+adolescent+sports-related+overuse+injuries&amp;rft.au=Cassas+KJ%2C+Cassettari-Wayhs+A&amp;rft.aulast=Cassas+KJ%2C+Cassettari-Wayhs+A&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F16570735&amp;rft.issue=6&amp;rft.jtitle=Am+Fam+Physician&amp;rft.pages=1014-22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=73" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Nakase, J., Aiba, T., Goshisma, K., Takahashi, R., Toratani, T., Kosaka, M., Ohashi, Y. &amp; Tsuchiya, H. (2014). Relationship between the skeletal maturation of the distal attachment of the patellar tendon and physical features in preadolescent male football players. Knee Surgery Sports Traumatol Arthrosc, 22, 195-199. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F500167-012-2353-3">10.1007/500167-012-2353-3</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/3156.html">Sinding-Larsen and Johansson syndrome</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Lucena, G. L., Gomes, C. A., &amp; Guerro R. O. (2010). Prevelance and Associated Factors of Osgood-Schlatter Syndrome in a Population-Based Sample of Brazilian Adolescents. The American Journal of Sports Medicine, 39, 415-420. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F0363546510383835">10.1177/0363546510383835</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Kabiri, L., Tapley, H., &amp; Taplay, S. (2014). Evaluation and conservative treatment for Osgood-Schlatter disease: A critical review of the literature. International Journal of Therapy and Rehabilitation, 21, 91-96.</span></li>
+<li id="cite_note-Gh2007-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gh2007_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gh2007_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gh2007_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gh2007_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gh2007_13-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Gholve, PA; Scher, DM; Khakharia, S; Widmann, RF; Green, DW (February 2007). "Osgood Schlatter syndrome.". <i>Current opinion in pediatrics</i> <b>19</b> (1): 44–50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2Fmop.0b013e328013dbea">10.1097/mop.0b013e328013dbea</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17224661">17224661</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Osgood+Schlatter+syndrome.&amp;rft.aufirst=PA&amp;rft.au=Gholve%2C+PA&amp;rft.au=Green%2C+DW&amp;rft.au=Khakharia%2C+S&amp;rft.aulast=Gholve&amp;rft.au=Scher%2C+DM&amp;rft.au=Widmann%2C+RF&amp;rft.date=February+2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2Fmop.0b013e328013dbea&amp;rft_id=info%3Apmid%2F17224661&amp;rft.issue=1&amp;rft.jtitle=Current+opinion+in+pediatrics&amp;rft.pages=44-50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid3508010-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid3508010_14-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Engel A, Windhager R (1987). "[Importance of the ossicle and therapy of Osgood-Schlatter disease]". <i>Sportverletz Sportschaden</i> (in German) <b>1</b> (2): 100–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1055%2Fs-2007-993701">10.1055/s-2007-993701</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3508010">3508010</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=%5BImportance+of+the+ossicle+and+therapy+of+Osgood-Schlatter+disease%5D&amp;rft.au=Engel+A%2C+Windhager+R&amp;rft.aulast=Engel+A%2C+Windhager+R&amp;rft.date=1987&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1055%2Fs-2007-993701&amp;rft_id=info%3Apmid%2F3508010&amp;rft.issue=2&amp;rft.jtitle=Sportverletz+Sportschaden&amp;rft.pages=100-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid17224661-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid17224661_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid17224661_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Gholve PA, Scher DM, Khakharia S, Widmann RF, Green DW (2007). "Osgood Schlatter syndrome". <i>Curr. Opin. Pediatr.</i> <b>19</b> (1): 44–50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2FMOP.0b013e328013dbea">10.1097/MOP.0b013e328013dbea</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17224661">17224661</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Osgood+Schlatter+syndrome&amp;rft.au=Gholve+PA%2C+Scher+DM%2C+Khakharia+S%2C+Widmann+RF%2C+Green+DW&amp;rft.aulast=Gholve+PA%2C+Scher+DM%2C+Khakharia+S%2C+Widmann+RF%2C+Green+DW&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2FMOP.0b013e328013dbea&amp;rft_id=info%3Apmid%2F17224661&amp;rft.issue=1&amp;rft.jtitle=Curr.+Opin.+Pediatr.&amp;rft.pages=44-50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-umsystem-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-umsystem_16-0">^</a></b></span> <span class="reference-text"><span class="citation journal">O. Josh Bloom and Leslie Mackler (February 2004). <a rel="nofollow" class="external text" href="https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/3208/WhatBestTreatmentOsgoodSchlatter.pdf">"What is the best treatment for Osgood-Schlatter disease?"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Family Practice</i> <b>53</b> (2).</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=What+is+the+best+treatment+for+Osgood-Schlatter+disease%3F&amp;rft.aulast=O.+Josh+Bloom+and+Leslie+Mackler&amp;rft.au=O.+Josh+Bloom+and+Leslie+Mackler&amp;rft.date=February+2004&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fmospace.umsystem.edu%2Fxmlui%2Fbitstream%2Fhandle%2F10355%2F3208%2FWhatBestTreatmentOsgoodSchlatter.pdf&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Family+Practice&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Baltaci, H., Ozer, V., and Tunay, B. (2004). Rehabilitation of avulsion fracture of the tibial tuberosity. Knee Surgery, Sports Traumatology, Arthroscopy. 12, 115-118.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Baltaci, H., Ozer, V., and Tunay, B. (2004). Rehabilitation of avulsion fracture of the tibial tuberosity. Knee Surgery, Sports Traumatology, Arthroscopy. 12, 115-118.</span></li>
+<li id="cite_note-pmid4025675-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid4025675_19-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Kujala UM, Kvist M, Heinonen O (1985). "Osgood-Schlatter's disease in adolescent athletes. Retrospective study of incidence and duration". <i>Am J Sports Med</i> <b>13</b> (4): 236–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F036354658501300404">10.1177/036354658501300404</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4025675">4025675</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOsgood%E2%80%93Schlatter+disease&amp;rft.atitle=Osgood-Schlatter%27s+disease+in+adolescent+athletes.+Retrospective+study+of+incidence+and+duration&amp;rft.au=Kujala+UM%2C+Kvist+M%2C+Heinonen+O&amp;rft.aulast=Kujala+UM%2C+Kvist+M%2C+Heinonen+O&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F036354658501300404&amp;rft_id=info%3Apmid%2F4025675&amp;rft.issue=4&amp;rft.jtitle=Am+J+Sports+Med&amp;rft.pages=236-41&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Kabiri, L., Tapley, H., &amp; Tapley, S. (2014). Evaluation and conservative treatment for Osgood-Schlatter disease: A critical review of the literature. International Journal Of Therapy &amp; Rehabilitation, 21(2), 91–96.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Bloom, J (2004). "What is the best treatment for Osgood-Schlatter disease?", <i>Journal of Family Practice, vol 53(2)</i>, p 153–156.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.guardian.co.uk/football/2008/may/18/manchesterunited.championsleague1">Simply the best</a>. Guardian. 18 May 2008</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.skysports.com/story/0,19528,12110_5217335,00.html">Gael could miss French Open</a>. Sky Sports. 21 April 2009</span></li>
+</ol>
+</div>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Osgood%E2%80%93Schlatter_disease" class="extiw" title="commons:Category:Osgood–Schlatter disease">Osgood–Schlatter disease</a></b></i>.</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Osteochondropathy" title="Template:Osteochondropathy"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Osteochondropathy" title="Template talk:Osteochondropathy"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Osteochondropathy&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Osteochondropathy" title="Osteochondropathy">Bone and joint disease</a> (<a href="/wiki/ICD-10_Chapter_XIII:_Diseases_of_the_musculoskeletal_system_and_connective_tissue#.28M80.E2.80.93M90.29_Osteopathies" title="ICD-10 Chapter XIII: Diseases of the musculoskeletal system and connective tissue">M80–M94</a>, <a href="/wiki/List_of_ICD-9_codes_710%E2%80%93739:_diseases_of_the_musculoskeletal_system_and_connective_tissue#Osteopathies.2C_chondropathies.2C_and_acquired_musculoskeletal_deformities_.28730.E2.80.93739.29" title="List of ICD-9 codes 710–739: diseases of the musculoskeletal system and connective tissue">730–733</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bone_disease" title="Bone disease">Bone</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Osteitis" title="Osteitis">Inflammation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Endocrine_bone_disease" title="Endocrine bone disease">endocrine</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osteitis_fibrosa_cystica" title="Osteitis fibrosa cystica">Osteitis fibrosa cystica</a>
+<ul>
+<li><a href="/wiki/Brown_tumor" title="Brown tumor">Brown tumor</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Infectious_bone_disease" title="Infectious bone disease">infection</a>:</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osteomyelitis" title="Osteomyelitis">Osteomyelitis</a>
+<ul>
+<li><a href="/wiki/Sequestrum" title="Sequestrum">Sequestrum</a></li>
+<li><a href="/wiki/Involucrum" title="Involucrum">Involucrum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sesamoiditis" title="Sesamoiditis">Sesamoiditis</a></li>
+<li><a href="/wiki/Brodie_abscess" title="Brodie abscess">Brodie abscess</a></li>
+<li><a href="/wiki/Periostitis" title="Periostitis">Periostitis</a></li>
+<li><a href="/wiki/Vertebral_osteomyelitis" title="Vertebral osteomyelitis">Vertebral osteomyelitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Metabolic_bone_disease" title="Metabolic bone disease">Metabolic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bone_density" title="Bone density">Bone density</a></li>
+<li><a href="/wiki/Osteoporosis" title="Osteoporosis">Osteoporosis</a>
+<ul>
+<li><a href="/wiki/Juvenile_osteoporosis" title="Juvenile osteoporosis">Juvenile</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Osteopenia" title="Osteopenia">Osteopenia</a></li>
+<li><a href="/wiki/Osteomalacia" title="Osteomalacia">Osteomalacia</a></li>
+<li><a href="/wiki/Paget%27s_disease_of_bone" title="Paget's disease of bone">Paget's disease of bone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bone_resorption" title="Bone resorption">Bone resorption</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osteolysis" title="Osteolysis">Osteolysis</a></li>
+<li><a href="/wiki/Hajdu%E2%80%93Cheney_syndrome" title="Hajdu–Cheney syndrome">Hajdu-Cheney syndrome</a></li>
+<li><a href="/wiki/Ainhum" title="Ainhum">Ainhum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Ischaemia
+<ul>
+<li><a href="/wiki/Avascular_necrosis" title="Avascular necrosis">Avascular necrosis</a></li>
+<li><a href="/wiki/Osteonecrosis_of_the_jaw" title="Osteonecrosis of the jaw">Osteonecrosis of the jaw</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Complex_regional_pain_syndrome" title="Complex regional pain syndrome">Algoneurodystrophy</a></li>
+<li><a href="/wiki/Hypertrophic_pulmonary_osteoarthropathy" title="Hypertrophic pulmonary osteoarthropathy">Hypertrophic pulmonary osteoarthropathy</a></li>
+<li><a href="/wiki/Nonossifying_fibroma" title="Nonossifying fibroma">Nonossifying fibroma</a></li>
+<li><a href="/wiki/Pseudarthrosis" title="Pseudarthrosis">Pseudarthrosis</a></li>
+<li><a href="/wiki/Stress_fracture" title="Stress fracture">Stress fracture</a></li>
+<li><a href="/wiki/Fibrous_dysplasia_of_bone" title="Fibrous dysplasia of bone">Fibrous dysplasia</a>
+<ul>
+<li><a href="/wiki/Monostotic_fibrous_dysplasia" title="Monostotic fibrous dysplasia">Monostotic</a></li>
+<li><a href="/wiki/Polyostotic_fibrous_dysplasia" title="Polyostotic fibrous dysplasia">Polyostotic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Skeletal_fluorosis" title="Skeletal fluorosis">Skeletal fluorosis</a></li>
+<li><i><a href="/wiki/Bone_cyst" title="Bone cyst">bone cyst</a></i>
+<ul>
+<li><a href="/wiki/Aneurysmal_bone_cyst" title="Aneurysmal bone cyst">Aneurysmal bone cyst</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hyperostosis" title="Hyperostosis">Hyperostosis</a>
+<ul>
+<li><a href="/wiki/Infantile_cortical_hyperostosis" title="Infantile cortical hyperostosis">Infantile cortical hyperostosis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Osteosclerosis" title="Osteosclerosis">Osteosclerosis</a>
+<ul>
+<li><a href="/wiki/Melorheostosis" title="Melorheostosis">Melorheostosis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pycnodysostosis" title="Pycnodysostosis">Pycnodysostosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chondropathy" title="Chondropathy">Joint</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chondritis" title="Chondritis">Chondritis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Relapsing_polychondritis" title="Relapsing polychondritis">Relapsing polychondritis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tietze_syndrome" title="Tietze syndrome">Tietze's syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Combined</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Osteochondritis" title="Osteochondritis">Osteochondritis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osteochondritis_dissecans" title="Osteochondritis dissecans">Osteochondritis dissecans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Osteochondrosis" title="Osteochondrosis">Child</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i>leg:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>hip
+<ul>
+<li><a href="/wiki/Legg%E2%80%93Calv%C3%A9%E2%80%93Perthes_syndrome" title="Legg–Calvé–Perthes syndrome" class="mw-redirect">Legg–Calvé–Perthes syndrome</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tibia" title="Tibia">tibia</a>
+<ul>
+<li><strong class="selflink">Osgood-Schlatter disease</strong></li>
+<li><a href="/wiki/Blount%27s_disease" title="Blount's disease">Blount's disease</a></li>
+</ul>
+</li>
+<li>foot
+<ul>
+<li><a href="/wiki/K%C3%B6hler_disease" title="Köhler disease">Köhler disease</a></li>
+<li><a href="/wiki/Sever%27s_disease" title="Sever's disease">Sever's disease</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Vertebral_column" title="Vertebral column">spine</a></i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/Scheuermann%27s_disease" title="Scheuermann's disease">Scheuermann’s disease</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i>arm:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>wrist
+<ul>
+<li><a href="/wiki/Kienbock%27s_disease" title="Kienbock's disease">Kienbock's disease</a></li>
+</ul>
+</li>
+<li>elbow
+<ul>
+<li><a href="/wiki/Panner_disease" title="Panner disease">Panner disease</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bone_and_cartilage_navs" title="Template:Bone and cartilage navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bone_and_cartilage_navs" title="Template talk:Bone and cartilage navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bone_and_cartilage_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Bone" title="Bone">bones</a> and <a href="/wiki/Cartilage" title="Cartilage">cartilage</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone_and_cartilage" title="Template:Bone and cartilage">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Bones_of_skeleton" title="Template:Bones of skeleton">bones</a></li>
+<li>skull
+<ul>
+<li><i><a href="/wiki/Template:Facial_bones" title="Template:Facial bones">face</a></i></li>
+<li><i><a href="/wiki/Template:Cranium" title="Template:Cranium" class="mw-redirect">neurocranium</a></i></li>
+<li><i><a href="/wiki/Template:Compound_structures_of_skull" title="Template:Compound structures of skull">compound structures</a></i></li>
+<li><i><a href="/wiki/Template:Foramina_of_skull" title="Template:Foramina of skull">foramina</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bones_of_upper_extremity" title="Template:Bones of upper extremity" class="mw-redirect">upper extremity</a></li>
+<li><a href="/wiki/Template:Bones_of_torso" title="Template:Bones of torso">torso</a></li>
+<li><a href="/wiki/Template:Pelvis" title="Template:Pelvis">pelvis</a></li>
+<li><a href="/wiki/Template:Bones_of_lower_extremity" title="Template:Bones of lower extremity" class="mw-redirect">lower extremity</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bone_and_cartilage_physiology" title="Template:Bone and cartilage physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Embryology_of_bones,_joints,_and_muscles" title="Template:Embryology of bones, joints, and muscles" class="mw-redirect">Development</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">Cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Osteochondrodysplasia" title="Template:Osteochondrodysplasia">Congenital</a></li>
+<li><a href="/wiki/Template:Osseous_and_chondromatous_tumors" title="Template:Osseous and chondromatous tumors">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Trauma" title="Template:Trauma">Trauma</a>
+<ul>
+<li><a href="/wiki/Template:Fractures" title="Template:Fractures">fracture</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Osteochondropathy" title="Template:Osteochondropathy">Other</a></li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_skeletal_system_and_joints" title="Template:Eponymous medical signs for skeletal system and joints">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone,_cartilage,_and_joint_procedures" title="Template:Bone, cartilage, and joint procedures">Procedures</a></li>
+<li><a href="/wiki/Template:Drugs_for_treatment_of_bone_diseases" title="Template:Drugs for treatment of bone diseases">Drugs</a></li>
+<li>Surgery
+<ul>
+<li><a href="/wiki/Template:Orthopaedic_surgical_approaches" title="Template:Orthopaedic surgical approaches">approaches</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Arthritis_in_children" title="Template:Arthritis in children"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Arthritis_in_children" title="Template talk:Arthritis in children"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Arthritis_in_children&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Childhood_arthritis" title="Childhood arthritis">Arthritis in children</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Inflammation" title="Inflammation">Inflammatory</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Idiopathic</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Juvenile_idiopathic_arthritis" title="Juvenile idiopathic arthritis">Juvenile idiopathic arthritis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Inflammatory disease</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Inflammatory_bowel_disease" title="Inflammatory bowel disease">Inflammatory bowel disease</a></li>
+<li><a href="/wiki/Sarcoidosis" title="Sarcoidosis">Sarcoidosis</a></li>
+<li><a href="/wiki/Cystic_fibrosis" title="Cystic fibrosis">Cystic fibrosis</a></li>
+<li><a href="/wiki/Autoimmune_hepatitis" title="Autoimmune hepatitis">Autoimmune hepatitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Tumors_of_the_hematopoietic_and_lymphoid_tissues" title="Tumors of the hematopoietic and lymphoid tissues">Hematological malignancy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acute_lymphoblastic_leukemia" title="Acute lymphoblastic leukemia">Acute lymphoblastic leukemia</a></li>
+<li><a href="/wiki/Lymphoma" title="Lymphoma">Lymphoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cancer" title="Cancer">Malignancy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neuroblastoma" title="Neuroblastoma">Neuroblastoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Reactive_arthritis" title="Reactive arthritis">Reactive</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>post-streptococcal</li>
+<li><a href="/wiki/Rheumatic_fever" title="Rheumatic fever">Rheumatic fever</a></li>
+<li>postenteric, post-viral</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Infection</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Septic_arthritis" title="Septic arthritis">Septic arthritis</a></li>
+<li><a href="/wiki/Osteomyelitis" title="Osteomyelitis">Osteomyelitis</a></li>
+<li><a href="/wiki/Tuberculosis" title="Tuberculosis">Tuberculosis</a></li>
+<li><a href="/wiki/Lyme_disease#Late_disseminated_infection" title="Lyme disease">Lyme arthritis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mechanical</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Osgood–Schlatter disease</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Tumours of cartilage bone or muscle</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Benign</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Osteoid_osteoma" title="Osteoid osteoma">Osteoid osteoma</a></li>
+<li><a href="/wiki/Pigmented_villonodular_synovitis" title="Pigmented villonodular synovitis">Pigmented villonodular synovitis</a></li>
+<li><a href="/wiki/Hemangioma" title="Hemangioma">Hemangioma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Malignant</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Synovial_sarcoma" title="Synovial sarcoma">Synovial sarcoma</a></li>
+<li><a href="/wiki/Rhabdomyosarcoma" title="Rhabdomyosarcoma">Rhabdomyosarcoma</a></li>
+<li><a href="/wiki/Ewing%27s_sarcoma" title="Ewing's sarcoma">Ewing's sarcoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Central Nervous System</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dd>Idiopathic pain syndromes</dd>
+<dt>Local</dt>
+<dd><a href="/wiki/Complex_regional_pain_syndrome" title="Complex regional pain syndrome">Complex regional pain syndrome</a>/Reflex sympathetic dystrophy</dd>
+<dt>Generalized</dt>
+<dd><a href="/wiki/Fibromyalgia" title="Fibromyalgia">Fibromyalgia</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Joint_navs" title="Template:Joint navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Joint_navs" title="Template talk:Joint navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Joint_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Joint" title="Joint">joint</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Joints" title="Template:Joints">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Joints_of_head_and_neck" title="Template:Joints of head and neck">head and neck</a></li>
+<li><a href="/wiki/Template:Cranial_fibrous_joints" title="Template:Cranial fibrous joints">cranial</a></li>
+<li><a href="/wiki/Template:Joints_of_upper_limbs" title="Template:Joints of upper limbs">arms</a></li>
+<li><a href="/wiki/Template:Joints_of_torso_and_pelvis" title="Template:Joints of torso and pelvis">torso and pelvis</a></li>
+<li><a href="/wiki/Template:Joints_of_lower_limbs" title="Template:Joints of lower limbs">legs</a></li>
+<li><a href="/wiki/Template:Bursae_and_sheaths" title="Template:Bursae and sheaths">bursae and sheathes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bone_and_cartilage_physiology" title="Template:Bone and cartilage physiology">Physiology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Arthropathies_and_related_conditions" title="Template:Arthropathies and related conditions">Arthritis</a>
+<ul>
+<li><a href="/wiki/Template:Acquired_musculoskeletal_deformities" title="Template:Acquired musculoskeletal deformities">acquired</a></li>
+<li><a href="/wiki/Template:Spinal_disease" title="Template:Spinal disease">back</a></li>
+<li><a href="/wiki/Template:Arthritis_in_children" title="Template:Arthritis in children">childhood</a></li>
+<li><a href="/wiki/Template:Soft_tissue_disorders" title="Template:Soft tissue disorders">soft tissue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_musculoskeletal_system" title="Template:Congenital malformations and deformations of musculoskeletal system">Congenital</a></li>
+<li><a href="/wiki/Template:Dislocations,_sprains_and_strains" title="Template:Dislocations, sprains and strains">Injury</a></li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_skeletal_system_and_joints" title="Template:Eponymous medical signs for skeletal system and joints">eponymous</a></li>
+<li><a href="/wiki/Template:Orthopaedic_Eponyms" title="Template:Orthopaedic Eponyms">orthopaedic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Orthopedic_examination" title="Template:Orthopedic examination">Examination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone,_cartilage,_and_joint_procedures" title="Template:Bone, cartilage, and joint procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antirheumatic_products" title="Template:Antirheumatic products">rheumatoid arthritis</a></li>
+<li><a href="/wiki/Template:Antigout_preparations" title="Template:Antigout preparations">gout</a></li>
+<li><a href="/wiki/Template:Topical_products_for_joint_and_muscular_pain" title="Template:Topical products for joint and muscular pain">topical analgesics</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1257
+CPU time usage: 0.327 seconds
+Real time usage: 0.420 seconds
+Preprocessor visited node count: 2242/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 129867/2097152 bytes
+Template argument size: 2671/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.105/10.000 seconds
+Lua memory usage: 3.95 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  319.828      1 - -total
+ 32.18%  102.925     11 - Template:Navbox
+ 30.71%   98.222      1 - Template:Reflist
+ 17.26%   55.214     10 - Template:Cite_journal
+ 16.46%   52.646      1 - Template:Infobox_disease
+ 13.80%   44.150      1 - Template:Infobox
+ 13.55%   43.347      1 - Template:Osteochondropathy
+ 11.61%   37.126      2 - Template:Citation_needed
+  9.63%   30.802      2 - Template:Fix
+  8.50%   27.192      4 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1720874-0!*!0!!en!4!* and timestamp 20150705072736 and revision id 670018747
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Osgood–Schlatter_disease&amp;oldid=670018747">https://en.wikipedia.org/w/index.php?title=Osgood–Schlatter_disease&amp;oldid=670018747</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chondropathies" title="Category:Chondropathies">Chondropathies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Osgood%E2%80%93Schlatter+disease&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Osgood%E2%80%93Schlatter+disease" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Osgood%E2%80%93Schlatter_disease"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Osgood%E2%80%93Schlatter_disease"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Osgood%E2%80%93Schlatter_disease" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Osgood%E2%80%93Schlatter_disease" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Osgood%E2%80%93Schlatter_disease" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;oldid=670018747" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1066265" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Osgood%E2%80%93Schlatter_disease&amp;id=670018747" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Osgood%E2%80%93Schlatter+disease">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Osgood%E2%80%93Schlatter+disease&amp;oldid=670018747&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Morbus_Osgood-Schlatter" title="Morbus Osgood-Schlatter – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Enfermedad_de_Osgood-Schlatter" title="Enfermedad de Osgood-Schlatter – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B2%DA%AF%D9%88%D8%AF_%D8%A7%D8%B4%D9%84%D8%A7%D8%AA%D8%B1" title="بیماری ازگود اشلاتر – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Maladie_d%27Osgood-Schlatter" title="Maladie d'Osgood-Schlatter – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%98%A4%EC%8A%A4%EA%B5%BF-%EC%8A%90%EB%9E%98%ED%84%B0_%EB%B3%91" title="오스굿-슐래터 병 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Osgood-Schlatter" title="Sindrome di Osgood-Schlatter – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9E%D7%97%D7%9C%D7%AA_%D7%90%D7%95%D7%A1%D7%92%D7%95%D7%93-%D7%A9%D7%9C%D7%98%D7%A8" title="מחלת אוסגוד-שלטר – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Ziekte_van_Osgood-Schlatter" title="Ziekte van Osgood-Schlatter – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%B0%E3%83%83%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%A9%E3%83%83%E3%82%BF%E3%83%BC%E7%97%85" title="オスグッド・シュラッター病 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Schlatters" title="Schlatters – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Choroba_Osgooda-Schlattera" title="Choroba Osgooda-Schlattera – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Osgood-Schlatter" title="Síndrome de Osgood-Schlatter – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Boala_Osgood-Schlatter" title="Boala Osgood-Schlatter – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C_%D0%A8%D0%BB%D1%8F%D1%82%D1%82%D0%B5%D1%80%D0%B0" title="Болезнь Шляттера – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Schlatters_sjukdom" title="Schlatters sjukdom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1066265#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 July 2015, at 07:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Osgood%E2%80%93Schlatter_disease&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1079"});
+}</script>
+	</body>
+</html>

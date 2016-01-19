@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Apache Ant - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Apache_Ant" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Apache_Ant&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Apache_Ant&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Apache_Ant" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Apache_Ant" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Apache_Ant","wgTitle":"Apache Ant","wgCurRevisionId":670864807,"wgRevisionId":670864807,"wgArticleId":438891,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from August 2010","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from March 2010","NPOV disputes from September 2011","All NPOV disputes","Articles that may contain original research from September 2011","All articles that may contain original research","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Apache Software Foundation","Free software programmed in Java (programming language)","Java development tools","Compiling tools","XML software","Build automation","Java (programming language) libraries","Cross-platform software","Software using the Apache license"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Apache_Ant","wgRelevantArticleId":438891,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/100px-Apache-Ant-logo.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q385970"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Apache_Ant skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Apache Ant</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(August 2010)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Apache Ant (Another Neat Tool)</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Apache-Ant-logo.svg" class="image" title="Apache Ant Logo"><img alt="Apache Ant Logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/200px-Apache-Ant-logo.svg.png" width="200" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/300px-Apache-Ant-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/400px-Apache-Ant-logo.svg.png 2x" data-file-width="554" data-file-height="343" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/Apache_Software_Foundation" title="Apache Software Foundation">Apache Software Foundation</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>July&#160;2000<span class="noprint">; 15&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2000-07</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>1.9.6 / July&#160;2,&#160;2015<span style="display:none">&#160;(<span class="bday dtstart published updated">2015-07-02</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Build_tool" title="Build tool" class="mw-redirect">Build tool</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Apache_License" title="Apache License">Apache License</a> 2.0</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="https://ant.apache.org">ant<wbr />.apache<wbr />.org</a></span></td>
+</tr>
+</table>
+<p><b>Apache Ant</b> is a software tool for <a href="/wiki/Build_automation" title="Build automation">automating software build</a> processes. It originally came from the Apache Tomcat project in early 2000. It was a replacement for the unix make build tool, and was created due to a number of problems with the unix make.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It is similar to <a href="/wiki/Make_(software)" title="Make (software)">Make</a> but is implemented using the <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a> language, requires the Java platform, and is best suited to building Java projects.</p>
+<p>The most immediately noticeable difference between Ant and Make is that Ant uses <a href="/wiki/XML" title="XML">XML</a> to describe the build process and its dependencies, whereas Make uses <a href="/wiki/Makefile#Makefiles" title="Makefile">Makefile format</a>. By default the XML file is named <code>build.xml</code>.</p>
+<p>Ant is an <a href="/wiki/Apache_Software_Foundation" title="Apache Software Foundation">Apache</a> project. It is <a href="/wiki/Open_source_software" title="Open source software" class="mw-redirect">open source software</a>, and is released under the <a href="/wiki/Apache_License" title="Apache License">Apache License</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Extensions"><span class="tocnumber">2</span> <span class="toctext">Extensions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Example"><span class="tocnumber">3</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Portability"><span class="tocnumber">4</span> <span class="toctext">Portability</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Limitations"><span class="tocnumber">5</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Bibliography"><span class="tocnumber">8</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ant ("Another Neat Tool"<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup>) was conceived by <a href="/wiki/James_Duncan_Davidson" title="James Duncan Davidson">James Duncan Davidson</a> while preparing <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun</a>'s <a href="/wiki/Reference_implementation" title="Reference implementation">reference</a> <a href="/wiki/JavaServer_Pages" title="JavaServer Pages">JSP</a>/<a href="/wiki/Servlet" title="Servlet" class="mw-redirect">Servlet</a> engine, later <a href="/wiki/Apache_Tomcat" title="Apache Tomcat">Apache Tomcat</a>, for release as <a href="/wiki/Open_source" title="Open source">open source</a>. A <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary</a> version of <i>make</i> was used to build it on the <a href="/wiki/Solaris_Operating_Environment" title="Solaris Operating Environment" class="mw-redirect">Solaris Operating Environment</a>, but in the open source world there was no way of controlling which platform was used to build Tomcat; so Ant was created as a simple platform-independent tool to build Tomcat from directives in an XML "build file". Ant (version 1.1) was officially released as a stand-alone product on July 19, 2000.</p>
+<p>Several proposals for an Ant version 2 have been made, such as AntEater by <a href="/wiki/James_Duncan_Davidson" title="James Duncan Davidson">James Duncan Davidson</a>, Myrmidon by <a href="/w/index.php?title=Peter_Donald_(programmer)&amp;action=edit&amp;redlink=1" class="new" title="Peter Donald (programmer) (page does not exist)">Peter Donald</a> and Mutant by <a href="/w/index.php?title=Conor_MacNeill_(programmer)&amp;action=edit&amp;redlink=1" class="new" title="Conor MacNeill (programmer) (page does not exist)">Conor MacNeill</a>, none of which were able to find large acceptance with the developer community.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>At one time (2002), Ant was the build tool used by most Java development projects.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> For example, most <a href="/wiki/Open_source" title="Open source">open source</a> Java developers include build.xml files with their distribution.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>]</sup></p>
+<p>Because Ant made it trivial to integrate <a href="/wiki/JUnit" title="JUnit">JUnit</a> tests with the build process, Ant made it easy for willing developers to adopt <a href="/wiki/Test-driven_development" title="Test-driven development">test-driven development</a>, and even <a href="/wiki/Extreme_Programming" title="Extreme Programming" class="mw-redirect">Extreme Programming</a>.</p>
+<h2><span class="mw-headline" id="Extensions">Extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=2" title="Edit section: Extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>WOProject-Ant<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> is just one of many examples of a <i>task</i> extension written for Ant. These extensions are put to use by copying their jar files into ant's <i>lib</i> directory. Once this is done, these extension tasks can be invoked directly in the typical <i>build.xml</i> file. The WOProject extensions allow <a href="/wiki/WebObjects" title="WebObjects">WebObjects</a> developers to use ant in building their frameworks and applications, instead of using <a href="/wiki/Apple_Computer" title="Apple Computer" class="mw-redirect">Apple's</a> <a href="/wiki/Xcode" title="Xcode">Xcode</a> suite.</p>
+<p>Antcontrib<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> provides a collection of tasks such as conditional statements and operations on properties as well as other useful tasks.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Ant-contrib.unkrig.de<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> implements tasks and types for networking, <a href="/wiki/Swing_(Java)" title="Swing (Java)">Swing</a> user interfaces, <a href="/wiki/JSON" title="JSON">JSON</a> processing and other.</p>
+<p>Other task extensions exist for <a href="/wiki/Perforce" title="Perforce">Perforce</a>, <a href="/wiki/Microsoft_.NET" title="Microsoft .NET" class="mw-redirect">.Net</a>, <a href="/wiki/EJB" title="EJB" class="mw-redirect">EJB</a>, and filesystem manipulations, just to name a few.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=3" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Below is listed a sample build.xml file for a simple Java "Hello, world" application. It defines four targets - clean, clobber, compile and jar, each of which has an associated description. The jar target lists the compile target as a dependency. This tells Ant that before it can start the jar target it must first complete the compile target.</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="cp">&lt;?xml version="1.0"?&gt;</span>
+<span class="nt">&lt;project</span> <span class="na">name=</span><span class="s">"Hello"</span> <span class="na">default=</span><span class="s">"compile"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;target</span> <span class="na">name=</span><span class="s">"clean"</span> <span class="na">description=</span><span class="s">"remove intermediate files"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;delete</span> <span class="na">dir=</span><span class="s">"classes"</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;/target&gt;</span>
+    <span class="nt">&lt;target</span> <span class="na">name=</span><span class="s">"clobber"</span> <span class="na">depends=</span><span class="s">"clean"</span> <span class="na">description=</span><span class="s">"remove all artifact files"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;delete</span> <span class="na">file=</span><span class="s">"hello.jar"</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;/target&gt;</span>
+    <span class="nt">&lt;target</span> <span class="na">name=</span><span class="s">"compile"</span> <span class="na">description=</span><span class="s">"compile the Java source code to class files"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;mkdir</span> <span class="na">dir=</span><span class="s">"classes"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;javac</span> <span class="na">srcdir=</span><span class="s">"."</span> <span class="na">destdir=</span><span class="s">"classes"</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;/target&gt;</span>
+    <span class="nt">&lt;target</span> <span class="na">name=</span><span class="s">"jar"</span> <span class="na">depends=</span><span class="s">"compile"</span> <span class="na">description=</span><span class="s">"create a Jar file for the application"</span><span class="nt">&gt;</span>
+        <span class="nt">&lt;jar</span> <span class="na">destfile=</span><span class="s">"hello.jar"</span><span class="nt">&gt;</span>
+            <span class="nt">&lt;fileset</span> <span class="na">dir=</span><span class="s">"classes"</span> <span class="na">includes=</span><span class="s">"**/*.class"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;manifest&gt;</span>
+                <span class="nt">&lt;attribute</span> <span class="na">name=</span><span class="s">"Main-Class"</span> <span class="na">value=</span><span class="s">"HelloProgram"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;/manifest&gt;</span>
+        <span class="nt">&lt;/jar&gt;</span>
+    <span class="nt">&lt;/target&gt;</span>
+<span class="nt">&lt;/project&gt;</span>
+</pre></div>
+<p>Within each target are the actions that Ant must take to build that target; these are performed using built-in tasks. For example, to build the compile target Ant must first create a directory called classes (which Ant will do only if it does not already exist) and then invoke the Java compiler. Therefore, the tasks used are mkdir and javac. These perform a similar task to the command-line utilities of the same name.</p>
+<p>Another task used in this example is named jar:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="nt">&lt;jar</span> <span class="na">destfile=</span><span class="s">"hello.jar"</span><span class="nt">&gt;</span>
+</pre></div>
+<p>This Ant task has the same name as the common Java command-line utility, JAR, but is really a call to the Ant program's built-in JAR/ZIP file support. This detail is not relevant to most end users, who just get the JAR they wanted, with the files they asked for.</p>
+<p>Many Ant tasks delegate their work to external programs, either native or Java. They use Ant's own &lt;exec&gt; and &lt;java&gt; tasks to set up the command lines, and handle all the details of mapping from information in the build file to the program's arguments and interpreting the return value. Users can see which tasks do this (e.g. &lt;cvs&gt;, &lt;signjar&gt;, &lt;chmod&gt;, &lt;rpm&gt;), by trying to execute the task on a system without the underlying program on the path, or without a full Java Development Kit (JDK) installed.</p>
+<h2><span class="mw-headline" id="Portability">Portability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=4" title="Edit section: Portability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One of the primary aims of Ant was to solve Make's portability problems. The first portability issue in a Makefile is that the actions required to create a target are specified as <a href="/wiki/Operating_system_shell" title="Operating system shell" class="mw-redirect">shell</a> commands which are specific to the <a href="/wiki/Platform_(computing)" title="Platform (computing)" class="mw-redirect">platform</a> on which Make runs. Different platforms require different shell commands. Ant solves this problem by providing a large amount of built-in functionality that is designed to behave the same on all platforms. For example, in the sample <code>build.xml</code> file above the <i>clean</i> target deletes the <code>classes</code> directory and everything in it. In a Makefile this would typically be done with the command:</p>
+<pre>
+rm -rf classes/
+</pre>
+<p><code><a href="/wiki/Rm_(Unix)" title="Rm (Unix)">rm</a></code> is a <a href="/wiki/Unix" title="Unix">Unix</a>-specific command unavailable in some other environments. <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, for example, would use:</p>
+<pre>
+rmdir /S /Q classes
+</pre>
+<p>In an Ant build file the same goal would be accomplished using a built-in command:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+ <span class="nt">&lt;delete</span> <span class="na">dir=</span><span class="s">"classes"</span><span class="nt">/&gt;</span>
+</pre></div>
+<p>A second portability issue is a result of the fact that the symbol used to delimit elements of file system directory path components differs from one platform to another. Unix uses a forward slash (/) to delimit components whereas Windows uses a backslash (\). Ant build files let authors choose their favorite convention: forward slash or backslash for directories; semicolon or colon for path separators. It converts each to the symbol appropriate to the platform on which it executes.</p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=5" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="Unbalanced scales.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/45px-Unbalanced_scales.svg.png" width="45" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/68px-Unbalanced_scales.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Unbalanced_scales.svg/90px-Unbalanced_scales.svg.png 2x" data-file-width="400" data-file-height="354" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <i>Criticism</i> or <i>Controversy</i> section <b>may compromise the article's <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a> of the subject</b>. <span class="hide-when-compact">Please <a href="/wiki/Wikipedia:Neutral_point_of_view#Article_structure" title="Wikipedia:Neutral point of view">integrate the section's contents</a> into the article as a whole, or rewrite the material.</span> <small><i>(September 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Apache_Ant&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(September 2011)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li>Ant build files, which are written in <a href="/wiki/XML" title="XML">XML</a>, can be complex and verbose. The complex structure (hierarchical, partly ordered, and pervasively cross-linked) of Ant documents can be a barrier to learning. The build files of large or complex projects can become unmanageably large. Good design and modularization of build files can improve readability but not necessarily reduce size. Other build tools, such as <a href="/wiki/Gradle" title="Gradle">Gradle</a> or <a href="/wiki/Apache_Maven" title="Apache Maven">Maven</a>, use more concise scripts at the expense of generality and flexibility.</li>
+<li>Many of the older tasks—the core ones that are used every day, such as <tt>&lt;javac&gt;</tt>, <tt>&lt;exec&gt;</tt> and <tt>&lt;java&gt;</tt>—use default values for options that are not consistent with more recent versions of the tasks. Changing those defaults would break existing Ant scripts.</li>
+<li>When expanding properties in a string or text element, undefined properties are not raised as an error, but left as an unexpanded reference (e.g. <tt>${unassigned.property}</tt>).</li>
+<li>Ant has limited fault handling rules, and no persistence of state, so it cannot be used as a workflow tool for any workflow other than classic build and test processes.</li>
+<li><a href="/wiki/Lazy_evaluation" title="Lazy evaluation">Lazy property evaluation</a> is not supported. For instance, when working within an Antcontrib &lt;for&gt; loop, a property cannot be re-evaluated for a sub-value which may be part of the iteration. (Some third-party extensions facilitate a workaround; AntXtras flow-control tasksets do provide for cursor redefinition for loops.)</li>
+<li>In makefiles, any rule to create one file type from another can be written inline within the makefile. For example, you may transform a document into some other format by using rules to execute another tool. Creating a similar task in Ant is more complex: a separate task must be written in Java and included with the Ant build file in order to handle the same type of functionality. However, this separation can enhance the readability of the Ant script by hiding some of the details of how a task is executed on different platforms.</li>
+</ul>
+<p>There exists a myriad of third-party Ant extensions (called <i>antlibs</i>) that provide much of the missing functionality. Also, the Eclipse <a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a> can build and execute Ant scripts, while the <a href="/wiki/NetBeans" title="NetBeans">NetBeans</a> IDE uses Ant for its internal build system. As both these IDEs are very popular development platforms, they can simplify Ant use significantly. (As a bonus, Ant scripts generated by NetBeans can be used outside that IDE as standalone scripts.)</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Build_automation" title="Build automation">Build automation</a></li>
+<li><a href="/wiki/Apache_Maven" title="Apache Maven">Maven</a>, a project management and build automation tool primarily for Java.</li>
+<li><a href="/wiki/Apache_Jelly" title="Apache Jelly">Apache Jelly</a>, a tool for turning XML into executable code.</li>
+<li><a href="/wiki/Nant" title="Nant" class="mw-redirect">Nant</a>, Ant-like tool targeted at the .NET environment rather than Java.</li>
+<li><a href="/wiki/Apache_Ivy" title="Apache Ivy">Ivy</a>, a dependency manager which integrates tightly with Ant, subproject of Ant.</li>
+<li><a href="/wiki/Gradle" title="Gradle">Gradle</a>, a JVM build tool built with Groovy.</li>
+<li><a href="/wiki/List_of_build_automation_software" title="List of build automation software">List of build automation software</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Suereth, Joshua and Farwell, Matthew. <i><a rel="nofollow" class="external text" href="https://www.amazon.com/SBT-Action-simple-Scala-build/dp/1617291277/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1417974741&amp;sr=1-1&amp;keywords=sbt+in+action">SBT in Action</a></i>. Manning Publications. 2015. <a href="/wiki/Special:BookSources/9781617291272" class="internal mw-magiclink-isbn">ISBN 9781617291272</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ant.apache.org/faq.html#ant-name"><i>Why do you call it Ant?</i></a>, Apache Ant FAQ</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://codefeed.com/blog/?p=98">Conor MacNeill -- The Early History of Ant Development</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Java Tools for eXtreme Programming, Wiley, 2002: 76</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.objectstyle.org/confluence/display/WOL/WOProject-Ant">WOProject-Ant - WOProject / WOLips - Confluence</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ant-contrib.sourceforge.net">Ant-Contrib</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ant-contrib.sourceforge.net/tasks/tasks/index.html">Ant-Contrib Tasks</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ant-contrib.unkrig.de">ant-contrib.unkrig.de</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://ant.apache.org/manual/tasksoverview.html">Overview of Ant Tasks</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=8" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><span class="citation book">Loughran, Steve; Hatcher, Erik (July 12, 2007). <i>Ant in Action</i> (2nd ed.). <a href="/wiki/Manning_Publications" title="Manning Publications">Manning Publications</a>. p.&#160;600. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-932394-80-1" title="Special:BookSources/978-1-932394-80-1">978-1-932394-80-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Steve&amp;rft.au=Hatcher%2C+Erik&amp;rft.aulast=Loughran&amp;rft.au=Loughran%2C+Steve&amp;rft.btitle=Ant+in+Action&amp;rft.date=July+12%2C+2007&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-1-932394-80-1&amp;rft.pages=600&amp;rft.pub=Manning+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Holzner, Steven (April 13, 2005). <a rel="nofollow" class="external text" href="http://oreilly.com/catalog/9780596006099/"><i>Ant - The Definitive Guide</i></a> (2nd ed.). <a href="/wiki/O%27Reilly_Media" title="O'Reilly Media">O'Reilly Media</a>. p.&#160;334. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-596-00609-9" title="Special:BookSources/978-0-596-00609-9">978-0-596-00609-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Steven&amp;rft.au=Holzner%2C+Steven&amp;rft.aulast=Holzner&amp;rft.btitle=Ant+-+The+Definitive+Guide&amp;rft.date=April+13%2C+2005&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Foreilly.com%2Fcatalog%2F9780596006099%2F&amp;rft.isbn=978-0-596-00609-9&amp;rft.pages=334&amp;rft.pub=O%27Reilly+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Moodie, Matthew (November 16, 2005). <a rel="nofollow" class="external text" href="http://www.apress.com/book/view/9781590595596"><i>Pro Apache Ant</i></a> (1st ed.). <a href="/wiki/Apress" title="Apress">Apress</a>. p.&#160;360. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-59059-559-6" title="Special:BookSources/978-1-59059-559-6">978-1-59059-559-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Matthew&amp;rft.aulast=Moodie&amp;rft.au=Moodie%2C+Matthew&amp;rft.btitle=Pro+Apache+Ant&amp;rft.date=November+16%2C+2005&amp;rft.edition=1st&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.apress.com%2Fbook%2Fview%2F9781590595596&amp;rft.isbn=978-1-59059-559-6&amp;rft.pages=360&amp;rft.pub=Apress&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Bell, Alexis T. (July 7, 2005). <a rel="nofollow" class="external text" href="http://www.virtualbookworm.com/mm5/merchant.mvc?Screen=PROD&amp;Store_Code=bookstore&amp;Product_Code=antjava"><i>ANT Java Notes: An Accelerated Intro Guide to the Java ANT Build Tool</i></a> (1st ed.). <a href="/w/index.php?title=Virtualbookworm.com_Publishing&amp;action=edit&amp;redlink=1" class="new" title="Virtualbookworm.com Publishing (page does not exist)">Virtualbookworm.com Publishing</a>. p.&#160;268. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58939-738-5" title="Special:BookSources/978-1-58939-738-5">978-1-58939-738-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.au=Bell%2C+Alexis+T.&amp;rft.aufirst=Alexis+T.&amp;rft.aulast=Bell&amp;rft.btitle=ANT+Java+Notes%3A+An+Accelerated+Intro+Guide+to+the+Java+ANT+Build+Tool&amp;rft.date=July+7%2C+2005&amp;rft.edition=1st&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.virtualbookworm.com%2Fmm5%2Fmerchant.mvc%3FScreen%3DPROD%26Store_Code%3Dbookstore%26Product_Code%3Dantjava&amp;rft.isbn=978-1-58939-738-5&amp;rft.pages=268&amp;rft.pub=Virtualbookworm.com+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Hatcher, Erik; Loughran, Steve (August 2002). <i>Java Development with Ant</i> (1st ed.). <a href="/wiki/Manning_Publications" title="Manning Publications">Manning Publications</a>. p.&#160;672. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-930110-58-8" title="Special:BookSources/978-1-930110-58-8">978-1-930110-58-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Erik&amp;rft.au=Hatcher%2C+Erik&amp;rft.aulast=Hatcher&amp;rft.au=Loughran%2C+Steve&amp;rft.btitle=Java+Development+with+Ant&amp;rft.date=August+2002&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=978-1-930110-58-8&amp;rft.pages=672&amp;rft.pub=Manning+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Niemeyer, Glenn; Poteet, Jeremy (May 29, 2003). <a rel="nofollow" class="external text" href="http://www.informit.com/store/product.aspx?isbn=0672325624"><i>Extreme Programming with Ant: Building and Deploying Java Applications with JSP, EJB, XSLT, XDoclet, and JUnit</i></a> (1st ed.). <a href="/wiki/SAMS_Publishing" title="SAMS Publishing">SAMS Publishing</a>. p.&#160;456. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-672-32562-5" title="Special:BookSources/978-0-672-32562-5">978-0-672-32562-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Glenn&amp;rft.aulast=Niemeyer&amp;rft.au=Niemeyer%2C+Glenn&amp;rft.au=Poteet%2C+Jeremy&amp;rft.btitle=Extreme+Programming+with+Ant%3A+Building+and+Deploying+Java+Applications+with+JSP%2C+EJB%2C+XSLT%2C+XDoclet%2C+and+JUnit&amp;rft.date=May+29%2C+2003&amp;rft.edition=1st&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.informit.com%2Fstore%2Fproduct.aspx%3Fisbn%3D0672325624&amp;rft.isbn=978-0-672-32562-5&amp;rft.pages=456&amp;rft.pub=SAMS+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Williamson, Alan (November 1, 2002). <a rel="nofollow" class="external text" href="http://www.informit.com/store/product.aspx?isbn=0672324261"><i>Ant - Developer's Handbook</i></a> (1st ed.). <a href="/wiki/SAMS_Publishing" title="SAMS Publishing">SAMS Publishing</a>. p.&#160;456. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-672-32426-0" title="Special:BookSources/978-0-672-32426-0">978-0-672-32426-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Alan&amp;rft.aulast=Williamson&amp;rft.au=Williamson%2C+Alan&amp;rft.btitle=Ant+-+Developer%27s+Handbook&amp;rft.date=November+1%2C+2002&amp;rft.edition=1st&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.informit.com%2Fstore%2Fproduct.aspx%3Fisbn%3D0672324261&amp;rft.isbn=978-0-672-32426-0&amp;rft.pages=456&amp;rft.pub=SAMS+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Matzke, Bernd (September 2003). <a rel="nofollow" class="external text" href="http://www.powells.com/biblio?isbn=9781584502487"><i>ANT: The Java Build Tool In Practice</i></a> (1st ed.). <a href="/w/index.php?title=Charles_River_Media&amp;action=edit&amp;redlink=1" class="new" title="Charles River Media (page does not exist)">Charles River Media</a>. p.&#160;280. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58450-248-7" title="Special:BookSources/978-1-58450-248-7">978-1-58450-248-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AApache+Ant&amp;rft.aufirst=Bernd&amp;rft.aulast=Matzke&amp;rft.au=Matzke%2C+Bernd&amp;rft.btitle=ANT%3A+The+Java+Build+Tool+In+Practice&amp;rft.date=September+2003&amp;rft.edition=1st&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.powells.com%2Fbiblio%3Fisbn%3D9781584502487&amp;rft.isbn=978-1-58450-248-7&amp;rft.pages=280&amp;rft.pub=Charles+River+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Apache_Ant&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">Wikibooks has more on the topic of: <i><b><a href="//en.wikibooks.org/wiki/Special:Search/Apache_Ant" class="extiw" title="wikibooks:Special:Search/Apache Ant">Apache Ant</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://ant.apache.org">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://ant.apache.org/manual/">Apache Ant manual</a> (<a rel="nofollow" class="external text" href="https://ant.apache.org/manual/tasklist.html">tasks</a>, <a rel="nofollow" class="external text" href="https://ant.apache.org/manual/conceptstypeslist.html">types</a>).</li>
+<li><a rel="nofollow" class="external text" href="https://wiki.apache.org/ant/FrontPage">Apache Ant wiki</a>.</li>
+<li><a rel="nofollow" class="external text" href="https://code.google.com/p/winant/">WinAnt - Windows installer for Apache Ant</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.exubero.com/ant/antintro-s5.html">Introduction to Ant</a> (slide show).</li>
+<li><a rel="nofollow" class="external text" href="http://www.softwaresecretweapons.com/jspwiki/Wiki.jsp?page=LinguineMapsForApacheAnt">Linguine Maps visualization library will automatically produce easy to read diagrams from Ant build files.</a></li>
+<li><a rel="nofollow" class="external text" href="https://sourceforge.net/projects/antro">antro - a profiler for Ant scripts</a>.</li>
+<li><a href="//en.wikibooks.org/wiki/Programming:Apache_Ant" class="extiw" title="b:Programming:Apache Ant">Wiki Book on learning Apache Ant</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://ideoplex.com/focus/java#ant">Ant tutorial</a>.</li>
+<li><a rel="nofollow" class="external text" href="http://hbtechs.blogspot.com/2007/06/automation-using-innovative-tools.html">Ant Automation</a>, a good handy example of automation with Ant.</li>
+<li><a rel="nofollow" class="external text" href="http://visualdrugs.net/antrunner/">A simple Windows GUI for running Ant.</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Apache" title="Template:Apache"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Apache" title="Template talk:Apache"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Apache&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Apache_Software_Foundation" title="Apache Software Foundation">Apache Software Foundation</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Top level projects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_Abdera" title="Apache Abdera">Abdera</a></li>
+<li><a href="/wiki/Apache_Accumulo" title="Apache Accumulo">Accumulo</a></li>
+<li><a href="/wiki/Apache_ActiveMQ" title="Apache ActiveMQ">ActiveMQ</a></li>
+<li><strong class="selflink">Ant</strong></li>
+<li><a href="/wiki/Apache_Aries" title="Apache Aries">Aries</a></li>
+<li><a href="/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache HTTP Server</a></li>
+<li><a href="/wiki/Apache_Portable_Runtime" title="Apache Portable Runtime">APR</a></li>
+<li><a href="/wiki/Apache_Avro" title="Apache Avro">Avro</a></li>
+<li><a href="/wiki/Apache_Axis" title="Apache Axis">Axis</a></li>
+<li><a href="/wiki/Apache_Axis2" title="Apache Axis2">Axis2</a></li>
+<li><a href="/wiki/Apache_Bloodhound" title="Apache Bloodhound">Bloodhound</a></li>
+<li><a href="/wiki/Apache_Buildr" title="Apache Buildr">Buildr</a></li>
+<li><a href="/wiki/Apache_Camel" title="Apache Camel">Camel</a></li>
+<li><a href="/wiki/Apache_Cassandra" title="Apache Cassandra">Cassandra</a></li>
+<li><a href="/wiki/Apache_Cayenne" title="Apache Cayenne">Cayenne</a></li>
+<li><a href="/wiki/Apache_Chemistry" title="Apache Chemistry">Chemistry</a></li>
+<li><a href="/wiki/Apache_Click" title="Apache Click">Click</a></li>
+<li><a href="/wiki/Apache_CloudStack" title="Apache CloudStack">CloudStack</a></li>
+<li><a href="/wiki/Apache_Cocoon" title="Apache Cocoon">Cocoon</a></li>
+<li><a href="/wiki/Apache_Continuum" title="Apache Continuum">Continuum</a></li>
+<li><a href="/wiki/Apache_Cordova" title="Apache Cordova" class="mw-redirect">Cordova</a></li>
+<li><a href="/wiki/CouchDB" title="CouchDB">CouchDB</a></li>
+<li><a href="/wiki/CTAKES" title="CTAKES">cTAKES</a></li>
+<li><a href="/wiki/Apache_CXF" title="Apache CXF">CXF</a></li>
+<li><a href="/wiki/Deltacloud" title="Deltacloud">Deltacloud</a></li>
+<li><a href="/wiki/Apache_Derby" title="Apache Derby">Derby</a></li>
+<li><a href="/wiki/Apache_Directory_Server" title="Apache Directory Server" class="mw-redirect">Directory</a></li>
+<li><a href="/wiki/Apache_Empire-db" title="Apache Empire-db">Empire-db</a></li>
+<li><a href="/wiki/Apache_Felix" title="Apache Felix">Felix</a></li>
+<li><a href="/wiki/Apache_Flex" title="Apache Flex">Flex</a></li>
+<li><a href="/wiki/Apache_Forrest" title="Apache Forrest">Forrest</a></li>
+<li><a href="/wiki/Apache_Geronimo" title="Apache Geronimo">Geronimo</a></li>
+<li><a href="/wiki/Apache_Gora" title="Apache Gora">Gora</a></li>
+<li><a href="/wiki/Apache_Gump" title="Apache Gump">Gump</a></li>
+<li><a href="/wiki/Apache_Hadoop" title="Apache Hadoop">Hadoop</a></li>
+<li><a href="/wiki/Apache_Hama" title="Apache Hama">Hama</a></li>
+<li><a href="/wiki/Apache_HBase" title="Apache HBase">HBase</a></li>
+<li><a href="/wiki/Apache_Hive" title="Apache Hive">Hive</a></li>
+<li>Isis</li>
+<li><a href="/wiki/Apache_Jackrabbit" title="Apache Jackrabbit">Jackrabbit</a></li>
+<li><a href="/wiki/Apache_James" title="Apache James">James</a></li>
+<li><a href="/wiki/Apache_JMeter" title="Apache JMeter">JMeter</a></li>
+<li><a href="/wiki/Apache_Kafka" title="Apache Kafka">Kafka</a></li>
+<li><a href="/wiki/Apache_Lenya" title="Apache Lenya">Lenya</a></li>
+<li><a href="/wiki/Apache_Mahout" title="Apache Mahout">Mahout</a></li>
+<li><a href="/wiki/Apache_Marmotta" title="Apache Marmotta">Marmotta</a></li>
+<li><a href="/wiki/Apache_Maven" title="Apache Maven">Maven</a></li>
+<li><a href="/wiki/Apache_MINA" title="Apache MINA">MINA</a></li>
+<li><a href="/wiki/Mod_perl" title="Mod perl">mod_perl</a></li>
+<li><a href="/wiki/Apache_MyFaces" title="Apache MyFaces">MyFaces</a></li>
+<li><a href="/wiki/Apache_ODE" title="Apache ODE">ODE</a></li>
+<li><a href="/wiki/Apache_OFBiz" title="Apache OFBiz">OFBiz</a></li>
+<li><a href="/wiki/Apache_OpenEJB" title="Apache OpenEJB">OpenEJB</a></li>
+<li><a href="/wiki/Apache_OpenJPA" title="Apache OpenJPA">OpenJPA</a></li>
+<li><a href="/wiki/OpenNLP" title="OpenNLP">OpenNLP</a></li>
+<li><a href="/wiki/Apache_OpenOffice" title="Apache OpenOffice">OpenOffice</a></li>
+<li><a href="/wiki/Apache_PDFBox" title="Apache PDFBox">PDFBox</a></li>
+<li><a href="/wiki/Apache_Phoenix" title="Apache Phoenix">Phoenix</a></li>
+<li><a href="/wiki/Apache_POI" title="Apache POI">POI</a></li>
+<li><a href="/wiki/Apache_Pivot" title="Apache Pivot">Pivot</a></li>
+<li><a href="/wiki/Apache_Qpid" title="Apache Qpid">Qpid</a></li>
+<li><a href="/wiki/Apache_River" title="Apache River" class="mw-redirect">River</a></li>
+<li><a href="/wiki/Apache_Roller" title="Apache Roller">Roller</a></li>
+<li><a href="/wiki/Apache_Samza" title="Apache Samza">Samza</a></li>
+<li><a href="/wiki/Apache_ServiceMix" title="Apache ServiceMix">ServiceMix</a></li>
+<li><a href="/wiki/Apache_Shindig" title="Apache Shindig">Shindig</a></li>
+<li><a href="/wiki/Apache_Shiro" title="Apache Shiro">Shiro</a></li>
+<li><a href="/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="/wiki/Apache_Spark" title="Apache Spark">Spark</a></li>
+<li><a href="/wiki/Apache_Stanbol" title="Apache Stanbol">Stanbol</a></li>
+<li><a href="/wiki/Storm_(event_processor)" title="Storm (event processor)">Storm</a></li>
+<li><a href="/wiki/SpamAssassin" title="SpamAssassin">SpamAssassin</a></li>
+<li><a href="/wiki/Apache_Struts" title="Apache Struts">Struts</a></li>
+<li><a href="/wiki/Apache_Subversion" title="Apache Subversion">Subversion</a></li>
+<li><a href="/wiki/Sqoop" title="Sqoop">Sqoop</a></li>
+<li><a href="/w/index.php?title=Apache_Tajo&amp;action=edit&amp;redlink=1" class="new" title="Apache Tajo (page does not exist)">Tajo</a></li>
+<li><a href="/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="/w/index.php?title=Apache_Tcl&amp;action=edit&amp;redlink=1" class="new" title="Apache Tcl (page does not exist)">Tcl</a></li>
+<li><a href="/wiki/Apache_Thrift" title="Apache Thrift">Thrift</a></li>
+<li><a href="/wiki/Java_view_technologies_and_frameworks#Apache_Tiles" title="Java view technologies and frameworks">Tiles</a></li>
+<li><a href="/wiki/Apache_Tomcat" title="Apache Tomcat">Tomcat</a></li>
+<li><a href="/wiki/Traffic_Server" title="Traffic Server">Trafficserver</a></li>
+<li><a href="/wiki/Apache_Turbine" title="Apache Turbine" class="mw-redirect">Turbine</a></li>
+<li><a href="/wiki/Apache_Tuscany" title="Apache Tuscany">Tuscany</a></li>
+<li><a href="/wiki/UIMA" title="UIMA">UIMA</a></li>
+<li><a href="/wiki/Apache_Velocity" title="Apache Velocity">Velocity</a></li>
+<li><a href="/wiki/Apache_Wave" title="Apache Wave">Wave</a></li>
+<li><a href="/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="/wiki/Apache_Wink" title="Apache Wink">Wink</a></li>
+<li><a href="/wiki/Xalan" title="Xalan">Xalan</a></li>
+<li><a href="/wiki/Xerces" title="Xerces">Xerces</a></li>
+<li><a href="/wiki/XMLBeans" title="XMLBeans">XMLBeans</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="15" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:ASF-logo.svg" class="image" title="ASF logo"><img alt="ASF logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ASF-logo.svg/65px-ASF-logo.svg.png" width="65" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ASF-logo.svg/98px-ASF-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ASF-logo.svg/130px-ASF-logo.svg.png 2x" data-file-width="169" data-file-height="51" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Apache_Commons" title="Apache Commons">Commons Projects</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Byte_Code_Engineering_Library" title="Byte Code Engineering Library">BCEL</a></li>
+<li><a href="/wiki/Bean_Scripting_Framework" title="Bean Scripting Framework">BSF</a></li>
+<li><a href="/wiki/Commons_Daemon" title="Commons Daemon">Daemon</a></li>
+<li><a href="/wiki/Apache_Jelly" title="Apache Jelly">Jelly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Lucene" title="Lucene">Lucene Projects</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lucene" title="Lucene">Lucene Java</a></li>
+<li><a href="/wiki/Lucene.net" title="Lucene.net" class="mw-redirect">Lucene.Net</a></li>
+<li><a href="/wiki/Nutch" title="Nutch">Nutch</a></li>
+<li><a href="/wiki/Apache_Solr" title="Apache Solr">Solr</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hadoop" title="Hadoop" class="mw-redirect">Hadoop Projects</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HDFS" title="HDFS" class="mw-redirect">HDFS</a></li>
+<li><a href="/wiki/Apache_HBase" title="Apache HBase">HBase</a></li>
+<li><a href="/wiki/Apache_Hive" title="Apache Hive">Hive</a></li>
+<li><a href="/wiki/Apache_Pig" title="Apache Pig" class="mw-redirect">Pig</a></li>
+<li><a href="/wiki/Apache_Spark" title="Apache Spark">Spark</a></li>
+<li><a href="/wiki/Apache_ZooKeeper" title="Apache ZooKeeper">ZooKeeper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chainsaw_(log_file_viewer)" title="Chainsaw (log file viewer)">Chainsaw</a></li>
+<li><a href="/wiki/Batik_(software)" title="Batik (software)">Batik</a></li>
+<li><a href="/wiki/Formatting_Objects_Processor" title="Formatting Objects Processor">FOP</a></li>
+<li><a href="/wiki/Log4j" title="Log4j">Log4j</a></li>
+<li><a href="/wiki/Apache_XAP" title="Apache XAP">XAP</a></li>
+<li><a href="/wiki/Apache_log4net" title="Apache log4net" class="mw-redirect">Log4Net</a></li>
+<li><a href="/wiki/Apache_Ivy" title="Apache Ivy">Ivy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Apache_Incubator" title="Apache Incubator">Incubator Projects</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_XAP" title="Apache XAP">XAP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Apache_Attic" title="Apache Attic">Apache Attic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AxKit" title="AxKit">AxKit</a></li>
+<li><a href="/wiki/Apache_Beehive" title="Apache Beehive">Beehive</a></li>
+<li><a href="/wiki/BlueSky_Open_Platform" title="BlueSky Open Platform">Bluesky</a></li>
+<li><a href="/wiki/Jakarta_Cactus" title="Jakarta Cactus">Cactus</a></li>
+<li><a href="/wiki/Jakarta_Project" title="Jakarta Project">Jakarta</a></li>
+<li><a href="/wiki/Apache_Excalibur" title="Apache Excalibur">Excalibur</a></li>
+<li><a href="/wiki/Apache_Harmony" title="Apache Harmony">Harmony</a></li>
+<li><a href="/wiki/Apache_HiveMind" title="Apache HiveMind">HiveMind</a></li>
+<li><a href="/wiki/Jakarta_Slide" title="Jakarta Slide">Slide</a></li>
+<li><a href="/wiki/Apache_Shale" title="Apache Shale">Shale</a></li>
+<li><a href="/wiki/Apache_C%2B%2B_Standard_Library" title="Apache C++ Standard Library">stdcxx</a></li>
+<li><a href="/wiki/IBATIS" title="IBATIS">iBATIS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Licenses standards</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apache_License" title="Apache License">Apache License</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Apache_Software_Foundation" title="Category:Apache Software Foundation">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="//commons.wikimedia.org/wiki/Category:Apache_Software_Foundation" class="extiw" title="commons:Category:Apache Software Foundation">Commons</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/lccn-n2002-066009">WorldCat</a></li>
+<li><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/181177554">181177554</a></span></li>
+<li><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n2002066009">n2002066009</a></span></li>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4689797-5">4689797-5</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1134
+CPU time usage: 0.508 seconds
+Real time usage: 0.603 seconds
+Preprocessor visited node count: 1692/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 56426/2097152 bytes
+Template argument size: 1593/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 5/500
+Lua time usage: 0.181/10.000 seconds
+Lua memory usage: 3.42 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  432.364      1 - -total
+ 21.86%   94.503      1 - Template:Infobox_software
+ 20.68%   89.425      1 - Template:Infobox
+ 18.95%   81.946      8 - Template:Cite_book
+ 16.52%   71.441      1 - Template:More_footnotes
+ 13.48%   58.297      3 - Template:Ambox
+  8.14%   35.185      1 - Template:Apache
+  7.19%   31.092      1 - Template:Navbox
+  6.28%   27.133      1 - Template:Citation_needed
+  5.78%   24.999      1 - Template:Official_website
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:438891-0!*!0!!en!4!* and timestamp 20150710183224 and revision id 670864807
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Apache_Ant&amp;oldid=670864807">https://en.wikipedia.org/w/index.php?title=Apache_Ant&amp;oldid=670864807</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Apache_Software_Foundation" title="Category:Apache Software Foundation">Apache Software Foundation</a></li><li><a href="/wiki/Category:Free_software_programmed_in_Java_(programming_language)" title="Category:Free software programmed in Java (programming language)">Free software programmed in Java (programming language)</a></li><li><a href="/wiki/Category:Java_development_tools" title="Category:Java development tools">Java development tools</a></li><li><a href="/wiki/Category:Compiling_tools" title="Category:Compiling tools">Compiling tools</a></li><li><a href="/wiki/Category:XML_software" title="Category:XML software">XML software</a></li><li><a href="/wiki/Category:Build_automation" title="Category:Build automation">Build automation</a></li><li><a href="/wiki/Category:Java_(programming_language)_libraries" title="Category:Java (programming language) libraries">Java (programming language) libraries</a></li><li><a href="/wiki/Category:Cross-platform_software" title="Category:Cross-platform software">Cross-platform software</a></li><li><a href="/wiki/Category:Software_using_the_Apache_license" title="Category:Software using the Apache license">Software using the Apache license</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_August_2010" title="Category:Articles lacking in-text citations from August 2010">Articles lacking in-text citations from August 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li><li><a href="/wiki/Category:NPOV_disputes_from_September_2011" title="Category:NPOV disputes from September 2011">NPOV disputes from September 2011</a></li><li><a href="/wiki/Category:All_NPOV_disputes" title="Category:All NPOV disputes">All NPOV disputes</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_September_2011" title="Category:Articles that may contain original research from September 2011">Articles that may contain original research from September 2011</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Apache+Ant&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Apache+Ant" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Apache_Ant"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Apache_Ant"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Apache_Ant" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Apache_Ant&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Apache_Ant&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Apache_Ant" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Apache_Ant" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Apache_Ant&amp;oldid=670864807" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Apache_Ant&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q385970" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Apache_Ant&amp;id=670864807" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Apache+Ant">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Apache+Ant&amp;oldid=670864807&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Apache_Ant&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D8%A8%D8%A7%D8%AA%D8%B4%D9%8A_%D8%A3%D9%86%D8%AA" title="أباتشي أنت – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Ant" title="Ant – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%84%ED%8C%8C%EC%B9%98_%EC%95%A4%ED%8A%B8" title="아파치 앤트 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/Ant" title="Ant – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B4%BE%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B5%86_%E0%B4%86%E0%B4%A8%E0%B5%8D%E0%B4%B1%E0%B5%8D" title="അപ്പാച്ചെ ആന്റ് – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Ant" title="Ant – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF_%E0%AE%86%E0%AE%A9%E0%AF%8D%E0%AE%9F%E0%AF%8D" title="அப்பாச்சி ஆன்ட் – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Apache_Ant" title="Apache Ant – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q385970#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 July 2015, at 18:32.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Apache_Ant&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1103"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Attention bandits! - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Attention_bandits!" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Attention_bandits!&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Attention_bandits!&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Attention_bandits!" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Attention_bandits!" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Attention_bandits!","wgTitle":"Attention bandits!","wgCurRevisionId":576856193,"wgRevisionId":576856193,"wgArticleId":24641778,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1986 films","All film articles using the film date template","French-language films","French films","1987 films","Films directed by Claude Lelouch","All stub articles","1980s French film stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Attention_bandits!","wgRelevantArticleId":24641778,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/c/c2/Attention_bandits%21_FilmPoster.jpeg/69px-Attention_bandits%21_FilmPoster.jpeg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1962074"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Attention_bandits skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Attention bandits!</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="/wiki/Attention!_Bandits!" title="Attention! Bandits!">Attention! Bandits!</a>.</div>
+<table class="infobox vevent" style="width:22em;font-size:90%;">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:110%;font-style:italic;">Attention bandits!</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Attention_bandits!_FilmPoster.jpeg" class="image"><img alt="Attention bandits! FilmPoster.jpeg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c2/Attention_bandits%21_FilmPoster.jpeg/220px-Attention_bandits%21_FilmPoster.jpeg" width="220" height="316" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/c/c2/Attention_bandits%21_FilmPoster.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/c/c2/Attention_bandits%21_FilmPoster.jpeg 2x" data-file-width="300" data-file-height="431" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Directed by</th>
+<td style="line-height:1.3em;">Claude Lelouch</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Music by</th>
+<td style="line-height:1.3em;"><a href="/wiki/Francis_Lai" title="Francis Lai">Francis Lai</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Release dates</div>
+</th>
+<td style="line-height:1.3em;">
+<div class="plainlist">
+<ul>
+<li>1986<span style="display:none">&#160;(<span class="bday dtstart published updated">1986</span>)</span></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">
+<div style="padding:0.1em 0;line-height:1.2em;white-space:normal;">Running time</div>
+</th>
+<td style="line-height:1.3em;">104 minutes</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Country</th>
+<td style="line-height:1.3em;">France</td>
+</tr>
+<tr>
+<th scope="row" style="white-space:nowrap;padding-right:0.65em;">Language</th>
+<td style="line-height:1.3em;">French</td>
+</tr>
+</table>
+<p><i><b>Attention bandits!</b></i> is a 1986 film directed by <a href="/wiki/Claude_Lelouch" title="Claude Lelouch">Claude Lelouch</a>.</p>
+<h2><span class="mw-headline" id="Synopsis">Synopsis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attention_bandits!&amp;action=edit&amp;section=1" title="Edit section: Synopsis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A young criminal is framed. During a robbery, a woman is killed, and he is accused of the murder. Sentenced to 10 years in prison, he is after one thing: revenge.</p>
+<h2><span class="mw-headline" id="Starring">Starring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attention_bandits!&amp;action=edit&amp;section=2" title="Edit section: Starring">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Jean_Yanne" title="Jean Yanne">Jean Yanne</a>: <i>Simon Verini, dit l'Expert</i></li>
+<li><a href="/w/index.php?title=Marie-Sophie_L.&amp;action=edit&amp;redlink=1" class="new" title="Marie-Sophie L. (page does not exist)">Marie-Sophie L.</a>: <i>Marie-Sophie, dite la Princesse</i></li>
+<li><a href="/wiki/Patrick_Bruel" title="Patrick Bruel">Patrick Bruel</a>: <i>Julien Bastide, dit Mozart</i></li>
+<li><a href="/wiki/Charles_G%C3%A9rard" title="Charles Gérard">Charles Gérard</a>: <i>Tonton Charlot</i></li>
+<li><a href="/wiki/Corinne_Marchand" title="Corinne Marchand">Corinne Marchand</a>: <i>Manuchka</i></li>
+<li><a href="/w/index.php?title=H%C3%A9l%C3%A8ne_Surg%C3%A8re&amp;action=edit&amp;redlink=1" class="new" title="Hélène Surgère (page does not exist)">Hélène Surgère</a>: <i>La directrice de l'institution</i></li>
+<li><a href="/w/index.php?title=Edwige_Navarro&amp;action=edit&amp;redlink=1" class="new" title="Edwige Navarro (page does not exist)">Edwige Navarro</a>: <i>Marie-Sophie enfant</i></li>
+<li><a href="/wiki/Fran%C3%A7oise_Bette" title="Françoise Bette" class="mw-redirect">Françoise Bette</a></li>
+<li><a href="/w/index.php?title=Jean-Claude_Bourbault&amp;action=edit&amp;redlink=1" class="new" title="Jean-Claude Bourbault (page does not exist)">Jean-Claude Bourbault</a></li>
+<li><a href="/w/index.php?title=Christine_Barbelivien&amp;action=edit&amp;redlink=1" class="new" title="Christine Barbelivien (page does not exist)">Christine Barbelivien</a>: <i>Françoise Verini</i></li>
+<li><a href="/wiki/Jean-Michel_Dupuis" title="Jean-Michel Dupuis">Jean-Michel Dupuis</a></li>
+<li><a href="/w/index.php?title=Olivier_Cruveiller&amp;action=edit&amp;redlink=1" class="new" title="Olivier Cruveiller (page does not exist)">Olivier Cruveiller</a></li>
+<li><a href="/w/index.php?title=Xavier_Maly&amp;action=edit&amp;redlink=1" class="new" title="Xavier Maly (page does not exist)">Xavier Maly</a></li>
+<li><a href="/w/index.php?title=Anouchka&amp;action=edit&amp;redlink=1" class="new" title="Anouchka (page does not exist)">Anouchka</a></li>
+<li><a href="/w/index.php?title=Gunilla_Karlzen&amp;action=edit&amp;redlink=1" class="new" title="Gunilla Karlzen (page does not exist)">Gunilla Karlzen</a></li>
+<li><a href="/w/index.php?title=Herv%C3%A9_Favre&amp;action=edit&amp;redlink=1" class="new" title="Hervé Favre (page does not exist)">Hervé Favre</a>: <i>Le fiancé suisse</i></li>
+<li><a href="/wiki/Ginette_Garcin" title="Ginette Garcin">Ginette Garcin</a>: <i>La femme de chambre</i></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Attention_bandits!&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.imdb.com/title/tt0090671/"><i>Attention bandits!</i></a> at the <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Claude_Lelouch" title="Template:Claude Lelouch"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Claude_Lelouch" title="Template talk:Claude Lelouch"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Claude_Lelouch&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Films directed by <a href="/wiki/Claude_Lelouch" title="Claude Lelouch">Claude Lelouch</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;font-style:italic;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Le_propre_de_l%27homme" title="Le propre de l'homme">Le propre de l'homme</a></li>
+<li><a href="/wiki/In_the_Affirmative" title="In the Affirmative">In the Affirmative</a></li>
+<li><a href="/wiki/La_femme_spectacle" title="La femme spectacle">La femme spectacle</a></li>
+<li><a href="/wiki/24_heures_d%27amant" title="24 heures d'amant">24 heures d'amant</a></li>
+<li><a href="/wiki/Pour_Un_Maillot_Jaune" title="Pour Un Maillot Jaune">...pour un maillot jaune</a></li>
+<li><a href="/wiki/The_Grand_Moments" title="The Grand Moments">The Grand Moments</a></li>
+<li><a href="/wiki/Une_fille_et_des_fusils" title="Une fille et des fusils">Une fille et des fusils</a></li>
+<li><a href="/wiki/A_Man_and_a_Woman" title="A Man and a Woman">A Man and a Woman</a></li>
+<li><a href="/wiki/Live_for_Life" title="Live for Life">Live for Life</a></li>
+<li><a href="/wiki/13_jours_en_France" title="13 jours en France">13 jours en France</a></li>
+<li><a href="/wiki/Love_Is_a_Funny_Thing" title="Love Is a Funny Thing">Love Is a Funny Thing</a></li>
+<li><a href="/wiki/Life_Love_Death" title="Life Love Death">Life Love Death</a></li>
+<li><a href="/wiki/Le_Voyou" title="Le Voyou">Le voyou</a></li>
+<li><a href="/wiki/Smic_Smac_Smoc" title="Smic Smac Smoc">Smic Smac Smoc</a></li>
+<li><a href="/wiki/L%27aventure,_c%27est_l%27aventure" title="L'aventure, c'est l'aventure">L'aventure, c'est l'aventure</a></li>
+<li><a href="/wiki/La_bonne_ann%C3%A9e" title="La bonne année">La bonne année</a></li>
+<li><a href="/wiki/And_Now_My_Love" title="And Now My Love">And Now My Love</a></li>
+<li><a href="/w/index.php?title=Mariage_(film)&amp;action=edit&amp;redlink=1" class="new" title="Mariage (film) (page does not exist)">Mariage</a></li>
+<li><a href="/wiki/Le_Chat_et_la_souris" title="Le Chat et la souris">Cat and Mouse</a></li>
+<li><a href="/wiki/C%27%C3%A9tait_un_rendez-vous" title="C'était un rendez-vous">C'était un rendez-vous</a></li>
+<li><a href="/wiki/The_Good_and_the_Bad" title="The Good and the Bad">The Good and the Bad</a></li>
+<li><a href="/wiki/If_I_Had_to_Do_It_All_Over_Again" title="If I Had to Do It All Over Again">If I Had to Do It All Over Again</a></li>
+<li><a href="/wiki/Un_autre_homme,_une_autre_chance" title="Un autre homme, une autre chance" class="mw-redirect">Another Man, Another Chance</a></li>
+<li><a href="/wiki/Robert_et_Robert" title="Robert et Robert">Robert et Robert</a></li>
+<li><a href="/wiki/Us_Two_(film)" title="Us Two (film)">Us Two</a></li>
+<li><i><a href="/wiki/Les_Uns_et_les_Autres" title="Les Uns et les Autres">The Ones and the Others</a></i></li>
+<li><a href="/wiki/%C3%89dith_et_Marcel" title="Édith et Marcel">Edith and Marcel</a></li>
+<li><a href="/wiki/Viva_la_vie" title="Viva la vie">Long Live Life</a></li>
+<li><a href="/wiki/Partir,_revenir" title="Partir, revenir">Partir, revenir</a></li>
+<li><strong class="selflink">Attention bandits!</strong></li>
+<li><a href="/wiki/A_Man_and_a_Woman:_20_Years_Later" title="A Man and a Woman: 20 Years Later">A Man and a Woman: 20 Years Later</a></li>
+<li><a href="/wiki/Itin%C3%A9raire_d%27un_enfant_g%C3%A2t%C3%A9" title="Itinéraire d'un enfant gâté">Itinéraire d'un enfant gâté</a></li>
+<li><a href="/wiki/There_Were_Days..._and_Moons" title="There Were Days... and Moons">There Were Days... and Moons</a></li>
+<li><a href="/wiki/La_Belle_Histoire" title="La Belle Histoire">The Beautiful Story</a></li>
+<li><a href="/wiki/Tout_%C3%A7a..._pour_%C3%A7a_!" title="Tout ça... pour ça !">All That... for This?!</a></li>
+<li><a href="/wiki/Les_Mis%C3%A9rables_(1995_film)" title="Les Misérables (1995 film)">Les Misérables</a></li>
+<li><a href="/wiki/Men,_Women:_A_User%27s_Manual" title="Men, Women: A User's Manual">Men, Women: A User's Manual</a></li>
+<li><a href="/wiki/Chance_or_Coincidence" title="Chance or Coincidence">Chance or Coincidence</a></li>
+<li><a href="/wiki/One_4_All" title="One 4 All">One 4 All</a></li>
+<li><a href="/wiki/And_Now..._Ladies_and_Gentlemen" title="And Now... Ladies and Gentlemen">And Now... Ladies and Gentlemen</a></li>
+<li><a href="/wiki/Les_parisiens" title="Les parisiens">Les parisiens</a></li>
+<li><a href="/wiki/Le_courage_d%27aimer" title="Le courage d'aimer">Le courage d'aimer</a></li>
+<li><a href="/wiki/Roman_de_Gare" title="Roman de Gare">Crossed Tracks</a></li>
+<li><a href="/wiki/What_War_May_Bring" title="What War May Bring">What War May Bring</a></li>
+<li><a href="/w/index.php?title=D%27un_film_%C3%A0_l%27autre&amp;action=edit&amp;redlink=1" class="new" title="D'un film à l'autre (page does not exist)">D'un film à l'autre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:Francefilm.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francefilm.svg/29px-Francefilm.svg.png" width="29" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francefilm.svg/44px-Francefilm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Francefilm.svg/58px-Francefilm.svg.png 2x" data-file-width="512" data-file-height="528" /></a></td>
+<td><i>This article related to a French film of the 1980s is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Attention_bandits!&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:1980s-France-film-stub" title="Template:1980s-France-film-stub"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:1980s-France-film-stub" title="Template talk:1980s-France-film-stub"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:1980s-France-film-stub&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1236
+CPU time usage: 0.122 seconds
+Real time usage: 0.169 seconds
+Preprocessor visited node count: 538/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16714/2097152 bytes
+Template argument size: 814/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.032/10.000 seconds
+Lua memory usage: 1.37 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  119.674      1 - -total
+ 45.54%   54.498      1 - Template:Infobox_film
+ 42.00%   50.268      1 - Template:Infobox
+ 18.83%   22.534      1 - Template:Distinguish
+ 16.80%   20.106      1 - Template:Hatnote
+ 14.36%   17.185      1 - Template:IMDb_title
+ 11.97%   14.327      1 - Template:1980s-France-film-stub
+ 10.21%   12.222      1 - Template:Film_date
+  9.95%   11.912      1 - Template:Asbox
+  8.90%   10.646      1 - Template:Claude_Lelouch
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24641778-0!*!0!!*!4!* and timestamp 20150712051941 and revision id 576856193
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Attention_bandits!&amp;oldid=576856193">https://en.wikipedia.org/w/index.php?title=Attention_bandits!&amp;oldid=576856193</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1986_films" title="Category:1986 films">1986 films</a></li><li><a href="/wiki/Category:French-language_films" title="Category:French-language films">French-language films</a></li><li><a href="/wiki/Category:French_films" title="Category:French films">French films</a></li><li><a href="/wiki/Category:1987_films" title="Category:1987 films">1987 films</a></li><li><a href="/wiki/Category:Films_directed_by_Claude_Lelouch" title="Category:Films directed by Claude Lelouch">Films directed by Claude Lelouch</a></li><li><a href="/wiki/Category:1980s_French_film_stubs" title="Category:1980s French film stubs">1980s French film stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_film_articles_using_the_film_date_template" title="Category:All film articles using the film date template">All film articles using the film date template</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Attention+bandits%21&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Attention+bandits%21" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Attention_bandits!"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Attention_bandits!"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Attention_bandits!" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Attention_bandits!&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Attention_bandits!&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Attention_bandits!" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Attention_bandits!" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Attention_bandits!&amp;oldid=576856193" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Attention_bandits!&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1962074" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Attention_bandits%21&amp;id=576856193" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Attention+bandits%21">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Attention+bandits%21&amp;oldid=576856193&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Attention_bandits!&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Attention_bandits_!" title="Attention bandits ! – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Attention_bandits_!" title="Attention bandits ! – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Una_storia_dei_nostri_giorni" title="Una storia dei nostri giorni – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B4%D0%B8%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1986)" title="Бандит (фильм, 1986) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1962074#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 October 2013, at 13:26.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Attention_bandits!&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":265,"wgHostname":"mw1236"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>PowerPC e500 - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/PowerPC_e500" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=PowerPC_e500&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=PowerPC_e500&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/PowerPC_e500" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/PowerPC_e500" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"PowerPC_e500","wgTitle":"PowerPC e500","wgCurRevisionId":662372268,"wgRevisionId":662372268,"wgArticleId":10981835,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["PowerPC microprocessors","Freescale microprocessors"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"PowerPC_e500","wgRelevantArticleId":10981835,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7236216"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-PowerPC_e500 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">PowerPC e500</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Power_Architecture" title="Power Architecture">Power Architecture</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#DEDEDE">Made by Freescale</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>PowerPC e series (2006)
+<ul>
+<li><a href="/wiki/PowerPC_e200" title="PowerPC e200">e200</a></li>
+<li><a href="/wiki/PowerPC_e300" title="PowerPC e300">e300</a></li>
+<li><strong class="selflink">e500</strong></li>
+<li><a href="/wiki/PowerPC_e600" title="PowerPC e600">e600</a></li>
+<li><a href="/wiki/PowerPC_e5500" title="PowerPC e5500">e5500</a></li>
+<li><a href="/wiki/PowerPC_e6500" title="PowerPC e6500">e6500</a></li>
+</ul>
+</li>
+<li>Qor series (2008)
+<ul>
+<li><a href="/wiki/QorIQ" title="QorIQ">QorIQ</a></li>
+<li><a href="/wiki/Qorivva" title="Qorivva">Qorivva</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#DEDEDE">Made by IBM</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><i><a href="/wiki/IBM_POWER_Instruction_Set_Architecture" title="IBM POWER Instruction Set Architecture">POWER ISA</a></i> (1990)</li>
+<li><a href="/wiki/IBM_POWER_microprocessors" title="IBM POWER microprocessors">POWER</a> series (1990)
+<ul>
+<li><i><a href="/wiki/POWER1" title="POWER1">POWER1</a></i></li>
+<li><i><a href="/wiki/POWER2" title="POWER2">POWER2</a></i></li>
+<li><i><a href="/wiki/POWER3" title="POWER3">POWER3</a></i></li>
+<li><i><a href="/wiki/POWER4" title="POWER4">POWER4</a></i></li>
+<li><i><a href="/wiki/POWER5" title="POWER5">POWER5</a></i></li>
+<li><a href="/wiki/POWER6" title="POWER6">POWER6</a></li>
+<li><a href="/wiki/POWER7" title="POWER7">POWER7</a></li>
+<li><a href="/wiki/POWER8" title="POWER8">POWER8</a></li>
+</ul>
+</li>
+<li><a href="/wiki/PowerPC" title="PowerPC">PowerPC</a> series (1992)
+<ul>
+<li><i><a href="/wiki/PowerPC_600" title="PowerPC 600">6xx</a></i></li>
+<li><a href="/wiki/PowerPC_400" title="PowerPC 400">4xx</a></li>
+<li><a href="/wiki/PowerPC_7xx" title="PowerPC 7xx">7xx</a></li>
+<li><i><a href="/wiki/PowerPC_G4" title="PowerPC G4">74xx</a></i></li>
+<li><i><a href="/wiki/PowerPC_970" title="PowerPC 970">970</a></i></li>
+<li><a href="/wiki/PowerPC_A2" title="PowerPC A2">A2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/IBM_RS64" title="IBM RS64">RS64</a></i> (1996)</li>
+<li>RAD series (1997)
+<ul>
+<li><i><a href="/wiki/IBM_RAD6000" title="IBM RAD6000">RAD6000</a></i></li>
+<li><a href="/wiki/RAD750" title="RAD750">RAD750</a></li>
+<li><a href="/wiki/RAD5500" title="RAD5500">RAD5500</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#DEDEDE">IBM-Nintendo collaboration</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><i><a href="/wiki/Gekko_(microprocessor)" title="Gekko (microprocessor)">Gekko</a></i></li>
+<li><a href="/wiki/Broadway_(microprocessor)" title="Broadway (microprocessor)">Broadway</a></li>
+<li><a href="/wiki/Espresso_(microprocessor)" title="Espresso (microprocessor)">Espresso</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#DEDEDE">Other</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Titan_(microprocessor)" title="Titan (microprocessor)"><span style="color:#808080">Titan</span></a></li>
+<li><a href="/wiki/PWRficient" title="PWRficient">PWRficient</a></li>
+<li><a href="/wiki/Cell_(microprocessor)" title="Cell (microprocessor)">Cell</a></li>
+<li><a href="/wiki/Xenon_(processor)" title="Xenon (processor)">Xenon</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#DEDEDE">Related links</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/OpenPOWER_Foundation" title="OpenPOWER Foundation">OpenPOWER Foundation</a></li>
+<li><a href="/wiki/AIM_alliance" title="AIM alliance">AIM alliance</a></li>
+<li><a href="/wiki/Reduced_instruction_set_computing" title="Reduced instruction set computing">RISC</a></li>
+<li><a href="/wiki/Blue_Gene" title="Blue Gene">Blue Gene</a></li>
+<li><a href="/wiki/Power.org" title="Power.org">Power.org</a></li>
+<li><a href="/wiki/Power_Architecture_Platform_Reference" title="Power Architecture Platform Reference">PAPR</a></li>
+<li><a href="/wiki/PowerPC_Reference_Platform" title="PowerPC Reference Platform">PReP</a></li>
+<li><a href="/wiki/Common_Hardware_Reference_Platform" title="Common Hardware Reference Platform">CHRP</a></li>
+<li><a href="/wiki/AltiVec" title="AltiVec">AltiVec</a></li>
+<li><a href="/wiki/Category:Power_Architecture" title="Category:Power Architecture">more...</a></li>
+</ul>
+Cancelled represented by gray text, historic represented by italic text</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Power_Architecture" title="Template:Power Architecture"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Power_Architecture" title="Template talk:Power Architecture"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Power_Architecture&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>The <b>PowerPC e500</b> is a <a href="/wiki/32-bit" title="32-bit">32-bit</a> <a href="/wiki/Power_Architecture" title="Power Architecture">Power Architecture</a>-based <a href="/wiki/Microprocessor" title="Microprocessor">microprocessor</a> <a href="/wiki/Multi-core_(computing)" title="Multi-core (computing)" class="mw-redirect">core</a> from <a href="/wiki/Freescale_Semiconductor" title="Freescale Semiconductor">Freescale Semiconductor</a>. The core is compatible with the older PowerPC Book E specification as well as the <a href="/wiki/Power_Architecture#Power_ISA_v.2.03" title="Power Architecture">Power ISA v.2.03</a>. It has a dual issue, seven-stage <a href="/wiki/Instruction_pipeline" title="Instruction pipeline">pipeline</a> with <a href="/wiki/Floating_point_unit" title="Floating point unit" class="mw-redirect">FPUs</a> (from version 2 onwards), 32/32&#160;KiB data and instruction L1 <a href="/wiki/CPU_cache" title="CPU cache">caches</a> and 256, 512 or 1024&#160;KiB L2 frontside cache. Speeds range from 533&#160;MHz up to 1.5&#160;GHz, and the core is designed to be highly configurable and meet the specific needs of <a href="/wiki/Embedded_system" title="Embedded system">embedded</a> applications with features like <a href="/wiki/Multi-core_(computing)" title="Multi-core (computing)" class="mw-redirect">multi-core</a> operation interface for auxiliary application processing units (APU).</p>
+<p>e500 powers the high-performance <a href="/wiki/PowerQUICC#PowerQUICC_III" title="PowerQUICC">PowerQUICC III</a> <a href="/wiki/System_on_a_chip" title="System on a chip">system on a chip</a> (SoC) <a href="/wiki/Network_processor" title="Network processor">network processors</a> and they all share a common naming scheme, <i>MPC85xx</i>. Freescale's new <a href="/wiki/QorIQ" title="QorIQ">QorIQ</a> is the evolutionary step from PowerQUICC III and will also be based on e500 cores.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Versions"><span class="tocnumber">1</span> <span class="toctext">Versions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#e500v1"><span class="tocnumber">1.1</span> <span class="toctext">e500v1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#e500v2"><span class="tocnumber">1.2</span> <span class="toctext">e500v2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#e500mc"><span class="tocnumber">1.3</span> <span class="toctext">e500mc</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#PowerQUICC"><span class="tocnumber">2.1</span> <span class="toctext">PowerQUICC</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#QorIQ"><span class="tocnumber">2.2</span> <span class="toctext">QorIQ</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Versions">Versions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=1" title="Edit section: Versions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are three versions of the e500 core, namely the original <i>e500v1</i>, the <i>e500v2</i> and the <i>e500mc</i>.</p>
+<p>A 64-bit evolution of the e500mc core is called the <a href="/wiki/PowerPC_e5500" title="PowerPC e5500">e5500 core</a> and was introduced in 2010.</p>
+<h3><span class="mw-headline" id="e500v1">e500v1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=2" title="Edit section: e500v1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Support for the SPE (Signal Processing Engine) extensions. The integer register file is extended to a width of 64-bits. The non-SPE instructions only access and write to the low 32-bits. However the SIMD SPE instructions read and write from the full 64-bits. These extensions overlap with the string and <a href="/wiki/AltiVec" title="AltiVec">AltiVec</a> instructions.</li>
+<li>Support for SPESFP (Single Precision Embedded Scalar Floating Point). This is a new floating point unit that is distinct from the classic FPU, the latter of which is lacking in e500v1 and e500v2. SPESFP uses the integer register file. It is not completely IEEE754 compliant.</li>
+</ul>
+<h3><span class="mw-headline" id="e500v2">e500v2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=3" title="Edit section: e500v2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Key improvements in the e500v2 over the e500v1 include:</p>
+<ul>
+<li>Increase from 32-bit (4&#160;GiB) to 36-bit (64&#160;GiB) physical address space. This change means that e500v2-based devices often use a more advanced <a href="/wiki/Board_support_package" title="Board support package">board support package</a> (BSP) than e500v1-based devices, as various peripheral units have moved to physical addresses higher than 4&#160;GiB.</li>
+<li>Addition of 1&#160;GiB and 4&#160;GiB variable-page sizes</li>
+<li>Addition of DPESFP (double-precision embedded scalar floating point) support. Building on top of SPESFP, these instructions access both halves of the 64-bit integer register file.</li>
+<li>Doubling in size and associativity of the MMU's second-level 4K-page array (from 256-entry 2-way to 512-entry 4-way)</li>
+<li>Increase from 3 to 5 maximum outstanding data cache misses</li>
+<li>Addition of the Alternate Time Base for cycle-granularity timestamps</li>
+</ul>
+<h3><span class="mw-headline" id="e500mc">e500mc</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=4" title="Edit section: e500mc">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Freescale introduced the <i>e500mc</i> in the <a href="/wiki/QorIQ" title="QorIQ">QorIQ</a> family of chips in June 2008. The e500mc has the following features:</p>
+<ul>
+<li><a href="/wiki/Power_Architecture#Power_ISA_v.2.06" title="Power Architecture">PowerISA v.2.06</a>, which includes <a href="/wiki/Hypervisor" title="Hypervisor">hypervisor</a> and <a href="/wiki/Platform_virtualization" title="Platform virtualization" class="mw-redirect">virtualization</a> functionality for embedded platforms.</li>
+<li>The "classic" floating-point unit has been reinstated.</li>
+<li>SPE, SPESFP, and DPESFP are all removed, and the integer register file is back to 32 bits.</li>
+<li>Support anything from two to more than 32 cores (not necessarily the same type of cores) on a single chip.</li>
+<li>Supports the <i>CoreNet</i> communications fabric for connecting cores and datapath accelerators.</li>
+<li>e500mc cores have private L2 caches but typically share other facilities like L3 caches, memory controllers, application specific acceleration cores, I/O and such.</li>
+</ul>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=5" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="PowerQUICC">PowerQUICC</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=6" title="Edit section: PowerQUICC">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All <a href="/wiki/PowerQUICC" title="PowerQUICC">PowerQUICC</a> 85xx devices are based on e500v1 or e500v2 cores, most of them on the e500v2.</p>
+<h3><span class="mw-headline" id="QorIQ">QorIQ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=7" title="Edit section: QorIQ">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In June 2008 Freescale announced the <a href="/wiki/QorIQ" title="QorIQ">QorIQ</a> brand, microprocessors based on the e500 family of cores.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Power_Architecture" title="Power Architecture">Power Architecture</a></li>
+<li><a href="/wiki/PowerQUICC" title="PowerQUICC">PowerQUICC</a></li>
+<li><a href="/wiki/QorIQ" title="QorIQ">QorIQ</a></li>
+<li><a href="/wiki/PowerPC_e200" title="PowerPC e200">PowerPC e200</a></li>
+<li><a href="/wiki/PowerPC_e5500" title="PowerPC e5500">PowerPC e5500</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.freescale.com/powerquicc">Freescale's PowerQUICC page</a></li>
+<li><a rel="nofollow" class="external text" href="http://cache.freescale.com/files/32bit/doc/ref_manual/E500CORERM.pdf">Freescale's PowerPC e500 Core Family Reference Manual</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Motorola_processors" title="Template:Motorola processors"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Motorola_processors" title="Template talk:Motorola processors"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Motorola_processors&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/List_of_Freescale_products#Microprocessors" title="List of Freescale products">Motorola/Freescale processors</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Industrial Control Unit</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motorola_MC14500B" title="Motorola MC14500B">14500</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Motorola_6800_family" title="Motorola 6800 family">6800 family</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motorola_6800" title="Motorola 6800">6800</a></li>
+<li><a href="/wiki/Motorola_6809" title="Motorola 6809">6809</a>
+<ul>
+<li>see also: <a href="/wiki/Hitachi_6309" title="Hitachi 6309">Hitachi 6309</a></li>
+</ul>
+</li>
+<li><a href="/wiki/68HC11" title="68HC11" class="mw-redirect">68HC11</a></li>
+<li><a href="/wiki/68HC08" title="68HC08" class="mw-redirect">68HC08</a></li>
+<li><a href="/wiki/Motorola_68HC05" title="Motorola 68HC05">68HC05</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/68k" title="68k" class="mw-redirect">68000 family</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motorola_68000" title="Motorola 68000">68000</a></li>
+<li><a href="/wiki/Motorola_68008" title="Motorola 68008">68008</a></li>
+<li><a href="/wiki/Motorola_68010" title="Motorola 68010">68010</a></li>
+<li><a href="/wiki/Motorola_68012" title="Motorola 68012">68012</a></li>
+<li><a href="/wiki/Motorola_68020" title="Motorola 68020">68020</a></li>
+<li><a href="/wiki/Motorola_68030" title="Motorola 68030">68030</a></li>
+<li><a href="/wiki/Motorola_68040" title="Motorola 68040">68040</a></li>
+<li><a href="/wiki/Motorola_68060" title="Motorola 68060">68060</a></li>
+<li><a href="/wiki/Freescale_ColdFire" title="Freescale ColdFire">ColdFire</a></li>
+<li><a href="/wiki/Freescale_DragonBall" title="Freescale DragonBall">DragonBall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a> <a href="/wiki/68k" title="68k" class="mw-redirect">68k</a>-variants</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motorola_68EC000" title="Motorola 68EC000" class="mw-redirect">68EC000</a></li>
+<li><a href="/wiki/Motorola_68EC020" title="Motorola 68EC020" class="mw-redirect">68EC020</a></li>
+<li><a href="/wiki/Motorola_68EC030" title="Motorola 68EC030" class="mw-redirect">68EC030</a></li>
+<li><a href="/wiki/Motorola_68EC040" title="Motorola 68EC040" class="mw-redirect">68EC040</a></li>
+<li><a href="/wiki/Motorola_68LC040" title="Motorola 68LC040" class="mw-redirect">68LC040</a></li>
+<li><a href="/wiki/Motorola_68060#68EC060" title="Motorola 68060">68EC060</a></li>
+<li><a href="/wiki/Motorola_68060#68LC060" title="Motorola 68060">68LC060</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/88000" title="88000" class="mw-redirect">88000</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MC88100" title="MC88100">MC88100</a>
+<ul>
+<li><a href="/wiki/MC88110" title="MC88110">MC88110</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Floating-point" title="Floating-point" class="mw-redirect">Floating-point</a> <a href="/wiki/Coprocessor" title="Coprocessor">coprocessors</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motorola_68881" title="Motorola 68881">68881, 68882</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Memory_Management_Unit" title="Memory Management Unit" class="mw-redirect">Memory Management Unit</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Motorola_68451" title="Motorola 68451">68451</a></li>
+<li><a href="/wiki/Motorola_68851" title="Motorola 68851">68851</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/PowerPC" title="PowerPC">PowerPC family</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PowerPC_e200" title="PowerPC e200">PPC e200</a></li>
+<li><a href="/wiki/PowerPC_600" title="PowerPC 600">PPC 6xx</a>/<a href="/wiki/PowerPC_e300" title="PowerPC e300">e300</a></li>
+<li><a href="/wiki/PowerPC_7xx" title="PowerPC 7xx">PPC 7xx</a></li>
+<li><strong class="selflink">PPC e500</strong></li>
+<li><a href="/wiki/PowerPC_G4" title="PowerPC G4">PPC 74xx</a>/<a href="/wiki/PowerPC_e600" title="PowerPC e600">e600</a></li>
+<li><a href="/wiki/PowerPC_e5500" title="PowerPC e5500">PPC e5500</a></li>
+<li><a href="/wiki/PowerQUICC" title="PowerQUICC">PowerQUICC family</a></li>
+<li><a href="/wiki/QorIQ" title="QorIQ">QorIQ</a></li>
+<li><a href="/wiki/PowerPC_e6500" title="PowerPC e6500">PPC e6500</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Arm_architecture" title="Arm architecture" class="mw-redirect">ARM</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/I.MX" title="I.MX">i.MX</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1069
+CPU time usage: 0.085 seconds
+Real time usage: 0.109 seconds
+Preprocessor visited node count: 296/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23004/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.023/10.000 seconds
+Lua memory usage: 821 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   66.476      1 - -total
+ 60.43%   40.170      1 - Template:Power_Architecture
+ 54.39%   36.156      1 - Template:Sidebar
+ 33.73%   22.422      1 - Template:Motorola_processors
+ 24.94%   16.582      1 - Template:Navbox
+  5.28%    3.512      1 - Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10981835-0!*!0!!en!*!* and timestamp 20150627005012 and revision id 662372268
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PowerPC_e500&amp;oldid=662372268">https://en.wikipedia.org/w/index.php?title=PowerPC_e500&amp;oldid=662372268</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:PowerPC_microprocessors" title="Category:PowerPC microprocessors">PowerPC microprocessors</a></li><li><a href="/wiki/Category:Freescale_microprocessors" title="Category:Freescale microprocessors">Freescale microprocessors</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=PowerPC+e500&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=PowerPC+e500" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/PowerPC_e500"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:PowerPC_e500"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/PowerPC_e500" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=PowerPC_e500&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=PowerPC_e500&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/PowerPC_e500" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/PowerPC_e500" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=PowerPC_e500&amp;oldid=662372268" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=PowerPC_e500&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7236216" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=PowerPC_e500&amp;id=662372268" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=PowerPC+e500">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=PowerPC+e500&amp;oldid=662372268&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=PowerPC_e500&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/PowerPC_e500" title="PowerPC e500 – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7236216#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 May 2015, at 23:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=PowerPC_e500&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1097"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Zollinger–Ellison syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Zollinger%E2%80%93Ellison_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Zollinger%E2%80%93Ellison_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Zollinger%E2%80%93Ellison_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zollinger–Ellison_syndrome","wgTitle":"Zollinger–Ellison syndrome","wgCurRevisionId":668764405,"wgRevisionId":668764405,"wgArticleId":357810,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing more detailed references","Articles needing additional references from October 2007","All articles needing additional references","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from July 2013","Articles with unsourced statements from December 2014","Articles with unsourced statements from June 2014","Articles that use a Medicine navs subtemplate","Disorders of endocrine pancreas","Syndromes","Diseases of oesophagus, stomach and duodenum","Steatorrhea-related diseases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Zollinger–Ellison_syndrome","wgRelevantArticleId":357810,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/54/ZES_endo.jpg/100px-ZES_endo.jpg","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q218712"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Zollinger–Ellison_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Zollinger–Ellison syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(October 2007)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Zollinger–Ellison syndrome</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:ZES_endo.jpg" class="image"><img alt="ZES endo.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/ZES_endo.jpg/230px-ZES_endo.jpg" width="230" height="231" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/ZES_endo.jpg/345px-ZES_endo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/54/ZES_endo.jpg 2x" data-file-width="422" data-file-height="424" /></a>
+<div>Endoscopy image of multiple small <a href="/wiki/Peptic_ulcer" title="Peptic ulcer">ulcers</a> in the distal <a href="/wiki/Duodenum" title="Duodenum">duodenum</a> in a patient with Zollinger–Ellison syndrome</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/E16.4">E16.4</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=251.5">251.5</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/000325.htm">000325</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic2437.htm">med/2437</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic2472.htm#">ped/2472</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/zollinger-ellison-syndrome">Zollinger–Ellison syndrome</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D015043">D015043</a></td>
+</tr>
+</table>
+<p><b>Zollinger–Ellison Syndrome (ZES)</b> is caused by a non–<a href="/wiki/Beta_cell" title="Beta cell">beta islet cell</a> (<a href="/wiki/Islet_of_Langerhans" title="Islet of Langerhans" class="mw-redirect">islet of Langerhans</a>), <a href="/wiki/Gastrin" title="Gastrin">gastrin</a>-secreting tumor of the pancreas that stimulates the acid-secreting cells of the stomach (<a href="/wiki/Parietal_cells" title="Parietal cells" class="mw-redirect">parietal cells</a>) to maximal activity, with consequent gastrointestinal mucosal ulceration. ZES may occur sporadically or as part of an autosomal dominant familial syndrome called <a href="/wiki/Multiple_endocrine_neoplasia_type_1" title="Multiple endocrine neoplasia type 1">multiple endocrine neoplasia type 1</a> (MEN 1). The primary tumor is usually located in the <a href="/wiki/Pancreas" title="Pancreas">pancreas</a>, <a href="/wiki/Duodenum" title="Duodenum">duodenum</a> or abdominal <a href="/wiki/Lymph_node" title="Lymph node">lymph nodes</a>, but ectopic locations have also been described (e.g., <a href="/wiki/Heart" title="Heart">heart</a>, <a href="/wiki/Ovary" title="Ovary">ovary</a>, <a href="/wiki/Gallbladder" title="Gallbladder">gallbladder</a>, <a href="/wiki/Liver" title="Liver">liver</a>, <a href="/wiki/Kidney" title="Kidney">kidney</a>).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Pathophysiology"><span class="tocnumber">2</span> <span class="toctext">Pathophysiology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Treatment"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Footnotes"><span class="tocnumber">7</span> <span class="toctext">Footnotes</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Patients with Zollinger–Ellison syndrome may experience abdominal pain and <a href="/wiki/Diarrhea" title="Diarrhea">diarrhea</a>. The diagnosis is also suspected in patients without symptoms who have severe ulceration of the stomach and small bowel, especially if they fail to respond to treatment.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<ul>
+<li>Chronic diarrhea, including <a href="/wiki/Steatorrhea" title="Steatorrhea">steatorrhea</a> (fatty stools)</li>
+<li>Pain in the esophagus, especially between and after meals at night</li>
+<li>Nausea</li>
+<li>Wheezing</li>
+<li>Vomiting blood (digested blood)</li>
+<li>Malnourishment</li>
+<li>Loss of weight due to loss of appetite</li>
+</ul>
+<p><a href="/wiki/Gastrinoma" title="Gastrinoma">Gastrinomas</a> may occur as single tumors or as multiple, small tumors. About one-half to two-thirds of single gastrinomas are <a href="/wiki/Malignant" title="Malignant" class="mw-redirect">malignant</a> tumors that most commonly spread to the <a href="/wiki/Liver" title="Liver">liver</a> and <a href="/wiki/Lymph_node" title="Lymph node">lymph nodes</a> near the pancreas and small bowel. Nearly 25 percent of patients with gastrinomas have multiple tumors as part of a condition called <a href="/wiki/Multiple_endocrine_neoplasia" title="Multiple endocrine neoplasia">multiple endocrine neoplasia</a> type I (MEN I). MEN I patients have tumors in their <a href="/wiki/Pituitary_gland" title="Pituitary gland">pituitary gland</a> and <a href="/wiki/Parathyroid_gland" title="Parathyroid gland">parathyroid glands</a>, in addition to tumors of the pancreas.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Pathophysiology">Pathophysiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=2" title="Edit section: Pathophysiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Gastrin" title="Gastrin">Gastrin</a> works on the <a href="/wiki/Parietal_cell" title="Parietal cell">parietal cells</a> of <a href="/wiki/Gastric_glands" title="Gastric glands">gastric glands</a> causing them to <a href="/wiki/Hydrogen_potassium_ATPase" title="Hydrogen potassium ATPase">secrete</a> more <a href="/wiki/Hydrogen_ion" title="Hydrogen ion">hydrogen ions</a> into the stomach lumen. In addition, gastrin acts as a <a href="/wiki/Growth_factor" title="Growth factor">trophic factor</a> for parietal cells, causing parietal cell <a href="/wiki/Hyperplasia" title="Hyperplasia">hyperplasia</a>. Thus there is an increase in the number of acid-secreting cells, and each of these cells produces acid at a higher rate. The increase in acidity contributes to the development of multiple <a href="/wiki/Peptic_ulcer" title="Peptic ulcer">peptic ulcers</a> in the stomach and <a href="/wiki/Duodenum" title="Duodenum">duodenum</a> (first portion of the small bowel).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=3" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Clinical suspicion of Zollinger–Ellison syndrome may be aroused when the above symptoms prove resistant to treatment, when the symptoms are especially suggestive of the syndrome, or endoscopy is suggestive. The diagnosis of Zollinger–Ellison syndrome is made by several laboratory tests and imaging studies.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<ul>
+<li><a href="/wiki/Secretin" title="Secretin">Secretin</a> stimulation test, which measures evoked <a href="/wiki/Gastrin" title="Gastrin">gastrin</a> levels</li>
+<li>Fasting gastrin levels, on at least three separate occasions<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></li>
+<li><a href="/wiki/Gastric_acid" title="Gastric acid">Gastric acid</a> secretion and pH. Normal basal gastric acid secretion is less than 10 mEq/hour, while in Zollinger–Ellison syndrome it is usually more than 15 mEq/hour.<sup id="cite_ref-agabegi2nd192_3-0" class="reference"><a href="#cite_note-agabegi2nd192-3"><span>[</span>3<span>]</span></a></sup></li>
+<li>An increased level of <a href="/wiki/Chromogranin_A" title="Chromogranin A">chromogranin A</a> is a common marker of <a href="/wiki/Neuroendocrine_tumors" title="Neuroendocrine tumors" class="mw-redirect">neuroendocrine tumors</a></li>
+</ul>
+<p>In addition, the source of the increased gastrin production must be discovered. This is either done using <a href="/wiki/MRI" title="MRI" class="mw-redirect">MRI</a> or somatostatin receptor scintigraphy, the investigation of choice.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=4" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Proton_pump_inhibitor" title="Proton pump inhibitor" class="mw-redirect">Proton pump inhibitors</a> (<a href="/wiki/Omeprazole" title="Omeprazole">omeprazole</a>, and <a href="/wiki/Lansoprazole" title="Lansoprazole">lansoprazole</a>) and histamine <a href="/wiki/H2-receptor_antagonist" title="H2-receptor antagonist" class="mw-redirect">H2-receptor antagonists</a> (such as <a href="/wiki/Famotidine" title="Famotidine">famotidine</a> and <a href="/wiki/Ranitidine" title="Ranitidine">ranitidine</a>) are used to slow down acid secretion. PPI and H2 antagonist are relatively ineffective for pharmacologic treatment<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2014)">citation needed</span></a></i>]</sup>. <a href="/wiki/Octreotide" title="Octreotide">Octreotide</a> is the best drug for pharmacologic management.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2014)">citation needed</span></a></i>]</sup> Cure is only possible if the tumors are surgically removed, or treated with <a href="/wiki/Chemotherapy" title="Chemotherapy">chemotherapy</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sporadic reports of unusual cases of peptic ulceration in the presence of pancreatic tumors occurred prior to 1955, but R.M. Zollinger and E. H. Ellison, surgeons at <a href="/wiki/Ohio_State_University" title="Ohio State University">Ohio State University</a> first postulated a causal relationship between these findings. The <a href="/wiki/American_Surgical_Association" title="American Surgical Association">American Surgical Association</a> meeting in Philadelphia in April 1955 heard the first public description of the syndrome; Zollinger and Ellison subsequently published their findings in the <i>Annals of Surgery</i>.<sup id="cite_ref-pmid13259432_5-0" class="reference"><a href="#cite_note-pmid13259432-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://emedicine.medscape.com/article/183555-overview">Zollinger-Ellison Syndrome</a></i> at <a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.patient.co.uk/showdoc/40001304/">http://www.patient.co.uk/showdoc/40001304/</a><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required.">full citation needed</span></a></i>]</sup></span></li>
+<li id="cite_note-agabegi2nd192-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-agabegi2nd192_3-0">^</a></b></span> <span class="reference-text"><span class="citation book">Elizabeth D Agabegi; Agabegi, Steven S. (2008). <i>Step-Up to Medicine</i>. Step-Up. Hagerstwon, MD: Lippincott Williams &amp; Wilkins. p.&#160;192. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7817-7153-6" title="Special:BookSources/0-7817-7153-6">0-7817-7153-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZollinger%E2%80%93Ellison+syndrome&amp;rft.au=Elizabeth+D+Agabegi%3B+Agabegi%2C+Steven+S.&amp;rft.aulast=Elizabeth+D+Agabegi%3B+Agabegi%2C+Steven+S.&amp;rft.btitle=Step-Up+to+Medicine&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=0-7817-7153-6&amp;rft.pages=192&amp;rft.place=Hagerstwon%2C+MD&amp;rft.pub=Lippincott+Williams+%26+Wilkins&amp;rft.series=Step-Up&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Jensen RT (2004). "Gastrinomas: advances in diagnosis and management". <i>Neuroendocrinology</i>. 80 Suppl 1: 23–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1159%2F000080736">10.1159/000080736</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15477712">15477712</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZollinger%E2%80%93Ellison+syndrome&amp;rft.atitle=Gastrinomas%3A+advances+in+diagnosis+and+management&amp;rft.au=Jensen+RT&amp;rft.aulast=Jensen+RT&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1159%2F000080736&amp;rft_id=info%3Apmid%2F15477712&amp;rft.jtitle=Neuroendocrinology&amp;rft.pages=23-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=80+Suppl+1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid13259432-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid13259432_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Zollinger RM, Ellison EH (1955). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1465210">"Primary peptic ulcerations of the jejunum associated with islet cell tumors of the pancreas"</a>. <i>Ann. Surg.</i> <b>142</b> (4): 709–23; discussion, 724–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F00000658-195510000-00015">10.1097/00000658-195510000-00015</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1465210">1465210</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13259432">13259432</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AZollinger%E2%80%93Ellison+syndrome&amp;rft.atitle=Primary+peptic+ulcerations+of+the+jejunum+associated+with+islet+cell+tumors+of+the+pancreas&amp;rft.aulast=Zollinger+RM%2C+Ellison+EH&amp;rft.au=Zollinger+RM%2C+Ellison+EH&amp;rft.date=1955&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1465210&amp;rft_id=info%3Adoi%2F10.1097%2F00000658-195510000-00015&amp;rft_id=info%3Apmc%2F1465210&amp;rft_id=info%3Apmid%2F13259432&amp;rft.issue=4&amp;rft.jtitle=Ann.+Surg.&amp;rft.pages=709-23%3B+discussion%2C+724-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=142" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit&amp;section=7" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<p><br /></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Endocrine_pathology" title="Template:Endocrine pathology"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Endocrine_pathology" title="Template talk:Endocrine pathology"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Endocrine_pathology&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Diseases of the <a href="/wiki/Endocrinology" title="Endocrinology">endocrine</a> system (<a href="/wiki/ICD-10_Chapter_IV:_Endocrine,_nutritional_and_metabolic_diseases#E00.E2.80.93E35_.E2.80.93_Endocrine_diseases" title="ICD-10 Chapter IV: Endocrine, nutritional and metabolic diseases">E00–E35</a>, <a href="/wiki/List_of_ICD-9_codes_240%E2%80%93279:_endocrine,_nutritional_and_metabolic_diseases,_and_immunity_disorders#Disorders_of_thyroid_gland_.28240.E2.80.93246.29" title="List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders">240–259</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pancreatic_disease" title="Pancreatic disease">Pancreas</a>/<br />
+<a href="/wiki/Glucose_metabolism_disorder" title="Glucose metabolism disorder" class="mw-redirect">glucose<br />
+metabolism</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Hypofunction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Diabetes_mellitus" title="Diabetes mellitus">Diabetes mellitus</a></li>
+</ul>
+<ul>
+<li><i>types:</i>
+<ul>
+<li><a href="/wiki/Diabetes_mellitus_type_1" title="Diabetes mellitus type 1">type 1</a></li>
+<li><a href="/wiki/Diabetes_mellitus_type_2" title="Diabetes mellitus type 2">type 2</a></li>
+<li><a href="/wiki/Maturity_onset_diabetes_of_the_young" title="Maturity onset diabetes of the young">MODY</a> <a href="/wiki/MODY_1" title="MODY 1">1</a> <a href="/wiki/MODY_2" title="MODY 2">2</a> <a href="/wiki/MODY_3" title="MODY 3">3</a> <a href="/wiki/MODY_4" title="MODY 4">4</a> <a href="/wiki/MODY_5" title="MODY 5">5</a> <a href="/wiki/MODY_6" title="MODY 6">6</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Complications_of_diabetes_mellitus" title="Complications of diabetes mellitus">complications</a></i>
+<ul>
+<li><a href="/wiki/Diabetic_coma" title="Diabetic coma">coma</a></li>
+<li><a href="/wiki/Diabetic_angiopathy" title="Diabetic angiopathy">angiopathy</a></li>
+<li><a href="/wiki/Diabetic_ketoacidosis" title="Diabetic ketoacidosis">ketoacidosis</a></li>
+<li><a href="/wiki/Diabetic_nephropathy" title="Diabetic nephropathy">nephropathy</a></li>
+<li><a href="/wiki/Diabetic_neuropathy" title="Diabetic neuropathy">neuropathy</a></li>
+<li><a href="/wiki/Diabetic_retinopathy" title="Diabetic retinopathy">retinopathy</a></li>
+<li><a href="/wiki/Diabetic_cardiomyopathy" title="Diabetic cardiomyopathy">cardiomyopathy</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i>insulin receptor</i> (<a href="/wiki/Rabson%E2%80%93Mendenhall_syndrome" title="Rabson–Mendenhall syndrome">Rabson–Mendenhall syndrome</a>)</li>
+<li><a href="/wiki/Insulin_resistance" title="Insulin resistance">Insulin resistance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hyperfunction</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypoglycemia" title="Hypoglycemia">Hypoglycemia</a></li>
+<li><i><a href="/wiki/Beta_cell" title="Beta cell">beta cell</a></i> (<a href="/wiki/Hyperinsulinism" title="Hyperinsulinism">Hyperinsulinism</a>)</li>
+<li><i><a href="/wiki/G_cell" title="G cell">G cell</a></i> (<strong class="selflink">Zollinger–Ellison syndrome</strong>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypothalamic" title="Hypothalamic" class="mw-redirect">Hypothalamic</a>/<br />
+<a href="/wiki/Pituitary" title="Pituitary" class="mw-redirect">pituitary</a> axes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypothalamic_disease" title="Hypothalamic disease">Hypothalamus</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Gonadotropin" title="Gonadotropin">gonadotropin</a></i>
+<ul>
+<li><a href="/wiki/Kallmann_syndrome" title="Kallmann syndrome">Kallmann syndrome</a></li>
+<li><a href="/wiki/Adiposogenital_dystrophy" title="Adiposogenital dystrophy">Adiposogenital dystrophy</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Corticotropin-releasing_hormone" title="Corticotropin-releasing hormone">CRH</a></i> (<a href="/wiki/Adrenal_insufficiency" title="Adrenal insufficiency">Tertiary adrenal insufficiency</a>)</li>
+<li><i><a href="/wiki/Vasopressin" title="Vasopressin">vasopressin</a></i> (<a href="/wiki/Neurogenic_diabetes_insipidus" title="Neurogenic diabetes insipidus">Neurogenic diabetes insipidus</a>)</li>
+<li><i>general</i> (<a href="/wiki/Hypothalamic_hamartoma" title="Hypothalamic hamartoma" class="mw-redirect">Hypothalamic hamartoma</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pituitary_disease" title="Pituitary disease">Pituitary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hyperpituitarism" title="Hyperpituitarism">Hyperpituitarism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>anterior</i>
+<ul>
+<li><a href="/wiki/Acromegaly" title="Acromegaly">Acromegaly</a></li>
+<li><a href="/wiki/Hyperprolactinaemia" title="Hyperprolactinaemia">Hyperprolactinaemia</a></li>
+<li><a href="/wiki/Pituitary_ACTH_hypersecretion" title="Pituitary ACTH hypersecretion">Pituitary ACTH hypersecretion</a></li>
+</ul>
+</li>
+<li><i>posterior</i> (<a href="/wiki/Syndrome_of_inappropriate_antidiuretic_hormone" title="Syndrome of inappropriate antidiuretic hormone" class="mw-redirect">SIADH</a>)</li>
+<li><i>general</i> (<a href="/wiki/Nelson%27s_syndrome" title="Nelson's syndrome">Nelson's syndrome</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypopituitarism" title="Hypopituitarism">Hypopituitarism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>anterior</i>
+<ul>
+<li><a href="/wiki/Kallmann_syndrome" title="Kallmann syndrome">Kallmann syndrome</a></li>
+<li><a href="/wiki/Growth_hormone_deficiency" title="Growth hormone deficiency">Growth hormone deficiency</a></li>
+<li><a href="/wiki/Hypoprolactinemia" title="Hypoprolactinemia">Hypoprolactinemia</a></li>
+<li><a href="/wiki/Adrenocorticotropic_hormone_deficiency" title="Adrenocorticotropic hormone deficiency">ACTH deficiency</a>/<a href="/wiki/Adrenal_insufficiency" title="Adrenal insufficiency">Secondary adrenal insufficiency</a></li>
+<li><a href="/wiki/Gonadotropin-releasing_hormone_insensitivity" title="Gonadotropin-releasing hormone insensitivity">GnRH insensitivity</a></li>
+<li><a href="/wiki/Follicle-stimulating_hormone_insensitivity" title="Follicle-stimulating hormone insensitivity">FSH insensitivity</a></li>
+<li><a href="/wiki/Luteinizing_hormone_insensitivity" title="Luteinizing hormone insensitivity" class="mw-redirect">LH/hCG insensitivity</a></li>
+</ul>
+</li>
+<li><i>posterior</i> (<a href="/wiki/Neurogenic_diabetes_insipidus" title="Neurogenic diabetes insipidus">Neurogenic</a> <a href="/wiki/Diabetes_insipidus" title="Diabetes insipidus">diabetes insipidus</a>)</li>
+<li><i>general</i>
+<ul>
+<li><a href="/wiki/Empty_sella_syndrome" title="Empty sella syndrome">Empty sella syndrome</a></li>
+<li><a href="/wiki/Pituitary_apoplexy" title="Pituitary apoplexy">Pituitary apoplexy</a></li>
+<li><a href="/wiki/Sheehan%27s_syndrome" title="Sheehan's syndrome">Sheehan's syndrome</a></li>
+<li><a href="/wiki/Lymphocytic_hypophysitis" title="Lymphocytic hypophysitis" class="mw-redirect">Lymphocytic hypophysitis</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thyroid_disease" title="Thyroid disease">Thyroid</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypothyroidism" title="Hypothyroidism">Hypothyroidism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Iodine_deficiency" title="Iodine deficiency">Iodine deficiency</a></li>
+<li><a href="/wiki/Cretinism" title="Cretinism">Cretinism</a>
+<ul>
+<li><a href="/wiki/Congenital_hypothyroidism" title="Congenital hypothyroidism">Congenital hypothyroidism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Myxedema" title="Myxedema">Myxedema</a></li>
+<li><a href="/wiki/Euthyroid_sick_syndrome" title="Euthyroid sick syndrome">Euthyroid sick syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hyperthyroidism" title="Hyperthyroidism">Hyperthyroidism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hyperthyroxinemia" title="Hyperthyroxinemia">Hyperthyroxinemia</a>
+<ul>
+<li><a href="/wiki/Thyroid_hormone_resistance" title="Thyroid hormone resistance">Thyroid hormone resistance</a></li>
+<li><a href="/wiki/Familial_dysalbuminemic_hyperthyroxinemia" title="Familial dysalbuminemic hyperthyroxinemia">Familial dysalbuminemic hyperthyroxinemia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hashitoxicosis" title="Hashitoxicosis">Hashitoxicosis</a></li>
+<li><a href="/wiki/Thyrotoxicosis_factitia" title="Thyrotoxicosis factitia">Thyrotoxicosis factitia</a></li>
+<li><a href="/wiki/Graves%27_disease" title="Graves' disease">Graves' disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thyroiditis" title="Thyroiditis">Thyroiditis</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acute_infectious_thyroiditis" title="Acute infectious thyroiditis">Acute infectious</a></li>
+<li><a href="/wiki/Subacute_thyroiditis" title="Subacute thyroiditis">Subacute</a>
+<ul>
+<li><a href="/wiki/De_Quervain%27s_thyroiditis" title="De Quervain's thyroiditis">De Quervain's</a></li>
+<li><a href="/wiki/Subacute_lymphocytic_thyroiditis" title="Subacute lymphocytic thyroiditis">Subacute lymphocytic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Autoimmune_thyroiditis" title="Autoimmune thyroiditis">Autoimmune</a>/chronic
+<ul>
+<li><a href="/wiki/Hashimoto%27s_thyroiditis" title="Hashimoto's thyroiditis">Hashimoto's</a></li>
+<li><a href="/wiki/Postpartum_thyroiditis" title="Postpartum thyroiditis">Postpartum</a></li>
+<li><a href="/wiki/Riedel%27s_thyroiditis" title="Riedel's thyroiditis">Riedel's</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Goitre" title="Goitre">Goitre</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Endemic_goitre" title="Endemic goitre">Endemic goitre</a></li>
+<li><a href="/wiki/Toxic_nodular_goitre" title="Toxic nodular goitre" class="mw-redirect">Toxic nodular goitre</a></li>
+<li><a href="/wiki/Toxic_multinodular_goiter" title="Toxic multinodular goiter" class="mw-redirect">Toxic multinodular goiter</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Thyroid_nodule" title="Thyroid nodule">Thyroid nodule</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Parathyroid_disease" title="Parathyroid disease">Parathyroid</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypoparathyroidism" title="Hypoparathyroidism">Hypoparathyroidism</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypoparathyroidism" title="Hypoparathyroidism">Hypoparathyroidism</a></li>
+<li><a href="/wiki/Pseudohypoparathyroidism" title="Pseudohypoparathyroidism">Pseudohypoparathyroidism</a></li>
+<li><a href="/wiki/Pseudopseudohypoparathyroidism" title="Pseudopseudohypoparathyroidism">Pseudopseudohypoparathyroidism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hyperparathyroidism" title="Hyperparathyroidism">Hyperparathyroidism</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Primary_hyperparathyroidism" title="Primary hyperparathyroidism">Primary</a></li>
+<li><a href="/wiki/Secondary_hyperparathyroidism" title="Secondary hyperparathyroidism">Secondary</a></li>
+<li><a href="/wiki/Tertiary_hyperparathyroidism" title="Tertiary hyperparathyroidism">Tertiary</a></li>
+<li><a href="/wiki/Osteitis_fibrosa_cystica" title="Osteitis fibrosa cystica">Osteitis fibrosa cystica</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Adrenal_gland_disorder" title="Adrenal gland disorder">Adrenal</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Adrenocortical_hyperfunction" title="Adrenocortical hyperfunction">Hyperfunction</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Aldosterone" title="Aldosterone">aldosterone</a>:</i> <a href="/wiki/Hyperaldosteronism" title="Hyperaldosteronism">Hyperaldosteronism</a>/<a href="/wiki/Primary_aldosteronism" title="Primary aldosteronism">Primary aldosteronism</a>
+<ul>
+<li><a href="/wiki/Conn_syndrome" title="Conn syndrome" class="mw-redirect">Conn syndrome</a></li>
+<li><a href="/wiki/Bartter_syndrome" title="Bartter syndrome">Bartter syndrome</a></li>
+<li><a href="/wiki/Glucocorticoid_remediable_aldosteronism" title="Glucocorticoid remediable aldosteronism">Glucocorticoid remediable aldosteronism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Apparent_mineralocorticoid_excess_syndrome" title="Apparent mineralocorticoid excess syndrome">AME</a></li>
+<li><a href="/wiki/Liddle%27s_syndrome" title="Liddle's syndrome">Liddle's syndrome</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_17_alpha-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 17 alpha-hydroxylase deficiency">17α CAH</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Cortisol" title="Cortisol">cortisol</a>:</i> <a href="/wiki/Cushing%27s_syndrome" title="Cushing's syndrome">Cushing's syndrome</a> (<a href="/wiki/Pseudo-Cushing%27s_syndrome" title="Pseudo-Cushing's syndrome">Pseudo-Cushing's syndrome</a>)</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Sex_hormone" title="Sex hormone" class="mw-redirect">sex hormones</a>:</i> <a href="/wiki/Congenital_adrenal_hyperplasia_due_to_21-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 21-hydroxylase deficiency">21α CAH</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_11%CE%B2-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 11β-hydroxylase deficiency">11β CAH</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hypofunction/<br />
+<a href="/wiki/Adrenal_insufficiency" title="Adrenal insufficiency">Adrenal insufficiency</a><br />
+(<a href="/wiki/Addison%27s_disease" title="Addison's disease">Addison's</a>, <a href="/wiki/Waterhouse-Friderichsen_syndrome" title="Waterhouse-Friderichsen syndrome" class="mw-redirect">WF</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>aldosterone:</i> <a href="/wiki/Hypoaldosteronism" title="Hypoaldosteronism">Hypoaldosteronism</a>
+<ul>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_21-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 21-hydroxylase deficiency">21α CAH</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_11%CE%B2-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 11β-hydroxylase deficiency">11β CAH</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i>cortisol:</i> <a href="/wiki/Congenital_adrenal_hyperplasia" title="Congenital adrenal hyperplasia">CAH</a>
+<ul>
+<li><a href="/wiki/Lipoid_congenital_adrenal_hyperplasia" title="Lipoid congenital adrenal hyperplasia">Lipoid</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_3_beta-hydroxysteroid_dehydrogenase_deficiency" title="Congenital adrenal hyperplasia due to 3 beta-hydroxysteroid dehydrogenase deficiency">3β</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_11%CE%B2-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 11β-hydroxylase deficiency">11β</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_17_alpha-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 17 alpha-hydroxylase deficiency">17α</a></li>
+<li><a href="/wiki/Congenital_adrenal_hyperplasia_due_to_21-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 21-hydroxylase deficiency">21α</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i>sex hormones:</i> <a href="/wiki/Congenital_adrenal_hyperplasia_due_to_17_alpha-hydroxylase_deficiency" title="Congenital adrenal hyperplasia due to 17 alpha-hydroxylase deficiency">17α CAH</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Gonadal_disorder" title="Gonadal disorder" class="mw-redirect">Gonads</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Ovarian_disease" title="Ovarian disease">ovarian</a>:</i> <a href="/wiki/Polycystic_ovary_syndrome" title="Polycystic ovary syndrome">Polycystic ovary syndrome</a></li>
+<li><a href="/wiki/Premature_ovarian_failure" title="Premature ovarian failure">Premature ovarian failure</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Testicular_disease" title="Testicular disease">testicular</a>: enzymatic</i>
+<ul>
+<li><a href="/wiki/5%CE%B1-reductase_deficiency" title="5α-reductase deficiency" class="mw-redirect">5α-reductase deficiency</a></li>
+<li><a href="/wiki/17%CE%B2-hydroxysteroid_dehydrogenase_deficiency" title="17β-hydroxysteroid dehydrogenase deficiency" class="mw-redirect">17β-hydroxysteroid dehydrogenase deficiency</a></li>
+<li><a href="/wiki/Aromatase_excess_syndrome" title="Aromatase excess syndrome">aromatase excess syndrome</a>)</li>
+</ul>
+</li>
+<li><i><a href="/wiki/Androgen_receptor" title="Androgen receptor">Androgen receptor</a></i> (<a href="/wiki/Androgen_insensitivity_syndrome" title="Androgen insensitivity syndrome">Androgen insensitivity syndrome</a>)</li>
+</ul>
+<ul>
+<li><i>general:</i> <a href="/wiki/Hypogonadism" title="Hypogonadism">Hypogonadism</a> (<a href="/wiki/Delayed_puberty" title="Delayed puberty">Delayed puberty</a>)</li>
+<li><a href="/wiki/Hypergonadism" title="Hypergonadism">Hypergonadism</a>
+<ul>
+<li><a href="/wiki/Precocious_puberty" title="Precocious puberty">Precocious puberty</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hypoandrogenism" title="Hypoandrogenism" class="mw-redirect">Hypoandrogenism</a></li>
+<li><a href="/wiki/Hypoestrogenism" title="Hypoestrogenism">Hypoestrogenism</a></li>
+<li><a href="/wiki/Hyperandrogenism" title="Hyperandrogenism">Hyperandrogenism</a></li>
+<li><a href="/wiki/Hyperestrogenism" title="Hyperestrogenism">Hyperestrogenism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Height</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dwarfism" title="Dwarfism">Dwarfism</a>/<a href="/wiki/Short_stature" title="Short stature">Short stature</a>
+<ul>
+<li><a href="/wiki/Midget" title="Midget">Midget</a></li>
+<li><a href="/wiki/Laron_syndrome" title="Laron syndrome">Laron syndrome</a></li>
+<li><a href="/wiki/Psychosocial_short_stature" title="Psychosocial short stature">Psychosocial</a></li>
+<li><a href="/wiki/Ateliosis" title="Ateliosis">Ateliosis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gigantism" title="Gigantism">Gigantism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Multiple</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Autoimmune_polyendocrine_syndrome_multiple&amp;action=edit&amp;redlink=1" class="new" title="Autoimmune polyendocrine syndrome multiple (page does not exist)">Autoimmune polyendocrine syndrome multiple</a>
+<ul>
+<li><a href="/wiki/Autoimmune_polyendocrine_syndrome_type_1" title="Autoimmune polyendocrine syndrome type 1">APS1</a></li>
+<li><a href="/wiki/Autoimmune_polyendocrine_syndrome_type_2" title="Autoimmune polyendocrine syndrome type 2">APS2</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Carcinoid_syndrome" title="Carcinoid syndrome">Carcinoid syndrome</a></li>
+<li><a href="/wiki/Multiple_endocrine_neoplasia" title="Multiple endocrine neoplasia">Multiple endocrine neoplasia</a>
+<ul>
+<li><a href="/wiki/Multiple_endocrine_neoplasia_type_1" title="Multiple endocrine neoplasia type 1">1</a></li>
+<li><a href="/wiki/Multiple_endocrine_neoplasia_type_2" title="Multiple endocrine neoplasia type 2">2A</a></li>
+<li><a href="/wiki/Multiple_endocrine_neoplasia_type_2b" title="Multiple endocrine neoplasia type 2b">2B</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Progeria" title="Progeria">Progeria</a>
+<ul>
+<li><a href="/wiki/Werner_syndrome" title="Werner syndrome">Werner syndrome</a></li>
+<li><a href="/wiki/Acrogeria" title="Acrogeria">Acrogeria</a></li>
+<li><a href="/wiki/Metageria" title="Metageria">Metageria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Woodhouse-Sakati_syndrome" title="Woodhouse-Sakati syndrome" class="mw-redirect">Woodhouse-Sakati syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Endocrine_navs" title="Template:Endocrine navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Endocrine_navs" title="Template talk:Endocrine navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Endocrine_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Endocrine_system" title="Endocrine system">hormones</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Endocrine_system_anatomy" title="Template:Endocrine system anatomy">Glands</a></li>
+<li><a href="/wiki/Template:Hormones" title="Template:Hormones">Hormones</a>
+<ul>
+<li>thyroid
+<ul>
+<li><i><a href="/wiki/Template:Thyroid_hormone_intermediates" title="Template:Thyroid hormone intermediates">intermediates</a></i></li>
+<li><i><a href="/wiki/Template:Thyroid_hormone_metabolism_enzymes_and_transporters" title="Template:Thyroid hormone metabolism enzymes and transporters">metabolism</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Mineralocorticoids" title="Template:Mineralocorticoids">mineralocorticoids</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Endocrinology_physiology" title="Template:Endocrinology physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Development_of_endocrine_system" title="Template:Development of endocrine system">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Diabetes" title="Template:Diabetes">Diabetes</a></li>
+<li><a href="/wiki/Template:Congenital_endocrine_disorders" title="Template:Congenital endocrine disorders">Congenital</a></li>
+<li><a href="/wiki/Template:Endocrine_gland_neoplasia" title="Template:Endocrine gland neoplasia">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Endocrine_pathology" title="Template:Endocrine pathology">Other</a></li>
+<li><a href="/wiki/Template:Symptoms_concerning_nutrition,_metabolism_and_development" title="Template:Symptoms concerning nutrition, metabolism and development">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_endocrinology,_nutrition,_and_metabolism" title="Template:Eponymous medical signs for endocrinology, nutrition, and metabolism">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Endocrine_system_procedures" title="Template:Endocrine system procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Calcium_homeostasis" title="Template:Calcium homeostasis">calcium balance</a></li>
+<li><a href="/wiki/Template:Corticosteroids" title="Template:Corticosteroids">corticosteroids</a></li>
+<li><a href="/wiki/Template:Oral_hypoglycemics_and_insulin_analogs" title="Template:Oral hypoglycemics and insulin analogs">oral hypoglycemics</a></li>
+<li><a href="/wiki/Template:Pituitary_and_hypothalamic_hormones_and_analogues" title="Template:Pituitary and hypothalamic hormones and analogues" class="mw-redirect">pituitary and hypothalamic</a></li>
+<li><a href="/wiki/Template:Thyroid_therapy" title="Template:Thyroid therapy">thyroid</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Paraneoplastic_syndromes" title="Template:Paraneoplastic syndromes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Paraneoplastic_syndromes" title="Template talk:Paraneoplastic syndromes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Paraneoplastic_syndromes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Paraneoplastic_syndrome" title="Paraneoplastic syndrome">Paraneoplastic syndromes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Endocrine_system" title="Endocrine system">Endocrine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypercalcaemia" title="Hypercalcaemia">Hypercalcaemia</a></li>
+<li><a href="/wiki/Syndrome_of_inappropriate_antidiuretic_hormone_secretion" title="Syndrome of inappropriate antidiuretic hormone secretion">SIADH</a></li>
+<li><strong class="selflink">Zollinger–Ellison syndrome</strong></li>
+<li><a href="/wiki/Cushing%27s_syndrome" title="Cushing's syndrome">Cushing's syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Blood" title="Blood">Hematological</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Granulocytosis" title="Granulocytosis">Granulocytosis</a></li>
+<li><a href="/wiki/Multicentric_reticulohistiocytosis" title="Multicentric reticulohistiocytosis">Multicentric reticulohistiocytosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Neurology" title="Neurology">Neurological</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paraneoplastic_cerebellar_degeneration" title="Paraneoplastic cerebellar degeneration">Paraneoplastic cerebellar degeneration</a></li>
+<li><a href="/wiki/Encephalomyelitis" title="Encephalomyelitis">Encephalomyelitis</a></li>
+<li><a href="/wiki/Limbic_encephalitis" title="Limbic encephalitis">Limbic encephalitis</a></li>
+<li><a href="/wiki/Opsoclonus" title="Opsoclonus">Opsoclonus</a></li>
+<li><a href="/wiki/Polymyositis" title="Polymyositis">Polymyositis</a></li>
+<li><a href="/wiki/Transverse_myelitis" title="Transverse myelitis">Transverse myelitis</a></li>
+<li><a href="/wiki/Lambert%E2%80%93Eaton_myasthenic_syndrome" title="Lambert–Eaton myasthenic syndrome">Lambert–Eaton myasthenic syndrome</a></li>
+<li><a href="/wiki/Anti-NMDA_receptor_encephalitis" title="Anti-NMDA receptor encephalitis">Anti-NMDA receptor encephalitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Human_musculoskeletal_system" title="Human musculoskeletal system">Musculoskeletal</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dermatomyositis" title="Dermatomyositis">Dermatomyositis</a></li>
+<li><a href="/wiki/Hypertrophic_osteopathy" title="Hypertrophic osteopathy">Hypertrophic osteopathy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mucocutaneous_zone" title="Mucocutaneous zone">Mucocutaneous</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">reactive <a href="/wiki/Erythema" title="Erythema">erythema</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erythema_gyratum_repens" title="Erythema gyratum repens">Erythema gyratum repens</a></li>
+<li><a href="/wiki/Necrolytic_migratory_erythema" title="Necrolytic migratory erythema">Necrolytic migratory erythema</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Papulosquamous_disorder" title="Papulosquamous disorder">papulosquamous</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acanthosis_nigricans" title="Acanthosis nigricans">Acanthosis nigricans</a></li>
+<li><a href="/wiki/Ichthyosis_acquisita" title="Ichthyosis acquisita">Ichthyosis acquisita</a></li>
+<li><a href="/wiki/Acrokeratosis_paraneoplastica_of_Bazex" title="Acrokeratosis paraneoplastica of Bazex">Acrokeratosis paraneoplastica of Bazex</a></li>
+<li><a href="/wiki/Extramammary_Paget%27s_disease" title="Extramammary Paget's disease">Extramammary Paget's disease</a></li>
+<li><a href="/wiki/Florid_cutaneous_papillomatosis" title="Florid cutaneous papillomatosis">Florid cutaneous papillomatosis</a></li>
+<li><a href="/wiki/Leser%E2%80%93Tr%C3%A9lat_sign" title="Leser–Trélat sign">Leser-Trélat sign</a></li>
+<li><a href="/wiki/Pityriasis_rotunda" title="Pityriasis rotunda">Pityriasis rotunda</a></li>
+<li><a href="/wiki/Tripe_palms" title="Tripe palms">Tripe palms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Febrile_neutrophilic_dermatosis" title="Febrile neutrophilic dermatosis">Febrile neutrophilic dermatosis</a></li>
+<li><a href="/wiki/Pyoderma_gangrenosum" title="Pyoderma gangrenosum">Pyoderma gangrenosum</a></li>
+<li><a href="/wiki/Paraneoplastic_pemphigus" title="Paraneoplastic pemphigus">Paraneoplastic pemphigus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Neoplasia_navs" title="Template:Neoplasia navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Neoplasia_navs" title="Template talk:Neoplasia navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Neoplasia_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Neoplasm" title="Neoplasm">neoplasms</a> and <a href="/wiki/Cancer" title="Cancer">cancer</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Tumor_suppressor_genes_and_oncogenes" title="Template:Tumor suppressor genes and oncogenes">Tumor suppressing and oncogenes</a></li>
+<li><a href="/wiki/Template:Tumor_markers" title="Template:Tumor markers">Tumor markers</a></li>
+<li><a href="/wiki/Template:Carcinogen" title="Template:Carcinogen">Carcinogen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Tumors" title="Template:Tumors">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_oncology" title="Template:Eponymous medical signs for oncology">Symptoms and signs</a></li>
+<li><a href="/wiki/Template:Paraneoplastic_syndromes" title="Template:Paraneoplastic syndromes">Paraneoplastic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Radiation_oncology" title="Template:Radiation oncology">Radiotherapy</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Monoclonals_for_tumors" title="Template:Monoclonals for tumors">Immunotherapy</a></li>
+<li><a href="/wiki/Template:Intracellular_chemotherapeutic_agents" title="Template:Intracellular chemotherapeutic agents">intracellular chemotherapeutics</a></li>
+<li><a href="/wiki/Template:Extracellular_chemotherapeutic_agents" title="Template:Extracellular chemotherapeutic agents">extracellular chemotherapeutics</a></li>
+<li><a href="/wiki/Template:Detoxifying_agents_for_antineoplastic_treatment" title="Template:Detoxifying agents for antineoplastic treatment">adjuvant detoxification</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+CPU time usage: 0.302 seconds
+Real time usage: 0.383 seconds
+Preprocessor visited node count: 2160/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 152087/2097152 bytes
+Template argument size: 4080/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 3.11 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  277.643      1 - -total
+ 36.39%  101.025     11 - Template:Navbox
+ 21.59%   59.943      1 - Template:Infobox_disease
+ 18.69%   51.882      2 - Template:Reflist
+ 18.52%   51.413      1 - Template:Infobox
+ 17.97%   49.883      1 - Template:Refimprove
+ 16.57%   46.004      1 - Template:Endocrine_pathology
+ 12.91%   35.834      8 - Template:Fix
+ 12.13%   33.679      5 - Template:Citation_needed
+ 11.88%   32.995      1 - Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:357810-0!*!0!!en!4!* and timestamp 20150711024119 and revision id 668764405
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Zollinger–Ellison_syndrome&amp;oldid=668764405">https://en.wikipedia.org/w/index.php?title=Zollinger–Ellison_syndrome&amp;oldid=668764405</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Disorders_of_endocrine_pancreas" title="Category:Disorders of endocrine pancreas">Disorders of endocrine pancreas</a></li><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li><li><a href="/wiki/Category:Diseases_of_oesophagus,_stomach_and_duodenum" title="Category:Diseases of oesophagus, stomach and duodenum">Diseases of oesophagus, stomach and duodenum</a></li><li><a href="/wiki/Category:Steatorrhea-related_diseases" title="Category:Steatorrhea-related diseases">Steatorrhea-related diseases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2007" title="Category:Articles needing additional references from October 2007">Articles needing additional references from October 2007</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2014" title="Category:Articles with unsourced statements from December 2014">Articles with unsourced statements from December 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2014" title="Category:Articles with unsourced statements from June 2014">Articles with unsourced statements from June 2014</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Zollinger%E2%80%93Ellison+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Zollinger%E2%80%93Ellison+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Zollinger%E2%80%93Ellison_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Zollinger%E2%80%93Ellison_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Zollinger%E2%80%93Ellison_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Zollinger%E2%80%93Ellison_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Zollinger%E2%80%93Ellison_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;oldid=668764405" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q218712" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Zollinger%E2%80%93Ellison_syndrome&amp;id=668764405" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Zollinger%E2%80%93Ellison+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Zollinger%E2%80%93Ellison+syndrome&amp;oldid=668764405&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D8%B2%D9%88%D9%84%D9%8A%D9%86%D8%AC%D8%B1_%D8%A5%D9%8A%D9%84%D9%8A%D8%B3%D9%88%D9%86" title="متلازمة زولينجر إيليسون – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Zollinger-Ellison-Syndrom" title="Zollinger-Ellison-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-dv"><a href="//dv.wikipedia.org/wiki/%DE%92%DE%AE%DE%8D%DE%A8%DE%82%DE%B0%DE%96%DE%A6%DE%83_%DE%87%DE%AC%DE%8D%DE%A9%DE%90%DE%AC%DE%82%DE%B0_%DE%90%DE%A8%DE%82%DE%B0%DE%91%DE%B0%DE%83%DE%AF%DE%89%DE%B0" title="ޒޮލިންޖަރ އެލީސެން ސިންޑްރޯމް – Divehi" lang="dv" hreflang="dv">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Zollinger-Ellison" title="Síndrome de Zollinger-Ellison – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Zollinger-Ellison" title="Syndrome de Zollinger-Ellison – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Zollinger-Ellison" title="Sindrome di Zollinger-Ellison – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%9E%D7%95%D7%A0%D7%AA_%D7%96%D7%95%D7%9C%D7%99%D7%A0%D7%92%D7%A8_%D7%90%D7%9C%D7%99%D7%A1%D7%95%D7%9F" title="תסמונת זולינגר אליסון – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D1%80-%D0%95%D0%BB%D0%B8%D1%81%D0%BE%D0%BD%D0%BE%D0%B2_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC" title="Золингер-Елисонов синдром – Macedonian" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Syndroom_van_Zollinger-Ellison" title="Syndroom van Zollinger-Ellison – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Zollingera-Ellisona" title="Zespół Zollingera-Ellisona – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Zollinger-Ellison" title="Síndrome de Zollinger-Ellison – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%97%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%AD%D0%BB%D0%BB%D0%B8%D1%81%D0%BE%D0%BD%D0%B0" title="Синдром Золлингера — Эллисона – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Zollinger-Ellisons_syndrom" title="Zollinger-Ellisons syndrom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%82%E0%B8%8B%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B9%80%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%99" title="กลุ่มอาการโซลลิงเจอร์-เอลลิสัน – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Zollinger_Ellison_Sendromu" title="Zollinger Ellison Sendromu – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%97%D0%BE%D0%BB%D0%BB%D1%96%D0%BD%D0%B3%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%95%D0%BB%D0%BB%D1%96%D1%81%D0%BE%D0%BD%D0%B0" title="Синдром Золлінгера — Еллісона – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q218712#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 June 2015, at 14:13.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Zollinger%E2%80%93Ellison_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1255"});
+}</script>
+	</body>
+</html>

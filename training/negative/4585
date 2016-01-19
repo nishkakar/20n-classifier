@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Projectively extended real line - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Projectively_extended_real_line" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Projectively_extended_real_line" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Projectively_extended_real_line" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Projectively_extended_real_line","wgTitle":"Projectively extended real line","wgCurRevisionId":666908334,"wgRevisionId":666908334,"wgArticleId":1014534,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be merged from April 2015","All articles to be merged","Articles lacking sources from December 2014","All articles lacking sources","Real analysis","Topological spaces","Projective geometry","Infinity"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Projectively_extended_real_line","wgRelevantArticleId":1014534,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Real_projective_line.svg/83px-Real_projective_line.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2558939"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Projectively_extended_real_line skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Projectively extended real line</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/50px-Merge-arrows.svg.png" width="50" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/75px-Merge-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/100px-Merge-arrows.svg.png 2x" data-file-width="50" data-file-height="20" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> with <i><a href="/wiki/Projective_line" title="Projective line">Projective_line</a></i>. (<a href="/wiki/Talk:Real_projective_line#Merger_proposal" title="Talk:Real projective line">Discuss</a>) <small><i>Proposed since April 2015.</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Projectively_extended_real_line&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2014)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Real_projective_line.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Real_projective_line.svg/220px-Real_projective_line.svg.png" width="220" height="265" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Real_projective_line.svg/330px-Real_projective_line.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Real_projective_line.svg/440px-Real_projective_line.svg.png 2x" data-file-width="374" data-file-height="451" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Real_projective_line.svg" class="internal" title="Enlarge"></a></div>
+The real projective line can be thought of as a line whose endpoints meet at infinity.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Real_analysis" title="Real analysis">real analysis</a>, the <b>projectively extended real line</b> (also called the <a href="/wiki/One-point_compactification" title="One-point compactification" class="mw-redirect">one-point compactification</a> of the <a href="/wiki/Real_line" title="Real line">real line</a>, or simply <b>real projective line</b>), is the extension of the <a href="/wiki/Number_line" title="Number line">number line</a> by a point denoted <span class="texhtml">∞</span>. It is thus the set <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}\cup\{\infty\}" src="//upload.wikimedia.org/math/0/c/2/0c274578a6463685befb5e7f997b0b0d.png" /> (where <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}" src="//upload.wikimedia.org/math/6/9/a/69a45f1e602cd2b2c2e67e41811fd226.png" /> is the set of the <a href="/wiki/Real_number" title="Real number">real numbers</a>), sometimes denoted by <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}." src="//upload.wikimedia.org/math/1/3/b/13bd9b77289c8a9658938acda3607fdb.png" /> The added point is called the <a href="/wiki/Point_at_infinity" title="Point at infinity">point at infinity</a>, because it is considered as a neighbour of both <a href="/wiki/End_(topology)" title="End (topology)">ends</a> of the real line. More precisely, the point at infinity is the <a href="/wiki/Limit_(mathematics)" title="Limit (mathematics)">limit</a> of every sequence of real numbers whose absolute values are increasing and unbounded.</p>
+<p>The projectively extended real line may be identified with the <a href="/wiki/Projective_line" title="Projective line">projective line</a> over the reals in which three specific points (e.g. <span class="texhtml">0</span>, <span class="texhtml">1</span> and <span class="texhtml">∞</span>) have been chosen. The projectively extended real line must not be confused with the <a href="/wiki/Extended_real_number_line" title="Extended real number line">extended real number line</a>, in which <span class="texhtml">+∞</span> and <span class="texhtml">−∞</span> are distinct.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Dividing_by_zero"><span class="tocnumber">1</span> <span class="toctext">Dividing by zero</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Extensions_of_the_real_line"><span class="tocnumber">2</span> <span class="toctext">Extensions of the real line</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Order"><span class="tocnumber">3</span> <span class="toctext">Order</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Geometry"><span class="tocnumber">4</span> <span class="toctext">Geometry</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Arithmetic_operations"><span class="tocnumber">5</span> <span class="toctext">Arithmetic operations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Motivation_for_arithmetic_operations"><span class="tocnumber">5.1</span> <span class="toctext">Motivation for arithmetic operations</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Arithmetic_operations_that_are_defined"><span class="tocnumber">5.2</span> <span class="toctext">Arithmetic operations that are defined</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Arithmetic_operations_that_are_left_undefined"><span class="tocnumber">5.3</span> <span class="toctext">Arithmetic operations that are left undefined</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Algebraic_properties"><span class="tocnumber">6</span> <span class="toctext">Algebraic properties</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Intervals_and_topology"><span class="tocnumber">7</span> <span class="toctext">Intervals and topology</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Interval_arithmetic"><span class="tocnumber">8</span> <span class="toctext">Interval arithmetic</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Calculus"><span class="tocnumber">9</span> <span class="toctext">Calculus</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Neighbourhoods"><span class="tocnumber">9.1</span> <span class="toctext">Neighbourhoods</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Limits"><span class="tocnumber">9.2</span> <span class="toctext">Limits</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Basic_definitions_of_limits"><span class="tocnumber">9.2.1</span> <span class="toctext">Basic definitions of limits</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Comparison_with_limits_in"><span class="tocnumber">9.2.2</span> <span class="toctext">Comparison with limits in</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Extended_definition_of_limits"><span class="tocnumber">9.2.3</span> <span class="toctext">Extended definition of limits</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Continuity"><span class="tocnumber">9.3</span> <span class="toctext">Continuity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#As_a_projective_range"><span class="tocnumber">10</span> <span class="toctext">As a projective range</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Dividing_by_zero">Dividing by zero</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=1" title="Edit section: Dividing by zero">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Unlike most mathematical models of the intuitive concept of 'number', this structure allows <a href="/wiki/Division_by_zero" title="Division by zero">division by zero</a>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{a}{0} = \infty" src="//upload.wikimedia.org/math/7/d/7/7d704853832a68302110a579afd994bd.png" /></dd>
+</dl>
+<p>for nonzero <i>a</i>. In particular <span class="texhtml">1/0 = ∞</span>, and moreover <span class="texhtml">1/∞ = 0</span>, making <a href="/wiki/Multiplicative_inverse" title="Multiplicative inverse">reciprocal</a>, <span class="texhtml">1/<i>x</i></span>, a <a href="/wiki/Total_function" title="Total function" class="mw-redirect">total function</a> in this structure. The structure, however, is not a <a href="/wiki/Field_(mathematics)" title="Field (mathematics)">field</a>, and division does not retain its original algebraic meaning in it, as witnessed for example by <span class="texhtml">0⋅∞</span> being undefined despite reciprocation being total. The geometric interpretation is this: a vertical line has <i>infinite</i> <a href="/wiki/Slope" title="Slope">slope</a>.</p>
+<h2><span class="mw-headline" id="Extensions_of_the_real_line">Extensions of the real line</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=2" title="Edit section: Extensions of the real line">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The real projective line extends the <a href="/wiki/Field_(mathematics)" title="Field (mathematics)">field</a> of <a href="/wiki/Real_number" title="Real number">real numbers</a> in the same way that the <a href="/wiki/Riemann_sphere" title="Riemann sphere">Riemann sphere</a> extends the field of <a href="/wiki/Complex_number" title="Complex number">complex numbers</a>, by adding a single point called conventionally <img class="mwe-math-fallback-image-inline tex" alt="\infty" src="//upload.wikimedia.org/math/d/2/4/d245777abca64ece2d5d7ca0d19fddb6.png" />.</p>
+<p>Compare with the <a href="/wiki/Extended_real_number_line" title="Extended real number line">extended real number line</a> (also called the two-point <a href="/wiki/Compactification_(mathematics)" title="Compactification (mathematics)">compactification</a> of the real line), which distinguishes between <img class="mwe-math-fallback-image-inline tex" alt="+\infty" src="//upload.wikimedia.org/math/2/8/c/28cfe0a2608499ff5984a938e0d16d64.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="-\infty" src="//upload.wikimedia.org/math/b/e/a/beab416080922c84a90ba092f7734fe5.png" />.</p>
+<h2><span class="mw-headline" id="Order">Order</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=3" title="Edit section: Order">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The order relation cannot be extended to <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" /> in a meaningful way. Given a real number <i>a</i>, there is no convincing reason to decide that <img class="mwe-math-fallback-image-inline tex" alt="a &gt; \infty" src="//upload.wikimedia.org/math/b/7/a/b7a275d6be58ba9be6ca2501bc3a0a20.png" /> or that <img class="mwe-math-fallback-image-inline tex" alt="a &lt; \infty" src="//upload.wikimedia.org/math/0/4/3/0437c6458d315fcbfc333c58921293d3.png" />. Since <img class="mwe-math-fallback-image-inline tex" alt="\infty" src="//upload.wikimedia.org/math/d/2/4/d245777abca64ece2d5d7ca0d19fddb6.png" /> can't be compared with any of the other elements, there's no point in using this relation at all. However, order is used to make definitions in <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" /> that are based on the properties of reals.</p>
+<h2><span class="mw-headline" id="Geometry">Geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=4" title="Edit section: Geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fundamental to the idea that ∞ is a point <i>no different from any other</i> is the way the real projective line is a <a href="/wiki/Homogeneous_space" title="Homogeneous space">homogeneous space</a>, in fact <a href="/wiki/Homeomorphism" title="Homeomorphism">homeomorphic</a> to a <a href="/wiki/Circle" title="Circle">circle</a>. For example the <a href="/wiki/General_linear_group" title="General linear group">general linear group</a> of 2×2 real <a href="/wiki/Invertible" title="Invertible" class="mw-redirect">invertible</a> matrices has a <a href="/wiki/Transitive_action" title="Transitive action" class="mw-redirect">transitive action</a> on it. The <a href="/wiki/Group_action" title="Group action">group action</a> may be expressed by <a href="/wiki/M%C3%B6bius_transformation" title="Möbius transformation">Möbius transformations</a>, (also called linear fractional transformations), with the understanding that when the denominator of the linear fractional transformation is 0, the image is ∞.</p>
+<p>The detailed analysis of the action shows that for any three distinct points <i>P</i>, <i>Q</i> and <i>R</i>, there is a linear fractional transformation taking <i>P</i> to 0, <i>Q</i> to 1, and <i>R</i> to ∞ that is, the group of linear fractional transformations is triply <a href="/wiki/Transitive" title="Transitive" class="mw-redirect">transitive</a> on the real projective line. This cannot be extended to 4-tuples of points, because the <a href="/wiki/Cross-ratio" title="Cross-ratio">cross-ratio</a> is invariant.</p>
+<p>The terminology <a href="/wiki/Projective_line" title="Projective line">projective line</a> is appropriate, because the points are in 1-to-1 correspondence with one-dimensional <a href="/wiki/Linear_subspace" title="Linear subspace">linear subspaces</a> of <b>R</b><sup>2</sup>.</p>
+<h2><span class="mw-headline" id="Arithmetic_operations">Arithmetic operations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=5" title="Edit section: Arithmetic operations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Motivation_for_arithmetic_operations">Motivation for arithmetic operations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=6" title="Edit section: Motivation for arithmetic operations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The arithmetic operations on this space are an extension of the same operations on reals. A motivation for the new definitions is the limits of functions of real numbers.</p>
+<h3><span class="mw-headline" id="Arithmetic_operations_that_are_defined">Arithmetic operations that are defined</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=7" title="Edit section: Arithmetic operations that are defined">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align} \\
+a + \infty = \infty + a &amp; = \infty, &amp; a \in \mathbb{R} \\
+a - \infty = \infty - a &amp; = \infty, &amp; a \in \mathbb{R} \\
+a \cdot \infty = \infty \cdot a &amp; = \infty, &amp; a \in \mathbb{R}, a \neq 0 \\
+\infty \cdot \infty &amp; = \infty \\
+\frac{a}{\infty} &amp; = 0, &amp; a \in \mathbb{R} \\
+\frac{\infty}{a} &amp; = \infty, &amp;  a \in \mathbb{R} \\
+\frac{a}{0} &amp; = \infty, &amp; a \in \mathbb{R}, a \neq 0
+\end{align}
+" src="//upload.wikimedia.org/math/f/3/9/f3951f298dd5dad1cf532ab7e6e7c5b9.png" /></dd>
+</dl>
+<h3><span class="mw-headline" id="Arithmetic_operations_that_are_left_undefined">Arithmetic operations that are left undefined</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=8" title="Edit section: Arithmetic operations that are left undefined">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following cannot be motivated by considering limits of real functions, and any definition of them would require us to give up additional algebraic properties. Therefore, they are left undefined:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align}
+&amp; \infty + \infty \\
+&amp; \infty - \infty \\
+&amp; \infty \cdot 0 \\
+&amp; 0 \cdot \infty \\
+&amp; \frac{\infty}{\infty} \\
+&amp; \frac{0}{0}
+\end{align}
+" src="//upload.wikimedia.org/math/d/e/5/de590f63c5054315185a2d2321403103.png" /></dd>
+</dl>
+<h2><span class="mw-headline" id="Algebraic_properties">Algebraic properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=9" title="Edit section: Algebraic properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The following equalities mean: Either both sides are undefined, or both sides are defined and equal.</i> This is true for any <img class="mwe-math-fallback-image-inline tex" alt="a, b, c \in \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/3/7/9/379cbece50a7e0adb70ddda4615980e4.png" />.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align}
+(a + b) + c &amp; = a + (b + c) \\
+a + b &amp; = b + a \\
+(a \cdot b) \cdot c &amp; = a \cdot (b \cdot c) \\
+a \cdot b &amp; = b \cdot a \\
+a \cdot \infty &amp; = \frac{a}{0} \\
+\end{align}
+" src="//upload.wikimedia.org/math/e/a/b/eab6a19112cabd177af824dc0a509821.png" /></dd>
+</dl>
+<p>The following is true whenever the right-hand side is defined, for any <img class="mwe-math-fallback-image-inline tex" alt="a, b, c \in \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/3/7/9/379cbece50a7e0adb70ddda4615980e4.png" />.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align}
+a \cdot (b + c) &amp; = a \cdot b + a \cdot c \\
+a &amp; = (\frac{a}{b}) \cdot b &amp; = \,\,&amp; \frac{(a \cdot b)}{b} \\
+a &amp; = (a + b) - b &amp; = \,\,&amp; (a - b) + b
+\end{align}
+" src="//upload.wikimedia.org/math/e/7/6/e76991fb24b102bb6487245e32abdb9b.png" /></dd>
+</dl>
+<p>In general, all laws of arithmetic are valid as long as all the occurring expressions are defined.</p>
+<h2><span class="mw-headline" id="Intervals_and_topology">Intervals and topology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=10" title="Edit section: Intervals and topology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The concept of an <a href="/wiki/Interval_(mathematics)" title="Interval (mathematics)">interval</a> can be extended to <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" />. However, since it is an unordered set, the interval has a slightly different meaning. The definitions for closed intervals are as follows (it is assumed that <img class="mwe-math-fallback-image-inline tex" alt="a, b \in \mathbb{R}, a &lt; b" src="//upload.wikimedia.org/math/2/0/0/200b33552aa5d51436d7815d3eda8215.png" />):</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\begin{align}
+\left[a, a\right] &amp; = \{ a \}  \\
+\left[a, b\right] &amp; = \lbrace x \mid x \in \mathbb{R}, a \leq x \leq b \rbrace  \\
+\left[a, \infty\right] &amp; = \lbrace x \mid x \in \mathbb{R}, a \leq x \rbrace  \cup \lbrace \infty \rbrace  \\
+\left[b, a\right] &amp; = \lbrace x \mid x \in \mathbb{R}, b \leq x \rbrace  \cup \lbrace \infty \rbrace \cup \lbrace x \mid x \in \mathbb{R}, x \leq a \rbrace  \\
+\left[\infty, a\right] &amp; = \lbrace \infty \rbrace  \cup \lbrace x \mid x \in \mathbb{R}, x \leq a \rbrace  \\
+\left[\infty, \infty\right] &amp; = \lbrace \infty \rbrace 
+\end{align}
+" src="//upload.wikimedia.org/math/b/4/a/b4a0f2a515e38bcb668f81268d25b809.png" /></dd>
+</dl>
+<p>The corresponding open and half-open intervals are obtained by removing the respective endpoints.</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" /> itself is also an interval, as is <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" /> excluding any single point, but these cannot be represented with this bracket notation.</p>
+<p>The open intervals as <a href="/wiki/Base_(topology)" title="Base (topology)">base</a> define a <a href="/wiki/Topological_space" title="Topological space">topology</a> on <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" />. Sufficient for a base are the finite open intervals and the intervals <img class="mwe-math-fallback-image-inline tex" alt="(b, a) = \{x \mid x \in \mathbb{R}, b &lt; x\} \cup \{\infty\} \cup \{x \mid x \in \mathbb{R}, x &lt; a\}" src="//upload.wikimedia.org/math/8/f/e/8febea8ec13e56a664afc6acf3af9546.png" />.</p>
+<p>As said, the topology is <a href="/wiki/Homeomorphism" title="Homeomorphism">homeomorphic</a> to a <a href="/wiki/Circle" title="Circle">circle</a>. Thus it is <a href="/wiki/Metrizable" title="Metrizable" class="mw-redirect">metrizable</a> corresponding (for a given homeomorphism) to the ordinary metric on this circle (either measured straight or along the circle). There is no metric which is an extension of the ordinary metric on <b>R</b>.</p>
+<h2><span class="mw-headline" id="Interval_arithmetic">Interval arithmetic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=11" title="Edit section: Interval arithmetic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Interval_arithmetic" title="Interval arithmetic">Interval arithmetic</a> is trickier in <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" /> than in <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}" src="//upload.wikimedia.org/math/6/9/a/69a45f1e602cd2b2c2e67e41811fd226.png" />. However, the result of an arithmetic operation on intervals is always an interval. In particular, we have, for every <img class="mwe-math-fallback-image-inline tex" alt="a, b \in \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/a/0/8/a08929f65507b71cb03c977d68197049.png" />:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x \in [a, b] \iff \frac{1}{x} \in \left [\frac{1}{b}, \frac{1}{a}\right ]" src="//upload.wikimedia.org/math/b/5/7/b5775abcab89cb5facba4de221783e7a.png" /></dd>
+</dl>
+<p>which is true even when the intervals involved include 0.</p>
+<h2><span class="mw-headline" id="Calculus">Calculus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=12" title="Edit section: Calculus">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The tools of <a href="/wiki/Calculus" title="Calculus">calculus</a> can be used to analyze functions of <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" />. The definitions are motivated by the topology of this space.</p>
+<h3><span class="mw-headline" id="Neighbourhoods">Neighbourhoods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=13" title="Edit section: Neighbourhoods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="x \in \widehat{\mathbb{R}}, A \subseteq \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/5/3/6/5367865ac625cfe12ddf79510c951847.png" />.</p>
+<ul>
+<li>A is a <a href="/wiki/Neighbourhood_(mathematics)" title="Neighbourhood (mathematics)">neighbourhood</a> of <i>x</i>, <a href="/wiki/If_and_only_if" title="If and only if">if and only if</a> <i>A</i> contains an open interval <i>B</i> and <img class="mwe-math-fallback-image-inline tex" alt="x \in B" src="//upload.wikimedia.org/math/9/b/2/9b2102f29c32460898719035b4d830da.png" />.</li>
+<li>A is a right-sided neighbourhood of x, if and only if there is <img class="mwe-math-fallback-image-inline tex" alt="y \in \widehat{\mathbb{R}}, y &gt; x" src="//upload.wikimedia.org/math/6/7/c/67c84ae7df75ca8396cc2f6f531adf85.png" /> such that <i>A</i> contains <img class="mwe-math-fallback-image-inline tex" alt="[x, y)" src="//upload.wikimedia.org/math/b/b/9/bb96c5a1402732819fbdfd0d21f9375a.png" />.</li>
+<li>A is a left-sided neighbourhood of x, if and only if there is <img class="mwe-math-fallback-image-inline tex" alt="y \in \widehat{\mathbb{R}}, y &lt; x" src="//upload.wikimedia.org/math/d/8/2/d820892e7ebabeef7f50be88556ce65e.png" /> such that <i>A</i> contains <img class="mwe-math-fallback-image-inline tex" alt="(y, x]" src="//upload.wikimedia.org/math/1/3/5/1358c157cdd89fecb7d52cfabac02b29.png" />.</li>
+<li>A is a (right-sided, left-sided) <a href="/wiki/Neighbourhood_(mathematics)#Punctured_neighbourhood" title="Neighbourhood (mathematics)">punctured neighbourhood</a> of <i>x</i>, if and only if there is <img class="mwe-math-fallback-image-inline tex" alt="B \subseteq \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/4/e/f/4ef7039f396e547551b2a3797799f590.png" /> such that <i>B</i> is a (right-sided, left-sided) neighbourhood of x, and <img class="mwe-math-fallback-image-inline tex" alt="A = B \setminus \{x\}" src="//upload.wikimedia.org/math/c/8/4/c84b386bd9595b279491cfda77eaead6.png" />.</li>
+</ul>
+<h3><span class="mw-headline" id="Limits">Limits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=14" title="Edit section: Limits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Basic_definitions_of_limits">Basic definitions of limits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=15" title="Edit section: Basic definitions of limits">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="f : \widehat{\mathbb{R}} \to \widehat{\mathbb{R}}, p \in \widehat{\mathbb{R}}, L \in \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/e/8/d/e8dd4a43de398fb5ce7bff69d525f2c3.png" />.</p>
+<p>The <a href="/wiki/Limit_of_a_function" title="Limit of a function">limit</a> of <i>f(x)</i> as <i>x</i> approaches <i>p</i> is <i>L</i>, denoted</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{f(x)} = L" src="//upload.wikimedia.org/math/b/1/5/b15e9f0f3af520c9ed7c254e797b45f5.png" /></dd>
+</dl>
+<p>if and only if for every neighbourhood <i>A</i> of <i>L</i>, there is a punctured neighbourhood <i>B</i> of <i>p</i>, such that <img class="mwe-math-fallback-image-inline tex" alt="x \in B" src="//upload.wikimedia.org/math/9/b/2/9b2102f29c32460898719035b4d830da.png" /> implies <img class="mwe-math-fallback-image-inline tex" alt="f(x) \in A" src="//upload.wikimedia.org/math/1/5/e/15ed6f0b4dfa71a3bc8398090326410f.png" />.</p>
+<p>The <a href="/wiki/One-sided_limit" title="One-sided limit">one-sided limit</a> of <i>f(x)</i> as <i>x</i> approaches <i>p</i> from the right (left) is <i>L</i>, denoted</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p^{+}}{f(x)} = L" src="//upload.wikimedia.org/math/1/5/1/1519e6db47c9ecc4f34e060810cf09a5.png" /> &#160;&#160; <img class="mwe-math-fallback-image-inline tex" alt="\left (\lim_{x \to p^{-}}{f(x)} = L\right )" src="//upload.wikimedia.org/math/9/3/f/93f2c04ba07c70d9a4146c29a7f369bc.png" /></dd>
+</dl>
+<p>if and only if for every neighbourhood <i>A</i> of <i>L</i>, there is a right-sided (left-sided) punctured neighbourhood <i>B</i> of <i>p</i>, such that <img class="mwe-math-fallback-image-inline tex" alt="x \in B" src="//upload.wikimedia.org/math/9/b/2/9b2102f29c32460898719035b4d830da.png" /> implies <img class="mwe-math-fallback-image-inline tex" alt="f(x) \in A" src="//upload.wikimedia.org/math/1/5/e/15ed6f0b4dfa71a3bc8398090326410f.png" />.</p>
+<p>It can be shown that <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{f(x)} = L" src="//upload.wikimedia.org/math/b/1/5/b15e9f0f3af520c9ed7c254e797b45f5.png" /> if and only if both <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p^{+}}{f(x)} = L" src="//upload.wikimedia.org/math/1/5/1/1519e6db47c9ecc4f34e060810cf09a5.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p^{-}}{f(x)} = L" src="//upload.wikimedia.org/math/a/8/9/a890cdbc0cfa917a5d8e264653d8e39d.png" />.</p>
+<h4><span class="mw-headline" id="Comparison_with_limits_in">Comparison with limits in <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}" src="//upload.wikimedia.org/math/6/9/a/69a45f1e602cd2b2c2e67e41811fd226.png" /></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=16" title="Edit section: Comparison with limits in">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The definitions given above can be compared with the usual definitions of limits of real functions. In the following statements, <img class="mwe-math-fallback-image-inline tex" alt="p, L \in \mathbb{R}" src="//upload.wikimedia.org/math/2/a/8/2a8737ec95e18d62ef46dd7b14de02fa.png" />, the first limit is as defined above, and the second limit is in the usual sense:</p>
+<ul>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{f(x)} = L" src="//upload.wikimedia.org/math/b/1/5/b15e9f0f3af520c9ed7c254e797b45f5.png" /> is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{f(x)} = L" src="//upload.wikimedia.org/math/b/1/5/b15e9f0f3af520c9ed7c254e797b45f5.png" />.</li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to \infty^{+}}{f(x)} = L" src="//upload.wikimedia.org/math/9/6/6/966eb77f6b78ae08a0c61e8126bbe36d.png" /> is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to -\infty}{f(x)} = L" src="//upload.wikimedia.org/math/d/2/2/d2248103cf949c7edc239573789c2069.png" />.</li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to \infty^{-}}{f(x)} = L" src="//upload.wikimedia.org/math/e/1/0/e10a81473859b0af14591bb111a8d523.png" /> is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to +\infty}{f(x)} = L" src="//upload.wikimedia.org/math/1/7/4/17476eeb8df804b88eb2ac53e70a8060.png" />.</li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{f(x)} = \infty" src="//upload.wikimedia.org/math/e/2/5/e256f9306cf7ad3982a4aa8136e7afb4.png" /> is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{|f(x)|} = +\infty" src="//upload.wikimedia.org/math/7/0/c/70c7089bf4d57e9733d32a411b627ddd.png" />.</li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to \infty^{+}}{f(x)} = \infty" src="//upload.wikimedia.org/math/2/7/d/27d14b14cb329466432c27cc1a06d767.png" /> is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to -\infty}{|f(x)|} = +\infty" src="//upload.wikimedia.org/math/1/5/1/151255bdae6311ef54d537bcaf5e689f.png" />.</li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to \infty^{-}}{f(x)} = \infty" src="//upload.wikimedia.org/math/f/c/7/fc701a43f2d7554f8f2b8edf0c6c4ebe.png" /> is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to +\infty}{|f(x)|} = +\infty" src="//upload.wikimedia.org/math/8/5/f/85fac1783e2bdb4be4a83e80be7d8ca8.png" />.</li>
+</ul>
+<h4><span class="mw-headline" id="Extended_definition_of_limits">Extended definition of limits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=17" title="Edit section: Extended definition of limits">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="A \subseteq \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/3/9/7/397ce0a82c2f1252114b5ac345779ca0.png" />. Then <i>p</i> is a <a href="/wiki/Limit_point" title="Limit point">limit point</a> of <i>A</i> if and only if every neighbourhood of <i>p</i> includes a point <img class="mwe-math-fallback-image-inline tex" alt="y \in A" src="//upload.wikimedia.org/math/9/9/e/99e2b251bc3e94debeef6300bfac4f13.png" /> such that <img class="mwe-math-fallback-image-inline tex" alt="y \neq x" src="//upload.wikimedia.org/math/f/2/e/f2efac7f2f84c694afc98304e5745380.png" />.</p>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="f : \widehat{\mathbb{R}} \to \widehat{\mathbb{R}}, A \subseteq \widehat{\mathbb{R}}, L \in \widehat{\mathbb{R}}, p \in \widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/c/2/2/c223cc46fcb0a6f67a126d22ea4e8e71.png" />, <i>p</i> a limit point of <i>A</i>. The limit of <i>f(x)</i> as <i>x</i> approaches <i>p</i> through <i>A</i> is <i>L</i>, if and only if for every neighbourhood <i>B</i> of <i>L</i>, there is a punctured neighbourhood <i>C</i> of <i>p</i>, such that <img class="mwe-math-fallback-image-inline tex" alt="x \in A \cap C" src="//upload.wikimedia.org/math/c/5/d/c5df11b4a3c0570c27b13ba0f3550f45.png" /> implies <img class="mwe-math-fallback-image-inline tex" alt="f(x) \in B" src="//upload.wikimedia.org/math/e/c/d/ecd3bb18b08e60350e9a24d5f1ac4621.png" />.</p>
+<p>This corresponds to the regular topological definition of continuity, applied to the <a href="/wiki/Subspace_topology" title="Subspace topology">subspace topology</a> on <img class="mwe-math-fallback-image-inline tex" alt="A\cup \lbrace p \rbrace" src="//upload.wikimedia.org/math/6/6/7/667ebe759b6107fa86bfae6ece8c84fc.png" />, and the restriction of <i>f</i> to <img class="mwe-math-fallback-image-inline tex" alt="A\cup \lbrace p \rbrace" src="//upload.wikimedia.org/math/6/6/7/667ebe759b6107fa86bfae6ece8c84fc.png" />.</p>
+<h3><span class="mw-headline" id="Continuity">Continuity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=18" title="Edit section: Continuity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Let</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f : \widehat{\mathbb{R}} \to \widehat{\mathbb{R}},\quad p \in \widehat{\mathbb{R}}." src="//upload.wikimedia.org/math/3/e/b/3eb538808e16751c7d4316561ddc741b.png" /></dd>
+</dl>
+<p><i>f</i> is <a href="/wiki/Continuous_function" title="Continuous function">continuous</a> at <i>p</i> if and only if <i>f</i> is defined at <i>p</i> and:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\lim_{x \to p}{f(x)} = f(p)." src="//upload.wikimedia.org/math/3/0/a/30a692394470f7fe91f42eba53451524.png" /></dd>
+</dl>
+<p>Let</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f : \widehat{\mathbb{R}} \to \widehat{\mathbb{R}},\quad A \subseteq \widehat{\mathbb{R}}." src="//upload.wikimedia.org/math/c/5/d/c5d2f477e2ae8b345f79fdcca177bb68.png" /></dd>
+</dl>
+<p><i>f</i> is continuous in <i>A</i> if and only if for every <img class="mwe-math-fallback-image-inline tex" alt="p \in A" src="//upload.wikimedia.org/math/a/c/0/ac05379b9861ceedfe74840af9dedbe1.png" />, <i>f</i> is defined at <i>p</i> and the limit of <i>f</i>(<i>x</i>) as <i>x</i> approaches <i>p</i> through <i>A</i> is <i>f</i>(<i>p</i>).</p>
+<p>An interesting feature is that every <a href="/wiki/Rational_function" title="Rational function">rational function</a> <i>P</i>(<i>x</i>)/<i>Q</i>(<i>x</i>), where <i>P</i>(<i>x</i>) and <i>Q</i>(<i>x</i>) have no common factor, is continuous in <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" />. Also, If tan is extended so that</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\tan\left(\frac{\pi}{2} + n\pi\right) = \infty\text{ for }n \in \mathbb{Z}," src="//upload.wikimedia.org/math/e/6/5/e6588d0b492ab91e71f55b71bb6d57ec.png" /></dd>
+</dl>
+<p>then tan is continuous in <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}" src="//upload.wikimedia.org/math/6/9/a/69a45f1e602cd2b2c2e67e41811fd226.png" />. However, many <a href="/wiki/Elementary_function_(differential_algebra)" title="Elementary function (differential algebra)" class="mw-redirect">elementary functions</a>, such as <a href="/wiki/Trigonometric_functions" title="Trigonometric functions">trigonometric</a> and <a href="/wiki/Exponential_function" title="Exponential function">exponential</a> functions, are discontinuous at <img class="mwe-math-fallback-image-inline tex" alt="\infty" src="//upload.wikimedia.org/math/d/2/4/d245777abca64ece2d5d7ca0d19fddb6.png" />. For example, sin is continuous in <img class="mwe-math-fallback-image-inline tex" alt="\mathbb{R}" src="//upload.wikimedia.org/math/6/9/a/69a45f1e602cd2b2c2e67e41811fd226.png" /> but discontinuous at <img class="mwe-math-fallback-image-inline tex" alt="\infty" src="//upload.wikimedia.org/math/d/2/4/d245777abca64ece2d5d7ca0d19fddb6.png" />.</p>
+<p>Thus 1/<i>x</i> is continuous on <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" /> but not on the <a href="/wiki/Affinely_extended_real_number_system" title="Affinely extended real number system" class="mw-redirect">affinely extended real number system</a> <span style="text-decoration: overline"><b>R</b></span>. Conversely, the function arctan can be extended continuously on <span style="text-decoration: overline"><b>R</b></span>, but not on <img class="mwe-math-fallback-image-inline tex" alt="\widehat{\mathbb{R}}" src="//upload.wikimedia.org/math/6/5/8/658b491fb9545512cbafaa57510664f3.png" />.</p>
+<h2><span class="mw-headline" id="As_a_projective_range">As a projective range</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=19" title="Edit section: As a projective range">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Projective_range" title="Projective range">Projective range</a></div>
+<p>When the real projective line is considered in the context of the <a href="/wiki/Real_projective_plane" title="Real projective plane">real projective plane</a>, then the consequences of <a href="/wiki/Desargues%27_theorem" title="Desargues' theorem">Desargues' theorem</a> are implicit. In particular, the construction of the <a href="/wiki/Projective_harmonic_conjugate" title="Projective harmonic conjugate">projective harmonic conjugate</a> relation between points is part of the structure of the real projective line. For instance, given any pair of points, the <a href="/wiki/Point_at_infinity" title="Point at infinity">point at infinity</a> is the projective harmonic conjugate of their <a href="/wiki/Midpoint" title="Midpoint">midpoint</a>.</p>
+<p>As <a href="/wiki/Projectivity" title="Projectivity" class="mw-redirect">projectivities</a> preserve the harmonic relation, they form the <a href="/wiki/Automorphism" title="Automorphism">automorphisms</a> of the real projective line. The projectivities are described algebraically as <a href="/wiki/Homography" title="Homography">homographies</a>, since the <a href="/wiki/Real_number" title="Real number">real numbers</a> form a <a href="/wiki/Ring_(mathematics)" title="Ring (mathematics)">ring</a>, according to the general construction of a <a href="/wiki/Projective_line_over_a_ring" title="Projective line over a ring">projective line over a ring</a>. Collectively they form the group <a href="/wiki/PGL(2,R)" title="PGL(2,R)" class="mw-redirect">PGL(2,R)</a>.</p>
+<p>The projectivities which are their own inverses are called <a href="/wiki/Involution_(mathematics)#Projective_geometry" title="Involution (mathematics)">involutions</a>. A <b>hyperbolic involution</b> has two <a href="/wiki/Fixed_point_(mathematics)" title="Fixed point (mathematics)">fixed points</a>. Two of these correspond to elementary, arithmetic operations on the real projective line: <a href="/wiki/Additive_inverse" title="Additive inverse">negation</a> and <a href="/wiki/Multiplicative_inverse" title="Multiplicative inverse">reciprocation</a>. Indeed, 0 and ∞ are fixed under negation, while 1 and −1 are fixed under reciprocation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=20" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Projective_line" title="Projective line">Projective line</a></li>
+<li><a href="/wiki/Real_projective_plane" title="Real projective plane">Real projective plane</a></li>
+<li><a href="/wiki/Complex_projective_plane" title="Complex projective plane">Complex projective plane</a></li>
+<li><a href="/wiki/Wheel_theory" title="Wheel theory">Wheel theory</a></li>
+<li><a href="/wiki/Point_at_infinity" title="Point at infinity">Point at infinity</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/ProjectivelyExtendedRealNumbers.html">Projectively Extended Real Numbers -- From Mathworld</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1015
+CPU time usage: 0.320 seconds
+Real time usage: 6.391 seconds
+Preprocessor visited node count: 1052/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7550/2097152 bytes
+Template argument size: 309/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1.07 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 6274.591      1 - -total
+  1.61%  101.055      1 - Template:Merge
+  0.82%   51.250      1 - Template:Mbox
+  0.30%   18.527      1 - Template:DMC
+  0.28%   17.867      1 - Template:Main
+  0.22%   13.654      1 - Template:Unreferenced
+  0.17%   10.856      1 - Template:FULLROOTPAGENAME
+  0.12%    7.681      1 - Template:Ambox
+  0.12%    7.577     10 - Template:Math
+  0.11%    7.021      1 - Template:Pagelist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1014534-0!*!0!!en!4!*!math=0 and timestamp 20150629095155 and revision id 666908334
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Projectively_extended_real_line&amp;oldid=666908334">https://en.wikipedia.org/w/index.php?title=Projectively_extended_real_line&amp;oldid=666908334</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Real_analysis" title="Category:Real analysis">Real analysis</a></li><li><a href="/wiki/Category:Topological_spaces" title="Category:Topological spaces">Topological spaces</a></li><li><a href="/wiki/Category:Projective_geometry" title="Category:Projective geometry">Projective geometry</a></li><li><a href="/wiki/Category:Infinity" title="Category:Infinity">Infinity</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_merged_from_April_2015" title="Category:Articles to be merged from April 2015">Articles to be merged from April 2015</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Articles_lacking_sources_from_December_2014" title="Category:Articles lacking sources from December 2014">Articles lacking sources from December 2014</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Projectively+extended+real+line&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Projectively+extended+real+line" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Projectively_extended_real_line"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Projectively_extended_real_line"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Projectively_extended_real_line" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Projectively_extended_real_line" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Projectively_extended_real_line" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Projectively_extended_real_line&amp;oldid=666908334" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Projectively_extended_real_line&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2558939" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Projectively_extended_real_line&amp;id=666908334" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Projectively+extended+real+line">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Projectively+extended+real+line&amp;oldid=666908334&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Projectively_extended_real_line&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%DB%8C%E2%80%8C%D9%86%D9%87%D8%A7%DB%8C%D8%AA_%D9%85%D8%B7%D9%84%D9%82" title="بی‌نهایت مطلق – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Re%C3%ABle_projectieve_lijn" title="Reële projectieve lijn – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2558939#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 June 2015, at 14:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Projectively_extended_real_line&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1242"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>FX.25 Forward Error Correction - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/FX.25_Forward_Error_Correction" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/FX.25_Forward_Error_Correction" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/FX.25_Forward_Error_Correction" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"FX.25_Forward_Error_Correction","wgTitle":"FX.25 Forward Error Correction","wgCurRevisionId":648994120,"wgRevisionId":648994120,"wgArticleId":25997162,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Packet radio","Link protocols"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"FX.25_Forward_Error_Correction","wgRelevantArticleId":25997162,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3063475"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-FX_25_Forward_Error_Correction skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">FX.25 Forward Error Correction</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>FX.25</b> is a protocol extension to the <a href="/wiki/AX.25" title="AX.25">AX.25</a> Link Layer Protocol. FX.25 provides a <a href="/wiki/Forward_error_correction" title="Forward error correction">Forward Error Correction</a> (FEC) capability while maintaining legacy compatibility with non-FEC equipment. FX.25 was created by the Stensat Group in 2005, and was presented as a technical paper at the 2006 TAPR Digital Communications Conference in Tucson, AZ.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Technical_Implementation"><span class="tocnumber">2</span> <span class="toctext">Technical Implementation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Performance"><span class="tocnumber">3</span> <span class="toctext">Performance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>FX.25 is intended to complement the AX.25 protocol, not replace it. It provides an encapsulation mechanism that does not alter the AX.25 data or functionalities. An error correction capability is introduced at the bottom of Layer 2 in the <a href="/wiki/OSI_model" title="OSI model">OSI model</a>.</p>
+<p>The AX.25 Link Layer Protocol is extensively used in amateur radio communications. The packets are validated by a 16-bit <a href="/wiki/Cyclic_redundancy_check" title="Cyclic redundancy check">CRC</a>, and are discarded if one or more errors are detected. In many cases, such as space-to-earth telemetry, the packets are broadcast unidirectionally. No back-channel may available to request retransmission of errored elements. Consequently, AX.25 links are inherently intolerant of errors.</p>
+<p>The FX.25 protocol extension provides an error correction "wrapper" around the AX.25 packet, allowing for removal of errors at the receiving end. Data fields have been carefully chosen to allow reception of the AX.25 packet data within an FX.25 frame by a non-FEC decoder.</p>
+<h2><span class="mw-headline" id="Technical_Implementation">Technical Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit&amp;section=2" title="Edit section: Technical Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A composite FX.25 entity is called a "frame," distinguishing it from the AX.25 "packet" contained within. The FX.25 frame contains the following elements:<br />
+- Preamble<br />
+- Correlation Tag<br />
+- AX.25 Packet<br />
+- - AX.25 Packet Start<br />
+- - AX.25 Packet Body<br />
+- - AX.25 Packet Frame Check Sequence (FCS)<br />
+- - AX.25 Packet End<br />
+- Pad for bit-to-byte alignment<br />
+- FEC Check Symbols<br />
+- Postamble</p>
+<p><a href="/wiki/File:FX-25_block_med.png" class="image"><img alt="FX-25 block med.png" src="//upload.wikimedia.org/wikipedia/en/9/9f/FX-25_block_med.png" width="1114" height="166" data-file-width="1114" data-file-height="166" /></a></p>
+<p>The "FEC Codeblock" contains all elements except the Preamble, Correlation Tag, and Postamble. These three elements exist outside of the correction-space for the FEC algorithm. The Preamble and Postamble blocks are variable length, and are included to account for delays typically found in radio links - transmitter "key" to stable operation, receiver squelch latency, etc. The Correlation Tag is a <a href="/wiki/Gold_code" title="Gold code">Gold code</a>, and contains inherent error tolerance. This is necessary to provide a "start of frame" marker without requiring a dependency on the FEC capability.</p>
+<p>The FEC frame currently implements <a href="/wiki/Reed_Solomon" title="Reed Solomon" class="mw-redirect">Reed Solomon</a> error correction algorithms, but is not restricted to these.</p>
+<h2><span class="mw-headline" id="Performance">Performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit&amp;section=3" title="Edit section: Performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Performance improvement will be a function of AX.25 packet size combined with the noise characteristics of the transmission channel. Initial performance testing involved transmission of 61 FX.25 frames over an interval of about 15 minutes.<br />
+- 9 frames were received without errors<br />
+- 19 frames were received with correctable errors<br />
+- 33 frames were received with uncorrectable errors<br />
+<br />
+15% of the AX.25 packets [9/61] were decodable without the FEC capability<br />
+46% of the AX.25 packets [(9+19)/61] were decodable with the FEC capability</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ka9q.net/ao40/">"FEC Encoding for AO-40 Telemetry from Phil Karn"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFX.25+Forward+Error+Correction&amp;rft.btitle=FEC+Encoding+for+AO-40+Telemetry+from+Phil+Karn&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ka9q.net%2Fao40%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://eludium.stensat.org/mcguire/projects/FX-25/FX-25_performance.htm">"FX.25 On-Air Performance"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFX.25+Forward+Error+Correction&amp;rft.btitle=FX.25+On-Air+Performance&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Feludium.stensat.org%2Fmcguire%2Fprojects%2FFX-25%2FFX-25_performance.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.tapr.org/conf_dcc2006.html">2006 TAPR DCC webpage</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stensat.org/docs/FX-25_01_06.pdf">FX.25 Specification (pdf)</a></li>
+<li><a rel="nofollow" class="external text" href="http://eludium.stensat.org/mcguire/projects/FX-25/Presentation_slides_02.pdf">FX.25 Presentation Slides from 2006 TAPR DCC (pdf)</a></li>
+<li><a rel="nofollow" class="external text" href="http://groups.google.com/group/fx25?hl=en">FX.25 Google Discussion Group</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:lightsteelblue;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Packet_radio" title="Template:Packet radio"><span title="View this template" style=";background:lightsteelblue;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Packet_radio" title="Template talk:Packet radio"><span title="Discuss this template" style=";background:lightsteelblue;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Packet_radio&amp;action=edit"><span title="Edit this template" style=";background:lightsteelblue;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Packet_radio" title="Packet radio">Packet radio</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lightsteelblue;">Traditional</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ALOHAnet" title="ALOHAnet">ALOHAnet</a></li>
+<li><a href="/wiki/AX.25" title="AX.25">AX.25</a></li>
+<li><a href="/wiki/Terminal_node_controller" title="Terminal node controller">Terminal node controller</a></li>
+<li><a href="/wiki/FBB_(F6FBB)" title="FBB (F6FBB)">FBB (F6FBB)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lightsteelblue;"><a href="/wiki/Automatic_Packet_Reporting_System" title="Automatic Packet Reporting System">APRS</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automatic_Packet_Reporting_System" title="Automatic Packet Reporting System">APRS</a></li>
+<li><a href="/wiki/APRS_Calling" title="APRS Calling">APRS Calling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lightsteelblue;">TCP/IP packet radio</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AMPRNet" title="AMPRNet">AMPRNet</a></li>
+<li><a href="/wiki/KISS_(TNC)" title="KISS (TNC)">KISS (TNC)</a></li>
+<li><a href="/wiki/KA9Q" title="KA9Q">KA9Q</a></li>
+<li><a href="/wiki/Phil_Karn" title="Phil Karn">Phil Karn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lightsteelblue;">Specialized</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spartan_Packet_Radio_Experiment" title="Spartan Packet Radio Experiment">Spartan</a></li>
+<li><strong class="selflink">FX.25 FEC</strong></li>
+<li><a href="/wiki/Encoder_receiver_transmitter" title="Encoder receiver transmitter">Encoder receiver transmitter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1211
+CPU time usage: 0.089 seconds
+Real time usage: 0.109 seconds
+Preprocessor visited node count: 150/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9849/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.025/10.000 seconds
+Lua memory usage: 1.44 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.962      1 - -total
+ 68.69%   42.563      2 - Template:Cite_web
+ 30.73%   19.041      1 - Template:Packet_radio
+ 23.81%   14.751      1 - Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25997162-0!*!0!!en!4!* and timestamp 20150627184738 and revision id 648994120
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=FX.25_Forward_Error_Correction&amp;oldid=648994120">https://en.wikipedia.org/w/index.php?title=FX.25_Forward_Error_Correction&amp;oldid=648994120</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Packet_radio" title="Category:Packet radio">Packet radio</a></li><li><a href="/wiki/Category:Link_protocols" title="Category:Link protocols">Link protocols</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=FX.25+Forward+Error+Correction&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=FX.25+Forward+Error+Correction" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/FX.25_Forward_Error_Correction"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:FX.25_Forward_Error_Correction&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/FX.25_Forward_Error_Correction" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/FX.25_Forward_Error_Correction" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/FX.25_Forward_Error_Correction" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;oldid=648994120" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3063475" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=FX.25_Forward_Error_Correction&amp;id=648994120" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=FX.25+Forward+Error+Correction">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=FX.25+Forward+Error+Correction&amp;oldid=648994120&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=FX.25_Forward_Error_Correction&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/FX.25" title="FX.25 – French" lang="fr" hreflang="fr">Français</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q3063475#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 February 2015, at 21:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=FX.25_Forward_Error_Correction&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1043"});
+}</script>
+	</body>
+</html>

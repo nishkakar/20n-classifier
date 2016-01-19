@@ -1,0 +1,943 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Prader–Willi syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Prader%E2%80%93Willi_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Prader%E2%80%93Willi_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Prader%E2%80%93Willi_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Prader–Willi_syndrome","wgTitle":"Prader–Willi syndrome","wgCurRevisionId":669859277,"wgRevisionId":669859277,"wgArticleId":54996,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","All articles with dead external links","Articles with dead external links from June 2015","Use mdy dates from August 2014","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from December 2014","Commons category with local link same as on Wikidata","Articles with DMOZ links","Articles that use a Medicine navs subtemplate","Wikipedia articles with GND identifiers","Medical conditions related to obesity","Syndromes","Rare diseases","Genodermatoses","Autosomal monosomies and deletions","Genetic disorders"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Prader–Willi_syndrome","wgRelevantArticleId":54996,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Prader_Willi_Facial_Features.png/100px-Prader_Willi_Facial_Features.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q594013"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Prader–Willi_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Prader–Willi syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Prader-Willi Syndrome</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Prader_Willi_Facial_Features.png" class="image"><img alt="Prader Willi Facial Features.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Prader_Willi_Facial_Features.png/230px-Prader_Willi_Facial_Features.png" width="230" height="152" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Prader_Willi_Facial_Features.png/345px-Prader_Willi_Facial_Features.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Prader_Willi_Facial_Features.png/460px-Prader_Willi_Facial_Features.png 2x" data-file-width="978" data-file-height="645" /></a>
+<div>People with Prader-Willi Syndrome, exhibiting characteristic facial appearance including narrow temples, an elongated face, thin upper lip, and a prominent nose.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Medical_genetics" title="Medical genetics">Medical genetics</a>, <a href="/wiki/Pediatrics" title="Pediatrics">pediatrics</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/Q87.1">Q87.1</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=759.81">759.81</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/176270">176270</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb10481.htm">10481</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/001605.htm">001605</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic1880.htm">ped/1880</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/prader-willi-syndrome-pro">Prader–Willi syndrome</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D011218">D011218</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/GeneReviews" title="GeneReviews">GeneReviews</a></th>
+<td class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/books/NBK1330/">Prader-Willi Syndrome</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p><b>Prader–Willi syndrome</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'p' in 'pie'">p</span><span title="'r' in 'rye'">r</span><span title="/ɑː/ 'a' in 'father'">ɑː</span><span title="'d' in 'dye'">d</span><span title="/ər/ 'er' in 'finger'">ər</span></span> <span style="border-bottom:1px dotted"><span title="/ˈ/ primary stress follows">ˈ</span><span title="'v' in 'vie'">v</span><span title="/ɪ/ short 'i' in 'bid'">ɪ</span><span title="'l' in 'lie'">l</span><span title="/i/ 'y' in 'happy'">i</span></span>/</a></span></span>; abbreviated <b>PWS</b>) is a rare genetic disorder in which seven genes (or some subset thereof) on <a href="/wiki/Chromosome_15_(human)" title="Chromosome 15 (human)">chromosome 15 (q 11–13)</a> are deleted or unexpressed (<a href="/wiki/Chromosome_15q_partial_deletion" title="Chromosome 15q partial deletion">chromosome 15q partial deletion</a>) on the paternal chromosome. It was first described in 1956 by <a href="/wiki/Andrea_Prader" title="Andrea Prader">Andrea Prader</a> (1919–2001), Heinrich Willi (1900–1971), Alexis Labhart (1916–1994), Andrew Ziegler, and <a href="/wiki/Guido_Fanconi" title="Guido Fanconi">Guido Fanconi</a> of <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Characteristic of PWS is "low muscle tone, short stature, incomplete sexual development, cognitive disabilities, problem behaviors, and a chronic feeling of hunger that can lead to excessive eating and life-threatening obesity."<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The incidence of PWS is between 1 in 25,000 and 1 in 10,000 live births.</p>
+<p>The paternal origin of the genetic material that is affected in the syndrome is important because the particular region of chromosome 15 involved is subject to parent-of-origin <a href="/wiki/Genomic_Imprinting" title="Genomic Imprinting" class="mw-redirect">imprinting</a>, meaning that for a number of genes in this region, only one copy of the gene is expressed while the other is silenced through imprinting. For the genes affected in PWS, it is the maternal copy that is usually imprinted (and thus is silenced), while the mutated paternal copy is not functional.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> This means that, while most people have one working and one silenced set of these genes, people with PWS have a non-working set and a silenced set. If the <i>maternally</i> derived genetic material from the same region is affected instead, the sister <i><a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a></i> is the result.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>With the recent benefits of early diagnosis and ongoing interventions, the obesity rate among children with Prader–Willi Syndrome has decreased to be similar to the typical population. With behavioural therapy and other treatments, the effects of the syndrome can be reduced.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Uterus_and_birth"><span class="tocnumber">1.1</span> <span class="toctext">Uterus and birth</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Childhood"><span class="tocnumber">1.2</span> <span class="toctext">Childhood</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Adulthood"><span class="tocnumber">1.3</span> <span class="toctext">Adulthood</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Physical_appearance"><span class="tocnumber">1.4</span> <span class="toctext">Physical appearance</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Neuro-cognitive"><span class="tocnumber">1.5</span> <span class="toctext">Neuro-cognitive</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Behavioral"><span class="tocnumber">1.6</span> <span class="toctext">Behavioral</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Endocrine"><span class="tocnumber">1.7</span> <span class="toctext">Endocrine</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Ophthalmologic"><span class="tocnumber">1.8</span> <span class="toctext">Ophthalmologic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Genetics"><span class="tocnumber">2</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Treatment"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Society_and_culture"><span class="tocnumber">5</span> <span class="toctext">Society and culture</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many signs and symptoms of Prader-Willi Syndrome. The symptoms can range from poor muscle tone during infancy to behavioral problems in early childhood. Some symptoms that are usually found in infants, besides poor muscle tone, would be a lack of eye coordination; some are born with almond-shaped eyes; and due to poor muscle tone the infant may not have a strong sucking reflex. Their cry is weak, and they have difficulty waking up. Another sign of this disease is a thin upper lip.</p>
+<p>Holm <i>et al.</i> (1993) describe the following features and signs as pretest indicators of PWS, although not all will be present.</p>
+<h3><span class="mw-headline" id="Uterus_and_birth">Uterus and birth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=2" title="Edit section: Uterus and birth">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Reduced fetal movement</li>
+<li>Frequent abnormal fetal position</li>
+<li>Occasional <a href="/wiki/Polyhydramnios" title="Polyhydramnios">polyhydramnios</a> (excessive amniotic fluid)</li>
+</ul>
+<ul>
+<li>Often <a href="/wiki/Breech_birth" title="Breech birth">breech</a> or <a href="/wiki/Caesarean" title="Caesarean" class="mw-redirect">caesarean</a> births</li>
+<li><a href="/wiki/Lethargy" title="Lethargy">Lethargy</a></li>
+<li><a href="/wiki/Hypotonia" title="Hypotonia">Hypotonia</a></li>
+<li>Feeding difficulties (due to poor muscle tone affecting <a href="/wiki/Sucking_reflex" title="Sucking reflex" class="mw-redirect">sucking reflex</a>)</li>
+<li>Difficulties establishing respiration</li>
+<li><a href="/wiki/Hypogonadism" title="Hypogonadism">Hypogonadism</a></li>
+</ul>
+<h3><span class="mw-headline" id="Childhood">Childhood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=3" title="Edit section: Childhood">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Delayed milestones/intellectual delay</li>
+<li><a href="/wiki/Hypersomnia" title="Hypersomnia">Excessive sleeping</a></li>
+<li><a href="/wiki/Strabismus" title="Strabismus">Strabismus</a> ('crossed eyes')</li>
+<li><a href="/wiki/Scoliosis" title="Scoliosis">Scoliosis</a> (often not detected at birth)</li>
+<li><a href="/wiki/Cryptorchidism" title="Cryptorchidism">Cryptorchidism</a></li>
+<li><a href="/wiki/Speech_delay" title="Speech delay">Speech delay</a></li>
+<li>Poor physical coordination</li>
+<li><a href="/wiki/Polyphagia" title="Polyphagia">Hyperphagia</a> (over-eating) begins between the age of 2 and 8, and continues on throughout adulthood. Note change from feeding difficulties in infancy.</li>
+<li><a href="/wiki/Childhood_obesity" title="Childhood obesity">Excessive weight gain</a></li>
+<li><a href="/wiki/Sleep_disorders" title="Sleep disorders" class="mw-redirect">Sleep disorders</a></li>
+<li>Delayed puberty</li>
+<li>Short stature</li>
+<li><a href="/wiki/Obesity" title="Obesity">Obesity</a></li>
+<li>Extreme flexibility</li>
+</ul>
+<h3><span class="mw-headline" id="Adulthood">Adulthood</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=4" title="Edit section: Adulthood">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Infertility (males and females)</li>
+<li><a href="/wiki/Hypogonadism" title="Hypogonadism">Hypogonadism</a></li>
+<li>Sparse pubic hair</li>
+<li>Obesity</li>
+<li>Hypotonia (low muscle tone)</li>
+<li>Learning disabilities/borderline intellectual functioning (but some cases of average intelligence)</li>
+<li>Prone to <a href="/wiki/Diabetes_mellitus" title="Diabetes mellitus">diabetes mellitus</a></li>
+<li>Extreme flexibility</li>
+</ul>
+<h3><span class="mw-headline" id="Physical_appearance">Physical appearance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=5" title="Edit section: Physical appearance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Prominent nasal bridge</li>
+<li>Small hands and feet with tapering of fingers</li>
+<li>Soft skin, which is easily bruised</li>
+<li>Excess fat, especially in the central portion of the body</li>
+<li>High, narrow forehead</li>
+<li>Thin upper lip</li>
+<li>Downturned mouth</li>
+<li>Almond-shaped eyes</li>
+<li>Light skin and hair relative to other family members</li>
+<li>Lack of complete sexual development</li>
+<li>Frequent <a href="/wiki/Skin_picking" title="Skin picking" class="mw-redirect">skin picking</a></li>
+<li><a href="/wiki/Stretch_marks" title="Stretch marks">Striae</a></li>
+<li>Delayed motor development</li>
+</ul>
+<h3><span class="mw-headline" id="Neuro-cognitive">Neuro-cognitive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=6" title="Edit section: Neuro-cognitive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Individuals with PWS are at risk of learning and attention difficulties. Curfs and Fryns (1992) conducted research into the varying degrees of <a href="/wiki/Learning_disability" title="Learning disability">learning disability</a> found in PWS.<sup id="cite_ref-pmid1340242_6-0" class="reference"><a href="#cite_note-pmid1340242-6"><span>[</span>6<span>]</span></a></sup> Their results, using a measure of <a href="/wiki/IQ" title="IQ" class="mw-redirect">IQ</a>, were as follows:</p>
+<ul>
+<li>5%: IQ above 85 (high to low average intelligence)</li>
+<li>27%: IQ 70–85 (borderline intellectual functioning)</li>
+<li>39%: IQ 50–70 (mild intellectual disability)</li>
+<li>27%: IQ 35–50 (moderate intellectual disability)</li>
+<li>1%: IQ 20–35 (severe intellectual disability)</li>
+<li>&lt;1%: IQ &lt;20 (profound intellectual disability)</li>
+</ul>
+<p>Cassidy found that 40% of individuals with PWS have borderline/low average intelligence,<sup id="cite_ref-pmid9391886_7-0" class="reference"><a href="#cite_note-pmid9391886-7"><span>[</span>7<span>]</span></a></sup> a figure higher than the 32% found in Curfs and Fryns' study.<sup id="cite_ref-pmid1340242_6-1" class="reference"><a href="#cite_note-pmid1340242-6"><span>[</span>6<span>]</span></a></sup> However, both studies suggest that most individuals (50–65%) fall within the mild/borderline/low average intelligence range.</p>
+<p>Parents report that some children have IQs &gt;110 and function normally in school.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2014)">citation needed</span></a></i>]</sup></p>
+<p>Children with PWS show an unusual cognitive profile. They are often strong in visual organization and perception, including reading and vocabulary, but their spoken language (sometimes affected by <a href="/wiki/Hypernasality" title="Hypernasality" class="mw-redirect">hypernasality</a>) is generally poorer than their comprehension. A marked skill in completing <a href="/wiki/Jigsaw_puzzle" title="Jigsaw puzzle">jigsaw puzzles</a> has been noted,<sup id="cite_ref-Udwin_8-0" class="reference"><a href="#cite_note-Udwin-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> but this may be an effect of increased practice.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Auditory information processing and sequential processing are relatively poor, as are arithmetic and writing skills, visual and <a href="/wiki/Working_memory" title="Working memory">auditory short-term memory</a> and auditory <a href="/wiki/Attention_span" title="Attention span">attention span</a>. These sometimes improve with age, but deficits in these areas remain throughout adulthood.<sup id="cite_ref-Udwin_8-1" class="reference"><a href="#cite_note-Udwin-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Behavioral">Behavioral</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=7" title="Edit section: Behavioral">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prader–Willi syndrome is frequently associated with an extreme and insatiable appetite, often resulting in <a href="/wiki/Morbid_obesity" title="Morbid obesity" class="mw-redirect">morbid obesity</a>. It is the most common genetic cause of morbid obesity in children.<sup id="cite_ref-Nordqvist_11-0" class="reference"><a href="#cite_note-Nordqvist-11"><span>[</span>11<span>]</span></a></sup> There is currently no consensus as to the cause for this symptom, although genetic abnormalities in chromosome 15 disrupt the normal functioning of the hypothalamus.<sup id="cite_ref-pmid9391886_7-1" class="reference"><a href="#cite_note-pmid9391886-7"><span>[</span>7<span>]</span></a></sup> Given that the hypothalamus <a href="/wiki/Arcuate_nucleus" title="Arcuate nucleus">arcuate nucleus</a> regulates many basic processes, including appetite, there may well be a link. In the hypothalamus of people with PWS, nerve cells that produce <a href="/wiki/Oxytocin" title="Oxytocin">oxytocin</a>, a hormone thought to contribute to satiety, have been found to be abnormal.</p>
+<p>People with Prader–Willi syndrome have high <a href="/wiki/Ghrelin" title="Ghrelin">ghrelin</a> levels, which are thought to directly contribute to the increased appetite, hyperphagia, and obesity seen in this syndrome. Cassidy states the need for a clear delineation of behavioral expectations, the reinforcement of behavioural limits and the establishment of regular routines.</p>
+<p>The main mental health difficulties experienced by people with PWS include compulsive behaviour (usually manifested in skin picking) and anxiety.<sup id="cite_ref-Udwin_8-2" class="reference"><a href="#cite_note-Udwin-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Psychiatric symptoms, for example, hallucinations, paranoia and depression, have been described in some cases<sup id="cite_ref-Udwin_8-3" class="reference"><a href="#cite_note-Udwin-8"><span>[</span>8<span>]</span></a></sup> and affect approximately 5–10% of young adults.<sup id="cite_ref-pmid9391886_7-2" class="reference"><a href="#cite_note-pmid9391886-7"><span>[</span>7<span>]</span></a></sup> Psychiatric and behavioural problems are the most common cause of hospitalization.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Endocrine">Endocrine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=8" title="Edit section: Endocrine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are several aspects of PWS that support the concept of growth hormone deficiency in individuals with PWS. Specifically, individuals with PWS have short stature, are obese with abnormal body composition, have reduced fat free mass (FFM), have reduced lean body mass (LBM) and total energy expenditure, and have decreased bone density.</p>
+<p>PWS is characterized by hypogonadism. This is manifested as undescended testes in males and benign premature <a href="/wiki/Adrenarche" title="Adrenarche">adrenarche</a> in females. Testes may descend with time or can be managed with surgery or testosterone replacement. Adrenarche may be treated with hormone replacement therapy.</p>
+<h3><span class="mw-headline" id="Ophthalmologic">Ophthalmologic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=9" title="Edit section: Ophthalmologic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>PWS is commonly associated with development of <a href="/wiki/Strabismus" title="Strabismus">strabismus</a>. In one study,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> over 50% of patients had strabismus, mainly esotropia.</p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=10" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a href="/wiki/File:Angelman.PNG" class="image"><img alt="Angelman.PNG" src="//upload.wikimedia.org/wikipedia/commons/2/24/Angelman.PNG" width="102" height="494" data-file-width="102" data-file-height="494" /></a></div>
+<p>PWS is caused by the deletion of the paternal copies of the <a href="/wiki/Small_nuclear_ribonucleoprotein_polypeptide_N" title="Small nuclear ribonucleoprotein polypeptide N">SNRPN</a> and <a href="/wiki/NDN_(gene)" title="NDN (gene)">necdin</a> genes along with clusters of <a href="/wiki/SnoRNA" title="SnoRNA" class="mw-redirect">snoRNAs</a>: <a href="/wiki/Small_nucleolar_RNA_SNORD64" title="Small nucleolar RNA SNORD64">SNORD64</a>, SNORD107, SNORD108 and two copies of SNORD109, 29 copies of <a href="/wiki/Small_nucleolar_RNA_SNORD116" title="Small nucleolar RNA SNORD116">SNORD116</a> (HBII-85) and 48 copies of <a href="/wiki/Small_nucleolar_RNA_SNORD115" title="Small nucleolar RNA SNORD115">SNORD115</a> (HBII-52). These are on <a href="/wiki/Chromosome_15_(human)" title="Chromosome 15 (human)">chromosome 15</a> located in the region 15q11-13.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> This so-called PWS/AS region may be lost by one of several genetic mechanisms which, in the majority of instances occurs through chance mutation. Other less common mechanisms include; <a href="/wiki/Uniparental_disomy" title="Uniparental disomy">uniparental disomy</a>, sporadic <a href="/wiki/Mutations" title="Mutations" class="mw-redirect">mutations</a>, chromosome <a href="/wiki/Translocations" title="Translocations" class="mw-redirect">translocations</a>, and gene deletions. Due to imprinting, the maternally inherited copies of these genes are virtually silent, only the paternal copies of the genes are expressed.<sup id="cite_ref-pmid7795645_18-0" class="reference"><a href="#cite_note-pmid7795645-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> PWS results from the loss of paternal copies of this region. Deletion of the same region on the maternal chromosome causes <a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a> (AS). PWS and AS represent the first reported instances of imprinting disorders in humans.</p>
+<p>The risk to the sibling of an affected child of having PWS depends upon the genetic mechanism which caused the disorder. The risk to siblings is &lt;1% if the affected child has a gene deletion or uniparental disomy, up to 50% if the affected child has a mutation of the imprinting control region, and up to 25% if a parental chromosomal translocation is present. <a href="/wiki/Prenatal_testing" title="Prenatal testing" class="mw-redirect">Prenatal testing</a> is possible for any of the known genetic mechanisms.</p>
+<p>A <a href="/wiki/Microdeletion" title="Microdeletion" class="mw-redirect">microdeletion</a> in one family of the snoRNA HBII-52 has excluded it from playing a major role in the disease.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Studies of human and mouse model systems have shown that deletion of the 29 copies of the C/D box snoRNA <a href="/wiki/Small_nucleolar_RNA_SNORD116" title="Small nucleolar RNA SNORD116">SNORD116</a> (HBII-85) has been shown to be the primary cause of Prader–Willi syndrome.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=11" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pws.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pws.jpg/220px-Pws.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pws.jpg/330px-Pws.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pws.jpg/440px-Pws.jpg 2x" data-file-width="720" data-file-height="540" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Pws.jpg" class="internal" title="Enlarge"></a></div>
+Prader-Willi syndrome phenotype at 15 years of age. Note absence of typical PWS facial features and presence of mild truncal obesity.</div>
+</div>
+</div>
+<p>PWS affects approximately 1 in 10,000 to 1 in 25,000 newborns.<sup id="cite_ref-killeen-41_26-0" class="reference"><a href="#cite_note-killeen-41-26"><span>[</span>26<span>]</span></a></sup> There are more than 400,000 people who live with PWS around the world.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> It is traditionally characterized by <a href="/wiki/Hypotonia" title="Hypotonia">hypotonia</a>, short stature, <a href="/wiki/Hyperphagia" title="Hyperphagia" class="mw-redirect">hyperphagia</a>, <a href="/wiki/Obesity" title="Obesity">obesity</a>, behavioral issues (specifically <a href="/wiki/Obsessive%E2%80%93compulsive_disorder" title="Obsessive–compulsive disorder">OCD</a>-like behaviors), small hands and feet, <a href="/wiki/Hypogonadism" title="Hypogonadism">hypogonadism</a>, and mild intellectual disability.<sup id="cite_ref-killeen-41_26-1" class="reference"><a href="#cite_note-killeen-41-26"><span>[</span>26<span>]</span></a></sup> However, with early diagnosis and early treatment (such as with growth hormone therapy), the prognosis for persons with PWS is beginning to change. Like autism, PWS is a spectrum disorder and symptoms can range from mild to severe and may change throughout the person's lifetime. Various organ systems are affected.</p>
+<p>Traditionally, Prader–Willi syndrome was diagnosed by clinical presentation. Currently, the syndrome is diagnosed through genetic testing; testing is recommended for newborns with pronounced <a href="/wiki/Hypotonia" title="Hypotonia">hypotonia</a>. Early diagnosis of PWS allows for early intervention as well as the early prescription of <a href="/wiki/Growth_hormone" title="Growth hormone">growth hormone</a>. Daily recombinant growth hormone (GH) injections are indicated for children with PWS. GH supports linear growth and increased muscle mass, and may lessen food preoccupation and weight gain.</p>
+<p>The mainstay of diagnosis is <a href="/wiki/Genetic_testing" title="Genetic testing">genetic testing</a>, specifically DNA-based methylation testing to detect the absence of the paternally contributed Prader–Willi syndrome/<a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a> (PWS/AS) region on <a href="/wiki/Chromosome" title="Chromosome">chromosome</a> 15q11-q13. Such testing detects over 97% of cases. Methylation-specific testing is important to confirm the diagnosis of PWS in all individuals, but especially those who are too young to manifest sufficient features to make the diagnosis on clinical grounds or in those individuals who have atypical findings.</p>
+<p>Prader–Willi syndrome is often misdiagnosed as other syndromes due to many in the medical community's unfamiliarity with PWS.<sup id="cite_ref-Nordqvist_11-1" class="reference"><a href="#cite_note-Nordqvist-11"><span>[</span>11<span>]</span></a></sup> Sometimes it is misdiagnosed as <a href="/wiki/Down_syndrome" title="Down syndrome">Down syndrome</a>, simply because of the relative frequency of Down syndrome compared to PWS.<sup id="cite_ref-Nordqvist_11-2" class="reference"><a href="#cite_note-Nordqvist-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=12" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prader–Willi syndrome has no cure; however, several treatments are in place to lessen the condition's symptoms. During infancy, subjects should undergo therapies to improve muscle tone. Speech and occupational therapy are also indicated. During the school years, children benefit from a highly structured learning environment as well as extra help. The largest problem associated with the syndrome is severe obesity.</p>
+<p>Prescription of daily recombinant <a href="/wiki/Growth_hormone" title="Growth hormone">growth hormone</a> injections are indicated for children with PWS. GH supports linear growth and increased muscle mass, and may lessen food preoccupation and weight gain.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup></p>
+<p>Because of severe obesity, obstructive <a href="/wiki/Sleep_apnea" title="Sleep apnea">sleep apnea</a> is a common <a href="/wiki/Sequelae" title="Sequelae" class="mw-redirect">sequela</a>, and a <a href="/wiki/Positive_airway_pressure" title="Positive airway pressure">positive airway pressure</a> machine is often needed. There may come a time when a person who has been diagnosed with PWS may have to undergo surgical procedures. One surgery that has proven to be unsuccessful for treating the obesity is gastric bypass. Patients with Prader–Willi syndrome have a very high tolerance to pain; therefore they may be experiencing significant abdominal symptoms such as acute gastritis, appendicitis, or cholecystitis and not be aware of it until later.</p>
+<h2><span class="mw-headline" id="Society_and_culture">Society and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=13" title="Edit section: Society and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:La_monstrua_desnuda_(1680),_de_Juan_Carre%C3%B1o_de_Miranda..jpg" class="image"><img alt="A nude painting of a dark-haired pink-cheeked obese girl leaning against a table. She is holding grapes and grape leaves in her left hand which cover her genitalia." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/La_monstrua_desnuda_%281680%29%2C_de_Juan_Carre%C3%B1o_de_Miranda..jpg/170px-La_monstrua_desnuda_%281680%29%2C_de_Juan_Carre%C3%B1o_de_Miranda..jpg" width="170" height="253" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/La_monstrua_desnuda_%281680%29%2C_de_Juan_Carre%C3%B1o_de_Miranda..jpg/255px-La_monstrua_desnuda_%281680%29%2C_de_Juan_Carre%C3%B1o_de_Miranda..jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/La_monstrua_desnuda_%281680%29%2C_de_Juan_Carre%C3%B1o_de_Miranda..jpg/340px-La_monstrua_desnuda_%281680%29%2C_de_Juan_Carre%C3%B1o_de_Miranda..jpg 2x" data-file-width="2049" data-file-height="3051" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:La_monstrua_desnuda_(1680),_de_Juan_Carre%C3%B1o_de_Miranda..jpg" class="internal" title="Enlarge"></a></div>
+A 1680 painting by <a href="/wiki/Juan_Carreno_de_Miranda" title="Juan Carreno de Miranda" class="mw-redirect">Juan Carreno de Miranda</a> of Eugenia Martínez Vallejo, a girl presumed to have Prader-Willi syndrome<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></div>
+</div>
+</div>
+<p>Despite its rarity, Prader–Willi syndrome has been often referenced in popular culture, partly due to the fascination surrounding the insatiable appetite and obesity that are symptoms.</p>
+<p>Prader–Willi syndrome has been depicted and documented several times in television. A fictional individual with Prader-Willi syndrome featured in the episode "Dog Eat Dog" of the television series <i><a href="/wiki/CSI:_Crime_Scene_Investigation" title="CSI: Crime Scene Investigation">CSI: Crime Scene Investigation</a></i>, which aired on November 24, 2005.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> In the UK media in July 2007, <a href="/wiki/Channel_4" title="Channel 4">Channel 4</a> aired a 2006 documentary called <i><a href="/wiki/Can%27t_Stop_Eating_(documentary)" title="Can't Stop Eating (documentary)" class="mw-redirect">Can't Stop Eating</a></i>, surrounding the everyday lives of two people with Prader–Willi syndrome, Joe and Tamara.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup> In the May 9, 2010 episode of <i><a href="/wiki/Extreme_Makeover:_Home_Edition" title="Extreme Makeover: Home Edition">Extreme Makeover: Home Edition</a>,</i> <a href="/wiki/Sheryl_Crow" title="Sheryl Crow">Sheryl Crow</a> helped <a href="/wiki/Ty_Pennington" title="Ty Pennington">Ty Pennington</a> rebuild a home for a family whose youngest son, Ethan Starkweather, was suffering from Prader-Willi syndrome.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> In the March 22, 2012 episode of <i><a href="/wiki/Mystery_Diagnosis" title="Mystery Diagnosis">Mystery Diagnosis</a></i> on the Discovery Health channel, Conor Heybach, who has Prader-Willi syndrome, shared his story of how he was diagnosed with it.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup></p>
+<p>In December 2011 the <i><a href="/wiki/Taipei_Times" title="Taipei Times">Taipei Times</a></i>, in <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>, highlighted the tragedy of a taxi driver who had killed himself and his nine-year-old daughter who had the condition, in what police described as a "probable murder-suicide."<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<p>Actress <a href="/wiki/Mayim_Bialik" title="Mayim Bialik">Mayim Bialik</a> — former star of TV's <i><a href="/wiki/Blossom_(TV_series)" title="Blossom (TV series)">Blossom</a></i> and currently playing a neuroscientist named <a href="/wiki/Amy_Farrah_Fowler" title="Amy Farrah Fowler" class="mw-redirect">Amy Farrah Fowler</a> on <i><a href="/wiki/The_Big_Bang_Theory" title="The Big Bang Theory">The Big Bang Theory</a></i> — completed her PhD in 2007 with a dissertation on Prader–Willi syndrome: "Hypothalamic regulation in relation to maladaptive, obsessive-compulsive, affiliative, and satiety behaviors in Prader-Willi syndrome."<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>37<span>]</span></a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>39<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Genomic_imprinting" title="Genomic imprinting">Genomic imprinting</a></li>
+<li><a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a></li>
+<li><a href="/wiki/Epigenetics" title="Epigenetics">Epigenetics</a></li>
+<li><a href="/wiki/ROHHAD" title="ROHHAD">ROHHAD</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/1836.html">synd/1836</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.pwsausa.org/faq.htm">"Questions and Answers on Prader-Willi Syndrome"</a>. <i>Prader-Willi Syndrome Association</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 2,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Questions+and+Answers+on+Prader-Willi+Syndrome&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pwsausa.org%2Ffaq.htm&amp;rft.jtitle=Prader-Willi+Syndrome+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Cassidy SB, Schwartz S, Miller JL, Driscoll DJ (2011). "Prader-Willi syndrome". <i>Genetics in Medicine</i> <b>14</b> (1): 10–26. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fgim.0b013e31822bead0">10.1038/gim.0b013e31822bead0</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22237428">22237428</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Prader-Willi+syndrome&amp;rft.au=Cassidy+SB%2C+Schwartz+S%2C+Miller+JL%2C+Driscoll+DJ&amp;rft.aulast=Cassidy+SB%2C+Schwartz+S%2C+Miller+JL%2C+Driscoll+DJ&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fgim.0b013e31822bead0&amp;rft_id=info%3Apmid%2F22237428&amp;rft.issue=1&amp;rft.jtitle=Genetics+in+Medicine&amp;rft.pages=10-26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span> "Absence of the paternally inherited copy of these genes, or failure to express them, causes total absence of expression for those genes in the affected individual because the maternal contribution for these genes has been programmed by epigenetic factors to be silenced"</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.nichd.nih.gov/health/topics/prader-willi/conditioninfo/Pages/faqs.aspx">"Prader-Willi Syndrome (PWS): Other FAQs"</a>. Nichd.nih.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Prader-Willi+Syndrome+%28PWS%29%3A+Other+FAQs&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nichd.nih.gov%2Fhealth%2Ftopics%2Fprader-willi%2Fconditioninfo%2FPages%2Ffaqs.aspx&amp;rft.pub=Nichd.nih.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book">Butler, Merlin Gene (2006). <a rel="nofollow" class="external text" href="http://www.amazon.ca/gp/search?index=books&amp;linkCode=qs&amp;keywords=0387253971"><i>Management of Prader-Willi Syndrome</i></a>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-25397-8" title="Special:BookSources/978-0-387-25397-8">978-0-387-25397-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.au=Butler%2C+Merlin+Gene&amp;rft.aufirst=Merlin+Gene&amp;rft.aulast=Butler&amp;rft.btitle=Management+of+Prader-Willi+Syndrome&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.ca%2Fgp%2Fsearch%3Findex%3Dbooks%26linkCode%3Dqs%26keywords%3D0387253971&amp;rft.isbn=978-0-387-25397-8&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid1340242-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid1340242_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid1340242_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Curfs LM, Fryns JP (1992). "Prader-Willi syndrome: a review with special attention to the cognitive and behavioral profile". <i>Birth Defects Orig. Artic. Ser.</i> <b>28</b> (1): 99–104. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1340242">1340242</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Prader-Willi+syndrome%3A+a+review+with+special+attention+to+the+cognitive+and+behavioral+profile&amp;rft.au=Curfs+LM%2C+Fryns+JP&amp;rft.aulast=Curfs+LM%2C+Fryns+JP&amp;rft.date=1992&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F1340242&amp;rft.issue=1&amp;rft.jtitle=Birth+Defects+Orig.+Artic.+Ser.&amp;rft.pages=99-104&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid9391886-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid9391886_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid9391886_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pmid9391886_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Cassidy SB (1997). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1051120">"Prader-Willi syndrome"</a>. <i>Journal of Medical Genetics</i> <b>34</b> (11): 917–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjmg.34.11.917">10.1136/jmg.34.11.917</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1051120">1051120</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9391886">9391886</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Prader-Willi+syndrome&amp;rft.au=Cassidy+SB&amp;rft.aulast=Cassidy+SB&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1051120&amp;rft_id=info%3Adoi%2F10.1136%2Fjmg.34.11.917&amp;rft_id=info%3Apmc%2F1051120&amp;rft_id=info%3Apmid%2F9391886&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Medical+Genetics&amp;rft.pages=917-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Udwin-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Udwin_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Udwin_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Udwin_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Udwin_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Udwin O (November 1998). <a rel="nofollow" class="external text" href="http://www.cafamily.org.uk/medicalinformation/conditions/azlistings/p33_3.html">"Prader-Willi syndrome: Psychological and behavioural characteristics"</a>. Contact a Family.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.aulast=Udwin+O&amp;rft.au=Udwin+O&amp;rft.btitle=Prader-Willi+syndrome%3A+Psychological+and+behavioural+characteristics&amp;rft.date=November+1998&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cafamily.org.uk%2Fmedicalinformation%2Fconditions%2Fazlistings%2Fp33_3.html&amp;rft.pub=Contact+a+Family&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation journal">Holm VA, Cassidy SB, Butler MG, Hanchett JM, Greenswag LR, Whitman BY, Greenberg F (1993). "Prader-Willi syndrome: consensus diagnostic criteria". <i>Pediatrics</i> <b>91</b> (2): 398–402. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8424017">8424017</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Prader-Willi+syndrome%3A+consensus+diagnostic+criteria&amp;rft.au=Holm+VA%2C+Cassidy+SB%2C+Butler+MG%2C+Hanchett+JM%2C+Greenswag+LR%2C+Whitman+BY%2C+Greenberg+F&amp;rft.aulast=Holm+VA%2C+Cassidy+SB%2C+Butler+MG%2C+Hanchett+JM%2C+Greenswag+LR%2C+Whitman+BY%2C+Greenberg+F&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F8424017&amp;rft.issue=2&amp;rft.jtitle=Pediatrics&amp;rft.pages=398-402&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=91" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation journal">Whittington J, Holland A, Webb T, Butler J, Clarke D, Boer H (February 2004). "Cognitive abilities and genotype in a population-based sample of people with Prader-Willi syndrome". <i>J Intellect Disabil Res</i> <b>48</b> (Pt 2): 172–87. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1365-2788.2004.00556.x">10.1111/j.1365-2788.2004.00556.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14723659">14723659</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Cognitive+abilities+and+genotype+in+a+population-based+sample+of+people+with+Prader-Willi+syndrome&amp;rft.aulast=Whittington+J%2C+Holland+A%2C+Webb+T%2C+Butler+J%2C+Clarke+D%2C+Boer+H&amp;rft.au=Whittington+J%2C+Holland+A%2C+Webb+T%2C+Butler+J%2C+Clarke+D%2C+Boer+H&amp;rft.date=February+2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-2788.2004.00556.x&amp;rft_id=info%3Apmid%2F14723659&amp;rft.issue=Pt+2&amp;rft.jtitle=J+Intellect+Disabil+Res&amp;rft.pages=172-87&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=48" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Nordqvist-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Nordqvist_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Nordqvist_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Nordqvist_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Nordqvist, Christian (March 15, 2010). <a rel="nofollow" class="external text" href="http://www.medicalnewstoday.com/articles/182287.php">"What Is Prader-Willi Syndrome? What Causes Prader-Willi Syndrome?"</a>. <i>Medical News Today</i>. MediLexicon International<span class="reference-accessdate">. Retrieved <span class="nowrap">December 4,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=What+Is+Prader-Willi+Syndrome%3F+What+Causes+Prader-Willi+Syndrome%3F&amp;rft.aufirst=Christian&amp;rft.aulast=Nordqvist&amp;rft.au=Nordqvist%2C+Christian&amp;rft.date=March+15%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.medicalnewstoday.com%2Farticles%2F182287.php&amp;rft.jtitle=Medical+News+Today&amp;rft.pub=MediLexicon+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation journal">Clark DJ, Boer H, Webb T (1995). "General and behavioural aspects of PWS: a review". <i>Mental Health Research</i> <b>8</b> (195): 38–49.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=General+and+behavioural+aspects+of+PWS%3A+a+review&amp;rft.au=Clark+DJ%2C+Boer+H%2C+Webb+T&amp;rft.aulast=Clark+DJ%2C+Boer+H%2C+Webb+T&amp;rft.date=1995&amp;rft.genre=article&amp;rft.issue=195&amp;rft.jtitle=Mental+Health+Research&amp;rft.pages=38-49&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Cassidy SB, Devi A, Mukaida C (1994). "Aging in PWS: 232 patients over age 30 years". <i>Proc. Greenwood Genetic Centre</i> <b>13</b>: 102–3.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Aging+in+PWS%3A+232+patients+over+age+30+years&amp;rft.au=Cassidy+SB%2C+Devi+A%2C+Mukaida+C&amp;rft.aulast=Cassidy+SB%2C+Devi+A%2C+Mukaida+C&amp;rft.date=1994&amp;rft.genre=article&amp;rft.jtitle=Proc.+Greenwood+Genetic+Centre&amp;rft.pages=102-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation journal">Hered RW, Rogers S, Zang YF, Biglan AW (1988). "Ophthalmologic features of Prader-Willi syndrome". <i>J Pediatr Ophthalmol Strabismus</i> <b>25</b> (3): 145–50. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3397859">3397859</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Ophthalmologic+features+of+Prader-Willi+syndrome&amp;rft.au=Hered+RW%2C+Rogers+S%2C+Zang+YF%2C+Biglan+AW&amp;rft.aulast=Hered+RW%2C+Rogers+S%2C+Zang+YF%2C+Biglan+AW&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F3397859&amp;rft.issue=3&amp;rft.jtitle=J+Pediatr+Ophthalmol+Strabismus&amp;rft.pages=145-50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="/wiki/Mendelian_Inheritance_in_Man" title="Mendelian Inheritance in Man" class="mw-redirect">Online 'Mendelian Inheritance in Man'</a> (OMIM) <a rel="nofollow" class="external text" href="//omim.org/entry/17627">Prader-Willi Syndrome; PWS -17627</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation journal">de los Santos T, Schweizer J, Rees CA, Francke U (November 2000). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1288549">"Small evolutionarily conserved RNA, resembling C/D box small nucleolar RNA, is transcribed from PWCR1, a novel imprinted gene in the Prader-Willi deletion region, which Is highly expressed in brain"</a>. <i>American Journal of Human Genetics</i> <b>67</b> (5): 1067–82. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F303106">10.1086/303106</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1288549">1288549</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11007541">11007541</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Small+evolutionarily+conserved+RNA%2C+resembling+C%2FD+box+small+nucleolar+RNA%2C+is+transcribed+from+PWCR1%2C+a+novel+imprinted+gene+in+the+Prader-Willi+deletion+region%2C+which+Is+highly+expressed+in+brain&amp;rft.au=de+los+Santos+T%2C+Schweizer+J%2C+Rees+CA%2C+Francke+U&amp;rft.aulast=de+los+Santos+T%2C+Schweizer+J%2C+Rees+CA%2C+Francke+U&amp;rft.date=November+2000&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1288549&amp;rft_id=info%3Adoi%2F10.1086%2F303106&amp;rft_id=info%3Apmc%2F1288549&amp;rft_id=info%3Apmid%2F11007541&amp;rft.issue=5&amp;rft.jtitle=American+Journal+of+Human+Genetics&amp;rft.pages=1067-82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=67" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation journal">Cavaillé J, Buiting K, Kiefmann M, Lalande M, Brannan CI, Horsthemke B, Bachellerie JP, Brosius J, Hüttenhofer A (December 2000). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC18915">"Identification of brain-specific and imprinted small nucleolar RNA genes exhibiting an unusual genomic organization"</a>. <i>Proc. Natl. Acad. Sci. U.S.A..</i> <b>97</b> (26): 14311–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.250426397">10.1073/pnas.250426397</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC18915">18915</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11106375">11106375</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Identification+of+brain-specific+and+imprinted+small+nucleolar+RNA+genes+exhibiting+an+unusual+genomic+organization&amp;rft.au=Cavaill%C3%A9+J%2C+Buiting+K%2C+Kiefmann+M%2C+Lalande+M%2C+Brannan+CI%2C+Horsthemke+B%2C+Bachellerie+JP%2C+Brosius+J%2C+H%C3%BCttenhofer+A&amp;rft.aulast=Cavaill%C3%A9+J%2C+Buiting+K%2C+Kiefmann+M%2C+Lalande+M%2C+Brannan+CI%2C+Horsthemke+B%2C+Bachellerie+JP%2C+Brosius+J%2C+H%C3%BCttenhofer+A&amp;rft.date=December+2000&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC18915&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.250426397&amp;rft_id=info%3Apmc%2F18915&amp;rft_id=info%3Apmid%2F11106375&amp;rft.issue=26&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A..&amp;rft.pages=14311-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=97" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid7795645-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7795645_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Buiting, K; Saitoh, S; Gross, S; Dittrich, B; Schwartz, S; Nicholls, RD; Horsthemke, B (April 1995). "Inherited microdeletions in the Angelman and Prader-Willi syndromes define an imprinting centre on human chromosome 15.". <i>Nature genetics</i> <b>9</b> (4): 395–400. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7795645">7795645</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Inherited+microdeletions+in+the+Angelman+and+Prader-Willi+syndromes+define+an+imprinting+centre+on+human+chromosome+15.&amp;rft.au=Buiting%2C+K&amp;rft.au=Dittrich%2C+B&amp;rft.aufirst=K&amp;rft.au=Gross%2C+S&amp;rft.au=Horsthemke%2C+B&amp;rft.aulast=Buiting&amp;rft.au=Nicholls%2C+RD&amp;rft.au=Saitoh%2C+S&amp;rft.au=Schwartz%2C+S&amp;rft.date=April+1995&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F7795645&amp;rft.issue=4&amp;rft.jtitle=Nature+genetics&amp;rft.pages=395-400&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://medicalxpress.com/news/2014-05-major-breakthrough-prader-willi-syndrome-parental.html">"Major breakthrough in understanding Prader-Willi syndrome, a parental imprinting disorder"</a>. Medicalxpress.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Major+breakthrough+in+understanding+Prader-Willi+syndrome%2C+a+parental+imprinting+disorder&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmedicalxpress.com%2Fnews%2F2014-05-major-breakthrough-prader-willi-syndrome-parental.html&amp;rft.pub=Medicalxpress.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation journal">Runte M, Varon R, Horn D, Horsthemke B, Buiting K (2005). "Exclusion of the C/D box snoRNA gene cluster HBII-52 from a major role in Prader-Willi syndrome.". <i>Hum Genet</i> <b>116</b> (3): 228–30. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00439-004-1219-2">10.1007/s00439-004-1219-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15565282">15565282</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Exclusion+of+the+C%2FD+box+snoRNA+gene+cluster+HBII-52+from+a+major+role+in+Prader-Willi+syndrome.&amp;rft.aulast=Runte+M%2C+Varon+R%2C+Horn+D%2C+Horsthemke+B%2C+Buiting+K&amp;rft.au=Runte+M%2C+Varon+R%2C+Horn+D%2C+Horsthemke+B%2C+Buiting+K&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs00439-004-1219-2&amp;rft_id=info%3Apmid%2F15565282&amp;rft.issue=3&amp;rft.jtitle=Hum+Genet&amp;rft.pages=228-30&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=116" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation journal">Skryabin BV, Gubar LV, Seeger B, Pfeiffer J, Handel S, Robeck T, Karpova E, Rozhdestvensky TS, Brosius J (2007). <a rel="nofollow" class="external text" href="http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.0030235">"Deletion of the MBII-85 snoRNA gene cluster in mice results in postnatal growth retardation"</a>. <i>PLoS Genet.</i> <b>3</b> (12): e235. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1371%2Fjournal.pgen.0030235">10.1371/journal.pgen.0030235</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2323313">2323313</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18166085">18166085</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Deletion+of+the+MBII-85+snoRNA+gene+cluster+in+mice+results+in+postnatal+growth+retardation&amp;rft.aulast=Skryabin+BV%2C+Gubar+LV%2C+Seeger+B%2C+Pfeiffer+J%2C+Handel+S%2C+Robeck+T%2C+Karpova+E%2C+Rozhdestvensky+TS%2C+Brosius+J&amp;rft.au=Skryabin+BV%2C+Gubar+LV%2C+Seeger+B%2C+Pfeiffer+J%2C+Handel+S%2C+Robeck+T%2C+Karpova+E%2C+Rozhdestvensky+TS%2C+Brosius+J&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.plosgenetics.org%2Farticle%2Finfo%3Adoi%2F10.1371%2Fjournal.pgen.0030235&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pgen.0030235&amp;rft_id=info%3Apmc%2F2323313&amp;rft_id=info%3Apmid%2F18166085&amp;rft.issue=12&amp;rft.jtitle=PLoS+Genet.&amp;rft.pages=e235&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation journal">Sahoo T, del Gaudio D, German JR, Shinawi M, Peters SU, Person RE, Garnica A, Cheung SW, Beaud et al. (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2705197">"Prader-Willi phenotype caused by paternal deficiency for the HBII-85 C/D box small nucleolar RNA cluster."</a>. <i>Nat Genet</i> <b>40</b> (6): 719–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fng.158">10.1038/ng.158</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2705197">2705197</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18500341">18500341</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Prader-Willi+phenotype+caused+by+paternal+deficiency+for+the+HBII-85+C%2FD+box+small+nucleolar+RNA+cluster.&amp;rft.aulast=Sahoo+T%2C+del+Gaudio+D%2C+German+JR%2C+Shinawi+M%2C+Peters+SU%2C+Person+RE%2C+Garnica+A%2C+Cheung+SW%2C+Beaud&amp;rft.au=Sahoo+T%2C+del+Gaudio+D%2C+German+JR%2C+Shinawi+M%2C+Peters+SU%2C+Person+RE%2C+Garnica+A%2C+Cheung+SW%2C+Beaud&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2705197&amp;rft_id=info%3Adoi%2F10.1038%2Fng.158&amp;rft_id=info%3Apmc%2F2705197&amp;rft_id=info%3Apmid%2F18500341&amp;rft.issue=6&amp;rft.jtitle=Nat+Genet&amp;rft.pages=719-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=40" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation journal">Ding F, Li HH, Zhang S, Solomon NM, Camper SA, Cohen P, Francke U (2008). Akbarian, Schahram, ed. <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2248623">"SnoRNA Snord116 (Pwcr1/MBII-85) deletion causes growth deficiency and hyperphagia in mice"</a>. <i>PLoS ONE</i> <b>3</b> (3): e1709. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1371%2Fjournal.pone.0001709">10.1371/journal.pone.0001709</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2248623">2248623</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18320030">18320030</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=SnoRNA+Snord116+%28Pwcr1%2FMBII-85%29+deletion+causes+growth+deficiency+and+hyperphagia+in+mice&amp;rft.au=Ding+F%2C+Li+HH%2C+Zhang+S%2C+Solomon+NM%2C+Camper+SA%2C+Cohen+P%2C+Francke+U&amp;rft.aulast=Ding+F%2C+Li+HH%2C+Zhang+S%2C+Solomon+NM%2C+Camper+SA%2C+Cohen+P%2C+Francke+U&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2248623&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0001709&amp;rft_id=info%3Apmc%2F2248623&amp;rft_id=info%3Apmid%2F18320030&amp;rft.issue=3&amp;rft.jtitle=PLoS+ONE&amp;rft.pages=e1709&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation journal">Ding F, Prints Y, Dhar MS, Johnson DK, Garnacho-Montero C, Nicholls RD, Francke U (2005). "Lack of Pwcr1/MBII-85 snoRNA is critical for neonatal lethality in Prader-Willi syndrome mouse models". <i>Mamm Genome</i> <b>16</b> (6): 424–31. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00335-005-2460-2">10.1007/s00335-005-2460-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16075369">16075369</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Lack+of+Pwcr1%2FMBII-85+snoRNA+is+critical+for+neonatal+lethality+in+Prader-Willi+syndrome+mouse+models&amp;rft.au=Ding+F%2C+Prints+Y%2C+Dhar+MS%2C+Johnson+DK%2C+Garnacho-Montero+C%2C+Nicholls+RD%2C+Francke+U&amp;rft.aulast=Ding+F%2C+Prints+Y%2C+Dhar+MS%2C+Johnson+DK%2C+Garnacho-Montero+C%2C+Nicholls+RD%2C+Francke+U&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs00335-005-2460-2&amp;rft_id=info%3Apmid%2F16075369&amp;rft.issue=6&amp;rft.jtitle=Mamm+Genome&amp;rft.pages=424-31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation journal">de Smith AJ, Purmann C, Walters RG, Ellis RJ, Holder SE, Van Haelst MM, Brady AF, Fairbrother UL, Dattani M, Keogh JM, Henning E, Yeo GS, O'Rahilly S, Froguel P, Farooqi IS, Blakemore AI (June 2009). <a rel="nofollow" class="external text" href="http://hmg.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=19498035">"A Deletion of the HBII-85 Class of Small Nucleolar RNAs (snoRNAs) is Associated with Hyperphagia, Obesity and Hypogonadism"</a>. <i>Hum. Mol. Genet.</i> <b>18</b> (17): 3257–65. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fhmg%2Fddp263">10.1093/hmg/ddp263</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2722987">2722987</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19498035">19498035</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=A+Deletion+of+the+HBII-85+Class+of+Small+Nucleolar+RNAs+%28snoRNAs%29+is+Associated+with+Hyperphagia%2C+Obesity+and+Hypogonadism&amp;rft.au=de+Smith+AJ%2C+Purmann+C%2C+Walters+RG%2C+Ellis+RJ%2C+Holder+SE%2C+Van+Haelst+MM%2C+Brady+AF%2C+Fairbrother+UL%2C+Dattani+M%2C+Keogh+JM%2C+Henning+E%2C+Yeo+GS%2C+O%27Rahilly+S%2C+Froguel+P%2C+Farooqi+IS%2C+Blakemore+AI&amp;rft.aulast=de+Smith+AJ%2C+Purmann+C%2C+Walters+RG%2C+Ellis+RJ%2C+Holder+SE%2C+Van+Haelst+MM%2C+Brady+AF%2C+Fairbrother+UL%2C+Dattani+M%2C+Keogh+JM%2C+Henning+E%2C+Yeo+GS%2C+O%27Rahilly+S%2C+Froguel+P%2C+Farooqi+IS%2C+Blakemore+AI&amp;rft.date=June+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhmg.oxfordjournals.org%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D19498035&amp;rft_id=info%3Adoi%2F10.1093%2Fhmg%2Fddp263&amp;rft_id=info%3Apmc%2F2722987&amp;rft_id=info%3Apmid%2F19498035&amp;rft.issue=17&amp;rft.jtitle=Hum.+Mol.+Genet.&amp;rft.pages=3257-65&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-killeen-41-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-killeen-41_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-killeen-41_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Killeen, Anthony A. (2004). "Genetic Inheritance". <a rel="nofollow" class="external text" href="http://books.google.com/books?id=oHcDreGaMm0C&amp;pg=PA41"><i>Principles of Molecular Pathology</i></a>. Humana Press. p.&#160;41. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-58829-085-4" title="Special:BookSources/978-1-58829-085-4">978-1-58829-085-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Genetic+Inheritance&amp;rft.aufirst=Anthony+A.&amp;rft.au=Killeen%2C+Anthony+A.&amp;rft.aulast=Killeen&amp;rft.btitle=Principles+of+Molecular+Pathology&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoHcDreGaMm0C%26pg%3DPA41&amp;rft.isbn=978-1-58829-085-4&amp;rft.pages=41&amp;rft.pub=Humana+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web">Tweed, Katherine (September 2009). <a rel="nofollow" class="external text" href="http://www.aolhealth.com/health/living-with-prader-willi-syndrome">"Shawn Cooper Struggles with Prader Willi Syndrome"</a>. AOL Health<span class="reference-accessdate">. Retrieved September 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.aufirst=Katherine&amp;rft.aulast=Tweed&amp;rft.au=Tweed%2C+Katherine&amp;rft.btitle=Shawn+Cooper+Struggles+with+Prader+Willi+Syndrome&amp;rft.date=September+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aolhealth.com%2Fhealth%2Fliving-with-prader-willi-syndrome&amp;rft.pub=AOL+Health&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation journal">Davies PS, Evans S, Broomhead S, Clough H, Day JM, Laidlaw A, Barnes ND (May 1998). <a rel="nofollow" class="external text" href="http://adc.bmj.com/cgi/pmidlookup?view=long&amp;pmid=9659098">"Effect of growth hormone on height, weight, and body composition in Prader-Willi syndrome"</a>. <i>Arch. Dis. Child.</i> <b>78</b> (5): 474–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fadc.78.5.474">10.1136/adc.78.5.474</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1717576">1717576</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9659098">9659098</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Effect+of+growth+hormone+on+height%2C+weight%2C+and+body+composition+in+Prader-Willi+syndrome&amp;rft.au=Davies+PS%2C+Evans+S%2C+Broomhead+S%2C+Clough+H%2C+Day+JM%2C+Laidlaw+A%2C+Barnes+ND&amp;rft.aulast=Davies+PS%2C+Evans+S%2C+Broomhead+S%2C+Clough+H%2C+Day+JM%2C+Laidlaw+A%2C+Barnes+ND&amp;rft.date=May+1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fadc.bmj.com%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D9659098&amp;rft_id=info%3Adoi%2F10.1136%2Fadc.78.5.474&amp;rft_id=info%3Apmc%2F1717576&amp;rft_id=info%3Apmid%2F9659098&amp;rft.issue=5&amp;rft.jtitle=Arch.+Dis.+Child.&amp;rft.pages=474-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=78" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation journal">Carrel AL, Myers SE, Whitman BY, Allen DB (April 2002). "Benefits of long-term GH therapy in Prader-Willi syndrome: a 4-year study". <i>J. Clin. Endocrinol. Metab.</i> <b>87</b> (4): 1581–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1210%2Fjc.87.4.1581">10.1210/jc.87.4.1581</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11932286">11932286</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Benefits+of+long-term+GH+therapy+in+Prader-Willi+syndrome%3A+a+4-year+study&amp;rft.au=Carrel+AL%2C+Myers+SE%2C+Whitman+BY%2C+Allen+DB&amp;rft.aulast=Carrel+AL%2C+Myers+SE%2C+Whitman+BY%2C+Allen+DB&amp;rft.date=April+2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1210%2Fjc.87.4.1581&amp;rft_id=info%3Apmid%2F11932286&amp;rft.issue=4&amp;rft.jtitle=J.+Clin.+Endocrinol.+Metab.&amp;rft.pages=1581-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=87" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation journal">Höybye C, Hilding A, Jacobsson H, Thorén M (May 2003). <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/resolve/openurl?genre=article&amp;sid=nlm:pubmed&amp;issn=0300-0664&amp;date=2003&amp;volume=58&amp;issue=5&amp;spage=653">"Growth hormone treatment improves body composition in adults with Prader-Willi syndrome"</a>. <i>Clin. Endocrinol. (Oxf)</i> <b>58</b> (5): 653–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1046%2Fj.1365-2265.2003.01769.x">10.1046/j.1365-2265.2003.01769.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12699450">12699450</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.atitle=Growth+hormone+treatment+improves+body+composition+in+adults+with+Prader-Willi+syndrome&amp;rft.au=H%C3%B6ybye+C%2C+Hilding+A%2C+Jacobsson+H%2C+Thor%C3%A9n+M&amp;rft.aulast=H%C3%B6ybye+C%2C+Hilding+A%2C+Jacobsson+H%2C+Thor%C3%A9n+M&amp;rft.date=May+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fresolve%2Fopenurl%3Fgenre%3Darticle%26sid%3Dnlm%3Apubmed%26issn%3D0300-0664%26date%3D2003%26volume%3D58%26issue%3D5%26spage%3D653&amp;rft_id=info%3Adoi%2F10.1046%2Fj.1365-2265.2003.01769.x&amp;rft_id=info%3Apmid%2F12699450&amp;rft.issue=5&amp;rft.jtitle=Clin.+Endocrinol.+%28Oxf%29&amp;rft.pages=653-61&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=58" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation web">Mary Jones. <a rel="nofollow" class="external text" href="http://www.esst.org/newsletter2000.htm">"Case Study: Cataplexy and SOREMPs Without Excessive Daytime Sleepiness in Prader Willi Syndrome. Is This the Beginning of Narcolepsy in a Five Year Old?"</a>. European Society of Sleep Technologists<span class="reference-accessdate">. Retrieved <span class="nowrap">April 6,</span> 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.aulast=Mary+Jones&amp;rft.au=Mary+Jones&amp;rft.btitle=Case+Study%3A+Cataplexy+and+SOREMPs+Without+Excessive+Daytime+Sleepiness+in+Prader+Willi+Syndrome.+Is+This+the+Beginning+of+Narcolepsy+in+a+Five+Year+Old%3F&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.esst.org%2Fnewsletter2000.htm&amp;rft.pub=European+Society+of+Sleep+Technologists&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.csifiles.com/reviews/csi/dog_eat_dog.shtml">"Dog Eat Dog"</a>. Csifiles.com<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Dog+Eat+Dog&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.csifiles.com%2Freviews%2Fcsi%2Fdog_eat_dog.shtml&amp;rft.pub=Csifiles.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.channel4.com/health/microsites/F/family/problems/pws.html">"Can't Stop Eating"</a>. Channel4.com. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">June 12,</span> 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Can%27t+Stop+Eating&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.channel4.com%2Fhealth%2Fmicrosites%2FF%2Ffamily%2Fproblems%2Fpws.html&amp;rft.pub=Channel4.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.aoltv.com/tag/Extreme+Makeover:+Home+Edition/">"Extreme Makeover: Home Edition Articles on AOL TV"</a>. Aoltv.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Extreme+Makeover%3A+Home+Edition+Articles+on+AOL+TV&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.aoltv.com%2Ftag%2FExtreme%2BMakeover%3A%2BHome%2BEdition%2F&amp;rft.pub=Aoltv.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.pwsausa.org/Anouncements/March2010-TV.htm">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since June 2015">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://taipeitimes.com/News/taiwan/archives/2011/12/24/2003521520">Group urges more support for Prader-Willi sufferers</a>, <i>Taipei Times</i>. Published December 24, 2011. Retrieved May 27, 2012.</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/hypothalamic-regulation-in-relation-to-maladaptive-obsessive-compulsive-affiliative-and-satiety-behaviors-in-prader-willi-syndrome/oclc/261564900">"Hypothalamic regulation in relation to maladaptive, obsessive-compulsive, affiliative, and satiety behaviors in Prader-Willi syndrome (Book, 2007)"</a>. WorldCat.org. 1999-02-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Hypothalamic+regulation+in+relation+to+maladaptive%2C+obsessive-compulsive%2C+affiliative%2C+and+satiety+behaviors+in+Prader-Willi+syndrome+%28Book%2C+2007%29&amp;rft.date=1999-02-22&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.worldcat.org%2Ftitle%2Fhypothalamic-regulation-in-relation-to-maladaptive-obsessive-compulsive-affiliative-and-satiety-behaviors-in-prader-willi-syndrome%2Foclc%2F261564900&amp;rft.pub=WorldCat.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://abcnews.go.com/2020/print?id=2677187">"Life After Child Stardom - Not by the Numbers"</a>. Abcnews.go.com. November 24, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">May 27,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrader%E2%80%93Willi+syndrome&amp;rft.btitle=Life+After+Child+Stardom+-+Not+by+the+Numbers&amp;rft.date=November+24%2C+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2F2020%2Fprint%3Fid%3D2677187&amp;rft.pub=Abcnews.go.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Bialik, Mayim C. "Hypothalamic regulation in relation to maladaptive, obsessive-compulsive, affiliative, and satiety behaviors in Prader-Willi syndrome" (PhD Diss., UCLA, 2007).</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Prader-Willi_syndrome" class="extiw" title="commons:Category:Prader-Willi syndrome">Prader-Willi syndrome</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.dmoz.org/Health/Conditions_and_Diseases/Genetic_Disorders/Prader-Willi_Syndrome/">Prader–Willi syndrome</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ipwso.org">International PWS Organisation</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chromosomal_abnormalities" title="Template:Chromosomal abnormalities"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chromosomal_abnormalities" title="Template talk:Chromosomal abnormalities"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chromosomal_abnormalities&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Chromosome_abnormality" title="Chromosome abnormality">Chromosome abnormalities</a> (<a href="/wiki/ICD-10_Chapter_Q#Q90.E2.80.93Q99_.E2.80.93_Chromosomal_abnormalities.2C_not_elsewhere_classified" title="ICD-10 Chapter Q" class="mw-redirect">Q90–Q99</a>, <a href="/wiki/List_of_ICD-9_codes_740%E2%80%93759:_congenital_anomalies#Chromosomal_anomalies" title="List of ICD-9 codes 740–759: congenital anomalies">758</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Autosome" title="Autosome">Autosomal</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Trisomy" title="Trisomy">Trisomies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Down_syndrome" title="Down syndrome">Down syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_21_(human)" title="Chromosome 21 (human)">21</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Edwards_syndrome" title="Edwards syndrome">Edwards syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_18_(human)" title="Chromosome 18 (human)">18</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Patau_syndrome" title="Patau syndrome">Patau syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_13_(human)" title="Chromosome 13 (human)">13</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Trisomy_9" title="Trisomy 9">Trisomy 9</a></li>
+<li><a href="/wiki/Warkany_syndrome_2" title="Warkany syndrome 2" class="mw-redirect">Warkany syndrome 2</a>
+<ul>
+<li><a href="/wiki/Chromosome_8_(human)" title="Chromosome 8 (human)">8</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cat_eye_syndrome" title="Cat eye syndrome">Cat eye syndrome</a>/<a href="/wiki/Trisomy_22" title="Trisomy 22">Trisomy 22</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trisomy_16" title="Trisomy 16">Trisomy 16</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Monosomy" title="Monosomy">Monosomies</a>/<a href="/wiki/Deletion_(genetics)" title="Deletion (genetics)">deletions</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1q21.1_deletion_syndrome" title="1q21.1 deletion syndrome">1q21.1 deletion syndrome</a>/<a href="/wiki/1q21.1_duplication_syndrome" title="1q21.1 duplication syndrome">1q21.1 duplication syndrome</a>/<a href="/wiki/TAR_syndrome" title="TAR syndrome">TAR syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_1_(human)" title="Chromosome 1 (human)">1</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wolf%E2%80%93Hirschhorn_syndrome" title="Wolf–Hirschhorn syndrome">Wolf–Hirschhorn syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_4_(human)" title="Chromosome 4 (human)">4</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cri_du_chat" title="Cri du chat">Cri du chat</a>/<a href="/wiki/Chromosome_5q_deletion_syndrome" title="Chromosome 5q deletion syndrome">Chromosome 5q deletion syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_5_(human)" title="Chromosome 5 (human)">5</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Williams_syndrome" title="Williams syndrome">Williams syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_7_(human)" title="Chromosome 7 (human)">7</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jacobsen_syndrome" title="Jacobsen syndrome">Jacobsen syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_11_(human)" title="Chromosome 11 (human)">11</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Miller%E2%80%93Dieker_syndrome" title="Miller–Dieker syndrome">Miller–Dieker syndrome</a>/<a href="/wiki/Smith%E2%80%93Magenis_syndrome" title="Smith–Magenis syndrome">Smith–Magenis syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_17_(human)" title="Chromosome 17 (human)">17</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DiGeorge_syndrome" title="DiGeorge syndrome">DiGeorge syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+<li><a href="/wiki/22q11.2_distal_deletion_syndrome" title="22q11.2 distal deletion syndrome">22q11.2 distal deletion syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+<li><a href="/wiki/22q13_deletion_syndrome" title="22q13 deletion syndrome">22q13 deletion syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Genomic_imprinting" title="Genomic imprinting">genomic imprinting</a></i>
+<ul>
+<li><a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a>/<strong class="selflink">Prader–Willi syndrome</strong> (<a href="/wiki/Chromosome_15_(human)" title="Chromosome 15 (human)">15</a>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Distal_18q-" title="Distal 18q-">Distal 18q-</a>/<a href="/wiki/Proximal_18q-" title="Proximal 18q-">Proximal 18q-</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/X_chromosome" title="X chromosome">X</a>/<a href="/wiki/Y_chromosome" title="Y chromosome">Y</a> linked</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Monosomy" title="Monosomy">Monosomy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Turner_syndrome" title="Turner syndrome">Turner syndrome (45,X)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Trisomy" title="Trisomy">Trisomy</a>/<a href="/wiki/Tetrasomy" title="Tetrasomy">tetrasomy</a>,<br />
+<a href="/wiki/Aneuploidy" title="Aneuploidy">other karyotypes</a>/<a href="/wiki/Mosaic_(genetics)" title="Mosaic (genetics)">mosaics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Klinefelter_syndrome" title="Klinefelter syndrome">Klinefelter syndrome (47,XXY)</a></li>
+<li><a href="/wiki/XXYY_syndrome" title="XXYY syndrome">48,XXYY</a></li>
+<li><a href="/wiki/48,_XXXY" title="48, XXXY" class="mw-redirect">48,XXXY</a></li>
+<li><a href="/w/index.php?title=49,_XXXYY&amp;action=edit&amp;redlink=1" class="new" title="49, XXXYY (page does not exist)">49,XXXYY</a></li>
+<li><a href="/wiki/49,_XXXXY_syndrome" title="49, XXXXY syndrome">49,XXXXY</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Triple_X_syndrome" title="Triple X syndrome">Triple X syndrome (47,XXX)</a></li>
+<li><a href="/wiki/48,_XXXX" title="48, XXXX">48,XXXX</a></li>
+<li><a href="/wiki/49,_XXXXX" title="49, XXXXX">49,XXXXX</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/XYY_syndrome" title="XYY syndrome">47,XYY</a></li>
+<li><a href="/w/index.php?title=48,_XYYY&amp;action=edit&amp;redlink=1" class="new" title="48, XYYY (page does not exist)">48,XYYY</a></li>
+<li><a href="/w/index.php?title=49,_XYYYY&amp;action=edit&amp;redlink=1" class="new" title="49, XYYYY (page does not exist)">49,XYYYY</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/46,_XX/XY" title="46, XX/XY">46,XX/XY</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chromosomal_translocation" title="Chromosomal translocation">Translocations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leukemia" title="Leukemia">Leukemia</a>/<a href="/wiki/Lymphoma" title="Lymphoma">lymphoma</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Lymphoid</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burkitt%27s_lymphoma" title="Burkitt's lymphoma">Burkitt's lymphoma</a> t(8 <a href="/wiki/Myc" title="Myc">MYC</a>;14 <a href="/wiki/IGH@" title="IGH@">IGH</a>)</li>
+<li><a href="/wiki/Follicular_lymphoma" title="Follicular lymphoma">Follicular lymphoma</a> t(14 <a href="/wiki/IGH@" title="IGH@">IGH</a>;18 <a href="/wiki/Bcl-2" title="Bcl-2">BCL2</a>)</li>
+<li><a href="/wiki/Mantle_cell_lymphoma" title="Mantle cell lymphoma">Mantle cell lymphoma</a>/<a href="/wiki/Multiple_myeloma" title="Multiple myeloma">Multiple myeloma</a> t(11 <a href="/wiki/Cyclin_D1" title="Cyclin D1">CCND1</a>:14 <a href="/wiki/IGH@" title="IGH@">IGH</a>)</li>
+<li><a href="/wiki/Anaplastic_large_cell_lymphoma" title="Anaplastic large cell lymphoma" class="mw-redirect">Anaplastic large cell lymphoma</a> t(2 <a href="/wiki/Anaplastic_lymphoma_kinase" title="Anaplastic lymphoma kinase">ALK</a>;5 <a href="/wiki/NPM1" title="NPM1">NPM1</a>)</li>
+<li><a href="/wiki/Acute_lymphoblastic_leukemia" title="Acute lymphoblastic leukemia">Acute lymphoblastic leukemia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Myeloid</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philadelphia_chromosome" title="Philadelphia chromosome">Philadelphia chromosome</a> t(9 <a href="/wiki/Abl_gene" title="Abl gene" class="mw-redirect">ABL</a>; 22 <a href="/wiki/BCR_gene" title="BCR gene" class="mw-redirect">BCR</a>)</li>
+<li><a href="/wiki/Acute_myeloblastic_leukemia_with_maturation" title="Acute myeloblastic leukemia with maturation">Acute myeloblastic leukemia with maturation</a> t(8 <a href="/wiki/RUNX1T1" title="RUNX1T1">RUNX1T1</a>;21 <a href="/wiki/RUNX1" title="RUNX1">RUNX1</a>)</li>
+<li><a href="/wiki/Acute_promyelocytic_leukemia" title="Acute promyelocytic leukemia">Acute promyelocytic leukemia</a> t(15 <a href="/wiki/Promyelocytic_leukemia_protein" title="Promyelocytic leukemia protein">PML</a>,17 <a href="/wiki/Retinoic_acid_receptor_alpha" title="Retinoic acid receptor alpha">RARA</a>)</li>
+<li><a href="/wiki/Acute_megakaryoblastic_leukemia" title="Acute megakaryoblastic leukemia">Acute megakaryoblastic leukemia</a> t(1 <a href="/wiki/RBM15" title="RBM15">RBM15</a>;22 <a href="/wiki/MKL1" title="MKL1">MKL1</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ewing%27s_sarcoma" title="Ewing's sarcoma">Ewing's sarcoma</a> t(11 <a href="/wiki/FLI1" title="FLI1">FLI1</a>; 22 <a href="/wiki/Ewing_sarcoma_breakpoint_region_1" title="Ewing sarcoma breakpoint region 1">EWS</a>)</li>
+<li><a href="/wiki/Synovial_sarcoma" title="Synovial sarcoma">Synovial sarcoma</a> t(x <a href="/wiki/SYT" title="SYT" class="mw-redirect">SYT</a>;18 <a href="/wiki/Synovial_sarcoma,_X_breakpoint" title="Synovial sarcoma, X breakpoint">SSX</a>)</li>
+<li><a href="/wiki/Dermatofibrosarcoma_protuberans" title="Dermatofibrosarcoma protuberans">Dermatofibrosarcoma protuberans</a> t(17 <a href="/wiki/Collagen,_type_I,_alpha_1" title="Collagen, type I, alpha 1">COL1A1</a>;22 <a href="/wiki/PDGFB" title="PDGFB">PDGFB</a>)</li>
+<li><a href="/wiki/Myxoid_liposarcoma" title="Myxoid liposarcoma">Myxoid liposarcoma</a> t(12 <a href="/wiki/DNA_damage-inducible_transcript_3" title="DNA damage-inducible transcript 3">DDIT3</a>; 16 <a href="/wiki/FUS" title="FUS">FUS</a>)</li>
+<li><a href="/wiki/Desmoplastic_small_round_cell_tumor" title="Desmoplastic small round cell tumor" class="mw-redirect">Desmoplastic small round cell tumor</a> t(11 <a href="/wiki/WT1" title="WT1">WT1</a>; 22 <a href="/wiki/Ewing_sarcoma_breakpoint_region_1" title="Ewing sarcoma breakpoint region 1">EWS</a>)</li>
+<li><a href="/wiki/Alveolar_rhabdomyosarcoma" title="Alveolar rhabdomyosarcoma">Alveolar rhabdomyosarcoma</a> t(2 <a href="/wiki/PAX3" title="PAX3">PAX3</a>; 13 <a href="/wiki/FOXO1" title="FOXO1">FOXO1</a>) t (1 <a href="/wiki/PAX7" title="PAX7">PAX7</a>; 13 <a href="/wiki/FOXO1" title="FOXO1">FOXO1</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fragile_X_syndrome" title="Fragile X syndrome">Fragile X syndrome</a></li>
+<li><a href="/wiki/Uniparental_disomy" title="Uniparental disomy">Uniparental disomy</a></li>
+<li><a href="/wiki/XX_male_syndrome" title="XX male syndrome">XX male syndrome</a></li>
+<li><a href="/wiki/Ring_chromosome" title="Ring chromosome">Ring chromosome</a> (13; <a href="/wiki/Ring_chromosome_14_syndrome" title="Ring chromosome 14 syndrome">14</a>; 15; <a href="/wiki/Ring_chromosome_20_syndrome" title="Ring chromosome 20 syndrome">20</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Congenital_disease_navs" title="Template:Congenital disease navs"><span title="View this template" style="text-align:center;;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Congenital_disease_navs" title="Template talk:Congenital disease navs" class="mw-redirect"><span title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Congenital_disease_navs&amp;action=edit"><span title="Edit this template" style="text-align:center;;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Embryology" title="Embryology">developmental</a> medicine</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Embryology
+<ul>
+<li><a href="/wiki/Template:Embryology" title="Template:Embryology">foetus</a></li>
+<li><a href="/wiki/Template:Extraembryonic_and_fetal_membranes" title="Template:Extraembryonic and fetal membranes">membranes</a></li>
+</ul>
+</li>
+<li>Cell lines
+<ul>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_endoderm" title="Template:Human cell types derived primarily from endoderm">endoderm</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">mesoderm</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_ectoderm" title="Template:Human cell types derived primarily from ectoderm">ectoderm</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Congenital_malformation_due_to_exogenous_toxicity" title="Template:Congenital malformation due to exogenous toxicity">Due to toxins</a></li>
+<li><a href="/wiki/Template:Multiple_abnormalities" title="Template:Multiple abnormalities">Syndromes</a></li>
+<li><a href="/wiki/Template:Chromosomal_abnormalities" title="Template:Chromosomal abnormalities">Chromosomal</a></li>
+<li><a href="/wiki/Template:Pediatric_conditions_originating_in_the_perinatal_period" title="Template:Pediatric conditions originating in the perinatal period">Neonate</a></li>
+<li><a href="/wiki/Template:Twin_conditions" title="Template:Twin conditions">Twins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Genomic_imprinting" title="Template:Genomic imprinting"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Genomic_imprinting" title="Template talk:Genomic imprinting"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Genomic_imprinting&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Non-Mendelian_inheritance" title="Non-Mendelian inheritance">Non-Mendelian inheritance</a>: <a href="/wiki/Genomic_imprinting" title="Genomic imprinting">genomic imprinting</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chromosome_15_(human)" title="Chromosome 15 (human)">Chromosome 15</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a> ♀ / <strong class="selflink">Prader-Willi syndrome</strong> ♂</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chromosome_11_(human)" title="Chromosome 11 (human)">Chromosome 11</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beckwith%E2%80%93Wiedemann_syndrome" title="Beckwith–Wiedemann syndrome">Beckwith–Wiedemann syndrome</a> ♀ / <a href="/wiki/Silver%E2%80%93Russell_syndrome" title="Silver–Russell syndrome">Silver–Russell syndrome</a> ♂<br /></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Myoclonic_dystonia" title="Myoclonic dystonia">Myoclonic dystonia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chromosome_20_(human)" title="Chromosome 20 (human)">Chromosome 20</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pseudohypoparathyroidism" title="Pseudohypoparathyroidism">Pseudohypoparathyroidism</a> ♀ / <a href="/wiki/Pseudopseudohypoparathyroidism" title="Pseudopseudohypoparathyroidism">Pseudopseudohypoparathyroidism</a> ♂</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chromosome_6_(human)" title="Chromosome 6 (human)">Chromosome 6</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Transient_neonatal_diabetes_mellitus" title="Transient neonatal diabetes mellitus">Transient neonatal diabetes mellitus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4201277-6">4201277-6</a></span></li>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01179976">01179976</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1115
+CPU time usage: 0.702 seconds
+Real time usage: 0.838 seconds
+Preprocessor visited node count: 3008/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 145751/2097152 bytes
+Template argument size: 2205/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Lua time usage: 0.259/10.000 seconds
+Lua memory usage: 4.67 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  647.887      1 - -total
+ 43.74%  283.374      1 - Template:Reflist
+ 14.02%   90.853     20 - Template:Cite_journal
+ 13.76%   89.162      1 - Template:Infobox_disease
+ 13.31%   86.212      8 - Template:Navbox
+ 12.26%   79.451     12 - Template:Cite_web
+ 11.97%   77.525      1 - Template:Infobox
+  7.76%   50.267      1 - Template:Chromosomal_abnormalities
+  6.69%   43.359      1 - Template:Cn
+  6.64%   43.018      2 - Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54996-0!*!0!!en!4!* and timestamp 20150711000657 and revision id 669859277
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Prader–Willi_syndrome&amp;oldid=669859277">https://en.wikipedia.org/w/index.php?title=Prader–Willi_syndrome&amp;oldid=669859277</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Medical_conditions_related_to_obesity" title="Category:Medical conditions related to obesity">Medical conditions related to obesity</a></li><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li><li><a href="/wiki/Category:Rare_diseases" title="Category:Rare diseases">Rare diseases</a></li><li><a href="/wiki/Category:Genodermatoses" title="Category:Genodermatoses">Genodermatoses</a></li><li><a href="/wiki/Category:Autosomal_monosomies_and_deletions" title="Category:Autosomal monosomies and deletions">Autosomal monosomies and deletions</a></li><li><a href="/wiki/Category:Genetic_disorders" title="Category:Genetic disorders">Genetic disorders</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_June_2015" title="Category:Articles with dead external links from June 2015">Articles with dead external links from June 2015</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_August_2014" title="Category:Use mdy dates from August 2014">Use mdy dates from August 2014</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2014" title="Category:Articles with unsourced statements from December 2014">Articles with unsourced statements from December 2014</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Prader%E2%80%93Willi+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Prader%E2%80%93Willi+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Prader%E2%80%93Willi_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Prader%E2%80%93Willi_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Prader%E2%80%93Willi_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Prader%E2%80%93Willi_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Prader%E2%80%93Willi_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;oldid=669859277" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q594013" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Prader%E2%80%93Willi_syndrome&amp;id=669859277" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Prader%E2%80%93Willi+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Prader%E2%80%93Willi+syndrome&amp;oldid=669859277&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D8%A8%D8%B1%D8%A7%D8%AF%D8%B1-_%D9%88%D9%8A%D9%84%D9%8A" title="متلازمة برادر- ويلي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B4%D0%B5%D1%80-%D0%92%D0%B8%D0%BB%D0%B8" title="Синдром на Прадер-Вили – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/S%C3%ADndrome_de_Prader_Willi" title="Síndrome de Prader Willi – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Prader-Willi-Syndrom" title="Prader-Willi-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Prader-Willi" title="Síndrome de Prader-Willi – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Prader-Willi" title="Syndrome de Prader-Willi – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%94%84%EB%9E%98%EB%8D%94-%EC%9C%8C%EB%A6%AC_%EC%A6%9D%ED%9B%84%EA%B5%B0" title="프래더-윌리 증후군 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Prader_Willi_sindrom" title="Prader Willi sindrom – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Prader-Willi" title="Sindrome di Prader-Willi – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%9E%D7%95%D7%A0%D7%AA_%D7%A4%D7%A8%D7%90%D7%93%D7%A8_%D7%95%D7%99%D7%9C%D7%99" title="תסמונת פראדר וילי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Syndroom_van_Prader-Willi" title="Syndroom van Prader-Willi – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%80%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4" title="プラダー・ウィリー症候群 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Prader-Willis_syndrom" title="Prader-Willis syndrom – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Pradera-Williego" title="Zespół Pradera-Williego – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Prader-Willi" title="Síndrome de Prader-Willi – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%9F%D1%80%D0%B0%D0%B4%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8" title="Синдром Прадера — Вилли – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Prader%E2%80%93Willi_syndrome" title="Prader–Willi syndrome – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Prader-Willijev_sindrom" title="Prader-Willijev sindrom – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Prader%E2%80%93Willin_oireyhtym%C3%A4" title="Prader–Willin oireyhtymä – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Prader-Willis_syndrom" title="Prader-Willis syndrom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%9F%E0%AE%B0%E0%AF%8D_%E2%80%93_%E0%AE%B5%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AE%BF_%E0%AE%95%E0%AF%82%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF" title="பிராடர் – வில்லி கூட்டறிகுறி – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%A5%E0%B8%A5%E0%B8%B5" title="กลุ่มอาการเพรเดอร์-วิลลี – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%99%AE%E7%91%9E%E5%BE%B7%E5%A8%81%E5%88%A9%E7%97%87%E5%80%99%E7%BE%A4" title="普瑞德威利症候群 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q594013#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 July 2015, at 01:39.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Prader%E2%80%93Willi_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1105"});
+}</script>
+	</body>
+</html>

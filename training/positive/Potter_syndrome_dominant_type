@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Potter sequence - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Potter_sequence" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Potter_sequence&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Potter_sequence&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Potter_sequence" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Potter_sequence" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Potter_sequence","wgTitle":"Potter sequence","wgCurRevisionId":641662255,"wgRevisionId":641662255,"wgArticleId":1194872,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Articles with contributors link","Wikipedia articles needing clarification from May 2014","All articles with unsourced statements","Articles with unsourced statements from December 2008","Articles with unsourced statements from May 2009","Articles needing additional references from December 2012","All articles needing additional references","Articles that use a Medicine navs subtemplate","Nephrology","Congenital disorders of urinary system"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Potter_sequence","wgRelevantArticleId":1194872,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Potter_syndrome_dominant_type","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Potter_sequence","wgWikibaseItemId":"Q2019823"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Potter_sequence skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Potter sequence</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Potter_syndrome_dominant_type&amp;redirect=no" title="Potter syndrome dominant type">Potter syndrome dominant type</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="/wiki/Doege-Potter_syndrome" title="Doege-Potter syndrome" class="mw-redirect">Doege-Potter syndrome</a>&#160;or <a href="/wiki/Pott%27s_Disease" title="Pott's Disease" class="mw-redirect">Pott's Disease</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Potter sequence</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/Q60.6">Q60.6</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=753.0">753.0</a>, <a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=658.0">658.0</a>, <a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=761.2">761.2</a> (for oligohydramnios)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb11252.htm">11252</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/001268.htm">001268</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic1878.htm">ped/1878</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/Potter&amp;#39;s-Syndrome">Potter sequence</a></td>
+</tr>
+</table>
+<p><b>Potter <a href="/wiki/Sequence_(medicine)" title="Sequence (medicine)">sequence</a></b> (also known as <b>Potter's syndrome</b>, <b>Potter's <a href="/wiki/Sequence_(medicine)" title="Sequence (medicine)">sequence</a></b> or <b>Oligohydramnios sequence</b>) is the atypical physical appearance of a <a href="/wiki/Fetus" title="Fetus">fetus</a> or <a href="/wiki/Neonate" title="Neonate" class="mw-redirect">neonate</a> due to <a href="/wiki/Oligohydramnios" title="Oligohydramnios">oligohydramnios</a> experienced in the uterus.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Oligohydramnios is the decrease in <a href="/wiki/Amniotic_fluid" title="Amniotic fluid">amniotic fluid</a> volume sufficient to cause deformations in <a href="/wiki/Morphogenesis" title="Morphogenesis">morphogenesis</a> of the fetus.</p>
+<p>Oligohydramnios is the causative agent of Potter sequence, but there are many things that can lead to oligohydramnios. It can be caused by renal diseases such as bilateral <a href="/wiki/Renal_agenesis" title="Renal agenesis">renal agenesis</a> (BRA), <a href="/wiki/Atresia" title="Atresia">atresia</a> of the ureter or urethra causing obstruction of the urinary tract, polycystic or multicystic kidney diseases, renal hypoplasia, <a href="/w/index.php?title=Amniotic_rupture&amp;action=edit&amp;redlink=1" class="new" title="Amniotic rupture (page does not exist)">amniotic rupture</a>, toxemia, or <a href="/wiki/Uteroplacental_insufficiency" title="Uteroplacental insufficiency" class="mw-redirect">uteroplacental insufficiency</a> from maternal hypertension.</p>
+<p>Potter's sequence is known in the medical field as <a href="/wiki/Clubbed_feet" title="Clubbed feet" class="mw-redirect">clubbed feet</a>, <a href="/wiki/Pulmonary_hypoplasia" title="Pulmonary hypoplasia">pulmonary hypoplasia</a> and cranial anomalies related to the oligohydramnios.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="Isn't Potter's sequence know as &quot;Potter's sequence&quot; and clubbed feet known as &quot;clubbed feet&quot;? [[Club foot&lt;/a&gt; does not mention Potter's sequence. (May 2014)">clarification needed</span>]]]</a></i></sup></p>
+<p>The term <i>Potter sequence</i> was initially intended to only refer to cases caused by BRA,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2008)">citation needed</span></a></i>]</sup> however, it is now commonly used by many clinicians and researchers to refer to any case that presents with oligohydramnios or anhydramnios regardless of the source of the loss of amniotic fluid.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="this paragraph seems unlikely and is not referenced (May 2009)">citation needed</span></a></i>]</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Terminology:_syndrome_versus_sequence"><span class="tocnumber">3</span> <span class="toctext">Terminology: syndrome versus sequence</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Classic_form"><span class="tocnumber">4</span> <span class="toctext">Classic form</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Normal_kidney_development"><span class="tocnumber">5</span> <span class="toctext">Normal kidney development</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Importance_of_fetal_urine"><span class="tocnumber">6</span> <span class="toctext">Importance of fetal urine</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Physical_characteristics"><span class="tocnumber">7</span> <span class="toctext">Physical characteristics</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Prognosis"><span class="tocnumber">8</span> <span class="toctext">Prognosis</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Genetics"><span class="tocnumber">9</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bilateral <a href="/wiki/Renal_agenesis" title="Renal agenesis">renal agenesis</a> (BRA) was first recognized as a defect of human <a href="/wiki/Fetal" title="Fetal" class="mw-redirect">fetal</a> development in 1671 by Wolfstrigel.<sup id="cite_ref-pmid10672944_2-0" class="reference"><a href="#cite_note-pmid10672944-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>In 1946, Edith Potter (b. 1901 - d.1993) described a series of 20 cases with absent kidneys, noting the characteristic appearance of the head and lungs.<sup id="cite_ref-pmid20984673_3-0" class="reference"><a href="#cite_note-pmid20984673-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-pmid13536430_4-0" class="reference"><a href="#cite_note-pmid13536430-4"><span>[</span>4<span>]</span></a></sup> Up until this time, the condition itself was considered to be extremely rare. However, in part to Potter's work, it has come to light that the condition presents far more frequently than previously reported. Potter analyzed approximately 5000 <a href="/wiki/Autopsy" title="Autopsy">autopsy</a> cases performed on fetuses and newborn infants over a period of ten years and found that 20 of these infants presented with BRA, all of which had distinctive facial characteristics which did not appear to them to have any specific embryologic correlation with the renal anomaly.<sup id="cite_ref-pmid20984673_3-1" class="reference"><a href="#cite_note-pmid20984673-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-pmid17712193_5-0" class="reference"><a href="#cite_note-pmid17712193-5"><span>[</span>5<span>]</span></a></sup> It was only much later when she and others attributed the multiple congenital deformities, including the features of Potter's <a href="/wiki/Facies_(medical)" title="Facies (medical)">facies</a> and also pulmonary hypoplasia, to have been caused by the prolonged severe lack of amniotic fluid.<sup id="cite_ref-pmid4826613_6-0" class="reference"><a href="#cite_note-pmid4826613-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Dunn1968_7-0" class="reference"><a href="#cite_note-Dunn1968-7"><span>[</span>7<span>]</span></a></sup> These facial characteristics have subsequently been termed as being known as Potter <a href="/wiki/Facies_(medical)" title="Facies (medical)">facies</a>.<sup id="cite_ref-pmid17712193_5-1" class="reference"><a href="#cite_note-pmid17712193-5"><span>[</span>5<span>]</span></a></sup> From her analysis, she was able to deduce the sequence of events that leads to what is now known as Potter sequence.<sup id="cite_ref-pmid17712193_5-2" class="reference"><a href="#cite_note-pmid17712193-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Potter went on to become a pioneer in the field of human renal development and her contributions are still employed and appreciated by clinicians and researchers to this day.<sup id="cite_ref-pmid17712193_5-3" class="reference"><a href="#cite_note-pmid17712193-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-pmid7752020_8-0" class="reference"><a href="#cite_note-pmid7752020-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=2" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Since its initial characterization, Potter sequence has been defined into five distinct subclassifications. There are those in the medical and research fields that use the term Potter sequence to specifically refer to only cases of BRA, while other groups use the term to loosely refer to all instances of <a href="/wiki/Oligohydramnios" title="Oligohydramnios">oligohydramnios</a> and <a href="/w/index.php?title=Anhydramnios&amp;action=edit&amp;redlink=1" class="new" title="Anhydramnios (page does not exist)">anhydramnios</a> regardless of the specific cause. The assignment of nomenclature to the various causes (types) was employed in order to help clarify these discrepancies, but these subclassifications and nomenclature system have not caught on in the medical and research communities.</p>
+<table class="wikitable">
+<tr>
+<th>Type</th>
+<th><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<th>Description</th>
+</tr>
+<tr>
+<td>Classic form</td>
+<td>n/a</td>
+<td>This term is traditionally used when the infant has bilateral renal agenesis (BRA), meaning that kidneys do not develop (malformation of the <a href="/wiki/Ureteric_bud" title="Ureteric bud">ureteric bud</a>). True BRA also presents with bilateral agenesis of the <a href="/wiki/Ureters" title="Ureters" class="mw-redirect">ureters</a>. After the creation of the nomenclature system for this sequence, BRA was recognized as possibly being an extreme variation of Potter sequence II. However, some clinicians and researchers still use the term <i>classic Potter sequence</i> so as to emphasize that they are specifically referring to cases of BRA and not another form.</td>
+</tr>
+<tr>
+<td>Type I</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/263200">263200</a></td>
+<td>Type I is due to <a href="/wiki/Autosomal_recessive_polycystic_kidney" title="Autosomal recessive polycystic kidney">autosomal recessive polycystic kidney</a> disease (ARPKD), which occurs at a frequency of approximately one in 16,000 infants. The kidneys of the fetus/neonate will be enlarged, have many small cysts filled with fluid, and will fail to produce an adequate volume of fetal urine. The liver and pancreas of the fetus may also show <a href="/wiki/Fibrosis" title="Fibrosis">fibrosis</a> and/or a cystic change.</td>
+</tr>
+<tr>
+<td>Type II</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/191830">191830</a></td>
+<td>Type II is usually due to <a href="/wiki/Renal_agenesis" title="Renal agenesis">renal agenesis</a>,<sup id="cite_ref-pmid4744207_9-0" class="reference"><a href="#cite_note-pmid4744207-9"><span>[</span>9<span>]</span></a></sup> which can also fall under the category known as <i>hereditary urogenital adysplasia</i> or <i>hereditary renal adysplasia</i> (HRA). This is characterized by the complete agenesis or absence of one kidney and the remaining solitary kidney being small and malformed. Bilateral renal agenesis is believed to be the most extreme phenotypic variation of HRA. However, BRA is often referred to as <i>classic Potter sequence</i>, as it was this particular <a href="/wiki/Phenotype" title="Phenotype">phenotype</a> of neonates and fetuses that Potter originally reported in her 1946 manuscripts when characterizing this birth defect.</td>
+</tr>
+<tr>
+<td>Type III</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/173900">173900</a></td>
+<td>Type III is due to <a href="/wiki/Autosomal_dominant_polycystic_kidney" title="Autosomal dominant polycystic kidney">Autosomal dominant polycystic kidney</a> disease (ADPKD) linked to mutations in the genes <a href="/wiki/PKD1" title="PKD1">PKD1</a> and <a href="/wiki/PKD2" title="PKD2" class="mw-redirect">PKD2</a>. While ADPKD is considered to be an adult-onset polycytic kidney disease, it can also present in the fetus and neonate in rare cases. Like ARPKD, ADPKD can also present with hepatic cysts and an enlarged spleen. An increased prevalence of vascular disease is also observed in these cases of ADPKD.</td>
+</tr>
+<tr>
+<td>Type IV</td>
+<td>n/a</td>
+<td>Type IV occurs when a longstanding obstruction in either the kidney or <a href="/wiki/Ureter" title="Ureter">ureter</a> leads to cystic kidneys or <a href="/wiki/Hydronephrosis" title="Hydronephrosis">hydronephrosis</a>. This can be due to chance, environment, or genetics. While these types of obstructions occur frequently in fetuses, they rarely tend to lead to fetal demise.</td>
+</tr>
+<tr>
+<td>Others</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/143400">143400</a></td>
+<td>Often cystic kidneys that do not fall under the classification of being polycystic will be termed as being <i>multicystic renal dysplasia</i> (MRD). Recently many cases of MRD have been linked to the mutations in the gene PUJO, however, this new possible genetic cause has not been assigned a Potter sequence nomenclature number.<br />
+Another cause of Potter sequence (oligohydramnios or anhydramnios—little or no amniotic fluid) can be the rupturing of the <a href="/wiki/Amniotic_sac" title="Amniotic sac">amniotic sacs</a> that contain the amniotic fluid of the fetus. This can happen spontaneously, by chance, environment, maternal <a href="/wiki/Physical_trauma" title="Physical trauma" class="mw-redirect">trauma</a> and in rare cases - maternal genetics.</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Terminology:_syndrome_versus_sequence">Terminology: syndrome versus sequence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=3" title="Edit section: Terminology: syndrome versus sequence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Potter syndrome is not technically a <a href="/wiki/Syndrome" title="Syndrome">syndrome</a> as it does not collectively present with the same telltale characteristics and symptoms in each and every case. It is more accurately described as a "sequence" or chain of events that may have different beginnings (absent <a href="/wiki/Kidneys" title="Kidneys" class="mw-redirect">kidneys</a>, cystic <a href="/wiki/Kidneys" title="Kidneys" class="mw-redirect">kidneys</a>, obstructed <a href="/wiki/Ureters" title="Ureters" class="mw-redirect">ureters</a> or other causes), but which all end with the same conclusion (absent or reduced volume of <a href="/wiki/Amniotic_fluid" title="Amniotic fluid">amniotic fluid</a>). This is why Potter syndrome is often called <i>Potter sequence</i> or <i>oligohydramnios sequence</i> by some clinicians and researchers. The term <i>Potter syndrome</i> is most frequently associated with the condition of <a href="/wiki/Oligohydramnios" title="Oligohydramnios">oligohydramnios</a> sequence regardless of the root cause of the absence or reduced volume of <a href="/wiki/Amniotic_fluid" title="Amniotic fluid">amniotic fluid</a>. However, as noted in this article, the term <i>Potter syndrome</i> was initially coined in order to refer to fetuses and infants with BRA. It was not until later that the term became more encompassing as it was noted that other causes of failed fetal urine production also resulted in similar physical characteristics and prognoses of the fetuses and infants with BRA (that which Potter originally described in 1946). Since then, the term <i>Potter syndrome</i> has become a misnomer and experts have attempted not to eliminate the terminology, but to modify it in a way so as to be able to determine the different root causes by creating a nomenclature system. However, this classification system has not caught on in the clinical and research fields.</p>
+<h2><span class="mw-headline" id="Classic_form">Classic form</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=4" title="Edit section: Classic form">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Classic Potter sequence occurs when the developing <a href="/wiki/Fetus" title="Fetus">fetus</a> has bilateral renal agenesis, which also presents with agenesis of the <a href="/wiki/Ureters" title="Ureters" class="mw-redirect">ureters</a>. BRA has been estimated to occur at a frequency of approximately 1:4000 to 1:8000 fetuses and neonates. However, recent analysis has estimated that the condition may occur at a much greater frequency. The condition has been reported to occur twice as commonly in males as in females, suggesting that certain genes of the <a href="/wiki/Y_chromosome" title="Y chromosome">Y chromosome</a> may act as modifiers. However, no candidate <a href="/wiki/Gene" title="Gene">genes</a> on the <a href="/wiki/Y_chromosome" title="Y chromosome">Y chromosome</a> have yet been identified.</p>
+<p>BRA appears to have a predominantly genetic <a href="/wiki/Etiology" title="Etiology">etiology</a> and many cases represent the most severe manifestation of an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> condition with incomplete penetrance and variable expressivity. There are several genetic pathways that could result in this condition. To date, few of these pathways or candidate genes have been considered or analyzed regarding BRA. The majority of possible candidate genetic pathways are <a href="/wiki/Autosomal_recessive" title="Autosomal recessive" class="mw-redirect">autosomal recessive</a> in nature and do not coincide with the frequency or penetrance at which BRA occurs in the human population. Additionally, candidate genetic pathways would be expected to involve genes expressed in the developing <a href="/wiki/Urogenital" title="Urogenital" class="mw-redirect">urogenital</a> system (UGS). Often, these same genes and/or pathways of interacting genes are also expressed in the developing UGS as well as the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a> (CNS), gut, lung, limbs, and eyes.</p>
+<h2><span class="mw-headline" id="Normal_kidney_development">Normal kidney development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=5" title="Edit section: Normal kidney development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>See <a href="/wiki/Kidney_development" title="Kidney development">kidney development</a>.</p>
+<h2><span class="mw-headline" id="Importance_of_fetal_urine">Importance of fetal urine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=6" title="Edit section: Importance of fetal urine">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(December 2012)</i></small></span></td>
+</tr>
+</table>
+<p>Development of the mature <a href="/wiki/Kidney" title="Kidney">kidney</a> begins between weeks 5 and 7 of <a href="/wiki/Gestation" title="Gestation">gestation</a>. Fetal urine production begins in early gestation and comprises the majority of the <a href="/wiki/Amniotic_fluid" title="Amniotic fluid">amniotic fluid</a> in the second and third <a href="/wiki/Pregnancy#Physiology" title="Pregnancy">trimesters</a> of pregnancy. The fetus continuously swallows amniotic fluid, which is reabsorbed by the gastrointestinal tract and then reintroduced into the amniotic cavity by the kidneys via urination. <a href="/wiki/Oligohydramnios" title="Oligohydramnios">Oligohydramnios</a> occurs if the volume of amniotic fluid is less than normal for the corresponding period of gestation. The fetal urine is critical to the proper development of the lungs by aiding in the expansion of the airways - <a href="/wiki/Alveoli" title="Alveoli" class="mw-redirect">alveoli</a>, by means of hydrodynamic pressure and by also supplying <a href="/wiki/Proline" title="Proline">proline</a> which is a critical <a href="/wiki/Amino_acid" title="Amino acid">amino acid</a> for lung development. Alveoli are the small sacs in the lungs that exchange oxygen with the blood. If the alveoli, and thereby the lungs, are underdeveloped at the time of birth the infant will not be able to breathe air properly and will go into respiratory distress shortly after birth due to <a href="/wiki/Pulmonary_hypoplasia" title="Pulmonary hypoplasia">pulmonary hypoplasia</a> (underdeveloped lungs). This is the primary cause of death to Potter sequence infants secondary to renal failure. The fetal urine also serves to cushion the fetus from being compressed by the mother's <a href="/wiki/Uterus" title="Uterus">uterus</a> as it grows.</p>
+<h2><span class="mw-headline" id="Physical_characteristics">Physical characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=7" title="Edit section: Physical characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The failure of the metanephros to develop in cases of BRA and some cases involving unilateral <a href="/wiki/Renal_agenesis" title="Renal agenesis">renal agenesis</a> (URA) is due primarily to the failure of the mesonephric duct to produce a ureteric bud capable of inducing the metanephric mesenchyme. The failed induction will thereby cause the subsequent degeneration of the metanephros by <a href="/wiki/Apoptosis" title="Apoptosis">apoptosis</a> and other mechanisms. The mesonephric duct(s) of the agenic kidney(s) will also degenerates and fail to connect with the <a href="/wiki/Urinary_bladder" title="Urinary bladder">bladder</a>. Therefore, the means by which the fetus produces urine and transports it to the bladder for excretion into the amniotic sac has been severely compromised (in the cases of URA), or completely eliminated (in the cases of BRA). The decreased volume of <a href="/wiki/Amniotic_fluid" title="Amniotic fluid">amniotic fluid</a> causes the growing <a href="/wiki/Fetus" title="Fetus">fetus</a> to become compressed by the mother's <a href="/wiki/Uterus" title="Uterus">uterus</a>. This compression can cause many physical deformities of the <a href="/wiki/Fetus" title="Fetus">fetus</a>, most common of which is Potter facies. Lower extremity anomalies are frequent in these cases, which often presents with clubbed feet and/or bowing of the legs. <a href="/wiki/Sirenomelia" title="Sirenomelia">Sirenomelia</a>, or "Mermaid syndrome" (which occurs approximately in 1:45,000 births)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> can also present. In fact, nearly all reported cases of <a href="/wiki/Sirenomelia" title="Sirenomelia">sirenomelia</a> also present with BRA.<sup id="cite_ref-Herman-Siegel_11-0" class="reference"><a href="#cite_note-Herman-Siegel-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Other anomalies of the classic Potter sequence infant include a parrot beak nose, redundant skin, and the most common characteristic of infants with BRA which is a <a href="/wiki/Skin_fold" title="Skin fold">skin fold</a> of tissue extending from the medial <a href="/wiki/Canthus" title="Canthus">canthus</a> across the cheek. The ears are slightly low and pressed against the head making them appear large. The <a href="/wiki/Adrenal_glands" title="Adrenal glands" class="mw-redirect">adrenal glands</a> often appear as small oval discs pressed against the <a href="/wiki/Posterior_(anatomy)" title="Posterior (anatomy)" class="mw-redirect">posterior</a> <a href="/wiki/Abdomen" title="Abdomen">abdomen</a> due to the absence of upward renal pressure. The bladder is often small, nondistensible and may be filled with a minute amount of fluid. In males the <a href="/wiki/Vas_deferens" title="Vas deferens">vas deferens</a> and <a href="/wiki/Seminal_vesicles" title="Seminal vesicles" class="mw-redirect">seminal vesicles</a> may be absent, while in females the <a href="/wiki/Uterus" title="Uterus">uterus</a> and upper <a href="/wiki/Vagina" title="Vagina">vagina</a> may be absent. Other abnormalities include <a href="/wiki/Anus" title="Anus">anal</a> atresia, absence of the <a href="/wiki/Rectum" title="Rectum">rectum</a> and <a href="/wiki/Sigmoid_colon" title="Sigmoid colon">sigmoid colon</a>, <a href="/wiki/Esophageal_atresia" title="Esophageal atresia">esophageal</a> and <a href="/wiki/Duodenal_atresia" title="Duodenal atresia">duodenal atresia</a>, and a single <a href="/wiki/Umbilical_artery" title="Umbilical artery">umbilical artery</a>. Presence of a diaphragmatic hernia is also common in these fetuses/infants. Additionally, the alveolar sacs of the lungs fail to properly develop as a result of the reduced volume of <a href="/wiki/Amniotic_fluid" title="Amniotic fluid">amniotic fluid</a>. Labor is often induced between 22 and 36 weeks of <a href="/wiki/Gestation" title="Gestation">gestation</a> (however, some of these pregnancies may go to term) and unaborted infants typically survive for only a few minutes to a few hours. These infants will eventually die as either a result of pulmonary hypoplasia or renal failure.</p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=8" title="Edit section: Prognosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In recorded medical and research history BRA has proved to be lethal in all cases of singleton births. Various other forms of the sequence are, or are near, lethal in 100% of the cases.</p>
+<p>An infant girl born in July 2013 to US Congresswoman <a href="/wiki/Jaime_Herrera_Beutler" title="Jaime Herrera Beutler">Jaime Herrera Beutler</a> has the condition and is still alive as of May 2014.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> A few weeks before she was born, a new experimental procedure was performed on the baby. A saline solution was injected on several instances into the mother's womb to help the baby's lungs to develop. After she was born, the procedure was considered a success. The infant did not need artificial respiration and could breathe on her own. She is now on kidney dialysis and is awaiting a kidney transplant between the ages of one and two.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=9" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While genetic research has linked certain genetic mutations to be the cause of ARPKD, ADPKD and possibly MRD, to date no genetic mutation or chromosomal anomaly has been linked to be the cause of BRA. Chromosomal anomalies have been associated with BRA in certain cases (chromosomes 1, 2, 5 and 21), but these anomalies were not inherited and have not been observed in subsequent cases. Additionally, neither extreme substance abuse or environmental factors (high power line, mercury, etc.) have been reported to be linked to an increased incidence of BRA or other cause of Potter sequence. BRA and other causes of oligohydramnios sequence have been linked to a number of other problems, to include <a href="/wiki/Down_syndrome" title="Down syndrome">Down syndrome</a>, <a href="/wiki/Kallmann_syndrome" title="Kallmann syndrome">Kallmann syndrome</a>, <a href="/wiki/Branchio-oto-renal_syndrome" title="Branchio-oto-renal syndrome">branchio-oto-renal syndrome</a> and others.</p>
+<p>The high-risk <a href="/wiki/Obstetrician" title="Obstetrician" class="mw-redirect">obstetrician</a> or <a href="/wiki/Genetic_counselor" title="Genetic counselor" class="mw-redirect">genetic counselor</a> may ask for a blood sample from the fetus or will perform an <a href="/wiki/Amniocentesis" title="Amniocentesis">amniocentesis</a>. These samples are used to perform several tests, one of which may be to check for the proper number of chromosomes, called a <a href="/wiki/Karyotype" title="Karyotype">karyotype</a>, of the fetus. Some birth defects are known to be associated with missing a <a href="/wiki/Chromosome" title="Chromosome">chromosome</a>, having an extra chromosome, such as in Down syndrome, as well as by having a part of one chromosome break off and relocate to a portion of another chromosome (called a translocation). However, on each of the 23 pairs of chromosomes are thousands of different <a href="/wiki/Genes" title="Genes" class="mw-redirect">genes</a>. While <a href="/wiki/Chromosome" title="Chromosome">chromosomes</a> are easy to visualize under a <a href="/wiki/Microscope" title="Microscope">microscope</a> and count, the <a href="/wiki/Genes" title="Genes" class="mw-redirect">genes</a> on them are not. Genes are very small pieces of DNA when compared to the chromosomes they reside on. A <a href="/wiki/Gene" title="Gene">gene</a> contains a code for a <a href="/wiki/Protein" title="Protein">protein</a> and if the <a href="/wiki/Gene" title="Gene">gene</a> is mutated (different from normal) the <a href="/wiki/Protein" title="Protein">protein</a> that is made from it may not function properly - if at all. Unfortunately, genetic abnormalities could still exist despite having normal <a href="/wiki/Chromosome" title="Chromosome">chromosomes</a>. The only way to determine genetically <a href="/wiki/Heredity" title="Heredity">inherited</a> mutations in the infant is to perform a genome scan of the mother, father, affected infant and any unaffected siblings of the affected fetus. These analyses will reveal what genetic mutations are present in the affected infant, and by comparing these results to the surviving siblings and parents, it can be determined which mutations were <a href="/wiki/Heredity" title="Heredity">inherited</a> or were not.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://web.archive.org/web/20090616022448/http://www.mercksource.com/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/nine/10045228.htm">oligohydramnios sequence</a>" at <i><a href="/wiki/Dorland%27s_medical_reference_works" title="Dorland's medical reference works">Dorland's Medical Dictionary</a></i></span></li>
+<li id="cite_note-pmid10672944-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid10672944_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Liatsikos EN, Perimenis P, Dandinis K, Kaladelfou E, Barbalias GA (1999). <a rel="nofollow" class="external text" href="http://www.kluweronline.com/art.pdf?issn=0301-1623&amp;volume=31&amp;page=277">"Mermaid and Potter's syndrome occurring simultaneously"</a> <span style="font-size:85%;">(PDF)</span>. <i>Int Urol Nephrol</i> <b>31</b> (3): 277–81. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1023%2FA%3A1007149414339">10.1023/A:1007149414339</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10672944">10672944</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Mermaid+and+Potter%27s+syndrome+occurring+simultaneously&amp;rft.aulast=Liatsikos+EN%2C+Perimenis+P%2C+Dandinis+K%2C+Kaladelfou+E%2C+Barbalias+GA&amp;rft.au=Liatsikos+EN%2C+Perimenis+P%2C+Dandinis+K%2C+Kaladelfou+E%2C+Barbalias+GA&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.kluweronline.com%2Fart.pdf%3Fissn%3D0301-1623%26volume%3D31%26page%3D277&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1007149414339&amp;rft_id=info%3Apmid%2F10672944&amp;rft.issue=3&amp;rft.jtitle=Int+Urol+Nephrol&amp;rft.pages=277-81&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid20984673-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid20984673_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid20984673_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">POTTER, EL (June 1946). "Facial characteristics of infants with bilateral renal agenesis.". <i>American journal of obstetrics and gynecology</i> <b>51</b>: 885–8. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20984673">20984673</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Facial+characteristics+of+infants+with+bilateral+renal+agenesis.&amp;rft.aufirst=EL&amp;rft.aulast=POTTER&amp;rft.au=POTTER%2C+EL&amp;rft.date=June+1946&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F20984673&amp;rft.jtitle=American+journal+of+obstetrics+and+gynecology&amp;rft.pages=885-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid13536430-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid13536430_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">WELCH RG (May 1958). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2028705">"The Potter syndrome of renal agenesis"</a>. <i>Br Med J</i> <b>1</b> (5079): 1102–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fbmj.1.5079.1102">10.1136/bmj.1.5079.1102</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2028705">2028705</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13536430">13536430</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=The+Potter+syndrome+of+renal+agenesis&amp;rft.aulast=WELCH+RG&amp;rft.au=WELCH+RG&amp;rft.date=May+1958&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2028705&amp;rft_id=info%3Adoi%2F10.1136%2Fbmj.1.5079.1102&amp;rft_id=info%3Apmc%2F2028705&amp;rft_id=info%3Apmid%2F13536430&amp;rft.issue=5079&amp;rft.jtitle=Br+Med+J&amp;rft.pages=1102-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid17712193-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid17712193_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid17712193_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-pmid17712193_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-pmid17712193_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Dunn, P M (1 September 2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2675375">"Dr Edith Potter (1901 1993) of Chicago: pioneer in perinatal pathology"</a>. <i>Archives of Disease in Childhood - Fetal and Neonatal Edition</i> <b>92</b> (5): F419–F420. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Ffnn.2005.091397">10.1136/fnn.2005.091397</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2675375">2675375</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17712193">17712193</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Dr+Edith+Potter+%281901+1993%29+of+Chicago%3A+pioneer+in+perinatal+pathology&amp;rft.au=Dunn%2C+P+M&amp;rft.aufirst=P+M&amp;rft.aulast=Dunn&amp;rft.date=1+September+2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2675375&amp;rft_id=info%3Adoi%2F10.1136%2Ffnn.2005.091397&amp;rft_id=info%3Apmc%2F2675375&amp;rft_id=info%3Apmid%2F17712193&amp;rft.issue=5&amp;rft.jtitle=Archives+of+Disease+in+Childhood+-+Fetal+and+Neonatal+Edition&amp;rft.pages=F419-F420&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=92" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid4826613-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid4826613_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Thomas, IT; Smith, DW (June 1974). "Oligohydramnios, cause of the nonrenal features of Potter's syndrome, including pulmonary hypoplasia". <i>The Journal of pediatrics</i> <b>84</b> (6): 811–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0022-3476%2874%2980753-5">10.1016/S0022-3476(74)80753-5</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4826613">4826613</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Oligohydramnios%2C+cause+of+the+nonrenal+features+of+Potter%27s+syndrome%2C+including+pulmonary+hypoplasia&amp;rft.aufirst=IT&amp;rft.aulast=Thomas&amp;rft.au=Smith%2C+DW&amp;rft.au=Thomas%2C+IT&amp;rft.date=June+1974&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0022-3476%2874%2980753-5&amp;rft_id=info%3Apmid%2F4826613&amp;rft.issue=6&amp;rft.jtitle=The+Journal+of+pediatrics&amp;rft.pages=811-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=84" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dunn1968-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dunn1968_7-0">^</a></b></span> <span class="reference-text"><span class="citation book">Peter M. Dunn (1968). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=efz8MgEACAAJ"><i>The influence of the intrauterine environment in the causation of congenital postural deformities, with special reference to congenital dislocation of the hip.</i></a> University of Cambridge<span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.aulast=Peter+M.+Dunn&amp;rft.au=Peter+M.+Dunn&amp;rft.btitle=The+influence+of+the+intrauterine+environment+in+the+causation+of+congenital+postural+deformities%2C+with+special+reference+to+congenital+dislocation+of+the+hip.&amp;rft.date=1968&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Defz8MgEACAAJ&amp;rft.pub=University+of+Cambridge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid7752020-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7752020_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Gilbert-Barness, E (May 1995). "Edith Potter". <i>The Journal of pediatrics</i> <b>126</b> (5 Pt 1): 845–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0022-3476%2895%2970433-7">10.1016/S0022-3476(95)70433-7</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7752020">7752020</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Edith+Potter&amp;rft.aufirst=E&amp;rft.au=Gilbert-Barness%2C+E&amp;rft.aulast=Gilbert-Barness&amp;rft.date=May+1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0022-3476%2895%2970433-7&amp;rft_id=info%3Apmid%2F7752020&amp;rft.issue=5+Pt+1&amp;rft.jtitle=The+Journal+of+pediatrics&amp;rft.pages=845-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=126" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid4744207-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid4744207_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Buchta RM, Viseskul C, Gilbert EF, Sarto GE, Opitz JM (August 1973). "Familial bilateral renal agenesis and hereditary renal adysplasia". <i>Z Kinderheilkd</i> <b>115</b> (2): 111–29. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF00440537">10.1007/BF00440537</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4744207">4744207</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Familial+bilateral+renal+agenesis+and+hereditary+renal+adysplasia&amp;rft.au=Buchta+RM%2C+Viseskul+C%2C+Gilbert+EF%2C+Sarto+GE%2C+Opitz+JM&amp;rft.aulast=Buchta+RM%2C+Viseskul+C%2C+Gilbert+EF%2C+Sarto+GE%2C+Opitz+JM&amp;rft.date=August+1973&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF00440537&amp;rft_id=info%3Apmid%2F4744207&amp;rft.issue=2&amp;rft.jtitle=Z+Kinderheilkd&amp;rft.pages=111-29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=115" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Banerjee A, 2003; Indian J Pediatr</span></li>
+<li id="cite_note-Herman-Siegel-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Herman-Siegel_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Herman, TE; Siegel, MJ (September 2000). "Special imaging casebook. Oligohydramnios sequence with bilateral renal agenesis (Potter's syndrome)". <i>Journal of perinatology&#160;: official journal of the California Perinatal Association</i> <b>20</b> (6): 397–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fsj.jp.7200222">10.1038/sj.jp.7200222</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11002883">11002883</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Special+imaging+casebook.+Oligohydramnios+sequence+with+bilateral+renal+agenesis+%28Potter%27s+syndrome%29&amp;rft.aufirst=TE&amp;rft.au=Herman%2C+TE&amp;rft.aulast=Herman&amp;rft.au=Siegel%2C+MJ&amp;rft.date=September+2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fsj.jp.7200222&amp;rft_id=info%3Apmid%2F11002883&amp;rft.issue=6&amp;rft.jtitle=Journal+of+perinatology+%3A+official+journal+of+the+California+Perinatal+Association&amp;rft.pages=397-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation news">Camia, Catalina (2014-05-15). <a rel="nofollow" class="external text" href="http://onpolitics.usatoday.com/2014/05/15/jaime-herrera-beutler-baby-potter-syndrome/">"Rep. Beutler shares miracle baby story with PEOPLE"</a>. USA Today<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-16</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.au=Camia%2C+Catalina&amp;rft.aufirst=Catalina&amp;rft.aulast=Camia&amp;rft.btitle=Rep.+Beutler+shares+miracle+baby+story+with+PEOPLE&amp;rft.date=2014-05-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fonpolitics.usatoday.com%2F2014%2F05%2F15%2Fjaime-herrera-beutler-baby-potter-syndrome%2F&amp;rft.pub=USA+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation news">Henneberg, Molly (9/6/2013). <a rel="nofollow" class="external text" href="http://www.foxnews.com/health/2013/09/06/congresswoman-infant-daughter-may-be-first-baby-to-survive-potter-syndrome/">"Congresswoman's 'miracle baby' may be first to survive Potter's Syndrome"</a>. <i>FoxNews.com</i><span class="reference-accessdate">. Retrieved 9/10/2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotter+sequence&amp;rft.atitle=Congresswoman%27s+%27miracle+baby%27+may+be+first+to+survive+Potter%27s+Syndrome&amp;rft.aufirst=Molly&amp;rft.au=Henneberg%2C+Molly&amp;rft.aulast=Henneberg&amp;rft.date=9%2F6%2F2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.foxnews.com%2Fhealth%2F2013%2F09%2F06%2Fcongresswoman-infant-daughter-may-be-first-baby-to-survive-potter-syndrome%2F&amp;rft.jtitle=FoxNews.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|date=, |accessdate=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potter_sequence&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.kidneygenes.com">University of Iowa Potter Syndrome Research Group</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.potterssyndrome.org">Potterssyndrome.org</a>, support website</li>
+<li><a rel="nofollow" class="external text" href="http://forums.delphiforums.com/potterssyndrome/start">Potter syndrome</a> forums</li>
+<li><i><a rel="nofollow" class="external text" href="http://chorus.rad.mcw.edu/doc/00350.html">00350</a></i> at <a href="/wiki/Collaborative_Hypertext_of_Radiology" title="Collaborative Hypertext of Radiology">CHORUS</a></li>
+</ul>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.buybooksontheweb.com/product.aspx?ISBN=0-7414-4948-X">Giant Hero</a> A book by Angie and Cecil Bellephant of Kankakee, Il. who lost their son, Titus, to Potter's sequence in 2003. The book, Giant Hero, is filled with information on Potter's resources, explanations and inspiration. Also see their book at Infinity Publishing, www.bbotw.com. The book, released in September 2008, is written by Tracy Ahrens and funded by the University of Iowa Potter's Sequence Research Group.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Congenital_malformations_of_urinary_system" title="Template:Congenital malformations of urinary system"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Congenital_malformations_of_urinary_system" title="Template talk:Congenital malformations of urinary system"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Congenital_malformations_of_urinary_system&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Congenital_disorder" title="Congenital disorder">Congenital</a> <a href="/wiki/Urologic_disease" title="Urologic disease">malformations and deformations</a> of <a href="/wiki/Urinary_system" title="Urinary system">urinary system</a> (<a href="/wiki/ICD-10_Chapter_XVII:_Congenital_malformations,_deformations_and_chromosomal_abnormalities#.28Q60.E2.80.93Q64.29_urinary_system" title="ICD-10 Chapter XVII: Congenital malformations, deformations and chromosomal abnormalities">Q60–Q64</a>, <a href="/wiki/List_of_ICD-9_codes_740%E2%80%93759:_congenital_anomalies#Urinary_system" title="List of ICD-9 codes 740–759: congenital anomalies">753</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Abdominal</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Kidney_disease" title="Kidney disease">Kidney</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Renal_agenesis" title="Renal agenesis">Renal agenesis</a>/<strong class="selflink">Potter sequence</strong>, <a href="/wiki/Papillorenal_syndrome" title="Papillorenal syndrome">Papillorenal syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Cystic_kidney_disease" title="Cystic kidney disease">cystic</a></i>
+<ul>
+<li><a href="/wiki/Polycystic_kidney_disease" title="Polycystic kidney disease">Polycystic kidney disease</a></li>
+<li><a href="/wiki/Meckel_syndrome" title="Meckel syndrome">Meckel syndrome</a></li>
+<li><a href="/wiki/Multicystic_dysplastic_kidney" title="Multicystic dysplastic kidney">Multicystic dysplastic kidney</a></li>
+<li><a href="/wiki/Medullary_sponge_kidney" title="Medullary sponge kidney">Medullary sponge kidney</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Horseshoe_kidney" title="Horseshoe kidney">Horseshoe kidney</a></li>
+<li><a href="/wiki/Renal_ectopia" title="Renal ectopia">Renal ectopia</a></li>
+<li><a href="/wiki/Nephronophthisis" title="Nephronophthisis">Nephronophthisis</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Dent%27s_disease" title="Dent's disease">Dent's disease</a></li>
+<li><a href="/wiki/Alport_syndrome" title="Alport syndrome">Alport syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ureter" title="Ureter">Ureter</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ectopic_ureter" title="Ectopic ureter">Ectopic ureter</a></li>
+<li><a href="/wiki/Megaureter" title="Megaureter">Megaureter</a></li>
+<li><a href="/wiki/Duplicated_ureter" title="Duplicated ureter">Duplicated ureter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Pelvic</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Urinary_bladder_disease" title="Urinary bladder disease">Bladder</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bladder_exstrophy" title="Bladder exstrophy">Bladder exstrophy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Urethra" title="Urethra">Urethra</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Epispadias" title="Epispadias">Epispadias</a></li>
+<li><a href="/wiki/Hypospadias" title="Hypospadias">Hypospadias</a></li>
+<li><a href="/wiki/Posterior_urethral_valve" title="Posterior urethral valve">Posterior urethral valves</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Vestigial</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Urachus" title="Urachus">Urachus</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Urachal_cyst" title="Urachal cyst">Urachal cyst</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Urinary_system_navs" title="Template:Urinary system navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Urinary_system_navs" title="Template talk:Urinary system navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Urinary_system_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Urinary_system" title="Urinary system">urinary system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Urinary_system_anatomy" title="Template:Urinary system anatomy">Anatomy</a></li>
+<li><a href="/wiki/Template:Renal_physiology" title="Template:Renal physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Development_of_urinary_and_reproductive_systems" title="Template:Development of urinary and reproductive systems">Development</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">Cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Water-electrolyte_imbalance_and_acid-base_imbalance" title="Template:Water-electrolyte imbalance and acid-base imbalance">Electrolyte and acid-base</a></li>
+<li><a href="/wiki/Template:Congenital_malformations_of_urinary_system" title="Template:Congenital malformations of urinary system">Congenital</a></li>
+<li><a href="/wiki/Template:Urologic_neoplasia" title="Template:Urologic neoplasia">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Urologic_disease" title="Template:Urologic disease">Other</a></li>
+<li><a href="/wiki/Template:Urinary_system_symptoms_and_signs" title="Template:Urinary system symptoms and signs">Symptoms and signs</a></li>
+<li><a href="/wiki/Template:Urine_tests" title="Template:Urine tests">Urine tests</a>
+<ul>
+<li><a href="/wiki/Template:Abnormal_clinical_and_laboratory_findings_for_urine" title="Template:Abnormal clinical and laboratory findings for urine">findings</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Clinical_biochemistry_blood_tests" title="Template:Clinical biochemistry blood tests">Blood tests</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Urologic_procedures" title="Template:Urologic procedures">Procedures</a></li>
+<li><a href="/wiki/Template:Urologicals,_including_antispasmodics" title="Template:Urologicals, including antispasmodics">Drugs</a>
+<ul>
+<li><a href="/wiki/Template:Drugs_for_treatment_of_hyperkalemia_and_hyperphosphatemia" title="Template:Drugs for treatment of hyperkalemia and hyperphosphatemia">potassium and phosphate</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Intravenous_therapy" title="Template:Intravenous therapy">Intravenous fluids</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1027
+CPU time usage: 0.409 seconds
+Real time usage: 0.501 seconds
+Preprocessor visited node count: 1883/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74009/2097152 bytes
+Template argument size: 2455/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 4.33 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  388.884      1 - -total
+ 29.99%  116.641      1 - Template:Reflist
+ 18.19%   70.728      1 - Template:Infobox_disease
+ 15.94%   62.003      8 - Template:Cite_journal
+ 15.74%   61.203      5 - Template:Navbox
+ 15.42%   59.959      1 - Template:Infobox
+ 13.41%   52.161      1 - Template:Clarification
+ 12.01%   46.710      1 - Template:Congenital_malformations_of_urinary_system
+ 11.46%   44.551      1 - Template:Fix-span
+ 11.41%   44.364      6 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1194872-0!*!0!!en!4!* and timestamp 20150704220650 and revision id 641662255
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Potter_sequence&amp;oldid=641662255">https://en.wikipedia.org/w/index.php?title=Potter_sequence&amp;oldid=641662255</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nephrology" title="Category:Nephrology">Nephrology</a></li><li><a href="/wiki/Category:Congenital_disorders_of_urinary_system" title="Category:Congenital disorders of urinary system">Congenital disorders of urinary system</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_May_2014" title="Category:Wikipedia articles needing clarification from May 2014">Wikipedia articles needing clarification from May 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2008" title="Category:Articles with unsourced statements from December 2008">Articles with unsourced statements from December 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">Articles with unsourced statements from May 2009</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2012" title="Category:Articles needing additional references from December 2012">Articles needing additional references from December 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Potter+sequence&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Potter+sequence" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Potter_sequence"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Potter_sequence"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Potter_sequence" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Potter_sequence&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Potter_sequence&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Potter_sequence" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Potter_sequence" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Potter_sequence&amp;oldid=641662255" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Potter_sequence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2019823" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Potter_sequence&amp;id=641662255" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Potter+sequence">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Potter+sequence&amp;oldid=641662255&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Potter_sequence&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Oligohydramnion#Oligohydramnion-Sequenz" title="Oligohydramnion – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Secuencia_de_Potter" title="Secuencia de Potter – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/S%C3%A9quence_de_Potter" title="Séquence de Potter – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Syndroom_van_Potter" title="Syndroom van Potter – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9D%E3%83%83%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4" title="ポッター症候群 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Sekwencja_Potter" title="Sekwencja Potter – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2019823#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 January 2015, at 01:40.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Potter_sequence&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1073"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Schlessinger's theorem - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Schlessinger%27s_theorem" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Schlessinger%27s_theorem" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Schlessinger%27s_theorem" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Schlessinger's_theorem","wgTitle":"Schlessinger's theorem","wgCurRevisionId":643395866,"wgRevisionId":643395866,"wgArticleId":38179442,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Theorems in algebraic geometry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Schlessinger's_theorem","wgRelevantArticleId":38179442,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7431703"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Schlessinger_s_theorem skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Schlessinger's theorem</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>In algebra, <b>Schlessinger's theorem</b> is a theorem in <a href="/wiki/Deformation_theory" title="Deformation theory">deformation theory</a> introduced by <a href="/wiki/Michael_Schlessinger" title="Michael Schlessinger">Schlessinger</a>&#160;(<a href="#CITEREFSchlessinger1968">1968</a>) that gives conditions for a <a href="/wiki/Functor" title="Functor">functor</a> of <a href="/wiki/Artinian_ring" title="Artinian ring">artinian</a> <a href="/wiki/Local_ring" title="Local ring">local rings</a> to be pro-representable, refining an earlier theorem of <a href="/wiki/Alexander_Grothendieck" title="Alexander Grothendieck">Grothendieck</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Grothendieck.27s_theorem"><span class="tocnumber">2</span> <span class="toctext">Grothendieck's theorem</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Schlessinger.27s_representation_theorem"><span class="tocnumber">3</span> <span class="toctext">Schlessinger's representation theorem</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Λ is a complete <a href="/wiki/Noetherian_ring" title="Noetherian ring">Noetherian</a> local ring with <a href="/wiki/Residue_field" title="Residue field">residue field</a> <i>k</i>, and <i>C</i> is the <a href="/wiki/Category_(mathematics)" title="Category (mathematics)">category</a> of local Artinian Λ-algebras (meaning in particular that as modules over Λ they are <a href="/wiki/Finitely-generated_module" title="Finitely-generated module">finitely generated</a> and Artinian) with residue field <i>k</i>.</p>
+<p>A <b>small extension</b> in <i>C</i> is a morphism <i>Y</i>→<i>Z</i> in <i>C</i> that is surjective with kernel a 1-dimensional <a href="/wiki/Vector_space" title="Vector space">vector space</a> over <i>k</i>.</p>
+<p>A functor is called representable if it is of the form <i>h</i><sub><i>X</i></sub> where <i>h</i><sub><i>X</i></sub>(<i>Y</i>)=hom(<i>X</i>,<i>Y</i>) for some <i>X</i>, and is called pro-representable if it is of the form <i>Y</i>→lim hom(<i>X</i><sub><i>i</i></sub>,<i>Y</i>) for a filtered direct limit over <i>i</i> in some filtered ordered set.</p>
+<p>A morphism of functors <i>F</i>→<i>G</i> from <i>C</i> to sets is called <b>smooth</b> if whenever <i>Y</i>→<i>Z</i> is an epimorphism of <i>C</i>, the map from <i>F</i>(<i>Y</i>) to <i>F</i>(<i>Z</i>)×<sub><i>G</i>(<i>Z</i>)</sub><i>G</i>(<i>Y</i>) is surjective. This definition is closely related to the notion of a <a href="/wiki/Formally_smooth" title="Formally smooth" class="mw-redirect">formally smooth</a> morphism of schemes. If in addition the map between the tangent spaces of <i>F</i> and <i>G</i> is an isomorphism, then <i>F</i> is called a <b>hull</b> of <i>G</i>.</p>
+<h2><span class="mw-headline" id="Grothendieck.27s_theorem">Grothendieck's theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit&amp;section=2" title="Edit section: Grothendieck's theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="#CITEREFGrothendieck1960">Grothendieck (1960</a>, proposition 3.1) showed that a functor from the category <i>C</i> of <a href="/wiki/Artinian_algebra" title="Artinian algebra" class="mw-redirect">Artinian algebras</a> to sets is pro-representable if and only if it preserves all finite limits. This condition is equivalent to asking that the functor preserves pullbacks and the final object. In fact Grothendieck's theorem applies not only to the category <i>C</i> of Artinian algebras, but to any category with finite limits whose objects are Artinian.</p>
+<p>By taking the projective limit of the pro-representable functor in the larger category of linearly topologized local rings, one obtains a complete linearly topologized local ring representing the functor.</p>
+<h2><span class="mw-headline" id="Schlessinger.27s_representation_theorem">Schlessinger's representation theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit&amp;section=3" title="Edit section: Schlessinger's representation theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One difficulty in applying Grothendieck's theorem is that it can be hard to check that a functor preserves all pullbacks. Schlessinger showed that it is sufficient to check that the functor preserves pullbacks of a special form, which is often easier to check. Schlessinger's theorem also gives conditions under which the functor has a hull, even if it is not representable.</p>
+<p>Schessinger's theorem gives conditions for a set-valued functor <i>F</i> on <i>C</i> to be representable by a complete local Λ-algebra <i>R</i> with maximal ideal <i>m</i> such that <i>R</i>/<i>m</i><sup><i>n</i></sup> is in <i>C</i> for all <i>n</i>.</p>
+<p>Schlessinger's theorem states that a functor from <i>C</i> to sets with <i>F</i>(<i>k</i>) a 1-element set is representable by a complete Noetherian local algebra if it has the following properties, and has a hull if it has the first three properties:</p>
+<ul>
+<li>H1: The map <i>F</i>(<i>Y</i>×<sub><i>X</i></sub><i>Z</i>)→<i>F</i>(<i>Y</i>)×<sub><i>F</i>(<i>X</i>)</sub><i>F</i>(<i>Z</i>) is surjective whenever <i>Z</i>→<i>X</i> is a small extension in <i>C</i> and <i>Y</i>→<i>X</i> is some morphism in <i>C</i>.</li>
+<li>H2: The map in H1 is a bijection whenever <i>Z</i>→<i>X</i> is the small extension <i>k</i>[<i>x</i>]/(<i>x</i><sup>2</sup>)→<i>k</i>.</li>
+<li>H3: The tangent space of <i>F</i> is a finite-dimensional vector space over <i>k</i>.</li>
+<li>H4: The map in H1 is a bijection whenever <i>Y</i>=<i>Z</i> is a small extension of <i>X</i> and the maps from <i>Y</i> and <i>Z</i> to <i>X</i> are the same.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span id="CITEREFGrothendieck1960" class="citation">Grothendieck (1960), <a rel="nofollow" class="external text" href="http://www.numdam.org/item?id=SB_1958-1960__5__369_0"><i>Technique de descente et théorèmes d'existence en géométrie algébrique, II. Le théorème d'existence en théorie formelle des modules</i></a>, Séminaire Bourbaki <b>12</b> (195)</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchlessinger%27s+theorem&amp;rft.au=Grothendieck&amp;rft.aulast=Grothendieck&amp;rft.btitle=Technique+de+descente+et+th%C3%A9or%C3%A8mes+d%27existence+en+g%C3%A9om%C3%A9trie+alg%C3%A9brique%2C+II.+Le+th%C3%A9or%C3%A8me+d%27existence+en+th%C3%A9orie+formelle+des+modules&amp;rft.date=1960&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.numdam.org%2Fitem%3Fid%3DSB_1958-1960__5__369_0&amp;rft.issue=195&amp;rft.series=S%C3%A9minaire+Bourbaki&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFSchlessinger1968" class="citation">Schlessinger, Michael (1968), <a rel="nofollow" class="external text" href="http://www.jstor.org/stable/1994967">"Functors of Artin rings"</a>, <i><a href="/wiki/Transactions_of_the_American_Mathematical_Society" title="Transactions of the American Mathematical Society">Transactions of the American Mathematical Society</a></i> <b>130</b>: 208–222, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F1994967">10.2307/1994967</a>, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0002-9947">0002-9947</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0217093">0217093</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASchlessinger%27s+theorem&amp;rft.atitle=Functors+of+Artin+rings&amp;rft.aufirst=Michael&amp;rft.aulast=Schlessinger&amp;rft.au=Schlessinger%2C+Michael&amp;rft.date=1968&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jstor.org%2Fstable%2F1994967&amp;rft_id=info%3Adoi%2F10.2307%2F1994967&amp;rft.issn=0002-9947&amp;rft.jtitle=Transactions+of+the+American+Mathematical+Society&amp;rft.mr=0217093&amp;rft.pages=208-222&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1092
+CPU time usage: 0.068 seconds
+Real time usage: 0.090 seconds
+Preprocessor visited node count: 365/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6478/2097152 bytes
+Template argument size: 175/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.019/10.000 seconds
+Lua memory usage: 1.27 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   76.442      1 - -total
+ 44.23%   33.811      2 - Template:Citation
+ 34.75%   26.566      1 - Template:Harvtxt
+ 29.18%   22.304      1 - Template:Harvard_citation/core
+ 20.49%   15.662      1 - Template:Harvs
+ 12.53%    9.580      1 - Template:Harvard_citations/core
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38179442-0!*!0!!en!*!* and timestamp 20150630082556 and revision id 643395866
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Schlessinger%27s_theorem&amp;oldid=643395866">https://en.wikipedia.org/w/index.php?title=Schlessinger%27s_theorem&amp;oldid=643395866</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Theorems_in_algebraic_geometry" title="Category:Theorems in algebraic geometry">Theorems in algebraic geometry</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Schlessinger%27s+theorem&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Schlessinger%27s+theorem" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Schlessinger%27s_theorem"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Schlessinger%27s_theorem"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Schlessinger%27s_theorem" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Schlessinger%27s_theorem" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Schlessinger%27s_theorem" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;oldid=643395866" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7431703" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Schlessinger%27s_theorem&amp;id=643395866" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Schlessinger%27s+theorem">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Schlessinger%27s+theorem&amp;oldid=643395866&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Schlessinger%27s_theorem&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Schlessingers_sats" title="Schlessingers sats – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7431703#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 January 2015, at 17:40.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Schlessinger%27s_theorem&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1219"});
+}</script>
+	</body>
+</html>

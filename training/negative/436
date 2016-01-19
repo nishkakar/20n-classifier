@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Order-8 hexagonal tiling - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Order-8_hexagonal_tiling" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Order-8_hexagonal_tiling" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Order-8_hexagonal_tiling" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Order-8_hexagonal_tiling","wgTitle":"Order-8 hexagonal tiling","wgCurRevisionId":632245137,"wgRevisionId":632245137,"wgArticleId":38892179,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category without a link on Wikidata","Hyperbolic tilings","Isogonal tilings","Isohedral tilings","Order-8 tilings","Regular tilings"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Order-8_hexagonal_tiling","wgRelevantArticleId":38892179,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/100px-H2_tiling_268-4.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17078088"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Order-8_hexagonal_tiling skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Order-8 hexagonal tiling</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="wikitable" align="right" width="280">
+<tr>
+<th style="background-color:#e7dcc3;" colspan="2">Order-8 hexagonal tiling</th>
+</tr>
+<tr>
+<td style="text-align:center;" colspan="2"><a href="/wiki/File:H2_tiling_268-4.png" class="image" title="Order-8 hexagonal tiling"><img alt="Order-8 hexagonal tiling" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/280px-H2_tiling_268-4.png" width="280" height="280" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/420px-H2_tiling_268-4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/560px-H2_tiling_268-4.png 2x" data-file-width="2520" data-file-height="2520" /></a><br />
+<a href="/wiki/Poincar%C3%A9_disk_model" title="Poincaré disk model">Poincaré disk model</a> of the <a href="/wiki/Hyperbolic_geometry" title="Hyperbolic geometry">hyperbolic plane</a></td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3;width:110px;">Type</td>
+<td><a href="/wiki/List_of_regular_polytopes#Hyperbolic_tilings" title="List of regular polytopes" class="mw-redirect">Hyperbolic regular tiling</a></td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/Vertex_configuration" title="Vertex configuration">Vertex figure</a></td>
+<td>6<sup>8</sup></td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/Schl%C3%A4fli_symbol" title="Schläfli symbol">Schläfli symbol</a></td>
+<td>{6,8}</td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/Wythoff_symbol" title="Wythoff symbol">Wythoff symbol</a></td>
+<td>8 | 6 2</td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/Coxeter-Dynkin_diagram" title="Coxeter-Dynkin diagram" class="mw-redirect">Coxeter diagram</a></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/Coxeter-Dynkin_diagram#Hyperbolic_groups_in_H2" title="Coxeter-Dynkin diagram" class="mw-redirect">Symmetry group</a></td>
+<td>[8,6], (*862)</td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3"><a href="/wiki/Dual_polyhedron" title="Dual polyhedron">Dual</a></td>
+<td><a href="/wiki/Order-6_octagonal_tiling" title="Order-6 octagonal tiling">Order-6 octagonal tiling</a></td>
+</tr>
+<tr>
+<td style="background-color:#e7dcc3">Properties</td>
+<td><a href="/wiki/Vertex-transitive" title="Vertex-transitive" class="mw-redirect">Vertex-transitive</a>, <a href="/wiki/Edge-transitive" title="Edge-transitive" class="mw-redirect">edge-transitive</a>, <a href="/wiki/Face-transitive" title="Face-transitive" class="mw-redirect">face-transitive</a></td>
+</tr>
+</table>
+<p>In <a href="/wiki/Geometry" title="Geometry">geometry</a>, the <b>order-8 hexagonal tiling</b> is a <a href="/wiki/List_of_regular_polytopes#Hyperbolic_tilings" title="List of regular polytopes" class="mw-redirect">regular</a> tiling of the <a href="/wiki/Hyperbolic_geometry" title="Hyperbolic geometry">hyperbolic plane</a>. It has <a href="/wiki/Schl%C3%A4fli_symbol" title="Schläfli symbol">Schläfli symbol</a> of {6,8}.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Symmetry"><span class="tocnumber">1</span> <span class="toctext">Symmetry</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Related_polyhedra_and_tiling"><span class="tocnumber">2</span> <span class="toctext">Related polyhedra and tiling</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Symmetry">Symmetry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit&amp;section=1" title="Edit section: Symmetry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This tiling represents a hyperbolic <a href="/wiki/Kaleidoscope" title="Kaleidoscope">kaleidoscope</a> of 4 mirrors meeting as edges of a square, with eight squares around every vertex. This symmetry by <a href="/wiki/Orbifold_notation" title="Orbifold notation">orbifold notation</a> is called (*444444) with 6 order-4 mirror intersections. In <a href="/wiki/Coxeter_notation" title="Coxeter notation">Coxeter notation</a> can be represented as [8,1<sup>+</sup>,6,1<sup>+</sup>], removing two of three mirrors (passing through the square center) in the <a href="/wiki/862_symmetry" title="862 symmetry" class="mw-redirect">[8,6] symmetry</a>.</p>
+<h2><span class="mw-headline" id="Related_polyhedra_and_tiling">Related polyhedra and tiling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit&amp;section=2" title="Edit section: Related polyhedra and tiling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption><a href="/wiki/Hyperbolic_tiling#The_.5B7.2C3.5D_.287_3_2.29_group_family" title="Hyperbolic tiling" class="mw-redirect">Uniform octagonal/hexagonal tilings</a></caption>
+<tr>
+<th colspan="7"><a href="/wiki/List_of_planar_symmetry_groups#Wallpaper_groups" title="List of planar symmetry groups">Symmetry</a>: <a href="/wiki/862_symmetry" title="862 symmetry" class="mw-redirect">[8,6], (*862)</a></th>
+</tr>
+<tr style="text-align:center;">
+<td><span style="display:inline-block;"><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node 1.png" src="//upload.wikimedia.org/wikipedia/commons/b/bd/CDel_node_1.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/File:H2_tiling_268-1.png" class="image"><img alt="H2 tiling 268-1.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/H2_tiling_268-1.png/65px-H2_tiling_268-1.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/H2_tiling_268-1.png/98px-H2_tiling_268-1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/H2_tiling_268-1.png/130px-H2_tiling_268-1.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2_tiling_268-3.png" class="image"><img alt="H2 tiling 268-3.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/H2_tiling_268-3.png/65px-H2_tiling_268-3.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/H2_tiling_268-3.png/98px-H2_tiling_268-3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/H2_tiling_268-3.png/130px-H2_tiling_268-3.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2_tiling_268-2.png" class="image"><img alt="H2 tiling 268-2.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/H2_tiling_268-2.png/65px-H2_tiling_268-2.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/H2_tiling_268-2.png/98px-H2_tiling_268-2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/H2_tiling_268-2.png/130px-H2_tiling_268-2.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2_tiling_268-6.png" class="image"><img alt="H2 tiling 268-6.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/H2_tiling_268-6.png/65px-H2_tiling_268-6.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/H2_tiling_268-6.png/98px-H2_tiling_268-6.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/H2_tiling_268-6.png/130px-H2_tiling_268-6.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2_tiling_268-4.png" class="image"><img alt="H2 tiling 268-4.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/65px-H2_tiling_268-4.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/98px-H2_tiling_268-4.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/H2_tiling_268-4.png/130px-H2_tiling_268-4.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2_tiling_268-5.png" class="image"><img alt="H2 tiling 268-5.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/H2_tiling_268-5.png/65px-H2_tiling_268-5.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/H2_tiling_268-5.png/98px-H2_tiling_268-5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/H2_tiling_268-5.png/130px-H2_tiling_268-5.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2_tiling_268-7.png" class="image"><img alt="H2 tiling 268-7.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/H2_tiling_268-7.png/65px-H2_tiling_268-7.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/H2_tiling_268-7.png/98px-H2_tiling_268-7.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/H2_tiling_268-7.png/130px-H2_tiling_268-7.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/Order-6_octagonal_tiling" title="Order-6 octagonal tiling">{8,6}</a></td>
+<td><a href="/wiki/Truncated_order-6_octagonal_tiling" title="Truncated order-6 octagonal tiling">t{8,6}</a><br /></td>
+<td><a href="/wiki/Hexaoctagonal_tiling" title="Hexaoctagonal tiling">r{8,6}</a></td>
+<td><a href="/wiki/Truncated_order-8_hexagonal_tiling" title="Truncated order-8 hexagonal tiling">2t{8,6}=t{6,8}</a></td>
+<td><strong class="selflink">2r{8,6}={6,8}</strong></td>
+<td><a href="/wiki/Rhombihexaoctagonal_tiling" title="Rhombihexaoctagonal tiling">rr{8,6}</a></td>
+<td><a href="/wiki/Truncated_hexaoctagonal_tiling" title="Truncated hexaoctagonal tiling">tr{8,6}</a></td>
+</tr>
+<tr>
+<th colspan="7">Uniform duals</th>
+</tr>
+<tr style="text-align:center;">
+<td><span style="display:inline-block;"><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node f1.png" src="//upload.wikimedia.org/wikipedia/commons/9/9b/CDel_node_f1.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/File:H2chess_268b.png" class="image"><img alt="H2chess 268b.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/H2chess_268b.png/65px-H2chess_268b.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/H2chess_268b.png/98px-H2chess_268b.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/H2chess_268b.png/130px-H2chess_268b.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2chess_268f.png" class="image"><img alt="H2chess 268f.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/H2chess_268f.png/65px-H2chess_268f.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/H2chess_268f.png/98px-H2chess_268f.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/H2chess_268f.png/130px-H2chess_268f.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2chess_268a.png" class="image"><img alt="H2chess 268a.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/H2chess_268a.png/65px-H2chess_268a.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/H2chess_268a.png/98px-H2chess_268a.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/H2chess_268a.png/130px-H2chess_268a.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2chess_268e.png" class="image"><img alt="H2chess 268e.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/H2chess_268e.png/65px-H2chess_268e.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/H2chess_268e.png/98px-H2chess_268e.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/H2chess_268e.png/130px-H2chess_268e.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2chess_268c.png" class="image"><img alt="H2chess 268c.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/H2chess_268c.png/65px-H2chess_268c.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/H2chess_268c.png/98px-H2chess_268c.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/H2chess_268c.png/130px-H2chess_268c.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2chess_268d.png" class="image"><img alt="H2chess 268d.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/H2chess_268d.png/65px-H2chess_268d.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/H2chess_268d.png/98px-H2chess_268d.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/H2chess_268d.png/130px-H2chess_268d.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td><a href="/wiki/File:H2checkers_268.png" class="image"><img alt="H2checkers 268.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/H2checkers_268.png/65px-H2checkers_268.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/H2checkers_268.png/98px-H2checkers_268.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/H2checkers_268.png/130px-H2checkers_268.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+</tr>
+<tr style="text-align:center;">
+<td>V8<sup>6</sup></td>
+<td>V6.16.16</td>
+<td>V(6.8)<sup>2</sup></td>
+<td>V8.12.12</td>
+<td>V6<sup>8</sup></td>
+<td>V4.6.4.8</td>
+<td>V4.12.16</td>
+</tr>
+<tr>
+<th colspan="7">Alternations</th>
+</tr>
+<tr style="text-align:center;">
+<th>[1<sup>+</sup>,8,6]<br />
+(*466)</th>
+<th>[8<sup>+</sup>,6]<br />
+(8*3)</th>
+<th>[8,1<sup>+</sup>,6]<br />
+(*4232)</th>
+<th>[8,6<sup>+</sup>]<br />
+(6*4)</th>
+<th>[8,6,1<sup>+</sup>]<br />
+(*883)</th>
+<th>[(8,6,2<sup>+</sup>)]<br />
+(2*43)</th>
+<th>[8,6]<sup>+</sup><br />
+(862)</th>
+</tr>
+<tr style="text-align:center;">
+<td><span style="display:inline-block;"><img alt="CDel node h1.png" src="//upload.wikimedia.org/wikipedia/commons/4/48/CDel_node_h1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h1.png" src="//upload.wikimedia.org/wikipedia/commons/4/48/CDel_node_h1.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h1.png" src="//upload.wikimedia.org/wikipedia/commons/4/48/CDel_node_h1.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node h.png" src="//upload.wikimedia.org/wikipedia/commons/2/28/CDel_node_h.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/File:H2_tiling_466-1.png" class="image"><img alt="H2 tiling 466-1.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/H2_tiling_466-1.png/65px-H2_tiling_466-1.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/H2_tiling_466-1.png/98px-H2_tiling_466-1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/H2_tiling_466-1.png/130px-H2_tiling_466-1.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="/wiki/File:H2_tiling_388-1.png" class="image"><img alt="H2 tiling 388-1.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/H2_tiling_388-1.png/65px-H2_tiling_388-1.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/H2_tiling_388-1.png/98px-H2_tiling_388-1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/H2_tiling_388-1.png/130px-H2_tiling_388-1.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td></td>
+<td><a href="/wiki/File:Uniform_tiling_86-snub.png" class="image"><img alt="Uniform tiling 86-snub.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Uniform_tiling_86-snub.png/65px-Uniform_tiling_86-snub.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Uniform_tiling_86-snub.png/98px-Uniform_tiling_86-snub.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Uniform_tiling_86-snub.png/130px-Uniform_tiling_86-snub.png 2x" data-file-width="512" data-file-height="512" /></a></td>
+</tr>
+<tr style="text-align:center;">
+<td>h{8,6}</td>
+<td>s{8,6}</td>
+<td>hr{8,6}</td>
+<td>s{6,8}</td>
+<td>h{6,8}</td>
+<td>hrr{8,6}</td>
+<td><a href="/wiki/Snub_hexaoctagonal_tiling" title="Snub hexaoctagonal tiling">sr{8,6}</a></td>
+</tr>
+<tr>
+<th colspan="7">Alternation duals</th>
+</tr>
+<tr style="text-align:center;">
+<td><span style="display:inline-block;"><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node.png" src="//upload.wikimedia.org/wikipedia/commons/5/5e/CDel_node.png" width="5" height="23" data-file-width="5" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+<td><span style="display:inline-block;"><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 8.png" src="//upload.wikimedia.org/wikipedia/commons/f/f7/CDel_8.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /><img alt="CDel 6.png" src="//upload.wikimedia.org/wikipedia/commons/3/32/CDel_6.png" width="6" height="23" data-file-width="6" data-file-height="23" /><img alt="CDel node fh.png" src="//upload.wikimedia.org/wikipedia/commons/6/6f/CDel_node_fh.png" width="9" height="23" data-file-width="9" data-file-height="23" /></span></td>
+</tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/File:H2chess_466b.png" class="image"><img alt="H2chess 466b.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/H2chess_466b.png/65px-H2chess_466b.png" width="65" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/H2chess_466b.png/98px-H2chess_466b.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/H2chess_466b.png/130px-H2chess_466b.png 2x" data-file-width="2520" data-file-height="2520" /></a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr style="text-align:center;">
+<td>V(4.6)<sup>6</sup></td>
+<td>V3.3.8.3.8.3</td>
+<td>V(3.4.4.4)<sup>2</sup></td>
+<td>V3.4.3.4.3.6</td>
+<td>V(3.8)<sup>8</sup></td>
+<td>V3.4<sup>5</sup></td>
+<td>V3.3.6.3.8</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Order-8_hexagonal_tiling" class="extiw" title="commons:Category:Order-8 hexagonal tiling">Order-8 hexagonal tiling</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Uniform_tilings_in_hyperbolic_plane" title="Uniform tilings in hyperbolic plane">Uniform tilings in hyperbolic plane</a></li>
+<li><a href="/wiki/List_of_regular_polytopes" title="List of regular polytopes" class="mw-redirect">List of regular polytopes</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;"></div>
+<ul>
+<li><a href="/wiki/John_Horton_Conway" title="John Horton Conway">John H. Conway</a>, Heidi Burgiel, Chaim Goodman-Strass, <i>The Symmetries of Things</i> 2008, <a href="/wiki/Special:BookSources/9781568812205" class="internal mw-magiclink-isbn">ISBN 978-1-56881-220-5</a> (Chapter 19, The Hyperbolic Archimedean Tessellations)</li>
+<li><span class="citation book">"Chapter 10: Regular honeycombs in hyperbolic space". <i>The Beauty of Geometry: Twelve Essays</i>. Dover Publications. 1999. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-486-40919-8" title="Special:BookSources/0-486-40919-8">0-486-40919-8</a>. <a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>&#160;<a rel="nofollow" class="external text" href="http://lccn.loc.gov/99035678">99035678</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrder-8+hexagonal+tiling&amp;rft.atitle=Chapter+10%3A+Regular+honeycombs+in+hyperbolic+space&amp;rft.btitle=The+Beauty+of+Geometry%3A+Twelve+Essays&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft.isbn=0-486-40919-8&amp;rft.lccn=99035678&amp;rft.pub=Dover+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation mathworld" id="Reference-Mathworld-Hyperbolic_tiling"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/HyperbolicTiling.html">"Hyperbolic tiling"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li>
+<li><span class="citation mathworld" id="Reference-Mathworld-Poincar.C3.A9_hyperbolic_disk"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a>, <a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/PoincareHyperbolicDisk.html">"Poincaré hyperbolic disk"</a>, <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</span></li>
+<li><a rel="nofollow" class="external text" href="http://bork.hampshire.edu/~bernie/hyper/">Hyperbolic and Spherical Tiling Gallery</a></li>
+<li><a rel="nofollow" class="external text" href="http://geometrygames.org/KaleidoTile/index.html">KaleidoTile 3: Educational software to create spherical, planar and hyperbolic tilings</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.plunk.org/~hatch/HyperbolicTesselations">Hyperbolic Planar Tessellations, Don Hatch</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Tessellation" title="Template:Tessellation"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Tessellation" title="Template talk:Tessellation"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tessellation&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Tessellation" title="Tessellation">Tessellation</a> &amp; tiling</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Tiling_by_regular_polygons" title="Tiling by regular polygons" class="mw-redirect">Periodic</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pythagorean_tiling" title="Pythagorean tiling">Pythagorean</a></li>
+<li><a href="/wiki/Rhombille_tiling" title="Rhombille tiling">Rhombille</a></li>
+<li><a href="/wiki/Schwarz_triangle" title="Schwarz triangle">Schwarz triangle</a></li>
+<li><a href="/wiki/Tiling_with_rectangles" title="Tiling with rectangles">Rectangle</a>
+<ul>
+<li><a href="/wiki/Domino_tiling" title="Domino tiling">Domino</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Uniform_tiling" title="Uniform tiling">Uniform tiling</a> &amp; <a href="/wiki/Uniform_honeycomb" title="Uniform honeycomb">honeycomb</a>
+<ul>
+<li><a href="/wiki/Uniform_coloring" title="Uniform coloring">Coloring</a></li>
+<li><a href="/wiki/List_of_convex_uniform_tilings" title="List of convex uniform tilings">Convex</a></li>
+<li><a href="/wiki/Kisrhombille" title="Kisrhombille">Kisrhombille</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wallpaper_group" title="Wallpaper group">Wallpaper group</a></li>
+<li><a href="/wiki/Wythoff_construction" title="Wythoff construction">Wythoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg" class="image"><img alt="Marble floor mosaic Basilica of St Mark Vencice.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg/90px-Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg" width="90" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg/135px-Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg/180px-Marble_floor_mosaic_Basilica_of_St_Mark_Vencice.jpg 2x" data-file-width="543" data-file-height="566" /></a><br />
+<br />
+<a href="/wiki/File:2C_3_1979.JPG" class="image"><img alt="2C 3 1979.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2C_3_1979.JPG/90px-2C_3_1979.JPG" width="90" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2C_3_1979.JPG/135px-2C_3_1979.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2C_3_1979.JPG/180px-2C_3_1979.JPG 2x" data-file-width="1562" data-file-height="1688" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Aperiodic_tiling" title="Aperiodic tiling">Aperiodic</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ammann%E2%80%93Beenker_tiling" title="Ammann–Beenker tiling">Ammann–Beenker</a></li>
+<li><a href="/wiki/Aperiodic_set_of_prototiles" title="Aperiodic set of prototiles">Aperiodic set of prototiles</a>
+<ul>
+<li><a href="/wiki/List_of_aperiodic_sets_of_tiles" title="List of aperiodic sets of tiles">List</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Einstein_problem" title="Einstein problem">Einstein problem</a>
+<ul>
+<li><a href="/wiki/Socolar%E2%80%93Taylor_tile" title="Socolar–Taylor tile">Socolar–Taylor</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gilbert_tessellation" title="Gilbert tessellation">Gilbert</a></li>
+<li><a href="/wiki/Penrose_tiling" title="Penrose tiling">Penrose</a></li>
+<li><a href="/wiki/Pentagon_tiling" title="Pentagon tiling">Pentagon</a></li>
+<li><a href="/wiki/Pinwheel_tiling" title="Pinwheel tiling">Pinwheel</a></li>
+<li><a href="/wiki/Quaquaversal_tiling" title="Quaquaversal tiling">Quaquaversal</a></li>
+<li><a href="/wiki/Rep-tile" title="Rep-tile">Rep-tile</a> &amp; <a href="/wiki/Self-tiling_tile_set" title="Self-tiling tile set">Self-tiling</a>
+<ul>
+<li><a href="/wiki/Sphinx_tiling" title="Sphinx tiling">Sphinx</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Truchet_tiles" title="Truchet tiles">Truchet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Other</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anisohedral_tiling" title="Anisohedral tiling">Anisohedral</a> &amp; <a href="/wiki/Isohedral_figure" title="Isohedral figure">Isohedral</a></li>
+<li><a href="/wiki/Architectonic_and_catoptric_tessellation" title="Architectonic and catoptric tessellation">Architectonic &amp; catoptric</a></li>
+<li><i><a href="/wiki/Circle_Limit_III" title="Circle Limit III">Circle Limit III</a></i></li>
+<li><a href="/wiki/Tessellation_(computer_graphics)" title="Tessellation (computer graphics)">Computer graphics</a></li>
+<li><a href="/wiki/Honeycomb_(geometry)" title="Honeycomb (geometry)">Honeycomb</a></li>
+<li><a href="/wiki/List_of_isotoxal_polyhedra_and_tilings" title="List of isotoxal polyhedra and tilings">Isotoxal</a></li>
+<li><a href="/wiki/Packing_problems" title="Packing problems">Packing</a></li>
+<li>Problems
+<ul>
+<li><a href="/wiki/Domino_problem" title="Domino problem" class="mw-redirect">Domino</a>
+<ul>
+<li><a href="/wiki/Wang_tile" title="Wang tile">Wang</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heesch%27s_problem" title="Heesch's problem">Heesch's</a></li>
+<li><a href="/wiki/Squaring_the_square" title="Squaring the square">Squaring</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Prototile" title="Prototile">Prototile</a>
+<ul>
+<li><a href="/wiki/Conway_criterion" title="Conway criterion">Conway criterion</a></li>
+<li><a href="/wiki/Girih_tiles" title="Girih tiles">Girih</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Regular_Division_of_the_Plane" title="Regular Division of the Plane">Regular Division of the Plane</a></i></li>
+<li><a href="/wiki/Regular_grid" title="Regular grid">Regular grid</a></li>
+<li><a href="/wiki/Substitution_tiling" title="Substitution tiling">Substitution</a></li>
+<li><a href="/wiki/Voronoi_diagram" title="Voronoi diagram">Voronoi</a></li>
+<li><a href="/wiki/Voderberg_tiling" title="Voderberg tiling">Voderberg</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">By <a href="/wiki/Vertex_configuration" title="Vertex configuration">vertex type</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Spherical_polyhedron" title="Spherical polyhedron">Spherical</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hosohedron" title="Hosohedron">2<sup>n</sup></a></li>
+<li><a href="/wiki/Antiprism" title="Antiprism">3<sup>3</sup>.n</a></li>
+<li><a href="/wiki/Trapezohedron" title="Trapezohedron">V3<sup>3</sup>.n</a></li>
+<li><a href="/wiki/Prism_(geometry)" title="Prism (geometry)">4<sup>2</sup>.n</a></li>
+<li><a href="/wiki/Bipyramid" title="Bipyramid">V4<sup>2</sup>.n</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Regular</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apeirogonal_hosohedron" title="Apeirogonal hosohedron">2<sup>∞</sup></a></li>
+<li><a href="/wiki/Triangular_tiling" title="Triangular tiling">3<sup>6</sup></a></li>
+<li><a href="/wiki/Square_tiling" title="Square tiling">4<sup>4</sup></a></li>
+<li><a href="/wiki/Hexagonal_tiling" title="Hexagonal tiling">6<sup>3</sup></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Semi-<br />
+regular</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Snub_square_tiling" title="Snub square tiling">3<sup>2</sup>.4.3.4</a></li>
+<li><a href="/wiki/Cairo_pentagonal_tiling" title="Cairo pentagonal tiling">V3<sup>2</sup>.4.3.4</a></li>
+<li><a href="/wiki/Elongated_triangular_tiling" title="Elongated triangular tiling">3<sup>3</sup>.4<sup>2</sup></a></li>
+<li><a href="/wiki/Apeirogonal_antiprism" title="Apeirogonal antiprism">3<sup>3</sup>.∞</a></li>
+<li><a href="/wiki/Snub_trihexagonal_tiling" title="Snub trihexagonal tiling">3<sup>4</sup>.6</a></li>
+<li><a href="/wiki/Floret_pentagonal_tiling" title="Floret pentagonal tiling" class="mw-redirect">V3<sup>4</sup>.6</a></li>
+<li><a href="/wiki/Rhombitrihexagonal_tiling" title="Rhombitrihexagonal tiling">3.4.6.4</a></li>
+<li><a href="/wiki/Trihexagonal_tiling" title="Trihexagonal tiling">(3.6)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_hexagonal_tiling" title="Truncated hexagonal tiling">3.12<sup>2</sup></a></li>
+<li><a href="/wiki/Apeirogonal_prism" title="Apeirogonal prism">4<sup>2</sup>.∞</a></li>
+<li><a href="/wiki/Truncated_trihexagonal_tiling" title="Truncated trihexagonal tiling">4.6.12</a></li>
+<li><a href="/wiki/Truncated_square_tiling" title="Truncated square tiling">4.8<sup>2</sup></a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Uniform_tilings_in_hyperbolic_plane" title="Uniform tilings in hyperbolic plane">Hyper-<br />
+bolic</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Snub_tetrapentagonal_tiling" title="Snub tetrapentagonal tiling">3<sup>2</sup>.4.3.5</a></li>
+<li><a href="/wiki/Snub_tetrahexagonal_tiling" title="Snub tetrahexagonal tiling">3<sup>2</sup>.4.3.6</a></li>
+<li><a href="/wiki/Snub_tetraheptagonal_tiling" title="Snub tetraheptagonal tiling">3<sup>2</sup>.4.3.7</a></li>
+<li><a href="/wiki/Snub_tetraoctagonal_tiling" title="Snub tetraoctagonal tiling">3<sup>2</sup>.4.3.8</a></li>
+<li><a href="/wiki/Snub_tetraapeirogonal_tiling" title="Snub tetraapeirogonal tiling">3<sup>2</sup>.4.3.∞</a></li>
+<li><a href="/wiki/Snub_pentapentagonal_tiling" title="Snub pentapentagonal tiling">3<sup>2</sup>.5.3.5</a></li>
+<li><a href="/wiki/Snub_pentahexagonal_tiling" title="Snub pentahexagonal tiling">3<sup>2</sup>.5.3.6</a></li>
+<li><a href="/wiki/Snub_hexahexagonal_tiling" title="Snub hexahexagonal tiling">3<sup>2</sup>.6.3.6</a></li>
+<li><a href="/wiki/Snub_hexaoctagonal_tiling" title="Snub hexaoctagonal tiling">3<sup>2</sup>.6.3.8</a></li>
+<li><a href="/wiki/Snub_heptaheptagonal_tiling" title="Snub heptaheptagonal tiling">3<sup>2</sup>.7.3.7</a></li>
+<li><a href="/wiki/Snub_octaoctagonal_tiling" title="Snub octaoctagonal tiling">3<sup>2</sup>.8.3.8</a></li>
+<li><a href="/wiki/Snub_order-6_square_tiling" title="Snub order-6 square tiling">3<sup>3</sup>.4.3.4</a></li>
+<li><a href="/wiki/Snub_apeiroapeirogonal_tiling" title="Snub apeiroapeirogonal tiling">3<sup>2</sup>.∞.3.∞</a></li>
+<li><a href="/wiki/Snub_triheptagonal_tiling" title="Snub triheptagonal tiling">3<sup>4</sup>.7</a></li>
+<li><a href="/wiki/Snub_trioctagonal_tiling" title="Snub trioctagonal tiling">3<sup>4</sup>.8</a></li>
+<li><a href="/wiki/Snub_triapeirogonal_tiling" title="Snub triapeirogonal tiling">3<sup>4</sup>.∞</a></li>
+<li><a href="/wiki/Snub_order-8_triangular_tiling" title="Snub order-8 triangular tiling">3<sup>5</sup>.4</a></li>
+<li><a href="/wiki/Order-7_triangular_tiling" title="Order-7 triangular tiling">3<sup>7</sup></a></li>
+<li><a href="/wiki/Order-8_triangular_tiling" title="Order-8 triangular tiling">3<sup>8</sup></a></li>
+<li><a href="/wiki/Infinite-order_triangular_tiling" title="Infinite-order triangular tiling">3<sup>∞</sup></a></li>
+<li><a href="/wiki/Alternated_octagonal_tiling" title="Alternated octagonal tiling">(3.4)<sup>3</sup></a></li>
+<li><a href="/wiki/Alternated_order-4_hexagonal_tiling" title="Alternated order-4 hexagonal tiling">(3.4)<sup>4</sup></a></li>
+<li><a href="/wiki/Quarter_order-6_square_tiling" title="Quarter order-6 square tiling">3.4.6<sup>2</sup>.4</a></li>
+<li><a href="/wiki/Rhombitriheptagonal_tiling" title="Rhombitriheptagonal tiling">3.4.7.4</a></li>
+<li><a href="/wiki/Rhombitrioctagonal_tiling" title="Rhombitrioctagonal tiling">3.4.8.4</a></li>
+<li><a href="/wiki/Rhombitriapeirogonal_tiling" title="Rhombitriapeirogonal tiling">3.4.∞.4</a></li>
+<li><a href="/wiki/Cantic_octagonal_tiling" title="Cantic octagonal tiling">3.6.4.6</a></li>
+<li><a href="/wiki/Triheptagonal_tiling" title="Triheptagonal tiling">(3.7)<sup>2</sup></a></li>
+<li><a href="/wiki/Trioctagonal_tiling" title="Trioctagonal tiling">(3.8)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_heptagonal_tiling" title="Truncated heptagonal tiling">3.14<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_octagonal_tiling" title="Truncated octagonal tiling">3.16<sup>2</sup></a></li>
+<li><a href="/wiki/Triapeirogonal_tiling" title="Triapeirogonal tiling">(3.∞)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-3_apeirogonal_tiling" title="Truncated order-3 apeirogonal tiling">3.∞<sup>2</sup></a></li>
+<li><a href="/wiki/Rhombitetrapentagonal_tiling" title="Rhombitetrapentagonal tiling">4<sup>2</sup>.5.4</a></li>
+<li><a href="/wiki/Rhombitetrahexagonal_tiling" title="Rhombitetrahexagonal tiling">4<sup>2</sup>.6.4</a></li>
+<li><a href="/wiki/Rhombitetraheptagonal_tiling" title="Rhombitetraheptagonal tiling">4<sup>2</sup>.7.4</a></li>
+<li><a href="/wiki/Rhombitetraoctagonal_tiling" title="Rhombitetraoctagonal tiling">4<sup>2</sup>.8.4</a></li>
+<li><a href="/wiki/Rhombitetraapeirogonal_tiling" title="Rhombitetraapeirogonal tiling">4<sup>2</sup>.∞.4</a></li>
+<li><a href="/wiki/Order-5_square_tiling" title="Order-5 square tiling">4<sup>5</sup></a></li>
+<li><a href="/wiki/Order-6_square_tiling" title="Order-6 square tiling">4<sup>6</sup></a></li>
+<li><a href="/wiki/Order-7_square_tiling" title="Order-7 square tiling">4<sup>7</sup></a></li>
+<li><a href="/wiki/Order-8_square_tiling" title="Order-8 square tiling">4<sup>8</sup></a></li>
+<li><a href="/wiki/Infinite-order_square_tiling" title="Infinite-order square tiling">4<sup>∞</sup></a></li>
+<li><a href="/wiki/Tetrapentagonal_tiling" title="Tetrapentagonal tiling">(4.5)<sup>2</sup></a></li>
+<li><a href="/wiki/Tetrahexagonal_tiling" title="Tetrahexagonal tiling">(4.6)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_trihexagonal_tiling" title="Truncated trihexagonal tiling">4.6.12</a></li>
+<li><a href="/wiki/Truncated_triheptagonal_tiling" title="Truncated triheptagonal tiling">4.6.14</a></li>
+<li><a href="/wiki/Order_3-7_kisrhombille" title="Order 3-7 kisrhombille" class="mw-redirect">V4.6.14</a></li>
+<li><a href="/wiki/Truncated_trioctagonal_tiling" title="Truncated trioctagonal tiling">4.6.16</a></li>
+<li><a href="/wiki/Order_3-8_kisrhombille" title="Order 3-8 kisrhombille" class="mw-redirect">V4.6.16</a></li>
+<li><a href="/wiki/Truncated_triapeirogonal_tiling" title="Truncated triapeirogonal tiling">4.6.∞</a></li>
+<li><a href="/wiki/Tetraheptagonal_tiling" title="Tetraheptagonal tiling">(4.7)<sup>2</sup></a></li>
+<li><a href="/wiki/Tetraoctagonal_tiling" title="Tetraoctagonal tiling">(4.8)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_tetrapentagonal_tiling" title="Truncated tetrapentagonal tiling">4.8.10</a></li>
+<li><a href="/wiki/4-5_kisrhombille" title="4-5 kisrhombille">V4.8.10</a></li>
+<li><a href="/wiki/Truncated_tetrahexagonal_tiling" title="Truncated tetrahexagonal tiling">4.8.12</a></li>
+<li><a href="/wiki/Truncated_tetraheptagonal_tiling" title="Truncated tetraheptagonal tiling">4.8.14</a></li>
+<li><a href="/wiki/Truncated_tetraoctagonal_tiling" title="Truncated tetraoctagonal tiling">4.8.16</a></li>
+<li><a href="/wiki/Truncated_tetraapeirogonal_tiling" title="Truncated tetraapeirogonal tiling">4.8.∞</a></li>
+<li><a href="/wiki/Truncated_order-4_pentagonal_tiling" title="Truncated order-4 pentagonal tiling">4.10<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_pentahexagonal_tiling" title="Truncated pentahexagonal tiling">4.10.12</a></li>
+<li><a href="/wiki/Truncated_order-4_hexagonal_tiling" title="Truncated order-4 hexagonal tiling">4.12<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_hexaoctagonal_tiling" title="Truncated hexaoctagonal tiling">4.12.16</a></li>
+<li><a href="/wiki/Truncated_order-4_heptagonal_tiling" title="Truncated order-4 heptagonal tiling">4.14<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-4_octagonal_tiling" title="Truncated order-4 octagonal tiling">4.16<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-4_apeirogonal_tiling" title="Truncated order-4 apeirogonal tiling">4.∞<sup>2</sup></a></li>
+<li><a href="/wiki/Tetraapeirogonal_tiling" title="Tetraapeirogonal tiling">(4.∞)<sup>2</sup></a></li>
+<li><a href="/wiki/Order-4_pentagonal_tiling" title="Order-4 pentagonal tiling">5<sup>4</sup></a></li>
+<li><a href="/wiki/Order-5_pentagonal_tiling" title="Order-5 pentagonal tiling">5<sup>5</sup></a></li>
+<li><a href="/wiki/Order-6_pentagonal_tiling" title="Order-6 pentagonal tiling">5<sup>6</sup></a></li>
+<li><a href="/wiki/Infinite-order_pentagonal_tiling" title="Infinite-order pentagonal tiling">5<sup>∞</sup></a></li>
+<li><a href="/wiki/Rhombipentahexagonal_tiling" title="Rhombipentahexagonal tiling">5.4.6.4</a></li>
+<li><a href="/wiki/Pentahexagonal_tiling" title="Pentahexagonal tiling">(5.6)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-5_square_tiling" title="Truncated order-5 square tiling">5.8<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-5_pentagonal_tiling" title="Truncated order-5 pentagonal tiling">5.10<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-5_hexagonal_tiling" title="Truncated order-5 hexagonal tiling">5.12<sup>2</sup></a></li>
+<li><a href="/wiki/Pentaapeirogonal_tiling" title="Pentaapeirogonal tiling">(5.∞)<sup>2</sup></a></li>
+<li><a href="/wiki/Order-4_hexagonal_tiling" title="Order-4 hexagonal tiling">6<sup>4</sup></a></li>
+<li><a href="/wiki/Order-5_hexagonal_tiling" title="Order-5 hexagonal tiling">6<sup>5</sup></a></li>
+<li><a href="/wiki/Order-6_hexagonal_tiling" title="Order-6 hexagonal tiling">6<sup>6</sup></a></li>
+<li><strong class="selflink">6<sup>8</sup></strong></li>
+<li><a href="/wiki/Rhombihexaoctagonal_tiling" title="Rhombihexaoctagonal tiling">6.4.8.4</a></li>
+<li><a href="/wiki/Hexaoctagonal_tiling" title="Hexaoctagonal tiling">(6.8)<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-6_square_tiling" title="Truncated order-6 square tiling">6.8<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-6_pentagonal_tiling" title="Truncated order-6 pentagonal tiling">6.10<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-6_hexagonal_tiling" title="Truncated order-6 hexagonal tiling">6.12<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-6_octagonal_tiling" title="Truncated order-6 octagonal tiling">6.16<sup>2</sup></a></li>
+<li><a href="/wiki/Heptagonal_tiling" title="Heptagonal tiling">7<sup>3</sup></a></li>
+<li><a href="/wiki/Order-4_heptagonal_tiling" title="Order-4 heptagonal tiling">7<sup>4</sup></a></li>
+<li><a href="/wiki/Order-7_heptagonal_tiling" title="Order-7 heptagonal tiling">7<sup>7</sup></a></li>
+<li><a href="/wiki/Truncated_order-7_triangular_tiling" title="Truncated order-7 triangular tiling">7.6<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-7_square_tiling" title="Truncated order-7 square tiling">7.8<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-7_heptagonal_tiling" title="Truncated order-7 heptagonal tiling">7.14<sup>2</sup></a></li>
+<li><a href="/wiki/Octagonal_tiling" title="Octagonal tiling">8<sup>3</sup></a></li>
+<li><a href="/wiki/Order-4_octagonal_tiling" title="Order-4 octagonal tiling">8<sup>4</sup></a></li>
+<li><a href="/wiki/Order-6_octagonal_tiling" title="Order-6 octagonal tiling">8<sup>6</sup></a></li>
+<li><a href="/wiki/Order-8_octagonal_tiling" title="Order-8 octagonal tiling">8<sup>8</sup></a></li>
+<li><a href="/wiki/Truncated_order-8_hexagonal_tiling" title="Truncated order-8 hexagonal tiling">8<sup>12</sup></a></li>
+<li><a href="/wiki/Truncated_order-8_triangular_tiling" title="Truncated order-8 triangular tiling">8.6<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_order-8_octagonal_tiling" title="Truncated order-8 octagonal tiling">8.16<sup>2</sup></a></li>
+<li><a href="/wiki/Order-3_apeirogonal_tiling" title="Order-3 apeirogonal tiling">∞<sup>3</sup></a></li>
+<li><a href="/wiki/Order-4_apeirogonal_tiling" title="Order-4 apeirogonal tiling">∞<sup>4</sup></a></li>
+<li><a href="/wiki/Order-5_apeirogonal_tiling" title="Order-5 apeirogonal tiling">∞<sup>5</sup></a></li>
+<li><a href="/wiki/Infinite-order_apeirogonal_tiling" title="Infinite-order apeirogonal tiling">∞<sup>∞</sup></a></li>
+<li><a href="/wiki/Truncated_infinite-order_triangular_tiling" title="Truncated infinite-order triangular tiling">∞.6<sup>2</sup></a></li>
+<li><a href="/wiki/Truncated_infinite-order_square_tiling" title="Truncated infinite-order square tiling">∞.8<sup>2</sup></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1096
+CPU time usage: 0.589 seconds
+Real time usage: 0.907 seconds
+Preprocessor visited node count: 3163/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 109345/2097152 bytes
+Template argument size: 16814/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 1.81 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.865      1 - -total
+ 34.22%  104.677      1 - Template:Uniform_hyperbolic_tiles_db
+ 26.40%   80.757      1 - Template:Tessellation
+ 25.06%   76.656      1 - Template:Navbox_with_collapsible_groups
+ 21.22%   64.894     29 - Template:CDD
+ 16.03%   49.017      1 - Template:Order_8-6_tiling_table
+ 12.75%   39.001      1 - Template:Reg_hyperbolic_tiling_stat_table
+ 10.78%   32.971      1 - Template:Commonscat
+ 10.06%   30.773      1 - Template:Cite_book
+  7.04%   21.533      1 - Template:Navbox_subgroup
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:38892179-0!*!0!!en!4!* and timestamp 20150704134941 and revision id 632245137
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Order-8_hexagonal_tiling&amp;oldid=632245137">https://en.wikipedia.org/w/index.php?title=Order-8_hexagonal_tiling&amp;oldid=632245137</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hyperbolic_tilings" title="Category:Hyperbolic tilings">Hyperbolic tilings</a></li><li><a href="/wiki/Category:Isogonal_tilings" title="Category:Isogonal tilings">Isogonal tilings</a></li><li><a href="/wiki/Category:Isohedral_tilings" title="Category:Isohedral tilings">Isohedral tilings</a></li><li><a href="/wiki/Category:Order-8_tilings" title="Category:Order-8 tilings">Order-8 tilings</a></li><li><a href="/wiki/Category:Regular_tilings" title="Category:Regular tilings">Regular tilings</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Order-8+hexagonal+tiling&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Order-8+hexagonal+tiling" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Order-8_hexagonal_tiling"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Order-8_hexagonal_tiling&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Order-8_hexagonal_tiling" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Order-8_hexagonal_tiling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Order-8_hexagonal_tiling" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;oldid=632245137" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q17078088" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Order-8_hexagonal_tiling&amp;id=632245137" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Order-8+hexagonal+tiling">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Order-8+hexagonal+tiling&amp;oldid=632245137&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Order-8_hexagonal_tiling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q17078088#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 November 2014, at 06:03.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Order-8_hexagonal_tiling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1165"});
+}</script>
+	</body>
+</html>

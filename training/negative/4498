@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Design structure matrix - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Design_structure_matrix" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Design_structure_matrix&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Design_structure_matrix&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Design_structure_matrix" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Design_structure_matrix" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Design_structure_matrix","wgTitle":"Design structure matrix","wgCurRevisionId":655647313,"wgRevisionId":655647313,"wgArticleId":3218996,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Systems theory","Project management","Systems engineering"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Design_structure_matrix","wgRelevantArticleId":3218996,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/36/A_sample_Design_Structure_Matrix_%28DSM%29.png/100px-A_sample_Design_Structure_Matrix_%28DSM%29.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1200667"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Design_structure_matrix skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Design structure matrix</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:275px;"><a href="/wiki/File:A_sample_Design_Structure_Matrix_(DSM).png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/3/36/A_sample_Design_Structure_Matrix_%28DSM%29.png" width="273" height="193" class="thumbimage" data-file-width="273" data-file-height="193" /></a>
+<div class="thumbcaption">A sample DSM with 7 elements and 11 dependency marks.</div>
+</div>
+</div>
+<p>The <b>Design Structure Matrix (DSM)</b> (also referred to as <b>dependency structure matrix</b>, <b>dependency structure method</b>, <b>dependency source matrix</b>, <b>problem solving matrix (PSM)</b>, <b>incidence matrix</b>, <b><i>N<sup>2</sup></i> matrix</b>, <b>interaction matrix</b>, <b>dependency map</b> or <b>design precedence matrix</b>) is a simple, compact and visual representation of a system or project in the form of a square <a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">matrix</a>.<sup id="cite_ref-DSMbook_1-0" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>It is the equivalent of an <a href="/wiki/Adjacency_matrix" title="Adjacency matrix">adjacency matrix</a> in <a href="/wiki/Graph_theory" title="Graph theory">graph theory</a>, and is used in <a href="/wiki/Systems_engineering" title="Systems engineering">systems engineering</a> and <a href="/wiki/Project_management" title="Project management">project management</a> to model the structure of complex systems or processes, in order to perform system analysis, project planning and organization design. <a href="/w/index.php?title=Don_Steward&amp;action=edit&amp;redlink=1" class="new" title="Don Steward (page does not exist)">Don Steward</a> coined the term "design structure matrix" in the 1960s,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> using the matrices to solve mathematical systems of equations.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#DSM_Structure"><span class="tocnumber">2</span> <span class="toctext">DSM Structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#DSM_marking"><span class="tocnumber">2.1</span> <span class="toctext">DSM marking</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#DSM_algorithms"><span class="tocnumber">3</span> <span class="toctext">DSM algorithms</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Use_and_extensions"><span class="tocnumber">4</span> <span class="toctext">Use and extensions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Additional_links"><span class="tocnumber">6</span> <span class="toctext">Additional links</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A design structure matrix lists all constituent <a href="/wiki/Subsystem" title="Subsystem" class="mw-redirect">subsystems</a>/<a href="/wiki/Activity_diagram" title="Activity diagram">activities</a> and the corresponding <a href="/wiki/Information_exchange" title="Information exchange">information exchange</a>,interactions, and dependency <a href="/wiki/Pattern_recognition" title="Pattern recognition">patterns</a>. For example, where the matrix elements represent activities, the matrix details what pieces of information are needed to start a particular activity, and shows where the information generated by that activity leads. In this way, one can quickly recognize which other activities are reliant upon information outputs generated by each activity.</p>
+<p>The use of DSMs in both research and industrial practice increased greatly in the 1990s. DSMs have been applied in the building construction, real estate development, semiconductor, automotive, photographic, aerospace, telecom, small-scale manufacturing, factory equipment, and electronics industries, to name a few, as well as in many government agencies.<sup id="cite_ref-DSMbook_1-1" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>The matrix representation has several strengths.</p>
+<ul>
+<li>The matrix can represent a large number of <a href="/wiki/Systems_theory" title="Systems theory">system</a> elements and their relationships in a compact way that highlights important patterns in the data (such as <a href="/wiki/Feedback_loop" title="Feedback loop" class="mw-redirect">feedback loops</a> and modules).</li>
+<li>The presentation is amenable to matrix-based analysis techniques, which can be used to improve the structure of the system.</li>
+<li>In modeling activities precedence it allows representing feedback linkages that cannot be modeled by <a href="/wiki/Gantt_chart" title="Gantt chart">Gantt chart</a>/<a href="/wiki/Program_evaluation_and_review_technique" title="Program evaluation and review technique">PERT</a> modeling techniques <sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+</ul>
+<p>DSM analysis provides insights into how to manage complex systems or projects, highlighting <a href="/wiki/Information_flow" title="Information flow">information flows</a>, task/activities sequences and <a href="/wiki/Iteration" title="Iteration">iteration</a>.<sup id="cite_ref-DSMbook_1-2" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-complex_4-0" class="reference"><a href="#cite_note-complex-4"><span>[</span>4<span>]</span></a></sup> It can help teams to streamline their processes based on the optimal flow of information between different interdependent activities.</p>
+<p>DSM analysis can also be used to manage the effects of a change. For example, if the specification for a component had to be changed, it would be possible to quickly identify all processes or activities which had been dependent on that specification, reducing the <a href="/wiki/Risk_management" title="Risk management">risk</a> that work continues based on out-of-date information.<sup id="cite_ref-DSMbook_1-3" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="DSM_Structure">DSM Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=2" title="Edit section: DSM Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A DSM is a <a href="/wiki/Square_matrix" title="Square matrix">square matrix</a>, representing linkages between the system elements. The system elements are often labeled in the rows to the left of the matrix and/or in the columns above the matrix. These elements can represent for example product components, organization teams, or project activities.</p>
+<p>The off-diagonal cells are used to indicate relationships between the elements. A marking of the cell indicates a directed link between two elements and can represent design relations or constraints between product components, communication between teams, information flow or precedence relations between activities. In one convention, reading across a row reveals the outputs that the element in that row provides to other elements, and scanning a column reveals the inputs that the element in that column receives from other elements. For example, in the DSM, the marking in row A and column C indicated a link from A to C (output from A, input to C). Alternatively, the rows and columns may be switched (without a change of meaning). Both conventions may be found in the literature.<sup id="cite_ref-DSMbook_1-4" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>The cells along the diagonal are typically used to represent the system elements. However, the diagonal cells can be used for representing self-iterations (e.g., rework of a code that did not pass its unit testing). Self-iterations are required when a matrix element represents a block of activities/subsystems that may be further detailed, allowing hierarchical DSM structure.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Two main categories of DSMs have been proposed: static and time-based.<sup id="cite_ref-DSMreview_6-0" class="reference"><a href="#cite_note-DSMreview-6"><span>[</span>6<span>]</span></a></sup> Static DSMs represent systems where all of the elements exist simultaneously, such as components of a machine or groups in an organization. A static DSM is equivalent to an <i>N<sup>2</sup></i> chart or an <a href="/wiki/Adjacency_matrix" title="Adjacency matrix">adjacency matrix</a>. The marking in the off-diagonal cells is often largely symmetrical to the diagonal (e.g., in an organizational DSM indicating interactions between teams, there are both a mark from team C to team E and a mark from team E to team C, thus indicating that interactions are mutual). Static DSMs are usually analyzed with <a href="/wiki/Cluster_analysis" title="Cluster analysis">clustering algorithms</a>.</p>
+<p>A time-based DSM is akin to a <a href="/wiki/Precedence_diagram" title="Precedence diagram" class="mw-redirect">precedence diagram</a> or the matrix representation of a <a href="/wiki/Directed_graph" title="Directed graph">directed graph</a>. In time-based DSMs, the ordering of the rows and columns indicates a flow through time: earlier activities in a process appear in the upper-left of the DSM and later activities appear in the lower-right. Terms like “feedforward” and “feedback” become meaningful when referring to interfaces. A feedback mark is an above-diagonal mark (when rows represent output). Time-based DSMs are typically analyzed using sequencing algorithms, that reorder the matrix elements to minimize the amount of feedback marks, and make them as close as possible to the diagonal.<sup id="cite_ref-DSMbook_1-5" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>DSM matrices were categorized to Component-based or Architecture DSM; People-based (Team-based) or Organization DSM, both considered as Static (representing existing elements). Activity-based or Schedule DSM and Parameter-based DSM are defined as time-based, as their ordering implies flow.</p>
+<h3><span class="mw-headline" id="DSM_marking">DSM marking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=3" title="Edit section: DSM marking">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Initially, the off-diagonal cell markings indicated only the existence/non-existence of an interaction (link) between elements, using a symbol (or the figure '1'). Such marking is defined as <b>Binary DSM</b>. The marking then has developed to indicate quantitative relation <b>Numeric DSM</b> indicating the "strength" of the linkage, or statistical relations <b>Probability DSM</b> indicating for example the probability of applying new information (that require reactivation of the linked activity).<sup id="cite_ref-complex_4-1" class="reference"><a href="#cite_note-complex-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="DSM_algorithms">DSM algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=4" title="Edit section: DSM algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The DSM algorithms are used for reordering the matrix elements subject to some criteria. Static DSMs are usually analyzed with <a href="/wiki/Cluster_analysis" title="Cluster analysis">clustering algorithms</a> (i.e., reordering the matrix elements in order to group together related elements). Clustering results would typically show groups (clusters) of tightly related elements, and elements that are either not connected or are connected to many other elements and therefore are not part of a group.<sup id="cite_ref-DSMbook_1-6" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Time-based DSMs are typically analyzed using partitioning, tearing and sequencing algorithms.<sup id="cite_ref-DSMbook_1-7" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-complex_4-2" class="reference"><a href="#cite_note-complex-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p><b>Sequencing</b> methods try to order the matrix elements such that no feedback marks remain.<sup id="cite_ref-DSMbook_1-8" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-complex_4-3" class="reference"><a href="#cite_note-complex-4"><span>[</span>4<span>]</span></a></sup> In case of coupled activities (activities that have cyclic links, e.g., activity A is linked to B, which is linked to C, which is linked to A) the results is a block diagonal DSM (i.e., blocks or groups of coupled activities along the diagonal). Partitioning methods include: Path Searching; Reachability Matrix; Triangulation algorithm; and the powers of the Adjacency Matrix.</p>
+<p><b>Tearing</b> is the removal of feedback marks (in Binary DSM) or assignment of lower priority (numeric DSM). Tearing of a Component-based DSM may imply modularization (the component design is not influencing other components) or standardization (the component design is not influencing and not influenced by other components).<sup id="cite_ref-DSMbook_1-9" class="reference"><a href="#cite_note-DSMbook-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-complex_4-4" class="reference"><a href="#cite_note-complex-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> After tearing a partitioning algorithm is (re)applied.</p>
+<p>Minimizing feedback loops gets the best results for Binary DSM, but not always for Numeric DSM or Probability DSM. <b>Sequencing</b> algorithms (using optimization, genetic algorithms) are typically trying to minimize the number of feedback loops and also to reorder coupled activities (having cyclic loop) trying to have the feedback marks close to the diagonal. Yet, sometimes the algorithm just tries to minimize a criterion (where minimum iterations is not the optimal results).<sup id="cite_ref-DSMsim_9-0" class="reference"><a href="#cite_note-DSMsim-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Use_and_extensions">Use and extensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=5" title="Edit section: Use and extensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Interactions between various aspects (people, activities, and components) is done using additional (non-square) linkage matrices. The Multiple Domain Matrix (MDM) is an extension of the basic DSM structure.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> A MDM includes several DSMs (ordered as block diagonal matrices) that represent the relations between elements of the same domain; and corresponding Domain Mapping Matrices (DMM) <sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> that represent relations between elements of different domains.</p>
+<p>The use of DSM has been extended to visualize and optimize the otherwise invisible information flow and interactions associated with office work. This visualization via DSM allows the Lean Body of Knowledge to be applied to office and information intensive flows.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>The DSM method was applied as a framework for analyzing the propagation of rework in product development processes, and the related problem of convergence (or divergence) using the theory of linear dynamical systems.<sup id="cite_ref-complex_4-5" class="reference"><a href="#cite_note-complex-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-DSMbook-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-DSMbook_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DSMbook_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DSMbook_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DSMbook_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-DSMbook_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-DSMbook_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-DSMbook_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-DSMbook_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-DSMbook_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-DSMbook_1-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text">S.D. Eppinger and T.R. Browning, <a rel="nofollow" class="external text" href="http://mitpress.mit.edu/books/design-structure-matrix-methods-and-applications">Design Structure Matrix Methods and Applications</a>, MIT Press, Cambridge, 2012.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">D. V. Steward: <i>The Design Structure System: A Method for Managing the Design of Complex Systems.</i> In: <i>IEEE Transactions on Engineering Management.</i> 28(3), 1981, S. 71-74.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Browning TR, Fricke E, Negele H (2006) <a rel="nofollow" class="external text" href="http://sbuweb.tcu.edu/tbrowning/Publications/Browning%20Fricke%20Negele%20(2006)--Process%20Modeling%20Concepts.pdf">"Key Concepts in Modeling Product Development Processes"</a>, Systems Engineering, 9(2):104-128</span></li>
+<li id="cite_note-complex-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-complex_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-complex_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-complex_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-complex_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-complex_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-complex_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Yassine A, Braha D (2003),<a rel="nofollow" class="external text" href="http://necsi.edu/affiliates/braha/CERA.pdf">"Complex Concurrent Engineering and the Design Structure Matrix Approach."</a> Concurrent Engineering: Research and Applications, 11(3):165-177</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">A. Karniel and Y. Reich, <a rel="nofollow" class="external text" href="http://www.researchgate.net/publication/4255493_Simulating_Design_Processes_with_self-iteration_activities_based_on_DSM_planning">“Simulating Design Processes with self-iteration activities based on DSM planning,”</a> in Proceedings of the International Conference on Systems Engineering and Modeling - ICSEM'07, Haifa, 2007.</span></li>
+<li id="cite_note-DSMreview-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-DSMreview_6-0">^</a></b></span> <span class="reference-text">T. Browning: <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1109/17.946528">"Applying the Design Structure Matrix to System Decomposition and Integration Problems: A Review and New Directions."</a> In: <i>IEEE Transactions on Engineering Management.</i> 48(3):292-306, 2001.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">A. Karniel and Y. Reich, <a rel="nofollow" class="external text" href="http://link.springer.com/chapter/10.1007%2F978-0-85729-570-5_3">"Design process planning using DSM"</a>, in Managing the Dynamics of New Product Development Processes: A New Product Lifecycle Management Paradigm, Springer, 2011</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Sered Y, Reich Y (2006)," Standardization and modularization driven by minimizing overall process effort." Computer-Aided Design, 38(5):405-416</span></li>
+<li id="cite_note-DSMsim-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-DSMsim_9-0">^</a></b></span> <span class="reference-text">T. Browning: <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1109/TEM.2002.806709">"Modeling Impacts of Process Architecture on Cost and Schedule Risk in Product Development"</a>, In: <i>IEEE Transactions on Engineering Management.</i> 49(4):428-442, 2002.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Maurer M (2007) Structural Awareness in complex product design. Dissertation, Technischen Universität München, Germany</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">M. Danilovic; T. R. Browning: <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007/s10951-009-0131-y">"Managing Complex Product Development Projects with Design Structure Matrices and Domain Mapping Matrices"</a>. In: <i>International Journal of Project Management.</i> 25(3), 2007, S. 300-314.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation book"><i>Far From the Factory: Lean for the Information Age</i>. New York: Productivity Press. 2010. pp.&#160;159–180. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1420094564" title="Special:BookSources/1420094564">1420094564</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADesign+structure+matrix&amp;rft.btitle=Far+From+the+Factory%3A+Lean+for+the+Information+Age&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=1420094564&amp;rft.pages=159-180&amp;rft.place=New+York&amp;rft.pub=Productivity+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Smith R, Eppinger S (1997) “Identifying controlling features of engineering design iteration.” Management Science 43(3):276–293.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Yassine A, Joglekar N, Braha D, Eppinger S, and Whitney D (2003),"Information hiding in product development: the design churn effect." Research in Engineering Design, 14(3): 131-144.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Additional_links">Additional links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=7" title="Edit section: Additional links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Web-Portal of DSM Community: <a rel="nofollow" class="external free" href="http://www.dsmweb.org">http://www.dsmweb.org</a></li>
+<li>International Design Structure Matrix Conference: <a rel="nofollow" class="external free" href="http://www.dsm-conference.org">http://www.dsm-conference.org</a></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>DSM book: <a rel="nofollow" class="external free" href="http://mitpress.mit.edu/books/design-structure-matrix-methods-and-applications">http://mitpress.mit.edu/books/design-structure-matrix-methods-and-applications</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.theserverside.net/tt/articles/showarticle.tss?id=ControllingDependencies">Control Component Dependencies, TheServerSide.net article</a></li>
+<li><a rel="nofollow" class="external text" href="http://hbswk.hbs.edu/archive/1979.html">Innovation at the Speed of Information</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lattix.com/files/dl/wp/oopsla05.pdf">Using Dependency Models to Manage Complex Software Architecture</a></li>
+<li><span class="citation book">Karniel, Arie; Reich, Yoram (2011). <i>Managing the Dynamics of New Product Development Processes: A New Product Lifecycle Management Paradigm</i>. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85729-569-9" title="Special:BookSources/978-0-85729-569-9">978-0-85729-569-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADesign+structure+matrix&amp;rft.aufirst=Arie&amp;rft.au=Karniel%2C+Arie&amp;rft.aulast=Karniel&amp;rft.au=Reich%2C+Yoram&amp;rft.btitle=Managing+the+Dynamics+of+New+Product+Development+Processes%3A+A+New+Product+Lifecycle+Management+Paradigm&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0-85729-569-9&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1243
+CPU time usage: 0.093 seconds
+Real time usage: 0.109 seconds
+Preprocessor visited node count: 552/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2941/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 1.2 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   48.431      1 - -total
+ 94.12%   45.584      1 - Template:Reflist
+ 68.53%   33.191      2 - Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3218996-0!*!0!!en!4!* and timestamp 20150629185123 and revision id 655647313
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Design_structure_matrix&amp;oldid=655647313">https://en.wikipedia.org/w/index.php?title=Design_structure_matrix&amp;oldid=655647313</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Systems_theory" title="Category:Systems theory">Systems theory</a></li><li><a href="/wiki/Category:Project_management" title="Category:Project management">Project management</a></li><li><a href="/wiki/Category:Systems_engineering" title="Category:Systems engineering">Systems engineering</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Design+structure+matrix&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Design+structure+matrix" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Design_structure_matrix"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Design_structure_matrix"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Design_structure_matrix" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Design_structure_matrix&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Design_structure_matrix&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Design_structure_matrix" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Design_structure_matrix" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Design_structure_matrix&amp;oldid=655647313" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Design_structure_matrix&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1200667" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Design_structure_matrix&amp;id=655647313" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Design+structure+matrix">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Design+structure+matrix&amp;oldid=655647313&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Design_structure_matrix&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Design_Structure_Matrix" title="Design Structure Matrix – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Design_Structure_Matrix" title="Design Structure Matrix – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1200667#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 April 2015, at 08:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Design_structure_matrix&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1085"});
+}</script>
+	</body>
+</html>

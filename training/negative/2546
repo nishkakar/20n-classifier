@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Anagrams - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anagrams" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Anagrams&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Anagrams&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Anagrams" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Anagrams" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anagrams","wgTitle":"Anagrams","wgCurRevisionId":595730247,"wgRevisionId":595730247,"wgArticleId":66217,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Word games","Selchow and Righter games"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anagrams","wgRelevantArticleId":66217,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4750856"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Anagrams skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Anagrams</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the game.  For the rearrangement of letters into words, see <a href="/wiki/Anagram" title="Anagram">Anagram</a>.</div>
+<p><b>Anagrams</b> (also known as <b>Pirate Scrabble</b>, <b>Anagram</b>, <b>Snatch</b>, and <b>Grabscrab</b>) is a <a href="/wiki/Tile-based_game" title="Tile-based game">tile-based</a> <a href="/wiki/Word_game" title="Word game">word game</a> that involves <a href="/wiki/Anagram" title="Anagram">rearranging</a> letter tiles to form words.</p>
+<p>The game pieces consist of a set of tiles with letters on them. Tiles are turned over one by one, and players form words by combining unused tiles with existing words, their own or others'. The game has never been standardized and there exist a great many varieties of sets and rules. <i>Anagrams</i> is now often played with tiles from another word game, such as <a href="/wiki/Scrabble" title="Scrabble">Scrabble</a>. Web-based versions of this game have also been created.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Rules_and_variations"><span class="tocnumber">2</span> <span class="toctext">Rules and variations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#End_of_game_and_scoring"><span class="tocnumber">2.1</span> <span class="toctext">End of game and scoring</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Variations"><span class="tocnumber">2.2</span> <span class="toctext">Variations</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#The_.22Fanagrams.22_variation"><span class="tocnumber">2.2.1</span> <span class="toctext">The "Fanagrams" variation</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Miscellaneous_variations"><span class="tocnumber">2.2.2</span> <span class="toctext">Miscellaneous variations</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Letter_distribution"><span class="tocnumber">3</span> <span class="toctext">Letter distribution</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reputed to have originated as a <a href="/wiki/Victorian_era" title="Victorian era">Victorian</a> word game, Anagrams have appeared in many published versions in the last century.</p>
+<p>The first modern version seems to have been the game <i>The Game of Letters and Anagrams on Wooden Blocks</i> published by <a href="/wiki/Parker_Brothers" title="Parker Brothers">Parker Brothers</a> around 1890. Another game called <i>Anagrams</i> was published in 1934 by the manufacturer <a href="/wiki/Selchow_and_Righter" title="Selchow and Righter">Selchow and Righter</a>, who would later publish <a href="/wiki/Scrabble" title="Scrabble">Scrabble</a> in 1953. <i>Spelling and Anagrams</i> (a set incorporating two distinct games, <i>Spelling</i> and <i>Anagrams</i>) was also published in the 1930s.<a rel="nofollow" class="external autonumber" href="http://cgi.ebay.com/VINTAGE-1930-EDUCATIONAL-SPELLING-ANAGRAMS-GAME-NR_W0QQitemZ110101538021QQcategoryZ725QQcmdZViewItem">[1]</a> In 1975, Selchow published the <i>Scrabble Scoring Anagrams</i> version which featured tiles with point values similar to the familiar Scrabble system. Another version was published in the 1960s by the now defunct <a href="/w/index.php?title=Transogram&amp;action=edit&amp;redlink=1" class="new" title="Transogram (page does not exist)">Transogram</a>. <a href="/w/index.php?title=The_Embossing_Company&amp;action=edit&amp;redlink=1" class="new" title="The Embossing Company (page does not exist)">The Embossing Company</a>, formerly Halsam Products Company, also produced a yellow-on-black <i>Eye-Rest</i> set. Many other versions have been produced and used sets can still be found on internet auction and specialty sites. A variation called SWIPE was published by <a href="/wiki/Leslie_Scott_(board_game_designer)" title="Leslie Scott (board game designer)">Leslie Scott</a> (the creator of <a href="/wiki/Jenga" title="Jenga">Jenga</a>) in the early 1980s and since 1990, Scott's company, <a href="/wiki/Oxford_Games" title="Oxford Games">Oxford Games Ltd</a>, has published <b>Anagram, the ingenious game of juggling words</b>. <i>Up For Grabs</i> was published by <a href="/wiki/Tyco_Toys" title="Tyco Toys">Tyco</a> in 1995. Portobello Games produces a version under the name <i>Snatch</i>. Prodijeux has been marketing a variant called wordXchange since 2000. Many players use several Scrabble or <a href="/wiki/Upwords" title="Upwords">Upwords</a> sets together.</p>
+<p>A version of the game seems to be popular among tournament Scrabble players. Writers <a href="/wiki/John_Ciardi" title="John Ciardi">John Ciardi</a>, <a href="/wiki/James_Merrill" title="James Merrill">James Merrill</a>, <a href="/wiki/John_Malcolm_Brinnin" title="John Malcolm Brinnin">John Malcolm Brinnin</a>, and <a href="/wiki/Richard_Wilbur" title="Richard Wilbur">Richard Wilbur</a> reputedly played together regularly in <a href="/wiki/Key_West,_Florida" title="Key West, Florida">Key West, Florida</a>, with novelist <a href="/wiki/John_Hersey" title="John Hersey">John Hersey</a> also sometimes sitting in.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Rules_and_variations">Rules and variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=2" title="Edit section: Rules and variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There has never been a standardized set of rules, and players now often play by house rules, but most are variants of the rules given here.</p>
+<p>To begin, all the tiles are placed face down in the middle of the table. Taking turns around the table, each <a href="/wiki/Player_(game)" title="Player (game)">player</a> turns over one tile, placing it in clear view of all players.</p>
+<p>Another variation is to have each player have a "bank" of tiles in front of themselves, which affords players a clearer view of the "pool" of face-up letter tiles in the middle of the table.</p>
+<p>The minimum acceptable word length can be adjusted to a player's skill level (for example, in a game with adults and children playing together, the children may be permitted to form four-letter words, while the adults are restricted to words of at least five or six letters). Tournament <a href="/wiki/Scrabble" title="Scrabble">Scrabble</a> players often play with a minimum word length of six or seven.</p>
+<p>Players make words in one of two ways:</p>
+<p><i><b>Words From the Pool:</b></i> Whenever any player can form a word of acceptable length from tiles in the pool, the player calls out the word and uses those tiles to spell it out in front of himself or herself. Typically, a player's words are oriented facing the center of the table (i.e. appearing upside-down to the player, and right side up to the others).</p>
+<p><i><b>Steals:</b></i> Whenever a player can create a new word using a word that has already been formed, plus one or more tiles from the pool, the player calls out the word. If the word is acceptable, the existing word is "stolen" and the player making the "steal" spells out the new word in front of himself or herself. Players may steal (or, more technically, modify) their own words subject to whatever set of rules is being used.</p>
+<p>New words cannot be mere plurals of existing words; rules typically require that the new word change the root of the old, thus allowing APPEAR to become PARAPET (APPEAR+T), but not APPEARED (+ED) or REAPPEAR (+ER). An even stricter application of this rule requires that the letters of the existing word must undergo at least some rearrangement. For example, under this rule MONEY could not be stolen with KS to make MONKEYS, since the letters of MONEY are not rearranged. However, MONEY <i>could</i> be stolen with CO to make ECONOMY. As the skill level of the players increases, it is not uncommon to see creative steals such as GUACAMOLE + F = CAMOUFLAGE.</p>
+<p>If two players call out words simultaneously, the longer word prevails. If two players call out the SAME word simultaneously, those two players each turn a new tile face up, and the player whose letter is closest to "A" wins the word (the "tie-breaker" tiles are flipped back over and remixed with the other face-down tiles).</p>
+<p>Some versions only allow players to make or steal words on their turn (this slows down play).</p>
+<p>The <a href="/wiki/National_Scrabble_Association" title="National Scrabble Association">National Scrabble Association</a> has published a set of rules for competitive Anagrams play in tournament setting.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="End_of_game_and_scoring">End of game and scoring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=3" title="Edit section: End of game and scoring">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The game ends when all tiles are face-up and no one can create or steal any more words.</p>
+<p>There are various scoring systems:</p>
+<ul>
+<li>Simple letter count. The most tiles win.</li>
+<li>Simple word count. The most words win.</li>
+<li>Add letter point values, using Scrabble letter values.</li>
+<li>Remove one or two letters from each word and count the remaining tiles, rewarding longer words.</li>
+<li>Sum of the squares of the lengths of the words, rewarding long words more.</li>
+<li>First player to spell or steal 5 (or some other number) of words wins.</li>
+</ul>
+<h3><span class="mw-headline" id="Variations">Variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=4" title="Edit section: Variations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A host of variations come from both different versions and players' <a href="/wiki/House_rules" title="House rules" class="mw-redirect">house rules</a>. (There does not seem to be anything close to a comprehensive (or even representative) list of these on the internet.)</p>
+<h4><span class="mw-headline" id="The_.22Fanagrams.22_variation">The "Fanagrams" variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=5" title="Edit section: The &quot;Fanagrams&quot; variation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The rules from The Embossing Company set refer to variations by players who "have developed an interesting test of mental alertness and a highly exciting form of competition" by eliminating turns. Instead of taking turns, a dealer deals letters in and any player may call out a word. (Players may also choose to form teams.) The result, as the game's official rules note, is that it "very often happens that a quick witted player alone may defeat several others."</p>
+<ul>
+<li>An even faster-paced version of these rules -- known to some as "Alaskan rules" -- has each of the players (or perhaps several, if there are too many) simultaneously turn their tiles into the pool. This results in many more possibilities being available at a time.</li>
+</ul>
+<h4><span class="mw-headline" id="Miscellaneous_variations">Miscellaneous variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=6" title="Edit section: Miscellaneous variations">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li>Players may not create a word by creating a word that is already on the table or steal one resulting in such a word.</li>
+</ul>
+<ul>
+<li>Some versions of the game name the winner as the person who, after the round of turns has finished, first acquires eight words. If more than one player has done so, then the winner is the player is the one with the most tiles. There may be a tie. (See also Tom Jukic's review of Anagrams on boardgamegeek.com).
+<ul>
+<li>A very similar rule found in The Embossing Company set simply says the "first player to complete ten words, wins."</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Players are permitted to combine two or more existing words with zero or more letters from the pot to create a single new word, although this is often difficult in practice.</li>
+</ul>
+<h2><span class="mw-headline" id="Letter_distribution">Letter distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=7" title="Edit section: Letter distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Though there are many variants, one standard letter distribution of 188 letters (given in the Rust Hills article) is as follows:</p>
+<table class="wikitable" style="text-align:center;width:100%;min-width:39em;max-width:52em;table-layout:fixed;">
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+<th>H</th>
+<th>I</th>
+<th>J</th>
+<th>K</th>
+<th>L</th>
+<th>M</th>
+<th>N</th>
+<th>O</th>
+<th>P</th>
+<th>Q</th>
+<th>R</th>
+<th>S</th>
+<th>T</th>
+<th>U</th>
+<th>V</th>
+<th>W</th>
+<th>X</th>
+<th>Y</th>
+<th>Z</th>
+</tr>
+<tr>
+<td>13</td>
+<td>5</td>
+<td>6</td>
+<td>7</td>
+<td>24</td>
+<td>6</td>
+<td>7</td>
+<td>6</td>
+<td>12</td>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>8</td>
+<td>11</td>
+<td>15</td>
+<td>4</td>
+<td>2</td>
+<td>12</td>
+<td>10</td>
+<td>10</td>
+<td>6</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+</tr>
+</table>
+<p>A variant with 220 letters:</p>
+<table class="wikitable" style="text-align:center;width:100%;min-width:39em;max-width:52em;table-layout:fixed;">
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+<th>H</th>
+<th>I</th>
+<th>J</th>
+<th>K</th>
+<th>L</th>
+<th>M</th>
+<th>N</th>
+<th>O</th>
+<th>P</th>
+<th>Q</th>
+<th>R</th>
+<th>S</th>
+<th>T</th>
+<th>U</th>
+<th>V</th>
+<th>W</th>
+<th>X</th>
+<th>Y</th>
+<th>Z</th>
+</tr>
+<tr>
+<td>14</td>
+<td>6</td>
+<td>6</td>
+<td>8</td>
+<td>20</td>
+<td>6</td>
+<td>8</td>
+<td>10</td>
+<td>14</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>8</td>
+<td>12</td>
+<td>14</td>
+<td>6</td>
+<td>4</td>
+<td>12</td>
+<td>12</td>
+<td>14</td>
+<td>10</td>
+<td>4</td>
+<td>8</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+</tr>
+</table>
+<p>The distribution of 180 letters for <i>Scrabble Scoring Anagrams</i> (according to a review on funagain.com):</p>
+<table class="wikitable" style="text-align:center;width:100%;min-width:39em;max-width:52em;table-layout:fixed;">
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+<th>D</th>
+<th>E</th>
+<th>F</th>
+<th>G</th>
+<th>H</th>
+<th>I</th>
+<th>J</th>
+<th>K</th>
+<th>L</th>
+<th>M</th>
+<th>N</th>
+<th>O</th>
+<th>P</th>
+<th>Q</th>
+<th>R</th>
+<th>S</th>
+<th>T</th>
+<th>U</th>
+<th>V</th>
+<th>W</th>
+<th>X</th>
+<th>Y</th>
+<th>Z</th>
+</tr>
+<tr>
+<td>16</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
+<td>22</td>
+<td>4</td>
+<td>6</td>
+<td>6</td>
+<td>14</td>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>4</td>
+<td>10</td>
+<td>14</td>
+<td>4</td>
+<td>2</td>
+<td>12</td>
+<td>8</td>
+<td>10</td>
+<td>8</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+<td>2</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Anatree" title="Anatree">Anatree</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Hills, Rust, "Wordplay" an article in <a href="/wiki/Esquire_(magazine)" title="Esquire (magazine)">Esquire</a>; March 1996, Vol. 125, Issue 3</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">National SCRABBLE Association: <a rel="nofollow" class="external text" href="http://scrabble-assoc.com/rules/anagrams.html">Tournament Anagrams Rules</a>: 2005</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anagrams&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://anagramthief.com">Anagram Thief!</a>, a Web-based version of this game</li>
+<li><a rel="nofollow" class="external text" href="http://www.gtoal.com/wordgames/">www.gtoal.com's "Letter-by-Letter Word Games FAQ"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gtoal.com/wordgames/images-new/">www.gtoal.com's large collection images of various Anagrams sets and other wordgames.</a></li>
+<li><a rel="nofollow" class="external text" href="http://demonstrations.wolfram.com/Anagrams/">"Anagrams"</a> by Michael Schreiber, <a href="/wiki/Wolfram_Demonstrations_Project" title="Wolfram Demonstrations Project">Wolfram Demonstrations Project</a>, 2007. A computer model of anagrams.</li>
+<li><a rel="nofollow" class="external text" href="http://phillipmfeldman.org/English/index.html#solving_word_puzzles">"Solving Word Puzzles via Computer"</a> by Phillip M. Feldman</li>
+<li><a rel="nofollow" class="external text" href="http://www.boardgamegeek.com/game/3359">Anagrams</a> at <a href="/wiki/BoardGameGeek" title="BoardGameGeek">BoardGameGeek</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.anagramator.com">"Anagramator"</a> an anagram generator website</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1030
+CPU time usage: 0.065 seconds
+Real time usage: 0.086 seconds
+Preprocessor visited node count: 276/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 789/2097152 bytes
+Template argument size: 243/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.012/10.000 seconds
+Lua memory usage: 615 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.725      1 - -total
+ 72.42%   44.704      1 - Template:About
+ 61.82%   38.158      1 - Template:Hatnote
+ 21.94%   13.544      1 - Template:Namespace_detect
+ 13.02%    8.036      1 - Template:Bgg
+  8.89%    5.488      1 - Template:Reflist
+  6.33%    3.909      1 - Template:Bgg_par
+  3.44%    2.126      1 - Template:Str_left
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:66217-0!*!0!!en!*!* and timestamp 20150626230414 and revision id 595730247
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anagrams&amp;oldid=595730247">https://en.wikipedia.org/w/index.php?title=Anagrams&amp;oldid=595730247</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Word_games" title="Category:Word games">Word games</a></li><li><a href="/wiki/Category:Selchow_and_Righter_games" title="Category:Selchow and Righter games">Selchow and Righter games</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anagrams&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Anagrams" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Anagrams"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Anagrams"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Anagrams" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Anagrams&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Anagrams&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Anagrams" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Anagrams" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anagrams&amp;oldid=595730247" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anagrams&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4750856" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anagrams&amp;id=595730247" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anagrams">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Anagrams&amp;oldid=595730247&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Anagrams&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Anagramoj" title="Anagramoj – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4750856#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 February 2014, at 14:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Anagrams&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1069"});
+}</script>
+	</body>
+</html>

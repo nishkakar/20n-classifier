@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>BDS C - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/BDS_C" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=BDS_C&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=BDS_C&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/BDS_C" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/BDS_C" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"BDS_C","wgTitle":"BDS C","wgCurRevisionId":661298257,"wgRevisionId":661298257,"wgArticleId":2230103,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["C compilers","CP/M software","Free compilers and interpreters","Formerly proprietary software","Public domain software","Software written primarily in assembly language","All stub articles","Programming language topic stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"BDS_C","wgRelevantArticleId":2230103,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q795772"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-BDS_C skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">BDS C</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<caption class="summary">BDS C</caption>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_design" title="Software design">Original author(s)</a></th>
+<td>Leor Zolman</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>1979<span class="noprint">; 36&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1979</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/CP/M" title="CP/M">CP/M</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Compiler" title="Compiler">Compiler</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Public_domain" title="Public domain">Public domain</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.bdsoft.com/resources/bdsc.html">www<wbr />.bdsoft<wbr />.com<wbr />/resources<wbr />/bdsc<wbr />.html</a></span></td>
+</tr>
+</table>
+<p><b>BDS C</b> (or the <i><b>BD S</b>oftware <b>C</b> Compiler</i>) is a compiler for a sizeable subset of the <a href="/wiki/C_(programming_language)" title="C (programming language)">C programming language</a>, that ran on and generated code for the <a href="/wiki/Intel_8080" title="Intel 8080">Intel 8080</a> and <a href="/wiki/Zilog_Z80" title="Zilog Z80">Zilog Z80</a> processors. It was the first <a href="/wiki/C_compiler" title="C compiler" class="mw-redirect">C compiler</a> for <a href="/wiki/CP/M" title="CP/M">CP/M</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It was written by <a rel="nofollow" class="external text" href="http://www.bdsoft.com/about.html">Leor Zolman</a> and first released in 1979 when he was 20 years old. "BDS" stood for "Brain Damage Software".</p>
+<p>BDS C was very popular and influential among <a href="/wiki/CP/M" title="CP/M">CP/M</a> users and developers in the 8-bit microcomputer era. It ran much faster and was more convenient to use than other Z80-hosted compilers of the time. It was possible to run BDS C on single-<a href="/wiki/Floppy" title="Floppy" class="mw-redirect">floppy</a> machines with as little as 30K of <a href="/wiki/Random_access_memory" title="Random access memory" class="mw-redirect">RAM</a> - something of a minor miracle by comparison to most other commercial compilers which required many passes and the writing of intermediate files to disk. Around 75,000 copies were sold, including a stripped down Japanese incarnation.</p>
+<p>A number of important commercial CP/M products were written in the BDS C subset of the C language, including <a href="/w/index.php?title=PeachText&amp;action=edit&amp;redlink=1" class="new" title="PeachText (page does not exist)">PeachText</a> from <a href="/w/index.php?title=PeachTree_Software&amp;action=edit&amp;redlink=1" class="new" title="PeachTree Software (page does not exist)">PeachTree Software</a>, <a href="/wiki/MINCE" title="MINCE">MINCE</a> and Scribble from <a href="/wiki/Mark_of_the_Unicorn" title="Mark of the Unicorn">Mark of the Unicorn</a>, and most of the software in the <a href="/w/index.php?title=Perfect_Software&amp;action=edit&amp;redlink=1" class="new" title="Perfect Software (page does not exist)">Perfect Software</a> suite including <a href="/wiki/Perfect_Writer" title="Perfect Writer">Perfect Writer</a>, <a href="/w/index.php?title=PerfectCalc&amp;action=edit&amp;redlink=1" class="new" title="PerfectCalc (page does not exist)">PerfectCalc</a>, <a href="/w/index.php?title=PerfectSpeller&amp;action=edit&amp;redlink=1" class="new" title="PerfectSpeller (page does not exist)">PerfectSpeller</a> and <a href="/w/index.php?title=PerfectFiler&amp;action=edit&amp;redlink=1" class="new" title="PerfectFiler (page does not exist)">PerfectFiler</a> (which suite was bundled with the <a href="/wiki/Kaypro" title="Kaypro">Kaypro</a>).</p>
+<p>BDS C supported <a href="/wiki/Pointer" title="Pointer" class="mw-disambig">pointers</a> and was very memory efficient, with fast compilation speeds. Weak points were that the <a href="/wiki/Floating_point" title="Floating point">floating point</a> math routines were incompatible with the Unix C compiler's, and its relocatable object files were not compatible with the Microsoft assembler, making it more difficult to integrate C code with <a href="/wiki/Assembly_language" title="Assembly language">assembly language</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>BDS C was bundled with a significant subset of the Unix system written in about 1980, called MARC (Machine Assisted Resource Coordinator). This effort in some ways resembled <a href="/wiki/GNU" title="GNU">GNU</a>, though MARC was to be able to run CP/M software through <a href="/wiki/In-circuit_emulator" title="In-circuit emulator" class="mw-redirect">emulation</a>. Unfortunately MARC's author, Ed Ziemba, perished in a <a href="/wiki/Snorkeling" title="Snorkeling">snorkeling</a> accident before he could complete the project.<a rel="nofollow" class="external autonumber" href="http://books.google.com/books?id=pD0EAAAAMBAJ&amp;pg=PT14&amp;lpg=PT14&amp;dq=marc+ed+ziemba&amp;source=bl&amp;ots=2iWcn6Hwk1&amp;sig=ExVtU-OFrnLbZklae0D9g7UH2ME&amp;hl=en&amp;ei=0L_3TPOLLo-t8AbVpKC2Bw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CC0Q6AEwAg#v=onepage&amp;q=marc%20ed%20ziemba&amp;f=false">[1]</a></p>
+<p>In 2002, with its commercial viability long past, Leor Zolman released BDS C's source code into the <a href="/wiki/Public_domain" title="Public domain">public domain</a>, thus making it <a href="/wiki/Free_software" title="Free software">free software</a>. Written in 8080 <a href="/wiki/Assembly_language" title="Assembly language">assembly language</a>, the code is now mostly of historical rather than practical interest, but it is interesting to peruse for anyone wishing to see how sizeable programs for small computers were written in those days.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BDS_C&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Nuvola_apps_emacs_vector.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/28px-Nuvola_apps_emacs_vector.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/42px-Nuvola_apps_emacs_vector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Nuvola_apps_emacs_vector.svg/56px-Nuvola_apps_emacs_vector.svg.png 2x" data-file-width="160" data-file-height="160" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Free_software" title="Portal:Free software">Free software portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Small-C" title="Small-C">Small-C</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BDS_C&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://archive.org/stream/The_Official_Book_for_the_Commodore_128/The_Official_Book_for_the_Commodore_128_djvu.txt">"The Official Book for the Commodore 128"</a>. <q>BDS-C was the first version of C on the market for CP/M. It has evolved over the years into a very bug-free product preferred by many users. The language is not as complete as the one described by Kernighan and Rit chie's The C Programming Language (Prentice-Hall, 1978), but it does contain a large subset of the important features.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABDS+C&amp;rft.btitle=The+Official+Book+for+the+Commodore+128&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2FThe_Official_Book_for_the_Commodore_128%2FThe_Official_Book_for_the_Commodore_128_djvu.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://archive.org/stream/The_Official_Book_for_the_Commodore_128/The_Official_Book_for_the_Commodore_128_djvu.txt">"The Official Book for the Commodore 128"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABDS+C&amp;rft.btitle=The+Official+Book+for+the+Commodore+128&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2FThe_Official_Book_for_the_Commodore_128%2FThe_Official_Book_for_the_Commodore_128_djvu.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=BDS_C&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.bdsoft.com/resources/bdsc.html">BD Software download page</a></li>
+<li><a rel="nofollow" class="external text" href="http://laurel.actlab.utexas.edu/~cynbe/muq/muf3_26.html">MUF Mastery - historical note about Leor Zolman and BDS C</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.radiks.net/~jimbo/art/int4.htm">Interview with Leor Zolman</a></li>
+<li><a href="/wiki/C/C%2B%2B_Users_Journal" title="C/C++ Users Journal">BDS C Users Group</a></li>
+</ul>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:HelloWorld.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/50px-HelloWorld.svg.png" width="50" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/75px-HelloWorld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/HelloWorld.svg/100px-HelloWorld.svg.png 2x" data-file-width="512" data-file-height="256" /></a></td>
+<td><i>This <a href="/wiki/Programming_language" title="Programming language">programming language</a>–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=BDS_C&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Prog-lang-stub" title="Template:Prog-lang-stub"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Prog-lang-stub" title="Template talk:Prog-lang-stub"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Prog-lang-stub&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1032
+CPU time usage: 0.169 seconds
+Real time usage: 0.218 seconds
+Preprocessor visited node count: 563/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10404/2097152 bytes
+Template argument size: 466/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.055/10.000 seconds
+Lua memory usage: 1.72 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  159.403      1 - -total
+ 50.98%   81.260      1 - Template:Infobox_software
+ 47.52%   75.741      1 - Template:Infobox
+ 26.32%   41.954      1 - Template:Reflist
+ 21.71%   34.608      2 - Template:Cite_web
+ 12.93%   20.606      1 - Template:Compu-lang-stub
+ 10.11%   16.119      1 - Template:Start_date_and_age
+ 10.07%   16.049      1 - Template:Asbox
+  7.55%   12.041      1 - Template:Portal
+  5.67%    9.033      1 - Template:Url
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2230103-0!*!0!!*!4!* and timestamp 20150712024041 and revision id 661298257
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=BDS_C&amp;oldid=661298257">https://en.wikipedia.org/w/index.php?title=BDS_C&amp;oldid=661298257</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:C_compilers" title="Category:C compilers">C compilers</a></li><li><a href="/wiki/Category:CP/M_software" title="Category:CP/M software">CP/M software</a></li><li><a href="/wiki/Category:Free_compilers_and_interpreters" title="Category:Free compilers and interpreters">Free compilers and interpreters</a></li><li><a href="/wiki/Category:Formerly_proprietary_software" title="Category:Formerly proprietary software">Formerly proprietary software</a></li><li><a href="/wiki/Category:Public_domain_software" title="Category:Public domain software">Public domain software</a></li><li><a href="/wiki/Category:Software_written_primarily_in_assembly_language" title="Category:Software written primarily in assembly language">Software written primarily in assembly language</a></li><li><a href="/wiki/Category:Programming_language_topic_stubs" title="Category:Programming language topic stubs">Programming language topic stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=BDS+C&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=BDS+C" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/BDS_C"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:BDS_C"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/BDS_C" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=BDS_C&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=BDS_C&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/BDS_C" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/BDS_C" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=BDS_C&amp;oldid=661298257" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=BDS_C&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q795772" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=BDS_C&amp;id=661298257" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=BDS+C">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=BDS+C&amp;oldid=661298257&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=BDS_C&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/BDS_C" title="BDS C – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/BDS-C" title="BDS-C – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/BDS_C" title="BDS C – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q795772#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 May 2015, at 19:55.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=BDS_C&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":343,"wgHostname":"mw1032"});
+}</script>
+	</body>
+</html>

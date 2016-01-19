@@ -1,0 +1,1147 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>DiGeorge syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/DiGeorge_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/DiGeorge_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/DiGeorge_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"DiGeorge_syndrome","wgTitle":"DiGeorge syndrome","wgCurRevisionId":670021040,"wgRevisionId":670021040,"wgArticleId":3724035,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","CS1 maint: Explicit use of et al.","All pages needing factual verification","Wikipedia articles needing factual verification from April 2015","Articles needing additional medical references from April 2015","All articles needing additional references","Articles with contributors link","All articles lacking reliable references","Articles lacking reliable references from April 2015","Articles contradicting other articles","Articles needing additional references from April 2011","Articles with DMOZ links","Articles that use a Medicine navs subtemplate","Autosomal dominant disorders","IUIS-PID table 3 immunodeficiencies","Noninfectious immunodeficiency-related cutaneous conditions","Syndromes","Autosomal monosomies and deletions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"DiGeorge_syndrome","wgRelevantArticleId":3724035,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg/100px-Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q525642"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-DiGeorge_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">DiGeorge syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs more <a href="/wiki/Wikipedia:Identifying_reliable_sources_(medicine)" title="Wikipedia:Identifying reliable sources (medicine)">medical references</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a> or relies too heavily on primary sources</b>. <span class="hide-when-compact">Please review the contents of the article and <a class="external text" href="//en.wikipedia.org/w/index.php?title=DiGeorge_syndrome&amp;action=edit">add the appropriate references</a> if you can. Unsourced or poorly sourced material may be <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(April 2015)</i></small></span></td>
+<td class="mbox-imageright">
+<div style="width:52px"><a href="/wiki/File:Rod_of_Asclepius2.svg" class="image"><img alt="Rod of Asclepius2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/12px-Rod_of_Asclepius2.svg.png" width="12" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/18px-Rod_of_Asclepius2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/25px-Rod_of_Asclepius2.svg.png 2x" data-file-width="251" data-file-height="804" /></a></div>
+</td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">22q11.2 deletion syndrome</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome,_demonstrating_basal_ganglia_and_periventricular_calcification.jpg" class="image"><img alt="Brain computer tomography cuts of the patient with 22q11.2 syndrome, demonstrating basal ganglia and periventricular calcification.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg/230px-Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg" width="230" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg/345px-Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg/460px-Brain_computer_tomography_cuts_of_the_patient_with_22q11.2_syndrome%2C_demonstrating_basal_ganglia_and_periventricular_calcification.jpg 2x" data-file-width="930" data-file-height="515" /></a>
+<div>Brain computer tomography cuts of the patient, demonstrating basal ganglia and periventricular calcification. From a case report by Tonelli et al., 2007<sup id="cite_ref-pmid18053182_1-0" class="reference"><a href="#cite_note-pmid18053182-1"><span>[</span>1<span>]</span></a></sup></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Medical_genetics" title="Medical genetics">Medical genetics</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/D82.1">D82.1</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=279.11">279.11</a>, <a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=758.32">758.32</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/188400">188400</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb3631.htm">3631</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic567.htm">med/567</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic589.htm#">ped/589</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/derm/topic716.htm#">derm/716</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/digeorge-syndrome">DiGeorge syndrome</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D004062">D004062</a></td>
+</tr>
+</table>
+<p><b>DiGeorge syndrome</b><sup id="cite_ref-DiGeorge_2-0" class="reference"><a href="#cite_note-DiGeorge-2"><span>[</span>2<span>]</span></a></sup> also known as <b>22q11.2 deletion syndrome</b>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><b>DiGeorge anomaly</b>,<sup id="cite_ref-Bolognia_4-0" class="reference"><a href="#cite_note-Bolognia-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Andrews_5-0" class="reference"><a href="#cite_note-Andrews-5"><span>[</span>5<span>]</span></a></sup> <b>velocardiofacial syndrome</b>, <b>Shprintzen syndrome</b>,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <b>conotruncal anomaly face syndrome</b> or <b>Takao syndrome</b>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> <b>Strong syndrome</b>, <b>congenital thymic aplasia</b>, and <b>thymic hypoplasia</b>, is a syndrome caused by the deletion of a small piece of <a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">chromosome 22</a>. It is the most common <a href="/wiki/Microdeletion_syndrome" title="Microdeletion syndrome">microdeletion syndrome</a> characterized by <a href="/wiki/Low_copy_repeats" title="Low copy repeats">low copy repeats</a> and the deletion occurs near the middle of the <a href="/wiki/Chromosome" title="Chromosome">chromosome</a> at a location designated <i>22q11.2</i>—signifying its location on the long arm of one of the pair of chromosomes 22, on region 1, band 1, sub-band 2.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> The inheritance pattern is autosomal dominant and it has a prevalence estimated at 1:4000.<sup id="cite_ref-pmid14736631_9-0" class="reference"><a href="#cite_note-pmid14736631-9"><span>[</span>9<span>]</span></a></sup> The syndrome was described in 1968 by the <a href="/wiki/Pediatric_endocrinologist" title="Pediatric endocrinologist" class="mw-redirect">pediatric endocrinologist</a> <a href="/wiki/Angelo_DiGeorge" title="Angelo DiGeorge">Angelo DiGeorge</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> 22q11 deletion is also associated with <a href="/wiki/Persistent_truncus_arteriosus" title="Persistent truncus arteriosus">truncus arteriosus</a> and <a href="/wiki/Tetralogy_of_Fallot" title="Tetralogy of Fallot">tetralogy of Fallot</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Cognitive_impairments"><span class="tocnumber">1.1</span> <span class="toctext">Cognitive impairments</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Speech_and_language"><span class="tocnumber">1.2</span> <span class="toctext">Speech and language</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Genetics"><span class="tocnumber">2</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Treatment"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Epidemiology"><span class="tocnumber">5</span> <span class="toctext">Epidemiology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Nomenclature"><span class="tocnumber">6</span> <span class="toctext">Nomenclature</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The features of this syndrome vary widely, even among members of the same family, and affect many parts of the body. Characteristic signs and symptoms may include birth defects such as congenital heart disease, defects in the palate, most commonly related to neuromuscular problems with closure (velopharyngeal insufficiency), <a href="/wiki/Learning_disability" title="Learning disability">learning disabilities</a>, mild differences in facial features, and recurrent <a href="/wiki/Infection" title="Infection">infections</a>. Infections are common in children due to problems with the <a href="/wiki/Immune_system" title="Immune system">immune system</a>'s <a href="/wiki/T-cell" title="T-cell" class="mw-redirect">T-cell</a>-mediated response that in some patients is due to an absent or <a href="/wiki/Hypoplastic" title="Hypoplastic" class="mw-redirect">hypoplastic</a> <a href="/wiki/Thymus" title="Thymus">thymus</a>. 22q11.2 deletion syndrome may be first spotted when an affected newborn has heart defects or convulsions from <a href="/wiki/Hypocalcemia" title="Hypocalcemia" class="mw-redirect">hypocalcemia</a> due to malfunctioning <a href="/wiki/Parathyroid_glands" title="Parathyroid glands" class="mw-redirect">parathyroid glands</a> and low levels of parathyroid hormone (<a href="/wiki/Parathormone" title="Parathormone" class="mw-redirect">parathormone</a>). Affected individuals may also have any other kind of birth defect including kidney abnormalities and significant feeding difficulties as babies. Disorders such as <a href="/wiki/Hypothyroidism" title="Hypothyroidism">hypothyroidism</a> and <a href="/wiki/Hypoparathyroidism" title="Hypoparathyroidism">hypoparathyroidism</a> or <a href="/wiki/Thrombocytopenia" title="Thrombocytopenia">thrombocytopenia</a> (low platelet levels), and <a href="/wiki/Psychiatric" title="Psychiatric" class="mw-redirect">psychiatric</a> illnesses are common late-occurring features.<sup id="cite_ref-Bebbane_2006_psychosis_13-0" class="reference"><a href="#cite_note-Bebbane_2006_psychosis-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Microdeletions in chromosomal region 22q11.2 are associated with a 20 to 30-fold increased risk of <a href="/wiki/Schizophrenia" title="Schizophrenia">schizophrenia</a>.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Identifying_reliable_sources_(medicine)" title="Wikipedia:Identifying reliable sources (medicine)"><span title="Material near this tag may use an unreliable or less reliable medical source. (April 2015)">unreliable medical source?</span></a></i>]</sup><sup id="cite_ref-Horowitz_2005_SCHZ_14-0" class="reference"><a href="#cite_note-Horowitz_2005_SCHZ-14"><span>[</span>14<span>]</span></a></sup> Studies provide various rates of 22q11.2 deletion syndrome in schizophrenia, ranging from 0.5 to 2.0% and averaging about 1.0%, compared with the overall estimated 0.025% risk of the 22q11.2 deletion syndrome in the general population.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Identifying_reliable_sources_(medicine)" title="Wikipedia:Identifying reliable sources (medicine)"><span title="Material near this tag may use an unreliable or less reliable medical source. (April 2015)">unreliable medical source?</span></a></i>]</sup> <sup id="cite_ref-Horowitz_2005_survey_SCHZ_15-0" class="reference"><a href="#cite_note-Horowitz_2005_survey_SCHZ-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>Salient features can be summarized using the mnemonic CATCH-22 to describe DiGeorge syndrome, with the 22 to remind one the chromosomal abnormality is found on the 22 chromosome, as below:<sup id="cite_ref-Burn_1999_JMedGen_16-0" class="reference"><a href="#cite_note-Burn_1999_JMedGen-16"><span>[</span>16<span>]</span></a></sup></p>
+<p><b>C</b>ardiac abnormality (especially tetralogy of Fallot)<br />
+<b>A</b>bnormal <a href="/wiki/Facies_(medical)" title="Facies (medical)">facies</a><br />
+<b>T</b>hymic <a href="/wiki/Aplasia" title="Aplasia">aplasia</a><br />
+<b>C</b>left palate<br />
+<b>H</b>ypocalcemia/<b>H</b>ypoparathyroidism</p>
+<p>Individuals with a 22q11.2 deletion can have many possible features, ranging in number of associated features and from the mild to the very serious. Symptoms shown to be common include:</p>
+<ul>
+<li><a href="/wiki/Congenital_heart_disease" title="Congenital heart disease" class="mw-redirect">Congenital heart disease</a> (40% of individuals), particularly <a href="/wiki/Bulbus_cordis" title="Bulbus cordis">conotruncal</a> malformations (tetralogy of Fallot, <a href="/wiki/Interrupted_aortic_arch" title="Interrupted aortic arch">interrupted aortic arch</a>, <a href="/wiki/Ventricular_septal_defect" title="Ventricular septal defect">ventricular septal defect</a>, and <a href="/wiki/Persistent_truncus_arteriosus" title="Persistent truncus arteriosus">persistent truncus arteriosus</a>)</li>
+<li><a href="/wiki/Cyanosis" title="Cyanosis">Cyanosis</a> (bluish skin due to poor circulation of oxygen-rich blood)</li>
+<li><a href="/wiki/Palatal" title="Palatal" class="mw-redirect">Palatal</a> abnormalities (50%), particularly <a href="/wiki/Velopharyngeal_incompetence" title="Velopharyngeal incompetence" class="mw-redirect">velopharyngeal incompetence</a>, submucosal <a href="/wiki/Cleft_palate" title="Cleft palate" class="mw-redirect">cleft palate</a>, and <a href="/wiki/Cleft_palate" title="Cleft palate" class="mw-redirect">cleft palate</a>; characteristic facial features (present in the majority of <a href="/wiki/Caucasian_race" title="Caucasian race">Caucasian</a> individuals) including <a href="/wiki/Hypertelorism" title="Hypertelorism">hypertelorism</a></li>
+<li><a href="/wiki/Learning_disabilities" title="Learning disabilities" class="mw-redirect">Learning difficulties</a> (90%), including <a href="/wiki/Cognitive_deficit" title="Cognitive deficit">cognitive deficits</a>, <a href="/wiki/Attention_deficit_hyperactivity_disorder" title="Attention deficit hyperactivity disorder">attention deficit disorders</a><sup id="cite_ref-pmid11715041_17-0" class="reference"><a href="#cite_note-pmid11715041-17"><span>[</span>17<span>]</span></a></sup></li>
+<li><a href="/wiki/Hypocalcemia" title="Hypocalcemia" class="mw-redirect">Hypocalcemia</a> (50%)(due to hypoparathyroidism)</li>
+<li>Significant <a href="/wiki/Feeding_tube" title="Feeding tube">feeding</a> problems (30%)</li>
+<li><a href="/wiki/Renal" title="Renal" class="mw-redirect">Renal</a> anomalies (37%)</li>
+<li><a href="/wiki/Hearing_impairment" title="Hearing impairment" class="mw-redirect">Hearing loss</a> (both <a href="/wiki/Conductive" title="Conductive" class="mw-redirect">conductive</a> and <a href="/wiki/Sensorineural" title="Sensorineural" class="mw-redirect">sensorineural</a>) (<a href="/wiki/Hearing_loss_with_craniofacial_syndromes" title="Hearing loss with craniofacial syndromes">hearing loss with craniofacial syndromes</a>)</li>
+<li><a href="/w/index.php?title=Laryngotracheoesophageal&amp;action=edit&amp;redlink=1" class="new" title="Laryngotracheoesophageal (page does not exist)">Laryngotracheoesophageal</a> anomalies</li>
+<li><a href="/wiki/Growth_hormone" title="Growth hormone">Growth hormone</a> deficiency</li>
+<li><a href="/wiki/Autoimmune_disorders" title="Autoimmune disorders" class="mw-redirect">Autoimmune disorders</a></li>
+<li><a href="/wiki/Immune_disorders" title="Immune disorders" class="mw-redirect">Immune disorders</a> due to reduced <a href="/wiki/T_cell" title="T cell">T cell</a> numbers</li>
+<li><a href="/wiki/Seizures" title="Seizures" class="mw-redirect">Seizures</a> (with or without <a href="/wiki/Hypocalcemia" title="Hypocalcemia" class="mw-redirect">hypocalcemia</a>)</li>
+<li><a href="/wiki/Skeletal" title="Skeletal" class="mw-redirect">Skeletal</a> abnormalities</li>
+<li><a href="/wiki/Psychiatric_disorders" title="Psychiatric disorders" class="mw-redirect">Psychiatric disorders</a><sup id="cite_ref-pmid11715041_17-1" class="reference"><a href="#cite_note-pmid11715041-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<p>This syndrome is characterized by <a href="/wiki/Incomplete_penetrance" title="Incomplete penetrance" class="mw-redirect">incomplete penetrance</a> and therefore there is a marked variability in clinical expression between the different patients. This often makes early diagnosis difficult.<sup id="cite_ref-pmid11180220_18-0" class="reference"><a href="#cite_note-pmid11180220-18"><span>[</span>18<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Cognitive_impairments">Cognitive impairments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=2" title="Edit section: Cognitive impairments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Children with 22q11.2 have a specific profile in neuropsychological tests. They usually have a below- borderline normal IQ, with most individuals having higher scores in the verbal than the nonverbal domains. Some are able to attend normal schools, while others are home-schooled or in special classes.The severity of hypocalcemia early in childhood is associated with autism-like behavioral difficulties.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>Adults with DiGeorge syndrome have a specifically high-risk group for developing schizophrenia. About 30% have at least one incident of <a href="/wiki/Psychosis" title="Psychosis">psychosis</a> and about a quarter develop actual <a href="/wiki/Schizophrenia" title="Schizophrenia">schizophrenia</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Speech_and_language">Speech and language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=3" title="Edit section: Speech and language">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Current research demonstrates a unique profile of speech and language impairments is associated with 22q11.2 deletion syndrome. Children often perform lower on speech and language evaluations in comparison to their nonverbal IQ scores.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Category:Articles_contradicting_other_articles" title="Category:Articles contradicting other articles"><span title="This text contradicts text in the article 'DiGeorge syndrome' (October 2010)">contradictory</span></a></i>]</sup> Common problems include hypernasality, language delays, and speech sound errors.<sup id="cite_ref-Dantonio_21-0" class="reference"><a href="#cite_note-Dantonio-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-Scherer1999_22-0" class="reference"><a href="#cite_note-Scherer1999-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-Scherer2001_23-0" class="reference"><a href="#cite_note-Scherer2001-23"><span>[</span>23<span>]</span></a></sup></p>
+<p>Hypernasality occurs when air escapes through the nose during the production of oral speech sounds, resulting in reduced <a href="/wiki/Intelligibility_(communication)" title="Intelligibility (communication)">intelligibility</a>. This is a common characteristic in the speech and language profile because 69% of children have <a href="/wiki/Palatal" title="Palatal" class="mw-redirect">palatal</a> abnormalities. If the structure of the soft palate <a href="/wiki/Soft_palate" title="Soft palate">velum</a> is such that it does not stop the flow of air from going up to the <a href="/wiki/Nasal_cavity" title="Nasal cavity">nasal cavity</a>, it will cause <a href="/wiki/Hypernasal_speech" title="Hypernasal speech">hypernasal speech</a>. This phenomenon is referred as <a href="/wiki/Velopharyngeal_inadequacy" title="Velopharyngeal inadequacy">velopharyngeal inadequacy</a> (VPI). Hearing loss can also contribute to increased hypernasality because children with hearing impairments can have difficulty self monitoring their oral speech output. The treatment options available for VPI include prosthesis and surgery.<sup id="cite_ref-Dantonio_21-1" class="reference"><a href="#cite_note-Dantonio-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-Scherer1999_22-1" class="reference"><a href="#cite_note-Scherer1999-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-Eliez_24-0" class="reference"><a href="#cite_note-Eliez-24"><span>[</span>24<span>]</span></a></sup><sup id="cite_ref-Robin_25-0" class="reference"><a href="#cite_note-Robin-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-Solot_26-0" class="reference"><a href="#cite_note-Solot-26"><span>[</span>26<span>]</span></a></sup></p>
+<p>Difficulties acquiring vocabulary and formulating spoken language (<a href="/wiki/Expressive_language" title="Expressive language" class="mw-redirect">expressive language</a> deficits) at the onset of language development are also part of the speech and language profile associated with the 22q11.2 deletion. <a href="/wiki/Vocabulary_acquisition" title="Vocabulary acquisition" class="mw-redirect">Vocabulary acquisition</a> is often severely delayed for preschool-age children. In some recent studies, children had a severely limited vocabulary or were still not verbal at 2–3 years of age. School-age children do make progress with expressive language as they mature, but many continue to have delays and demonstrate difficulty when presented with language tasks such as verbally recalling narratives and producing longer and more complex sentences. <a href="/wiki/Receptive_language" title="Receptive language" class="mw-redirect">Receptive language</a>, which is the ability to comprehend, retain, or process spoken language, can also be impaired, although not usually with the same severity as expressive language impairments.<sup id="cite_ref-Scherer1999_22-2" class="reference"><a href="#cite_note-Scherer1999-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-Robin_25-1" class="reference"><a href="#cite_note-Robin-25"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-Solot_26-1" class="reference"><a href="#cite_note-Solot-26"><span>[</span>26<span>]</span></a></sup><sup id="cite_ref-Persson_27-0" class="reference"><a href="#cite_note-Persson-27"><span>[</span>27<span>]</span></a></sup></p>
+<p><a href="/wiki/Manner_of_articulation" title="Manner of articulation">Articulation</a> errors are commonly present in children with 22q11.2 deletion syndrome. These errors include a limited phonemic (speech sound) inventory and the use of compensatory articulation strategies resulting in reduced intelligibility. The <a href="/wiki/Phonemic" title="Phonemic" class="mw-redirect">phonemic</a> inventory typically produced consists of sounds made in the front or back of the oral cavity such as: /p/, /w/, /m/, /n/, and glottal stops. Sound made in the middle of the mouth are completely absent. Compensatory articulation errors made by this population of children include: <a href="/wiki/Glottal_stop" title="Glottal stop">glottal stops</a>, nasal substitutions, pharyngeal fricatives, linguapalatal sibilants, reduced pressure on consonant sounds, or a combination of these symptoms. Of these errors, glottal stops have the highest frequency of occurrence. It is reasoned that a limited <a href="/wiki/Phonemic_inventory" title="Phonemic inventory" class="mw-redirect">phonemic inventory</a> and the use of compensatory articulation strategies is present due to the structural abnormalities of the palate. The speech impairments exhibited by this population are more severe during the younger ages and show a trend of gradual improvement as the child matures.<sup id="cite_ref-Dantonio_21-2" class="reference"><a href="#cite_note-Dantonio-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-Robin_25-2" class="reference"><a href="#cite_note-Robin-25"><span>[</span>25<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=4" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(April 2011)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Autosomal_dominant_-_en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/220px-Autosomal_dominant_-_en.svg.png" width="220" height="382" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/330px-Autosomal_dominant_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/440px-Autosomal_dominant_-_en.svg.png 2x" data-file-width="738" data-file-height="1283" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Autosomal_dominant_-_en.svg" class="internal" title="Enlarge"></a></div>
+22q11.2 deletion syndrome is inherited in an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> pattern.</div>
+</div>
+</div>
+<p>The syndrome is caused by genetic deletions (loss of a small part of the genetic material) found on the long arm of one of the two 22nd chromosomes. Very rarely, patients with somewhat similar clinical features may have deletions on the short arm of chromosome 10.</p>
+<p>The mechanism that causes all of the associated features of the syndrome is unknown. 22q11.2 deletion syndrome may involve migration defects of <a href="/wiki/Neural_crest" title="Neural crest">neural crest</a>-derived tissues, particularly affecting development of the third and fourth <a href="/wiki/Branchial_pouches" title="Branchial pouches" class="mw-redirect">branchial pouches</a> (pharyngeal pouches). This affects the thymus gland, a mediastinal organ largely responsible for differentiation and induction of tolerance in T-cells, and the <a href="/wiki/Parathyroid_gland" title="Parathyroid gland">parathyroid glands</a>, responsible for regulation of blood calcium levels.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup></p>
+<p>Most people with 22q11.2 deletion syndrome are missing about 3 million <a href="/wiki/Base_pair" title="Base pair">base pairs</a> on one copy of <a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">chromosome 22</a> in every cell of their body. This region contains about 45 genes, but some of these genes have not been well characterized. A small percentage of affected individuals have shorter deletions in the same region.</p>
+<p>Researchers have not yet identified the genes that contribute to the features of 22q11.2 deletion syndrome. They have determined that the loss of one particular gene on chromosome 22, <i><a href="/wiki/TBX1" title="TBX1">TBX1</a></i>, is probably responsible for some of the syndrome's characteristic signs (such as heart defects). Carrying only one copy of this gene does not appear to cause learning disabilities, however. Additional genes in the deleted region are likely to contribute to the signs and symptoms of 22q11.2 deletion syndrome and genes outside the 22q11.2 region may also play a role.</p>
+<p>The 22q11.2 deletion syndrome can be inherited, but this is the case in the minority of newly diagnosed individuals. Only 5–10% have inherited the 22q11.2 deletion from a parent, whereas about 90–95% of cases have a <i>de novo</i> (new to the family) deletion of 22q11.2. This is because the 22q11.2 region has a structure that makes it highly prone to rearrangements during sperm or egg formation. The deletion is almost equally likely to occur when an egg is formed as when a sperm is formed. The deletion follows standard <a href="/wiki/Mendelian_inheritance" title="Mendelian inheritance">Mendelian inheritance</a>, so individuals carrying the deletion 22q11.2 have a 50% (one in two) chance of passing it to their offspring. <a href="/wiki/Prenatal_testing" title="Prenatal testing" class="mw-redirect">Prenatal testing</a>, such as <a href="/wiki/Amniocentesis" title="Amniocentesis">amniocentesis</a>, is available for pregnancies determined to be at risk. Also, pregnancies with findings of congenital heart disease and/or palate anomalies detected by ultrasound examination may be offered prenatal testing for 22q11.2 deletion syndrome. Because most of the signs of this cluster of defects can also be inherited as <a href="/wiki/Autosomal_recessive" title="Autosomal recessive" class="mw-redirect">autosomal recessive</a> or <a href="/wiki/X-linked" title="X-linked" class="mw-redirect">X-linked</a> traits, only genetic testing of both parents can determine with any certainty the likelihood of these anomalies occurring in any subsequent children.</p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=5" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 22q11.2 deletion syndrome is diagnosed in individuals with a submicroscopic deletion of <a href="/wiki/Chromosome" title="Chromosome">chromosome</a> 22 detected by <a href="/wiki/Fluorescence_in_situ_hybridization" title="Fluorescence in situ hybridization">fluorescence <i>in situ</i> hybridization</a> (FISH), BACs-on-Beads technology, <a href="/wiki/Multiplex_ligation-dependent_probe_amplification" title="Multiplex ligation-dependent probe amplification">Multiplex ligation-dependent probe amplification</a> (MLPA) or <a href="/wiki/Array-comparative_genomic_hybridization" title="Array-comparative genomic hybridization" class="mw-redirect">array-comparative genomic hybridization</a> (array-CGH). FISH is done on a blood sample: one DNA probe from the 22q11.2 chromosomal region is used at a time, while with BACs-on-Beads technology, multiple probes from the 22q11.2 region can be used simultaneously. In MLPA testing, various probes for selected regions of 22q11.2 are used to identify microdeletions,<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> but any findings should be further confirmed by other techniques (FISH or array-CGH). Array-CGH is a technique of molecular karyotype where a large number of probes are embedded in a chip to screen the entire genome for deletions or duplications. Array-CGH can identify the extent of the microdeletion in 22q11.2 chromosomal region and characterize any missing genes, leading to a better evaluation of signs, symptoms, and prognosis of the syndrome. Such <a href="/wiki/Genetic_testing" title="Genetic testing">genetic testing</a> is widely available for the clinical and <a href="/wiki/Prenatal_testing" title="Prenatal testing" class="mw-redirect">prenatal testing</a> of the 22q11.2 deletion syndrome. Fewer than 5% of individuals with clinical symptoms of the 22q11.2 deletion syndrome have normal routine cytogenetic studies and negative FISH testing. Some cases of DiGeorge syndrome have defects in other chromosomes, notably a deletion in chromosome region 10p14. They may have variant deletions of DiGeorge syndrome that may be detectable on a research basis only or with other more advanced clinical testing method.</p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=6" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>No cure is known for 22q11.2 deletion syndrome. Certain individual features are treatable using standard treatments. The key is to identify each of the associated features and manage each using the best available treatments.</p>
+<p>For example, in children, it is important that the immune problems are identified early, as special precautions are required regarding blood transfusion and immunization with live vaccines. <a href="/wiki/Thymus" title="Thymus">Thymus</a> <a href="/wiki/Organ_transplant" title="Organ transplant" class="mw-redirect">transplantation</a> can be used to address absence of the thymus in the rare, so-called "complete" DiGeorge syndrome.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>30<span>]</span></a></sup> Bacterial <a href="/wiki/Infections" title="Infections" class="mw-redirect">infections</a> are treated with <a href="/wiki/Antibiotics" title="Antibiotics">antibiotics</a>. <a href="/wiki/Cardiac_surgery" title="Cardiac surgery">Cardiac surgery</a> is often required for congenital heart abnormalities. Hypoparathyroidism causing hypocalcaemia often requires lifelong vitamin D and calcium supplements.</p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=7" title="Edit section: Epidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>22q11.2 deletion syndrome affects between one in 2000 and one in 4000 live births.<sup id="cite_ref-pmid14736631_9-1" class="reference"><a href="#cite_note-pmid14736631-9"><span>[</span>9<span>]</span></a></sup> This estimate is based on major birth defects and may be an underestimate, because some individuals with the deletion have few symptoms and may not have been formally diagnosed.</p>
+<p>It is one of the most common causes of <a href="/wiki/Mental_retardation" title="Mental retardation" class="mw-redirect">mental retardation</a> due to a genetic deletion syndrome.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Nomenclature">Nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=8" title="Edit section: Nomenclature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The signs and symptoms of 22q11 deletion syndrome are so varied that different groupings of its features were once regarded as separate conditions. These original classifications included velocardiofacial syndrome, Shprintzen syndrome, DiGeorge sequence/syndrome, Sedlackova syndrome, and conotruncal anomaly face syndrome. All are now understood to be presentations of a single syndrome.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/22q11.2_duplication_syndrome" title="22q11.2 duplication syndrome">22q11.2 duplication syndrome</a></li>
+<li><a href="/wiki/Asymmetric_crying_facies" title="Asymmetric crying facies">Asymmetric crying facies</a></li>
+<li><a href="/wiki/Contiguous_gene_syndrome" title="Contiguous gene syndrome">Contiguous gene syndrome</a></li>
+<li><i><a href="/wiki/DGCR2" title="DGCR2">DGCR2</a></i></li>
+<li><a href="/wiki/List_of_radiographic_findings_associated_with_cutaneous_conditions" title="List of radiographic findings associated with cutaneous conditions">List of radiographic findings associated with cutaneous conditions</a></li>
+<li><a href="/wiki/Genetic_counseling" title="Genetic counseling">Genetic counseling</a></li>
+<li><a href="/wiki/Zellweger_syndrome" title="Zellweger syndrome">Zellweger syndrome</a></li>
+<li><a href="/wiki/CHARGE_syndrome" title="CHARGE syndrome">CHARGE syndrome</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pmid18053182-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid18053182_1-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Tonelli AR, Kosuri K, Wei S, Chick D (2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2222674">"Seizures as the first manifestation of chromosome 22q11.2 deletion syndrome in a 40-year old man: a case report"</a>. <i><a href="/w/index.php?title=J_Med_Case_Reports&amp;action=edit&amp;redlink=1" class="new" title="J Med Case Reports (page does not exist)">J Med Case Reports</a></i> <b>1</b>: 167. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1186%2F1752-1947-1-167">10.1186/1752-1947-1-167</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2222674">2222674</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18053182">18053182</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Seizures+as+the+first+manifestation+of+chromosome+22q11.2+deletion+syndrome+in+a+40-year+old+man%3A+a+case+report&amp;rft.aulast=Tonelli+AR%2C+Kosuri+K%2C+Wei+S%2C+Chick+D&amp;rft.au=Tonelli+AR%2C+Kosuri+K%2C+Wei+S%2C+Chick+D&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2222674&amp;rft_id=info%3Adoi%2F10.1186%2F1752-1947-1-167&amp;rft_id=info%3Apmc%2F2222674&amp;rft_id=info%3Apmid%2F18053182&amp;rft.jtitle=J+Med+Case+Reports&amp;rft.pages=167&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DiGeorge-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-DiGeorge_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Cooper, Max D.; Peterson, Raymond D.A.; Good, Robert A. (November 1965). "A new concept of the cellular basis of immunity". <i>The Journal of Pediatrics</i> <b>67</b> (5): 907–908. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0022-3476%2865%2981796-6">10.1016/S0022-3476(65)81796-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=A+new+concept+of+the+cellular+basis+of+immunity&amp;rft.au=Cooper%2C+Max+D.&amp;rft.aufirst=Max+D.&amp;rft.au=Good%2C+Robert+A.&amp;rft.aulast=Cooper&amp;rft.au=Peterson%2C+Raymond+D.A.&amp;rft.date=November+1965&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0022-3476%2865%2981796-6&amp;rft.issue=5&amp;rft.jtitle=The+Journal+of+Pediatrics&amp;rft.pages=907-908&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=67" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Swillen, A.; Vogels, A.; Devriendt, K.; Fryns, J. P. (undefined NaN). "Chromosome 22q11 deletion syndrome: Update and review of the clinical features, cognitive-behavioral spectrum, and psychiatric complications". <i>American Journal of Medical Genetics</i> <b>97</b> (2): 128–135. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F1096-8628%28200022%2997%3A2%3C128%3A%3AAID-AJMG4%3E3.0.CO%3B2-Z">10.1002/1096-8628(200022)97:2&lt;128::AID-AJMG4&gt;3.0.CO;2-Z</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Chromosome+22q11+deletion+syndrome%3A+Update+and+review+of+the+clinical+features%2C+cognitive-behavioral+spectrum%2C+and+psychiatric+complications&amp;rft.au=Devriendt%2C+K.&amp;rft.aufirst=A.&amp;rft.au=Fryns%2C+J.+P.&amp;rft.aulast=Swillen&amp;rft.au=Swillen%2C+A.&amp;rft.au=Vogels%2C+A.&amp;rft.date=undefined+NaN&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F1096-8628%28200022%2997%3A2%3C128%3A%3AAID-AJMG4%3E3.0.CO%3B2-Z&amp;rft.issue=2&amp;rft.jtitle=American+Journal+of+Medical+Genetics&amp;rft.pages=128-135&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=97" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Bolognia-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bolognia_4-0">^</a></b></span> <span class="reference-text"><span class="citation book">Rapini, Ronald P.; Bolognia, Jean L.; Jorizzo, Joseph L. (2007). <i>Dermatology: 2-Volume Set</i>. St. Louis: Mosby. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4160-2999-0" title="Special:BookSources/1-4160-2999-0">1-4160-2999-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.aulast=Rapini%2C+Ronald+P.%3B+Bolognia%2C+Jean+L.%3B+Jorizzo%2C+Joseph+L.&amp;rft.au=Rapini%2C+Ronald+P.%3B+Bolognia%2C+Jean+L.%3B+Jorizzo%2C+Joseph+L.&amp;rft.btitle=Dermatology%3A+2-Volume+Set&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=1-4160-2999-0&amp;rft.place=St.+Louis&amp;rft.pub=Mosby&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Andrews-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andrews_5-0">^</a></b></span> <span class="reference-text"><span class="citation book">James, William D.; Berger, Timothy G.; et al. (2006). <i>Andrews' Diseases of the Skin: clinical Dermatology</i>. Saunders Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7216-2921-0" title="Special:BookSources/0-7216-2921-0">0-7216-2921-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.au=James%2C+William+D.%3B+Berger%2C+Timothy+G.%3B&amp;rft.aulast=James%2C+William+D.%3B+Berger%2C+Timothy+G.%3B&amp;rft.btitle=Andrews%27+Diseases+of+the+Skin%3A+clinical+Dermatology&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-7216-2921-0&amp;rft.pub=Saunders+Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation journal">Shprintzen, RJ; Goldberg, RB; Lewin, ML; Sidoti, EJ; Berkman, MD; Argamaso, RV; Young, D (January 1978). "A new syndrome involving cleft palate, cardiac anomalies, typical facies, and learning disabilities: velo-cardio-facial syndrome.". <i>The Cleft palate journal</i> <b>15</b> (1): 56–62. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/272242">272242</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=A+new+syndrome+involving+cleft+palate%2C+cardiac+anomalies%2C+typical+facies%2C+and+learning+disabilities%3A+velo-cardio-facial+syndrome.&amp;rft.au=Argamaso%2C+RV&amp;rft.au=Berkman%2C+MD&amp;rft.aufirst=RJ&amp;rft.au=Goldberg%2C+RB&amp;rft.aulast=Shprintzen&amp;rft.au=Lewin%2C+ML&amp;rft.au=Shprintzen%2C+RJ&amp;rft.au=Sidoti%2C+EJ&amp;rft.au=Young%2C+D&amp;rft.date=January+1978&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F272242&amp;rft.issue=1&amp;rft.jtitle=The+Cleft+palate+journal&amp;rft.pages=56-62&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">Burn, J; Takao, A; Wilson, D; Cross, I; Momma, K; Wadey, R; Scambler, P; Goodship, J (October 1993). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1016562">"Conotruncal anomaly face syndrome is associated with a deletion within chromosome 22q11."</a>. <i>Journal of medical genetics</i> <b>30</b> (10): 822–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjmg.30.10.822">10.1136/jmg.30.10.822</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1016562">1016562</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8230157">8230157</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Conotruncal+anomaly+face+syndrome+is+associated+with+a+deletion+within+chromosome+22q11.&amp;rft.au=Burn%2C+J&amp;rft.au=Cross%2C+I&amp;rft.aufirst=J&amp;rft.au=Goodship%2C+J&amp;rft.aulast=Burn&amp;rft.au=Momma%2C+K&amp;rft.au=Scambler%2C+P&amp;rft.au=Takao%2C+A&amp;rft.au=Wadey%2C+R&amp;rft.au=Wilson%2C+D&amp;rft.date=October+1993&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1016562&amp;rft_id=info%3Adoi%2F10.1136%2Fjmg.30.10.822&amp;rft_id=info%3Apmc%2F1016562&amp;rft_id=info%3Apmid%2F8230157&amp;rft.issue=10&amp;rft.jtitle=Journal+of+medical+genetics&amp;rft.pages=822-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Shaikh, TH; Kurahashi, H; Saitta, SC; O'Hare, AM; Hu, P; Roe, BA; Driscoll, DA; McDonald-McGinn, DM; Zackai, EH; Budarf, ML; Emanuel, BS (1 March 2000). "Chromosome 22-specific low copy repeats and the 22q11.2 deletion syndrome: genomic organization and deletion endpoint analysis.". <i>Human molecular genetics</i> <b>9</b> (4): 489–501. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fhmg%2F9.4.489">10.1093/hmg/9.4.489</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10699172">10699172</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Chromosome+22-specific+low+copy+repeats+and+the+22q11.2+deletion+syndrome%3A+genomic+organization+and+deletion+endpoint+analysis.&amp;rft.au=Budarf%2C+ML&amp;rft.au=Driscoll%2C+DA&amp;rft.au=Emanuel%2C+BS&amp;rft.aufirst=TH&amp;rft.au=Hu%2C+P&amp;rft.au=Kurahashi%2C+H&amp;rft.aulast=Shaikh&amp;rft.au=McDonald-McGinn%2C+DM&amp;rft.au=O%27Hare%2C+AM&amp;rft.au=Roe%2C+BA&amp;rft.au=Saitta%2C+SC&amp;rft.au=Shaikh%2C+TH&amp;rft.au=Zackai%2C+EH&amp;rft.date=1+March+2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1093%2Fhmg%2F9.4.489&amp;rft_id=info%3Apmid%2F10699172&amp;rft.issue=4&amp;rft.jtitle=Human+molecular+genetics&amp;rft.pages=489-501&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid14736631-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid14736631_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid14736631_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Oskarsdóttir S, Vujic M, Fasth A (2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1719787">"Incidence and prevalence of the 22q11 deletion syndrome: a population-based study in Western Sweden"</a>. <i>Arch. Dis. Child.</i> <b>89</b> (2): 148–51. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fadc.2003.026880">10.1136/adc.2003.026880</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1719787">1719787</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14736631">14736631</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Incidence+and+prevalence+of+the+22q11+deletion+syndrome%3A+a+population-based+study+in+Western+Sweden&amp;rft.aulast=Oskarsd%C3%B3ttir+S%2C+Vujic+M%2C+Fasth+A&amp;rft.au=Oskarsd%C3%B3ttir+S%2C+Vujic+M%2C+Fasth+A&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1719787&amp;rft_id=info%3Adoi%2F10.1136%2Fadc.2003.026880&amp;rft_id=info%3Apmc%2F1719787&amp;rft_id=info%3Apmid%2F14736631&amp;rft.issue=2&amp;rft.jtitle=Arch.+Dis.+Child.&amp;rft.pages=148-51&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=89" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">DiGeorge AM. Congenital absence of the thymus and its immunologic consequences: concurrence with congenital hypoparathyroidism. IV(1). White Plains, NY: March of Dimes-Birth Defects Foundation; 1968:116-21</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation journal">Restivo, Angelo; Sarkozy, Anna; Digilio, Maria Cristina; Dallapiccola, Bruno; Marino, Bruno (February 2006). <a rel="nofollow" class="external text" href="http://www.jcardiovascularmedicine.com/pt/re/jcm/abstract.01244665-200602000-00001.htm;jsessionid=K0GCjVnhWKskr2CxfrkZQlw2zDpw9lQTLJzcrSJFmNlGp7L8vQdK!713060492!181195629!8091!-1">"22q11 Deletion syndrome: a review of some developmental biology aspects of the cardiovascular system."</a>. <i>Journal of Cardiovascular Medicine</i> <b>7</b> (2): 77–85. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2459%2F01.JCM.0000203848.90267.3e">10.2459/01.JCM.0000203848.90267.3e</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16645366">16645366</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=22q11+Deletion+syndrome%3A+a+review+of+some+developmental+biology+aspects+of+the+cardiovascular+system.&amp;rft.au=Dallapiccola%2C+Bruno&amp;rft.au=Digilio%2C+Maria+Cristina&amp;rft.aufirst=Angelo&amp;rft.aulast=Restivo&amp;rft.au=Marino%2C+Bruno&amp;rft.au=Restivo%2C+Angelo&amp;rft.au=Sarkozy%2C+Anna&amp;rft.date=February+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jcardiovascularmedicine.com%2Fpt%2Fre%2Fjcm%2Fabstract.01244665-200602000-00001.htm%3Bjsessionid%3DK0GCjVnhWKskr2CxfrkZQlw2zDpw9lQTLJzcrSJFmNlGp7L8vQdK%21713060492%21181195629%218091%21-1&amp;rft_id=info%3Adoi%2F10.2459%2F01.JCM.0000203848.90267.3e&amp;rft_id=info%3Apmid%2F16645366&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Cardiovascular+Medicine&amp;rft.pages=77-85&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation book">Arthur J. Moss, Hugh D. Allen (16 October 2007). <i>Moss and Adams' Heart Disease in Infants, Children, and Adolescents: Including the Fetus and Young Adult, Volume 1</i>. <a href="/wiki/Lippincott_Williams_%26_Wilkins" title="Lippincott Williams &amp; Wilkins">Lippincott Williams &amp; Wilkins</a>. <q>Truncus arteriosus communis associated with chromosome 22ql 1 deletion.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.au=Arthur+J.+Moss%2C+Hugh+D.+Allen&amp;rft.aulast=Arthur+J.+Moss%2C+Hugh+D.+Allen&amp;rft.btitle=Moss+and+Adams%27+Heart+Disease+in+Infants%2C+Children%2C+and+Adolescents%3A+Including+the+Fetus+and+Young+Adult%2C+Volume+1&amp;rft.date=16+October+2007&amp;rft.genre=book&amp;rft.pub=Lippincott+Williams+%26+Wilkins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bebbane_2006_psychosis-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bebbane_2006_psychosis_13-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Debbané M, Glaser B, David MK, Feinstein C, Eliez S (2006). "Psychotic symptoms in children and adolescents with 22q11.2 deletion syndrome: Neuropsychological and behavioral implications". <i>Schizophr. Res.</i> <b>84</b> (2–3): 187–93. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.schres.2006.01.019">10.1016/j.schres.2006.01.019</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16545541">16545541</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Psychotic+symptoms+in+children+and+adolescents+with+22q11.2+deletion+syndrome%3A+Neuropsychological+and+behavioral+implications&amp;rft.au=Debban%C3%A9+M%2C+Glaser+B%2C+David+MK%2C+Feinstein+C%2C+Eliez+S&amp;rft.aulast=Debban%C3%A9+M%2C+Glaser+B%2C+David+MK%2C+Feinstein+C%2C+Eliez+S&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.schres.2006.01.019&amp;rft_id=info%3Apmid%2F16545541&amp;rft.issue=2%E2%80%933&amp;rft.jtitle=Schizophr.+Res.&amp;rft.pages=187-93&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=84" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Horowitz_2005_SCHZ-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Horowitz_2005_SCHZ_14-0">^</a></b></span> <span class="reference-text"><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (April 2015)">non-primary source needed</span></a></i>]</sup> <span class="citation journal">Bassett AS, Chow EW, AbdelMalik P, Gheorghiu M, Husted J, Weksberg R (2003). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3276594">"The schizophrenia phenotype in 22q11 deletion syndrome"</a>. <i>Am J Psychiatry</i> <b>160</b> (9): 1580–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1176%2Fappi.ajp.160.9.1580">10.1176/appi.ajp.160.9.1580</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3276594">3276594</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12944331">12944331</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=The+schizophrenia+phenotype+in+22q11+deletion+syndrome&amp;rft.au=Bassett+AS%2C+Chow+EW%2C+AbdelMalik+P%2C+Gheorghiu+M%2C+Husted+J%2C+Weksberg+R&amp;rft.aulast=Bassett+AS%2C+Chow+EW%2C+AbdelMalik+P%2C+Gheorghiu+M%2C+Husted+J%2C+Weksberg+R&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3276594&amp;rft_id=info%3Adoi%2F10.1176%2Fappi.ajp.160.9.1580&amp;rft_id=info%3Apmc%2F3276594&amp;rft_id=info%3Apmid%2F12944331&amp;rft.issue=9&amp;rft.jtitle=Am+J+Psychiatry&amp;rft.pages=1580-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=160" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Horowitz_2005_survey_SCHZ-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Horowitz_2005_survey_SCHZ_15-0">^</a></b></span> <span class="reference-text"><sup class="noprint Inline-Template noprint Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research"><span title="This claim needs references to reliable secondary sources. (April 2015)">non-primary source needed</span></a></i>]</sup> <span class="citation journal">Horowitz A, Shifman S, Rivlin N, Pisanté A, Darvasi A (2005). "A survey of the 22q11 microdeletion in a large cohort of schizophrenia patients". <i>Schizophr. Res.</i> <b>73</b> (2–3): 263–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.schres.2004.02.008">10.1016/j.schres.2004.02.008</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15653270">15653270</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=A+survey+of+the+22q11+microdeletion+in+a+large+cohort+of+schizophrenia+patients&amp;rft.au=Horowitz+A%2C+Shifman+S%2C+Rivlin+N%2C+Pisant%C3%A9+A%2C+Darvasi+A&amp;rft.aulast=Horowitz+A%2C+Shifman+S%2C+Rivlin+N%2C+Pisant%C3%A9+A%2C+Darvasi+A&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.schres.2004.02.008&amp;rft_id=info%3Apmid%2F15653270&amp;rft.issue=2%E2%80%933&amp;rft.jtitle=Schizophr.+Res.&amp;rft.pages=263-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=73" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Burn_1999_JMedGen-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Burn_1999_JMedGen_16-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Burn J (October 1999). <a rel="nofollow" class="external text" href="http://jmg.bmj.com/cgi/pmidlookup?view=long&amp;pmid=10528851">"Closing time for CATCH22"</a>. <i>J. Med. Genet.</i> <b>36</b> (10): 737–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjmg.36.10.737">10.1136/jmg.36.10.737</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1734243">1734243</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10528851">10528851</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Closing+time+for+CATCH22&amp;rft.au=Burn+J&amp;rft.aulast=Burn+J&amp;rft.date=October+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fjmg.bmj.com%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D10528851&amp;rft_id=info%3Adoi%2F10.1136%2Fjmg.36.10.737&amp;rft_id=info%3Apmc%2F1734243&amp;rft_id=info%3Apmid%2F10528851&amp;rft.issue=10&amp;rft.jtitle=J.+Med.+Genet.&amp;rft.pages=737-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid11715041-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid11715041_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid11715041_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lindsay, EA (November 2001). "Chromosomal microdeletions: dissecting del22q11 syndrome.". <i>Nature reviews. Genetics</i> <b>2</b> (11): 858–68. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F35098574">10.1038/35098574</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11715041">11715041</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Chromosomal+microdeletions%3A+dissecting+del22q11+syndrome.&amp;rft.aufirst=EA&amp;rft.aulast=Lindsay&amp;rft.au=Lindsay%2C+EA&amp;rft.date=November+2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2F35098574&amp;rft_id=info%3Apmid%2F11715041&amp;rft.issue=11&amp;rft.jtitle=Nature+reviews.+Genetics&amp;rft.pages=858-68&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid11180220-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid11180220_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Swillen, A; Vogels, A; Devriendt, K; Fryns, JP (1999). "Chromosome 22q11 deletion syndrome: update and review of the clinical features, cognitive-behavioral spectrum, and psychiatric complications.". <i>American journal of medical genetics</i> <b>97</b> (2): 128–35. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F1096-8628%28200022%2997%3A2%3C128%3A%3AAID-AJMG4%3E3.0.CO%3B2-Z">10.1002/1096-8628(200022)97:2&lt;128::AID-AJMG4&gt;3.0.CO;2-Z</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11180220">11180220</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Chromosome+22q11+deletion+syndrome%3A+update+and+review+of+the+clinical+features%2C+cognitive-behavioral+spectrum%2C+and+psychiatric+complications.&amp;rft.au=Devriendt%2C+K&amp;rft.aufirst=A&amp;rft.au=Fryns%2C+JP&amp;rft.aulast=Swillen&amp;rft.au=Swillen%2C+A&amp;rft.au=Vogels%2C+A&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F1096-8628%28200022%2997%3A2%3C128%3A%3AAID-AJMG4%3E3.0.CO%3B2-Z&amp;rft_id=info%3Apmid%2F11180220&amp;rft.issue=2&amp;rft.jtitle=American+journal+of+medical+genetics&amp;rft.pages=128-35&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=97" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Muldoon et al. (2014) <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00406-014-0546-0">10.1007/s00406-014-0546-0</a> <a class="external mw-magiclink-pmid" rel="nofollow" href="//www.ncbi.nlm.nih.gov/pubmed/25267002?dopt=Abstract">PMID 25267002</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation journal">Zinkstok J, van Amelsvoort T (2005). "Neuropsychological profile and neuroimaging in patients with 22Q11.2 Deletion Syndrome: a review". <i>Child Neuropsychol</i> <b>11</b> (1): 21–37. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F09297040590911194">10.1080/09297040590911194</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15823981">15823981</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Neuropsychological+profile+and+neuroimaging+in+patients+with+22Q11.2+Deletion+Syndrome%3A+a+review&amp;rft.aulast=Zinkstok+J%2C+van+Amelsvoort+T&amp;rft.au=Zinkstok+J%2C+van+Amelsvoort+T&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F09297040590911194&amp;rft_id=info%3Apmid%2F15823981&amp;rft.issue=1&amp;rft.jtitle=Child+Neuropsychol&amp;rft.pages=21-37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Dantonio-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dantonio_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dantonio_21-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dantonio_21-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">D'Antonio LL, Scherer NJ, Miller LL, Kalbfleisch JH, Bartley JA (2001). "Analysis of speech characteristics in children with velocardiofacial syndrome (VCFS) and children with phenotypic overlap without VCFS". <i>Cleft Palate Craniofac. J.</i> <b>38</b> (5): 455–67. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1597%2F1545-1569%282001%29038%3C0455%3AAOSCIC%3E2.0.CO%3B2">10.1597/1545-1569(2001)038&lt;0455:AOSCIC&gt;2.0.CO;2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1545-1569">1545-1569</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11522167">11522167</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Analysis+of+speech+characteristics+in+children+with+velocardiofacial+syndrome+%28VCFS%29+and+children+with+phenotypic+overlap+without+VCFS&amp;rft.au=D%27Antonio+LL%2C+Scherer+NJ%2C+Miller+LL%2C+Kalbfleisch+JH%2C+Bartley+JA&amp;rft.aulast=D%27Antonio+LL%2C+Scherer+NJ%2C+Miller+LL%2C+Kalbfleisch+JH%2C+Bartley+JA&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1597%2F1545-1569%282001%29038%3C0455%3AAOSCIC%3E2.0.CO%3B2&amp;rft_id=info%3Apmid%2F11522167&amp;rft.issn=1545-1569&amp;rft.issue=5&amp;rft.jtitle=Cleft+Palate+Craniofac.+J.&amp;rft.pages=455-67&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Scherer1999-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-Scherer1999_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Scherer1999_22-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Scherer1999_22-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Scherer NJ, D'Antonio LL, Kalbfleisch JH (1999). "Early speech and language development in children with velocardiofacial syndrome". <i>Am. J. Med. Genet.</i> <b>88</b> (6): 714–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F%28SICI%291096-8628%2819991215%2988%3A6%3C714%3A%3AAID-AJMG24%3E3.0.CO%3B2-B">10.1002/(SICI)1096-8628(19991215)88:6&lt;714::AID-AJMG24&gt;3.0.CO;2-B</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10581495">10581495</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Early+speech+and+language+development+in+children+with+velocardiofacial+syndrome&amp;rft.aulast=Scherer+NJ%2C+D%27Antonio+LL%2C+Kalbfleisch+JH&amp;rft.au=Scherer+NJ%2C+D%27Antonio+LL%2C+Kalbfleisch+JH&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F%28SICI%291096-8628%2819991215%2988%3A6%3C714%3A%3AAID-AJMG24%3E3.0.CO%3B2-B&amp;rft_id=info%3Apmid%2F10581495&amp;rft.issue=6&amp;rft.jtitle=Am.+J.+Med.+Genet.&amp;rft.pages=714-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=88" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Scherer2001-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Scherer2001_23-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Scherer NJ, D'Antonio LL, Rodgers JR (2001). "Profiles of communication disorder in children with velocardiofacial syndrome: comparison to children with Down syndrome". <i>Genet. Med.</i> <b>3</b> (1): 72–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F00125817-200101000-00016">10.1097/00125817-200101000-00016</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11339384">11339384</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Profiles+of+communication+disorder+in+children+with+velocardiofacial+syndrome%3A+comparison+to+children+with+Down+syndrome&amp;rft.aulast=Scherer+NJ%2C+D%27Antonio+LL%2C+Rodgers+JR&amp;rft.au=Scherer+NJ%2C+D%27Antonio+LL%2C+Rodgers+JR&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2F00125817-200101000-00016&amp;rft_id=info%3Apmid%2F11339384&amp;rft.issue=1&amp;rft.jtitle=Genet.+Med.&amp;rft.pages=72-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=3" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Eliez-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eliez_24-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Eliez S, Palacio-Espasa F, Spira A (2000). "Young children with Velo-Cardio-Facial syndrome (CATCH-22). Psychological and language phenotypes". <i>Eur Child Adolesc Psychiatry</i> <b>9</b> (2): 109–14. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs007870050005">10.1007/s007870050005</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10926060">10926060</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Young+children+with+Velo-Cardio-Facial+syndrome+%28CATCH-22%29.+Psychological+and+language+phenotypes&amp;rft.au=Eliez+S%2C+Palacio-Espasa+F%2C+Spira+A&amp;rft.aulast=Eliez+S%2C+Palacio-Espasa+F%2C+Spira+A&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs007870050005&amp;rft_id=info%3Apmid%2F10926060&amp;rft.issue=2&amp;rft.jtitle=Eur+Child+Adolesc+Psychiatry&amp;rft.pages=109-14&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Robin-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Robin_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Robin_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Robin_25-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Robin NH, Shprintzen RJ (2005). "Defining the clinical spectrum of deletion 22q11.2". <i>J. Pediatr.</i> <b>147</b> (1): 90–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jpeds.2005.03.007">10.1016/j.jpeds.2005.03.007</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16027702">16027702</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Defining+the+clinical+spectrum+of+deletion+22q11.2&amp;rft.aulast=Robin+NH%2C+Shprintzen+RJ&amp;rft.au=Robin+NH%2C+Shprintzen+RJ&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jpeds.2005.03.007&amp;rft_id=info%3Apmid%2F16027702&amp;rft.issue=1&amp;rft.jtitle=J.+Pediatr.&amp;rft.pages=90-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=147" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Solot-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Solot_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Solot_26-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Solot CB, Knightly C, Handler SD (2000). "Communication disorders in the 22Q11.2 microdeletion syndrome". <i>J Commun Disord</i> <b>33</b> (3): 187–203; quiz 203–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0021-9924%2800%2900018-6">10.1016/S0021-9924(00)00018-6</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10907715">10907715</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Communication+disorders+in+the+22Q11.2+microdeletion+syndrome&amp;rft.aulast=Solot+CB%2C+Knightly+C%2C+Handler+SD&amp;rft.au=Solot+CB%2C+Knightly+C%2C+Handler+SD&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0021-9924%2800%2900018-6&amp;rft_id=info%3Apmid%2F10907715&amp;rft.issue=3&amp;rft.jtitle=J+Commun+Disord&amp;rft.pages=187-203%3B+quiz+203-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=33" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Persson-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Persson_27-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Persson C, Niklasson L, Oskarsdóttir S, Johansson S, Jönsson R, Söderpalm E (2006). "Language skills in 5-8-year-old children with 22q11 deletion syndrome". <i>Int J Lang Commun Disord</i> <b>41</b> (3): 313–33. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F13682820500361497">10.1080/13682820500361497</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16702096">16702096</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Language+skills+in+5-8-year-old+children+with+22q11+deletion+syndrome&amp;rft.aulast=Persson+C%2C+Niklasson+L%2C+Oskarsd%C3%B3ttir+S%2C+Johansson+S%2C+J%C3%B6nsson+R%2C+S%C3%B6derpalm+E&amp;rft.au=Persson+C%2C+Niklasson+L%2C+Oskarsd%C3%B3ttir+S%2C+Johansson+S%2C+J%C3%B6nsson+R%2C+S%C3%B6derpalm+E&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F13682820500361497&amp;rft_id=info%3Apmid%2F16702096&amp;rft.issue=3&amp;rft.jtitle=Int+J+Lang+Commun+Disord&amp;rft.pages=313-33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=41" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a href="/wiki/Mendelian_Inheritance_in_Man" title="Mendelian Inheritance in Man" class="mw-redirect">Online 'Mendelian Inheritance in Man'</a> (OMIM) <a rel="nofollow" class="external text" href="//omim.org/entry/188400">DiGeorge syndrome; DGS -188400</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation journal">Jalali GR, Vorstman JA, Errami A, Vijzelaar R, Biegel J, Shaikh T, Emanuel BS (March 2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2664158">"Detailed analysis of 22q11.2 with a high density MLPA probe set"</a>. <i>Hum Mutat</i> <b>29</b> (3): 433–440. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fhumu.20640">10.1002/humu.20640</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2664158">2664158</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18033723">18033723</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Detailed+analysis+of+22q11.2+with+a+high+density+MLPA+probe+set&amp;rft.au=Jalali+GR%2C+Vorstman+JA%2C+Errami+A%2C+Vijzelaar+R%2C+Biegel+J%2C+Shaikh+T%2C+Emanuel+BS&amp;rft.aulast=Jalali+GR%2C+Vorstman+JA%2C+Errami+A%2C+Vijzelaar+R%2C+Biegel+J%2C+Shaikh+T%2C+Emanuel+BS&amp;rft.date=March+2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2664158&amp;rft_id=info%3Adoi%2F10.1002%2Fhumu.20640&amp;rft_id=info%3Apmc%2F2664158&amp;rft_id=info%3Apmid%2F18033723&amp;rft.issue=3&amp;rft.jtitle=Hum+Mutat&amp;rft.pages=433-440&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation journal">Markert ML, Devlin BH, Alexieff MJ (2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1885498">"Review of 54 patients with complete DiGeorge anomaly enrolled in protocols for thymus transplantation: outcome of 44 consecutive transplants"</a>. <i>Blood</i> <b>109</b> (10): 4539–47. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1182%2Fblood-2006-10-048652">10.1182/blood-2006-10-048652</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1885498">1885498</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17284531">17284531</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Review+of+54+patients+with+complete+DiGeorge+anomaly+enrolled+in+protocols+for+thymus+transplantation%3A+outcome+of+44+consecutive+transplants&amp;rft.aulast=Markert+ML%2C+Devlin+BH%2C+Alexieff+MJ&amp;rft.au=Markert+ML%2C+Devlin+BH%2C+Alexieff+MJ&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1885498&amp;rft_id=info%3Adoi%2F10.1182%2Fblood-2006-10-048652&amp;rft_id=info%3Apmc%2F1885498&amp;rft_id=info%3Apmid%2F17284531&amp;rft.issue=10&amp;rft.jtitle=Blood&amp;rft.pages=4539-47&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=109" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><span class="citation journal">Daily DK, Ardinger HH, Holmes GE (February 2000). <a rel="nofollow" class="external text" href="http://www.aafp.org/afp/20000215/1059.html">"Identification and evaluation of mental retardation"</a>. <i>Am Fam Physician</i> <b>61</b> (4): 1059–67, 1070. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10706158">10706158</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=Identification+and+evaluation+of+mental+retardation&amp;rft.au=Daily+DK%2C+Ardinger+HH%2C+Holmes+GE&amp;rft.aulast=Daily+DK%2C+Ardinger+HH%2C+Holmes+GE&amp;rft.date=February+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.aafp.org%2Fafp%2F20000215%2F1059.html&amp;rft_id=info%3Apmid%2F10706158&amp;rft.issue=4&amp;rft.jtitle=Am+Fam+Physician&amp;rft.pages=1059-67%2C+1070&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=61" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<p><i>This article incorporates public domain text from <a rel="nofollow" class="external text" href="http://ghr.nlm.nih.gov">The U.S. National Library of Medicine</a></i></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> Media related to <a href="//commons.wikimedia.org/wiki/Category:DiGeorge_Syndrome" class="extiw" title="commons:Category:DiGeorge Syndrome">DiGeorge Syndrome</a> at Wikimedia Commons</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.dmoz.org/Health/Conditions_and_Diseases/Genetic_Disorders/DiGeorge_Syndrome/">DiGeorge syndrome</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vcfsef.org/index.html">Velo-Cardio-Facial Syndrome Information Foundation</a></li>
+<li><span class="citation book">McDonald-McGinn DM, Emanuel BS, Zackai EH (December 16, 2005). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/books/NBK1523/">"22q11.2 Deletion Syndrome"</a>. In Pagon RA, Bird TD, Dolan CR, Stephens K. <i>GeneReviews</i>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20301696">20301696</a>. NBK1523.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=22q11.2+Deletion+Syndrome&amp;rft.aulast=McDonald-McGinn+DM%2C+Emanuel+BS%2C+Zackai+EH&amp;rft.au=McDonald-McGinn+DM%2C+Emanuel+BS%2C+Zackai+EH&amp;rft.btitle=GeneReviews&amp;rft.date=December+16%2C+2005&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fbooks%2FNBK1523%2F&amp;rft_id=info%3Apmid%2F20301696&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Firth HV (February 17, 2009). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/books/NBK3823/">"22q11.2 Duplication"</a>. In Pagon RA, Bird TD, Dolan CR, Stephens K. <i>GeneReviews</i>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20301749">20301749</a>. NBK3823.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiGeorge+syndrome&amp;rft.atitle=22q11.2+Duplication&amp;rft.au=Firth+HV&amp;rft.aulast=Firth+HV&amp;rft.btitle=GeneReviews&amp;rft.date=February+17%2C+2009&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fbooks%2FNBK3823%2F&amp;rft_id=info%3Apmid%2F20301749&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.seattlechildrens.org/medical-conditions/chromosomal-genetic-conditions/velocardiofacial/#">Information on 22q11.2 Deletion syndrome from Seattle Children's Hospital</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lymphoid_and_complement_immunodeficiency" title="Template:Lymphoid and complement immunodeficiency"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lymphoid_and_complement_immunodeficiency" title="Template talk:Lymphoid and complement immunodeficiency"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lymphoid_and_complement_immunodeficiency&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Immune_disorder" title="Immune disorder">Immune disorders</a>: <a href="/wiki/Lymphatic_system" title="Lymphatic system">Lymphoid</a> and <a href="/wiki/Complement_system" title="Complement system">complement</a> <a href="/wiki/Immunodeficiency" title="Immunodeficiency">immunodeficiency</a> (<a href="/wiki/ICD-10_Chapter_II:_Neoplasms;_Chapter_III:_Diseases_of_the_blood_and_blood-forming_organs,_and_certain_disorders_involving_the_immune_mechanism#.28D80.E2.80.93D89.29_Certain_disorders_involving_the_immune_mechanism" title="ICD-10 Chapter II: Neoplasms; Chapter III: Diseases of the blood and blood-forming organs, and certain disorders involving the immune mechanism" class="mw-redirect">D80–D85</a>, <a href="/wiki/List_of_ICD-9_codes_240%E2%80%93279:_endocrine,_nutritional_and_metabolic_diseases,_and_immunity_disorders#Disorders_involving_the_immune_mechanism" title="List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders">279.0–4</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Primary_immunodeficiency" title="Primary immunodeficiency">Primary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Antibody" title="Antibody">Antibody</a>/<a href="/wiki/Humoral_immune_deficiency" title="Humoral immune deficiency">humoral</a> (<a href="/wiki/B_cell" title="B cell">B</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypogammaglobulinemia" title="Hypogammaglobulinemia">Hypogammaglobulinemia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X-linked_agammaglobulinemia" title="X-linked agammaglobulinemia">X-linked agammaglobulinemia</a></li>
+<li><a href="/wiki/Transient_hypogammaglobulinemia_of_infancy" title="Transient hypogammaglobulinemia of infancy">Transient hypogammaglobulinemia of infancy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dysgammaglobulinemia" title="Dysgammaglobulinemia">Dysgammaglobulinemia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Selective_immunoglobulin_A_deficiency" title="Selective immunoglobulin A deficiency">IgA deficiency</a></li>
+<li><a href="/wiki/Selective_deficiency_of_immunoglobulin_G" title="Selective deficiency of immunoglobulin G" class="mw-redirect">IgG deficiency</a></li>
+<li><a href="/wiki/Immunoglobulin_M_deficiency" title="Immunoglobulin M deficiency" class="mw-redirect">IgM deficiency</a></li>
+<li><a href="/wiki/Hyper_IgM_syndrome" title="Hyper IgM syndrome">Hyper IgM syndrome</a> (<a href="/wiki/Hyper-IgM_syndrome_type_2" title="Hyper-IgM syndrome type 2">2</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_3" title="Hyper-IgM syndrome type 3">3</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_4" title="Hyper-IgM syndrome type 4">4</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_5" title="Hyper-IgM syndrome type 5">5</a>)</li>
+<li><a href="/wiki/Wiskott-Aldrich_syndrome" title="Wiskott-Aldrich syndrome" class="mw-redirect">Wiskott-Aldrich syndrome</a></li>
+<li><a href="/wiki/Hyperimmunoglobulin_E_syndrome" title="Hyperimmunoglobulin E syndrome">Hyper-IgE syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_variable_immunodeficiency" title="Common variable immunodeficiency">Common variable immunodeficiency</a></li>
+<li><a href="/wiki/ICF_syndrome" title="ICF syndrome" class="mw-redirect">ICF syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/T_cell_deficiency" title="T cell deficiency">T cell deficiency</a> (<a href="/wiki/T_cell" title="T cell">T</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Thymic_hypoplasia" title="Thymic hypoplasia">thymic hypoplasia</a>:</i> <i>hypoparathyroid</i> (<strong class="selflink">Di George's syndrome</strong>)</li>
+<li><i>euparathyroid</i> (<a href="/wiki/Nezelof_syndrome" title="Nezelof syndrome">Nezelof syndrome</a></li>
+<li><a href="/wiki/Ataxia_telangiectasia" title="Ataxia telangiectasia">Ataxia telangiectasia</a>)</li>
+</ul>
+<p><i>peripheral:</i> <a href="/wiki/Purine_nucleoside_phosphorylase_deficiency" title="Purine nucleoside phosphorylase deficiency">Purine nucleoside phosphorylase deficiency</a></p>
+<ul>
+<li><a href="/wiki/Hyper_IgM_syndrome" title="Hyper IgM syndrome">Hyper IgM syndrome</a> (<a href="/wiki/Hyper-IgM_syndrome_type_1" title="Hyper-IgM syndrome type 1">1</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Severe_combined_immunodeficiency" title="Severe combined immunodeficiency">Severe</a> <a href="/wiki/Combined_immunodeficiencies" title="Combined immunodeficiencies">combined</a> (B+T)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>x-linked:</i> <a href="/wiki/X-linked_severe_combined_immunodeficiency" title="X-linked severe combined immunodeficiency">X-SCID</a><br />
+<i>autosomal:</i> <a href="/wiki/Adenosine_deaminase_deficiency" title="Adenosine deaminase deficiency">Adenosine deaminase deficiency</a></li>
+<li><a href="/wiki/Omenn_syndrome" title="Omenn syndrome">Omenn syndrome</a></li>
+<li><a href="/wiki/ZAP70_deficiency" title="ZAP70 deficiency">ZAP70 deficiency</a></li>
+<li><a href="/wiki/Bare_lymphocyte_syndrome" title="Bare lymphocyte syndrome">Bare lymphocyte syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Immunodeficiency#acquired" title="Immunodeficiency">Acquired</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDS" title="AIDS" class="mw-redirect">AIDS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leukopenia" title="Leukopenia">Leukopenia</a>:<br />
+<a href="/wiki/Lymphocytopenia" title="Lymphocytopenia">Lymphocytopenia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Idiopathic_CD4%2B_lymphocytopenia" title="Idiopathic CD4+ lymphocytopenia">Idiopathic CD4+ lymphocytopenia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Complement_deficiency" title="Complement deficiency">Complement deficiency</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/C1-inhibitor" title="C1-inhibitor">C1-inhibitor</a></i> (<a href="/wiki/Angioedema" title="Angioedema">Angioedema</a>/<a href="/wiki/Hereditary_angioedema" title="Hereditary angioedema">Hereditary angioedema</a>)</li>
+<li><a href="/wiki/Complement_2_deficiency" title="Complement 2 deficiency">Complement 2 deficiency</a>/<a href="/wiki/Complement_4_deficiency" title="Complement 4 deficiency">Complement 4 deficiency</a></li>
+<li><a href="/wiki/MBL_deficiency" title="MBL deficiency">MBL deficiency</a></li>
+<li><a href="/wiki/Properdin_deficiency" title="Properdin deficiency">Properdin deficiency</a></li>
+<li><a href="/wiki/Complement_3_deficiency" title="Complement 3 deficiency">Complement 3 deficiency</a></li>
+<li><a href="/wiki/Terminal_complement_pathway_deficiency" title="Terminal complement pathway deficiency">Terminal complement pathway deficiency</a></li>
+<li><a href="/wiki/Paroxysmal_nocturnal_hemoglobinuria" title="Paroxysmal nocturnal hemoglobinuria">Paroxysmal nocturnal hemoglobinuria</a></li>
+<li><a href="/wiki/Complement_receptor_deficiency" title="Complement receptor deficiency" class="mw-redirect">Complement receptor deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lymph_immune_and_complement_navs" title="Template:Lymph immune and complement navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lymph_immune_and_complement_navs" title="Template talk:Lymph immune and complement navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lymph_immune_and_complement_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Immune_system" title="Immune system">immune system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Lymphocytic_immune_system" title="Template:Lymphocytic immune system">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Lymphocytes" title="Template:Lymphocytes">cells</a></li>
+<li><a href="/wiki/Template:Autoantigens" title="Template:Autoantigens">autoantigens</a></li>
+<li><a href="/wiki/Template:Autoantibodies" title="Template:Autoantibodies">autoantibodies</a></li>
+<li><a href="/wiki/Template:Complement_system" title="Template:Complement system">complement</a></li>
+<li><a href="/wiki/Template:Surface_antigens" title="Template:Surface antigens">surface antigens</a></li>
+<li><a href="/wiki/Template:Immunoglobulin_superfamily_immune_receptors" title="Template:Immunoglobulin superfamily immune receptors">IG receptors</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Allergic_conditions" title="Template:Allergic conditions">Allergies</a></li>
+<li><a href="/wiki/Template:Lymphoid_and_complement_immunodeficiency" title="Template:Lymphoid and complement immunodeficiency">Immunodeficiency</a></li>
+<li><a href="/wiki/Template:Immunoproliferative_immunoglobulin_disorders" title="Template:Immunoproliferative immunoglobulin disorders">Immunoproliferative immunoglobulin disorders</a></li>
+<li><a href="/wiki/Template:Hypersensitivity_and_autoimmune_diseases" title="Template:Hypersensitivity and autoimmune diseases">Hypersensitivity and autoimmune disorders</a></li>
+<li><a href="/wiki/Template:Lymphoid_malignancy" title="Template:Lymphoid malignancy">Neoplasms and cancer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Immunologic_techniques_and_tests" title="Template:Immunologic techniques and tests">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antihistamines" title="Template:Antihistamines">antihistamines</a></li>
+<li><a href="/wiki/Template:Immunostimulants" title="Template:Immunostimulants">immunostimulants</a></li>
+<li><a href="/wiki/Template:Immunosuppressants" title="Template:Immunosuppressants">immunosuppressants</a></li>
+<li><a href="/wiki/Template:Monoclonals_for_immune_system" title="Template:Monoclonals for immune system">monoclonal antibodies</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Congenital_lymphatic_organ_disorders" title="Template:Congenital lymphatic organ disorders"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Congenital_lymphatic_organ_disorders" title="Template talk:Congenital lymphatic organ disorders"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Congenital_lymphatic_organ_disorders&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Lymphatic_disease" title="Lymphatic disease">Lymphatic disease</a>: Congenital lymphatic organ disorders (<a href="/wiki/ICD-10_Chapter_Q#.28Q80.E2.80.93Q89.29_Other" title="ICD-10 Chapter Q" class="mw-redirect">Q89.0</a>/<a href="/wiki/ICD-10_Chapter_XVII:_Congenital_malformations,_deformations_and_chromosomal_abnormalities#.28Q80.E2.80.93Q89.29_Other" title="ICD-10 Chapter XVII: Congenital malformations, deformations and chromosomal abnormalities">Q89.2</a>, <a href="/wiki/List_of_ICD-9_codes_740%E2%80%93759:_congenital_anomalies#Other" title="List of ICD-9 codes 740–759: congenital anomalies">759.0/759.2</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thymus" title="Thymus">Thymus</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thymic_hypoplasia" title="Thymic hypoplasia">Thymic hypoplasia</a>
+<ul>
+<li><strong class="selflink">DiGeorge syndrome</strong></li>
+</ul>
+</li>
+<li><a href="/wiki/Ectopic_thymus" title="Ectopic thymus">Ectopic thymus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Splenic_disease" title="Splenic disease">Spleen</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Asplenia#Congenital" title="Asplenia">Congenital asplenia/hyposplenism</a>
+<ul>
+<li><a href="/wiki/Asplenia_with_cardiovascular_anomalies" title="Asplenia with cardiovascular anomalies">Asplenia with cardiovascular anomalies</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Accessory_spleen" title="Accessory spleen">Accessory spleen</a></li>
+<li><a href="/wiki/Polysplenia" title="Polysplenia">Polysplenia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lymphatic_organ_navs" title="Template:Lymphatic organ navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lymphatic_organ_navs" title="Template talk:Lymphatic organ navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lymphatic_organ_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Lymphatic_system" title="Lymphatic system">lymphatic system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Lymphatic_system_anatomy" title="Template:Lymphatic system anatomy">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Lymphoid_organs" title="Template:Lymphoid organs">organs</a></li>
+<li><a href="/wiki/Template:Lymphatic_trunks_and_ducts" title="Template:Lymphatic trunks and ducts">vessels</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Lymphocytic_immune_system" title="Template:Lymphocytic immune system">Physiology</a></li>
+<li><a href="/wiki/Template:Development_of_lymphatic_organs" title="Template:Development of lymphatic organs">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Lymphatic_vessel_disease" title="Template:Lymphatic vessel disease">Vessels</a></li>
+<li><a href="/wiki/Template:Lymphatic_organ_disease" title="Template:Lymphatic organ disease">Organs</a>
+<ul>
+<li><a href="/wiki/Template:Congenital_lymphatic_organ_disorders" title="Template:Congenital lymphatic organ disorders">congenital</a></li>
+<li><a href="/wiki/Template:Lymphatic_organ_neoplasia" title="Template:Lymphatic organ neoplasia">neoplasms and cancer</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Lymphatic_organ_procedures" title="Template:Lymphatic organ procedures">Procedures</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chromosomal_abnormalities" title="Template:Chromosomal abnormalities"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chromosomal_abnormalities" title="Template talk:Chromosomal abnormalities"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chromosomal_abnormalities&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Chromosome_abnormality" title="Chromosome abnormality">Chromosome abnormalities</a> (<a href="/wiki/ICD-10_Chapter_Q#Q90.E2.80.93Q99_.E2.80.93_Chromosomal_abnormalities.2C_not_elsewhere_classified" title="ICD-10 Chapter Q" class="mw-redirect">Q90–Q99</a>, <a href="/wiki/List_of_ICD-9_codes_740%E2%80%93759:_congenital_anomalies#Chromosomal_anomalies" title="List of ICD-9 codes 740–759: congenital anomalies">758</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Autosome" title="Autosome">Autosomal</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Trisomy" title="Trisomy">Trisomies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Down_syndrome" title="Down syndrome">Down syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_21_(human)" title="Chromosome 21 (human)">21</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Edwards_syndrome" title="Edwards syndrome">Edwards syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_18_(human)" title="Chromosome 18 (human)">18</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Patau_syndrome" title="Patau syndrome">Patau syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_13_(human)" title="Chromosome 13 (human)">13</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Trisomy_9" title="Trisomy 9">Trisomy 9</a></li>
+<li><a href="/wiki/Warkany_syndrome_2" title="Warkany syndrome 2" class="mw-redirect">Warkany syndrome 2</a>
+<ul>
+<li><a href="/wiki/Chromosome_8_(human)" title="Chromosome 8 (human)">8</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cat_eye_syndrome" title="Cat eye syndrome">Cat eye syndrome</a>/<a href="/wiki/Trisomy_22" title="Trisomy 22">Trisomy 22</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Trisomy_16" title="Trisomy 16">Trisomy 16</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Monosomy" title="Monosomy">Monosomies</a>/<a href="/wiki/Deletion_(genetics)" title="Deletion (genetics)">deletions</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1q21.1_deletion_syndrome" title="1q21.1 deletion syndrome">1q21.1 deletion syndrome</a>/<a href="/wiki/1q21.1_duplication_syndrome" title="1q21.1 duplication syndrome">1q21.1 duplication syndrome</a>/<a href="/wiki/TAR_syndrome" title="TAR syndrome">TAR syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_1_(human)" title="Chromosome 1 (human)">1</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wolf%E2%80%93Hirschhorn_syndrome" title="Wolf–Hirschhorn syndrome">Wolf–Hirschhorn syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_4_(human)" title="Chromosome 4 (human)">4</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cri_du_chat" title="Cri du chat">Cri du chat</a>/<a href="/wiki/Chromosome_5q_deletion_syndrome" title="Chromosome 5q deletion syndrome">Chromosome 5q deletion syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_5_(human)" title="Chromosome 5 (human)">5</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Williams_syndrome" title="Williams syndrome">Williams syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_7_(human)" title="Chromosome 7 (human)">7</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Jacobsen_syndrome" title="Jacobsen syndrome">Jacobsen syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_11_(human)" title="Chromosome 11 (human)">11</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Miller%E2%80%93Dieker_syndrome" title="Miller–Dieker syndrome">Miller–Dieker syndrome</a>/<a href="/wiki/Smith%E2%80%93Magenis_syndrome" title="Smith–Magenis syndrome">Smith–Magenis syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_17_(human)" title="Chromosome 17 (human)">17</a></li>
+</ul>
+</li>
+<li><strong class="selflink">DiGeorge syndrome</strong>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+<li><a href="/wiki/22q11.2_distal_deletion_syndrome" title="22q11.2 distal deletion syndrome">22q11.2 distal deletion syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+<li><a href="/wiki/22q13_deletion_syndrome" title="22q13 deletion syndrome">22q13 deletion syndrome</a>
+<ul>
+<li><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">22</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Genomic_imprinting" title="Genomic imprinting">genomic imprinting</a></i>
+<ul>
+<li><a href="/wiki/Angelman_syndrome" title="Angelman syndrome">Angelman syndrome</a>/<a href="/wiki/Prader%E2%80%93Willi_syndrome" title="Prader–Willi syndrome">Prader–Willi syndrome</a> (<a href="/wiki/Chromosome_15_(human)" title="Chromosome 15 (human)">15</a>)</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Distal_18q-" title="Distal 18q-">Distal 18q-</a>/<a href="/wiki/Proximal_18q-" title="Proximal 18q-">Proximal 18q-</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/X_chromosome" title="X chromosome">X</a>/<a href="/wiki/Y_chromosome" title="Y chromosome">Y</a> linked</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Monosomy" title="Monosomy">Monosomy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Turner_syndrome" title="Turner syndrome">Turner syndrome (45,X)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Trisomy" title="Trisomy">Trisomy</a>/<a href="/wiki/Tetrasomy" title="Tetrasomy">tetrasomy</a>,<br />
+<a href="/wiki/Aneuploidy" title="Aneuploidy">other karyotypes</a>/<a href="/wiki/Mosaic_(genetics)" title="Mosaic (genetics)">mosaics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Klinefelter_syndrome" title="Klinefelter syndrome">Klinefelter syndrome (47,XXY)</a></li>
+<li><a href="/wiki/XXYY_syndrome" title="XXYY syndrome">48,XXYY</a></li>
+<li><a href="/wiki/48,_XXXY" title="48, XXXY" class="mw-redirect">48,XXXY</a></li>
+<li><a href="/w/index.php?title=49,_XXXYY&amp;action=edit&amp;redlink=1" class="new" title="49, XXXYY (page does not exist)">49,XXXYY</a></li>
+<li><a href="/wiki/49,_XXXXY_syndrome" title="49, XXXXY syndrome">49,XXXXY</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Triple_X_syndrome" title="Triple X syndrome">Triple X syndrome (47,XXX)</a></li>
+<li><a href="/wiki/48,_XXXX" title="48, XXXX">48,XXXX</a></li>
+<li><a href="/wiki/49,_XXXXX" title="49, XXXXX">49,XXXXX</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/XYY_syndrome" title="XYY syndrome">47,XYY</a></li>
+<li><a href="/w/index.php?title=48,_XYYY&amp;action=edit&amp;redlink=1" class="new" title="48, XYYY (page does not exist)">48,XYYY</a></li>
+<li><a href="/w/index.php?title=49,_XYYYY&amp;action=edit&amp;redlink=1" class="new" title="49, XYYYY (page does not exist)">49,XYYYY</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/46,_XX/XY" title="46, XX/XY">46,XX/XY</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chromosomal_translocation" title="Chromosomal translocation">Translocations</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leukemia" title="Leukemia">Leukemia</a>/<a href="/wiki/Lymphoma" title="Lymphoma">lymphoma</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Lymphoid</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burkitt%27s_lymphoma" title="Burkitt's lymphoma">Burkitt's lymphoma</a> t(8 <a href="/wiki/Myc" title="Myc">MYC</a>;14 <a href="/wiki/IGH@" title="IGH@">IGH</a>)</li>
+<li><a href="/wiki/Follicular_lymphoma" title="Follicular lymphoma">Follicular lymphoma</a> t(14 <a href="/wiki/IGH@" title="IGH@">IGH</a>;18 <a href="/wiki/Bcl-2" title="Bcl-2">BCL2</a>)</li>
+<li><a href="/wiki/Mantle_cell_lymphoma" title="Mantle cell lymphoma">Mantle cell lymphoma</a>/<a href="/wiki/Multiple_myeloma" title="Multiple myeloma">Multiple myeloma</a> t(11 <a href="/wiki/Cyclin_D1" title="Cyclin D1">CCND1</a>:14 <a href="/wiki/IGH@" title="IGH@">IGH</a>)</li>
+<li><a href="/wiki/Anaplastic_large_cell_lymphoma" title="Anaplastic large cell lymphoma" class="mw-redirect">Anaplastic large cell lymphoma</a> t(2 <a href="/wiki/Anaplastic_lymphoma_kinase" title="Anaplastic lymphoma kinase">ALK</a>;5 <a href="/wiki/NPM1" title="NPM1">NPM1</a>)</li>
+<li><a href="/wiki/Acute_lymphoblastic_leukemia" title="Acute lymphoblastic leukemia">Acute lymphoblastic leukemia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Myeloid</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Philadelphia_chromosome" title="Philadelphia chromosome">Philadelphia chromosome</a> t(9 <a href="/wiki/Abl_gene" title="Abl gene" class="mw-redirect">ABL</a>; 22 <a href="/wiki/BCR_gene" title="BCR gene" class="mw-redirect">BCR</a>)</li>
+<li><a href="/wiki/Acute_myeloblastic_leukemia_with_maturation" title="Acute myeloblastic leukemia with maturation">Acute myeloblastic leukemia with maturation</a> t(8 <a href="/wiki/RUNX1T1" title="RUNX1T1">RUNX1T1</a>;21 <a href="/wiki/RUNX1" title="RUNX1">RUNX1</a>)</li>
+<li><a href="/wiki/Acute_promyelocytic_leukemia" title="Acute promyelocytic leukemia">Acute promyelocytic leukemia</a> t(15 <a href="/wiki/Promyelocytic_leukemia_protein" title="Promyelocytic leukemia protein">PML</a>,17 <a href="/wiki/Retinoic_acid_receptor_alpha" title="Retinoic acid receptor alpha">RARA</a>)</li>
+<li><a href="/wiki/Acute_megakaryoblastic_leukemia" title="Acute megakaryoblastic leukemia">Acute megakaryoblastic leukemia</a> t(1 <a href="/wiki/RBM15" title="RBM15">RBM15</a>;22 <a href="/wiki/MKL1" title="MKL1">MKL1</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ewing%27s_sarcoma" title="Ewing's sarcoma">Ewing's sarcoma</a> t(11 <a href="/wiki/FLI1" title="FLI1">FLI1</a>; 22 <a href="/wiki/Ewing_sarcoma_breakpoint_region_1" title="Ewing sarcoma breakpoint region 1">EWS</a>)</li>
+<li><a href="/wiki/Synovial_sarcoma" title="Synovial sarcoma">Synovial sarcoma</a> t(x <a href="/wiki/SYT" title="SYT" class="mw-redirect">SYT</a>;18 <a href="/wiki/Synovial_sarcoma,_X_breakpoint" title="Synovial sarcoma, X breakpoint">SSX</a>)</li>
+<li><a href="/wiki/Dermatofibrosarcoma_protuberans" title="Dermatofibrosarcoma protuberans">Dermatofibrosarcoma protuberans</a> t(17 <a href="/wiki/Collagen,_type_I,_alpha_1" title="Collagen, type I, alpha 1">COL1A1</a>;22 <a href="/wiki/PDGFB" title="PDGFB">PDGFB</a>)</li>
+<li><a href="/wiki/Myxoid_liposarcoma" title="Myxoid liposarcoma">Myxoid liposarcoma</a> t(12 <a href="/wiki/DNA_damage-inducible_transcript_3" title="DNA damage-inducible transcript 3">DDIT3</a>; 16 <a href="/wiki/FUS" title="FUS">FUS</a>)</li>
+<li><a href="/wiki/Desmoplastic_small_round_cell_tumor" title="Desmoplastic small round cell tumor" class="mw-redirect">Desmoplastic small round cell tumor</a> t(11 <a href="/wiki/WT1" title="WT1">WT1</a>; 22 <a href="/wiki/Ewing_sarcoma_breakpoint_region_1" title="Ewing sarcoma breakpoint region 1">EWS</a>)</li>
+<li><a href="/wiki/Alveolar_rhabdomyosarcoma" title="Alveolar rhabdomyosarcoma">Alveolar rhabdomyosarcoma</a> t(2 <a href="/wiki/PAX3" title="PAX3">PAX3</a>; 13 <a href="/wiki/FOXO1" title="FOXO1">FOXO1</a>) t (1 <a href="/wiki/PAX7" title="PAX7">PAX7</a>; 13 <a href="/wiki/FOXO1" title="FOXO1">FOXO1</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fragile_X_syndrome" title="Fragile X syndrome">Fragile X syndrome</a></li>
+<li><a href="/wiki/Uniparental_disomy" title="Uniparental disomy">Uniparental disomy</a></li>
+<li><a href="/wiki/XX_male_syndrome" title="XX male syndrome">XX male syndrome</a></li>
+<li><a href="/wiki/Ring_chromosome" title="Ring chromosome">Ring chromosome</a> (13; <a href="/wiki/Ring_chromosome_14_syndrome" title="Ring chromosome 14 syndrome">14</a>; 15; <a href="/wiki/Ring_chromosome_20_syndrome" title="Ring chromosome 20 syndrome">20</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Congenital_disease_navs" title="Template:Congenital disease navs"><span title="View this template" style="text-align:center;;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Congenital_disease_navs" title="Template talk:Congenital disease navs" class="mw-redirect"><span title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Congenital_disease_navs&amp;action=edit"><span title="Edit this template" style="text-align:center;;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Embryology" title="Embryology">developmental</a> medicine</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Embryology
+<ul>
+<li><a href="/wiki/Template:Embryology" title="Template:Embryology">foetus</a></li>
+<li><a href="/wiki/Template:Extraembryonic_and_fetal_membranes" title="Template:Extraembryonic and fetal membranes">membranes</a></li>
+</ul>
+</li>
+<li>Cell lines
+<ul>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_endoderm" title="Template:Human cell types derived primarily from endoderm">endoderm</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">mesoderm</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_ectoderm" title="Template:Human cell types derived primarily from ectoderm">ectoderm</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Congenital_malformation_due_to_exogenous_toxicity" title="Template:Congenital malformation due to exogenous toxicity">Due to toxins</a></li>
+<li><a href="/wiki/Template:Multiple_abnormalities" title="Template:Multiple abnormalities">Syndromes</a></li>
+<li><a href="/wiki/Template:Chromosomal_abnormalities" title="Template:Chromosomal abnormalities">Chromosomal</a></li>
+<li><a href="/wiki/Template:Pediatric_conditions_originating_in_the_perinatal_period" title="Template:Pediatric conditions originating in the perinatal period">Neonate</a></li>
+<li><a href="/wiki/Template:Twin_conditions" title="Template:Twin conditions">Twins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1050
+CPU time usage: 0.735 seconds
+Real time usage: 0.871 seconds
+Preprocessor visited node count: 3542/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 209311/2097152 bytes
+Template argument size: 4047/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.263/10.000 seconds
+Lua memory usage: 3.87 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  657.230      1 - -total
+ 40.38%  265.415      1 - Template:Reflist
+ 24.68%  162.211     12 - Template:Navbox
+ 20.96%  137.728     25 - Template:Cite_journal
+ 13.25%   87.051      1 - Template:Infobox_disease
+ 11.43%   75.099      1 - Template:Infobox
+ 10.25%   67.366      1 - Template:MEDREF
+  8.15%   53.570      1 - Template:Immune_disorders
+  7.19%   47.286      2 - Template:Ambox
+  5.99%   39.362      1 - Template:Chromosomal_abnormalities
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3724035-0!*!0!!en!4!* and timestamp 20150710095528 and revision id 670021040
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=DiGeorge_syndrome&amp;oldid=670021040">https://en.wikipedia.org/w/index.php?title=DiGeorge_syndrome&amp;oldid=670021040</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Autosomal_dominant_disorders" title="Category:Autosomal dominant disorders">Autosomal dominant disorders</a></li><li><a href="/wiki/Category:IUIS-PID_table_3_immunodeficiencies" title="Category:IUIS-PID table 3 immunodeficiencies">IUIS-PID table 3 immunodeficiencies</a></li><li><a href="/wiki/Category:Noninfectious_immunodeficiency-related_cutaneous_conditions" title="Category:Noninfectious immunodeficiency-related cutaneous conditions">Noninfectious immunodeficiency-related cutaneous conditions</a></li><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li><li><a href="/wiki/Category:Autosomal_monosomies_and_deletions" title="Category:Autosomal monosomies and deletions">Autosomal monosomies and deletions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:All_pages_needing_factual_verification" title="Category:All pages needing factual verification">All pages needing factual verification</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_April_2015" title="Category:Wikipedia articles needing factual verification from April 2015">Wikipedia articles needing factual verification from April 2015</a></li><li><a href="/wiki/Category:Articles_needing_additional_medical_references_from_April_2015" title="Category:Articles needing additional medical references from April 2015">Articles needing additional medical references from April 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_April_2015" title="Category:Articles lacking reliable references from April 2015">Articles lacking reliable references from April 2015</a></li><li><a href="/wiki/Category:Articles_contradicting_other_articles" title="Category:Articles contradicting other articles">Articles contradicting other articles</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2011" title="Category:Articles needing additional references from April 2011">Articles needing additional references from April 2011</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DiGeorge+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DiGeorge+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/DiGeorge_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:DiGeorge_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/DiGeorge_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/DiGeorge_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/DiGeorge_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=DiGeorge_syndrome&amp;oldid=670021040" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=DiGeorge_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q525642" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=DiGeorge_syndrome&amp;id=670021040" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=DiGeorge+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=DiGeorge+syndrome&amp;oldid=670021040&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=DiGeorge_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D8%AF%D9%8A_%D8%AC%D9%88%D8%B1%D8%AC" title="متلازمة دي جورج – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/DiGeorg%C5%AFv_syndrom" title="DiGeorgův syndrom – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Mikrodeletionssyndrom_22q11" title="Mikrodeletionssyndrom 22q11 – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_DiGeorge" title="Síndrome de DiGeorge – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Microd%C3%A9l%C3%A9tion_22q11" title="Microdélétion 22q11 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%94%94%EC%A1%B0%EC%A7%80_%EC%A6%9D%ED%9B%84%EA%B5%B0" title="디조지 증후군 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Sindrom_delesi_22q11" title="Sindrom delesi 22q11 – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_da_delezione_22q11" title="Sindrome da delezione 22q11 – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%94%D0%B8-%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC%D1%8B" title="Ди-Джордж синдромы – Kazakh" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/DiGeorge-szindr%C3%B3ma" title="DiGeorge-szindróma – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Velocardiofaciaal_syndroom" title="Velocardiofaciaal syndroom – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/22q11.2%E6%AC%A0%E5%A4%B1%E7%97%87%E5%80%99%E7%BE%A4" title="22q11.2欠失症候群 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Velo-cardio-facialt_syndrom" title="Velo-cardio-facialt syndrom – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_delecji_22q11.2" title="Zespół delecji 22q11.2 – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_DiGeorge" title="Síndrome de DiGeorge – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%94%D0%B8_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B0" title="Синдром Ди Георга – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Catch_22" title="Catch 22 – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/22q11-deletionsyndromet" title="22q11-deletionsyndromet – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%BF%AA%E5%96%AC%E6%B2%BB%E7%97%87%E5%80%99%E7%BE%A4" title="迪喬治症候群 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q525642#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 July 2015, at 07:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=DiGeorge_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1025"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Spectral shape analysis - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Spectral_shape_analysis" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Spectral_shape_analysis" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Spectral_shape_analysis" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Spectral_shape_analysis","wgTitle":"Spectral shape analysis","wgCurRevisionId":664426564,"wgRevisionId":664426564,"wgArticleId":34878672,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Image processing","Digital geometry","Topology","Differential geometry"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Spectral_shape_analysis","wgRelevantArticleId":34878672,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7575207"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Spectral_shape_analysis skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Spectral shape analysis</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Spectral <a href="/wiki/Shape_analysis_(digital_geometry)" title="Shape analysis (digital geometry)">shape analysis</a></b> relies on the spectrum (<a href="/wiki/Eigenvalue" title="Eigenvalue" class="mw-redirect">eigenvalues</a> and/or <a href="/wiki/Eigenfunction" title="Eigenfunction">eigenfunctions</a>) of the <a href="/wiki/Laplace%E2%80%93Beltrami_operator" title="Laplace–Beltrami operator">Laplace–Beltrami operator</a> to compare and analyze geometric shapes. Since the spectrum of the Laplace–Beltrami operator is invariant under <a href="/wiki/Isometry" title="Isometry">isometries</a>, it is well suited for the analysis or retrieval of non-rigid shapes, i.e. bendable objects such as humans, animals, plants, etc.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Laplace"><span class="tocnumber">1</span> <span class="toctext">Laplace</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Discretizations"><span class="tocnumber">2</span> <span class="toctext">Discretizations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Spectral_shape_descriptors"><span class="tocnumber">3</span> <span class="toctext">Spectral shape descriptors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#ShapeDNA_and_its_variants"><span class="tocnumber">3.1</span> <span class="toctext">ShapeDNA and its variants</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Global_point_signature_.28GPS.29"><span class="tocnumber">3.2</span> <span class="toctext">Global point signature (GPS)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Heat_kernel_signature_.28HKS.29"><span class="tocnumber">3.3</span> <span class="toctext">Heat kernel signature (HKS)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Spectral_Matching"><span class="tocnumber">4</span> <span class="toctext">Spectral Matching</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Laplace">Laplace</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=1" title="Edit section: Laplace">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Laplace%E2%80%93Beltrami_operator" title="Laplace–Beltrami operator">Laplace–Beltrami operator</a> is involved in many important differential equations, such as the <a href="/wiki/Heat_equation" title="Heat equation">heat equation</a> and the <a href="/wiki/Wave_equation" title="Wave equation">wave equation</a>. It can be defined on a <a href="/wiki/Riemannian_manifold" title="Riemannian manifold">Riemannian manifold</a> as the <a href="/wiki/Divergence" title="Divergence">divergence</a> of the <a href="/wiki/Gradient" title="Gradient">gradient</a> of a real-valued function <i>f</i>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\Delta f := \operatorname{div}\; \operatorname{grad} f." src="//upload.wikimedia.org/math/f/c/2/fc2b3e5bf9ef9581ec305c3a038d1393.png" /></dd>
+</dl>
+<p>Its spectral components can be computed by solving the <a href="/wiki/Helmholtz_equation" title="Helmholtz equation">Helmholtz equation</a> (or Laplacian eigenvalue problem):</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\Delta \phi_i + \lambda_i \phi_i = 0. \,
+" src="//upload.wikimedia.org/math/5/d/2/5d25d599777b33ffe0fa318cbd68f7da.png" /></dd>
+</dl>
+<p>The solutions are the eigenfunctions <img class="mwe-math-fallback-image-inline tex" alt="\phi_i" src="//upload.wikimedia.org/math/d/b/5/db530fcd7829d6cd5de4d4481525c50f.png" /> (modes) and corresponding eigenvalues <img class="mwe-math-fallback-image-inline tex" alt="\lambda_i" src="//upload.wikimedia.org/math/4/0/d/40df999cdd2cf5df4f75806b9e280679.png" />, representing a diverging sequence of positive real numbers. The first eigenvalue is zero for closed domains or when using the <a href="/wiki/Neumann_boundary_condition" title="Neumann boundary condition">Neumann boundary condition</a>. For some shapes, the spectrum can be computed analytically (e.g. rectangle, flat torus, cylinder, disk or sphere). For the sphere, for example, the eigenfunctions are the <a href="/wiki/Spherical_harmonics" title="Spherical harmonics">spherical harmonics</a>.</p>
+<p>The most important properties of the eigenvalues and eigenfunctions are that they are isometry invariants. In other words, if the shape is not stretched (e.g. a sheet of paper bent into the third dimension), the spectral values will not change. Bendable objects, like animals, plants and humans, can move into different body postures with only minimal stretching at the joints. The resulting shapes are called near-isometric and can be compared using spectral shape analysis. However, the isometric deformation of surfaces in 3D in the strict sense are rigid transformations. To characterize the actual deformation undergoing for the interest of nonrigid shape analysis, smooth deformations are introduced as an alternative family of deformation to isometry, where eigenvalues are allowed to perturb with finite error bounds.<sup id="cite_ref-ye15_1-0" class="reference"><a href="#cite_note-ye15-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Discretizations">Discretizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=2" title="Edit section: Discretizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Geometric shapes are often represented as 2D curved surfaces, 2D <a href="/wiki/Polygon_mesh" title="Polygon mesh">surface meshes</a> (usually <a href="/wiki/Triangle_mesh" title="Triangle mesh">triangle meshes</a>) or 3D solid objects (e.g. using <a href="/wiki/Voxel" title="Voxel">voxels</a> or <a href="/wiki/Tetrahedron" title="Tetrahedron">tetrahedra</a> meshes). The Helmholtz equation can be solved for all these cases. If a boundary exists, e.g. a square, or the volume of any 3D geometric shape, boundary conditions need to be specified.</p>
+<p>Several discretizations of the Laplace operator exist (see <a href="/wiki/Discrete_Laplace_operator" title="Discrete Laplace operator">Discrete Laplace operator</a>) for the different types of geometry representations. Many of these operators do not approximate well the underlying continuous operator.</p>
+<h2><span class="mw-headline" id="Spectral_shape_descriptors">Spectral shape descriptors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=3" title="Edit section: Spectral shape descriptors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="ShapeDNA_and_its_variants">ShapeDNA and its variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=4" title="Edit section: ShapeDNA and its variants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ShapeDNA is one of the first spectral shape descriptors. It is the normalized beginning sequence of the eigenvalues of the Laplace–Beltrami operator.<sup id="cite_ref-reuter05_2-0" class="reference"><a href="#cite_note-reuter05-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-reuter06_3-0" class="reference"><a href="#cite_note-reuter06-3"><span>[</span>3<span>]</span></a></sup> Its main advantages are the simple representation (a vector of numbers) and comparison, scale invariance, and in spite of its simplicity a very good performance for shape retrieval of non-rigid shapes.<sup id="cite_ref-lian11_4-0" class="reference"><a href="#cite_note-lian11-4"><span>[</span>4<span>]</span></a></sup> Competitors of shapeDNA include singular values of Geodesic Distance Matrix (SD-GDM) <sup id="cite_ref-smeets09_5-0" class="reference"><a href="#cite_note-smeets09-5"><span>[</span>5<span>]</span></a></sup> and Reduced BiHarmonic Distance Matrix (R-BiHDM).<sup id="cite_ref-ye15_1-1" class="reference"><a href="#cite_note-ye15-1"><span>[</span>1<span>]</span></a></sup> However, the eigenvalues are global descriptors, therefore the shapeDNA and other global spectral descriptors cannot be used for local or partial shape analysis.</p>
+<h3><span class="mw-headline" id="Global_point_signature_.28GPS.29">Global point signature (GPS)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=5" title="Edit section: Global point signature (GPS)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The global point signature<sup id="cite_ref-rustamov2007gps_6-0" class="reference"><a href="#cite_note-rustamov2007gps-6"><span>[</span>6<span>]</span></a></sup> at a point <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> is a vector of scaled eigenfunctions of the Laplace–Beltrami operator computed at <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> (i.e. the spectral embedding of the shape). The GPS is a global feature in the sense that it cannot be used for partial shape matching.</p>
+<h3><span class="mw-headline" id="Heat_kernel_signature_.28HKS.29">Heat kernel signature (HKS)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=6" title="Edit section: Heat kernel signature (HKS)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The heat kernel signature<sup id="cite_ref-sun2009concise_7-0" class="reference"><a href="#cite_note-sun2009concise-7"><span>[</span>7<span>]</span></a></sup> makes use of the eigen-decomposition of the <a href="/wiki/Heat_kernel" title="Heat kernel">heat kernel</a>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+h_t(x,y) = \sum_{i=0}^\infty \exp(-\lambda_i t) \phi_i(x) \phi_i(y).
+" src="//upload.wikimedia.org/math/e/c/2/ec243165603ea54b61908dcd15a18046.png" /></dd>
+</dl>
+<p>For each point on the surface the diagonal of the heat kernel <img class="mwe-math-fallback-image-inline tex" alt="h_t(x,x)" src="//upload.wikimedia.org/math/b/2/a/b2a52e816e4453390c4134e4a3eacbe3.png" /> is sampled at specific time values <img class="mwe-math-fallback-image-inline tex" alt="t_j" src="//upload.wikimedia.org/math/6/8/5/6858beecedf479241eb9787fa0b758a6.png" /> and yields a local signature that can also be used for partial matching or symmetry detection.</p>
+<h2><span class="mw-headline" id="Spectral_Matching">Spectral Matching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=7" title="Edit section: Spectral Matching">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The spectral decomposition of the graph Laplacian associated with complex shapes (see <a href="/wiki/Discrete_Laplace_operator" title="Discrete Laplace operator">Discrete Laplace operator</a>) provides eigenfunctions (modes) which are invariant to isometries. Each vertex on the shape could be uniquely represented with a combinations of the eigenmodal values at each point, sometimes called spectral coordinates:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+s(x) = \left(\phi_1(x), \phi_2(x), ..., \phi_N(x)\right)" src="//upload.wikimedia.org/math/3/6/d/36d0271eec3910704ba55a79d8b070ab.png" /> &#160; for vertex <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />.</dd>
+</dl>
+<p>Spectral matching consists of establishing the point correspondences by pairing vertices on different shapes that have the most similar spectral coordinates. Early work <sup id="cite_ref-umeyama88_8-0" class="reference"><a href="#cite_note-umeyama88-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-scott_longuet91_9-0" class="reference"><a href="#cite_note-scott_longuet91-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-shapiro_brady92_10-0" class="reference"><a href="#cite_note-shapiro_brady92-10"><span>[</span>10<span>]</span></a></sup> focused on sparse correspondences for stereoscopy. Computational efficiency now enables dense correspondences on full meshes, for instance between cortical surfaces.<sup id="cite_ref-lombaert13_11-0" class="reference"><a href="#cite_note-lombaert13-11"><span>[</span>11<span>]</span></a></sup> Spectral matching could also be used for complex non-rigid image registration, which is notably difficult when images have very large deformations.<sup id="cite_ref-lombaert14_12-0" class="reference"><a href="#cite_note-lombaert14-12"><span>[</span>12<span>]</span></a></sup> Such image registration methods based on spectral eigenmodal values indeed capture <i>global</i> shape characteristics, and contrast with conventional non-rigid image registration methods which are often based on local shape characteristics (e.g., image gradients).</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-ye15-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ye15_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ye15_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Ye, J. and Yu, Y. (2015). "A fast modal space transform for robust nonrigid shape retrieval". <i>The Visual Computer, Springer</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00371-015-1071-5">10.1007/s00371-015-1071-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=A+fast+modal+space+transform+for+robust+nonrigid+shape+retrieval&amp;rft.aulast=Ye%2C+J.+and+Yu%2C+Y.&amp;rft.au=Ye%2C+J.+and+Yu%2C+Y.&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs00371-015-1071-5&amp;rft.jtitle=The+Visual+Computer%2C+Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-reuter05-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-reuter05_2-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Reuter, M. and Wolter, F.-E. and Peinecke, N. (2005). <a rel="nofollow" class="external text" href="http://dx.doi.org/10.1145/1060244.1060256">"Laplace-Spectra as Fingerprints for Shape Matching"</a>. <i>Proceedings of the 2005 ACM Symposium on Solid and Physical Modeling</i>. pp.&#160;101–106.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=Laplace-Spectra+as+Fingerprints+for+Shape+Matching&amp;rft.aulast=Reuter%2C+M.+and+Wolter%2C+F.-E.+and+Peinecke%2C+N.&amp;rft.au=Reuter%2C+M.+and+Wolter%2C+F.-E.+and+Peinecke%2C+N.&amp;rft.btitle=Proceedings+of+the+2005+ACM+Symposium+on+Solid+and+Physical+Modeling&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1145%2F1060244.1060256&amp;rft.pages=101-106&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-reuter06-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-reuter06_3-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Reuter, M. and Wolter, F.-E. and Peinecke, N. (2006). "Laplace–Beltrami spectra as Shape-DNA of surfaces and solids". <i>Computer-Aided Design</i> <b>38</b> (4): 342–366. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.cad.2005.10.011">10.1016/j.cad.2005.10.011</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=Laplace%E2%80%93Beltrami+spectra+as+Shape-DNA+of+surfaces+and+solids&amp;rft.aulast=Reuter%2C+M.+and+Wolter%2C+F.-E.+and+Peinecke%2C+N.&amp;rft.au=Reuter%2C+M.+and+Wolter%2C+F.-E.+and+Peinecke%2C+N.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cad.2005.10.011&amp;rft.issue=4&amp;rft.jtitle=Computer-Aided+Design&amp;rft.pages=342-366&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lian11-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-lian11_4-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Lian, Z. et al. (2011). "SHREC'11 track: shape retrieval on non-rigid 3D watertight meshes". <i>Proceedings of the Eurographics 2011 Workshop on 3D Object Retrieval (3DOR'11)</i>. pp.&#160;79–88. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2312%2F3DOR%2F3DOR11%2F079-088">10.2312/3DOR/3DOR11/079-088</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=SHREC%2711+track%3A+shape+retrieval+on+non-rigid+3D+watertight+meshes&amp;rft.aulast=Lian%2C+Z.&amp;rft.au=Lian%2C+Z.&amp;rft.btitle=Proceedings+of+the+Eurographics+2011+Workshop+on+3D+Object+Retrieval+%283DOR%2711%29&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.2312%2F3DOR%2F3DOR11%2F079-088&amp;rft.pages=79-88&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-smeets09-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-smeets09_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Smeets,D. and Fabry,T. and Hermans,J. and Vandermeulen,D. and Suetens,P. (2009). "Isometric deformation modelling for object recognition.". <i>CAIP 2009, LNCS 5702,</i>: 757–765.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=Isometric+deformation+modelling+for+object+recognition.&amp;rft.aulast=Smeets%2CD.+and+Fabry%2CT.+and+Hermans%2CJ.+and+Vandermeulen%2CD.+and+Suetens%2CP.&amp;rft.au=Smeets%2CD.+and+Fabry%2CT.+and+Hermans%2CJ.+and+Vandermeulen%2CD.+and+Suetens%2CP.&amp;rft.date=2009&amp;rft.genre=article&amp;rft.jtitle=CAIP+2009%2C+LNCS+5702%2C&amp;rft.pages=757-765&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-rustamov2007gps-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-rustamov2007gps_6-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Rustamov, R.M. (July 4, 2007). "Laplace–Beltrami eigenfunctions for deformation invariant shape representation". <i>Proceedings of the fifth Eurographics symposium on Geometry processing</i>. Eurographics Association. pp.&#160;225–233. <q>978-3-905673-46-3</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=Laplace%E2%80%93Beltrami+eigenfunctions+for+deformation+invariant+shape+representation&amp;rft.aulast=Rustamov%2C+R.M.&amp;rft.au=Rustamov%2C+R.M.&amp;rft.btitle=Proceedings+of+the+fifth+Eurographics+symposium+on+Geometry+processing&amp;rft.date=July+4%2C+2007&amp;rft.genre=bookitem&amp;rft.pages=225-233&amp;rft.pub=Eurographics+Association&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-sun2009concise-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-sun2009concise_7-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Sun, J. and Ovsjanikov, M. and Guibas, L. (2009). "A Concise and Provably Informative Multi-Scale Signature-Based on Heat Diffusion". <i>Computer Graphics Forum</i> <b>28</b> (5). pp.&#160;1383–1392.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=A+Concise+and+Provably+Informative+Multi-Scale+Signature-Based+on+Heat+Diffusion&amp;rft.aulast=Sun%2C+J.+and+Ovsjanikov%2C+M.+and+Guibas%2C+L.&amp;rft.au=Sun%2C+J.+and+Ovsjanikov%2C+M.+and+Guibas%2C+L.&amp;rft.btitle=Computer+Graphics+Forum&amp;rft.date=2009&amp;rft.genre=bookitem&amp;rft.issue=5&amp;rft.pages=1383-1392&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-umeyama88-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-umeyama88_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Umeyama, S (1988). "An eigendecomposition approach to weighted graph matching problems". <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> <b>10</b> (5): 695–703. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F34.6778">10.1109/34.6778</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=An+eigendecomposition+approach+to+weighted+graph+matching+problems&amp;rft.aulast=Umeyama%2C+S&amp;rft.au=Umeyama%2C+S&amp;rft.date=1988&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2F34.6778&amp;rft.issue=5&amp;rft.jtitle=IEEE+Transactions+on+Pattern+Analysis+and+Machine+Intelligence&amp;rft.pages=695-703&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-scott_longuet91-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-scott_longuet91_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Scott, GL and Longuet-Higgins, HC (1991). "An algorithm for associating the features of two images". <i>Royal Society Biological Sciences</i> <b>244</b> (1309): 21–26. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1098%2Frspb.1991.0045">10.1098/rspb.1991.0045</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=An+algorithm+for+associating+the+features+of+two+images&amp;rft.aulast=Scott%2C+GL+and+Longuet-Higgins%2C+HC&amp;rft.au=Scott%2C+GL+and+Longuet-Higgins%2C+HC&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1098%2Frspb.1991.0045&amp;rft.issue=1309&amp;rft.jtitle=Royal+Society+Biological+Sciences&amp;rft.pages=21-26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=244" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-shapiro_brady92-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-shapiro_brady92_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Shapiro, LS and Brady, JM (1992). "Feature-based correspondence: an eigenvector approach". <i>Image and Vision Computing</i> <b>10</b> (5): 283–288. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0262-8856%2892%2990043-3">10.1016/0262-8856(92)90043-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=Feature-based+correspondence%3A+an+eigenvector+approach&amp;rft.aulast=Shapiro%2C+LS+and+Brady%2C+JM&amp;rft.au=Shapiro%2C+LS+and+Brady%2C+JM&amp;rft.date=1992&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0262-8856%2892%2990043-3&amp;rft.issue=5&amp;rft.jtitle=Image+and+Vision+Computing&amp;rft.pages=283-288&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lombaert13-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-lombaert13_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Lombaert, H and Grady, L and Polimeni, JR and Cheriet, F (2013). "FOCUSR: Feature Oriented Correspondence using Spectral Regularization - A Method for Precise Surface Matching". <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> <b>35</b> (9): 2143–2160. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2Ftpami.2012.276">10.1109/tpami.2012.276</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=FOCUSR%3A+Feature+Oriented+Correspondence+using+Spectral+Regularization+-+A+Method+for+Precise+Surface+Matching&amp;rft.aulast=Lombaert%2C+H+and+Grady%2C+L+and+Polimeni%2C+JR+and+Cheriet%2C+F&amp;rft.au=Lombaert%2C+H+and+Grady%2C+L+and+Polimeni%2C+JR+and+Cheriet%2C+F&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1109%2Ftpami.2012.276&amp;rft.issue=9&amp;rft.jtitle=IEEE+Transactions+on+Pattern+Analysis+and+Machine+Intelligence&amp;rft.pages=2143-2160&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=35" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lombaert14-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-lombaert14_12-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Lombaert, H and Grady, L and Pennec, X and Ayache, N and Cheriet, F (2014). "Spectral Log-Demons - Diffeomorphic Image Registration with Very Large Deformations". <i>International Journal of Computer Vision</i> <b>107</b> (3): 254–271. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs11263-013-0681-5">10.1007/s11263-013-0681-5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASpectral+shape+analysis&amp;rft.atitle=Spectral+Log-Demons+-+Diffeomorphic+Image+Registration+with+Very+Large+Deformations&amp;rft.aulast=Lombaert%2C+H+and+Grady%2C+L+and+Pennec%2C+X+and+Ayache%2C+N+and+Cheriet%2C+F&amp;rft.au=Lombaert%2C+H+and+Grady%2C+L+and+Pennec%2C+X+and+Ayache%2C+N+and+Cheriet%2C+F&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs11263-013-0681-5&amp;rft.issue=3&amp;rft.jtitle=International+Journal+of+Computer+Vision&amp;rft.pages=254-271&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=107" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1040
+CPU time usage: 0.160 seconds
+Real time usage: 1.163 seconds
+Preprocessor visited node count: 620/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20666/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 2.27 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   95.338      1 - -total
+ 79.96%   76.234      8 - Template:Cite_journal
+ 18.71%   17.833      4 - Template:Cite_conference
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34878672-0!*!0!!en!*!*!math=0 and timestamp 20150628014349 and revision id 664426564
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Spectral_shape_analysis&amp;oldid=664426564">https://en.wikipedia.org/w/index.php?title=Spectral_shape_analysis&amp;oldid=664426564</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Image_processing" title="Category:Image processing">Image processing</a></li><li><a href="/wiki/Category:Digital_geometry" title="Category:Digital geometry">Digital geometry</a></li><li><a href="/wiki/Category:Topology" title="Category:Topology">Topology</a></li><li><a href="/wiki/Category:Differential_geometry" title="Category:Differential geometry">Differential geometry</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectral+shape+analysis&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Spectral+shape+analysis" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Spectral_shape_analysis"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Spectral_shape_analysis&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Spectral_shape_analysis" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Spectral_shape_analysis" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Spectral_shape_analysis" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Spectral_shape_analysis&amp;oldid=664426564" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Spectral_shape_analysis&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7575207" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Spectral_shape_analysis&amp;id=664426564" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Spectral+shape+analysis">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Spectral+shape+analysis&amp;oldid=664426564&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Spectral_shape_analysis&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D8%A7%D9%84%D8%B7%D9%8A%D9%81%D9%8A" title="تحليل الشكل الطيفي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7575207#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 May 2015, at 15:08.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Spectral_shape_analysis&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1251"});
+}</script>
+	</body>
+</html>

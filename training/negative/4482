@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Solar micro-inverter - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Solar_micro-inverter" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Solar_micro-inverter&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Solar_micro-inverter&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Solar_micro-inverter" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Solar_micro-inverter" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Solar_micro-inverter","wgTitle":"Solar micro-inverter","wgCurRevisionId":660524484,"wgRevisionId":660524484,"wgArticleId":22149570,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2014","All articles containing potentially dated statements","Pages containing cite templates with deprecated parameters","Use dmy dates from March 2011","Electrical power conversion","Photovoltaics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Solar_micro-inverter","wgRelevantArticleId":22149570,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Enphase_M190.jpg/100px-Enphase_M190.jpg","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7556716"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Solar_micro-inverter skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Solar micro-inverter</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Enphase_M190.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Enphase_M190.jpg/300px-Enphase_M190.jpg" width="300" height="224" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Enphase_M190.jpg/450px-Enphase_M190.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Enphase_M190.jpg/600px-Enphase_M190.jpg 2x" data-file-width="2592" data-file-height="1936" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Enphase_M190.jpg" class="internal" title="Enlarge"></a></div>
+A solar micro-inverter.</div>
+</div>
+</div>
+<p>A <b>solar micro-inverter</b>, or simply <b>microinverter</b>, is a device used in <a href="/wiki/Photovoltaics" title="Photovoltaics">photovoltaics</a> that converts <a href="/wiki/Direct_current" title="Direct current">direct current</a> (DC) generated by a single <a href="/wiki/Solar_module" title="Solar module" class="mw-redirect">solar module</a> to <a href="/wiki/Alternating_current" title="Alternating current">alternating current</a> (AC). The output from several microinverters is combined and often fed to the <a href="/wiki/Electrical_grid" title="Electrical grid">electrical grid</a>. Microinverters contrast with conventional string and central <a href="/wiki/Solar_inverter" title="Solar inverter">solar inverters</a>, which are connected to multiple solar modules or panels of the <a href="/wiki/PV_system" title="PV system" class="mw-redirect">PV system</a>.</p>
+<p>Microinverters have several advantages over conventional inverters. The main advantage is that small amounts of <a href="/wiki/Photovoltaic_system#Shading_and_dirt" title="Photovoltaic system">shading, debris or snow lines</a> on any one solar module, or even a complete module failure, do not disproportionately reduce the output of the entire array. Each microinverter harvests optimum power by performing <a href="/wiki/Maximum_power_point_tracking" title="Maximum power point tracking">maximum power point tracking</a> for its connected module.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Simplicity in system design, simplified stock management, and added safety are other factors introduced with the microinverter solution.</p>
+<p>The primary disadvantages of a microinverter include a higher initial equipment <a href="/wiki/Cost_per_watt" title="Cost per watt" class="mw-redirect">cost per peak watt</a> than the equivalent power of a central inverter, and increased installation time since each inverter needs to be installed adjacent to a panel (usually on a roof). This also makes them harder to maintain and more costly to remove and replace (O&amp;M). Some manufacturers have addressed these issues with panels with built-in microinverters.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>A type of technology similar to a microinverter is a <a href="/wiki/Power_optimizer" title="Power optimizer">power optimizer</a> which also does panel-level <a href="/wiki/Maximum_power_point_tracking" title="Maximum power point tracking">maximum power point tracking</a>, but does not convert to AC per module.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Solar_inverter"><span class="tocnumber">1.1</span> <span class="toctext">Solar inverter</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Microinverter_concept"><span class="tocnumber">1.2</span> <span class="toctext">Microinverter concept</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Disadvantages"><span class="tocnumber">1.3</span> <span class="toctext">Disadvantages</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Three-phase_microinverters"><span class="tocnumber">1.4</span> <span class="toctext">Three-phase microinverters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Early_examples"><span class="tocnumber">2.1</span> <span class="toctext">Early examples</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Enphase"><span class="tocnumber">2.2</span> <span class="toctext">Enphase</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Competition"><span class="tocnumber">2.3</span> <span class="toctext">Competition</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Price_issues"><span class="tocnumber">2.4</span> <span class="toctext">Price issues</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Solar_inverter">Solar inverter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=2" title="Edit section: Solar inverter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></div>
+<p>Solar panels produce <a href="/wiki/Direct_current" title="Direct current">direct current</a> at a voltage that depends on module design and lighting conditions. Modern modules using 6-inch cells typically contain 60 cells and produce a nominal 30 volts.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> For conversion into AC, panels are connected in series to produce an array that is effectively a single large panel with a nominal rating of 300 to 600 VDC.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>a<span>]</span></a></sup> The power then runs to an inverter, which converts it into standard AC voltage, typically 230VAC/50Hz or 240VAC/60Hz.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>4<span>]</span></a></sup></p>
+<p>The main problem with the "string inverter" approach is the string of panels acts as if it were a single larger panel with a max current rating equivalent to the poorest performer in the string. For example, if one panel in a string has 5% higher resistance due to a minor manufacturing defect, the entire string suffers a 5% performance loss. This situation is dynamic. If a panel is shaded its output drops dramatically, affecting the output of the string, even if the other panels are not shaded. Even slight changes in orientation can cause output loss in this fashion. In the industry, this is known as the "Christmas-lights effect", referring to the way an entire string of series-strung Christmas tree lights will fail if a single bulb fails.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>5<span>]</span></a></sup> However, this effect is not entirely accurate and ignores the complex interaction between modern string inverter maximum power point tracking and even module bypass diodes. Shade studies by major micro inverter and DC optimizer companies show small yearly gains in light, medium and heavy shaded conditions- 2%, 5% and 8% respectively- over an older SMA string inverter.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>6<span>]</span></a></sup></p>
+<p>Additionally, the efficiency of a panel's output is strongly affected by the load the inverter places on it. To maximize production, inverters use a technique called <a href="/wiki/Maximum_power_point_tracking" title="Maximum power point tracking">maximum power point tracking</a> (MPPT) to ensure optimal energy harvest by adjusting the applied load. However, the same issues that cause output to vary from panel to panel, affect the proper load that the MPPT system should apply. If a single panel operates at a different point, a string inverter can only see the overall change, and moves the MPPT point to match. This results in not just losses from the shadowed panel, but the other panels too. Shading of as little as 9% of the surface of an array can, in some circumstances, reduce system-wide power as much as 54%.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>8<span>]</span></a></sup> However, as stated above, these yearly yield losses are relatively small and newer technologies allow some string inverters to significantly reduce the effects of partial shading.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>9<span>]</span></a></sup></p>
+<p>Another issue, though minor, is that string inverters are available in a limited selection of power ratings. This means that a given array normally up-sizes the inverter to the next-largest model over the rating of the panel array. For instance, a 10-panel array of 2300&#160;W might have to use a 2500 or even 3000&#160;W inverter, paying for conversion capability it cannot use. This same issue makes it difficult to change array size over time, adding power when funds are available. If the customer originally purchased a 2500&#160;W inverter for their 2300&#160;W of panels, they cannot add even a single panel without over-driving the inverter. However, this over sizing is considered common practice in today's industry (sometimes as high as 20% over inverter nameplate rating) to account for module degradation, higher performance during winter months or to achieve higher sell back to the utility.</p>
+<p>Other challenges associated with centralized inverters include the space required to locate the device, as well as heat dissipation requirements. Large central inverters are typically actively cooled. Cooling fans make noise, so location of the inverter relative to offices and occupied areas must be considered. String inverters are quieter but might produce a humming noise early morning or late afternoon when inverter power is low.</p>
+<h3><span class="mw-headline" id="Microinverter_concept">Microinverter concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=3" title="Edit section: Microinverter concept">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Microinverters are small inverters rated to handle the output of a single panel. Modern grid-tie panels are normally rated between 225 and 275W, but rarely produce this in practice, so microinverters are typically rated between 190 and 220&#160;W. Because it is operated at this lower power point, many design issues inherent to larger designs simply go away; the need for a large <a href="/wiki/Transformer" title="Transformer">transformer</a> is generally eliminated, large <a href="/wiki/Electrolytic_capacitor" title="Electrolytic capacitor">electrolytic capacitors</a> can be replaced by more reliable thin-film capacitors, and cooling loads are reduced so no fans are needed. Mean time between failures (MTBF) are quoted in hundreds of years.<sup id="cite_ref-M190_11-0" class="reference"><a href="#cite_note-M190-11"><span>[</span>10<span>]</span></a></sup></p>
+<p>More importantly, a microinverter attached to a single panel allows it to isolate and tune the output of that panel. For example, in the same 10-panel array used as an example above, with microinverters any panel that is under-performing has no effect on panels around it. In that case, the array as a whole produces as much as 5% more power than it would with a string inverter. When shadowing is factored in, if present, these gains can become considerable, with manufacturers generally claiming 5% better output at a minimum, and up to 25% better in some cases.<sup id="cite_ref-M190_11-1" class="reference"><a href="#cite_note-M190-11"><span>[</span>10<span>]</span></a></sup> Furthermore,a single model can be used with a wide variety of panels, new panels can be added to an array at any time, and do not have to have the same rating as existing panels.</p>
+<p>Microinverters produce grid-matching power directly at the back of the panel. Arrays of panels are connected in parallel to each other, and then to the grid. This has the major advantage that a single failing panel or inverter cannot take the entire string offline. Combined with the lower power and heat loads, and improved MTBF, some suggest that overall array reliability of a microinverter-based system is significantly greater than a string inverter-based one. This assertion is supported by longer warranties, typically 15 to 25 years, compared with 5 or 10 year warranties that are more typical for string inverters. Additionally, when faults occur, they are identifiable to a single point, as opposed to an entire string. This not only makes fault isolation easier, but unmasks minor problems that might not otherwise become visible – a single under-performing panel may not affect a long string's output enough to be noticed.</p>
+<h3><span class="mw-headline" id="Disadvantages">Disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=4" title="Edit section: Disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main disadvantage of the microinverter concept has, until recently, been cost. Because each microinverter has to duplicate much of the complexity of a string inverter but spread that out over a smaller power rating, costs on a per-watt basis are greater. This offsets any advantage in terms of simplification of individual components. As of October 2010, a central inverter costs approximately $0.40 per watt, whereas a microinverter costs approximately $0.52 per watt.<sup id="cite_ref-forbes_12-0" class="reference"><a href="#cite_note-forbes-12"><span>[</span>11<span>]</span></a></sup> Like string inverters, economic considerations force manufacturers to limit the number of models they produce. Most produce a single model that may be over or under-size when matched with a specific panel.</p>
+<p>In many cases the packaging can have a significant effect on price. With a central inverter you may have only one set of panel connections for dozens of panels, a single AC output. and one box. With microinverters, each one has to have its own set of inputs and outputs, in its own box. Because that box is on the roof, it has to be sealed and weatherproofed. This can represent a significant portion of the overall price-per-watt at the low prices microinverters have to sell at. To reduce the overhead, some models control two or three panels from a single box, reducing the packaging and associated costs. Some systems simply place two entire micros in a single box, while others duplicate only the MPPT section of the system and use a single DC-to-AC stage for further cost reductions. Some have suggested that this approach will make microinverters comparable in cost with those using string inverters.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>12<span>]</span></a></sup> With steadily decreasing prices, the introduction of dual microinverters and the advent of wider<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>13<span>]</span></a></sup> model selections to match PV module output more closely, cost is less of an obstacle so microinverters may now spread more widely.</p>
+<p>Microinverters have become common where array sizes are small and maximizing performance from every panel is a concern. In these cases, differential in price-per-watt is minimized due to the small number of panels, and has little effect on overall system cost. The improvement in energy harvest given a fixed size array can offset this difference in cost. For this reason, microinverters have been most successful in the residential market, where limited space for panels constrains array size, and shading from nearby trees or other objects is often an issue. Microinverter manufacturers list many installations, some as small as a single panel and the majority under 50.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>14<span>]</span></a></sup></p>
+<p>An often overlooked disadvantage is the future O&amp;M costs associated with micro inverters. While the technology has improved over the years the fact remains that the devices will eventually either fail or wear out. The installer must balance these replacement costs (around $400 per truck roll), increased safety risks to personnel, equipment and module racking against the profit margins for the installation. For homeowners, the eventual wear out or premature device failures will introduce potential damage to the roof tiles or shingles, property damage and other nuisances.</p>
+<h3><span class="mw-headline" id="Three-phase_microinverters">Three-phase microinverters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=5" title="Edit section: Three-phase microinverters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Efficient conversion of DC power to AC requires the inverter to store energy from the panel while the grid's AC voltage is near zero, and then release it again when it rises. This requires considerable amounts of energy storage in a small package. The lowest-cost option for the required amount of storage is the electrolytic capacitor, but these have relatively short lifetimes normally measured in years, and those lifetimes are shorter when operated hot, like on a rooftop solar panel. This has led to considerable development effort on the part of microinverter developers, who have introduced a variety of conversion topologies with lowered storage requirements, some using the much less capable but far longer lived film capacitors where possible.</p>
+<p><a href="/wiki/Three-phase_electric_power" title="Three-phase electric power">Three-phase electric power</a> represents another solution to the problem. In a three-phase circuit, the power does not vary between (say) +120 to -120&#160;Volts between two lines, but instead varies between 60 and +120 or -60 and -120V, and the periods of variation are much shorter. Inverters designed to operate on three phase systems require much less storage.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>16<span>]</span></a></sup> A three-phase micro using zero-voltage switching can also offer higher circuit density and lower cost components, while improving conversion efficiency to over 98%, better than the typical one-phase peak around 96%.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>17<span>]</span></a></sup></p>
+<p>Three-phase systems, however, are generally only seen in industrial and commercial settings. These markets normally install larger arrays, where price sensitivity is the highest. Uptake of three-phase micros, in spite of any theoretical advantages, appears to be very low.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=6" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The microinverter concept has been in the solar industry since its inception. However, flat costs in manufacturing, like the cost of the transformer or enclosure, scaled favorably with size, and meant that larger devices were inherently less expensive in terms of <a href="/wiki/Price_per_watt" title="Price per watt">price per watt</a>. Small inverters were available from companies like ExelTech and others, but these were simply small versions of larger designs with poor price performance, and were aimed at niche markets.</p>
+<h3><span class="mw-headline" id="Early_examples">Early examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=7" title="Edit section: Early examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sunmaster_130.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunmaster_130.jpg/220px-Sunmaster_130.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunmaster_130.jpg/330px-Sunmaster_130.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sunmaster_130.jpg/440px-Sunmaster_130.jpg 2x" data-file-width="850" data-file-height="850" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sunmaster_130.jpg" class="internal" title="Enlarge"></a></div>
+Released in 1993, Mastervolt's Sunmaster 130S was the first true microinverter.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:OK4E-100.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OK4E-100.jpg/220px-OK4E-100.jpg" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OK4E-100.jpg/330px-OK4E-100.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OK4E-100.jpg/440px-OK4E-100.jpg 2x" data-file-width="490" data-file-height="340" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:OK4E-100.jpg" class="internal" title="Enlarge"></a></div>
+Another early microinverter, 1995's OK4E-100 – E for European, 100 for 100 watts.</div>
+</div>
+</div>
+<p>In 1991 the US company Ascension Technology started work on what was essentially a shrunken version of a traditional inverter, intended to be mounted on a panel to form an <i>AC panel</i>. This design was based on the conventional linear regulator, which is not particularly efficient and dissipates considerable heat. In 1994 they sent an example to <a href="/wiki/Sandia_Labs" title="Sandia Labs" class="mw-redirect">Sandia Labs</a> for testing.<sup id="cite_ref-k3_19-0" class="reference"><a href="#cite_note-k3-19"><span>[</span>18<span>]</span></a></sup> In 1997, Ascension partnered with US panel company ASE Americas to introduce the 300&#160;W SunSine panel.<sup id="cite_ref-k4_20-0" class="reference"><a href="#cite_note-k4-20"><span>[</span>19<span>]</span></a></sup></p>
+<p>Design of, what would today be recognized as a "true" microinverter, traces its history to late 1980s work by Werner Kleinkauf at the ISET (<i>Institut für Solare Energieversorgungstechnik</i>), now <a href="/wiki/Fraunhofer_Society" title="Fraunhofer Society">Fraunhofer</a> Institute for Wind Energy and Energy System Technology. These designs were based on modern high-frequency switching power supply technology, which is much more efficient. His work on "module integrated converters" was highly influential, especially in Europe.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>20<span>]</span></a></sup></p>
+<p>In 1993 Mastervolt introduced their first <a href="/wiki/Grid-tie_inverter" title="Grid-tie inverter">grid-tie inverter</a>, the Sunmaster 130S, based on a collaborative effort between Shell Solar, Ecofys and ECN. The 130 was designed to mount directly to the back of the panel, connecting both AC and DC lines with <a href="/wiki/Compression_fitting" title="Compression fitting">compression fittings</a>. In 2000, the 130 was replaced by the Soladin 120, a microinverter in the form of an <a href="/wiki/AC_adapter" title="AC adapter">AC adapter</a> that allows panels to be connected simply by plugging them into any <a href="/wiki/AC_power_plugs_and_sockets" title="AC power plugs and sockets">wall socket</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>21<span>]</span></a></sup></p>
+<p>In 1995, OKE-Services designed a new high-frequency version with improved efficiency, which was introduced commercially as the OK4-100 in 1995 by NKF Kabel, and re-branded for US sales as the Trace Microsine.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>22<span>]</span></a></sup> A new version, the OK4All, improved efficiency and had wider operating ranges.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>23<span>]</span></a></sup></p>
+<p>In spite of this promising start, by 2003 most of these projects had ended. Ascension Technology was purchased by Applied Power Corporation, a large integrator. APC was in turn purchased by <a href="/wiki/Schott_AG" title="Schott AG">Schott</a> in 2002, and SunSine production was canceled in favor of Schott's existing designs.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>24<span>]</span></a></sup> NKF ended production of the OK4 series in 2003 when a subsidy program ended.<sup id="cite_ref-k7_26-0" class="reference"><a href="#cite_note-k7-26"><span>[</span>25<span>]</span></a></sup> Mastervolt has moved on to a line of "mini-inverters" combining the ease-of-use of the 120 in a system designed to support up to 600 W of panels.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>26<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Enphase">Enphase</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=8" title="Edit section: Enphase">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the aftermath of the 2001 <a href="/wiki/Telecoms_crash" title="Telecoms crash">Telecoms crash</a>, Martin Fornage of <a href="/wiki/Cerent_Corporation" title="Cerent Corporation">Cerent Corporation</a> was looking for new projects. When he saw the low performance of the string inverter for the solar array on his ranch, he found the project he was looking for. In 2006 he formed <a href="/wiki/Enphase_Energy" title="Enphase Energy">Enphase Energy</a> with another Cerent engineer, Raghu Belur, and they spent the next year applying their telecommunications design expertise to the inverter problem.<sup id="cite_ref-forbes_12-1" class="reference"><a href="#cite_note-forbes-12"><span>[</span>11<span>]</span></a></sup></p>
+<p>Released in 2008, the Enphase M175 model was the first commercially successful microinverter. A successor, the M190, was introduced in 2009, and the latest model, the M215, in 2011. Backed by $100 million in private equity, Enphase quickly grew to 13% marketshare by mid-2010, aiming for 20% by year-end.<sup id="cite_ref-forbes_12-2" class="reference"><a href="#cite_note-forbes-12"><span>[</span>11<span>]</span></a></sup> They shipped their 500,000th inverter in early 2011,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>27<span>]</span></a></sup> and their 1,000,000th in September of the same year.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>28<span>]</span></a></sup> In early 2011, they announced that re-branded versions of the new design will be sold by <a href="/wiki/Siemens" title="Siemens">Siemens</a> directly to electrical contractors for widespread distribution.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>29<span>]</span></a></sup></p>
+<p>Enphase has subscribed an agreement with <a href="/wiki/EnergyAustralia" title="EnergyAustralia">EnergyAustralia</a>, to market its micro-inverter technology.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>30<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Competition">Competition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=9" title="Edit section: Competition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Enphase's success did not go unnoticed, and since 2010 a host of competitors have appeared. Many of these are identical to the M190 in specs, and even in the casing and mounting details.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>31<span>]</span></a></sup> Some differentiate by competing head-to-head with Enphase in terms of price or performance,<sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>32<span>]</span></a></sup> while others are attacking niche markets.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>33<span>]</span></a></sup></p>
+<p>Larger firms have also stepped into the field; OKE-Services updated OK4-All product was recently bought by <a href="/wiki/SMA_Solar_Technology" title="SMA Solar Technology">SMA</a> and released as the SunnyBoy 240 after an extended gestation period,<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>34<span>]</span></a></sup> while Power-One has introduced the AURORA 250 and 300.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>35<span>]</span></a></sup> Other major players included <a href="/w/index.php?title=Enecsys&amp;action=edit&amp;redlink=1" class="new" title="Enecsys (page does not exist)">Enecsys</a><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>b<span>]</span></a></sup> and SolarBridge, especially outside the North American market. The only USA made microinverter in production is from Chilicon Power. Since 2009, several companies from Europe to China, including major central inverter manufacturers, have launched microinverters—validating the microinverter as an established technology and one of the biggest technology shifts in the PV industry in recent years.<sup id="cite_ref-green_38-0" class="reference"><a href="#cite_note-green-38"><span>[</span>36<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Price_issues">Price issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=10" title="Edit section: Price issues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The period between 2009 and 2012 included unprecedented downward price movement in the PV market. At the beginning of this period, panels were generally around $2.00 to $2.50/W, and inverters around 50 to 65 cents/W. By the end of 2012, panels were widely available in wholesale at 65 to 70 cents, and string inverters around 30 to 35 cents/W.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>37<span>]</span></a></sup> In comparison, microinverters have proven relatively immune to these same sorts of price declines, moving from about 65 cents/W to 50 to 55 once cabling is factored in. This has led to widening losses as the suppliers attempt to remain competitive.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>38<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Wind-turbine-icon.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/28px-Wind-turbine-icon.svg.png" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/42px-Wind-turbine-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wind-turbine-icon.svg/56px-Wind-turbine-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Renewable_energy" title="Portal:Renewable energy">Renewable energy portal</a></td>
+</tr>
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Crystal_energy.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" data-file-width="130" data-file-height="124" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><a href="/wiki/Grid_tie_inverter" title="Grid tie inverter" class="mw-redirect">Grid tie inverter</a></li>
+<li><a href="/wiki/Inverter_(electrical)" title="Inverter (electrical)" class="mw-redirect">Inverter (electrical)</a></li>
+<li><a href="/wiki/Power_optimizer" title="Power optimizer">Power optimizer</a></li>
+<li><a href="/wiki/Three-phase_micro-inverter" title="Three-phase micro-inverter">Three-phase micro-inverter</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=12" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<ol class="references">
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Since 2011 an increasing number of panels and inverters are rated to 1000V instead of the older 600V standard. This allows longer strings to be created, lowering system cost by avoiding the need for additional "combiners". This standard is not universal, but is being rapidly adopted As of 2014<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Solar_micro-inverter&amp;action=edit">[update]</a></sup></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Which is now in administration.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Citations</dt>
+</dl>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.solarpowerworldonline.com/2011/10/where-microinverter-and-panel-manufacturer-meet-up/:">Where Microinverter and Panel Manufacturer Meet Up</a> Zipp, Kathleen “Solar Power World”, US, 24 October 2011.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greentechmedia.com/articles/read/market-and-technology-competition-increases-as-solar-inverter-demand-peaks">Market and Technology Competition Increases as Solar Inverter Demand Peaks</a> Greentech Media Staff from GTM Research. <i><a href="/wiki/Greentech_Media" title="Greentech Media">Greentech Media</a></i>, USrs, 26 May 2009. Retrieved on 4 April 2012.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.backwoodssolar.com/catalog/Spec_Sheets/SolarWorld_245_Spec.pdf">SolarWorld's SW 245</a> is a typical modern module, using 6" cells in a 6 by 10 arrangement and a <img class="mwe-math-fallback-image-inline tex" alt="V_{oc}" src="//upload.wikimedia.org/math/e/2/d/e2d66db487ca18d5e1069b41be945b1a.png" /> of 30.8&#160;V</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sma-america.com/en_US/products/grid-tied-inverters/sunny-boy/sunny-boy-3000-us-3800-us-4000-us.html">SMA's SunnyBoy</a> series is available in US and European versions, and the recommended input range is 500 to 600&#160;VDC.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://enphase.com/explore/enphase-technology/productive/">"Productive"</a>, Enphase</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.solaredge.com/files/pdfs/performance_of_pv_topologies_under_shaded_conditions.pdf">http://www.solaredge.com/files/pdfs/performance_of_pv_topologies_under_shaded_conditions.pdf</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Muenster, R. <a rel="nofollow" class="external text" href="http://www.renewableenergyworld.com/rea/news/article/2009/02/shade-happens-54551">2009-02-02 “Shade Happens”</a> Renewable Energy World.com. Retrieved on 2009-03-09.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://eiqenergy.com/parallel_solar/increase_power.php">"Increase Power Production"</a>, eIQ Energy</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sma.de/en/partners/knowledgebase/optitrac-global-peak.html">http://www.sma.de/en/partners/knowledgebase/optitrac-global-peak.html</a></span></li>
+<li id="cite_note-M190-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-M190_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M190_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.enphaseenergy.com/downloads/Enphase_M190_Datasheet.pdf">"Enphase Microinverter M190"</a>, Enphase Energy</span></li>
+<li id="cite_note-forbes-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-forbes_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-forbes_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-forbes_12-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Kerry Dolan, <a rel="nofollow" class="external text" href="http://www.forbes.com/forbes/2010/1108/technology-enphase-energy-solar-power-rooftop-revolution.html">"Enphase's Rooftop Solar Revolution"</a>, <i>Forbes</i>, 8 November 2010</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greentechmedia.com/green-light/post/solarbridge-and-pv-microinverter-reliability">SolarBridge and PV Microinverter Reliability</a>, Wesoff, Eric.<i><a href="/wiki/Greentech_Media" title="Greentech Media">Greentech Media</a></i>, US, 2 June 2011. Retrieved on 4 April 2012.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://ekoleden.info/index.php/online-shop/solar-pv/micro-inverter-enecsys-smi-s240">Micro inverter model ranges stepping up roughly in 10 Watt or 20 Watt increments</a>. Ekoleden. Retrieved on 2012-12-07.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://enlighten.enphaseenergy.com/all_public_systems">"All systems"</a>, the very first entry on 25-March-2011 was a single-panel system</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation journal">Li, Quan; P. Wolfs (2008). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=4481250&amp;queryText%3DA+Review+of+the+Single+Phase+Photovoltaic+Module+Integrated+Converter+Topologies+with+Three+Different+DC+Link+Configurations">"A Review of the Single Phase Photovoltaic Module Integrated Converter Topologies with Three Different DC Link Configurations"</a>. <i>IEEE Trans. on Power Electronics</i> <b>23</b> (3): pp.1320–1333.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+micro-inverter&amp;rft.atitle=A+Review+of+the+Single+Phase+Photovoltaic+Module+Integrated+Converter+Topologies+with+Three+Different+DC+Link+Configurations&amp;rft.aufirst=Quan&amp;rft.aulast=Li&amp;rft.au=Li%2C+Quan&amp;rft.au=P.+Wolfs&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Ftp%3D%26arnumber%3D4481250%26queryText%253DA%2BReview%2Bof%2Bthe%2BSingle%2BPhase%2BPhotovoltaic%2BModule%2BIntegrated%2BConverter%2BTopologies%2Bwith%2BThree%2BDifferent%2BDC%2BLink%2BConfigurations&amp;rft.issue=3&amp;rft.jtitle=IEEE+Trans.+on+Power+Electronics&amp;rft.pages=pp.1320-1333&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation journal">Chen, Lin; A. Amirahmadi; Q. Zhang; N. Kutkut; I. Batarseh. <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=6687217">"Design and Implementation of Three-phase Two-stage Grid-connected Module Integrated Converter"</a>. <i>IEEE Transactions on Power Electronics</i> <b>29</b> (8): 3881–3892.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+micro-inverter&amp;rft.atitle=Design+and+Implementation+of+Three-phase+Two-stage+Grid-connected+Module+Integrated+Converter&amp;rft.au=A.+Amirahmadi&amp;rft.au=Chen%2C+Lin&amp;rft.aufirst=Lin&amp;rft.au=I.+Batarseh&amp;rft.aulast=Chen&amp;rft.au=N.+Kutkut&amp;rft.au=Q.+Zhang&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Ftp%3D%26arnumber%3D6687217&amp;rft.issue=8&amp;rft.jtitle=IEEE+Transactions+on+Power+Electronics&amp;rft.pages=3881-3892&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation journal">Amirahmadi, Ahmadreza; , H. Hu, A. Grishina, Q. Zhang, L. Chen, U. Somani, I. Batarseh (2014). <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=6547733">"ZVS BCM Current Controlled Three-Phase Micro-inverter"</a>. <i>IEEE Transactions on Power Electronics</i> <b>29</b> (4): 2124–2134.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASolar+micro-inverter&amp;rft.atitle=ZVS+BCM+Current+Controlled+Three-Phase+Micro-inverter&amp;rft.au=Amirahmadi%2C+Ahmadreza&amp;rft.aufirst=Ahmadreza&amp;rft.aulast=Amirahmadi&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2FarticleDetails.jsp%3Ftp%3D%26arnumber%3D6547733&amp;rft.issue=4&amp;rft.jtitle=IEEE+Transactions+on+Power+Electronics&amp;rft.pages=2124-2134&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-k3-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-k3_19-0">^</a></b></span> <span class="reference-text">Katz, p. 3</span></li>
+<li id="cite_note-k4-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-k4_20-0">^</a></b></span> <span class="reference-text">Katz, p. 4</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.eurosolar.de/en/index.php?Itemid=25&amp;id=196&amp;option=com_content&amp;task=view">"Appreciation Prof. Dr. Werner Kleinkauf"</a>, EUROSOLAR</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://images.mastervolt.nl/files/SOLAR_brochure_EN.pdf">"Connect to the Sun"</a>, Mastervolt, p. 7</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kyocerasolar.com/pdf/specsheets/linetie.pdf">"Utility Line Tie Power"</a>, Trace Engineering, p. 3</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oke-services.nl/ok4all/ok4all.htm">"OK4All"</a>, OK-Services</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greenraysolar.com/technology/tech-history">"GreenRay Solar, History of the Technology"</a>. Greenraysolar.com. Retrieved on 2012-12-07.</span></li>
+<li id="cite_note-k7-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-k7_26-0">^</a></b></span> <span class="reference-text">Katz, p. 7</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://images.mastervolt.nl/files/SOLAR_brochure_EN.pdf">"Connect to the Sun"</a>, Mastervolt, p. 9</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.solarserver.com/solar-magazine/solar-news/current/2011/kw03/enphase-energy-surpasses-500000-solar-pv-inverter-units-shipped-microinverter-leader-tripling-capacity-in-2011.html">"Enphase Energy surpasses 500,000 solar PV inverter units shipped"</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://enphase.com/eblog/2011/journey-to-the-1000000th-microinverter/">"Journey to the 1,000,000th Microinverter"</a></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Yuliya Chernova, <a rel="nofollow" class="external text" href="http://blogs.wsj.com/venturecapital/2011/02/02/will-solar-become-a-standard-offering-in-construction/">"Will Solar Become A Standard Offering In Construction?"</a>, <i>Wall Street Journal</i>, 2 February 2011</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://reneweconomy.com.au/2015/enphase-says-storage-already-at-parity-in-some-australian-markets-90233">2 Enphase says storage already at parity.</a></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">See <a rel="nofollow" class="external text" href="https://www.involar.com/our-products.php">this product</a> for instance, or <a rel="nofollow" class="external text" href="http://www.energyharvestingjournal.com/articles/enecsys-solar-pv-micro-inverter-gains-ul-certification-00003057.asp?sessionid=1">this one</a>, and compare to photos of the M190</span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sparqsys.com/PDF/SPARQ%20Microinverter/SPARQ-Data-Sheet-Innovative-Microinverter-Technology.pdf">SPARQ's design</a> uses a single high-power digital signal controller with few supporting components</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Like <a rel="nofollow" class="external text" href="http://www.renewableenergyworld.com/rea/news/article/2009/09/new-solar-micro-inverter-company-launched">Island Technology's</a> system aimed at thin-film modules which have different voltage ranges than conventional cells</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oke-services.nl/ok4all/ok4all.htm">OK4ALL</a></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.power-one.com/renewable-energy/news/power-one-launches-300w-micro">"Power-One launches 300W Microinverter and DC/DC Power Optimizer"</a>, Power-One press release, 4 May 2011</span></li>
+<li id="cite_note-green-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-green_38-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.greentechmedia.com/articles/read/Microinverter-Panel-Optimizer-and-Inverter-Startup-News/">"A roundup of new players"</a>, Greentechmedia</span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Galen Barbose, Naïm Darghouth, Ryan Wiser, <a rel="nofollow" class="external text" href="http://emp.lbl.gov/sites/all/files/LBNL-5919e-REPORT.pdf">"Tracking the Sun V"</a>, Lawrence Berkeley Lab, 2012</span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text">Eric Wesoff, <a rel="nofollow" class="external text" href="http://www.greentechmedia.com/articles/read/Enphase-Q2-Public-PV-Microinverter-Firm-Loses-CFO-Announces-Results">"Enphase Update: Stock Price Slammed After PV Microinverter Firm Loses CFO, Losses Widen"</a>, Greentech Media, 8 August 2012</span></li>
+</ol>
+</div>
+<dl>
+<dt>Bibliography</dt>
+</dl>
+<ul>
+<li>David Katz, <a rel="nofollow" class="external text" href="http://av.conferencearchives.com/pdfs/091001/33.1308.pdf">"Micro-Inverters and AC Modules"</a>,</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.vissim.com/solutions/solar_power_inverter.html">Model based control of photovoltaic inverter</a> Simulation, description and working <a href="/wiki/VisSim" title="VisSim">VisSim</a> source code diagram</li>
+<li><a rel="nofollow" class="external text" href="http://www.renewableenergyworld.com/rea/news/podcast/2010/02/micro-inverters-vs-central-inverters-is-there-a-clear-winner">Micro-inverters vs. Central Inverters: Is There a Clear Winner?</a>, podcast debating the ups and downs of the microinverter approach.</li>
+</ul>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&amp;nodeId=1824&amp;appnote=en549769">Grid-Connected Solar Microinverter Reference Design</a> Very detailed article for micro-inverter electronics design.</li>
+<li><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=6687217&amp;queryText%3DDesign+and+Implementation+of+Three-phase+Two-stage+Grid-connected+Module+Integrated+Converter">Design and Implementation of Three-phase Two-stage Grid-connected Module Integrated Converter</a></li>
+<li><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=4481250&amp;queryText%3DA+Review+of+the+Single+Phase+Photovoltaic+Module+Integrated+Converter+Topologies+with+Three+Different+DC+Link+Configurations">A Review of the Single Phase Photovoltaic Module Integrated Converter Topologies with Three Different DC Link Configurations</a></li>
+<li><a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&amp;arnumber=6547733&amp;queryText%3DHybrid+ZVS+BCM+Current+Controlled+Three-Phase+Micro-inverter">ZVS BCM Current Controlled Three-Phase Micro-inverter</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.solaris-shop.com/enphase-m215-60-2ll-s22-215w-microinverter/">Enphase M215-60-2LL-S22 215w Microinverter</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Photovoltaics" title="Template:Photovoltaics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Photovoltaics" title="Template talk:Photovoltaics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Photovoltaics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Photovoltaics" title="Photovoltaics">Photovoltaics</a></li>
+<li><a href="/wiki/Photoelectric_effect" title="Photoelectric effect">Photoelectric effect</a></li>
+<li><a href="/wiki/Solar_insolation" title="Solar insolation" class="mw-redirect">Solar insolation</a></li>
+<li><a href="/wiki/Solar_constant" title="Solar constant">Solar constant</a></li>
+<li><a href="/wiki/Solar_cell_efficiency" title="Solar cell efficiency">Solar cell efficiency</a></li>
+<li><a href="/wiki/Nominal_power_(photovoltaic)" title="Nominal power (photovoltaic)">Nominal power (Watt-peak)</a></li>
+<li><a href="/wiki/Thin_film_solar_cell" title="Thin film solar cell">Thin film solar cell</a></li>
+<li><a href="/wiki/Multijunction_photovoltaic_cell" title="Multijunction photovoltaic cell">Multijunction photovoltaic cell</a></li>
+<li><a href="/wiki/Third_generation_photovoltaic_cell" title="Third generation photovoltaic cell" class="mw-redirect">Third generation photovoltaic cell</a></li>
+<li><a href="/wiki/Solar_cell_research" title="Solar cell research">Solar cell research</a></li>
+<li><a href="/wiki/Quantum_efficiency_of_a_solar_cell" title="Quantum efficiency of a solar cell" class="mw-redirect">Quantum efficiency of a solar cell</a></li>
+<li><a href="/wiki/Thermophotovoltaic" title="Thermophotovoltaic">Thermophotovoltaic</a></li>
+<li><a href="/wiki/Thermodynamic_efficiency_limit" title="Thermodynamic efficiency limit">Thermodynamic efficiency limit</a></li>
+<li><a href="/wiki/Sun-free_photovoltaics" title="Sun-free photovoltaics">Sun-free photovoltaics</a></li>
+<li><a href="/wiki/Polarizing_organic_photovoltaics" title="Polarizing organic photovoltaics">Polarizing organic photovoltaics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Materials</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_semiconductor_materials" title="List of semiconductor materials">List of semiconductor materials</a></li>
+<li><a href="/wiki/Crystalline_silicon" title="Crystalline silicon">Crystalline silicon (c-Si)</a></li>
+<li><a href="/wiki/Polycrystalline_silicon" title="Polycrystalline silicon">Polycrystalline silicon (multi-Si)</a></li>
+<li><a href="/wiki/Monocrystalline_silicon" title="Monocrystalline silicon">Monocrystalline silicon (mono-Si)</a></li>
+<li><a href="/wiki/Cadmium_telluride" title="Cadmium telluride">Cadmium telluride</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide" title="Copper indium gallium selenide">Copper indium gallium selenide</a></li>
+<li><a href="/wiki/Amorphous_silicon" title="Amorphous silicon">Amorphous silicon (a-Si)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">History</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Growth_of_photovoltaics" title="Growth of photovoltaics">Growth of photovoltaics</a></li>
+<li><a href="/wiki/Timeline_of_solar_cells" title="Timeline of solar cells">Timeline of solar cells</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:4inch_poly_solar_cell.jpg" class="image"><img alt="4inch poly solar cell.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/150px-4inch_poly_solar_cell.jpg" width="150" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/225px-4inch_poly_solar_cell.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/4inch_poly_solar_cell.jpg/300px-4inch_poly_solar_cell.jpg 2x" data-file-width="2272" data-file-height="1704" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_cell" title="Solar cell">Solar cells</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polymer_solar_cell" title="Polymer solar cell">Polymer solar cell</a></li>
+<li><a href="/wiki/Nanocrystal_solar_cell" title="Nanocrystal solar cell">Nanocrystal solar cell</a></li>
+<li><a href="/wiki/Organic_solar_cell" title="Organic solar cell">Organic solar cell</a></li>
+<li><a href="/wiki/Quantum_dot_solar_cell" title="Quantum dot solar cell">Quantum dot solar cell</a></li>
+<li><a href="/wiki/Hybrid_solar_cell" title="Hybrid solar cell">Hybrid solar cell</a></li>
+<li><a href="/wiki/Plasmonic_solar_cell" title="Plasmonic solar cell">Plasmonic solar cell</a></li>
+<li><a href="/wiki/Carbon_nanotubes_in_photovoltaics" title="Carbon nanotubes in photovoltaics">Carbon nanotubes in photovoltaics</a></li>
+<li><a href="/wiki/Dye-sensitized_solar_cell" title="Dye-sensitized solar cell">Dye-sensitized solar cell</a></li>
+<li><a href="/wiki/Cadmium_telluride_photovoltaics" title="Cadmium telluride photovoltaics">Cadmium telluride photovoltaics</a></li>
+<li><a href="/wiki/Copper_indium_gallium_selenide_solar_cells" title="Copper indium gallium selenide solar cells">Copper indium gallium selenide solar cells</a></li>
+<li><a href="/wiki/Printed_solar_panel" title="Printed solar panel" class="mw-redirect">Printed solar panel</a></li>
+<li><a href="/wiki/Perovskite_solar_cell" title="Perovskite solar cell">Perovskite solar cell</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_panel" title="Solar panel">Solar panel</a></li>
+<li><a href="/wiki/Balance_of_system" title="Balance of system">Balance of system</a></li>
+<li><a href="/wiki/Solar_charge_controller" title="Solar charge controller" class="mw-redirect">Solar charge controller</a></li>
+<li><a href="/wiki/Solar_inverter" title="Solar inverter">Solar inverter</a></li>
+<li><strong class="selflink">Solar micro-inverter</strong></li>
+<li><a href="/wiki/Solar_cable" title="Solar cable">Solar cable</a></li>
+<li><a href="/wiki/Photovoltaic_mounting_system" title="Photovoltaic mounting system">Photovoltaic mounting system</a></li>
+<li><a href="/wiki/Maximum_power_point_tracker" title="Maximum power point tracker" class="mw-redirect">Maximum power point tracker</a></li>
+<li><a href="/wiki/Solar_tracker" title="Solar tracker">Solar tracker</a></li>
+<li><a href="/wiki/Solar_shingles" title="Solar shingles" class="mw-redirect">Solar shingles</a></li>
+<li><a href="/wiki/Solar_mirror#Photovoltaic_augmentation" title="Solar mirror">Solar mirror</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">System concepts</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perturb_and_observe_method" title="Perturb and observe method" class="mw-redirect">Perturb and observe method</a></li>
+<li><a href="/wiki/Incremental_conductance_method" title="Incremental conductance method" class="mw-redirect">Incremental conductance method</a></li>
+<li><a href="/wiki/Constant_voltage_method" title="Constant voltage method" class="mw-redirect">Constant voltage method</a></li>
+<li><a href="/wiki/Fill_factor_(solar_cell)" title="Fill factor (solar cell)" class="mw-redirect">Fill factor</a></li>
+<li><a href="/wiki/Concentrated_photovoltaics" title="Concentrated photovoltaics">Concentrated photovoltaics</a></li>
+<li><a href="/wiki/Photovoltaic_thermal_hybrid_solar_collector" title="Photovoltaic thermal hybrid solar collector">Photovoltaic thermal hybrid solar collector</a></li>
+<li><a href="/wiki/Space-based_solar_power" title="Space-based solar power">Space-based solar power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;">Applications</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Appliances</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar-powered_refrigerator" title="Solar-powered refrigerator">Solar-powered refrigerator</a></li>
+<li><a href="/wiki/Solar_air_conditioning#Photovoltaic_.28PV.29_solar_cooling" title="Solar air conditioning">Solar air conditioning</a></li>
+<li><a href="/wiki/Solar_lamp" title="Solar lamp">Solar lamp</a></li>
+<li><a href="/wiki/Solar_charger" title="Solar charger">Solar charger</a></li>
+<li><a href="/wiki/Solar_backpack" title="Solar backpack">Solar backpack</a></li>
+<li><a href="/wiki/Solar_tree" title="Solar tree">Solar tree</a></li>
+<li><a href="/wiki/Solar-powered_pump" title="Solar-powered pump">Solar-powered pump</a></li>
+<li><a href="/wiki/Solar-powered_watch" title="Solar-powered watch">Solar-powered watch</a></li>
+<li><a href="/wiki/Solar_Tuki" title="Solar Tuki">Solar Tuki</a></li>
+<li><a href="/wiki/Photovoltaic_keyboard" title="Photovoltaic keyboard">Photovoltaic keyboard</a></li>
+<li><a href="/wiki/Solar_road_stud" title="Solar road stud">Solar road stud</a></li>
+<li><a href="/wiki/Solar_cell_phone_charger" title="Solar cell phone charger">Solar cell phone charger</a></li>
+<li><a href="/wiki/Solar_notebook" title="Solar notebook">Solar notebook</a></li>
+<li><a href="/wiki/Solar_powered_calculator" title="Solar powered calculator" class="mw-redirect">Solar powered calculator</a></li>
+<li><a href="/wiki/Solar_powered_fountain" title="Solar powered fountain" class="mw-redirect">Solar powered fountain</a></li>
+<li><a href="/wiki/Solar_powered_radio" title="Solar powered radio" class="mw-redirect">Solar powered radio</a></li>
+<li><a href="/wiki/Solar_powered_flashlight" title="Solar powered flashlight" class="mw-redirect">Solar powered flashlight</a></li>
+<li><a href="/wiki/Solar_fan" title="Solar fan">Solar fan</a></li>
+<li><a href="/wiki/Solar_street_light" title="Solar street light">Solar street light</a></li>
+<li><a href="/wiki/Solar_traffic_light" title="Solar traffic light">Solar traffic light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Land transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_vehicle" title="Solar vehicle">Solar vehicle</a></li>
+<li><a href="/wiki/Solar_car" title="Solar car">Solar car</a></li>
+<li><a href="/wiki/Solar_roadway" title="Solar roadway" class="mw-redirect">Solar roadway</a></li>
+<li><a href="/wiki/Solar_golf_cart" title="Solar golf cart">Solar golf cart</a></li>
+<li><a href="/wiki/The_Quiet_Achiever" title="The Quiet Achiever">The Quiet Achiever</a></li>
+<li><a href="/wiki/Sunmobile" title="Sunmobile">Sunmobile</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Air transport</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_aircraft" title="Electric aircraft">Electric aircraft</a></li>
+<li><a href="/wiki/Mauro_Solar_Riser" title="Mauro Solar Riser">Mauro Solar Riser</a></li>
+<li><a href="/wiki/Solar_panels_on_spacecraft" title="Solar panels on spacecraft">Solar panels on spacecraft</a></li>
+<li><a href="/wiki/Solar-Powered_Aircraft_Developments_Solar_One" title="Solar-Powered Aircraft Developments Solar One">Solar-Powered Aircraft Developments Solar One</a></li>
+<li><a href="/wiki/Gossamer_Penguin" title="Gossamer Penguin">Gossamer Penguin</a></li>
+<li><a href="/wiki/Qinetiq_Zephyr" title="Qinetiq Zephyr">Qinetiq Zephyr</a></li>
+<li><a href="/wiki/Solar_Challenger" title="Solar Challenger">Solar Challenger</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Water transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electric_boat#Types" title="Electric boat">Solar boat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Solar vehicle racing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_car_racing" title="Solar car racing">Solar car racing</a></li>
+<li><a href="/wiki/List_of_solar_car_teams" title="List of solar car teams">List of solar car teams</a></li>
+<li><a href="/wiki/Solar_challenge_(disambiguation)" title="Solar challenge (disambiguation)" class="mw-redirect">Solar challenges</a></li>
+<li><a href="/wiki/World_Solar_Challenge" title="World Solar Challenge">World Solar Challenge</a></li>
+<li><a href="/wiki/American_Solar_Challenge" title="American Solar Challenge">American Solar Challenge</a></li>
+<li><a href="/wiki/Formula_Sun_Grand_Prix" title="Formula Sun Grand Prix">Formula Sun Grand Prix</a></li>
+<li><a href="/wiki/Solar_Cup" title="Solar Cup">Solar Cup</a></li>
+<li><a href="/wiki/Frisian_Solar_Challenge" title="Frisian Solar Challenge">Frisian Solar Challenge</a></li>
+<li><a href="/wiki/Solar_Splash" title="Solar Splash">Solar Splash</a></li>
+<li><a href="/wiki/South_African_Solar_Challenge" title="South African Solar Challenge">South African Solar Challenge</a></li>
+<li><a href="/wiki/Tour_de_Sol" title="Tour de Sol">Tour de Sol</a></li>
+<li><a href="/wiki/Hunt-Winston_School_Solar_Car_Challenge" title="Hunt-Winston School Solar Car Challenge" class="mw-redirect">Hunt-Winston School Solar Car Challenge</a></li>
+<li><a href="/wiki/Victorian_Model_Solar_Vehicle_Challenge" title="Victorian Model Solar Vehicle Challenge">Victorian Model Solar Vehicle Challenge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">Generation systems</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Photovoltaic_power_station" title="Photovoltaic power station">PV power station</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Grid-connected_photovoltaic_power_system" title="Grid-connected photovoltaic power system">Grid-connected photovoltaic power system</a></li>
+<li><a href="/wiki/List_of_photovoltaic_power_stations" title="List of photovoltaic power stations">List of photovoltaic power stations</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alamosa_photovoltaic_power_plant" title="Alamosa photovoltaic power plant">Alamosa photovoltaic power plant</a></li>
+<li><a href="/wiki/Beneixama_photovoltaic_power_plant" title="Beneixama photovoltaic power plant">Beneixama photovoltaic power plant</a></li>
+<li><a href="/wiki/Blythe_Photovoltaic_Power_Plant" title="Blythe Photovoltaic Power Plant">Blythe Photovoltaic Power Plant</a></li>
+<li><a href="/wiki/Copper_Mountain_Solar_Facility" title="Copper Mountain Solar Facility">Copper Mountain Solar Facility</a></li>
+<li><a href="/wiki/Darro_Solar_Park" title="Darro Solar Park">Darro Solar Park</a></li>
+<li><a href="/wiki/Erlasee_Solar_Park" title="Erlasee Solar Park">Erlasee Solar Park</a></li>
+<li><a href="/wiki/Huanghe_Hydropower_Golmud_Solar_Park" title="Huanghe Hydropower Golmud Solar Park">Golmud Solar Park</a></li>
+<li><a href="/wiki/Gottelborn_Solar_Park" title="Gottelborn Solar Park">Gottelborn Solar Park</a></li>
+<li><a href="/wiki/Guadarranque_solar_power_plant" title="Guadarranque solar power plant">Guadarranque solar power plant</a></li>
+<li><a href="/wiki/K%C3%B6then_Solar_Park" title="Köthen Solar Park">Köthen Solar Park</a></li>
+<li><a href="/wiki/Moura_Photovoltaic_Power_Station" title="Moura Photovoltaic Power Station">Moura Photovoltaic Power Station</a></li>
+<li><a href="/wiki/Olmedilla_Photovoltaic_Park" title="Olmedilla Photovoltaic Park">Olmedilla Photovoltaic Park</a></li>
+<li><a href="/wiki/Pocking_Solar_Park" title="Pocking Solar Park">Pocking Solar Park</a></li>
+<li><a href="/wiki/Puertollano_Photovoltaic_Park" title="Puertollano Photovoltaic Park">Puertollano Photovoltaic Park</a></li>
+<li><a href="/wiki/Topaz_Solar_Farm" title="Topaz Solar Farm">Topaz Solar Farm</a></li>
+<li><a href="/wiki/Wyandot_Solar_Facility" title="Wyandot Solar Facility">Wyandot Solar Facility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Building-mounted</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rooftop_photovoltaic_power_station" title="Rooftop photovoltaic power station">Rooftop photovoltaic power station</a></li>
+<li><a href="/wiki/Building-integrated_photovoltaics" title="Building-integrated photovoltaics">Building-integrated photovoltaics</a></li>
+<li><a href="/wiki/Solar_Ark" title="Solar Ark">Solar Ark</a></li>
+<li><a href="/wiki/Solar_Umbrella_house" title="Solar Umbrella house">Solar Umbrella house</a></li>
+<li><a href="/wiki/Strasskirchen_Solar_Park" title="Strasskirchen Solar Park">Strasskirchen Solar Park</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;"><a href="/wiki/Solar_power_by_country" title="Solar power by country">By country</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solar_power_in_Australia" title="Solar power in Australia">Australia</a></li>
+<li><a href="/wiki/Solar_power_in_Belgium" title="Solar power in Belgium">Belgium</a></li>
+<li><a href="/wiki/Solar_power_in_Bulgaria" title="Solar power in Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Solar_power_in_Canada" title="Solar power in Canada">Canada</a></li>
+<li><a href="/wiki/Solar_power_in_Chile" title="Solar power in Chile">Chile</a></li>
+<li><a href="/wiki/Solar_power_in_China" title="Solar power in China">China</a></li>
+<li><a href="/wiki/Solar_power_in_the_Czech_Republic" title="Solar power in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Solar_power_in_France" title="Solar power in France">France</a></li>
+<li><a href="/wiki/Solar_power_in_Germany" title="Solar power in Germany">Germany</a></li>
+<li><a href="/wiki/Solar_power_in_Greece" title="Solar power in Greece">Greece</a></li>
+<li><a href="/wiki/Solar_power_in_India" title="Solar power in India">India</a></li>
+<li><a href="/wiki/Solar_power_in_Italy" title="Solar power in Italy">Italy</a></li>
+<li><a href="/wiki/Solar_power_in_Japan" title="Solar power in Japan">Japan</a></li>
+<li><a href="/wiki/Solar_power_in_the_Netherlands" title="Solar power in the Netherlands">Netherlands</a></li>
+<li><a href="/wiki/Solar_power_in_Romania" title="Solar power in Romania">Romania</a></li>
+<li><a href="/wiki/Solar_power_in_South_Africa" title="Solar power in South Africa">South Africa</a></li>
+<li><a href="/wiki/Solar_power_in_Spain" title="Solar power in Spain">Spain</a></li>
+<li><a href="/wiki/Solar_power_in_Switzerland" title="Solar power in Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Solar_power_in_Thailand" title="Solar power in Thailand">Thailand</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_Kingdom" title="Solar power in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Solar_power_in_the_United_States" title="Solar power in the United States">USA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;"><a href="/wiki/List_of_photovoltaics_companies" title="List of photovoltaics companies">PV companies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">By country</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_countries_by_photovoltaics_production" title="List of countries by photovoltaics production" class="mw-redirect">List of countries by photovoltaics production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:11em;text-align: left;background-color: #eee;">Individual producers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/First_Solar" title="First Solar">First Solar</a></li>
+<li><a href="/wiki/Hanwha_Solarone" title="Hanwha Solarone" class="mw-redirect">Hanwha Solarone</a></li>
+<li><a href="/wiki/JA_Solar" title="JA Solar" class="mw-redirect">JA Solar</a></li>
+<li><a href="/wiki/Motech_Solar" title="Motech Solar">Motech Solar</a></li>
+<li><a href="/wiki/Renewable_Energy_Corporation" title="Renewable Energy Corporation">REC</a></li>
+<li><a href="/wiki/Q-Cells" title="Q-Cells">Q-Cells</a></li>
+<li><a href="/wiki/Sharp_Corporation" title="Sharp Corporation">Sharp</a></li>
+<li><a href="/wiki/Solyndra" title="Solyndra">Solyndra</a></li>
+<li><a href="/wiki/SUNGEN_International_Limited" title="SUNGEN International Limited">Sungen Solar</a></li>
+<li><a href="/wiki/Sunpower" title="Sunpower" class="mw-redirect">Sunpower</a></li>
+<li><a href="/wiki/Suntech" title="Suntech" class="mw-redirect">Suntech</a></li>
+<li><a href="/wiki/Trina_Solar" title="Trina Solar">Trina Solar</a></li>
+<li><a href="/wiki/Yingli_Solar" title="Yingli Solar" class="mw-redirect">Yingli Solar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Category:Photovoltaics" class="extiw" title="commons:Category:Photovoltaics"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1173
+CPU time usage: 0.320 seconds
+Real time usage: 0.439 seconds
+Preprocessor visited node count: 1570/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75752/2097152 bytes
+Template argument size: 1169/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.78 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  285.521      1 - -total
+ 41.68%  119.015      2 - Template:Reflist
+ 21.47%   61.313      6 - Template:Navbox
+ 16.62%   47.453      1 - Template:Photovoltaics
+ 14.53%   41.475      3 - Template:Cite_journal
+ 10.67%   30.458      2 - Template:Efn
+  9.44%   26.965      1 - Template:Main
+  8.54%   24.376      1 - Template:Asof
+  7.36%   21.007      2 - Template:DMCA
+  6.47%   18.462      2 - Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22149570-0!*!0!!en!4!*!math=0 and timestamp 20150711161822 and revision id 660524484
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Solar_micro-inverter&amp;oldid=660524484">https://en.wikipedia.org/w/index.php?title=Solar_micro-inverter&amp;oldid=660524484</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrical_power_conversion" title="Category:Electrical power conversion">Electrical power conversion</a></li><li><a href="/wiki/Category:Photovoltaics" title="Category:Photovoltaics">Photovoltaics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2014" title="Category:Articles containing potentially dated statements from 2014">Articles containing potentially dated statements from 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2011" title="Category:Use dmy dates from March 2011">Use dmy dates from March 2011</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+micro-inverter&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Solar+micro-inverter" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Solar_micro-inverter"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Solar_micro-inverter"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Solar_micro-inverter" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Solar_micro-inverter&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Solar_micro-inverter" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Solar_micro-inverter" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Solar_micro-inverter&amp;oldid=660524484" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Solar_micro-inverter&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7556716" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Solar_micro-inverter&amp;id=660524484" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Solar+micro-inverter">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Solar+micro-inverter&amp;oldid=660524484&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Solar_micro-inverter&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Solcelle-mikrovekselretter" title="Solcelle-mikrovekselretter – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Microinversor_solar" title="Microinversor solar – Spanish" lang="es" hreflang="es">Español</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7556716#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 May 2015, at 01:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Solar_micro-inverter&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":571,"wgHostname":"mw1173"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,788 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Curry–Howard correspondence - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Curry%E2%80%93Howard_correspondence" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Curry–Howard_correspondence","wgTitle":"Curry–Howard correspondence","wgCurRevisionId":667363827,"wgRevisionId":667363827,"wgArticleId":254299,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from April 2010","All articles lacking in-text citations","1934 in computer science","1958 in computer science","1969 in computer science","Dependently typed programming","Proof theory","Logic in computer science","Type theory","Philosophy of computer science"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Curry–Howard_correspondence","wgRelevantArticleId":254299,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coq_plus_comm_screenshot.jpg/100px-Coq_plus_comm_screenshot.jpg","wgULSAcceptLanguageList":["es","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q975734"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Curry–Howard_correspondence skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Curry–Howard correspondence</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Coq_plus_comm_screenshot.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coq_plus_comm_screenshot.jpg/300px-Coq_plus_comm_screenshot.jpg" width="300" height="223" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coq_plus_comm_screenshot.jpg/450px-Coq_plus_comm_screenshot.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coq_plus_comm_screenshot.jpg/600px-Coq_plus_comm_screenshot.jpg 2x" data-file-width="823" data-file-height="613" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Coq_plus_comm_screenshot.jpg" class="internal" title="Enlarge"></a></div>
+A proof written as a functional program: the proof of commutativity of addition on natural numbers in the proof assistant <a href="/wiki/Coq" title="Coq">Coq</a>. <i>nat_ind</i> stands for <a href="/wiki/Mathematical_induction" title="Mathematical induction">mathematical induction</a>, <i>eq_ind</i> for substitution of equals and <i>f_equal</i> for taking the same function on both sides of the equality. Earlier theorems are referenced showing <i>m</i>&#160;=&#160;<i>m</i>&#160;+&#160;0 and S&#160;(<i>m</i>&#160;+&#160;<i>y</i>)&#160;=&#160;<i>m</i>&#160;+&#160;S&#160;<i>y</i>.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Programming_language_theory" title="Programming language theory">programming language theory</a> and <a href="/wiki/Proof_theory" title="Proof theory">proof theory</a>, the <b>Curry–Howard correspondence</b> (also known as the <b>Curry–Howard isomorphism</b> or <b>equivalence</b>, or the <b>proofs-as-programs</b> and <b>propositions-</b> or <b>formulae-as-types interpretation</b>) is the direct relationship between <a href="/wiki/Computer_program" title="Computer program">computer programs</a> and <a href="/wiki/Mathematical_proof" title="Mathematical proof">mathematical proofs</a>. It is a generalization of a syntactic <a href="/wiki/Analogy" title="Analogy">analogy</a> between systems of formal logic and computational calculi that was first discovered by the American <a href="/wiki/Mathematician" title="Mathematician">mathematician</a> <a href="/wiki/Haskell_Curry" title="Haskell Curry">Haskell Curry</a> and <a href="/wiki/Logician" title="Logician" class="mw-redirect">logician</a> <a href="/wiki/William_Alvin_Howard" title="William Alvin Howard">William Alvin Howard</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It is the link between logic and computation that is usually attributed to Curry and Howard, although the idea is related to the operational interpretation of <a href="/wiki/Intuitionistic_logic" title="Intuitionistic logic">intuitionistic logic</a> given in various formulations by <a href="/wiki/L._E._J._Brouwer" title="L. E. J. Brouwer">L. E. J. Brouwer</a>, <a href="/wiki/Arend_Heyting" title="Arend Heyting">Arend Heyting</a> and <a href="/wiki/Andrey_Kolmogorov" title="Andrey Kolmogorov">Andrey Kolmogorov</a> (see <a href="/wiki/Brouwer%E2%80%93Heyting%E2%80%93Kolmogorov_interpretation" title="Brouwer–Heyting–Kolmogorov interpretation">Brouwer–Heyting–Kolmogorov interpretation</a>)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> and <a href="/wiki/Stephen_Kleene" title="Stephen Kleene" class="mw-redirect">Stephen Kleene</a> (see <a href="/wiki/Realizability" title="Realizability">Realizability</a>). The relationship has been extended to include <a href="/wiki/Category_theory" title="Category theory">category theory</a> as the three-way <a href="/wiki/Curry%E2%80%93Howard%E2%80%93Lambek_correspondence" title="Curry–Howard–Lambek correspondence" class="mw-redirect">Curry–Howard–Lambek correspondence</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin.2C_scope.2C_and_consequences"><span class="tocnumber">1</span> <span class="toctext">Origin, scope, and consequences</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#General_formulation"><span class="tocnumber">2</span> <span class="toctext">General formulation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Corresponding_systems"><span class="tocnumber">3</span> <span class="toctext">Corresponding systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Hilbert-style_deduction_systems_and_combinatory_logic"><span class="tocnumber">3.1</span> <span class="toctext">Hilbert-style deduction systems and combinatory logic</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Natural_deduction_and_lambda_calculus"><span class="tocnumber">3.2</span> <span class="toctext">Natural deduction and lambda calculus</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Classical_logic_and_control_operators"><span class="tocnumber">3.3</span> <span class="toctext">Classical logic and control operators</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Sequent_calculus"><span class="tocnumber">3.4</span> <span class="toctext">Sequent calculus</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Related_proofs-as-programs_correspondences"><span class="tocnumber">4</span> <span class="toctext">Related proofs-as-programs correspondences</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#The_role_of_de_Bruijn"><span class="tocnumber">4.1</span> <span class="toctext">The role of de Bruijn</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#BHK_interpretation"><span class="tocnumber">4.2</span> <span class="toctext">BHK interpretation</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Realizability"><span class="tocnumber">4.3</span> <span class="toctext">Realizability</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Curry.E2.80.93Howard.E2.80.93Lambek_correspondence"><span class="tocnumber">4.4</span> <span class="toctext">Curry–Howard–Lambek correspondence</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Other_applications"><span class="tocnumber">6</span> <span class="toctext">Other applications</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Generalizations"><span class="tocnumber">7</span> <span class="toctext">Generalizations</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Seminal_references"><span class="tocnumber">8.1</span> <span class="toctext">Seminal references</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Extensions_of_the_correspondence"><span class="tocnumber">8.2</span> <span class="toctext">Extensions of the correspondence</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Philosophical_interpretations"><span class="tocnumber">8.3</span> <span class="toctext">Philosophical interpretations</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Synthetic_papers"><span class="tocnumber">8.4</span> <span class="toctext">Synthetic papers</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Books"><span class="tocnumber">8.5</span> <span class="toctext">Books</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origin.2C_scope.2C_and_consequences">Origin, scope, and consequences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=1" title="Edit section: Origin, scope, and consequences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the very beginning, the <b>Curry–Howard correspondence</b> is</p>
+<ol>
+<li>the observation in 1934 by <a href="/wiki/Haskell_Curry" title="Haskell Curry">Curry</a> that the <a href="/wiki/Typed_lambda_calculus" title="Typed lambda calculus">types</a> of the combinators could be seen as <a href="/wiki/Axiom-scheme" title="Axiom-scheme" class="mw-redirect">axiom-schemes</a> for <a href="/wiki/Intuitionism" title="Intuitionism">intuitionistic</a> implicational logic,<sup id="cite_ref-FOOTNOTECurry1934_3-0" class="reference"><a href="#cite_note-FOOTNOTECurry1934-3"><span>[</span>3<span>]</span></a></sup></li>
+<li>the observation in 1958 by Curry that a certain kind of <a href="/wiki/Proof_calculus" title="Proof calculus">proof system</a>, referred to as <a href="/wiki/Hilbert-style_deduction_system" title="Hilbert-style deduction system" class="mw-redirect">Hilbert-style deduction systems</a>, coincides on some fragment to the typed fragment of a standard <a href="/wiki/Model_of_computation" title="Model of computation">model of computation</a> known as <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a>,<sup id="cite_ref-FOOTNOTECurryFeys1958_4-0" class="reference"><a href="#cite_note-FOOTNOTECurryFeys1958-4"><span>[</span>4<span>]</span></a></sup></li>
+<li>the observation in 1969 by <a href="/wiki/William_Alvin_Howard" title="William Alvin Howard">Howard</a> that another, more "high-level" <a href="/wiki/Proof_calculus" title="Proof calculus">proof system</a>, referred to as <a href="/wiki/Natural_deduction" title="Natural deduction">natural deduction</a>, can be directly interpreted in its <a href="/wiki/Intuitionistic" title="Intuitionistic" class="mw-redirect">intuitionistic</a> version as a typed variant of the <a href="/wiki/Model_of_computation" title="Model of computation">model of computation</a> known as <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a>.<sup id="cite_ref-FOOTNOTEHoward1980_5-0" class="reference"><a href="#cite_note-FOOTNOTEHoward1980-5"><span>[</span>5<span>]</span></a></sup></li>
+</ol>
+<p>In other words, the Curry–Howard correspondence is the observation that two families of formalisms that had seemed unrelated—namely, the proof systems on one hand, and the models of computation on the other—were, in the two examples considered by Curry and Howard, in fact structurally the same kind of objects.</p>
+<p>If one now abstracts on the peculiarities of this or that formalism, the immediate generalization is the following claim: <i>a proof is a program, the formula it proves is a type for the program</i>. More informally, this can be seen as an <a href="/wiki/Analogy" title="Analogy">analogy</a> that states that the <a href="/wiki/Return_type" title="Return type">return type</a> of a function (i.e., the type of values returned by a function) is analogous to a logical theorem, subject to hypotheses corresponding to the types of the argument values passed to the function; and that the program to compute that function is analogous to a proof of that theorem. This sets a form of <a href="/wiki/Logic_programming" title="Logic programming">logic programming</a> on a rigorous foundation: <i>proofs can be represented as programs, and especially as lambda terms</i>, or <i>proofs can be <b>run</b></i>.</p>
+<p>The correspondence has been the starting point of a large spectrum of new research after its discovery, leading in particular to a new class of <a href="/wiki/Formal_system" title="Formal system">formal systems</a> designed to act both as a <a href="/wiki/Proof_calculus" title="Proof calculus">proof system</a> and as a typed <a href="/wiki/Functional_programming_language" title="Functional programming language" class="mw-redirect">functional programming language</a>. This includes <a href="/wiki/Martin-L%C3%B6f" title="Martin-Löf" class="mw-redirect">Martin-Löf</a>'s <a href="/wiki/Intuitionistic_type_theory" title="Intuitionistic type theory">intuitionistic type theory</a> and <a href="/wiki/Thierry_Coquand" title="Thierry Coquand">Coquand</a>'s <a href="/wiki/Calculus_of_Constructions" title="Calculus of Constructions" class="mw-redirect">Calculus of Constructions</a>, two calculi in which proofs are regular objects of the discourse and in which one can state properties of proofs the same way as of any program. This field of research is usually referred to as modern <a href="/wiki/Type_theory" title="Type theory">type theory</a>.</p>
+<p>Such <a href="/wiki/Typed_lambda_calculus" title="Typed lambda calculus">typed lambda calculi</a> derived from the Curry–Howard paradigm led to software like <a href="/wiki/Coq" title="Coq">Coq</a> in which proofs seen as programs can be formalized, checked, and run.</p>
+<p>A converse direction is to <i>use a program to extract a proof</i>, given its <a href="/wiki/Program_correctness" title="Program correctness" class="mw-redirect">correctness</a>— an area of research closely related to <a href="/wiki/Proof-carrying_code" title="Proof-carrying code">proof-carrying code</a>. This is only feasible if the <a href="/wiki/Programming_language" title="Programming language">programming language</a> the program is written for is very richly typed: the development of such type systems has been partly motivated by the wish to make the Curry–Howard correspondence practically relevant.</p>
+<p>The Curry–Howard correspondence also raised new questions regarding the computational content of proof concepts that were not covered by the original works of Curry and Howard. In particular, <a href="/wiki/Classical_logic" title="Classical logic">classical logic</a> has been shown to correspond to the ability to manipulate the <a href="/wiki/Continuation" title="Continuation">continuation</a> of programs and the symmetry of <a href="/wiki/Sequent_calculus" title="Sequent calculus">sequent calculus</a> to express the duality between the two <a href="/wiki/Evaluation_strategy" title="Evaluation strategy">evaluation strategies</a> known as call-by-name and call-by-value.</p>
+<p>Speculatively, the Curry–Howard correspondence might be expected to lead to a substantial <a href="/wiki/Unifying_theories_in_mathematics" title="Unifying theories in mathematics">unification</a> between mathematical logic and foundational computer science:</p>
+<p>Hilbert-style logic and natural deduction are but two kinds of proof systems among a large family of formalisms. Alternative syntaxes include <a href="/wiki/Sequent_calculus" title="Sequent calculus">sequent calculus</a>, <a href="/wiki/Proof_net" title="Proof net">proof nets</a>, <a href="/wiki/Calculus_of_structures" title="Calculus of structures">calculus of structures</a>, etc. If one admits the Curry–Howard correspondence as the general principle that any proof system hides a model of computation, a theory of the underlying untyped computational structure of these kinds of proof system should be possible. Then, a natural question is whether something mathematically interesting can be said about these underlying computational calculi.</p>
+<p>Conversely, <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a> and <a href="/wiki/Simply_typed_lambda_calculus" title="Simply typed lambda calculus">simply typed lambda calculus</a> are not the only <a href="/wiki/Models_of_computation" title="Models of computation" class="mw-redirect">models of computation</a>, either. Girard's <a href="/wiki/Linear_logic" title="Linear logic">linear logic</a> was developed from the fine analysis of the use of resources in some models of lambda calculus; can we imagine a typed version of <a href="/wiki/Turing_machine" title="Turing machine">Turing's machine</a> that would behave as a proof system? <a href="/wiki/Typed_assembly_language" title="Typed assembly language">Typed assembly languages</a> are such an instance of "low-level" models of computation that carry types.</p>
+<p>Because of the possibility of writing non-terminating programs, <a href="/wiki/Turing-complete" title="Turing-complete" class="mw-redirect">Turing-complete</a> models of computation (such as languages with arbitrary <a href="/wiki/Recursion_(computer_science)" title="Recursion (computer science)">recursive functions</a>) must be interpreted with care, as naive application of the correspondence leads to an inconsistent logic. The best way of dealing with arbitrary computation from a logical point of view is still an actively debated research question, but one popular approach is based on using <a href="/wiki/Monad_(functional_programming)" title="Monad (functional programming)">monads</a> to segregate provably terminating from potentially non-terminating code (an approach that also generalizes to much richer models of computation,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> and is itself related to modal logic by a natural extension of the Curry–Howard isomorphism<sup id="cite_ref-PfenningDaviesJudgmental_7-0" class="reference"><a href="#cite_note-PfenningDaviesJudgmental-7"><span>[</span>ext 1<span>]</span></a></sup>). A more radical approach, advocated by <a href="/wiki/Total_functional_programming" title="Total functional programming">total functional programming</a>, is to eliminate unrestricted recursion (and forgo <a href="/wiki/Turing_completeness" title="Turing completeness">Turing completeness</a>, although still retaining high computational complexity), using more controlled <a href="/wiki/Corecursion" title="Corecursion">corecursion</a> wherever non-terminating behavior is actually desired.</p>
+<h2><span class="mw-headline" id="General_formulation">General formulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=2" title="Edit section: General formulation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In its more general formulation, the Curry–Howard correspondence is a correspondence between formal <a href="/wiki/Proof_calculus" title="Proof calculus">proof calculi</a> and <a href="/wiki/Type_systems" title="Type systems" class="mw-redirect">type systems</a> for <a href="/wiki/Model_of_computation" title="Model of computation">models of computation</a>. In particular, it splits into two correspondences. One at the level of <a href="/wiki/Formula_(mathematical_logic)" title="Formula (mathematical logic)" class="mw-redirect">formulas</a> and <a href="/wiki/Data_type" title="Data type">types</a> that is independent of which particular proof system or model of computation is considered, and one at the level of <a href="/wiki/Mathematical_proof" title="Mathematical proof">proofs</a> and <a href="/wiki/Computer_program" title="Computer program">programs</a> which, this time, is specific to the particular choice of proof system and model of computation considered.</p>
+<p>At the level of formulas and types, the correspondence says that implication behaves the same as a function type, conjunction as a "product" type (this may be called a tuple, a struct, a list, or some other term depending on the language), disjunction as a sum type (this type may be called a union), the false formula as the empty type and the true formula as the singleton type (whose sole member is the null object). Quantifiers correspond to <a href="/wiki/Dependent_type" title="Dependent type">dependent</a> function space or products (as appropriate). This is summarized in the following table:</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th style="width:300px">Logic side</th>
+<th style="width:300px">Programming side</th>
+</tr>
+<tr>
+<td><a href="/wiki/Universal_quantification" title="Universal quantification">universal quantification</a></td>
+<td><a href="/wiki/Dependent_type#Formal_definition" title="Dependent type">generalised function space</a> (Π type)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Existential_quantification" title="Existential quantification">existential quantification</a></td>
+<td><a href="/wiki/Dependent_type#Dependent_pair_type" title="Dependent type">generalised cartesian product</a> (Σ type)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Logical_implication" title="Logical implication" class="mw-redirect">implication</a></td>
+<td><a href="/wiki/Function_type" title="Function type">function type</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Logical_conjunction" title="Logical conjunction">conjunction</a></td>
+<td><a href="/wiki/Product_type" title="Product type">product type</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Logical_disjunction" title="Logical disjunction">disjunction</a></td>
+<td><a href="/wiki/Sum_type" title="Sum type" class="mw-redirect">sum type</a></td>
+</tr>
+<tr>
+<td>true formula</td>
+<td><a href="/wiki/Unit_type" title="Unit type">unit type</a></td>
+</tr>
+<tr>
+<td>false formula</td>
+<td><a href="/wiki/Bottom_type" title="Bottom type">bottom type</a></td>
+</tr>
+</table>
+<p>At the level of proof systems and models of computations, the correspondence mainly shows the identity of structure, first, between some particular formulations of systems known as <a href="/wiki/Hilbert-style_deduction_system" title="Hilbert-style deduction system" class="mw-redirect">Hilbert-style deduction system</a> and <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a>, and, secondly, between some particular formulations of systems known as <a href="/wiki/Natural_deduction" title="Natural deduction">natural deduction</a> and <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a>.</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th style="width:300px">Logic side</th>
+<th style="width:300px">Programming side</th>
+</tr>
+<tr>
+<td><a href="/wiki/Hilbert-style_deduction_system" title="Hilbert-style deduction system" class="mw-redirect">Hilbert-style deduction system</a></td>
+<td>type system for <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Natural_deduction" title="Natural deduction">natural deduction</a></td>
+<td>type system for <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a></td>
+</tr>
+</table>
+<p>Between the natural deduction system and the lambda calculus there are the following correspondences:</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th style="width:300px">Logic side</th>
+<th style="width:300px">Programming side</th>
+</tr>
+<tr>
+<td><a href="/wiki/Hypotheses" title="Hypotheses" class="mw-redirect">hypotheses</a></td>
+<td>free variables</td>
+</tr>
+<tr>
+<td><a href="/wiki/Implication_elimination" title="Implication elimination" class="mw-redirect">implication elimination</a> (<i>modus ponens</i>)</td>
+<td><a href="/wiki/Apply" title="Apply">application</a></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Implication_introduction&amp;action=edit&amp;redlink=1" class="new" title="Implication introduction (page does not exist)">implication introduction</a></td>
+<td>abstraction</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Corresponding_systems">Corresponding systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=3" title="Edit section: Corresponding systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Hilbert-style_deduction_systems_and_combinatory_logic">Hilbert-style deduction systems and combinatory logic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=4" title="Edit section: Hilbert-style deduction systems and combinatory logic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It was at the beginning a simple remark in Curry and Feys's 1958 book on combinatory logic: the simplest types for the basic combinators K and S of <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a> surprisingly corresponded to the respective <a href="/wiki/Axiom_scheme" title="Axiom scheme" class="mw-redirect">axiom schemes</a> α → (β → α) and (α → (β → γ)) → ((α → β) → (α → γ)) used in <a href="/wiki/Hilbert-style_deduction_system" title="Hilbert-style deduction system" class="mw-redirect">Hilbert-style deduction systems</a>. For this reason, these schemes are now often called axioms K and S. Examples of programs seen as proofs in a Hilbert-style logic are given <a href="#Examples">below</a>.</p>
+<p>If one restricts to the implicational intuitionistic fragment, a simple way to formalize logic in Hilbert's style is as follows. Let Γ be a finite collection of formulas, considered as hypotheses. We say that δ is derivable from Γ, and we write Γ <span class="Unicode">⊢</span> δ, in the following cases:</p>
+<ul>
+<li>δ is an hypothesis, i.e. it is a formula of Γ,</li>
+<li>δ is an instance of an axiom scheme; i.e., under the most common axiom system:
+<ul>
+<li>δ has the form α → (β → α), or</li>
+<li>δ has the form (α → (β → γ)) → ((α → β) → (α → γ)),</li>
+</ul>
+</li>
+<li>δ follows by deduction, i.e., for some α, both α → δ and α are already derivable from Γ (this is the rule of <a href="/wiki/Modus_ponens" title="Modus ponens">modus ponens</a>)</li>
+</ul>
+<p>This can be formalized using <a href="/wiki/Inference_rules" title="Inference rules" class="mw-redirect">inference rules</a>, what we do in the left column of the following table.</p>
+<p>We can formulate typed combinatory logic using a similar syntax: let Γ be a finite collection of variables, annotated with their types. A term T (also annotated with its type) will depend on these variables [Γ <span class="Unicode">⊢</span> T:δ] when:</p>
+<ul>
+<li>T is one of the variables in Γ,</li>
+<li>T is a basic combinator; i.e., under the most common combinator basis:
+<ul>
+<li>T is K:α → (β → α) [where α and β denote the types of its arguments], or</li>
+<li>T is S:(α → (β → γ)) → ((α → β) → (α → γ)),</li>
+</ul>
+</li>
+<li>T is the composition of two subterms which depend on the variables in Γ.</li>
+</ul>
+<p>The generation rules defined here are given in the right-column below. Curry's remark simply states that both columns are in one-to-one correspondence. The restriction of the correspondence to <a href="/wiki/Intuitionistic_logic" title="Intuitionistic logic">intuitionistic logic</a> means that some <a href="/wiki/Classical_logic" title="Classical logic">classical</a> <a href="/wiki/Tautology_(logic)" title="Tautology (logic)">tautologies</a>, such as <a href="/wiki/Peirce%27s_law" title="Peirce's law">Peirce's law</a> ((α → β) → α) → α, are excluded from the correspondence.</p>
+<table style="text-align:center; margin: 0 auto;" class="wikitable">
+<tr>
+<th width="200px">Hilbert-style intuitionistic implicational logic</th>
+<th width="200px">Simply typed combinatory logic</th>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\alpha \in \Gamma}{\Gamma \vdash \alpha} \qquad\qquad\text{Assum}" src="//upload.wikimedia.org/math/a/6/f/a6f2522d3b4bdb4888ea320c94efd431.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{x:\alpha \in \Gamma}{\Gamma \vdash x:\alpha}" src="//upload.wikimedia.org/math/8/0/6/806f23456d2178fc36157d8570cda52c.png" /></td>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\Gamma \vdash \alpha \rightarrow (\beta \rightarrow \alpha)} \qquad\text{Ax}_K" src="//upload.wikimedia.org/math/4/2/d/42d9bb32c1a8f2850f25b911bb209ef6.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\Gamma \vdash K: \alpha \rightarrow (\beta \rightarrow \alpha)}" src="//upload.wikimedia.org/math/6/0/b/60bf0960d12cc0d32ad3e7ca65665376.png" /></td>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\Gamma \vdash (\alpha\!\rightarrow\!(\beta\!\rightarrow\!\gamma))\!\rightarrow\!((\alpha\!\rightarrow\!\beta)\!\rightarrow\!(\alpha\!\rightarrow\!\gamma))}\;\text{Ax}_S" src="//upload.wikimedia.org/math/4/5/b/45b95a4f3607f472efff9fffdfc0e48a.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\Gamma \vdash S: (\alpha\!\rightarrow\!(\beta\!\rightarrow\!\gamma))\!\rightarrow\!((\alpha\!\rightarrow\!\beta)\!\rightarrow\!(\alpha\!\rightarrow\!\gamma))}" src="//upload.wikimedia.org/math/5/d/1/5d1bdc3600885c87d99fa26d16cbe18d.png" /></td>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\Gamma \vdash \alpha \rightarrow \beta \qquad \Gamma \vdash \alpha}{\Gamma \vdash \beta}\quad\text{Modus Ponens}" src="//upload.wikimedia.org/math/0/f/9/0f9fd3edff8c9b10f16bfdedcedc0384.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\Gamma \vdash E_1:\alpha \rightarrow \beta \qquad \Gamma \vdash E_2:\alpha}{\Gamma \vdash E_1\;E_2:\beta} " src="//upload.wikimedia.org/math/f/4/5/f452b482bf46a0a25bda078667afbf95.png" /></td>
+</tr>
+</table>
+<p>Seen at a more abstract level, the correspondence can be restated as shown in the following table. Especially, the <a href="/wiki/Deduction_theorem" title="Deduction theorem">deduction theorem</a> specific to Hilbert-style logic matches the process of <a href="/wiki/Combinatory_logic#Conversion_of_a_lambda_term_to_an_equivalent_combinatorial_term" title="Combinatory logic">abstraction elimination</a> of combinatory logic.</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th style="width:200px">Logic side</th>
+<th style="width:200px">Programming side</th>
+</tr>
+<tr>
+<td>assumption</td>
+<td>variable</td>
+</tr>
+<tr>
+<td>axioms</td>
+<td>combinators</td>
+</tr>
+<tr>
+<td>modus ponens</td>
+<td>application</td>
+</tr>
+<tr>
+<td><a href="/wiki/Deduction_theorem" title="Deduction theorem">deduction theorem</a></td>
+<td><a href="/wiki/Combinatory_logic#Conversion_of_a_lambda_term_to_an_equivalent_combinatorial_term" title="Combinatory logic">abstraction elimination</a></td>
+</tr>
+</table>
+<p>Thanks to the correspondence, results from combinatory logic can be transferred to Hilbert-style logic and vice versa. For instance, the notion of <a href="/wiki/Combinatory_logic#Reduction_in_combinatory_logic" title="Combinatory logic">reduction</a> of terms in combinatory logic can be transferred to Hilbert-style logic and it provides a way to canonically transform proofs into other proofs of the same statement. One can also transfer the notion of normal terms to a notion of normal proofs, expressing that the hypotheses of the axioms never need to be all detached (since otherwise a simplification can happen).</p>
+<p>Conversely, the non provability in intuitionistic logic of <a href="/wiki/Peirce%27s_law" title="Peirce's law">Peirce's law</a> can be transferred back to combinatory logic: there is no typed term of combinatory logic that is typable with type ((α → β) → α) → α.</p>
+<p>Results on the completeness of some sets of combinators or axioms can also be transferred. For instance, the fact that the combinator <b>X</b> constitutes a <a href="/wiki/Combinatory_logic#One-point_basis" title="Combinatory logic">one-point basis</a> of (extensional) combinatory logic implies that the single axiom scheme</p>
+<dl>
+<dd>(((α → (β → γ)) → ((α → β) → (α → γ))) → ((δ → (ε → δ)) → ζ)) → ζ,</dd>
+</dl>
+<p>which is the <a href="/wiki/Principal_type" title="Principal type">principal type</a> of <b>X</b>, is an adequate replacement to the combination of the axiom schemes</p>
+<dl>
+<dd>α → (β → α) and</dd>
+<dd>(α → (β → γ)) → ((α → β) → (α → γ)).</dd>
+</dl>
+<h3><span class="mw-headline" id="Natural_deduction_and_lambda_calculus">Natural deduction and lambda calculus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=5" title="Edit section: Natural deduction and lambda calculus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>After <a href="/wiki/Haskell_Curry" title="Haskell Curry">Curry</a> emphasized the syntactic correspondence between <a href="/wiki/Hilbert-style_deduction_system" title="Hilbert-style deduction system" class="mw-redirect">Hilbert-style deduction</a> and <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a>, <a href="/wiki/William_Alvin_Howard" title="William Alvin Howard">Howard</a> made explicit in 1969 a syntactic analogy between the programs of <a href="/wiki/Simply_typed_lambda_calculus" title="Simply typed lambda calculus">simply typed lambda calculus</a> and the proofs of <a href="/wiki/Natural_deduction" title="Natural deduction">natural deduction</a>. Below, the left-hand side formalizes intuitionistic implicational natural deduction as a calculus of <a href="/wiki/Sequent" title="Sequent">sequents</a> (the use of sequents is standard in discussions of the Curry–Howard isomorphism as it allows the deduction rules to be stated more cleanly) with implicit weakening and the right-hand side shows the typing rules of <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a>. In the left-hand side, Γ, Γ<sub>1</sub> and Γ<sub>2</sub> denote ordered sequences of formulas while in the right-hand side, they denote sequences of named (i.e., typed) formulas with all names different.</p>
+<p><br /></p>
+<table class="wikitable" style="text-align:center; margin: 0 auto;" cellpadding="10">
+<tr>
+<th width="200px">Intuitionistic implicational natural deduction</th>
+<th width="200px">Lambda calculus type assignment rules</th>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\Gamma_1, \alpha, \Gamma_2 \vdash \alpha} \text{Ax}" src="//upload.wikimedia.org/math/c/0/a/c0a0e7ab4b7ab1e7e2a3179aadfbf860.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\Gamma_1, x:\alpha, \Gamma_2 \vdash x:\alpha}" src="//upload.wikimedia.org/math/2/f/a/2fae11ef425f69738fd40fe2f33f5348.png" /></td>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\Gamma, \alpha \vdash \beta}{\Gamma \vdash \alpha \rightarrow \beta} \rightarrow I" src="//upload.wikimedia.org/math/f/2/2/f223531c0a518ccf7ed934cf0d689e27.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\Gamma, x:\alpha \vdash t:\beta}{\Gamma \vdash \lambda x.t : \alpha \rightarrow \beta}" src="//upload.wikimedia.org/math/7/4/d/74dc99065ea44447b0eb5d42d24126e0.png" /></td>
+</tr>
+<tr style="height:70px" valign="bottom">
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\Gamma \vdash \alpha \rightarrow \beta \qquad \Gamma \vdash \alpha}{\Gamma \vdash \beta} \rightarrow E" src="//upload.wikimedia.org/math/1/5/d/15d9fb708118c922fe1f26eb8b8e10b9.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\frac{\Gamma \vdash t:\alpha \rightarrow \beta \qquad \Gamma \vdash u:\alpha}{\Gamma \vdash t\;u:\beta} " src="//upload.wikimedia.org/math/b/f/0/bf0d1d3dadacd388112b4e69e0e5fde3.png" /></td>
+</tr>
+</table>
+<p>To paraphrase the correspondence, proving Γ <span class="Unicode">⊢</span> α means having a program that, given values with the types listed in Γ, manufactures an object of type α. An axiom corresponds to the introduction of a new variable with a new, unconstrained type, the →&#160;I rule corresponds to function abstraction and the →&#160;E rule corresponds to function application. Observe that the correspondence is not exact if the context Γ is taken to be a set of formulas as, e.g., the λ-terms λx.λy.x and λx.λy.y of type α → α → α would not be distinguished in the correspondence. Examples are given <a href="#Examples">below</a>.</p>
+<p>Howard showed that the correspondence extends to other connectives of the logic and other constructions of simply typed lambda calculus. Seen at an abstract level, the correspondence can then be summarized as shown in the following table. Especially, it also shows that the notion of normal forms in <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a> matches <a href="/wiki/Dag_Prawitz" title="Dag Prawitz">Prawitz</a>'s notion of normal deduction in <a href="/wiki/Natural_deduction" title="Natural deduction">natural deduction</a>, from what we deduce, among others, that the algorithms for the <a href="/wiki/Type_inhabitation_problem" title="Type inhabitation problem" class="mw-redirect">type inhabitation problem</a> can be turned into algorithms for deciding <a href="/wiki/Intuitionistic" title="Intuitionistic" class="mw-redirect">intuitionistic</a> provability.</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th style="width:200px">Logic side</th>
+<th style="width:200px">Programming side</th>
+</tr>
+<tr>
+<td>axiom</td>
+<td>variable</td>
+</tr>
+<tr>
+<td>introduction rule</td>
+<td>constructor</td>
+</tr>
+<tr>
+<td>elimination rule</td>
+<td>destructor</td>
+</tr>
+<tr>
+<td>normal deduction</td>
+<td>normal form</td>
+</tr>
+<tr>
+<td>normalisation of deductions</td>
+<td><a href="/wiki/Normalization_property_(lambda-calculus)" title="Normalization property (lambda-calculus)" class="mw-redirect">weak normalisation</a></td>
+</tr>
+<tr>
+<td>provability</td>
+<td><a href="/wiki/Type_inhabitation_problem" title="Type inhabitation problem" class="mw-redirect">type inhabitation problem</a></td>
+</tr>
+<tr>
+<td>intuitionistic tautology</td>
+<td>inhabited type</td>
+</tr>
+</table>
+<p>Howard's correspondence naturally extends to other extensions of <a href="/wiki/Natural_deduction" title="Natural deduction">natural deduction</a> and <a href="/wiki/Simply_typed_lambda_calculus" title="Simply typed lambda calculus">simply typed lambda calculus</a>. Here is a non exhaustive list:</p>
+<ul>
+<li>Girard-Reynolds <a href="/wiki/System_F" title="System F">System F</a> as a common language for both second-order propositional logic and polymorphic lambda calculus,</li>
+<li><a href="/wiki/Higher-order_logic" title="Higher-order logic">higher-order logic</a> and Girard's <a href="/wiki/System_F" title="System F">System F<sub>ω</sub></a></li>
+<li>inductive types as <a href="/wiki/Algebraic_data_type" title="Algebraic data type">algebraic data type</a></li>
+<li>necessity <img class="mwe-math-fallback-image-inline tex" alt="\Box" src="//upload.wikimedia.org/math/9/d/8/9d8f6d53ad070771a6910933810023c4.png" /> in <a href="/wiki/Modal_logic" title="Modal logic">modal logic</a> and staged computation<sup id="cite_ref-DaviesPfenningStaged_8-0" class="reference"><a href="#cite_note-DaviesPfenningStaged-8"><span>[</span>ext 2<span>]</span></a></sup></li>
+<li>possibility <img class="mwe-math-fallback-image-inline tex" alt="\Diamond" src="//upload.wikimedia.org/math/6/a/2/6a2084de787fb2d1c3e408d926425904.png" /> in <a href="/wiki/Modal_logic" title="Modal logic">modal logic</a> and monadic types for effects<sup id="cite_ref-PfenningDaviesJudgmental_7-1" class="reference"><a href="#cite_note-PfenningDaviesJudgmental-7"><span>[</span>ext 1<span>]</span></a></sup></li>
+<li>The λ<sub>I</sub> calculus corresponds to <a href="/wiki/Relevant_logic" title="Relevant logic" class="mw-redirect">relevant logic</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>7<span>]</span></a></sup></li>
+<li>The local truth (∇) modality in <a href="/wiki/Grothendieck_topology" title="Grothendieck topology">Grothendieck topology</a> or the equivalent "lax" modality (∘) of Benton, Bierman, and de Paiva (1998) correspond to CL-logic describing "computation types".<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Classical_logic_and_control_operators">Classical logic and control operators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=6" title="Edit section: Classical logic and control operators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the time of Curry, and also at the time of Howard, the proofs-as-programs correspondence concerned only <a href="/wiki/Intuitionistic_logic" title="Intuitionistic logic">intuitionistic logic</a>, i.e. a logic in which, in particular, <a href="/wiki/Peirce%27s_law" title="Peirce's law">Peirce's law</a> was <i>not</i> deducible. The extension of the correspondence to Peirce's law and hence to <a href="/wiki/Classical_logic" title="Classical logic">classical logic</a> became clear from the work of Griffin on typing operators that capture the evaluation context of a given program execution so that this evaluation context can be later on reinstalled. The basic Curry–Howard-style correspondence for classical logic is given below. Note the correspondence between the <a href="/wiki/Double-negation_translation" title="Double-negation translation">double-negation translation</a> used to map classical proofs to intuitionistic logic and the <a href="/wiki/Continuation-passing_style" title="Continuation-passing style">continuation-passing-style</a> translation used to map lambda terms involving control to pure lambda terms. More particularly, call-by-name continuation-passing-style translations relates to <a href="/wiki/Kolmogorov" title="Kolmogorov" class="mw-redirect">Kolmogorov</a>'s double negation translation and call-by-value continuation-passing-style translations relates to a kind of double-negation translation due to Kuroda.</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th width="200px">Logic side</th>
+<th width="200px">Programming side</th>
+</tr>
+<tr>
+<td><a href="/wiki/Peirce%27s_law" title="Peirce's law">Peirce's law</a>: ((α → β) → α) → α</td>
+<td><a href="/wiki/Call-with-current-continuation" title="Call-with-current-continuation">call-with-current-continuation</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Double-negation_translation" title="Double-negation translation">double-negation translation</a></td>
+<td><a href="/wiki/Continuation-passing_style" title="Continuation-passing style">continuation-passing-style translation</a></td>
+</tr>
+</table>
+<p>A finer Curry–Howard correspondence exists for classical logic if one defines classical logic not by adding an axiom such as <a href="/wiki/Peirce%27s_law" title="Peirce's law">Peirce's law</a>, but by allowing several conclusions in sequents. In the case of classical natural deduction, there exists a proofs-as-programs correspondence with the typed programs of Parigot's <a href="/wiki/Lambda-mu_calculus" title="Lambda-mu calculus">λμ-calculus</a>.</p>
+<h3><span class="mw-headline" id="Sequent_calculus">Sequent calculus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=7" title="Edit section: Sequent calculus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A proofs-as-programs correspondence can be settled for the formalism known as <a href="/wiki/Gentzen" title="Gentzen" class="mw-redirect">Gentzen</a>'s <a href="/wiki/Sequent_calculus" title="Sequent calculus">sequent calculus</a> but it is not a correspondence with a well-defined pre-existing model of computation as it was for Hilbert-style and natural deductions.</p>
+<p>Sequent calculus is characterized by the presence of left introduction rules, right introduction rule and a cut rule that can be eliminated. The structure of sequent calculus relates to a calculus whose structure is close to the one of some <a href="/wiki/Abstract_machine" title="Abstract machine">abstract machines</a>. The informal correspondence is as follows:</p>
+<table class="wikitable" style="margin: 0 auto; text-align: center;">
+<tr>
+<th style="width:200px">Logic side</th>
+<th style="width:200px">Programming side</th>
+</tr>
+<tr>
+<td>cut elimination</td>
+<td>reduction in a form of abstract machine</td>
+</tr>
+<tr>
+<td>right introduction rules</td>
+<td>constructors of code</td>
+</tr>
+<tr>
+<td>left introduction rules</td>
+<td>constructors of evaluation stacks</td>
+</tr>
+<tr>
+<td>priority to right-hand side in cut-elimination</td>
+<td><a href="/wiki/Call-by-name" title="Call-by-name" class="mw-redirect">call-by-name</a> reduction</td>
+</tr>
+<tr>
+<td>priority to left-hand side in cut-elimination</td>
+<td><a href="/wiki/Call-by-value" title="Call-by-value" class="mw-redirect">call-by-value</a> reduction</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Related_proofs-as-programs_correspondences">Related proofs-as-programs correspondences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=8" title="Edit section: Related proofs-as-programs correspondences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_role_of_de_Bruijn">The role of de Bruijn</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=9" title="Edit section: The role of de Bruijn">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Nicolaas_Govert_de_Bruijn" title="Nicolaas Govert de Bruijn">N. G. de Bruijn</a> used the lambda notation for representing proofs of the theorem checker <a href="/wiki/Automath" title="Automath">Automath</a>, and represented propositions as "categories" of their proofs. It was in the late 1960s at the same period of time Howard wrote his manuscript; de Bruijn was likely unaware of Howard's work, and stated the correspondence independently (Sørensen &amp; Urzyczyn [1998] 2006, pp 98–99). Some researchers tend to use the term Curry–Howard–de Bruijn correspondence in place of Curry–Howard correspondence.</p>
+<h3><span class="mw-headline" id="BHK_interpretation">BHK interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=10" title="Edit section: BHK interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/BHK_interpretation" title="BHK interpretation" class="mw-redirect">BHK interpretation</a> interprets intuitionistic proofs as functions but it does not specify the class of functions relevant for the interpretation. If one takes lambda calculus for this class of function, then the <a href="/wiki/BHK_interpretation" title="BHK interpretation" class="mw-redirect">BHK interpretation</a> tells the same as Howard's correspondence between natural deduction and lambda calculus.</p>
+<h3><span class="mw-headline" id="Realizability">Realizability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=11" title="Edit section: Realizability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Stephen_Cole_Kleene" title="Stephen Cole Kleene">Kleene</a>'s recursive <a href="/wiki/Realizability" title="Realizability">realizability</a> splits proofs of intuitionistic arithmetic into the pair of a recursive function and of a proof of a formula expressing that the recursive function "realizes", i.e. correctly instantiates the disjunctions and existential quantifiers of the initial formula so that the formula gets true.</p>
+<p><a href="/wiki/Georg_Kreisel" title="Georg Kreisel">Kreisel</a>'s modified realizability applies to intuitionistic higher-order predicate logic and shows that the <a href="/wiki/Simply_typed_lambda_calculus" title="Simply typed lambda calculus">simply typed lambda term</a> inductively extracted from the proof realizes the initial formula. In the case of propositional logic, it coincides with Howard's statement: the extracted lambda term is the proof itself (seen as an untyped lambda term) and the realizability statement is a paraphrase of the fact that the extracted lambda term has the type that the formula means (seen as a type).</p>
+<p><a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Gödel</a>'s <a href="/wiki/Dialectica_interpretation" title="Dialectica interpretation">dialectica interpretation</a> realizes (an extension of) intuitionistic arithmetic with computable functions. The connection with lambda calculus is unclear, even in the case of natural deduction.</p>
+<h3><span class="mw-headline" id="Curry.E2.80.93Howard.E2.80.93Lambek_correspondence">Curry–Howard–Lambek correspondence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=12" title="Edit section: Curry–Howard–Lambek correspondence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Joachim_Lambek" title="Joachim Lambek">Joachim Lambek</a> showed in the early 1970s that the proofs of intuitionistic propositional logic and the combinators of typed <a href="/wiki/Combinatory_logic" title="Combinatory logic">combinatory logic</a> share a common equational theory which is the one of <a href="/wiki/Cartesian_closed_categories" title="Cartesian closed categories" class="mw-redirect">cartesian closed categories</a>. The expression Curry–Howard–Lambek correspondence is now used by some people to refer to the three way isomorphism between intuitionistic logic, typed lambda calculus and cartesian closed categories, with objects being interpreted as types or propositions and morphisms as terms or proofs. The correspondence works at the equational level and is not the expression of a syntactic identity of structures as it is the case for each of Curry's and Howard's correspondences: i.e. the structure of a well-defined morphism in a cartesian-closed category is not comparable to the structure of a proof of the corresponding judgment in either Hilbert-style logic or natural deduction. To clarify this distinction, the underlying syntactic structure of cartesian closed categories is rephrased below.</p>
+<p>Objects (types) are defined by</p>
+<ul>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\top" src="//upload.wikimedia.org/math/0/9/c/09c35e480ff978d5868d6e09f324f913.png" /> is an object</li>
+<li>if <img class="mwe-math-fallback-image-inline tex" alt="\alpha" src="//upload.wikimedia.org/math/b/c/c/bccfc7022dfb945174d9bcebad2297bb.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\beta" src="//upload.wikimedia.org/math/0/7/1/071997f13634882f823041b057f90923.png" /> are objects then <img class="mwe-math-fallback-image-inline tex" alt="\alpha \times \beta" src="//upload.wikimedia.org/math/9/e/3/9e34b98bb97608b3f75e0d1ca4e929af.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\alpha \rightarrow \beta" src="//upload.wikimedia.org/math/6/d/6/6d60466dde1f5f57fd2e5f15d6d10171.png" /> are objects.</li>
+</ul>
+<p>Morphisms (terms) are defined by</p>
+<ul>
+<li><img class="mwe-math-fallback-image-inline tex" alt="id" src="//upload.wikimedia.org/math/b/8/0/b80bb7740288fda1f201890375a60c8f.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\star" src="//upload.wikimedia.org/math/2/3/d/23d64887f9c2add7a296e5b99acbbdfb.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\operatorname{eval}" src="//upload.wikimedia.org/math/8/2/b/82b9c6e065d990ad4b31f9c1e5d33d5d.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\pi_1" src="//upload.wikimedia.org/math/2/3/b/23bbd698ad7518cd800cc57921436e96.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\pi_2" src="//upload.wikimedia.org/math/3/8/6/38680b6a1bf1f27d2587dc33df489cde.png" /> are morphisms</li>
+<li>if <img class="mwe-math-fallback-image-inline tex" alt="t" src="//upload.wikimedia.org/math/e/3/5/e358efa489f58062f10dd7316b65649e.png" /> is a morphism, <img class="mwe-math-fallback-image-inline tex" alt="\lambda t" src="//upload.wikimedia.org/math/e/a/c/eac5b4e1b73941d68f1a5deabca0d9a7.png" /> is a morphism</li>
+<li>if <img class="mwe-math-fallback-image-inline tex" alt="t" src="//upload.wikimedia.org/math/e/3/5/e358efa489f58062f10dd7316b65649e.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="u" src="//upload.wikimedia.org/math/7/b/7/7b774effe4a349c6dd82ad4f4f21d34c.png" /> are morphisms, <img class="mwe-math-fallback-image-inline tex" alt="(t, u)" src="//upload.wikimedia.org/math/3/f/c/3fca191045463316409e427d17b4a7cf.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="u \circ t" src="//upload.wikimedia.org/math/9/2/6/9262b32061bb3af5c378ee014e9c22ad.png" /> are morphisms.</li>
+</ul>
+<p>Well-defined morphisms (typed terms) are defined by the following <a href="/wiki/Type_rule" title="Type rule">typing rules</a> (in which the usual categorical morphism notation <img class="mwe-math-fallback-image-inline tex" alt="f : \alpha \to \beta" src="//upload.wikimedia.org/math/6/9/c/69ca274555cbf67287b3fd71b87367e2.png" /> is replaced with <a href="/wiki/Sequent_calculus" title="Sequent calculus">sequent calculus</a> notation <img class="mwe-math-fallback-image-inline tex" alt="f :\!\!-~~ \alpha ~\vdash~ \beta" src="//upload.wikimedia.org/math/d/b/8/db884b1dda058c9c899730a247d97d6b.png" />).</p>
+<p>Identity:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{id:\!\!-~~ \alpha ~\vdash~ \alpha}" src="//upload.wikimedia.org/math/e/d/9/ed9e13f0c1c2f834946d0d01c49db523.png" /></dd>
+</dl>
+<p>Composition:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{t:\!\!-~~ \alpha ~\vdash~ \beta\qquad u:\!\!-~~ \beta ~\vdash~ \gamma}{u \circ t:\!\!- ~\alpha ~\vdash~ \gamma}" src="//upload.wikimedia.org/math/2/8/c/28cbe51a18179e9add1837657fc1d4e5.png" /></dd>
+</dl>
+<p><a href="/wiki/Unit_type" title="Unit type">Unit type</a> (<a href="/wiki/Terminal_object" title="Terminal object" class="mw-redirect">terminal object</a>):</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\star:\!\!-~~\alpha ~\vdash~ \top}" src="//upload.wikimedia.org/math/3/2/8/3283604500ffb857226d7be37e212d75.png" /></dd>
+</dl>
+<p>Cartesian product:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{t:\!\!-~~\alpha ~\vdash~ \beta\qquad u:\!\!-~~\alpha ~\vdash~ \gamma}{(t,u):\!\!-~~ \alpha ~\vdash~ \beta \times \gamma}" src="//upload.wikimedia.org/math/8/9/8/898667c9d9417308ea4a19eb464f3221.png" /></dd>
+</dl>
+<p>Left and right projection:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{\pi_1:\!\!-~~ \alpha \times \beta ~\vdash~ \alpha}\qquad\frac{}{\pi_2:\!\!-~~ \alpha \times \beta ~\vdash~ \beta}" src="//upload.wikimedia.org/math/d/1/3/d13f91d6af687b5eed9811ed3a7669f7.png" /></dd>
+</dl>
+<p><a href="/wiki/Currying" title="Currying">Currying</a>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{t:\!\!-~~ \alpha \times \beta ~\vdash~ \gamma}{\lambda t:\!\!-~~ \alpha ~\vdash~ \beta \rightarrow \gamma}" src="//upload.wikimedia.org/math/d/0/d/d0d2dccd5f063686cd2a81c990afc616.png" /></dd>
+</dl>
+<p><a href="/wiki/Apply" title="Apply">Application</a>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{}{eval:\!\!-~~ (\alpha \rightarrow \beta) \times \alpha ~\vdash~ \beta}" src="//upload.wikimedia.org/math/3/1/3/31338cfdc50168c7e201533890165c63.png" /></dd>
+</dl>
+<p>Finally, the equations of the category are</p>
+<ul>
+<li><img class="mwe-math-fallback-image-inline tex" alt="id \circ t = t" src="//upload.wikimedia.org/math/6/4/5/645badb69aaac3730ae22561d3dfc3a2.png" />, <img class="mwe-math-fallback-image-inline tex" alt="t \circ id = t" src="//upload.wikimedia.org/math/8/3/9/839f3a85778ebc16bfb041859012d7aa.png" />, <img class="mwe-math-fallback-image-inline tex" alt="(v \circ u) \circ t = v \circ (u \circ t)" src="//upload.wikimedia.org/math/f/6/3/f63df1779ff4899919df4b44772fcca5.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\star \circ t = \star" src="//upload.wikimedia.org/math/3/d/8/3d8b965db665db65ebadac3b1cbc8ce4.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\pi_1 \circ (t, u) = t, \pi_2 \circ (t,u) = u, (\pi_1 \circ t, \pi_2 \circ t) = t" src="//upload.wikimedia.org/math/0/a/e/0aed19aa8d63340a44610166fb99fde5.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="eval \circ (\lambda t \circ \pi_1, \pi_2) = t, \lambda eval = id" src="//upload.wikimedia.org/math/6/0/8/608ccb25f32c06609403eaa428b773bf.png" /></li>
+</ul>
+<p>Now, there exists <img class="mwe-math-fallback-image-inline tex" alt="t" src="//upload.wikimedia.org/math/e/3/5/e358efa489f58062f10dd7316b65649e.png" /> such that <img class="mwe-math-fallback-image-inline tex" alt="t:\!\!-~ \alpha_1 \times \ldots \times \alpha_n \vdash \beta" src="//upload.wikimedia.org/math/5/f/c/5fcacfb473cb2a10dc596ca1f8405bf4.png" /> iff <img class="mwe-math-fallback-image-inline tex" alt="\alpha_1, \ldots, \alpha_n \vdash \beta " src="//upload.wikimedia.org/math/c/d/8/cd85a50a136c2cb999764df20142c908.png" /> is provable in implicational intuitionistic logic,.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=13" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thanks to the Curry–Howard correspondence, a typed expression whose type corresponds to a logical formula is analogous to a proof of that formula. Here are examples.</p>
+<dl>
+<dt>The identity combinator seen as a proof of <tt>α → α</tt> in Hilbert-style logic</dt>
+</dl>
+<p>As a simple example, we construct a proof of the theorem <tt>α → α</tt>. In <a href="/wiki/Lambda_calculus" title="Lambda calculus">lambda calculus</a>, this is the type of the identity function <b>I</b> = λ<i>x</i>.<i>x</i> and in combinatory logic, the identity function is obtained by applying <i>S</i> twice to <b>K</b>. That is, we have <b>I</b> = ((<b>S</b> <b>K</b>) <b>K</b>). As a description of a proof, this says that to prove <tt>α → α</tt>, we can proceed as follows:</p>
+<ul>
+<li>instantiate the second axiom scheme with the formulas <tt>α</tt>, <tt>β → α</tt> and <tt>α</tt>, so that to obtain a proof of <tt>(α → ((β → α) → α)) → ((α → (β → α)) → (α → α))</tt>,</li>
+<li>instantiate the first axiom scheme once with <tt>α</tt> and <tt>β → α</tt>, so that to obtain a proof of <tt>α → ((β → α) → α)</tt>,</li>
+<li>instantiate the first axiom scheme a second time with <tt>α</tt> and <tt>β</tt>, so that to obtain a proof of <tt>α → (β → α)</tt>,</li>
+<li>apply modus ponens twice so that to obtain a proof of <tt>α → α</tt></li>
+</ul>
+<p>In general, the procedure is that whenever the program contains an application of the form (<i>P</i> <i>Q</i>), we should first prove theorems corresponding to the types of <i>P</i> and <i>Q</i>. Since <i>P</i> is being applied to <i>Q</i>, the type of <i>P</i> must have the form α → β and the type of <i>Q</i> must have the form α for some <tt>α</tt> and <tt>β</tt>. We can then detach the conclusion, <tt>β</tt>, via the modus ponens rule.</p>
+<dl>
+<dt>The composition combinator seen as a proof of <tt>(β → α) → (γ → β) → γ → α</tt> in Hilbert-style logic</dt>
+</dl>
+<p>As a more complicated example, let's look at the theorem that corresponds to the <b>B</b> function. The type of <b>B</b> is (β → α) → (γ → β) → γ → α. <b>B</b> is equivalent to (<b>S</b> (<b>K</b> <b>S</b>) <b>K</b>). This is our roadmap for the proof of the theorem (β → α) → (γ → β) → γ → α.</p>
+<p>First we need to construct (<b>K</b> <b>S</b>). We make the antecedent of the <b>K</b> axiom look like the <b>S</b> axiom by setting α equal to <tt>(α → β → γ) → (α → β) → α → γ</tt>, and <tt>β</tt> equal to <tt>δ</tt> (to avoid variable collisions):</p>
+<dl>
+<dd><tt><b>K</b>&#160;: α → β → α</tt></dd>
+<dd><tt><b>K</b>[α = (α → β → γ) → (α → β) → α → γ, β=δ]&#160;: ((α → β → γ) → (α → β) → α → γ) → δ → (α → β → γ) → (α → β) → α → γ</tt></dd>
+</dl>
+<p>Since the antecedent here is just <b>S</b>, we can detach the consequent using Modus Ponens:</p>
+<dl>
+<dd><tt><b>K S</b>&#160;: δ → (α → β → γ) → (α → β) → α → γ</tt></dd>
+</dl>
+<p>This is the theorem that corresponds to the type of (<b>K</b> <b>S</b>). We now apply <b>S</b> to this expression. Taking <b>S</b></p>
+<dl>
+<dd><tt><b>S</b>&#160;: (α → β → γ) → (α → β) → α → γ</tt></dd>
+</dl>
+<p>we put <tt>α</tt> = <tt>δ</tt>, <tt>β</tt> = <tt>α → β → γ</tt>, and <tt>γ</tt> = <tt>(α → β) → α → γ</tt>, yielding</p>
+<dl>
+<dd><tt><b>S</b>[α = δ, β = α → β → γ, γ = (α → β) → α → γ]&#160;: (δ → (α → β → γ) → (α → β) → α → γ) → (δ → (α → β → γ)) → δ → (α → β) → α → γ</tt></dd>
+</dl>
+<p>and we then detach the consequent:</p>
+<dl>
+<dd><tt><b>S (K S)</b>&#160;: (δ → α → β → γ) → δ → (α → β) → α → γ</tt></dd>
+</dl>
+<p>This is the formula for the type of (<b>S</b> (<b>K</b> <b>S</b>)). A special case of this theorem has <tt>δ</tt> = <tt>(β → γ)</tt>:</p>
+<dl>
+<dd><tt><b>S (K S)</b>[δ = β → γ]&#160;: ((β → γ) → α → β → γ) → (β → γ) → (α → β) → α → γ</tt></dd>
+</dl>
+<p>We need to apply this last formula to <b>K</b>. Again, we specialize <b>K</b>, this time by replacing <tt>α</tt> with <tt>(β → γ)</tt> and <tt>β</tt> with <tt>α</tt>:</p>
+<dl>
+<dd><tt><b>K</b>&#160;: α → β → α</tt></dd>
+<dd><tt><b>K</b>[α = β → γ, β = α]&#160;: (β → γ) → α → (β → γ)</tt></dd>
+</dl>
+<p>This is the same as the antecedent of the prior formula, so we detach the consequent:</p>
+<dl>
+<dd><tt><b>S (K S) K</b>&#160;: (β → γ) → (α → β) → α → γ</tt></dd>
+</dl>
+<p>Switching the names of the variables <tt>α</tt> and <tt>γ</tt> gives us</p>
+<dl>
+<dd><tt>(β → α) → (γ → β) → γ → α</tt></dd>
+</dl>
+<p>which was what we had to prove.</p>
+<dl>
+<dt>The normal proof of <tt>(β → α) → (γ → β) → γ → α</tt> in natural deduction seen as a λ-term</dt>
+</dl>
+<p>We give below a proof of <tt>(β → α) → (γ → β) → γ → α</tt> in natural deduction and show how it can be interpreted as the λ-expression λ <i>a</i>. λ<i>b</i>. λ <i>g</i>.(<i>a</i> (<i>b</i> <i>g</i>)) of type <tt>(β → α) → (γ → β) → γ → α</tt>.</p>
+<pre>
+                                     a:β → α, b:γ → β, g:γ <span class="Unicode">⊢</span> b : γ → β    a:β → α, b:γ → β, g:γ <span class="Unicode">⊢</span> g : γ
+———————————————————————————————————  ————————————————————————————————————————————————————————————————————
+a:β → α, b:γ → β, g:γ <span class="Unicode">⊢</span> a : β → α      a:β → α, b:γ → β, g:γ <span class="Unicode">⊢</span> b g : β
+————————————————————————————————————————————————————————————————————————
+               a:β → α, b:γ → β, g:γ <span class="Unicode">⊢</span> a (b g) : α
+               ————————————————————————————————————
+               a:β → α, b:γ → β <span class="Unicode">⊢</span> λ g. a (b g) : γ → α
+               ————————————————————————————————————————
+                        a:β → α <span class="Unicode">⊢</span> λ b. λ g. a (b g) : (γ → β) -&gt; γ → α
+                        ————————————————————————————————————
+                                <span class="Unicode">⊢</span> λ a. λ b. λ g. a (b g) : (β → α) -&gt; (γ → β) -&gt; γ → α
+</pre>
+<h2><span class="mw-headline" id="Other_applications">Other applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=14" title="Edit section: Other applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Recently, the isomorphism has been proposed as a way to define search space partition in <a href="/wiki/Genetic_programming" title="Genetic programming">Genetic programming</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>9<span>]</span></a></sup> The method indexes sets of genotypes (the program trees evolved by the GP system) by their Curry–Howard isomorphic proof (referred to as a species).</p>
+<h2><span class="mw-headline" id="Generalizations">Generalizations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=15" title="Edit section: Generalizations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The correspondences listed here go much farther and deeper. For example, cartesian closed categories are generalized by <a href="/wiki/Closed_monoidal_category" title="Closed monoidal category">closed monoidal categories</a>. The <a href="/wiki/Internal_language" title="Internal language" class="mw-redirect">internal language</a> of these categories is the <a href="/wiki/Linear_type_system" title="Linear type system" class="mw-redirect">linear type system</a> (corresponding to <a href="/wiki/Linear_logic" title="Linear logic">linear logic</a>), which generalizes simply-typed lambda calculus as the internal language of cartesian closed categories. What's more, these can be shown to correspond to <a href="/wiki/Cobordism" title="Cobordism">cobordisms</a>,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>10<span>]</span></a></sup> which play a vital role in <a href="/wiki/String_theory" title="String theory">string theory</a>.</p>
+<p>An extended set of equivalences is also explored in <a href="/wiki/Homotopy_type_theory" title="Homotopy type theory">homotopy type theory</a>, which is a very active area of research at this time (2013). Here, <a href="/wiki/Type_theory" title="Type theory">type theory</a> is extended by the <a href="/wiki/Univalence_axiom" title="Univalence axiom" class="mw-redirect">univalence axiom</a>, ('equivalence is equivalent to equality') which permits homotopy type theory to be used as a foundation for all of mathematics (including <a href="/wiki/Set_theory" title="Set theory">set theory</a> and classical logic, providing new ways to discuss the <a href="/wiki/Axiom_of_choice" title="Axiom of choice">axiom of choice</a> and many other things). That is, the Curry–Howard correspondence that proofs are elements of inhabited types is generalized to the notion <a href="/wiki/Homotopy" title="Homotopy">homotopic equivalence</a> of proofs (as paths in space, the <a href="/wiki/Identity_type" title="Identity type" class="mw-redirect">identity type</a> or <a href="/wiki/Intuitionistic_type_theory#Connectives_of_type_theory" title="Intuitionistic type theory">equality type</a> of type theory being interpreted as a path).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(April 2010)</i></small></span></td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The correspondence was first made explicit in <a href="#CITEREFHoward1980">Howard 1980</a>. See, for example section 4.6, p.53 <a rel="nofollow" class="external text" href="http://www.ps.uni-saarland.de/courses/sem-ws07/notes/0.pdf">Gert Smolka and Jan Schwinghammer (2007-8), Lecture Notes in Semantics</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The Brouwer–Heyting–Kolmogorov interpretation is also called the 'proof interpretation': p. 161 of Juliette Kennedy, Roman Kossak, eds. 2011. <i><a rel="nofollow" class="external text" href="http://books.google.com/books?id=x1aPcJnz4iYC&amp;pg=PA161&amp;dq=Brouwer%E2%80%93Heyting%E2%80%93Kolmogorov+interpretation&amp;hl=en&amp;sa=X&amp;ei=CbdRVPvyB6-_iQL--YG4AQ&amp;ved=0CCcQ6AEwAQ#v=onepage&amp;q=Brouwer%E2%80%93Heyting%E2%80%93Kolmogorov%20interpretation&amp;f=false">Set Theory, Arithmetic, and Foundations of Mathematics: Theorems, Philosophies</a></i> <a href="/wiki/Special:BookSources/9781107008045" class="internal mw-magiclink-isbn">ISBN 978-1-107-00804-5</a></span></li>
+<li id="cite_note-FOOTNOTECurry1934-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECurry1934_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCurry1934">Curry 1934</a>.</span></li>
+<li id="cite_note-FOOTNOTECurryFeys1958-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECurryFeys1958_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCurryFeys1958">Curry &amp; Feys 1958</a>.</span></li>
+<li id="cite_note-FOOTNOTEHoward1980-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHoward1980_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHoward1980">Howard 1980</a>.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span id="CITEREFMoggi1991" class="citation">Moggi, Eugenio (1991), <a rel="nofollow" class="external text" href="http://www.disi.unige.it/person/MoggiE/ftp/ic91.pdf">"Notions of Computation and Monads"</a> <span style="font-size:85%;">(PDF)</span>, <i>Information and Computation</i> <b>93</b> (1), <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0890-5401%2891%2990052-4">10.1016/0890-5401(91)90052-4</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Notions+of+Computation+and+Monads&amp;rft.aufirst=Eugenio&amp;rft.aulast=Moggi&amp;rft.au=Moggi%2C+Eugenio&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.disi.unige.it%2Fperson%2FMoggiE%2Fftp%2Fic91.pdf&amp;rft_id=info%3Adoi%2F10.1016%2F0890-5401%2891%2990052-4&amp;rft.issue=1&amp;rft.jtitle=Information+and+Computation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span id="CITEREFS.C3.B8rensonUrzyczyn" class="citation">Sørenson, Morten; Urzyczyn, Paweł, <i>Lectures on the Curry-Howard Isomorphism</i>, <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385">10<wbr />.1<wbr />.1<wbr />.17<wbr />.7385</a></span></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.aufirst=Morten&amp;rft.aulast=S%C3%B8renson&amp;rft.au=S%C3%B8renson%2C+Morten&amp;rft.au=Urzyczyn%2C+Pawe%C5%82&amp;rft.btitle=Lectures+on+the+Curry-Howard+Isomorphism&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span id="CITEREFGoldblatt" class="citation">Goldblatt, "7.6 Grothendieck Topology as Intuitionistic Modality", <a rel="nofollow" class="external text" href="http://homepages.mcs.vuw.ac.nz/~rob/papers/modalhist.pdf"><i>Mathematical Modal Logic: A Model of its Evolution</i></a> <span style="font-size:85%;">(PDF)</span>, pp.&#160;76–81</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=7.6+Grothendieck+Topology+as+Intuitionistic+Modality&amp;rft.au=Goldblatt&amp;rft.aulast=Goldblatt&amp;rft.btitle=Mathematical+Modal+Logic%3A+A+Model+of+its+Evolution&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fhomepages.mcs.vuw.ac.nz%2F~rob%2Fpapers%2Fmodalhist.pdf&amp;rft.pages=76-81&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>. The "lax" modality referred to is from <span id="CITEREFBentonBiermande_Paiva1998" class="citation">Benton; Bierman; de Paiva (1998), "Computational types from a logical perspective", <i>Journal of Functional Programming</i> <b>8</b>: 177–193, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2Fs0956796898002998">10.1017/s0956796898002998</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Computational+types+from+a+logical+perspective&amp;rft.au=Benton&amp;rft.au=Bierman&amp;rft.au=de+Paiva&amp;rft.aulast=Benton&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1017%2Fs0956796898002998&amp;rft.jtitle=Journal+of+Functional+Programming&amp;rft.pages=177-193&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">F. Binard and A. Felty, "Genetic programming with polymorphic types and higher-order functions." In <i>Proceedings of the 10th annual conference on Genetic and evolutionary computation,</i> pages 1187 1194, 2008.<a rel="nofollow" class="external autonumber" href="http://www.site.uottawa.ca/~afelty/dist/gecco08.pdf">[1]</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">John c. Baez and Mike Stay, "<a rel="nofollow" class="external text" href="http://math.ucr.edu/home/baez/rosetta/rose3.pdf">Physics, Topology, Logic and Computation: A Rosetta Stone</a>", (2009) <a rel="nofollow" class="external text" href="http://arxiv.org/abs/0903.0340/">ArXiv 0903.0340</a> in <i>New Structures for Physics</i>, ed. Bob Coecke, <i>Lecture Notes in Physics</i> vol. <b>813</b>, Springer, Berlin, 2011, pp. 95-174.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://homotopytypetheory.org/book/"><i>Homotopy Type Theory: Univalent Foundations of Mathematics</i></a>. (2013) The Univalent Foundations Program. <a href="/wiki/Institute_for_Advanced_Study" title="Institute for Advanced Study">Institute for Advanced Study</a>.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Seminal_references">Seminal references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=17" title="Edit section: Seminal references">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span id="CITEREFCurry1934" class="citation">Curry, Haskell (1934), "Functionality in Combinatory Logic", <i>Proceedings of the National Academy of Sciences</i> <b>20</b>, pp.&#160;584–590</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Functionality+in+Combinatory+Logic&amp;rft.au=Curry%2C+Haskell&amp;rft.aufirst=Haskell&amp;rft.aulast=Curry&amp;rft.btitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.date=1934&amp;rft.genre=bookitem&amp;rft.pages=584-590&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><cite id="CurryFeys_paragraph9E"><span id="CITEREFCurryFeys1958" class="citation">Curry, Haskell B.; Feys, Robert (1958), Craig, William, ed., <i>Combinatory Logic Vol. I</i>, Amsterdam: North-Holland</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.au=Curry%2C+Haskell+B.&amp;rft.au=Feys%2C+Robert&amp;rft.aufirst=Haskell+B.&amp;rft.aulast=Curry&amp;rft.btitle=Combinatory+Logic+Vol.+I&amp;rft.date=1958&amp;rft.genre=book&amp;rft.place=Amsterdam&amp;rft.pub=North-Holland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, with 2 sections by William Craig, see paragraph 9E</cite>.</li>
+<li>De Bruijn, Nicolaas (1968), <i>Automath, a language for mathematics</i>, Department of Mathematics, Eindhoven University of Technology, TH-report 68-WSK-05. Reprinted in revised form, with two pages commentary, in: <i>Automation and Reasoning, vol 2, Classical papers on computational logic 1967–1970</i>, Springer Verlag, 1983, pp.&#160;159–200.</li>
+<li><span id="CITEREFHoward1980" class="citation">Howard, William A. (September 1980) [original paper manuscript from 1969], "The formulae-as-types notion of construction", in <a href="/w/index.php?title=Jonathan_P._Seldin&amp;action=edit&amp;redlink=1" class="new" title="Jonathan P. Seldin (page does not exist)">Seldin, Jonathan P.</a>; <a href="/wiki/J._Roger_Hindley" title="J. Roger Hindley">Hindley, J. Roger</a>, <i>To H.B. Curry: Essays on Combinatory Logic, Lambda Calculus and Formalism</i>, Boston, MA: <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>, pp.&#160;479–490, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-12-349050-6" title="Special:BookSources/978-0-12-349050-6">978-0-12-349050-6</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=The+formulae-as-types+notion+of+construction&amp;rft.aufirst=William+A.&amp;rft.au=Howard%2C+William+A.&amp;rft.aulast=Howard&amp;rft.btitle=To+H.B.+Curry%3A+Essays+on+Combinatory+Logic%2C+Lambda+Calculus+and+Formalism&amp;rft.date=September+1980&amp;rft.genre=bookitem&amp;rft.isbn=978-0-12-349050-6&amp;rft.pages=479-490&amp;rft.place=Boston%2C+MA&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+</ul>
+<h3><span class="mw-headline" id="Extensions_of_the_correspondence">Extensions of the correspondence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=18" title="Edit section: Extensions of the correspondence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ol class="references">
+<li id="cite_note-PfenningDaviesJudgmental-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-PfenningDaviesJudgmental_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PfenningDaviesJudgmental_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFPfenningDavies2001" class="citation">Pfenning, Frank; Davies, Rowan (2001), <a rel="nofollow" class="external text" href="http://www.cs.cmu.edu/~fp/papers/mscs00.pdf">"A Judgmental Reconstruction of Modal Logic"</a> <span style="font-size:85%;">(PDF)</span>, <i>Mathematical Structures in Computer Science</i> <b>11</b>: 511–540, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2FS0960129501003322">10.1017/S0960129501003322</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=A+Judgmental+Reconstruction+of+Modal+Logic&amp;rft.au=Davies%2C+Rowan&amp;rft.aufirst=Frank&amp;rft.aulast=Pfenning&amp;rft.au=Pfenning%2C+Frank&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cs.cmu.edu%2F~fp%2Fpapers%2Fmscs00.pdf&amp;rft_id=info%3Adoi%2F10.1017%2FS0960129501003322&amp;rft.jtitle=Mathematical+Structures+in+Computer+Science&amp;rft.pages=511-540&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-DaviesPfenningStaged-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-DaviesPfenningStaged_8-0">^</a></b></span> <span class="reference-text"><span id="CITEREFDaviesPfenning2001" class="citation">Davies, Rowan; Pfenning, Frank (2001), <a rel="nofollow" class="external text" href="http://www.cs.cmu.edu/~fp/papers/jacm00.pdf">"A Modal Analysis of Staged Computation"</a> <span style="font-size:85%;">(PDF)</span>, <i>Journal of the ACM</i> <b>48</b> (3): 555–604, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1145%2F382780.382785">10.1145/382780.382785</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=A+Modal+Analysis+of+Staged+Computation&amp;rft.au=Davies%2C+Rowan&amp;rft.aufirst=Rowan&amp;rft.aulast=Davies&amp;rft.au=Pfenning%2C+Frank&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cs.cmu.edu%2F~fp%2Fpapers%2Fjacm00.pdf&amp;rft_id=info%3Adoi%2F10.1145%2F382780.382785&amp;rft.issue=3&amp;rft.jtitle=Journal+of+the+ACM&amp;rft.pages=555-604&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=48" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<ul>
+<li><span id="CITEREFGriffin1990" class="citation">Griffin, Timothy G. (1990), "The Formulae-as-Types Notion of Control", <i>Conf. Record 17th Annual ACM Symp. on Principles of Programming Languages, POPL '90, San Francisco, CA, USA, 17–19 Jan 1990</i>, pp.&#160;47–57</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=The+Formulae-as-Types+Notion+of+Control&amp;rft.aufirst=Timothy+G.&amp;rft.au=Griffin%2C+Timothy+G.&amp;rft.aulast=Griffin&amp;rft.btitle=Conf.+Record+17th+Annual+ACM+Symp.+on+Principles+of+Programming+Languages%2C+POPL+%2790%2C+San+Francisco%2C+CA%2C+USA%2C+17%E2%80%9319+Jan+1990&amp;rft.date=1990&amp;rft.genre=bookitem&amp;rft.pages=47-57&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><span id="CITEREFParigot1992" class="citation">Parigot, Michel (1992), "Lambda-mu-calculus: An algorithmic interpretation of classical natural deduction", <i><a href="/wiki/International_Conference_on_Logic_Programming_and_Automated_Reasoning" title="International Conference on Logic Programming and Automated Reasoning" class="mw-redirect">International Conference on Logic Programming and Automated Reasoning</a>: LPAR '92 Proceedings, St. Petersburg, Russia</i>, Lecture Notes in Computer Science <b>624</b>, Berlin; New York: <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a>, pp.&#160;190–201, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-55727-2" title="Special:BookSources/978-3-540-55727-2">978-3-540-55727-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Lambda-mu-calculus%3A+An+algorithmic+interpretation+of+classical+natural+deduction&amp;rft.aufirst=Michel&amp;rft.aulast=Parigot&amp;rft.au=Parigot%2C+Michel&amp;rft.btitle=International+Conference+on+Logic+Programming+and+Automated+Reasoning%3A+LPAR+%2792+Proceedings%2C+St.+Petersburg%2C+Russia&amp;rft.date=1992&amp;rft.genre=bookitem&amp;rft.isbn=978-3-540-55727-2&amp;rft.pages=190-201&amp;rft.place=Berlin%3B+New+York&amp;rft.pub=Springer-Verlag&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=624" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><span id="CITEREFHerbelin1995" class="citation">Herbelin, Hugo (1995), "A Lambda-Calculus Structure Isomorphic to Gentzen-Style Sequent Calculus Structure", in Pacholski, Leszek; Tiuryn, Jerzy, <i>Computer Science Logic, 8th International Workshop, CSL '94, Kazimierz, Poland, September 25–30, 1994, Selected Papers</i>, Lecture Notes in Computer Science <b>933</b>, Berlin; New York: <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a>, pp.&#160;61–75, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-60017-6" title="Special:BookSources/978-3-540-60017-6">978-3-540-60017-6</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=A+Lambda-Calculus+Structure+Isomorphic+to+Gentzen-Style+Sequent+Calculus+Structure&amp;rft.aufirst=Hugo&amp;rft.au=Herbelin%2C+Hugo&amp;rft.aulast=Herbelin&amp;rft.btitle=Computer+Science+Logic%2C+8th+International+Workshop%2C+CSL+%2794%2C+Kazimierz%2C+Poland%2C+September+25%E2%80%9330%2C+1994%2C+Selected+Papers&amp;rft.date=1995&amp;rft.genre=bookitem&amp;rft.isbn=978-3-540-60017-6&amp;rft.pages=61-75&amp;rft.place=Berlin%3B+New+York&amp;rft.pub=Springer-Verlag&amp;rft.series=Lecture+Notes+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=933" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><span id="CITEREFGabbayde_Queiroz1992" class="citation">Gabbay, Dov; <a href="/wiki/Ruy_de_Queiroz" title="Ruy de Queiroz">de Queiroz, Ruy</a> (1992), "Extending the Curry–Howard interpretation to linear, relevant and other resource logics", <i>Journal of Symbolic Logic</i> <b>57</b>, pp.&#160;1319–1365</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Extending+the+Curry%E2%80%93Howard+interpretation+to+linear%2C+relevant+and+other+resource+logics&amp;rft.au=de+Queiroz%2C+Ruy&amp;rft.aufirst=Dov&amp;rft.au=Gabbay%2C+Dov&amp;rft.aulast=Gabbay&amp;rft.btitle=Journal+of+Symbolic+Logic&amp;rft.date=1992&amp;rft.genre=bookitem&amp;rft.pages=1319-1365&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=57" class="Z3988"><span style="display:none;">&#160;</span></span>. (Full version of the paper presented at <i>Logic Colloquium '90</i>, Helsinki. Abstract in <i>JSL</i> 56(3):1139–1140, 1991.)</li>
+<li><span id="CITEREFde_QueirozGabbay1994" class="citation">de Queiroz, Ruy; Gabbay, Dov (1994), "Equality in Labelled Deductive Systems and the Functional Interpretation of Propositional Equality", in Dekker, Paul; Stokhof, Martin, <i>Proceedings of the Ninth Amsterdam Colloquium</i>, ILLC/Department of Philosophy, University of Amsterdam, pp.&#160;547–565, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-74795-07-2" title="Special:BookSources/90-74795-07-2">90-74795-07-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Equality+in+Labelled+Deductive+Systems+and+the+Functional+Interpretation+of+Propositional+Equality&amp;rft.au=de+Queiroz%2C+Ruy&amp;rft.aufirst=Ruy&amp;rft.au=Gabbay%2C+Dov&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Proceedings+of+the+Ninth+Amsterdam+Colloquium&amp;rft.date=1994&amp;rft.genre=bookitem&amp;rft.isbn=90-74795-07-2&amp;rft.pages=547-565&amp;rft.pub=ILLC%2FDepartment+of+Philosophy%2C+University+of+Amsterdam&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><span id="CITEREFde_QueirozGabbay1995" class="citation">de Queiroz, Ruy; Gabbay, Dov (1995), "The Functional Interpretation of the Existential Quantifier", <i>Bulletin of the Interest Group in Pure and Applied Logics</i>, 3(2–3), pp.&#160;243–290</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=The+Functional+Interpretation+of+the+Existential+Quantifier&amp;rft.au=de+Queiroz%2C+Ruy&amp;rft.aufirst=Ruy&amp;rft.au=Gabbay%2C+Dov&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Bulletin+of+the+Interest+Group+in+Pure+and+Applied+Logics&amp;rft.date=1995&amp;rft.genre=bookitem&amp;rft.pages=243-290&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=3%282%E2%80%933%29" class="Z3988"><span style="display:none;">&#160;</span></span>. (Full version of a paper presented at <i>Logic Colloquium '91</i>, Uppsala. Abstract in <i>JSL</i> 58(2):753–754, 1993.)</li>
+<li><span id="CITEREFde_QueirozGabbay1997" class="citation">de Queiroz, Ruy; Gabbay, Dov (1997), "The Functional Interpretation of Modal Necessity", in de Rijke, Maarten, <i>Advances in Intensional Logic</i>, Applied Logic Series <b>7</b>, <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a>, pp.&#160;61–91, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7923-4711-8" title="Special:BookSources/978-0-7923-4711-8">978-0-7923-4711-8</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=The+Functional+Interpretation+of+Modal+Necessity&amp;rft.au=de+Queiroz%2C+Ruy&amp;rft.aufirst=Ruy&amp;rft.au=Gabbay%2C+Dov&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Advances+in+Intensional+Logic&amp;rft.date=1997&amp;rft.genre=bookitem&amp;rft.isbn=978-0-7923-4711-8&amp;rft.pages=61-91&amp;rft.pub=Springer-Verlag&amp;rft.series=Applied+Logic+Series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><span id="CITEREFde_QueirozGabbay1999" class="citation">de Queiroz, Ruy; Gabbay, Dov (1999), "Labelled Natural Deduction", in Ohlbach, Hans-Juergen; Reyle, Uwe, <a rel="nofollow" class="external text" href="http://www.springer.com/philosophy/logic/book/978-0-7923-5687-5"><i>Logic, Language and Reasoning. Essays in Honor of Dov Gabbay</i></a>, Trends in Logic <b>7</b>, <a href="/w/index.php?title=Kluwer_Acad._Pub.&amp;action=edit&amp;redlink=1" class="new" title="Kluwer Acad. Pub. (page does not exist)">Kluwer Acad. Pub.</a>, pp.&#160;173–250, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7923-5687-5" title="Special:BookSources/978-0-7923-5687-5">978-0-7923-5687-5</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Labelled+Natural+Deduction&amp;rft.au=de+Queiroz%2C+Ruy&amp;rft.aufirst=Ruy&amp;rft.au=Gabbay%2C+Dov&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Logic%2C+Language+and+Reasoning.+Essays+in+Honor+of+Dov+Gabbay&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.springer.com%2Fphilosophy%2Flogic%2Fbook%2F978-0-7923-5687-5&amp;rft.isbn=978-0-7923-5687-5&amp;rft.pages=173-250&amp;rft.pub=Kluwer+Acad.+Pub.&amp;rft.series=Trends+in+Logic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+<li><span id="CITEREFde_Oliveirade_Queiroz1999" class="citation">de Oliveira, Anjolina; de Queiroz, Ruy (1999), "A Normalization Procedure for the Equational Fragment of Labelled Natural Deduction", <i>Logic Journal of the Interest Group in Pure and Applied Logics</i> <b>7</b> (2), <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a>, pp.&#160;173–215</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=A+Normalization+Procedure+for+the+Equational+Fragment+of+Labelled+Natural+Deduction&amp;rft.au=de+Oliveira%2C+Anjolina&amp;rft.au=de+Queiroz%2C+Ruy&amp;rft.aufirst=Anjolina&amp;rft.aulast=de+Oliveira&amp;rft.btitle=Logic+Journal+of+the+Interest+Group+in+Pure+and+Applied+Logics&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft.issue=2&amp;rft.pages=173-215&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span>. (Full version of a paper presented at <i>2nd WoLLIC'95</i>, Recife. Abstract in <i>Journal of the Interest Group in Pure and Applied Logics</i> 4(2):330–332, 1996.)</li>
+<li><span id="CITEREFPoernomoCrossleyWirsingMartin2005" class="citation">Poernomo, Iman; Crossley, John; Wirsing; Martin (2005) [2005], <i>Adapting Proofs-as-Programs: The Curry–Howard Protocol</i>, Monographs in Computer Science, <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-23759-6" title="Special:BookSources/978-0-387-23759-6">978-0-387-23759-6</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.au=Crossley%2C+John&amp;rft.aufirst=Iman&amp;rft.aulast=Poernomo&amp;rft.au=Martin&amp;rft.au=Poernomo%2C+Iman&amp;rft.au=Wirsing&amp;rft.btitle=Adapting+Proofs-as-Programs%3A+The+Curry%E2%80%93Howard+Protocol&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-0-387-23759-6&amp;rft.pub=Springer&amp;rft.series=Monographs+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, concerns the adaptation of proofs-as-programs program synthesis to coarse-grain and imperative program development problems, via a method the authors call the Curry–Howard protocol. Includes a discussion of the Curry–Howard correspondence from a Computer Science perspective.</li>
+<li><span id="CITEREFde_Queirozde_Oliveira2011" class="citation">de Queiroz, Ruy J.G.B.; de Oliveira, Anjolina (2011), "The Functional Interpretation of Direct Computations", <i>Electronic Notes in Theoretical Computer Science</i> <b>269</b>, <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>, pp.&#160;19–40, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.entcs.2011.03.003">10.1016/j.entcs.2011.03.003</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=The+Functional+Interpretation+of+Direct+Computations&amp;rft.au=de+Oliveira%2C+Anjolina&amp;rft.au=de+Queiroz%2C+Ruy+J.G.B.&amp;rft.aufirst=Ruy+J.G.B.&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Electronic+Notes+in+Theoretical+Computer+Science&amp;rft.date=2011&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1016%2Fj.entcs.2011.03.003&amp;rft.pages=19-40&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=269" class="Z3988"><span style="display:none;">&#160;</span></span>. (Full version of a paper presented at <i>LSFA 2010</i>, Natal, Brazil.)</li>
+</ul>
+<h3><span class="mw-headline" id="Philosophical_interpretations">Philosophical interpretations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=19" title="Edit section: Philosophical interpretations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span id="CITEREFde_Queiroz1994" class="citation">de Queiroz, Ruy J.G.B. (1994), <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/journal/119262585/abstract?CRETRY=1&amp;SRETRY=0">"Normalisation and language-games"</a>, <i>Dialectica</i> <b>48</b> (2), pp.&#160;83–123</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Normalisation+and+language-games&amp;rft.au=de+Queiroz%2C+Ruy+J.G.B.&amp;rft.aufirst=Ruy+J.G.B.&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Dialectica&amp;rft.date=1994&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fjournal%2F119262585%2Fabstract%3FCRETRY%3D1%26SRETRY%3D0&amp;rft.issue=2&amp;rft.pages=83-123&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=48" class="Z3988"><span style="display:none;">&#160;</span></span>. (Early version presented at <i>Logic Colloquium '88</i>, Padova. Abstract in <i>JSL</i> 55:425, 1990.)</li>
+<li><span id="CITEREFde_Queiroz2001" class="citation">de Queiroz, Ruy J.G.B. (2001), <a rel="nofollow" class="external text" href="http://jigpal.oxfordjournals.org/cgi/content/abstract/9/5/693">"Meaning, function, purpose, usefulness, consequences – interconnected concepts"</a>, <i>Logic Journal of the Interest Group in Pure and Applied Logics</i> <b>9</b> (5), pp.&#160;693–734</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Meaning%2C+function%2C+purpose%2C+usefulness%2C+consequences+%E2%80%93+interconnected+concepts&amp;rft.au=de+Queiroz%2C+Ruy+J.G.B.&amp;rft.aufirst=Ruy+J.G.B.&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Logic+Journal+of+the+Interest+Group+in+Pure+and+Applied+Logics&amp;rft.date=2001&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fjigpal.oxfordjournals.org%2Fcgi%2Fcontent%2Fabstract%2F9%2F5%2F693&amp;rft.issue=5&amp;rft.pages=693-734&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span>. (Early version presented at <i>Fourteenth International Wittgenstein Symposium (Centenary Celebration)</i> held in Kirchberg/Wechsel, August 13–20, 1989.)</li>
+<li><span id="CITEREFde_Queiroz2008" class="citation">de Queiroz, Ruy J.G.B. (2008), <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/27nk266126k817gq/">"On reduction rules, meaning-as-use and proof-theoretic semantics"</a>, <i>Studia Logica</i> <b>90</b> (2), pp.&#160;211–247</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=On+reduction+rules%2C+meaning-as-use+and+proof-theoretic+semantics&amp;rft.au=de+Queiroz%2C+Ruy+J.G.B.&amp;rft.aufirst=Ruy+J.G.B.&amp;rft.aulast=de+Queiroz&amp;rft.btitle=Studia+Logica&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2F27nk266126k817gq%2F&amp;rft.issue=2&amp;rft.pages=211-247&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=90" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+</ul>
+<h3><span class="mw-headline" id="Synthetic_papers">Synthetic papers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=20" title="Edit section: Synthetic papers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span id="CITEREFDe_Bruijn1995" class="citation">De Bruijn, Nicolaas Govert (1995), <a rel="nofollow" class="external text" href="http://alexandria.tue.nl/repository/freearticles/597627.pdf">"On the roles of types in mathematics"</a> <span style="font-size:85%;">(PDF)</span>, in Groote, Philippe de, <i>The Curry–Howard isomorphism</i>, Cahiers du Centre de logique (Université catholique de Louvain) <b>8</b>, Academia-Bruyland, pp.&#160;27–54, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2-87209-363-2" title="Special:BookSources/978-2-87209-363-2">978-2-87209-363-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=On+the+roles+of+types+in+mathematics&amp;rft.au=De+Bruijn%2C+Nicolaas+Govert&amp;rft.aufirst=Nicolaas+Govert&amp;rft.aulast=De+Bruijn&amp;rft.btitle=The+Curry%E2%80%93Howard+isomorphism&amp;rft.date=1995&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Falexandria.tue.nl%2Frepository%2Ffreearticles%2F597627.pdf&amp;rft.isbn=978-2-87209-363-2&amp;rft.pages=27-54&amp;rft.pub=Academia-Bruyland&amp;rft.series=Cahiers+du+Centre+de+logique+%28Universit%C3%A9+catholique+de+Louvain%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span>, the contribution of de Bruijn by himself.</li>
+<li><span id="CITEREFGeuvers1995" class="citation">Geuvers, Herman (1995), "The Calculus of Constructions and Higher Order Logic", in Groote, Philippe de, <i>The Curry–Howard isomorphism</i>, Cahiers du Centre de logique (Université catholique de Louvain) <b>8</b>, Academia-Bruyland, pp.&#160;139–191, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2-87209-363-2" title="Special:BookSources/978-2-87209-363-2">978-2-87209-363-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=The+Calculus+of+Constructions+and+Higher+Order+Logic&amp;rft.aufirst=Herman&amp;rft.au=Geuvers%2C+Herman&amp;rft.aulast=Geuvers&amp;rft.btitle=The+Curry%E2%80%93Howard+isomorphism&amp;rft.date=1995&amp;rft.genre=bookitem&amp;rft.isbn=978-2-87209-363-2&amp;rft.pages=139-191&amp;rft.pub=Academia-Bruyland&amp;rft.series=Cahiers+du+Centre+de+logique+%28Universit%C3%A9+catholique+de+Louvain%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span>, contains a synthetic introduction to the Curry–Howard correspondence.</li>
+<li><span id="CITEREFGallier1995" class="citation">Gallier, Jean H. (1995), <a rel="nofollow" class="external text" href="ftp://ftp.cis.upenn.edu/pub/papers/gallier/cahiers.pdf">"On the Correspondence between Proofs and Lambda-Terms"</a> <span style="font-size:85%;">(PDF)</span>, in Groote, Philippe de, <i>The Curry–Howard isomorphism</i>, Cahiers du Centre de logique (Université catholique de Louvain) <b>8</b>, Academia-Bruyland, pp.&#160;55–138, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2-87209-363-2" title="Special:BookSources/978-2-87209-363-2">978-2-87209-363-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=On+the+Correspondence+between+Proofs+and+Lambda-Terms&amp;rft.aufirst=Jean+H.&amp;rft.au=Gallier%2C+Jean+H.&amp;rft.aulast=Gallier&amp;rft.btitle=The+Curry%E2%80%93Howard+isomorphism&amp;rft.date=1995&amp;rft.genre=bookitem&amp;rft_id=ftp%3A%2F%2Fftp.cis.upenn.edu%2Fpub%2Fpapers%2Fgallier%2Fcahiers.pdf&amp;rft.isbn=978-2-87209-363-2&amp;rft.pages=55-138&amp;rft.pub=Academia-Bruyland&amp;rft.series=Cahiers+du+Centre+de+logique+%28Universit%C3%A9+catholique+de+Louvain%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span>, contains a synthetic introduction to the Curry–Howard correspondence.</li>
+<li><span id="CITEREFWadler2014" class="citation"><a href="/wiki/Philip_Wadler" title="Philip Wadler">Wadler, Philip</a> (2014), <a rel="nofollow" class="external text" href="http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf">"Propositions as Types"</a> <span style="font-size:85%;">(PDF)</span>, <i>Communications of the ACM</i></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.atitle=Propositions+as+Types&amp;rft.aufirst=Philip&amp;rft.aulast=Wadler&amp;rft.au=Wadler%2C+Philip&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhomepages.inf.ed.ac.uk%2Fwadler%2Fpapers%2Fpropositions-as-types%2Fpropositions-as-types.pdf&amp;rft.jtitle=Communications+of+the+ACM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h3><span class="mw-headline" id="Books">Books</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=21" title="Edit section: Books">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><span id="CITEREFedited_by_Ph._de_Groote.1995" class="citation">edited by Ph. de Groote. (1995), De Groote, Philippe, ed., <i>The Curry–Howard Isomorphism</i>, Cahiers du Centre de Logique (Université catholique de Louvain) <b>8</b>, Academia-Bruylant, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2-87209-363-2" title="Special:BookSources/978-2-87209-363-2">978-2-87209-363-2</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.au=edited+by+Ph.+de+Groote.&amp;rft.aulast=edited+by+Ph.+de+Groote.&amp;rft.btitle=The+Curry%E2%80%93Howard+Isomorphism&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=978-2-87209-363-2&amp;rft.pub=Academia-Bruylant&amp;rft.series=Cahiers+du+Centre+de+Logique+%28Universit%C3%A9+catholique+de+Louvain%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span>, reproduces the seminal papers of Curry-Feys and Howard, a paper by de Bruijn and a few other papers.</li>
+<li><span id="CITEREFS.C3.B8rensenUrzyczyn2006" class="citation">Sørensen, Morten Heine; Urzyczyn, Paweł (2006) [1998], <i>Lectures on the Curry–Howard isomorphism</i>, Studies in Logic and the Foundations of Mathematics <b>149</b>, <a href="/wiki/Elsevier_Science" title="Elsevier Science" class="mw-redirect">Elsevier Science</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-444-52077-7" title="Special:BookSources/978-0-444-52077-7">978-0-444-52077-7</a>, <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.7385">10<wbr />.1<wbr />.1<wbr />.17<wbr />.7385</a></span></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.aufirst=Morten+Heine&amp;rft.aulast=S%C3%B8rensen&amp;rft.au=S%C3%B8rensen%2C+Morten+Heine&amp;rft.au=Urzyczyn%2C+Pawe%C5%82&amp;rft.btitle=Lectures+on+the+Curry%E2%80%93Howard+isomorphism&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-444-52077-7&amp;rft.pub=Elsevier+Science&amp;rft.series=Studies+in+Logic+and+the+Foundations+of+Mathematics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=149" class="Z3988"><span style="display:none;">&#160;</span></span>, notes on proof theory and type theory, that includes a presentation of the Curry–Howard correspondence, with a focus on the formulae-as-types correspondence</li>
+<li>Girard, Jean-Yves (1987–90). <i><a rel="nofollow" class="external text" href="http://www.monad.me.uk/stable/Proofs+Types.html">Proof and Types</a></i>. Translated by and with appendices by Lafont, Yves and Taylor, Paul. Cambridge University Press (Cambridge Tracts in Theoretical Computer Science, 7), <a href="/wiki/Special:BookSources/0521371813" class="internal mw-magiclink-isbn">ISBN 0-521-37181-3</a>, notes on proof theory with a presentation of the Curry–Howard correspondence.</li>
+<li>Thompson, Simon (1991). <i><a rel="nofollow" class="external text" href="http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/">Type Theory and Functional Programming</a></i> Addison–Wesley. <a href="/wiki/Special:BookSources/0201416670" class="internal mw-magiclink-isbn">ISBN 0-201-41667-0</a>.</li>
+<li><span id="CITEREFPoernomoCrossleyWirsingMartin2005" class="citation">Poernomo, Iman; Crossley, John; Wirsing; Martin (2005) [2005], <i>Adapting Proofs-as-Programs: The Curry–Howard Protocol</i>, Monographs in Computer Science, <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-23759-6" title="Special:BookSources/978-0-387-23759-6">978-0-387-23759-6</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.au=Crossley%2C+John&amp;rft.aufirst=Iman&amp;rft.aulast=Poernomo&amp;rft.au=Martin&amp;rft.au=Poernomo%2C+Iman&amp;rft.au=Wirsing&amp;rft.btitle=Adapting+Proofs-as-Programs%3A+The+Curry%E2%80%93Howard+Protocol&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-0-387-23759-6&amp;rft.pub=Springer&amp;rft.series=Monographs+in+Computer+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>, concerns the adaptation of proofs-as-programs program synthesis to coarse-grain and imperative program development problems, via a method the authors call the Curry–Howard protocol. Includes a discussion of the Curry–Howard correspondence from a Computer Science perspective.</li>
+<li>F. Binard and A. Felty, "Genetic programming with polymorphic types and higher-order functions." In <i>Proceedings of the 10th annual conference on Genetic and evolutionary computation,</i> pages 1187 1194, 2008.<a rel="nofollow" class="external autonumber" href="http://www.site.uottawa.ca/~afelty/dist/gecco08.pdf">[2]</a></li>
+<li><span id="CITEREFde_Queirozde_OliveiraGabbay2011" class="citation">de Queiroz, Ruy J.G.B.; de Oliveira, Anjolina G.; Gabbay, Dov M. (2011), <a rel="nofollow" class="external text" href="http://www.worldscibooks.com/compsci/8215.html"><i>The Functional Interpretation of Logical Deduction</i></a>, Advances in Logic <b>5</b>, Imperial College Press/World Scientific, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-981-4360-95-1" title="Special:BookSources/978-981-4360-95-1">978-981-4360-95-1</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACurry%E2%80%93Howard+correspondence&amp;rft.au=de+Oliveira%2C+Anjolina+G.&amp;rft.au=de+Queiroz%2C+Ruy+J.G.B.&amp;rft.aufirst=Ruy+J.G.B.&amp;rft.au=Gabbay%2C+Dov+M.&amp;rft.aulast=de+Queiroz&amp;rft.btitle=The+Functional+Interpretation+of+Logical+Deduction&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.worldscibooks.com%2Fcompsci%2F8215.html&amp;rft.isbn=978-981-4360-95-1&amp;rft.pub=Imperial+College+Press%2FWorld+Scientific&amp;rft.series=Advances+in+Logic&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span>.</li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=22" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/P.T._Johnstone" title="P.T. Johnstone" class="mw-redirect">P.T. Johnstone</a>, 2002, <i>Sketches of an Elephant</i>, section D4.2 (vol 2) gives a <a href="/wiki/Categorical_logic" title="Categorical logic">categorical</a> view of "what happens" in the Curry–Howard correspondence.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit&amp;section=23" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /></td>
+<td class="mbox-text plainlist">The Wikibook <i><a href="//en.wikibooks.org/wiki/Haskell" class="extiw" title="wikibooks:Haskell">Haskell</a></i> has a page on the topic of: <i><b><a href="//en.wikibooks.org/wiki/Haskell/The_Curry%E2%80%93Howard_isomorphism" class="extiw" title="wikibooks:Haskell/The Curry–Howard isomorphism">The Curry–Howard isomorphism</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://wadler.blogspot.com/2014/08/howard-on-curry-howard.html">Howard on Curry-Howard</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.thenewsh.com/~newsham/formal/curryhoward/">The Curry–Howard Correspondence in Haskell</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.haskell.org/wikiupload/1/14/TMR-Issue6.pdf">The Monad Reader 6: Adventures in Classical-Land</a>: Curry–Howard in Haskell, Pierce's law.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1005
+CPU time usage: 0.673 seconds
+Real time usage: 5.724 seconds
+Preprocessor visited node count: 2663/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93964/2097152 bytes
+Template argument size: 587/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Lua time usage: 0.186/10.000 seconds
+Lua memory usage: 3.51 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 5447.637      1 - -total
+  3.50%  190.722     31 - Template:Citation
+  1.70%   92.462      1 - Template:Reflist
+  1.22%   66.486      1 - Template:More_footnotes
+  0.85%   46.270      3 - Template:Sfn
+  0.79%   42.962      1 - Template:Ambox
+  0.34%   18.467      1 - Template:Wikibooks
+  0.25%   13.845      2 - Template:Citeseerx
+  0.25%   13.745      1 - Template:Sister_project
+  0.21%   11.271      2 - Template:URL
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:254299-0!*!0!!en!4!*!math=0 and timestamp 20150628062633 and revision id 667363827
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Curry–Howard_correspondence&amp;oldid=667363827">https://en.wikipedia.org/w/index.php?title=Curry–Howard_correspondence&amp;oldid=667363827</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1934_in_computer_science" title="Category:1934 in computer science">1934 in computer science</a></li><li><a href="/wiki/Category:1958_in_computer_science" title="Category:1958 in computer science">1958 in computer science</a></li><li><a href="/wiki/Category:1969_in_computer_science" title="Category:1969 in computer science">1969 in computer science</a></li><li><a href="/wiki/Category:Dependently_typed_programming" title="Category:Dependently typed programming">Dependently typed programming</a></li><li><a href="/wiki/Category:Proof_theory" title="Category:Proof theory">Proof theory</a></li><li><a href="/wiki/Category:Logic_in_computer_science" title="Category:Logic in computer science">Logic in computer science</a></li><li><a href="/wiki/Category:Type_theory" title="Category:Type theory">Type theory</a></li><li><a href="/wiki/Category:Philosophy_of_computer_science" title="Category:Philosophy of computer science">Philosophy of computer science</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2010" title="Category:Articles lacking in-text citations from April 2010">Articles lacking in-text citations from April 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Curry%E2%80%93Howard+correspondence&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Curry%E2%80%93Howard+correspondence" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Curry%E2%80%93Howard_correspondence"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Curry%E2%80%93Howard_correspondence"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Curry%E2%80%93Howard_correspondence" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Curry%E2%80%93Howard_correspondence" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Curry%E2%80%93Howard_correspondence" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;oldid=667363827" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q975734" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Curry%E2%80%93Howard_correspondence&amp;id=667363827" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Curry%E2%80%93Howard+correspondence">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Curry%E2%80%93Howard+correspondence&amp;oldid=667363827&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Correspond%C3%A8ncia_Curry-Howard" title="Correspondència Curry-Howard – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Curry-Howard-Isomorphismus" title="Curry-Howard-Isomorphismus – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Correspondance_de_Curry-Howard" title="Correspondance de Curry-Howard – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%BC%EF%BC%9D%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%E5%90%8C%E5%9E%8B%E5%AF%BE%E5%BF%9C" title="カリー＝ハワード同型対応 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Izomorfizm_Curry%27ego-Howarda" title="Izomorfizm Curry'ego-Howarda – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Isomorfismo_de_Curry-Howard" title="Isomorfismo de Curry-Howard – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%9A%D0%B0%D1%80%D1%80%D0%B8_%E2%80%94_%D0%A5%D0%BE%D0%B2%D0%B0%D1%80%D0%B4%D0%B0" title="Соответствие Карри — Ховарда – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%BD%D1%96%D1%81%D1%82%D1%8C_%D0%9A%D0%B0%D1%80%D1%80%D1%96_-_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4%D0%B0" title="Відповідність Каррі - Говарда – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%9F%AF%E9%87%8C-%E9%9C%8D%E5%8D%8E%E5%BE%B7%E5%90%8C%E6%9E%84" title="柯里-霍华德同构 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q975734#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 June 2015, at 15:43.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Curry%E2%80%93Howard_correspondence&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1258"});
+}</script>
+	</body>
+</html>

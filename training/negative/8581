@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Fractale - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fractale" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fractale&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fractale&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Fractale" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fractale" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fractale","wgTitle":"Fractale","wgCurRevisionId":666448629,"wgRevisionId":666448629,"wgArticleId":28771798,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Japanese-language text","CS1 Japanese-language sources (ja)","CS1 uses Japanese-language script (ja)","Manga series","2010 manga","2011 anime television series","Articles with Japanese-language external links","2011 novels","2011 Japanese television series debuts","2011 Japanese television series endings","A-1 Pictures","Anime with original screenplays","Funimation Entertainment","NoitaminA","Science fiction anime and manga","Shōnen manga","Japanese serial novels","Anime series","Japanese webcomics","Webcomics in print"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fractale","wgRelevantArticleId":28771798,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/2/2d/Fractale_manga_Volume_1.jpg/70px-Fractale_manga_Volume_1.jpg","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q482857"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Fractale skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en"><i>Fractale</i></h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width: 22em">
+<tr>
+<td colspan="2" style="text-align:center;background:#CCF; font-size:125%; font-style:italic; font-weight:bold;">Fractale</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Fractale_manga_Volume_1.jpg" class="image"><img alt="Fractale manga Volume 1.jpg" src="//upload.wikimedia.org/wikipedia/en/2/2d/Fractale_manga_Volume_1.jpg" width="230" height="327" data-file-width="230" data-file-height="327" /></a>
+<div style="font-size:90%;">Cover of the first volume of the <i>Fractale</i> manga series.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#DDF; padding:0.3em; line-height:1.3em; font-weight:normal;"><span lang="ja"><span style="font-size:110%;">フラクタル</span></span><br />
+(<i>Furakutaru</i>)</th>
+</tr>
+<tr>
+<th scope="row">Genre</th>
+<td><a href="/wiki/Science_fiction" title="Science fiction">Science fiction</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background:#CCF; font-weight:bold;">Manga</td>
+</tr>
+<tr>
+<th scope="row">Written&#160;by</th>
+<td><a href="/wiki/Hiroki_Azuma" title="Hiroki Azuma">Hiroki Azuma</a><br />
+<a href="/wiki/Mari_Okada" title="Mari Okada">Mari Okada</a><br />
+<a href="/wiki/Yutaka_Yamamoto" title="Yutaka Yamamoto">Yutaka Yamamoto</a></td>
+</tr>
+<tr>
+<th scope="row">Illustrated&#160;by</th>
+<td>Mutsumi Akasaki</td>
+</tr>
+<tr>
+<th scope="row">Published&#160;by</th>
+<td><a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a></td>
+</tr>
+<tr>
+<th scope="row">Demographic</th>
+<td><i><a href="/wiki/Sh%C5%8Dnen_manga" title="Shōnen manga">Shōnen</a></i></td>
+</tr>
+<tr>
+<th scope="row">Magazine</th>
+<td><i><a href="/wiki/Gangan_Online" title="Gangan Online" class="mw-redirect">Gangan Online</a></i></td>
+</tr>
+<tr>
+<th scope="row">Original run</th>
+<td><span class="nowrap">September 30, 2010</span> – <span class="nowrap">November 17, 2011</span></td>
+</tr>
+<tr>
+<th scope="row">Volumes</th>
+<td>3 <span class="noprint">(<a href="#Manga">List of volumes</a>)</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background:#CCF; font-weight:bold;">Anime television series</td>
+</tr>
+<tr>
+<th scope="row">Directed&#160;by</th>
+<td><a href="/wiki/Yutaka_Yamamoto" title="Yutaka Yamamoto">Yutaka Yamamoto</a></td>
+</tr>
+<tr>
+<th scope="row">Studio</th>
+<td><a href="/wiki/A-1_Pictures" title="A-1 Pictures">A-1 Pictures</a><br />
+<a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a> (production cooperation)</td>
+</tr>
+<tr>
+<th scope="row">Licensed&#160;by</th>
+<td>
+<div style="overflow:hidden; width:100%;">
+<div style="width:1.7em; float:left;"><small><sup style="font-style:normal;"><a href="/wiki/Australasia" title="Australasia">AUS</a></sup></small></div>
+<div style="margin-left:1.5em;"><a href="/wiki/Siren_Visual" title="Siren Visual">Siren Visual</a></div>
+</div>
+<div style="overflow:hidden; width:100%;">
+<div style="width:1.5em; float:left;"><small><sup style="font-style:normal;"><a href="/wiki/Northern_America" title="Northern America">NA</a></sup></small></div>
+<div style="margin-left:1.5em;"><a href="/wiki/Funimation" title="Funimation">Funimation</a></div>
+</div>
+<div style="overflow:hidden; width:100%;">
+<div style="width:1.5em; float:left;"><small><sup style="font-style:normal;"><a href="/wiki/United_Kingdom" title="United Kingdom">UK</a></sup></small></div>
+<div style="margin-left:1.5em;"><a href="/wiki/Manga_Entertainment" title="Manga Entertainment">Manga Entertainment</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Network</th>
+<td><a href="/wiki/Fuji_Television" title="Fuji Television">Fuji TV</a> (<a href="/wiki/Noitamina" title="Noitamina">Noitamina</a>)</td>
+</tr>
+<tr>
+<th scope="row">Original run</th>
+<td><span class="nowrap">January 13, 2011</span> – <span class="nowrap">March 31, 2011</span></td>
+</tr>
+<tr>
+<th scope="row">Episodes</th>
+<td>11 <span class="noprint">(<a href="#Episode_list">List of episodes</a>)</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background:#CCF; font-weight:bold;">Serial novel</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#EEF; font-weight:normal;"><i>Fractale/Reloaded</i></th>
+</tr>
+<tr>
+<th scope="row">Written&#160;by</th>
+<td>Hiroki Azuma</td>
+</tr>
+<tr>
+<th scope="row">Published&#160;by</th>
+<td><a href="/wiki/Media_Factory" title="Media Factory">Media Factory</a></td>
+</tr>
+<tr>
+<th scope="row">Magazine</th>
+<td><i>Da Vinci</i></td>
+</tr>
+<tr>
+<th scope="row">Original run</th>
+<td><span class="nowrap">February 2011</span> – <span class="nowrap">May 2011</span></td>
+</tr>
+<tr class="noprint">
+<td colspan="2" style="text-align:center;background:#CCF; font-weight:bold"><span class="metadata"><a href="/wiki/File:Wikipe-tan_face.svg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/16px-Wikipe-tan_face.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/24px-Wikipe-tan_face.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Wikipe-tan_face.svg/32px-Wikipe-tan_face.svg.png 2x" data-file-width="440" data-file-height="440" /></a></span> <a href="/wiki/Portal:Anime_and_Manga" title="Portal:Anime and Manga">Anime and Manga portal</a></td>
+</tr>
+</table>
+<p><i><b>Fractale</b></i> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">フラクタル</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Furakutaru</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span> is an 11-episode Japanese <a href="/wiki/Anime" title="Anime">anime</a> <a href="/wiki/Television_series" title="Television series" class="mw-redirect">television series</a> produced by <a href="/wiki/A-1_Pictures" title="A-1 Pictures">A-1 Pictures</a> and <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a> and directed by <a href="/wiki/Yutaka_Yamamoto" title="Yutaka Yamamoto">Yutaka Yamamoto</a>. The story was developed by <a href="/wiki/Hiroki_Azuma" title="Hiroki Azuma">Hiroki Azuma</a> and the screenplay was written by <a href="/wiki/Mari_Okada" title="Mari Okada">Mari Okada</a>, with original character design by Hidari. The anime aired in Japan between January and March 2011 on <a href="/wiki/Fuji_Television" title="Fuji Television">Fuji TV</a>'s <a href="/wiki/Noitamina" title="Noitamina">Noitamina</a> programming block.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> A <a href="/wiki/Manga" title="Manga">manga</a> illustrated by Mutsumi Akasaki was serialized in <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>'s <i><a href="/wiki/Gangan_Online" title="Gangan Online" class="mw-redirect">Gangan Online</a></i> between September 2010 and November 2011.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Plot"><span class="tocnumber">1</span> <span class="toctext">Plot</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Characters"><span class="tocnumber">2</span> <span class="toctext">Characters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Main_characters"><span class="tocnumber">2.1</span> <span class="toctext">Main characters</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Supporting_characters"><span class="tocnumber">2.2</span> <span class="toctext">Supporting characters</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Antagonists"><span class="tocnumber">2.3</span> <span class="toctext">Antagonists</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Media"><span class="tocnumber">3</span> <span class="toctext">Media</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Manga"><span class="tocnumber">3.1</span> <span class="toctext">Manga</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Anime"><span class="tocnumber">3.2</span> <span class="toctext">Anime</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#Episode_list"><span class="tocnumber">3.2.1</span> <span class="toctext">Episode list</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Novel"><span class="tocnumber">3.3</span> <span class="toctext">Novel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Plot">Plot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=1" title="Edit section: Plot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The story takes place on an island resembling a 22nd-century Ireland (certain scenes are taken directly from <a href="/wiki/Galway" title="Galway">Galway</a>, a city in the west of Ireland), in a world ruled by "Fractale", a satellite-based virtual reality and content delivery system which ensures mankind's stability and prosperity. One day, Clain meets a fleeing girl called Phryne, who disappears during the night leaving a pendant. When he is able to activate the pendant (which turns into a "doppel" named Nessa), Clain sets out on a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret behind the Fractale System.</p>
+<h2><span class="mw-headline" id="Characters">Characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=2" title="Edit section: Characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Main_characters">Main characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=3" title="Edit section: Main characters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dt><span id="Clain_Necran">Clain Necran</span> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">クレイン・ネクラン</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Kurein Nekuran</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Y%C5%AB_Kobayashi" title="Yū Kobayashi">Yū Kobayashi</a> (Japanese), <a href="/wiki/Brina_Palencia" title="Brina Palencia">Brina Palencia</a> (English)</span><sup id="cite_ref-funicast_2-0" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Clain is the main character. At the beginning of the series, he lives alone with "<a href="/wiki/Doppelg%C3%A4nger" title="Doppelgänger">doppels</a>"—holographic robots-which are representations of his parents. Although they act exactly as his real parents would, Clain is able to disperse them at will when he is tired of their talk. In terms of interests, Clain holds a strong curiosity in items created before the Fractale system was established such as an antique digital camera or a 21st century cell phone. Throughout the series, he is shown to be emotionally simple; all he really wants is to live happily together with his friends Phryne and Nessa.</dd>
+</dl>
+<dl>
+<dt><span id="Phryne">Phryne</span> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">フリュネ</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Furyune</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Minami_Tsuda" title="Minami Tsuda">Minami Tsuda</a> (Japanese), <a href="/wiki/Caitlin_Glass" title="Caitlin Glass">Caitlin Glass</a> (English)</span><sup id="cite_ref-funicast_2-1" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Phryne is a priestess of the Fractale system and later revealed to be the incomplete key to resetting Fractale. She is very closed about her background, partially due to sexual abuse. Often, she makes Clain blush due to her little sense of embarrassment and lack of decency. At the beginning of the series, Phryne runs away to try to stop the Fractale cycle. She is reluctant to make friends because she believes it is necessary for her to sacrifice herself for the good of all.</dd>
+</dl>
+<dl>
+<dt><span id="Nessa">Nessa</span> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">ネッサ</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Nessa</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Kana_Hanazawa" title="Kana Hanazawa">Kana Hanazawa</a> (Japanese), <a href="/wiki/Luci_Christian" title="Luci Christian">Luci Christian</a> (English)</span><sup id="cite_ref-funicast_2-2" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Nessa is a "doppel" copy of Phryne's younger self, composed of "data" important to the Fractale system. Her existence is unique because, unlike other doppels, she can be touched, but only by people she chooses. Her character is very cheerful, energetic, and carefree. Clain meets Nessa for the first time when she suddenly appears out of Phryne's brooch. She smiles a lot and likes to explore, even occasionally dragging Clain into trouble. Her motto is often quoted to be that she "loves love." Like Clain, she expresses that she simply wants to be together with her friends.</dd>
+</dl>
+<h3><span class="mw-headline" id="Supporting_characters">Supporting characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=4" title="Edit section: Supporting characters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dt><span id="Sunda_Granitz">Sunda Granitz</span> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">スンダ・グラニッツ</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Sunda Guranittsu</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Shintaro_Asanuma" title="Shintaro Asanuma" class="mw-redirect">Shintaro Asanuma</a> (Japanese), <a href="/wiki/Scott_Freeman_(voice_actor)" title="Scott Freeman (voice actor)">Scott Freeman</a> (English)</span><sup id="cite_ref-funicast_2-3" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>The leader of the Granitz faction of Lost Millennium that Clain first encounters with. He is harsh and rude to Clain at first, but gradually, he lightens up. During the final confrontation, Sunda helps Clain enter the Temple and search for Phyrne. While in the Temple, Sunda sacrifices himself to allow Clain to join Phyrne and Nessa while they journey to reach the Temple's inner sanctum.</dd>
+</dl>
+<dl>
+<dt><span id="Enri_Granitz">Enri Granitz</span> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">エンリ・グラニッツ</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Enri Guranittsu</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Yuka_Iguchi" title="Yuka Iguchi">Yuka Iguchi</a> (Japanese), <a href="/wiki/Monica_Rial" title="Monica Rial">Monica Rial</a> (English)</span><sup id="cite_ref-funicast_2-4" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Enri is Sunda's little sister. Although clumsy in many ways, she supports her brother in every way she can, and often helps command Lost Millennium troops. Enri is often accompanied by two sidekicks, Takamy <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">タカミー</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Takamī</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span> and Butcher <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">ブッチャー</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Bucchā</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span>, the latter being killed during a confrontation with Temple forces. At the conclusion of the series, Enri becomes the leader of the Granitz faction and helps teach those who were once dependent on Fractale to live independent lives.</dd>
+</dl>
+<dl>
+<dt><span id="Dias">Dias</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Tomoaki_Maeno" title="Tomoaki Maeno">Tomoaki Maeno</a> (Japanese), <a href="/wiki/Eric_Vale" title="Eric Vale">Eric Vale</a> (English)</span><sup id="cite_ref-funicast_2-5" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Dias is the leader of the Alabaster faction of Lost Millennium. While Dias seems friendly at first, he is actually extremely manipulative and cold hearted, such as tricking a group of Fractale refugees into removing their terminals and forcing them to join his faction, gunning down one refugee when he attempts to flee. Dias joins with Sunda to rescue Phryne and Clain from the Temple, but exploits the opportunity to destroy the facility instead. During the final confrontation between Lost Millennium and the Temple, Dias's troops sacrifice themselves to destroy the Temple. When Archpriestess Moeran offers Sunda, Clain, and himself safety so that they may witness the restart of Fractale, he uses the opportunity to get close to Moeran, killing both in a suicidal explosion.</dd>
+</dl>
+<h3><span class="mw-headline" id="Antagonists">Antagonists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=5" title="Edit section: Antagonists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dt><span id="Moeran">Moeran</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Sumi_Shimamoto" title="Sumi Shimamoto">Sumi Shimamoto</a> (Japanese), <a href="/wiki/Stephanie_Young" title="Stephanie Young">Stephanie Young</a> (English)</span><sup id="cite_ref-funicast_2-6" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Moeran is the Archpriestess of the Temple and a Phryne clone. Although she is the head of the temple, Moeran has a great hatred for Phryne because the younger clone is "beloved", giving Phryne a greater importance than Moeran. When Phryne confronts Moeran in order to stop the violence between the Temple and Lost Millennium, Moeran attempts to strangle the younger clone out of jealousy. In the conclusion of the series, she offers Sunda, Clain, and Dias safety while they witness the restart of Fractale. However, Dias uses the opportunity to get close to Moeran, killing both in an explosion.</dd>
+</dl>
+<dl>
+<dt><span id="Barrot">Barrot</span></dt>
+<dd><span style="font-weight: normal">Voiced by: <a href="/wiki/Mitsuru_Miyamoto" title="Mitsuru Miyamoto">Mitsuru Miyamoto</a> (Japanese), <a href="/wiki/Barry_Yandell" title="Barry Yandell">Bucky Pearl</a> (English)</span><sup id="cite_ref-funicast_2-7" class="reference"><a href="#cite_note-funicast-2"><span>[</span>2<span>]</span></a></sup></dd>
+<dd>Barrot is a priest in charge of raising Phryne to become the "key" to restarting Fractale. Barrot is often overly affectionate towards Phryne, frequently groping her body when he is together with her and even insists on witnessing her gynecological exam to check that she has not been "spoiled". At the end of the series, Barrot reveals the full truth about Phryne and Nessa to Clain and that he had been using some of the clones for his own sexual pleasure. However, while proclaiming that Phryne is his alone, she stabs him with a knife and runs off.</dd>
+</dl>
+<h2><span class="mw-headline" id="Media">Media</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=6" title="Edit section: Media">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Manga">Manga</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=7" title="Edit section: Manga">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Manga" title="Manga">manga</a> adaptation illustrated by Mutsumi Akasaki was serialized in <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>'s <i><a href="/wiki/Gangan_Online" title="Gangan Online" class="mw-redirect">Gangan Online</a></i> magazine between September 30, 2010<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and November 17, 2011. Three <i><a href="/wiki/Tank%C5%8Dbon" title="Tankōbon">tankōbon</a></i> volumes were published.</p>
+<table class="wikitable" style="width: 98%; margin: auto; clear: both;">
+<tr style="border-bottom: 3px solid #CCF">
+<th scope="col" style="width: 4%;">No.</th>
+<th scope="col" style="width: 48%;">Release date</th>
+<th scope="col" style="width: 48%;">ISBN</th>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" id="vol1" style="text-align: center; font-weight: normal; background-color: transparent;">1</th>
+<td>January 22, 2011<sup id="cite_ref-v1_4-0" class="reference"><a href="#cite_note-v1-4"><span>[</span>4<span>]</span></a></sup></td>
+<td><a href="/wiki/Special:BookSources/9784757531246" class="internal mw-magiclink-isbn">ISBN 978-4-7575-3124-6</a></td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" id="vol2" style="text-align: center; font-weight: normal; background-color: transparent;">2</th>
+<td>July 22, 2011<sup id="cite_ref-v2_5-0" class="reference"><a href="#cite_note-v2-5"><span>[</span>5<span>]</span></a></sup></td>
+<td><a href="/wiki/Special:BookSources/9784757532885" class="internal mw-magiclink-isbn">ISBN 978-4-7575-3288-5</a></td>
+</tr>
+<tr style="text-align: center;">
+<th scope="row" id="vol3" style="text-align: center; font-weight: normal; background-color: transparent;">3</th>
+<td>January 21, 2012<sup id="cite_ref-v3_6-0" class="reference"><a href="#cite_note-v3-6"><span>[</span>6<span>]</span></a></sup></td>
+<td><a href="/wiki/Special:BookSources/9784757534797" class="internal mw-magiclink-isbn">ISBN 978-4-7575-3479-7</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Anime">Anime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=8" title="Edit section: Anime">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 11-episode <i>Fractale</i> <a href="/wiki/Anime" title="Anime">anime</a> TV series produced by <a href="/wiki/A-1_Pictures" title="A-1 Pictures">A-1 Pictures</a> in cooperation with <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a>, aired in Japan between January 13 and March 31, 2011 on <a href="/wiki/Fuji_Television" title="Fuji Television">Fuji TV</a>'s <a href="/wiki/Noitamina" title="Noitamina">Noitamina</a> <a href="/wiki/Block_programming" title="Block programming">programming block</a>.<sup id="cite_ref-cast-staff_7-0" class="reference"><a href="#cite_note-cast-staff-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-airdates_8-0" class="reference"><a href="#cite_note-airdates-8"><span>[</span>8<span>]</span></a></sup> The anime aired on <a href="/wiki/Kansai_Telecasting_Corporation" title="Kansai Telecasting Corporation">Kansai TV</a> and <a href="/wiki/Tokai_Television_Broadcasting" title="Tokai Television Broadcasting" class="mw-redirect">Tokai TV</a> at later dates.<sup id="cite_ref-airdates_8-1" class="reference"><a href="#cite_note-airdates-8"><span>[</span>8<span>]</span></a></sup> The anime is directed by <a href="/wiki/Yutaka_Yamamoto" title="Yutaka Yamamoto">Yutaka Yamamoto</a>, the story was developed by <a href="/wiki/Hiroki_Azuma" title="Hiroki Azuma">Hiroki Azuma</a>, and the screenplay was written by <a href="/wiki/Mari_Okada" title="Mari Okada">Mari Okada</a>. Chief animator Masako Tashiro based the character design used in the anime on the illustrator Hidari's original concept. The music was produced by Sōhei Shikano and the sound director is Yōta Tsuruoka.<sup id="cite_ref-cast-staff_7-1" class="reference"><a href="#cite_note-cast-staff-7"><span>[</span>7<span>]</span></a></sup> The anime's opening theme song is "Harinezumi" <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">ハリネズミ</span><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>, "Hedgehog")</span>, and the ending themes are English and Japanese versions of "<a href="/wiki/Down_by_the_Salley_Gardens" title="Down by the Salley Gardens">Down by the Salley Gardens</a>" <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">サリーガーデン</span><span class="t_nihongo_comma" style="display:none">,</span> <i>Sarī Gāden</i><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span> that was written in 1889 by <a href="/wiki/William_Butler_Yeats" title="William Butler Yeats" class="mw-redirect">William Butler Yeats</a>; both songs are sung by Hitomi Azuma. The single containing the opening theme and the English version of the ending theme was released on March 9, 2011 by <a href="/wiki/Epic/Sony_Records" title="Epic/Sony Records">Epic/Sony Records</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> North American anime distributor <a href="/wiki/Funimation_Entertainment" title="Funimation Entertainment" class="mw-redirect">Funimation Entertainment</a> streamed the series one hour after the premiere on their video portal and other sites<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> after a brief interruption by the Fractale Production Committee that lasted until Funimation started taking legal action against illegally released episodes of the anime.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Funimation released the series in 2012 on DVD and Blu-ray.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Episode_list">Episode list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=9" title="Edit section: Episode list">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable" style="width:98%; margin:auto; background:#FFF; table-layout:fixed;">
+<tr style="border-bottom: 3px solid #CCF">
+<th style="width:3em;">No.</th>
+<th>Title</th>
+<th style="width:12em;">Original airdate</th>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep01" style="text-align: center; font-weight: normal; background:#F2F2F2">01</th>
+<td class="summary" style="text-align: left;">"Encounter"<br />
+<i>"Deai"</i> <span class="t_nihongo_kanji" lang="ja">(出会い)</span>&#160;</td>
+<td>January 13, 2011<sup id="cite_ref-ANC-January_14-0" class="reference"><a href="#cite_note-ANC-January-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">While taking a walk, Clain has an encounter with the mysterious Phryne who was running away from a gang of pursuers. Clain and Phryne soon become friends, but in the following day she disappears without saying a word, leaving a mysterious item behind.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep02" style="text-align: center; font-weight: normal; background:#F2F2F2">02</th>
+<td class="summary" style="text-align: left;">"Nessa"<br />
+<i>"Nessa"</i> <span class="t_nihongo_kanji" lang="ja">(ネッサ)</span>&#160;</td>
+<td>January 20, 2011<sup id="cite_ref-ANC-January_14-1" class="reference"><a href="#cite_note-ANC-January-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">While examining the brooch left by Phryne, Clain finds that Nessa, a doppel in human form, was sealed inside it. After trying to dispose of her, he ends up accepting Nessa's company, just before being captured by the same trio that was pursuing Phyrne.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep03" style="text-align: center; font-weight: normal; background:#F2F2F2">03</th>
+<td class="summary" style="text-align: left;">"Granitz Village"<br />
+<i>"Guranittsu no Mura"</i> <span class="t_nihongo_kanji" lang="ja">(グラニッツの村)</span>&#160;</td>
+<td>January 27, 2011<sup id="cite_ref-ANC-January_14-2" class="reference"><a href="#cite_note-ANC-January-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">Clain and Nessa are taken to a village that is the headquarters of "Lost Millennium", an organization that is rebelling against the Fractale System. Soon after, Clain is caught up in a vicious confrontation between the rebels and the priestesses, where he meets Phryne again.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep04" style="text-align: center; font-weight: normal; background:#F2F2F2">04</th>
+<td class="summary" style="text-align: left;">"Departure"<br />
+<i>"Shuppatsu"</i> <span class="t_nihongo_kanji" lang="ja">(出発)</span>&#160;</td>
+<td>February 3, 2011<sup id="cite_ref-ANC-January_14-3" class="reference"><a href="#cite_note-ANC-January-14"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">The members of Lost Millennium kidnap Phryne and the temple puts a price on their heads. Clain decides to not get himself involved in the conflict, and just when he is about to run away with Nessa, the village is attacked by the temple's forces.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep05" style="text-align: center; font-weight: normal; background:#F2F2F2">05</th>
+<td class="summary" style="text-align: left;">"Journey"<br />
+<i>"Tabiji"</i> <span class="t_nihongo_kanji" lang="ja">(旅路)</span>&#160;</td>
+<td>February 17, 2011<sup id="cite_ref-ANC-February_15-0" class="reference"><a href="#cite_note-ANC-February-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">After escaping the Temple's forces, Clain is forced to earn his keep aboard the airship by doing odd jobs. He notices Sanko with her visor on while playing with someone, whom she claims is Nessa. But when Clain checks, Nessa is nowhere to be found. Later, Clain encounters Phryne and tells her that he believes that Nessa is still around, but she will not appear. Phryne answers that it is because Nessa is jealous as she has become attached to Clain. Soon, the airship begins to experience problems and flies into a thunderstorm, which Clain believes is Nessa's doing. The crew begins looking for Nessa, which turns into a game of hide-and-seek. Thinking that Nessa will not come out while she is around, Phryne attempts to escape the airship. Though Clain tries to talk Phryne out of it, it is Nessa who "finds" Phryne and convinces Phryne to stay.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep06" style="text-align: center; font-weight: normal; background:#F2F2F2">06</th>
+<td class="summary" style="text-align: left;">"The Farthest Town"<br />
+<i>"Saihate no Machi"</i> <span class="t_nihongo_kanji" lang="ja">(最果ての町)</span>&#160;</td>
+<td>February 24, 2011<sup id="cite_ref-ANC-February_15-1" class="reference"><a href="#cite_note-ANC-February-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">While the airship undergoes repairs, Clain and Phryne encounter refugees who found themselves outside the range of Fractale's signal. During an argument between a refugee and man who had taken pictures while Phryne was skinny-dipping, a man named Dias appears and invites the refugees to a nearby town. The photographer runs off and Clain follows him and learns that the man is an antique collector. The collector invites Clain to return that night, which Clain does with Phryne in tow. Along the way, they see Dias's group feeding and vaccinating the refugees. The two arrive at the collector's home and the collector temporarily boosts Fractale's signal to show what the town looked like before the signal was lost. However, the refugees learn that the "vaccinations" were actually removing the terminals from their bodies. When a refugee attempts to flee, Dias has him killed. Afterward, the collector gives Clain the camera.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep07" style="text-align: center; font-weight: normal; background:#F2F2F2">07</th>
+<td class="summary" style="text-align: left;">"City of Pride" / "Veneer Town"<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>n 1<span>]</span></a></sup><br />
+<i>"Kyoshoku no Machi"</i> <span class="t_nihongo_kanji" lang="ja">(虚飾の街)</span>&#160;</td>
+<td>March 3, 2011<sup id="cite_ref-ANC-February_15-2" class="reference"><a href="#cite_note-ANC-February-15"><span>[</span>15<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">While searching for fresh water, Clain's and Nessa's mini-airship crashes and Nessa becomes "ill". Clain find himself in the care of Megan, a resident of Xanadu which she claims is perfect. Megan gives Clain a tour of the city and helps Clain locate Nessa, who is in the care of Colin. Colin states that Nessa's illness is the result of someone hacking her code. Clain later discovers that Colin and Megan are not as friendly as they appear. Meanwhile the airship crew stumbles upon a naturalist village, while searching for Clain and Nessa, but discover that the villagers are the true residents of Xanadu. While Clain escapes with Nessa, Megan appears and attacks Clain with a virus. Nessa becomes upset and releases an energy field that destroys the virtual city. However, one of Colin's guardians is not affected and shoots Clain as the airship's crew and the Temple's forces arrive.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep08" style="text-align: center; font-weight: normal; background:#F2F2F2">08</th>
+<td class="summary" style="text-align: left;">"Secret of the Underground"<br />
+<i>"Chika no Himitsu"</i> <span class="t_nihongo_kanji" lang="ja">(地下の秘密)</span>&#160;</td>
+<td>March 10, 2011<sup id="cite_ref-ANC-March_17-0" class="reference"><a href="#cite_note-ANC-March-17"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">With Clain and Phryne in custody, the Temple airship arrives at an underground base and Barrot demands that he check Phryne's virginity. Meanwhile, Sunda enlists the aid of Dias for a rescue mission. Clain wakes up to find a girl who resembles Nessa and claims to be Phryne, who then takes him to a room that contains other clones like her. While Phryne is about to have her exam, Nessa interrupts in a rage before storming off looking for Clain. Phryne follows Nessa and the two meets up with Clain. The three discover a room where the clones are being destroyed. Seeing the clone that helped him earlier, Clain attempts to save her before the Temple forces arrive. Sunda and Dias begin their attack on the base and, with the help of Nessa, break through the defenses. However, Dias charges in and destroys the base, but not before Clain and Phryne find shelter with help from the clone.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep09" style="text-align: center; font-weight: normal; background:#F2F2F2">09</th>
+<td class="summary" style="text-align: left;">"No Way Out"<br />
+<i>"Oitsumerarete"</i> <span class="t_nihongo_kanji" lang="ja">(追いつめられて)</span>&#160;</td>
+<td>March 17, 2011<sup id="cite_ref-ANC-March_17-1" class="reference"><a href="#cite_note-ANC-March-17"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">After the destruction of the Temple base and the continued deterioration of Fractale, the Temple begins attacking the home villages of the Lost Millennium factions. While the faction leaders meet to discuss what to do, Dias informs them that Sunda possess the "key" to restarting Fractale. Viewing the Temple as backed into a corner, the factions agree to Dias's plan to join forces to attack the Temple and destroy Fractale. Meanwhile Phryne tells Clain the truth about Nessa and herself, and how they must eventually become one in order to restart Fractale. Although Clain wants to join Sunda in the attack on the Temple, Sunda instructs Clain to stay behind to protect both Nessa and Phryne. However, the night before the attack, Phryne sneaks out and returns to the Temple to put a stop to everything. When Clain and Nessa discover Phryne missing, they set out after her.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep10" style="text-align: center; font-weight: normal; background:#F2F2F2">10</th>
+<td class="summary" style="text-align: left;">"To the Monastery"<br />
+<i>"Sōin e"</i> <span class="t_nihongo_kanji" lang="ja">(僧院へ)</span>&#160;</td>
+<td>March 24, 2011<sup id="cite_ref-ANC-March_17-2" class="reference"><a href="#cite_note-ANC-March-17"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">Clain and Nessa catches up with Sunda and tell him that Phryne had returned to the Temple. While Phryne confronts Archpriestess Moeran, Sunda and Clain take a mini-airship and enter the Temple. But Moeran, who is also a clone, hates Phryne because of the younger's greater importance and attempts to strangle Phryne. Meanwhile, Nessa, who remained on the Danan, begins to lose form. After receiving a message from Dias, Enri decides to enter the Temple with Nessa so that they can join Clain and Phryne. Phryne escapes from Moeran during the commotion while Clain, Sunda, Enri, Nessa, and Dias meet up. Although Dias encourages Clain and Nessa to search for Phryne, his real goal is to kill Phryne. Phryne encounters Dias's soldiers, barely escaping before finding Clain and Nessa on the other side of a transparent wall. However, Barrot appears on Phryne's side and claims that he and Phryne are bound together.&#160;</td>
+</tr>
+<tr class="vevent" style="text-align: center; background:#F2F2F2">
+<th scope="row" id="ep11" style="text-align: center; font-weight: normal; background:#F2F2F2">11</th>
+<td class="summary" style="text-align: left;">"Paradise"<br />
+<i>"Rakuen"</i> <span class="t_nihongo_kanji" lang="ja">(楽園)</span>&#160;</td>
+<td>March 31, 2011<sup id="cite_ref-ANC-March_17-3" class="reference"><a href="#cite_note-ANC-March-17"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td class="description" style="border-bottom:3px solid #CCCCFF" colspan="3">Barrot reveals the whole truth about Phryne and Nessa and the original god of Fractale to Clain. But while Barrot claims that Phryne is his alone, Phryne stabs him and runs away with Nessa following behind. Clain rejoins Sunda and Enri while Phryne decides to merge with Nessa in order to keep Nessa from disappearing. Sunda sends Enri back to the airship before Dias's troops destroy the Temple while he and Clain continue on. Sunda and Clain reach the top of the Temple where they find Archpriestess Moeran with Phryne and Nessa. Moeran grants them and Dias, who arrives safely moments later, while they witness the restart of Fractale. Dias uses the opportunity to blow up Moeran and himself. Sunda and Clain race to Phryne and Nessa, but Sunda pushes Clain into the elevator while holding off the Temple's troops. After Clain confesses his feelings to Phryne, the three arrive at the Sanctum and discover that the original Phryne was a 16-year-old girl who retained the personality of a 10-year-old child due to a mental traumatization, and whose "data" was collected to create the Fractale system. Afterward, Phryne and Nessa join together and Fractale is restarted. One year later, the people are learning to live without being dependent on Fractale. Clain has returned home and is taking care of an unconscious Phryne. Phryne finally awakes, but surprises Clain by behaving like Nessa. After a moment, she reveals to him that she has always loved him too, and that she is happy now, Clain, realizing that it really is the women he loves, tearfully embraces her with Phryne happily accepting it. The series end's with a close up of the family photo that was taken before the attack on the temple, with Clain, Phryne and an invisible Nessa along with the rest of Sunda's faction of lost millenium.&#160;</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Novel">Novel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=10" title="Edit section: Novel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Serial_(literature)" title="Serial (literature)">serial</a> novel written by Hiroki Azuma based on <i>Fractale</i> titled <i>Fractale/Reloaded</i> <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">フラクタル/リローデッド</span><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span> was serialized between the February<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>17<span>]</span></a></sup> and May 2011 issues of <a href="/wiki/Media_Factory" title="Media Factory">Media Factory</a>'s <i>Da Vinci</i> magazine. The novel features a different story in the <i>Fractale</i> universe than the manga and anime, which follow the same story.</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">The literal translation of "<i>Kyoshoku no Machi</i>" <span style="font-weight: normal">(<span class="t_nihongo_kanji" lang="ja">虚飾の街</span><sup class="t_nihongo_help noprint"><a href="/wiki/Help:Installing_Japanese_character_sets" title="Help:Installing Japanese character sets"><span class="t_nihongo_icon" style="color: #00e; font: bold 80% sans-serif; text-decoration: none; padding: 0 .1em;">?</span></a></sup>)</span> is "City of Pride" or "Pride City", however Funimation translated the title as "Veneer Town".</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/news/2010-08-05/fractal-noitamaina-anime-with-yamakan-revealed">"<i>Fractale</i> Noitamina Anime with <i>Kannagi</i>‍ '​s Yamakan Revealed"</a>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. August 5, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">September 9,</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=Fractale+Noitamina+Anime+with+Kannagi%26zwj%3B%E2%80%8A%27%E2%80%8Bs+Yamakan+Revealed&amp;rft.date=August+5%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2010-08-05%2Ffractal-noitamaina-anime-with-yamakan-revealed&amp;rft.pub=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-funicast-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-funicast_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-funicast_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-funicast_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-funicast_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-funicast_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-funicast_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-funicast_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-funicast_2-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Rojas, Justin (April 26, 2012). <a rel="nofollow" class="external text" href="http://www.funimation.com/rojas/blog/reset-your-destiny-with-this-cast-announcement/3177121">"Reset your destiny with this cast announcement"</a>. <i>Funimation Blog</i>. <a href="/wiki/Funimation" title="Funimation">Funimation</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 9,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.atitle=Reset+your+destiny+with+this+cast+announcement&amp;rft.aufirst=Justin&amp;rft.aulast=Rojas&amp;rft.au=Rojas%2C+Justin&amp;rft.date=April+26%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.funimation.com%2Frojas%2Fblog%2Freset-your-destiny-with-this-cast-announcement%2F3177121&amp;rft.jtitle=Funimation+Blog&amp;rft.pub=Funimation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://fractale-anime.com/blog/archives/90">"ガンガンONLINEにてコミカライズ連載開始!" [Comic Begins Serialization in Gangan Online!]</a> (in Japanese). <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a>. September 30, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3ONLINE%E3%81%AB%E3%81%A6%E3%82%B3%E3%83%9F%E3%82%AB%E3%83%A9%E3%82%A4%E3%82%BA%E9%80%A3%E8%BC%89%E9%96%8B%E5%A7%8B%21&amp;rft.date=September+30%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffractale-anime.com%2Fblog%2Farchives%2F90&amp;rft.pub=Ordet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-v1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-v1_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.co.jp/dp/4757531249/"><bdi lang="ja">フラクタル(1) (ガンガンコミックスＯＮＬＩＮＥ) [コミック]</bdi></a> (in Japanese). <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.co.jp</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 26,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB%281%29+%28%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%EF%BC%AF%EF%BC%AE%EF%BC%AC%EF%BC%A9%EF%BC%AE%EF%BC%A5%29+%5B%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%5D&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4757531249%2F&amp;rft.pub=Amazon.co.jp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-v2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-v2_5-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.co.jp/dp/4757532881/">"フラクタル(2) (ガンガンコミックスONLINE) [コミック]"</a> (in Japanese). <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.co.jp</a><span class="reference-accessdate">. Retrieved <span class="nowrap">July 26,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB%282%29+%28%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9ONLINE%29+%5B%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%5D&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4757532881%2F&amp;rft.pub=Amazon.co.jp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-v3-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-v3_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.amazon.co.jp/dp/4757534795/">"フラクタル(3)(完) (ガンガンコミックスONLINE) [コミック]"</a> (in Japanese). <a href="/wiki/Amazon.com" title="Amazon.com">Amazon.co.jp</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 20,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB%283%29%28%E5%AE%8C%29+%28%E3%82%AC%E3%83%B3%E3%82%AC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9ONLINE%29+%5B%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%5D&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.amazon.co.jp%2Fdp%2F4757534795%2F&amp;rft.pub=Amazon.co.jp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cast-staff-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-cast-staff_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cast-staff_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://fractale-anime.com/caststaff.html">"Cast &amp; Staff"</a> (in Japanese). <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 20,</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=Cast+%26+Staff&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffractale-anime.com%2Fcaststaff.html&amp;rft.pub=Ordet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-airdates-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-airdates_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-airdates_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://fractale-anime.com/blog/archives/321"><bdi lang="ja">放送局情報</bdi> [Broadcast Channel Information]</a> (in Japanese). <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a>. January 6, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E6%94%BE%E9%80%81%E5%B1%80%E6%83%85%E5%A0%B1&amp;rft.date=January+6%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffractale-anime.com%2Fblog%2Farchives%2F321&amp;rft.pub=Ordet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://fractale-anime.com/blog/archives/323">"遂に発表!OP/EDテーマは新人アーティストAZUMA HITOMI" [Finally Announced! The OP/ED Themes are by the New Artist Hitomi Azumi]</a> (in Japanese). <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a>. January 8, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E9%81%82%E3%81%AB%E7%99%BA%E8%A1%A8%21OP%2FED%E3%83%86%E3%83%BC%E3%83%9E%E3%81%AF%E6%96%B0%E4%BA%BA%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88AZUMA+HITOMI&amp;rft.date=January+8%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffractale-anime.com%2Fblog%2Farchives%2F323&amp;rft.pub=Ordet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/news/2011-01-12/funimation-to-stream-fractale-tomorrow">"Funimation to Simulcast <i>Fractale</i> Starting Tomorrow"</a>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. January 12, 2010.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=Funimation+to+Simulcast+Fractale+Starting+Tomorrow&amp;rft.date=January+12%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2011-01-12%2Ffunimation-to-stream-fractale-tomorrow&amp;rft.pub=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/news/2011-01-19/fractale-production-committee-halts-n-american-simulcast">"<i>Fractale</i> Production Committee Halts N. American Simulcast"</a>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. January 19, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 19,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=Fractale+Production+Committee+Halts+N.+American+Simulcast&amp;rft.date=January+19%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2011-01-19%2Ffractale-production-committee-halts-n-american-simulcast&amp;rft.pub=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/news/2011-01-24/funimation/fractale-simulcast-returns-on-monday">"Funimation: <i>Fractale</i> Simulcast Returns on Monday"</a>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. January 24, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 24,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=Funimation%3A+Fractale+Simulcast+Returns+on+Monday&amp;rft.date=January+24%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2011-01-24%2Ffunimation%2Ffractale-simulcast-returns-on-monday&amp;rft.pub=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/news/2011-04-02/funimation-adds-tales-of-vesperia-anime-film">"Funimation Adds <i>Tales of Vesperia</i> Anime Film"</a>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>. April 2, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">April 3,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=Funimation+Adds+Tales+of+Vesperia+Anime+Film&amp;rft.date=April+2%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.animenewsnetwork.com%2Fnews%2F2011-04-02%2Ffunimation-adds-tales-of-vesperia-anime-film&amp;rft.pub=Anime+News+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ANC-January-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-ANC-January_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ANC-January_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ANC-January_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ANC-January_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/5w5RAvmDa"><bdi lang="ja">フラクタル</bdi></a> (in Japanese). Anime Newtype Channel. Archived from <a rel="nofollow" class="external text" href="http://anime.webnt.jp/program/index.php?pg_page=tv_detail&amp;detail=4463">the original</a> on January 28, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 28,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fanime.webnt.jp%2Fprogram%2Findex.php%3Fpg_page%3Dtv_detail%26detail%3D4463&amp;rft.pub=Anime+Newtype+Channel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ANC-February-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-ANC-February_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ANC-February_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ANC-February_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/5wNnh9gq4"><bdi lang="ja">フラクタル</bdi></a> (in Japanese). Anime Newtype Channel. Archived from <a rel="nofollow" class="external text" href="http://anime.webnt.jp/program/index.php?pg_page=tv_detail&amp;detail=4541">the original</a> on February 9, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">February 9,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fanime.webnt.jp%2Fprogram%2Findex.php%3Fpg_page%3Dtv_detail%26detail%3D4541&amp;rft.pub=Anime+Newtype+Channel&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ANC-March-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-ANC-March_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ANC-March_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ANC-March_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ANC-March_17-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.webcitation.org/5x51RjDcQ"><bdi lang="ja">フラクタル</bdi></a> (in Japanese). Web Newtype. Archived from <a rel="nofollow" class="external text" href="http://anime.webnt.jp/programs/view/58">the original</a> on March 10, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">March 10,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fanime.webnt.jp%2Fprograms%2Fview%2F58&amp;rft.pub=Web+Newtype&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://fractale-anime.com/blog/archives/314"><bdi lang="ja">東 浩紀による小説｢フラクタル/リローデッド｣ ダ・ヴィンチにて連載開始!</bdi> [<i>Fractale/Reloaded</i> Novel According to Hiroki Azuma Begins Serialization in Da Vinci!]</a> (in Japanese). <a href="/wiki/Ordet_(company)" title="Ordet (company)">Ordet</a>. January 6, 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">January 9,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFractale&amp;rft.btitle=%E6%9D%B1+%E6%B5%A9%E7%B4%80%E3%81%AB%E3%82%88%E3%82%8B%E5%B0%8F%E8%AA%AC%EF%BD%A2%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB%2F%E3%83%AA%E3%83%AD%E3%83%BC%E3%83%87%E3%83%83%E3%83%89%EF%BD%A3+%E3%83%80%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%81%E3%81%AB%E3%81%A6%E9%80%A3%E8%BC%89%E9%96%8B%E5%A7%8B%21&amp;rft.date=January+6%2C+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ffractale-anime.com%2Fblog%2Farchives%2F314&amp;rft.pub=Ordet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fractale&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://fractale.noitamina.tv/">Anime official website</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Japanese)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.square-enix.com/jp/magazine/ganganonline/comic/fractale/">Manga official website</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Japanese)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11796"><i>Fractale</i></a> (anime) at <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a>'s encyclopedia</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mari_Okada" title="Template:Mari Okada"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mari_Okada" title="Template talk:Mari Okada"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mari_Okada&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Animation works by <a href="/wiki/Screenwriter" title="Screenwriter">screenwriter</a> <a href="/wiki/Mari_Okada" title="Mari Okada">Mari Okada</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Original works</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Sasami:_Magical_Girls_Club" title="Sasami: Magical Girls Club">Sasami: Magical Girls Club</a></i> (2006)</li>
+<li><i><a href="/wiki/Sasami:_Magical_Girls_Club" title="Sasami: Magical Girls Club">Sasami: Magical Girls Club Season 2</a></i> (2006)</li>
+<li><i><a href="/wiki/True_Tears_(anime)" title="True Tears (anime)">True Tears</a></i> (2008)</li>
+<li><i><a href="/wiki/Canaan_(anime)" title="Canaan (anime)">CANAAN</a></i> (2009)</li>
+<li><i><strong class="selflink">Fractale</strong></i> (2011)</li>
+<li><i><a href="/wiki/Anohana:_The_Flower_We_Saw_That_Day" title="Anohana: The Flower We Saw That Day">Anohana: The Flower We Saw That Day</a></i> (2011)</li>
+<li><i><a href="/wiki/Hanasaku_Iroha" title="Hanasaku Iroha">Hanasaku Iroha</a></i> (2011)</li>
+<li><i><a href="/wiki/Aquarion_Evol" title="Aquarion Evol">Aquarion Evol</a></i> (2012)</li>
+<li><i><a href="/wiki/Black_Rock_Shooter" title="Black Rock Shooter">Black Rock Shooter</a></i> (2012)</li>
+<li><i><a href="/wiki/Lupin_the_Third:_The_Woman_Called_Fujiko_Mine" title="Lupin the Third: The Woman Called Fujiko Mine">Lupin the Third: The Woman Called Fujiko Mine</a></i> (2012)</li>
+<li><i><a href="/wiki/AKB0048" title="AKB0048">AKB0048</a></i> (2012)</li>
+<li><i><a href="/wiki/AKB0048" title="AKB0048">AKB0048 next stage</a></i> (2013)</li>
+<li><i><a href="/wiki/Nagi-Asu:_A_Lull_in_the_Sea" title="Nagi-Asu: A Lull in the Sea">Nagi no Asukara</a></i> (2013)</li>
+<li><i><a href="/wiki/Selector_Infected_WIXOSS" title="Selector Infected WIXOSS">Selector Infected WIXOSS</a></i> (2014)</li>
+<li><i><a href="/wiki/M3_the_dark_metal" title="M3 the dark metal">M3 the dark metal</a></i> (2014)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Adaptations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Mamoru-kun_ni_Megami_no_Shukufuku_o!" title="Mamoru-kun ni Megami no Shukufuku o!">Venus to Mamoru</a></i> (2006)</li>
+<li><i><a href="/wiki/Sketchbook_(manga)" title="Sketchbook (manga)">Sketchbook ~full color'S~</a></i> (2007)</li>
+<li><i><a href="/wiki/Kodomo_no_Jikan" title="Kodomo no Jikan">Kodomo no Jikan</a></i> (2007)</li>
+<li><i><a href="/wiki/Vampire_Knight" title="Vampire Knight">Vampire Knight</a></i> (2008)</li>
+<li><i><a href="/wiki/Vampire_Knight" title="Vampire Knight">Vampire Knight Guilty</a></i> (2008)</li>
+<li><i><a href="/wiki/Toradora!" title="Toradora!">Toradora!</a></i> (2008)</li>
+<li><i><a href="/wiki/Black_Butler" title="Black Butler">Black Butler</a></i> (2008)</li>
+<li><i><a href="/wiki/Tatakau_Shisho" title="Tatakau Shisho">The Book of Bantorra</a></i> (2009)</li>
+<li><i><a href="/wiki/Black_Butler" title="Black Butler">Black Butler II</a></i> (2010)</li>
+<li><i><a href="/wiki/Otome_Y%C5%8Dkai_Zakuro" title="Otome Yōkai Zakuro">Otome Yōkai Zakuro</a></i> (2010)</li>
+<li><i><a href="/wiki/Gosick" title="Gosick">Gosick</a></i> (2011)</li>
+<li><i><a href="/wiki/Wandering_Son" title="Wandering Son">Wandering Son</a></i> (2011)</li>
+<li><i><a href="/wiki/Blast_of_Tempest" title="Blast of Tempest">Blast of Tempest</a></i> (2012)</li>
+<li><i><a href="/wiki/The_Pet_Girl_of_Sakurasou" title="The Pet Girl of Sakurasou">The Pet Girl of Sakurasou</a></i> (2012)</li>
+<li><i><a href="/wiki/Gourmet_Girl_Graffiti" title="Gourmet Girl Graffiti">Gourmet Girl Graffiti</a></i> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0;width:">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Noitamina" title="Template:Noitamina"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Noitamina" title="Template talk:Noitamina"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Noitamina&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><i><a href="/wiki/Noitamina" title="Noitamina">noitaminA</a></i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2005–2009</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Honey_and_Clover" title="Honey and Clover">Honey and Clover</a></i></li>
+<li><i><a href="/wiki/Paradise_Kiss" title="Paradise Kiss">Paradise Kiss</a></i></li>
+<li><i><a href="/wiki/Ayakashi:_Samurai_Horror_Tales" title="Ayakashi: Samurai Horror Tales">Ayakashi: Samurai Horror Tales</a></i></li>
+<li><i><a href="/wiki/Jyu-Oh-Sei" title="Jyu-Oh-Sei">Jyu-Oh-Sei</a></i></li>
+<li><i><a href="/wiki/Honey_and_Clover" title="Honey and Clover">Honey and Clover II</a></i></li>
+<li><i><a href="/wiki/Hataraki_Man" title="Hataraki Man">Hataraki Man</a></i></li>
+<li><i><a href="/wiki/Nodame_Cantabile" title="Nodame Cantabile">Nodame Cantabile</a></i></li>
+<li><i><a href="/wiki/Mononoke_(TV_series)" title="Mononoke (TV series)">Mononoke</a></i></li>
+<li><i><a href="/wiki/Moyasimon:_Tales_of_Agriculture" title="Moyasimon: Tales of Agriculture">Moyasimon: Tales of Agriculture</a></i></li>
+<li><i><a href="/wiki/GeGeGe_no_Kitar%C5%8D" title="GeGeGe no Kitarō">Hakaba Kitarō</a></i></li>
+<li><i><a href="/wiki/Toshokan_Sens%C5%8D" title="Toshokan Sensō">Toshokan Sensō</a></i></li>
+<li><i><a href="/wiki/Antique_Bakery" title="Antique Bakery">Antique Bakery</a></i></li>
+<li><i><a href="/wiki/Nodame_Cantabile" title="Nodame Cantabile">Nodame Cantabile: Paris Chapter</a></i></li>
+<li><i><a href="/wiki/Genji_Monogatari_Sennenki" title="Genji Monogatari Sennenki">Genji Monogatari Sennenki</a></i></li>
+<li><i><a href="/wiki/Eden_of_the_East" title="Eden of the East">Eden of the East</a></i></li>
+<li><i><a href="/wiki/Tokyo_Magnitude_8.0" title="Tokyo Magnitude 8.0">Tokyo Magnitude 8.0</a></i></li>
+<li><i><a href="/wiki/Psychiatrist_Irabu_series" title="Psychiatrist Irabu series">Kūchū Buranko</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2010–2014</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Nodame_Cantabile" title="Nodame Cantabile">Nodame Cantabile: Finale</a></i></li>
+<li><i><a href="/wiki/House_of_Five_Leaves" title="House of Five Leaves">House of Five Leaves</a></i></li>
+<li><i><a href="/wiki/The_Tatami_Galaxy" title="The Tatami Galaxy">The Tatami Galaxy</a></i></li>
+<li><i><a href="/wiki/Moyasimon:_Tales_of_Agriculture" title="Moyasimon: Tales of Agriculture">Moyasimon: Tales of Agriculture</a></i> (live-action)</li>
+<li><i><a href="/wiki/Shiki_(novel_series)" title="Shiki (novel series)">Shiki</a></i></li>
+<li><i><a href="/wiki/Princess_Jellyfish" title="Princess Jellyfish">Princess Jellyfish</a></i></li>
+<li><i><strong class="selflink">Fractale</strong></i></li>
+<li><i><a href="/wiki/Wandering_Son" title="Wandering Son">Wandering Son</a></i></li>
+<li><i><a href="/wiki/C_(anime)" title="C (anime)">[C]</a></i></li>
+<li><i><a href="/wiki/Anohana:_The_Flower_We_Saw_That_Day" title="Anohana: The Flower We Saw That Day">Anohana: The Flower We Saw That Day</a></i></li>
+<li><i><a href="/wiki/Bunny_Drop" title="Bunny Drop">Bunny Drop</a></i></li>
+<li><i><a href="/wiki/No._6" title="No. 6">No. 6</a></i></li>
+<li><i><a href="/wiki/Un-Go" title="Un-Go">Un-Go</a></i></li>
+<li><i><a href="/wiki/Guilty_Crown" title="Guilty Crown">Guilty Crown</a></i></li>
+<li><i><a href="/wiki/Thermae_Romae" title="Thermae Romae">Thermae Romae</a></i></li>
+<li><i><a href="/wiki/Black_Rock_Shooter" title="Black Rock Shooter">Black Rock Shooter</a></i></li>
+<li><i><a href="/wiki/Kids_on_the_Slope" title="Kids on the Slope">Kids on the Slope</a></i></li>
+<li><i><a href="/wiki/Tsuritama" title="Tsuritama">Tsuritama</a></i></li>
+<li><i><a href="/wiki/Moyasimon:_Tales_of_Agriculture" title="Moyasimon: Tales of Agriculture">Moyashimon Returns</a></i></li>
+<li><i><a href="/wiki/Natsuyuki_Rendezvous" title="Natsuyuki Rendezvous">Natsuyuki Rendezvous</a></i></li>
+<li><i><a href="/wiki/Psycho-Pass" title="Psycho-Pass">Psycho-Pass</a></i></li>
+<li><i><a href="/wiki/Robotics;Notes" title="Robotics;Notes">Robotics;Notes</a></i></li>
+<li><i><a href="/wiki/Katanagatari" title="Katanagatari">Katanagatari</a></i></li>
+<li><i><a href="/wiki/Silver_Spoon_(manga)" title="Silver Spoon (manga)">Silver Spoon</a></i></li>
+<li><i><a href="/wiki/Galilei_Donna" title="Galilei Donna">Galilei Donna</a></i></li>
+<li><i><a href="/wiki/Samurai_Flamenco" title="Samurai Flamenco">Samurai Flamenco</a></i></li>
+<li><i><a href="/wiki/Silver_Spoon_(manga)" title="Silver Spoon (manga)">Silver Spoon 2</a></i></li>
+<li><i><a href="/wiki/Ping_Pong_(manga)" title="Ping Pong (manga)">Ping Pong</a></i></li>
+<li><i><a href="/wiki/Nanana%27s_Buried_Treasure" title="Nanana's Buried Treasure">Nanana's Buried Treasure</a></i></li>
+<li><i><a href="/wiki/Terror_in_Resonance" title="Terror in Resonance">Terror in Resonance</a></i></li>
+<li><i><a href="/wiki/Psycho-Pass" title="Psycho-Pass">Psycho-Pass 2</a></i></li>
+<li><i><a href="/wiki/Your_Lie_in_April" title="Your Lie in April">Your Lie in April</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2015–present</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Saekano:_How_to_Raise_a_Boring_Girlfriend" title="Saekano: How to Raise a Boring Girlfriend">Saekano: How to Raise a Boring Girlfriend</a></i></li>
+<li><i><a href="/wiki/Punch_Line_(anime)" title="Punch Line (anime)">Punch Line</a></i></li>
+<li><i><a href="/wiki/Ranpo_Kitan:_Game_of_Laplace" title="Ranpo Kitan: Game of Laplace">Ranpo Kitan: Game of Laplace</a></i></li>
+<li><i><a href="/wiki/Subete_ga_F_ni_Naru" title="Subete ga F ni Naru">Subete ga F ni Naru</a></i></li>
+<li><i><a href="/wiki/K%C5%8Dtetsuj%C5%8D_no_Kabaneri" title="Kōtetsujō no Kabaneri">Kōtetsujō no Kabaneri</a></i></li>
+<li><i><a href="/wiki/Boku_Dake_ga_Inai_Machi" title="Boku Dake ga Inai Machi">Boku Dake ga Inai Machi</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Films</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Eden_of_the_East" title="Eden of the East">Eden of The East Compilation: Air Communication</a></i> (2009)</li>
+<li><i><a href="/wiki/Eden_of_the_East" title="Eden of the East">Eden of the East: The King of Eden</a></i> (2009)</li>
+<li><i><a href="/wiki/Eden_of_the_East" title="Eden of the East">Eden of the East: Paradise Lost</a></i> (2010)</li>
+<li><i><a href="/wiki/Un-Go" title="Un-Go">Un-Go episode:0 Inga chapter</a></i> (2011)</li>
+<li><i><a href="/wiki/Toshokan_Sens%C5%8D" title="Toshokan Sensō">Toshokan Sensō: Kakumei no Tsubasa</a></i> (2012)</li>
+<li><i><a href="/wiki/Anohana:_The_Flower_We_Saw_That_Day" title="Anohana: The Flower We Saw That Day">Anohana the Movie: The Flower We Saw That Day</a></i> (2013)</li>
+<li><i><a href="/wiki/Psycho-Pass:_The_Movie" title="Psycho-Pass: The Movie">Psycho-Pass: The Movie</a></i> (2015)</li>
+<li><i><a href="/wiki/Typhoon_Noruda" title="Typhoon Noruda">Typhoon Noruda</a></i> (2015)</li>
+<li><i><a href="/wiki/The_Anthem_of_the_Heart" title="The Anthem of the Heart">The Anthem of the Heart</a></i> (2015)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:NoitaminA" title="Category:NoitaminA">Category</a></b></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1114
+CPU time usage: 0.828 seconds
+Real time usage: 0.936 seconds
+Preprocessor visited node count: 6174/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 110653/2097152 bytes
+Template argument size: 43658/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Lua time usage: 0.294/10.000 seconds
+Lua memory usage: 3.65 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  753.725      1 - -total
+ 28.98%  218.462      2 - Template:Reflist
+ 27.81%  209.614      5 - Template:Infobox
+ 19.60%  147.765     17 - Template:Cite_web
+ 18.41%  138.744      1 - Template:Infobox_animanga/Header
+ 10.03%   75.567     12 - Template:Nihongo
+  8.55%   64.411      2 - Template:Infobox_animanga/Print
+  8.20%   61.840     14 - Template:Category_handler
+  7.94%   59.850     11 - Template:Japanese_episode_list
+  6.45%   48.584      1 - Template:Infobox_animanga/Video
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28771798-0!*!0!!en!4!* and timestamp 20150711180753 and revision id 666448629
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fractale&amp;oldid=666448629">https://en.wikipedia.org/w/index.php?title=Fractale&amp;oldid=666448629</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Manga_series" title="Category:Manga series">Manga series</a></li><li><a href="/wiki/Category:2010_manga" title="Category:2010 manga">2010 manga</a></li><li><a href="/wiki/Category:2011_anime_television_series" title="Category:2011 anime television series">2011 anime television series</a></li><li><a href="/wiki/Category:2011_novels" title="Category:2011 novels">2011 novels</a></li><li><a href="/wiki/Category:2011_Japanese_television_series_debuts" title="Category:2011 Japanese television series debuts">2011 Japanese television series debuts</a></li><li><a href="/wiki/Category:2011_Japanese_television_series_endings" title="Category:2011 Japanese television series endings">2011 Japanese television series endings</a></li><li><a href="/wiki/Category:A-1_Pictures" title="Category:A-1 Pictures">A-1 Pictures</a></li><li><a href="/wiki/Category:Anime_with_original_screenplays" title="Category:Anime with original screenplays">Anime with original screenplays</a></li><li><a href="/wiki/Category:Funimation_Entertainment" title="Category:Funimation Entertainment">Funimation Entertainment</a></li><li><a href="/wiki/Category:NoitaminA" title="Category:NoitaminA">NoitaminA</a></li><li><a href="/wiki/Category:Science_fiction_anime_and_manga" title="Category:Science fiction anime and manga">Science fiction anime and manga</a></li><li><a href="/wiki/Category:Sh%C5%8Dnen_manga" title="Category:Shōnen manga">Shōnen manga</a></li><li><a href="/wiki/Category:Japanese_serial_novels" title="Category:Japanese serial novels">Japanese serial novels</a></li><li><a href="/wiki/Category:Anime_series" title="Category:Anime series">Anime series</a></li><li><a href="/wiki/Category:Japanese_webcomics" title="Category:Japanese webcomics">Japanese webcomics</a></li><li><a href="/wiki/Category:Webcomics_in_print" title="Category:Webcomics in print">Webcomics in print</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:CS1_uses_Japanese-language_script_(ja)" title="Category:CS1 uses Japanese-language script (ja)">CS1 uses Japanese-language script (ja)</a></li><li><a href="/wiki/Category:Articles_with_Japanese-language_external_links" title="Category:Articles with Japanese-language external links">Articles with Japanese-language external links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fractale&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fractale" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Fractale"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Fractale"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Fractale" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Fractale&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fractale&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fractale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fractale" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fractale&amp;oldid=666448629" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fractale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q482857" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fractale&amp;id=666448629" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fractale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Fractale&amp;oldid=666448629&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fractale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fractale" title="Fractale – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Fractale" title="Fractale – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fractale_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation)" title="Fractale (série télévisée d'animation) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%ED%94%84%EB%9E%99%ED%83%88_(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)" title="프랙탈 (애니메이션) – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Fractale" title="Fractale – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%AB_(%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1)" title="フラクタル (テレビアニメ) – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Fractale" title="Fractale – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Fractale" title="Fractale – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/Fractale" title="Fractale – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Fractale" title="Fractale – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Fractale" title="Fractale – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q482857#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 June 2015, at 06:50.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fractale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1094"});
+}</script>
+	</body>
+</html>

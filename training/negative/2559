@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Viète's formula - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vi%C3%A8te%27s_formula" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Vi%C3%A8te%27s_formula" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Vi%C3%A8te%27s_formula" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Viète's_formula","wgTitle":"Viète's formula","wgCurRevisionId":651148632,"wgRevisionId":651148632,"wgArticleId":1609504,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pi algorithms","Sequences and series","Articles containing proofs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Viète's_formula","wgRelevantArticleId":1609504,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vi%C3%A8te%27s_formula.png/100px-Vi%C3%A8te%27s_formula.png","wgULSAcceptLanguageList":["en-ca"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q949597"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Viète_s_formula skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Viète's formula</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about a formula for <span class="texhtml">π</span>.  For formulas for symmetric functions of the roots, see <a href="/wiki/Vieta%27s_formulas" title="Vieta's formulas">Vieta's formulas</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:362px;"><a href="/wiki/File:Vi%C3%A8te%27s_formula.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vi%C3%A8te%27s_formula.png/360px-Vi%C3%A8te%27s_formula.png" width="360" height="262" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vi%C3%A8te%27s_formula.png/540px-Vi%C3%A8te%27s_formula.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5a/Vi%C3%A8te%27s_formula.png 2x" data-file-width="602" data-file-height="438" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vi%C3%A8te%27s_formula.png" class="internal" title="Enlarge"></a></div>
+Viète's formula, as printed in Viète's <i>Variorum de rebus mathematicis responsorum, liber VIII</i> (1593)</div>
+</div>
+</div>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, <b>Viète's formula</b> is the following <a href="/wiki/Infinite_product" title="Infinite product">infinite product</a> of <a href="/wiki/Nested_radical" title="Nested radical">nested radicals</a> representing the mathematical constant <a href="/wiki/Pi" title="Pi">π</a>:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac2\pi=
+\frac{\sqrt2}2\cdot
+\frac{\sqrt{2+\sqrt2}}2\cdot
+\frac{\sqrt{2+\sqrt{2+\sqrt2}}}2\cdots." src="//upload.wikimedia.org/math/0/c/e/0ce04afe01aec0ae61b1a8efc3da098c.png" /></dd>
+</dl>
+<p>It is named after <a href="/wiki/Fran%C3%A7ois_Vi%C3%A8te" title="François Viète">François Viète</a> (1540–1603), who published it in 1593 in his work <i>Variorum de rebus mathematicis responsorum, liber VIII</i>.<sup id="cite_ref-beckmann_1-0" class="reference"><a href="#cite_note-beckmann-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Significance"><span class="tocnumber">1</span> <span class="toctext">Significance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Interpretation_and_convergence"><span class="tocnumber">2</span> <span class="toctext">Interpretation and convergence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Related_formulas"><span class="tocnumber">3</span> <span class="toctext">Related formulas</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Derivation"><span class="tocnumber">4</span> <span class="toctext">Derivation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Significance">Significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit&amp;section=1" title="Edit section: Significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At the time Viète published his formula, methods for <a href="/wiki/Approximations_of_%CF%80" title="Approximations of π">approximating <span class="texhtml">π</span></a> to (in principle) arbitrary accuracy had long been known. Viète's own method can be interpreted as a variation of an idea of <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a> of approximating the area of a circle by that of a many-sided polygon,<sup id="cite_ref-beckmann_1-1" class="reference"><a href="#cite_note-beckmann-1"><span>[</span>1<span>]</span></a></sup> used by Archimedes to find the approximation</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{223}{71}&lt;\pi&lt;\frac{22}{7}." src="//upload.wikimedia.org/math/5/6/8/568f85f35eb27bbc5a9a9b6dc0c5b140.png" /></dd>
+</dl>
+<p>However, by publishing his method as a mathematical formula, Viète formulated the first instance of an infinite product known in mathematics,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> and the first example of an explicit formula for the exact value of <span class="texhtml">π</span>.<sup id="cite_ref-morrison_4-0" class="reference"><a href="#cite_note-morrison-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> As the first formula representing a number as the result of an infinite process rather than of a finite calculation, Viète's formula has been noted as the beginning of <a href="/wiki/Mathematical_analysis" title="Mathematical analysis">mathematical analysis</a><sup id="cite_ref-maor_6-0" class="reference"><a href="#cite_note-maor-6"><span>[</span>6<span>]</span></a></sup> and even more broadly as "the dawn of modern mathematics".<sup id="cite_ref-borwein_7-0" class="reference"><a href="#cite_note-borwein-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Using his formula, Viète calculated <span class="texhtml">π</span> to an accuracy of nine decimal digits.<sup id="cite_ref-kreminski_8-0" class="reference"><a href="#cite_note-kreminski-8"><span>[</span>8<span>]</span></a></sup> However, this was not the most accurate approximation to <span class="texhtml">π</span> known at the time, as the <a href="/wiki/Mathematics_in_medieval_Islam" title="Mathematics in medieval Islam">Persian mathematician</a> <a href="/wiki/Jamsh%C4%ABd_al-K%C4%81sh%C4%AB" title="Jamshīd al-Kāshī">Jamshīd al-Kāshī</a> had calculated <span class="texhtml">π</span> to an accuracy of nine <a href="/wiki/Sexagesimal" title="Sexagesimal">sexagesimal</a> digits and 16 decimal digits in 1424.<sup id="cite_ref-borwein_7-1" class="reference"><a href="#cite_note-borwein-7"><span>[</span>7<span>]</span></a></sup> Not long after Viète published his formula, <a href="/wiki/Ludolph_van_Ceulen" title="Ludolph van Ceulen">Ludolph van Ceulen</a> used a closely related method to calculate 35 digits of <span class="texhtml">π</span>, which were published only after van Ceulen's death in 1610.<sup id="cite_ref-borwein_7-2" class="reference"><a href="#cite_note-borwein-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Interpretation_and_convergence">Interpretation and convergence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit&amp;section=2" title="Edit section: Interpretation and convergence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Viète's formula may be rewritten and understood as a <a href="/wiki/Limit_(mathematics)" title="Limit (mathematics)">limit</a> expression</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\lim_{n \rightarrow \infty} \prod_{i=1}^n {a_i \over 2}=\frac2\pi" src="//upload.wikimedia.org/math/3/9/5/395cf0fdc33cfd9ff57f84ae834450ce.png" /></dd>
+</dl>
+<p>where <i>a</i><sub><i>n</i></sub>&#160;=&#160;<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">2 + <i>a</i><sub><i>n</i> − 1</sub></span></span>, with initial condition <i>a</i><sub>1</sub>&#160;=&#160;<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">2</span></span>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> Viète did his work long before the concepts of limits and rigorous proofs of convergence were developed in mathematics; the first proof that this limit exists was not given until the work of <a href="/wiki/Ferdinand_Rudio" title="Ferdinand Rudio">Ferdinand Rudio</a> in 1891.<sup id="cite_ref-beckmann_1-2" class="reference"><a href="#cite_note-beckmann-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Comparison_pi_infinite_series.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Comparison_pi_infinite_series.svg/400px-Comparison_pi_infinite_series.svg.png" width="400" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Comparison_pi_infinite_series.svg/600px-Comparison_pi_infinite_series.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Comparison_pi_infinite_series.svg/800px-Comparison_pi_infinite_series.svg.png 2x" data-file-width="512" data-file-height="256" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Comparison_pi_infinite_series.svg" class="internal" title="Enlarge"></a></div>
+Comparison of the convergence of Viète's formula (<span style="color:red"><b>×</b></span>) and several historical infinite series for <span class="texhtml">π</span>. <i>S<sub>n</sub></i> is the approximation after taking <i>n</i> terms. Each subsequent subplot magnifies the shaded area horizontally by 10 times. <a href="/wiki/File:Comparison_pi_infinite_series.svg" title="File:Comparison pi infinite series.svg">(click&#160;for&#160;detail)</a></div>
+</div>
+</div>
+<p>The <a href="/wiki/Rate_of_convergence" title="Rate of convergence">rate of convergence</a> of a limit governs the number of terms of the expression needed to achieve a given number of digits of accuracy. In the case of Viète's formula, there is a linear relation between the number of terms and the number of digits: the product of the first <i>n</i> terms in the limit gives an expression for π that is accurate to approximately 0.6n digits.<sup id="cite_ref-kreminski_8-1" class="reference"><a href="#cite_note-kreminski-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> This convergence rate compares very favorably with the <a href="/wiki/Wallis_product" title="Wallis product">Wallis product</a>, a later infinite product formula for π. Although Viète himself only used his formula to calculate π with nine-digit accuracy, an <a href="/wiki/Series_acceleration" title="Series acceleration">accelerated</a> version of his formula has been used to calculate π to hundreds of thousands of digits.<sup id="cite_ref-kreminski_8-2" class="reference"><a href="#cite_note-kreminski-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Related_formulas">Related formulas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit&amp;section=3" title="Edit section: Related formulas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Viète's formula may be obtained as a special case of a formula given more than a century later by <a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Leonhard Euler</a>. Euler discovered that:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{\sin(x)}x=\cos\left(\frac{x}2\right)\cdot\cos\left(\frac{x}4\right)\cdot\cos\left(\frac{x}8\right)\cdots." src="//upload.wikimedia.org/math/2/a/3/2a3f25cc5b9cd19daf4c688ae7959216.png" /></dd>
+</dl>
+<p>Substituting <i>x</i>&#160;=&#160;π/2, and expressing each term of the product as a function of earlier terms using the half-angle formula</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\cos\frac{x}{2}=\sqrt{\frac{1+\cos x}{2}}" src="//upload.wikimedia.org/math/2/7/4/2748c1ba96b6d6f760f7ff520f2a025f.png" /></dd>
+</dl>
+<p>gives Viète's formula.<sup id="cite_ref-beckmann_1-3" class="reference"><a href="#cite_note-beckmann-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>It is also possible to derive from Viète's formula a related formula for π that still involves nested square roots of two, but uses only one multiplication:<sup id="cite_ref-servi_12-0" class="reference"><a href="#cite_note-servi-12"><span>[</span>12<span>]</span></a></sup></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\pi =3 \lim_{k\to\infty} 2^{k-1} \underbrace{\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{2+\sqrt{2+\cdots+\sqrt{2+1}}}}}}}_{k\ \mathrm{square}\ \mathrm{roots}}" src="//upload.wikimedia.org/math/3/3/6/336bc461ec1941a1329e40e1f1fa3510.png" /></dd>
+</dl>
+<p>By now many formulas similar to Viète's involving either nested radicals or infinite products of trigonometric functions are known for π, as well as for other constants such as the <a href="/wiki/Golden_ratio" title="Golden ratio">golden ratio</a>.<sup id="cite_ref-servi_12-1" class="reference"><a href="#cite_note-servi-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Derivation">Derivation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit&amp;section=4" title="Edit section: Derivation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Vi%C3%A8te_nested_polygons.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vi%C3%A8te_nested_polygons.svg/300px-Vi%C3%A8te_nested_polygons.svg.png" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vi%C3%A8te_nested_polygons.svg/450px-Vi%C3%A8te_nested_polygons.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vi%C3%A8te_nested_polygons.svg/600px-Vi%C3%A8te_nested_polygons.svg.png 2x" data-file-width="450" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vi%C3%A8te_nested_polygons.svg" class="internal" title="Enlarge"></a></div>
+A sequence of <a href="/wiki/Regular_polygon" title="Regular polygon">regular polygons</a> with numbers of sides equal to <a href="/wiki/Power_of_two" title="Power of two">powers of two</a>, inscribed in a circle. The ratios between areas or perimeters of consecutive polygons in the sequence give the terms of Viète's formula.</div>
+</div>
+</div>
+<p>Viète obtained his formula by comparing the <a href="/wiki/Area" title="Area">areas</a> of <a href="/wiki/Regular_polygon" title="Regular polygon">regular polygons</a> with <img class="mwe-math-fallback-image-inline tex" alt="2^n" src="//upload.wikimedia.org/math/9/a/a/9aa0ec0374c89d2f7f3d9cd2e05a4bc5.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="2^{n+1}" src="//upload.wikimedia.org/math/b/7/0/b705b065e1d3fae63cc7dd04dd2c1a30.png" /> sides inscribed in a <a href="/wiki/Circle" title="Circle">circle</a>.<sup id="cite_ref-beckmann_1-4" class="reference"><a href="#cite_note-beckmann-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-maor_6-1" class="reference"><a href="#cite_note-maor-6"><span>[</span>6<span>]</span></a></sup> The first term in the product, <img class="mwe-math-fallback-image-inline tex" alt="\tfrac{\sqrt 2}{2}" src="//upload.wikimedia.org/math/8/7/5/8753ca1a846aa4d90d02170a011c997a.png" />, is the ratio of areas of a square and an <a href="/wiki/Octagon" title="Octagon">octagon</a>, the second term is the ratio of areas of an octagon and a <a href="/wiki/Hexadecagon" title="Hexadecagon">hexadecagon</a>, etc. Thus, the product <a href="/wiki/Telescoping_series" title="Telescoping series">telescopes</a> to give the ratio of areas of a square (the initial polygon in the sequence) to a circle (the limiting case of a <img class="mwe-math-fallback-image-inline tex" alt="2^n" src="//upload.wikimedia.org/math/9/a/a/9aa0ec0374c89d2f7f3d9cd2e05a4bc5.png" />-gon). Alternatively, the terms in the product may be instead interpreted as ratios of <a href="/wiki/Perimeter" title="Perimeter">perimeters</a> of the same sequence of polygons, starting with the ratio of perimeters of a <a href="/wiki/Digon" title="Digon" class="mw-redirect">digon</a> (the diameter of the circle, counted twice) and a square, the ratio of perimeters of a square and an octagon, etc.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>Another derivation is possible based on <a href="/wiki/Trigonometric_identity" title="Trigonometric identity" class="mw-redirect">trigonometric identities</a> and Euler's formula. By repeatedly applying the <a href="/wiki/List_of_trigonometric_identities#Double-angle.2C_triple-angle.2C_and_half-angle_formulae" title="List of trigonometric identities">double-angle formula</a></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sin x = 2\sin\frac{x}{2}\cos\frac{x}{2}," src="//upload.wikimedia.org/math/7/2/9/729c6140b1c5ae1eaa2a2bee36e3f0d2.png" /></dd>
+</dl>
+<p>one may prove by <a href="/wiki/Mathematical_induction" title="Mathematical induction">mathematical induction</a> that, for all positive integers <i>n</i>,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sin x = 2^n \sin\frac{x}{2^n}\left(\prod_{i=1}^n \cos\frac{x}{2^i}\right)." src="//upload.wikimedia.org/math/f/2/e/f2ea6e704df153d298ab262fad9a8683.png" /></dd>
+</dl>
+<p>The term <img class="mwe-math-fallback-image-inline tex" alt="2^n\sin\tfrac{x}{2^n}" src="//upload.wikimedia.org/math/6/c/6/6c687801eb3a052f773746e81cc25e4b.png" /> goes to <i>x</i> in the limit as <i>n</i> goes to infinity, from which Euler's formula follows. Viète's formula may be obtained from this formula by the substitution <i>x</i>&#160;=&#160;π/2.<sup id="cite_ref-morrison_4-1" class="reference"><a href="#cite_note-morrison-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-beckmann-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-beckmann_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-beckmann_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-beckmann_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-beckmann_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-beckmann_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFBeckmann1971" class="citation"><a href="/wiki/Petr_Beckmann" title="Petr Beckmann">Beckmann, Petr</a> (1971), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=XqqUUSyz138C&amp;pg=PA94"><i>A history of π</i></a> (2nd ed.), The Golem Press, Boulder, Colo., pp.&#160;94–95, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-88029-418-8" title="Special:BookSources/978-0-88029-418-8">978-0-88029-418-8</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=0449960">0449960</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.au=Beckmann%2C+Petr&amp;rft.aufirst=Petr&amp;rft.aulast=Beckmann&amp;rft.btitle=A+history+of+%CF%80&amp;rft.date=1971&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXqqUUSyz138C%26pg%3DPA94&amp;rft.isbn=978-0-88029-418-8&amp;rft.mr=0449960&amp;rft.pages=94-95&amp;rft.pub=The+Golem+Press%2C+Boulder%2C+Colo.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span id="CITEREFDe_Smith2006" class="citation">De Smith, Michael J. (2006), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=HlOVuklrQPAC&amp;pg=PA165"><i>Maths for the Mystified: An Exploration of the History of Mathematics and Its Relationship to Modern-day Science and Computing</i></a>, Troubador Publishing Ltd, p.&#160;165, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781905237814" title="Special:BookSources/9781905237814">9781905237814</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.au=De+Smith%2C+Michael+J.&amp;rft.aufirst=Michael+J.&amp;rft.aulast=De+Smith&amp;rft.btitle=Maths+for+the+Mystified%3A+An+Exploration+of+the+History+of+Mathematics+and+Its+Relationship+to+Modern-day+Science+and+Computing&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHlOVuklrQPAC%26pg%3DPA165&amp;rft.isbn=9781905237814&amp;rft.pages=165&amp;rft.pub=Troubador+Publishing+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span id="CITEREFMorenoGarc.C3.ADa-Caballero2013" class="citation">Moreno, Samuel G.; García-Caballero, Esther M. (2013), "On Viète-like formulas", <i><a href="/wiki/Journal_of_Approximation_Theory" title="Journal of Approximation Theory">Journal of Approximation Theory</a></i> <b>174</b>: 90–112, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jat.2013.06.006">10.1016/j.jat.2013.06.006</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=3090772">3090772</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=On+Vi%C3%A8te-like+formulas&amp;rft.aufirst=Samuel+G.&amp;rft.au=Garc%C3%ADa-Caballero%2C+Esther+M.&amp;rft.aulast=Moreno&amp;rft.au=Moreno%2C+Samuel+G.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jat.2013.06.006&amp;rft.jtitle=Journal+of+Approximation+Theory&amp;rft.mr=3090772&amp;rft.pages=90-112&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=174" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-morrison-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-morrison_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-morrison_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFMorrison1995" class="citation">Morrison, Kent E. (1995), "Cosine products, Fourier transforms, and random sums", <i><a href="/wiki/The_American_Mathematical_Monthly" title="The American Mathematical Monthly" class="mw-redirect">The American Mathematical Monthly</a></i> <b>102</b> (8): 716–724, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F2974641">10.2307/2974641</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1357488">1357488</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Cosine+products%2C+Fourier+transforms%2C+and+random+sums&amp;rft.aufirst=Kent+E.&amp;rft.aulast=Morrison&amp;rft.au=Morrison%2C+Kent+E.&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F2974641&amp;rft.issue=8&amp;rft.jtitle=The+American+Mathematical+Monthly&amp;rft.mr=1357488&amp;rft.pages=716-724&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=102" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span id="CITEREFOldhamMylandSpanier2010" class="citation">Oldham, Keith B.; Myland, Jan C.; Spanier, Jerome (2010), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=UrSnNeJW10YC&amp;pg=PA15"><i>An Atlas of Functions: with Equator, the Atlas Function Calculator</i></a>, Springer, p.&#160;15, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780387488073" title="Special:BookSources/9780387488073">9780387488073</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.aufirst=Keith+B.&amp;rft.aulast=Oldham&amp;rft.au=Myland%2C+Jan+C.&amp;rft.au=Oldham%2C+Keith+B.&amp;rft.au=Spanier%2C+Jerome&amp;rft.btitle=An+Atlas+of+Functions%3A+with+Equator%2C+the+Atlas+Function+Calculator&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUrSnNeJW10YC%26pg%3DPA15&amp;rft.isbn=9780387488073&amp;rft.pages=15&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-maor-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-maor_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-maor_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFMaor2011" class="citation"><a href="/wiki/Eli_Maor" title="Eli Maor">Maor, Eli</a> (2011), <i>Trigonometric Delights</i>, Princeton University Press, pp.&#160;50, 140, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781400842827" title="Special:BookSources/9781400842827">9781400842827</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.aufirst=Eli&amp;rft.aulast=Maor&amp;rft.au=Maor%2C+Eli&amp;rft.btitle=Trigonometric+Delights&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=9781400842827&amp;rft.pages=50%2C+140&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-borwein-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-borwein_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-borwein_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-borwein_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFBorwein2013" class="citation"><a href="/wiki/Jonathan_Borwein" title="Jonathan Borwein">Borwein, Jonathan M.</a> (2013), "The Life of Pi: From Archimedes to ENIAC and Beyond", <a rel="nofollow" class="external text" href="http://www.carma.newcastle.edu.au/jon/pi-2010.pdf"><i>From Alexandria, Through Baghdad: Surveys and Studies in the Ancient Greek and Medieval Islamic Mathematical Sciences in Honor of J.l. Berggren</i></a> <span style="font-size:85%;">(PDF)</span>, Springer, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783642367359" title="Special:BookSources/9783642367359">9783642367359</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=The+Life+of+Pi%3A+From+Archimedes+to+ENIAC+and+Beyond&amp;rft.au=Borwein%2C+Jonathan+M.&amp;rft.aufirst=Jonathan+M.&amp;rft.aulast=Borwein&amp;rft.btitle=From+Alexandria%2C+Through+Baghdad%3A+Surveys+and+Studies+in+the+Ancient+Greek+and+Medieval+Islamic+Mathematical+Sciences+in+Honor+of+J.l.+Berggren&amp;rft.date=2013&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.carma.newcastle.edu.au%2Fjon%2Fpi-2010.pdf&amp;rft.isbn=9783642367359&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-kreminski-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-kreminski_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kreminski_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-kreminski_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFKreminski2008" class="citation">Kreminski, Rick (2008), "π to Thousands of Digits from Vieta's Formula", <i><a href="/wiki/Mathematics_Magazine" title="Mathematics Magazine">Mathematics Magazine</a></i> <b>81</b> (3): 201–207, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/27643107">27643107</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=%CF%80+to+Thousands+of+Digits+from+Vieta%27s+Formula&amp;rft.aufirst=Rick&amp;rft.au=Kreminski%2C+Rick&amp;rft.aulast=Kreminski&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jstor=27643107&amp;rft.jtitle=Mathematics+Magazine&amp;rft.pages=201-207&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=81" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span id="CITEREFEymardLafon2004" class="citation">Eymard, Pierre; Lafon, Jean Pierre (2004), "2.1 Viète's infinite product", <a rel="nofollow" class="external text" href="http://books.google.com/books?id=qZcCSskdtwcC&amp;pg=PA44"><i>The Number π</i></a>, American Mathematical Society, pp.&#160;44–46, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780821832462" title="Special:BookSources/9780821832462">9780821832462</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=2.1+Vi%C3%A8te%27s+infinite+product&amp;rft.au=Eymard%2C+Pierre&amp;rft.aufirst=Pierre&amp;rft.au=Lafon%2C+Jean+Pierre&amp;rft.aulast=Eymard&amp;rft.btitle=The+Number+%CF%80&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqZcCSskdtwcC%26pg%3DPA44&amp;rft.isbn=9780821832462&amp;rft.pages=44-46&amp;rft.pub=American+Mathematical+Society&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span id="CITEREFRudio1891" class="citation"><a href="/wiki/Ferdinand_Rudio" title="Ferdinand Rudio">Rudio, F.</a> (1891), "Über die Konvergenz einer von Vieta herrührenden eigentümlichen Produktentwicklung", <i>Z. Math. Phys.</i> <b>36</b>: 139–140</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=%C3%9Cber+die+Konvergenz+einer+von+Vieta+herr%C3%BChrenden+eigent%C3%BCmlichen+Produktentwicklung&amp;rft.aufirst=F.&amp;rft.aulast=Rudio&amp;rft.au=Rudio%2C+F.&amp;rft.date=1891&amp;rft.genre=article&amp;rft.jtitle=Z.+Math.+Phys.&amp;rft.pages=139-140&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span id="CITEREFOsler2007" class="citation">Osler, T. J. (2007), "A simple geometric method of estimating the error in using Vieta's product for π", <i>International Journal of Mathematical Education in Science and Technology</i> <b>38</b> (1): 136–142, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F00207390601002799">10.1080/00207390601002799</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=A+simple+geometric+method+of+estimating+the+error+in+using+Vieta%27s+product+for+%CF%80&amp;rft.aufirst=T.+J.&amp;rft.aulast=Osler&amp;rft.au=Osler%2C+T.+J.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1080%2F00207390601002799&amp;rft.issue=1&amp;rft.jtitle=International+Journal+of+Mathematical+Education+in+Science+and+Technology&amp;rft.pages=136-142&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-servi-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-servi_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-servi_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFServi2003" class="citation">Servi, L. D. (2003), "Nested square roots of 2", <i>The American Mathematical Monthly</i> <b>110</b> (4): 326–330, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F3647881">10.2307/3647881</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1984573">1984573</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Nested+square+roots+of+2&amp;rft.aufirst=L.+D.&amp;rft.aulast=Servi&amp;rft.au=Servi%2C+L.+D.&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F3647881&amp;rft.issue=4&amp;rft.jtitle=The+American+Mathematical+Monthly&amp;rft.mr=1984573&amp;rft.pages=326-330&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=110" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span id="CITEREFNyblom2012" class="citation">Nyblom, M. A. (2012), "Some closed-form evaluations of infinite products involving nested radicals", <i>The Rocky Mountain Journal of Mathematics</i> <b>42</b> (2): 751–758, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1216%2FRMJ-2012-42-2-751">10.1216/RMJ-2012-42-2-751</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2915517">2915517</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Some+closed-form+evaluations+of+infinite+products+involving+nested+radicals&amp;rft.aufirst=M.+A.&amp;rft.aulast=Nyblom&amp;rft.au=Nyblom%2C+M.+A.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1216%2FRMJ-2012-42-2-751&amp;rft.issue=2&amp;rft.jtitle=The+Rocky+Mountain+Journal+of+Mathematics&amp;rft.mr=2915517&amp;rft.pages=751-758&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=42" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span id="CITEREFMorenoGarc.C3.ADa-Caballero2013" class="citation">Moreno, Samuel G.; García-Caballero, Esther M. (2013), "On Viète-like formulas", <i>Journal of Approximation Theory</i> <b>174</b>: 90–112, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jat.2013.06.006">10.1016/j.jat.2013.06.006</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=3090772">3090772</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=On+Vi%C3%A8te-like+formulas&amp;rft.aufirst=Samuel+G.&amp;rft.au=Garc%C3%ADa-Caballero%2C+Esther+M.&amp;rft.aulast=Moreno&amp;rft.au=Moreno%2C+Samuel+G.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jat.2013.06.006&amp;rft.jtitle=Journal+of+Approximation+Theory&amp;rft.mr=3090772&amp;rft.pages=90-112&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=174" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span id="CITEREFLevin2006" class="citation">Levin, Aaron (2006), "A geometric interpretation of an infinite product for the lemniscate constant", <i>American Mathematical Monthly</i> <b>113</b> (6): 510–520, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F27641976">10.2307/27641976</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2231136">2231136</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=A+geometric+interpretation+of+an+infinite+product+for+the+lemniscate+constant&amp;rft.aufirst=Aaron&amp;rft.aulast=Levin&amp;rft.au=Levin%2C+Aaron&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F27641976&amp;rft.issue=6&amp;rft.jtitle=American+Mathematical+Monthly&amp;rft.mr=2231136&amp;rft.pages=510-520&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=113" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span id="CITEREFLevin2005" class="citation">Levin, Aaron (2005), "A new class of infinite products generalizing Viète's product formula for π", <i>Ramanujan Journal</i> <b>10</b> (3): 305–324, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs11139-005-4852-z">10.1007/s11139-005-4852-z</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2193382">2193382</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=A+new+class+of+infinite+products+generalizing+Vi%C3%A8te%27s+product+formula+for+%CF%80&amp;rft.aufirst=Aaron&amp;rft.aulast=Levin&amp;rft.au=Levin%2C+Aaron&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs11139-005-4852-z&amp;rft.issue=3&amp;rft.jtitle=Ramanujan+Journal&amp;rft.mr=2193382&amp;rft.pages=305-324&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span id="CITEREFOsler2007" class="citation">Osler, Thomas J. (2007), "Vieta-like products of nested radicals with Fibonacci and Lucas numbers", <i>The Fibonacci Quarterly</i> <b>45</b> (3): 202–204, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=2437033">2437033</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Vieta-like+products+of+nested+radicals+with+Fibonacci+and+Lucas+numbers&amp;rft.aufirst=Thomas+J.&amp;rft.aulast=Osler&amp;rft.au=Osler%2C+Thomas+J.&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=The+Fibonacci+Quarterly&amp;rft.mr=2437033&amp;rft.pages=202-204&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span id="CITEREFStolarsky1980" class="citation">Stolarsky, Kenneth B. (1980), <a rel="nofollow" class="external text" href="http://projecteuclid.org/getRecord?id=euclid.pjm/1102779384">"Mapping properties, growth, and uniqueness of Vieta (infinite cosine) products"</a>, <i>Pacific Journal of Mathematics</i> <b>89</b> (1): 209–227, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2140%2Fpjm.1980.89.209">10.2140/pjm.1980.89.209</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=596932">596932</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Mapping+properties%2C+growth%2C+and+uniqueness+of+Vieta+%28infinite+cosine%29+products&amp;rft.aufirst=Kenneth+B.&amp;rft.aulast=Stolarsky&amp;rft.au=Stolarsky%2C+Kenneth+B.&amp;rft.date=1980&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fprojecteuclid.org%2FgetRecord%3Fid%3Deuclid.pjm%2F1102779384&amp;rft_id=info%3Adoi%2F10.2140%2Fpjm.1980.89.209&amp;rft.issue=1&amp;rft.jtitle=Pacific+Journal+of+Mathematics&amp;rft.mr=596932&amp;rft.pages=209-227&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=89" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span id="CITEREFAllen1985" class="citation">Allen, Edward J. (1985), "Continued radicals", <i>Mathematical Gazette</i> <b>69</b> (450): 261–263, <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/3617569">3617569</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Continued+radicals&amp;rft.au=Allen%2C+Edward+J.&amp;rft.aufirst=Edward+J.&amp;rft.aulast=Allen&amp;rft.date=1985&amp;rft.genre=article&amp;rft.issue=450&amp;rft.jstor=3617569&amp;rft.jtitle=Mathematical+Gazette&amp;rft.pages=261-263&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=69" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span id="CITEREFRummler1993" class="citation">Rummler, Hansklaus (1993), "Squaring the circle with holes", <i><a href="/wiki/The_American_Mathematical_Monthly" title="The American Mathematical Monthly" class="mw-redirect">The American Mathematical Monthly</a></i> <b>100</b> (9): 858–860, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F2324662">10.2307/2324662</a>, <a href="/wiki/Mathematical_Reviews" title="Mathematical Reviews">MR</a>&#160;<a rel="nofollow" class="external text" href="//www.ams.org/mathscinet-getitem?mr=1247533">1247533</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVi%C3%A8te%27s+formula&amp;rft.atitle=Squaring+the+circle+with+holes&amp;rft.aufirst=Hansklaus&amp;rft.aulast=Rummler&amp;rft.au=Rummler%2C+Hansklaus&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F2324662&amp;rft.issue=9&amp;rft.jtitle=The+American+Mathematical+Monthly&amp;rft.mr=1247533&amp;rft.pages=858-860&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=100" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Viète's <a rel="nofollow" class="external text" href="http://books.google.com/books?id=7_BCAAAAcAAJ"><i>Variorum de rebus mathematicis responsorum, liber VIII</i></a> (1593) on <a href="/wiki/Google_Books" title="Google Books">Google Books</a>. The formula is on the second half of p.&#160;30.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1001
+CPU time usage: 0.410 seconds
+Real time usage: 1.146 seconds
+Preprocessor visited node count: 1569/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55498/2097152 bytes
+Template argument size: 597/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 2.8 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1034.100      1 - -total
+ 21.38%  221.127      1 - Template:Reflist
+ 13.17%  136.150     20 - Template:Citation
+  5.68%   58.700      1 - Template:About
+  4.91%   50.762      1 - Template:Hatnote
+  1.57%   16.273      1 - Template:Namespace_detect
+  0.40%    4.139      1 - Template:Comparison_pi_infinite_series.svg
+  0.22%    2.324      8 - Template:Pi
+  0.22%    2.270      2 - Template:Radic
+  0.22%    2.228      1 - Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1609504-0!*!0!!en!4!*!math=0 and timestamp 20150630024408 and revision id 651148632
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Viète%27s_formula&amp;oldid=651148632">https://en.wikipedia.org/w/index.php?title=Viète%27s_formula&amp;oldid=651148632</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Pi_algorithms" title="Category:Pi algorithms">Pi algorithms</a></li><li><a href="/wiki/Category:Sequences_and_series" title="Category:Sequences and series">Sequences and series</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_proofs" title="Category:Articles containing proofs">Articles containing proofs</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vi%C3%A8te%27s+formula&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vi%C3%A8te%27s+formula" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Vi%C3%A8te%27s_formula"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Vi%C3%A8te%27s_formula"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Vi%C3%A8te%27s_formula" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Vi%C3%A8te%27s_formula" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Vi%C3%A8te%27s_formula" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;oldid=651148632" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q949597" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vi%C3%A8te%27s_formula&amp;id=651148632" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vi%C3%A8te%27s+formula">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Vi%C3%A8te%27s+formula&amp;oldid=651148632&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Vi%C3%A8te%27s_formula&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B5%D9%8A%D8%BA%D8%A9_%D9%81%D9%8A%D9%8A%D8%AA" title="صيغة فييت – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Vi%C3%A8teova_formula" title="Vièteova formula – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Vietas_Produktdarstellung_der_Kreiszahl_Pi" title="Vietas Produktdarstellung der Kreiszahl Pi – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/F%C3%B3rmula_de_Vi%C3%A8te" title="Fórmula de Viète – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Formula_di_Vi%C3%A8te" title="Formula di Viète – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%92%D0%B8%D1%98%D0%B5%D1%82%D0%BE%D0%B2%D0%B0_%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0" title="Вијетова формула – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q949597#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 March 2015, at 04:15.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vi%C3%A8te%27s_formula&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1178"});
+}</script>
+	</body>
+</html>

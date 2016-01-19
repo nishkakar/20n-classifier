@@ -1,0 +1,1788 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Code 128 - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Code_128" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Code_128&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Code_128&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Code_128" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Code_128" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Code_128","wgTitle":"Code 128","wgCurRevisionId":665615123,"wgRevisionId":665615123,"wgArticleId":695970,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2009","All accuracy disputes","Articles with disputed statements from December 2013","Wikipedia external links cleanup from January 2015","Wikipedia spam cleanup from January 2015","Barcodes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Code_128","wgRelevantArticleId":695970,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Barcode_diagram.svg/100px-Barcode_diagram.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1570049"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Code_128 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Code 128</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:264px;"><a href="/wiki/File:Code_128B-2009-06-02.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Code_128B-2009-06-02.svg/262px-Code_128B-2009-06-02.svg.png" width="262" height="103" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Code_128B-2009-06-02.svg/393px-Code_128B-2009-06-02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Code_128B-2009-06-02.svg/524px-Code_128B-2009-06-02.svg.png 2x" data-file-width="460" data-file-height="180" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Code_128B-2009-06-02.svg" class="internal" title="Enlarge"></a></div>
+"<i>Wikipedia</i>" encoded in Code 128-B</div>
+</div>
+</div>
+<p><b>Code 128</b> is a very high-density <a href="/wiki/Barcode" title="Barcode">barcode</a> symbology. It is used for <a href="/wiki/Alphanumeric" title="Alphanumeric">alphanumeric</a> or numeric-only <a href="/wiki/Barcode" title="Barcode">barcodes</a>. It can encode all 128 characters of <a href="/wiki/ASCII" title="ASCII">ASCII</a> and, by use of an extension character (FNC4), the Latin-1 characters defined in <a href="/wiki/ISO/IEC_8859-1" title="ISO/IEC 8859-1">ISO/IEC 8859-1</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2009)">citation needed</span></a></i>]</sup>.</p>
+<p><a href="/wiki/GS1-128" title="GS1-128">GS1-128</a> (formerly known as UCC/EAN-128) is a subset of Code 128 and is used extensively world wide in <a href="/wiki/Shipping" title="Shipping" class="mw-redirect">shipping</a> and <a href="/wiki/Packaging" title="Packaging" class="mw-redirect">packaging</a> industries as a product identification code for the container and pallet levels in the supply chain. The symbology was formerly defined as ISO/IEC 15417:2007.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Specification"><span class="tocnumber">1</span> <span class="toctext">Specification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Subtypes"><span class="tocnumber">1.1</span> <span class="toctext">Subtypes</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Quiet_zone"><span class="tocnumber">1.2</span> <span class="toctext">Quiet zone</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Start.2Fstop_and_encoded_data"><span class="tocnumber">1.3</span> <span class="toctext">Start/stop and encoded data</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Check_digit_calculation"><span class="tocnumber">1.4</span> <span class="toctext">Check digit calculation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Calculating_check_digit_with_multiple_variants"><span class="tocnumber">1.5</span> <span class="toctext">Calculating check digit with multiple variants</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Using_FNC4_to_encode_high_.28128-255.29_characters"><span class="tocnumber">1.6</span> <span class="toctext">Using FNC4 to encode high (128-255) characters</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Bar_code_widths"><span class="tocnumber">1.7</span> <span class="toctext">Bar code widths</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Availability"><span class="tocnumber">1.8</span> <span class="toctext">Availability</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Barcode_length_optimization"><span class="tocnumber">1.9</span> <span class="toctext">Barcode length optimization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Sample_code"><span class="tocnumber">3.1</span> <span class="toctext">Sample code</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Specification">Specification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=1" title="Edit section: Specification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Barcode_diagram.svg" class="image"><img alt="&quot;Code 128 sections&quot;" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Barcode_diagram.svg/400px-Barcode_diagram.svg.png" width="400" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Barcode_diagram.svg/600px-Barcode_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Barcode_diagram.svg/800px-Barcode_diagram.svg.png 2x" data-file-width="200" data-file-height="130" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Barcode_diagram.svg" class="internal" title="Enlarge"></a></div>
+Code 128 (GS1-128) sections. 1: Quiet zone, 2: Start/stop character, 3: [FNC1]+Encoded data,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Disputed_statement" title="Wikipedia:Disputed statement" class="mw-redirect"><span title="The material near this tag is possibly inaccurate or nonfactual. (December 2013)">dubious</span></a> <span class="metadata">– <a href="/wiki/Talk:Code_128#Dubious" title="Talk:Code 128">discuss</a></span></i>]</sup> 4: Check character</div>
+</div>
+</div>
+<p>A Code 128 barcode will have six sections:</p>
+<ol>
+<li>Quiet Zone</li>
+<li>Start Character</li>
+<li>Encoded Data</li>
+<li>Check Character</li>
+<li>Stop Character</li>
+<li>Quiet Zone</li>
+</ol>
+<p>The check character is calculated from a <a href="/wiki/Weighted_sum" title="Weighted sum" class="mw-redirect">weighted sum</a> (<a href="/wiki/Modular_arithmetic" title="Modular arithmetic">modulo</a> 103) of all the characters.</p>
+<h3><span class="mw-headline" id="Subtypes">Subtypes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=2" title="Edit section: Subtypes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Code 128 includes 108 symbols: 103 data symbols, 3 start symbols, and 2 stop symbols. The symbols consist of three black bars and three white spaces. The stop pattern is composed of two overlapped symbols and has four bars. The stop pattern permits bidirectional scanning. When the stop pattern is read left-to-right (the usual case), the stop symbol is recognized. When the stop pattern is read right-to-left, the reverse stop symbol is recognized. A scanner seeing the reverse stop symbol then knows it must read the symbol in reverse. To represent all 128 ASCII values, there are three code sets (A, B, C), which can be mixed within a single barcode (by using codes 98 and 99 in code sets A and B, 100 in code sets A and C and 101 in code sets B and C to switch between them):</p>
+<ul>
+<li>128A (Code Set A) - ASCII characters 00 to 95 (0-9, A-Z and control codes), special characters, and FNC 1-4</li>
+<li>128B (Code Set B) - ASCII characters 32 to 127 (0-9, A-Z, a-z), special characters, and FNC 1-4</li>
+<li>128C (Code Set C) - 00-99 (encodes each two digits with one code) and FNC1</li>
+</ul>
+<h3><span class="mw-headline" id="Quiet_zone">Quiet zone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=3" title="Edit section: Quiet zone">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The minimum width of the Quiet Zone to the left and right of the 128 Bar Code is 10x, where x is the minimum width of a module. It is mandatory at the left and right side of the barcode. The quiet zone must not be less than 4mm-1.65mm depending on the type of bar code. Source: Figure 5.2.1.4.4 – 1 of GS1 General Specifications</p>
+<h3><span class="mw-headline" id="Start.2Fstop_and_encoded_data">Start/stop and encoded data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=4" title="Edit section: Start/stop and encoded data">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each character in the barcode symbol is composed of three bars and three spaces. (The stop adds an additional extra bar of length 2.) Each bar or space is 1, 2, 3 or 4 units wide, the sum of the widths of bars must be even, the sum of the widths of the spaces must be odd, and total 11 <a href="/wiki/Pixel" title="Pixel">units</a> per character. For instance, encoding the ASCII value 0 can be viewed as 10011101100, where a 1 (one) is a bar and a 0 is a space. A single 1 would be the thinnest line in the bar code. Three 1 (111) in sequence indicates a bar three times as thick as a single 1 bar.</p>
+<p>The code uses 107 of the 108 possible patterns that fulfill the required criteria, with the pattern 211133 deliberately remaining unused. This is done to enhance omnidirectional scanning and help prevent misreads (if 211133 represented a legitimate symbol it could be mistaken for the stop code 2331112 when scanned backwards).</p>
+<h3><span class="mw-headline" id="Check_digit_calculation">Check digit calculation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=5" title="Edit section: Check digit calculation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The check digit is a weighted modulo-103 checksum. It is calculated by summing the start code 'value' to the products of each character's 'value' multiplied by its position in the barcode string. The start character <i>and</i> first encoded value are in position 1. The sum of the products is then reduced modulo 103. The remainder is then converted back to one of the 103 non-delimiter characters (following the instructions given <a href="/wiki/Code_128#Conversion_to_char" title="Code 128">below</a>) and appended to the barcode, immediately before the stop character.</p>
+<p>For example, in the following table, the code 128 variant A checksum value is calculated for the alphanumeric string PJJ123C</p>
+<table class="wikitable">
+<tr>
+<th>Code</th>
+<th>Value</th>
+<th>Position</th>
+<th>Value ×<br />
+Position</th>
+</tr>
+<tr>
+<td>Start Code A</td>
+<td>103</td>
+<td>1</td>
+<td>103</td>
+</tr>
+<tr>
+<td>P</td>
+<td>48</td>
+<td>1</td>
+<td>48</td>
+</tr>
+<tr>
+<td>J</td>
+<td>42</td>
+<td>2</td>
+<td>84</td>
+</tr>
+<tr>
+<td>J</td>
+<td>42</td>
+<td>3</td>
+<td>126</td>
+</tr>
+<tr>
+<td>1</td>
+<td>17</td>
+<td>4</td>
+<td>68</td>
+</tr>
+<tr>
+<td>2</td>
+<td>18</td>
+<td>5</td>
+<td>90</td>
+</tr>
+<tr>
+<td>3</td>
+<td>19</td>
+<td>6</td>
+<td>114</td>
+</tr>
+<tr>
+<td>C</td>
+<td>35</td>
+<td>7</td>
+<td>245</td>
+</tr>
+<tr>
+<td style="border-right:none"></td>
+<td colspan="2" style="border-left:none">Sum</td>
+<td>878</td>
+</tr>
+<tr>
+<td style="border-right:none"></td>
+<td colspan="2" style="border-left:none">Remainder mod 103</td>
+<td>54</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Calculating_check_digit_with_multiple_variants">Calculating check digit with multiple variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=6" title="Edit section: Calculating check digit with multiple variants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As Code 128 allows multiple variants, as well as switching between variants within a single barcode, the absolute Code 128 value of a character is completely independent of its value within a given variant. For instance the Variant C value "33" and the Variant B value "A" are both considered to be a Code 128 value of 33, and the check digit would be computed based on the value of 33 times the character's position within the barcode.</p>
+<h3><span class="mw-headline" id="Using_FNC4_to_encode_high_.28128-255.29_characters">Using FNC4 to encode high (128-255) characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=7" title="Edit section: Using FNC4 to encode high (128-255) characters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Function 4 (FNC4) can be used to encode all the LATIN-1 (<a href="/wiki/ISO-8859-1" title="ISO-8859-1" class="mw-redirect">ISO-8859-1</a>) characters in a Code 128 barcode.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The feature is not widely supported and is not used in GS128.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> When a single FNC4 is present in a string, the following character will be converted to ASCII as usual (character sets A and B) and then have 128 added to the ASCII value. (If the following symbol is a shift, then a second symbol will be used to obtain the character.) If two FNC4s are used consecutively then all following characters will be treated as such, up to the end of the string or another pair of FNC4s. Between the double FNC4s, a single FNC4 will be used to denote that the following character will be standard <a href="/wiki/ASCII" title="ASCII">ASCII</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Bar_code_widths">Bar code widths</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=8" title="Edit section: Bar code widths">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Code128 specifies a combination of 6 bars and spaces for each character except the Stop character, which uses 7. Thus, each character begins with a bar and ends with a space (with the exception of the stop character, which ends in a bar). The following tables detail the widths associated with each bar and space for each character. The width of each bar or space can be 1, 2, 3 or 4 units. Using the example above, an 'A' would be depicted with the pattern 10100011000, or as 111323 in the tables below.</p>
+<table class="wikitable sortable" border="1" style="text-align:center">
+<caption>Code 128</caption>
+<tr>
+<th>Value</th>
+<th>128A</th>
+<th>128B</th>
+<th>128C</th>
+<th>ASCII Code (Common/Barcodesoft)</th>
+<th>Character (Common/Barcodesoft)</th>
+<th>Bar/Space Pattern</th>
+<th>Bar/Space Weights</th>
+</tr>
+<tr>
+<td>0</td>
+<td><a href="/wiki/Space_(punctuation)" title="Space (punctuation)">space</a></td>
+<td>space</td>
+<td>00</td>
+<td>0032 or 0212 / 252</td>
+<td>Space or Ô / ü</td>
+<td>11011001100</td>
+<td>212222</td>
+</tr>
+<tr>
+<td>1</td>
+<td>&#160;!</td>
+<td>&#160;!</td>
+<td>01</td>
+<td>33</td>
+<td>&#160;!</td>
+<td>11001101100</td>
+<td>222122</td>
+</tr>
+<tr>
+<td>2</td>
+<td>"</td>
+<td>"</td>
+<td>02</td>
+<td>34</td>
+<td>"</td>
+<td>11001100110</td>
+<td>222221</td>
+</tr>
+<tr>
+<td>3</td>
+<td>#</td>
+<td>#</td>
+<td>03</td>
+<td>35</td>
+<td>#</td>
+<td>10010011000</td>
+<td>121223</td>
+</tr>
+<tr>
+<td>4</td>
+<td>$</td>
+<td>$</td>
+<td>04</td>
+<td>36</td>
+<td>$</td>
+<td>10010001100</td>
+<td>121322</td>
+</tr>
+<tr>
+<td>5</td>
+<td>&#160;%</td>
+<td>&#160;%</td>
+<td>05</td>
+<td>37</td>
+<td>&#160;%</td>
+<td>10001001100</td>
+<td>131222</td>
+</tr>
+<tr>
+<td>6</td>
+<td>&amp;</td>
+<td>&amp;</td>
+<td>06</td>
+<td>38</td>
+<td>&amp;</td>
+<td>10011001000</td>
+<td>122213</td>
+</tr>
+<tr>
+<td>7</td>
+<td>'</td>
+<td>'</td>
+<td>07</td>
+<td>39</td>
+<td>'</td>
+<td>10011000100</td>
+<td>122312</td>
+</tr>
+<tr>
+<td>8</td>
+<td>(</td>
+<td>(</td>
+<td>08</td>
+<td>40</td>
+<td>(</td>
+<td>10001100100</td>
+<td>132212</td>
+</tr>
+<tr>
+<td>9</td>
+<td>)</td>
+<td>)</td>
+<td>09</td>
+<td>41</td>
+<td>)</td>
+<td>11001001000</td>
+<td>221213</td>
+</tr>
+<tr>
+<td>10</td>
+<td>*</td>
+<td>*</td>
+<td>10</td>
+<td>42</td>
+<td>*</td>
+<td>11001000100</td>
+<td>221312</td>
+</tr>
+<tr>
+<td>11</td>
+<td>+</td>
+<td>+</td>
+<td>11</td>
+<td>43</td>
+<td>+</td>
+<td>11000100100</td>
+<td>231212</td>
+</tr>
+<tr>
+<td>12</td>
+<td>,</td>
+<td>,</td>
+<td>12</td>
+<td>44</td>
+<td>,</td>
+<td>10110011100</td>
+<td>112232</td>
+</tr>
+<tr>
+<td>13</td>
+<td>-</td>
+<td>-</td>
+<td>13</td>
+<td>45</td>
+<td>-</td>
+<td>10011011100</td>
+<td>122132</td>
+</tr>
+<tr>
+<td>14</td>
+<td>.</td>
+<td>.</td>
+<td>14</td>
+<td>46</td>
+<td>.</td>
+<td>10011001110</td>
+<td>122231</td>
+</tr>
+<tr>
+<td>15</td>
+<td>/</td>
+<td>/</td>
+<td>15</td>
+<td>47</td>
+<td>/</td>
+<td>10111001100</td>
+<td>113222</td>
+</tr>
+<tr>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td>16</td>
+<td>48</td>
+<td>0</td>
+<td>10011101100</td>
+<td>123122</td>
+</tr>
+<tr>
+<td>17</td>
+<td>1</td>
+<td>1</td>
+<td>17</td>
+<td>49</td>
+<td>1</td>
+<td>10011100110</td>
+<td>123221</td>
+</tr>
+<tr>
+<td>18</td>
+<td>2</td>
+<td>2</td>
+<td>18</td>
+<td>50</td>
+<td>2</td>
+<td>11001110010</td>
+<td>223211</td>
+</tr>
+<tr>
+<td>19</td>
+<td>3</td>
+<td>3</td>
+<td>19</td>
+<td>51</td>
+<td>3</td>
+<td>11001011100</td>
+<td>221132</td>
+</tr>
+<tr>
+<td>20</td>
+<td>4</td>
+<td>4</td>
+<td>20</td>
+<td>52</td>
+<td>4</td>
+<td>11001001110</td>
+<td>221231</td>
+</tr>
+<tr>
+<td>21</td>
+<td>5</td>
+<td>5</td>
+<td>21</td>
+<td>53</td>
+<td>5</td>
+<td>11011100100</td>
+<td>213212</td>
+</tr>
+<tr>
+<td>22</td>
+<td>6</td>
+<td>6</td>
+<td>22</td>
+<td>54</td>
+<td>6</td>
+<td>11001110100</td>
+<td>223112</td>
+</tr>
+<tr>
+<td>23</td>
+<td>7</td>
+<td>7</td>
+<td>23</td>
+<td>55</td>
+<td>7</td>
+<td>11101101110</td>
+<td>312131</td>
+</tr>
+<tr>
+<td>24</td>
+<td>8</td>
+<td>8</td>
+<td>24</td>
+<td>56</td>
+<td>8</td>
+<td>11101001100</td>
+<td>311222</td>
+</tr>
+<tr>
+<td>25</td>
+<td>9</td>
+<td>9</td>
+<td>25</td>
+<td>57</td>
+<td>9</td>
+<td>11100101100</td>
+<td>321122</td>
+</tr>
+<tr>
+<td>26</td>
+<td>&#160;:</td>
+<td>&#160;:</td>
+<td>26</td>
+<td>58</td>
+<td>&#160;:</td>
+<td>11100100110</td>
+<td>321221</td>
+</tr>
+<tr>
+<td>27</td>
+<td>&#160;;</td>
+<td>&#160;;</td>
+<td>27</td>
+<td>59</td>
+<td>&#160;;</td>
+<td>11101100100</td>
+<td>312212</td>
+</tr>
+<tr>
+<td>28</td>
+<td>&lt;</td>
+<td>&lt;</td>
+<td>28</td>
+<td>60</td>
+<td>&lt;</td>
+<td>11100110100</td>
+<td>322112</td>
+</tr>
+<tr>
+<td>29</td>
+<td>=</td>
+<td>=</td>
+<td>29</td>
+<td>61</td>
+<td>=</td>
+<td>11100110010</td>
+<td>322211</td>
+</tr>
+<tr>
+<td>30</td>
+<td>&gt;</td>
+<td>&gt;</td>
+<td>30</td>
+<td>62</td>
+<td>&gt;</td>
+<td>11011011000</td>
+<td>212123</td>
+</tr>
+<tr>
+<td>31</td>
+<td>&#160;?</td>
+<td>&#160;?</td>
+<td>31</td>
+<td>63</td>
+<td>&#160;?</td>
+<td>11011000110</td>
+<td>212321</td>
+</tr>
+<tr>
+<td>32</td>
+<td>@</td>
+<td>@</td>
+<td>32</td>
+<td>64</td>
+<td>@</td>
+<td>11000110110</td>
+<td>232121</td>
+</tr>
+<tr>
+<td>33</td>
+<td>A</td>
+<td>A</td>
+<td>33</td>
+<td>65</td>
+<td>A</td>
+<td>10100011000</td>
+<td>111323</td>
+</tr>
+<tr>
+<td>34</td>
+<td>B</td>
+<td>B</td>
+<td>34</td>
+<td>66</td>
+<td>B</td>
+<td>10001011000</td>
+<td>131123</td>
+</tr>
+<tr>
+<td>35</td>
+<td>C</td>
+<td>C</td>
+<td>35</td>
+<td>67</td>
+<td>C</td>
+<td>10001000110</td>
+<td>131321</td>
+</tr>
+<tr>
+<td>36</td>
+<td>D</td>
+<td>D</td>
+<td>36</td>
+<td>68</td>
+<td>D</td>
+<td>10110001000</td>
+<td>112313</td>
+</tr>
+<tr>
+<td>37</td>
+<td>E</td>
+<td>E</td>
+<td>37</td>
+<td>69</td>
+<td>E</td>
+<td>10001101000</td>
+<td>132113</td>
+</tr>
+<tr>
+<td>38</td>
+<td>F</td>
+<td>F</td>
+<td>38</td>
+<td>70</td>
+<td>F</td>
+<td>10001100010</td>
+<td>132311</td>
+</tr>
+<tr>
+<td>39</td>
+<td>G</td>
+<td>G</td>
+<td>39</td>
+<td>71</td>
+<td>G</td>
+<td>11010001000</td>
+<td>211313</td>
+</tr>
+<tr>
+<td>40</td>
+<td>H</td>
+<td>H</td>
+<td>40</td>
+<td>72</td>
+<td>H</td>
+<td>11000101000</td>
+<td>231113</td>
+</tr>
+<tr>
+<td>41</td>
+<td>I</td>
+<td>I</td>
+<td>41</td>
+<td>73</td>
+<td>I</td>
+<td>11000100010</td>
+<td>231311</td>
+</tr>
+<tr>
+<td>42</td>
+<td>J</td>
+<td>J</td>
+<td>42</td>
+<td>74</td>
+<td>J</td>
+<td>10110111000</td>
+<td>112133</td>
+</tr>
+<tr>
+<td>43</td>
+<td>K</td>
+<td>K</td>
+<td>43</td>
+<td>75</td>
+<td>K</td>
+<td>10110001110</td>
+<td>112331</td>
+</tr>
+<tr>
+<td>44</td>
+<td>L</td>
+<td>L</td>
+<td>44</td>
+<td>76</td>
+<td>L</td>
+<td>10001101110</td>
+<td>132131</td>
+</tr>
+<tr>
+<td>45</td>
+<td>M</td>
+<td>M</td>
+<td>45</td>
+<td>77</td>
+<td>M</td>
+<td>10111011000</td>
+<td>113123</td>
+</tr>
+<tr>
+<td>46</td>
+<td>N</td>
+<td>N</td>
+<td>46</td>
+<td>78</td>
+<td>N</td>
+<td>10111000110</td>
+<td>113321</td>
+</tr>
+<tr>
+<td>47</td>
+<td>O</td>
+<td>O</td>
+<td>47</td>
+<td>79</td>
+<td>O</td>
+<td>10001110110</td>
+<td>133121</td>
+</tr>
+<tr>
+<td>48</td>
+<td>P</td>
+<td>P</td>
+<td>48</td>
+<td>80</td>
+<td>P</td>
+<td>11101110110</td>
+<td>313121</td>
+</tr>
+<tr>
+<td>49</td>
+<td>Q</td>
+<td>Q</td>
+<td>49</td>
+<td>81</td>
+<td>Q</td>
+<td>11010001110</td>
+<td>211331</td>
+</tr>
+<tr>
+<td>50</td>
+<td>R</td>
+<td>R</td>
+<td>50</td>
+<td>82</td>
+<td>R</td>
+<td>11000101110</td>
+<td>231131</td>
+</tr>
+<tr>
+<td>51</td>
+<td>S</td>
+<td>S</td>
+<td>51</td>
+<td>83</td>
+<td>S</td>
+<td>11011101000</td>
+<td>213113</td>
+</tr>
+<tr>
+<td>52</td>
+<td>T</td>
+<td>T</td>
+<td>52</td>
+<td>84</td>
+<td>T</td>
+<td>11011100010</td>
+<td>213311</td>
+</tr>
+<tr>
+<td>53</td>
+<td>U</td>
+<td>U</td>
+<td>53</td>
+<td>85</td>
+<td>U</td>
+<td>11011101110</td>
+<td>213131</td>
+</tr>
+<tr>
+<td>54</td>
+<td>V</td>
+<td>V</td>
+<td>54</td>
+<td>86</td>
+<td>V</td>
+<td>11101011000</td>
+<td>311123</td>
+</tr>
+<tr>
+<td>55</td>
+<td>W</td>
+<td>W</td>
+<td>55</td>
+<td>87</td>
+<td>W</td>
+<td>11101000110</td>
+<td>311321</td>
+</tr>
+<tr>
+<td>56</td>
+<td>X</td>
+<td>X</td>
+<td>56</td>
+<td>88</td>
+<td>X</td>
+<td>11100010110</td>
+<td>331121</td>
+</tr>
+<tr>
+<td>57</td>
+<td>Y</td>
+<td>Y</td>
+<td>57</td>
+<td>89</td>
+<td>Y</td>
+<td>11101101000</td>
+<td>312113</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Z</td>
+<td>Z</td>
+<td>58</td>
+<td>90</td>
+<td>Z</td>
+<td>11101100010</td>
+<td>312311</td>
+</tr>
+<tr>
+<td>59</td>
+<td>[</td>
+<td>[</td>
+<td>59</td>
+<td>91</td>
+<td>[</td>
+<td>11100011010</td>
+<td>332111</td>
+</tr>
+<tr>
+<td>60</td>
+<td>\</td>
+<td>\</td>
+<td>60</td>
+<td>92</td>
+<td>\</td>
+<td>11101111010</td>
+<td>314111</td>
+</tr>
+<tr>
+<td>61</td>
+<td>]</td>
+<td>]</td>
+<td>61</td>
+<td>93</td>
+<td>]</td>
+<td>11001000010</td>
+<td>221411</td>
+</tr>
+<tr>
+<td>62</td>
+<td>^</td>
+<td>^</td>
+<td>62</td>
+<td>94</td>
+<td>^</td>
+<td>11110001010</td>
+<td>431111</td>
+</tr>
+<tr>
+<td>63</td>
+<td>_</td>
+<td>_</td>
+<td>63</td>
+<td>95</td>
+<td>_</td>
+<td>10100110000</td>
+<td>111224</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="/wiki/Null_character" title="Null character">NUL</a></td>
+<td>`</td>
+<td>64</td>
+<td>96</td>
+<td>`</td>
+<td>10100001100</td>
+<td>111422</td>
+</tr>
+<tr>
+<td>65</td>
+<td>SOH</td>
+<td>a</td>
+<td>65</td>
+<td>97</td>
+<td>a</td>
+<td>10010110000</td>
+<td>121124</td>
+</tr>
+<tr>
+<td>66</td>
+<td>STX</td>
+<td>b</td>
+<td>66</td>
+<td>98</td>
+<td>b</td>
+<td>10010000110</td>
+<td>121421</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="/wiki/End-of-text_character" title="End-of-text character">ETX</a></td>
+<td>c</td>
+<td>67</td>
+<td>99</td>
+<td>c</td>
+<td>10000101100</td>
+<td>141122</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="/wiki/End-of-transmission_character" title="End-of-transmission character">EOT</a></td>
+<td>d</td>
+<td>68</td>
+<td>100</td>
+<td>d</td>
+<td>10000100110</td>
+<td>141221</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="/wiki/Enquiry_(computer_communications)" title="Enquiry (computer communications)" class="mw-redirect">ENQ</a></td>
+<td>e</td>
+<td>69</td>
+<td>101</td>
+<td>e</td>
+<td>10110010000</td>
+<td>112214</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="/wiki/Acknowledge_character" title="Acknowledge character">ACK</a></td>
+<td>f</td>
+<td>70</td>
+<td>102</td>
+<td>f</td>
+<td>10110000100</td>
+<td>112412</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="/wiki/Bell_character" title="Bell character">BEL</a></td>
+<td>g</td>
+<td>71</td>
+<td>103</td>
+<td>g</td>
+<td>10011010000</td>
+<td>122114</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="/wiki/Backspace" title="Backspace">BS</a></td>
+<td>h</td>
+<td>72</td>
+<td>104</td>
+<td>h</td>
+<td>10011000010</td>
+<td>122411</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="/wiki/Tab_key" title="Tab key">HT</a></td>
+<td>i</td>
+<td>73</td>
+<td>105</td>
+<td>i</td>
+<td>10000110100</td>
+<td>142112</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="/wiki/Line_feed" title="Line feed" class="mw-redirect">LF</a></td>
+<td>j</td>
+<td>74</td>
+<td>106</td>
+<td>j</td>
+<td>10000110010</td>
+<td>142211</td>
+</tr>
+<tr>
+<td>75</td>
+<td>VT</td>
+<td>k</td>
+<td>75</td>
+<td>107</td>
+<td>k</td>
+<td>11000010010</td>
+<td>241211</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="/wiki/Form_feed" title="Form feed" class="mw-redirect">FF</a></td>
+<td>l</td>
+<td>76</td>
+<td>108</td>
+<td>l</td>
+<td>11001010000</td>
+<td>221114</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="/wiki/Carriage_return" title="Carriage return">CR</a></td>
+<td>m</td>
+<td>77</td>
+<td>109</td>
+<td>m</td>
+<td>11110111010</td>
+<td>413111</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="/wiki/Shift_out" title="Shift out" class="mw-redirect">SO</a></td>
+<td>n</td>
+<td>78</td>
+<td>110</td>
+<td>n</td>
+<td>11000010100</td>
+<td>241112</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="/wiki/Shift_in" title="Shift in" class="mw-redirect">SI</a></td>
+<td>o</td>
+<td>79</td>
+<td>111</td>
+<td>o</td>
+<td>10001111010</td>
+<td>134111</td>
+</tr>
+<tr>
+<td>80</td>
+<td>DLE</td>
+<td>p</td>
+<td>80</td>
+<td>112</td>
+<td>p</td>
+<td>10100111100</td>
+<td>111242</td>
+</tr>
+<tr>
+<td>81</td>
+<td>DC1</td>
+<td>q</td>
+<td>81</td>
+<td>113</td>
+<td>q</td>
+<td>10010111100</td>
+<td>121142</td>
+</tr>
+<tr>
+<td>82</td>
+<td>DC2</td>
+<td>r</td>
+<td>82</td>
+<td>114</td>
+<td>r</td>
+<td>10010011110</td>
+<td>121241</td>
+</tr>
+<tr>
+<td>83</td>
+<td>DC3</td>
+<td>s</td>
+<td>83</td>
+<td>115</td>
+<td>s</td>
+<td>10111100100</td>
+<td>114212</td>
+</tr>
+<tr>
+<td>84</td>
+<td>DC4</td>
+<td>t</td>
+<td>84</td>
+<td>116</td>
+<td>t</td>
+<td>10011110100</td>
+<td>124112</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="/wiki/Negative-acknowledge_character" title="Negative-acknowledge character">NAK</a></td>
+<td>u</td>
+<td>85</td>
+<td>117</td>
+<td>u</td>
+<td>10011110010</td>
+<td>124211</td>
+</tr>
+<tr>
+<td>86</td>
+<td>SYN</td>
+<td>v</td>
+<td>86</td>
+<td>118</td>
+<td>v</td>
+<td>11110100100</td>
+<td>411212</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="/wiki/End_Transmission_Block_character" title="End Transmission Block character">ETB</a></td>
+<td>w</td>
+<td>87</td>
+<td>119</td>
+<td>w</td>
+<td>11110010100</td>
+<td>421112</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="/wiki/Cancel_character" title="Cancel character">CAN</a></td>
+<td>x</td>
+<td>88</td>
+<td>120</td>
+<td>x</td>
+<td>11110010010</td>
+<td>421211</td>
+</tr>
+<tr>
+<td>89</td>
+<td>EM</td>
+<td>y</td>
+<td>89</td>
+<td>121</td>
+<td>y</td>
+<td>11011011110</td>
+<td>212141</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="/wiki/Substitute_character" title="Substitute character">SUB</a></td>
+<td>z</td>
+<td>90</td>
+<td>122</td>
+<td>z</td>
+<td>11011110110</td>
+<td>214121</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="/wiki/Escape_character" title="Escape character">ESC</a></td>
+<td>{</td>
+<td>91</td>
+<td>123</td>
+<td>{</td>
+<td>11110110110</td>
+<td>412121</td>
+</tr>
+<tr>
+<td>92</td>
+<td>FS</td>
+<td>|</td>
+<td>92</td>
+<td>124</td>
+<td>|</td>
+<td>10101111000</td>
+<td>111143</td>
+</tr>
+<tr>
+<td>93</td>
+<td>GS</td>
+<td>}</td>
+<td>93</td>
+<td>125</td>
+<td>}</td>
+<td>10100011110</td>
+<td>111341</td>
+</tr>
+<tr>
+<td>94</td>
+<td>RS</td>
+<td>~</td>
+<td>94</td>
+<td>126</td>
+<td>~</td>
+<td>10001011110</td>
+<td>131141</td>
+</tr>
+<tr>
+<td>95</td>
+<td>US</td>
+<td><a href="/wiki/Delete_key" title="Delete key">DEL</a></td>
+<td>95</td>
+<td>200 / 240</td>
+<td>È / ð</td>
+<td>10111101000</td>
+<td>114113</td>
+</tr>
+<tr>
+<td>96</td>
+<td>FNC 3</td>
+<td>FNC 3</td>
+<td>96</td>
+<td>201 / 241</td>
+<td>É / ñ</td>
+<td>10111100010</td>
+<td>114311</td>
+</tr>
+<tr>
+<td>97</td>
+<td>FNC 2</td>
+<td>FNC 2</td>
+<td>97</td>
+<td>202 / 242</td>
+<td>Ê / ò</td>
+<td>11110101000</td>
+<td>411113</td>
+</tr>
+<tr>
+<td>98</td>
+<td>Shift B</td>
+<td>Shift A</td>
+<td>98</td>
+<td>203 / 243</td>
+<td>Ë / ó</td>
+<td>11110100010</td>
+<td>411311</td>
+</tr>
+<tr>
+<td>99</td>
+<td>Code C</td>
+<td>Code C</td>
+<td>99</td>
+<td>204 / 244</td>
+<td>Ì / ô</td>
+<td>10111011110</td>
+<td>113141</td>
+</tr>
+<tr>
+<td>100</td>
+<td>Code B</td>
+<td>FNC 4</td>
+<td>Code B</td>
+<td>205 / 245</td>
+<td>Í / õ</td>
+<td>10111101110</td>
+<td>114131</td>
+</tr>
+<tr>
+<td>101</td>
+<td>FNC 4</td>
+<td>Code A</td>
+<td>Code A</td>
+<td>206 / 246</td>
+<td>Î / ö</td>
+<td>11101011110</td>
+<td>311141</td>
+</tr>
+<tr>
+<td>102</td>
+<td>FNC 1</td>
+<td>FNC 1</td>
+<td>FNC 1</td>
+<td>207 / 247</td>
+<td>Ï / ÷</td>
+<td>11110101110</td>
+<td>411131</td>
+</tr>
+<tr>
+<td>103</td>
+<td colspan="3">Start Code A</td>
+<td>208 / 248</td>
+<td>Ð / ø</td>
+<td>11010000100</td>
+<td>211412</td>
+</tr>
+<tr>
+<td>104</td>
+<td colspan="3">Start Code B</td>
+<td>209 / 249</td>
+<td>Ñ / ù</td>
+<td>11010010000</td>
+<td>211214</td>
+</tr>
+<tr>
+<td>105</td>
+<td colspan="3">Start Code C</td>
+<td>210 / 250</td>
+<td>Ò / ú</td>
+<td>11010011100</td>
+<td>211232</td>
+</tr>
+<tr>
+<td>106</td>
+<td colspan="3">Stop (7 bars/spaces)</td>
+<td>211 / 251</td>
+<td>Ó / û</td>
+<td>1100011101011</td>
+<td>2331112</td>
+</tr>
+<tr>
+<td>—</td>
+<td colspan="3">Reverse Stop<br />
+used to detect reading right to left</td>
+<td>—</td>
+<td>—</td>
+<td>11010111000</td>
+<td>211133</td>
+</tr>
+</table>
+<p>The "Code A", "Code B" and "Code C" symbols cause all future symbols to be interpreted according to the corresponding subcode. The "Shift" symbol switches a single following symbol's interpretation between subcodes A and B.</p>
+<p>The encoded ASCII char depends on the actual used barcode-font. Especially the ASCII char of value 0 and of value 95 and above can be defined differently in the font that is installed.</p>
+<p>The FNC<i>x</i> codes are used for special purposes. FNC1 at the beginning of a bar code indicates that it begins with a 2- 3- or 4-digit <i>application identifier</i> assigned by the <a href="/wiki/Uniform_Code_Council" title="Uniform Code Council" class="mw-redirect">Uniform Code Council</a>, which explains the following digits. For example, application identifier 421 indicates that an <a href="/wiki/ISO_3166-1_numeric" title="ISO 3166-1 numeric">ISO 3166-1 numeric</a> country code and ship-to postal code follows. For example, the U.S. <a href="/wiki/ZIP_code" title="ZIP code">ZIP code</a> for the <a href="/wiki/White_House" title="White House">White House</a> would generally be printed as "(421) 840 20500", but would actually be coded as "<code>[Start C] [FNC1] 42 18 40 20 50 [Code A] 0 [Check symbol 92] [Stop]</code>"</p>
+<p>Check Digit Calculation for above Zip Code Example</p>
+<table class="wikitable sortable">
+<tr>
+<th></th>
+<th>Value</th>
+<th>Weight</th>
+<th>Weight x Value</th>
+</tr>
+<tr>
+<td>Start C</td>
+<td>105</td>
+<td>1</td>
+<td>105</td>
+</tr>
+<tr>
+<td>FNC1</td>
+<td>102</td>
+<td>1</td>
+<td>102</td>
+</tr>
+<tr>
+<td>42</td>
+<td>42</td>
+<td>2</td>
+<td>84</td>
+</tr>
+<tr>
+<td>18</td>
+<td>18</td>
+<td>3</td>
+<td>54</td>
+</tr>
+<tr>
+<td>40</td>
+<td>40</td>
+<td>4</td>
+<td>160</td>
+</tr>
+<tr>
+<td>20</td>
+<td>20</td>
+<td>5</td>
+<td>100</td>
+</tr>
+<tr>
+<td>50</td>
+<td>50</td>
+<td>6</td>
+<td>300</td>
+</tr>
+<tr>
+<td>Code A</td>
+<td>101</td>
+<td>7</td>
+<td>707</td>
+</tr>
+<tr>
+<td>0</td>
+<td>16</td>
+<td>8</td>
+<td>128</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Sum =</td>
+<td>1740</td>
+</tr>
+<tr>
+<td>1740</td>
+<td>Mod 103 =</td>
+<td>92</td>
+<td></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Availability">Availability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=9" title="Edit section: Availability">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For the end user, Code 128 barcodes may be generated by either an outside application to create an image of the barcode, or by a font-based barcode solution. Either solution requires the use of an application or an application add in to calculate the check digit and create the barcode.</p>
+<h3><span class="mw-headline" id="Barcode_length_optimization">Barcode length optimization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=10" title="Edit section: Barcode length optimization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Although code set C uses one code symbol to represent two digits, its usage does not necessarily make a more compact code compared to code sets A or B. While encoding "X00Y" with code set A or B results in 7 code symbols (e.g., <code>[Start B] 56 16 16 57 [checksum] [Stop]</code>), encoding the inner "00" with code set C will result in a code 8 symbols long due to the overhead in switching in and out of code set C. Although one symbol is saved on encoding "00" to code symbol C, two code set switching symbols are required: the first to switch into code set C and the second to switch back to code set A or B (e.g., <code>[Start B] 56 [Code C] 00 [Code B] 57 [checksum] [Stop]</code>).</p>
+<p>Conversely, applying of code set C to a sequence of digits produces code with <i>fewer</i> symbols compared to code sets A or B only under these conditions:</p>
+<table class="wikitable">
+<tr>
+<th>Position of sequence of digits in data</th>
+<th>Number of digits for switching to code set C</th>
+</tr>
+<tr>
+<td>beginning of data</td>
+<td>4+</td>
+</tr>
+<tr>
+<td>end of data</td>
+<td>4+</td>
+</tr>
+<tr>
+<td>middle of data (surrounded by characters from code set A or B)</td>
+<td>6+</td>
+</tr>
+<tr>
+<td>entire data</td>
+<td>either 2 or 4+</td>
+</tr>
+</table>
+<p>Example: For data "098x1234567y23", savings on barcode length using code set C are achieved only if it is applied to middle part of data <i>and</i> the transition to code set C is done when there are an <i>even</i> number of digits remaining to encode (so "234567"). For beginning and ending part of the code, switching to code set C is not effective. Code symbols: <code>[Start B] 16 25 24 88 17 [Code C] 23 45 67 [Code B] 89 18 19 [checksum] [Stop]</code>.</p>
+<p>Delaying the transition to code set C until there are an even number of digits remaining avoids an extra symbol. Consider the string "...01234": a delayed switch produces <code>... 0 [Code C] 12 34 [checksum] [Stop]</code> but an early switch produces <code>... [Code C] 01 23 [Code A] 4 [checksum] [Stop]</code>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Optimizing length of resulting barcode is important where <a href="/wiki/Barcode_reader" title="Barcode reader">barcode readers</a> are used which require to detect the entire barcode image at once in order to read a barcode, such as <a href="/wiki/Barcode_reader#Laser_scanners" title="Barcode reader">laser scanners</a>. The longer the barcode is, the greater distance of laser barcode reader from barcode image is needed, making reading difficult or impossible above some threshold lengths/distances.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Apparently ISO 15417 Annex F</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Softmatic, <a rel="nofollow" class="external free" href="http://www.softmatic.com/barcode-code-128.html">http://www.softmatic.com/barcode-code-128.html</a>, stating, "In principle non-ASCII characters like German umlauts (e.g. ÄÖÜ) can be encoded in a Code 128 symbol by using a special character (FNC4). However, this feature is not widely supported. Using a 2D barcode symbology like Aztec or Datamatrix with dedicated support for non-ASCII data might be a better choice."</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">GS1 General Specifications (January 2006 – Version 7.0), section 5.3.1.1 GS1-128 Symbology Characteristics, stating, "Characters with ASCII values 128 to 255 may also be encoded in Code 128 Symbols. Characters with ASCII values 128 to 255 accessed by Function 4 Character (FNC4) are reserved for future use and are not used in GS1-128 Bar Code Symbols."</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.han-soft.com/releases/barcode1d/documents/b_code128.html">http://www.han-soft.com/releases/barcode1d/documents/b_code128.html</a> stating, "If a single "FNC 4" character is used, indicates the following data character in the symbol is a extended ASCII character. A "SHIFT" character may follow the "FNC 4" character if it is necessary to change character subset for the following data character. Subsequent data characters revert to the standard ASCII character set. If two consecutive "FNC4" characters are used, all following data characters are extended ASCII characters until two further consecutive "FNC4" characters are encountered or the end of the symbol is reached. If during this sequence of extended encodation a single "FNC4" character is encountered it is used to revert to standard ASCII encodation for the next data character only. "SHIFT" and character subset characters shall have their normal effect during such a sequence."</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">GS1 General Specifications, Version 13, Issue 1, Jan-2013, Section 5.4.7.7. Use of Start, Code Set, and Shift Characters to Minimize Symbol Length (Informative), pages 268 to 269. This section gives the compression strategy.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-style ambox-external_links" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Code_128&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span> <small><i>(January 2015)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://mdn.morovia.com/kb/GS1-128-Specification-10625.html">GS1-128 Specification</a> Detailed List of Application Identifiers</li>
+<li><a rel="nofollow" class="external text" href="http://www.barcodesoft.com/code128mapping.htm">Barcodesoft</a> Font mapping of Barcodesoft, which differs from the common ascii mapping (see <a rel="nofollow" class="external free" href="http://ascii-code.com/">http://ascii-code.com/</a>).</li>
+<li><a rel="nofollow" class="external text" href="http://grandzebu.net/informatique/codbar-en/code128.htm">The 128 code</a> Learn the Code 128 encoding algorithm with a font-based barcode solution.</li>
+<li><a rel="nofollow" class="external text" href="http://barcode.tec-it.com">Online barcode generator</a> Free online Barcode generator for the various barcode types.</li>
+</ul>
+<h3><span class="mw-headline" id="Sample_code">Sample code</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Code_128&amp;action=edit&amp;section=13" title="Edit section: Sample code">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://github.com/zxing/zxing">ZXing</a> Multiplatform open source barcode scanner / generator with versions available in Java (core project) and ports to ActionScript, C++, C#, ObjectiveC and Ruby.</li>
+<li><a rel="nofollow" class="external text" href="http://barcode128.blogspot.com">Python Bar Code 128</a> This code appears to draw boxes 1 pixel wide. It appears it was modified from a short line long line bar code which would have drawn lines. The "Black boxes" should be the same size as the "White Boxes".</li>
+<li><a rel="nofollow" class="external text" href="http://www.codeproject.com/KB/GDI-plus/GenCode128.aspx">GenCode128</a> Free C# source code implementation of Code128. Almost all features are implemented, but is not 100% complete.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/mdchaney/Barcode1DTools">Barcode1DTools Ruby gem</a> Ruby source code for many 1D barcode symbologies including Code 128.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/mdchaney/barcodes">Perl barcode generation code</a> Perl source code for many 1D barcode symbologies including Code 128.</li>
+<li><a rel="nofollow" class="external text" href="https://metacpan.org/module/Barcode::Code128/">Barcode::Code128</a> Free Perl barcode generation module.</li>
+<li><a rel="nofollow" class="external text" href="http://jocr.sourceforge.net/index.html">GOCR</a> Free OCR with Code 128 recognition.</li>
+<li><a rel="nofollow" class="external text" href="http://zanstra.com/my/Barcode.html">Barcode Code 128</a> Free JavaScript source code implementation of Code128.</li>
+<li><a rel="nofollow" class="external text" href="http://barcode4j.sourceforge.net/index.html">Barcode4J</a> Free Java API with implementation of Code128 and other standard barcodes.</li>
+<li><a rel="nofollow" class="external text" href="http://www.barcoderesource.com/htmlBarcode.shtml">JavaScript Code 128</a> Open source JavaScript implementation of Code128 and other linear barcodes.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Barcodes" title="Template:Barcodes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Barcodes" title="Template talk:Barcodes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Barcodes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Barcode" title="Barcode">Barcodes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Linear barcodes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Automatic_Car_Identification" title="Automatic Car Identification" class="mw-redirect">Automatic Car Identification</a></li>
+<li><a href="/wiki/Code_11" title="Code 11">Code 11</a></li>
+<li><a href="/wiki/Code_39" title="Code 39">Code 39</a></li>
+<li><a href="/wiki/Code_93" title="Code 93">Code 93</a></li>
+<li><strong class="selflink">Code 128</strong></li>
+<li><a href="/wiki/Codabar" title="Codabar">Codabar</a></li>
+<li><a href="/wiki/International_Article_Number_(EAN)" title="International Article Number (EAN)">European Article Number</a></li>
+<li><a href="/wiki/GS1_DataBar" title="GS1 DataBar">GS1 DataBar</a></li>
+<li><a href="/wiki/ITF-14" title="ITF-14">ITF-14</a></li>
+<li><a href="/wiki/Interleaved_2_of_5" title="Interleaved 2 of 5">Interleaved 2 of 5</a></li>
+<li><a href="/wiki/MSI_Barcode" title="MSI Barcode">MSI Barcode</a></li>
+<li><a href="/wiki/Patch_Code" title="Patch Code">Patch Code</a></li>
+<li><a href="/wiki/Pharmacode" title="Pharmacode">Pharmacode</a></li>
+<li><a href="/wiki/Plessey_Code" title="Plessey Code">Plessey</a></li>
+<li><a href="/wiki/Telepen" title="Telepen">Telepen</a></li>
+<li><a href="/wiki/Universal_Product_Code" title="Universal Product Code">UPC</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="17" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<table>
+<tr>
+<td><a href="/wiki/File:UPC_A.svg" class="image"><img alt="UPC A.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/UPC_A.svg/82px-UPC_A.svg.png" width="82" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/UPC_A.svg/123px-UPC_A.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/UPC_A.svg/164px-UPC_A.svg.png 2x" data-file-width="667" data-file-height="481" /></a></td>
+<td><a href="/wiki/File:MaxiCode.svg" class="image"><img alt="MaxiCode.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MaxiCode.svg/60px-MaxiCode.svg.png" width="60" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MaxiCode.svg/90px-MaxiCode.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/MaxiCode.svg/120px-MaxiCode.svg.png 2x" data-file-width="400" data-file-height="384" /></a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Universal_Product_Code" title="Universal Product Code">UPC-A</a></td>
+<td><a href="/wiki/MaxiCode" title="MaxiCode">MaxiCode</a></td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mail" title="Mail">Post office</a> barcodes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CPC_Binary_Barcode" title="CPC Binary Barcode">CPC Binary Barcode</a></li>
+<li><a href="/wiki/Facing_Identification_Mark" title="Facing Identification Mark">Facing Identification Mark</a></li>
+<li><a href="/wiki/PostBar" title="PostBar">PostBar</a></li>
+<li><a href="/wiki/POSTNET" title="POSTNET">POSTNET</a></li>
+<li><a href="/wiki/RM4SCC" title="RM4SCC">RM4SCC</a></li>
+<li><a href="/wiki/Intelligent_Mail_barcode" title="Intelligent Mail barcode">Intelligent Mail barcode</a></li>
+<li><a href="/wiki/Postal_Alpha_Numeric_Encoding_Technique" title="Postal Alpha Numeric Encoding Technique">PLANET</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2D barcodes (stacked)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/GS1_DataBar" title="GS1 DataBar">GS1 DataBar</a></li>
+<li><a href="/wiki/PDF417" title="PDF417">PDF417</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2D barcodes (<a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">matrix</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aztec_Code" title="Aztec Code">Aztec Code</a></li>
+<li><a href="/wiki/Data_Matrix" title="Data Matrix">Data Matrix</a></li>
+<li><a href="/wiki/EZcode" title="EZcode">EZcode</a></li>
+<li><a href="/wiki/MaxiCode" title="MaxiCode">MaxiCode</a></li>
+<li><a href="/wiki/QR_code" title="QR code">QR code</a></li>
+<li><a href="/wiki/Semacode" title="Semacode">Semacode</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Polar_coordinate_system" title="Polar coordinate system">Polar coordinate</a> barcodes</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MaxiCode" title="MaxiCode">MaxiCode</a></li>
+<li><a href="/wiki/ShotCode" title="ShotCode">ShotCode</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/High_Capacity_Color_Barcode" title="High Capacity Color Barcode">High Capacity Color Barcode (Microsoft Tag)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Technological issues</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barcode_reader" title="Barcode reader">Barcode reader</a></li>
+<li><a href="/wiki/Barcode_printer" title="Barcode printer">Barcode printer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other data tags</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Radio-frequency_identification" title="Radio-frequency identification">RFID</a></li>
+<li><a href="/wiki/Bokode" title="Bokode">Bokode</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Supply_chain_management" title="Supply chain management">Supply Chain Management</a></li>
+<li><a href="/wiki/Object_hyperlinking" title="Object hyperlinking">Object hyperlinking</a></li>
+<li><a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">Matrix</a></li>
+<li><a href="/wiki/Mobile_tagging" title="Mobile tagging">Mobile tagging</a></li>
+<li><a href="/wiki/CueCat" title="CueCat">CueCat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1243
+CPU time usage: 0.163 seconds
+Real time usage: 0.216 seconds
+Preprocessor visited node count: 674/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23288/2097152 bytes
+Template argument size: 1108/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.037/10.000 seconds
+Lua memory usage: 1.36 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  121.652      1 - -total
+ 47.48%   57.764      1 - Template:Citation_needed
+ 36.58%   44.503      2 - Template:Fix
+ 32.96%   40.102      3 - Template:Category_handler
+ 16.94%   20.604      1 - Template:Linkfarm
+ 16.45%   20.006      1 - Template:Barcodes
+ 13.45%   16.359      1 - Template:Navbox
+ 12.28%   14.938      1 - Template:Ambox
+  8.37%   10.183      1 - Template:Reflist
+  6.54%    7.952      1 - Template:Dubious
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:695970-0!*!0!!en!4!* and timestamp 20150701030539 and revision id 665615123
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Code_128&amp;oldid=665615123">https://en.wikipedia.org/w/index.php?title=Code_128&amp;oldid=665615123</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Barcodes" title="Category:Barcodes">Barcodes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2009" title="Category:Articles with unsourced statements from May 2009">Articles with unsourced statements from May 2009</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_December_2013" title="Category:Articles with disputed statements from December 2013">Articles with disputed statements from December 2013</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_January_2015" title="Category:Wikipedia external links cleanup from January 2015">Wikipedia external links cleanup from January 2015</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_January_2015" title="Category:Wikipedia spam cleanup from January 2015">Wikipedia spam cleanup from January 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Code+128&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Code+128" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Code_128"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Code_128"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Code_128" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Code_128&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Code_128&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Code_128" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Code_128" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Code_128&amp;oldid=665615123" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Code_128&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1570049" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Code_128&amp;id=665615123" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Code+128">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Code+128&amp;oldid=665615123&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Code_128&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/%C4%8C%C3%A1rov%C3%BD_k%C3%B3d#Code_128" title="Čárový kód – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Code128" title="Code128 – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Code_128" title="Code 128 – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Code_128" title="Code 128 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Code_128" title="Code 128 – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/K%C3%B4d_128" title="Kôd 128 – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Code_128" title="Code 128 – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Code_128" title="Code 128 – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/CODE128" title="CODE128 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kod_128" title="Kod 128 – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Code_128" title="Code 128 – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Code_128" title="Code 128 – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1570049#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 July 2015, at 03:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Code_128&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1258"});
+}</script>
+	</body>
+</html>

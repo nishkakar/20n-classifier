@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Oracle Exadata - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Oracle_Exadata" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Oracle_Exadata&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Oracle_Exadata&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Oracle_Exadata" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Oracle_Exadata" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Oracle_Exadata","wgTitle":"Oracle Exadata","wgCurRevisionId":646664342,"wgRevisionId":646664342,"wgArticleId":27974340,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking reliable references from September 2012","All articles lacking reliable references","Wikipedia articles needing clarification from September 2013","Commons category template with no category set","Commons category without a link on Wikidata","Database management systems","Data warehousing products"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Oracle_Exadata","wgRelevantArticleId":27974340,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oracle_Exadata_X2-2.jpg/66px-Oracle_Exadata_X2-2.jpg","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4038419"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Oracle_Exadata skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Oracle Exadata</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this article by adding <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(September 2012)</i></small></span></td>
+</tr>
+</table>
+<p><b>Oracle Exadata</b> is a <a href="/wiki/Data_warehouse_appliance" title="Data warehouse appliance">database appliance</a> with support for both <a href="/wiki/OLTP" title="OLTP" class="mw-redirect">OLTP</a> (transactional) and <a href="/wiki/OLAP" title="OLAP" class="mw-redirect">OLAP</a> (analytical) database systems.<sup id="cite_ref-ORCL-EXA-L-02_1-0" class="reference"><a href="#cite_note-ORCL-EXA-L-02-1"><span>[</span>1<span>]</span></a></sup> It was initially designed in collaboration between <a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle Corporation</a> and <a href="/wiki/Hewlett_Packard" title="Hewlett Packard" class="mw-redirect">Hewlett Packard</a>. Oracle designed the database, operating system (based on the <a href="/wiki/Oracle_Linux" title="Oracle Linux">Oracle Linux</a> distribution), and storage software whereas HP designed the hardware for it. After Oracle's acquisition of <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>, in 2010 Oracle announced the Exadata Version 2 with improved performance and Sun storage systems.<sup id="cite_ref-orclwhitepaper_2-0" class="reference"><a href="#cite_note-orclwhitepaper-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Technical_details"><span class="tocnumber">2</span> <span class="toctext">Technical details</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Database_servers_X5-2"><span class="tocnumber">2.1</span> <span class="toctext">Database servers X5-2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Database_servers_X4-2"><span class="tocnumber">2.2</span> <span class="toctext">Database servers X4-2</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Database_servers_X4-8"><span class="tocnumber">2.3</span> <span class="toctext">Database servers X4-8</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Storage_Servers_X4-2"><span class="tocnumber">2.4</span> <span class="toctext">Storage Servers X4-2</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Database_servers_X3-2"><span class="tocnumber">2.5</span> <span class="toctext">Database servers X3-2</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Database_servers_X3-8"><span class="tocnumber">2.6</span> <span class="toctext">Database servers X3-8</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Storage_Servers_X3-2"><span class="tocnumber">2.7</span> <span class="toctext">Storage Servers X3-2</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Database_servers_X2-2"><span class="tocnumber">2.8</span> <span class="toctext">Database servers X2-2</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Database_servers_X2-8"><span class="tocnumber">2.9</span> <span class="toctext">Database servers X2-8</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Storage_Servers_X2-2"><span class="tocnumber">2.10</span> <span class="toctext">Storage Servers X2-2</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Software"><span class="tocnumber">2.11</span> <span class="toctext">Software</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#InfiniBand_switches"><span class="tocnumber">2.12</span> <span class="toctext">InfiniBand switches</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Exadata was announced by <a href="/wiki/Larry_Ellison" title="Larry Ellison">Larry Ellison</a> at the 2008 <a href="/wiki/Oracle_OpenWorld" title="Oracle OpenWorld">Oracle OpenWorld</a> conference<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> in <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a> for immediate delivery. The main headline was that Oracle was entering the hardware business with a pre-built database machine, engineered by Oracle. The hardware at this time was manufactured, delivered and supported by HP. Since the acquisition of Sun Microsystems by Oracle circa January 2010, Exadata used Sun-based hardware. In August 2011, Oracle announced that Exadata database machines would be orderable with <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a> 11 Express (in addition to <a href="/wiki/Oracle_Linux" title="Oracle Linux">Oracle Linux</a>).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Technical_details">Technical details</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=2" title="Edit section: Technical details">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a href="/wiki/File:Oracle_Exadata_X2-2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oracle_Exadata_X2-2.jpg/260px-Oracle_Exadata_X2-2.jpg" width="260" height="392" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oracle_Exadata_X2-2.jpg/390px-Oracle_Exadata_X2-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oracle_Exadata_X2-2.jpg/520px-Oracle_Exadata_X2-2.jpg 2x" data-file-width="2675" data-file-height="4029" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Oracle_Exadata_X2-2.jpg" class="internal" title="Enlarge"></a></div>
+Exadata X2-2 at <a href="/wiki/Oracle_OpenWorld" title="Oracle OpenWorld">Oracle OpenWorld</a> 2009</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Database_servers_X5-2">Database servers X5-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=3" title="Edit section: Database servers X5-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each Database Server with</p>
+<ul>
+<li>2 x Eighteen-Core Intel Xeon E5-2699 v3 Processors (2.3&#160;GHz)</li>
+<li>256 GB Memory (expandable to 768GB)</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>4 x 600 GB 10,000 RPM Disks</li>
+<li>2 x QDR (40Gbit/s) Ports</li>
+<li>4 x 1/10 Gb Ethernet Ports (copper)</li>
+<li>2 x 10 Gb Ethernet Ports (optical)</li>
+<li>1 x ILOM Ethernet Port</li>
+<li>2 x Redundant Hot-Swappable Power Supplies</li>
+</ul>
+<p>The Exadata X5-2 introduces an elastic scale-out architecture in which additional database nodes and storage cells can be added. The configurations (Eighth, Quarter, Half and Full) still exist but are not the only configuration options.</p>
+<h3><span class="mw-headline" id="Database_servers_X4-2">Database servers X4-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=4" title="Edit section: Database servers X4-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each Database Server with</p>
+<ul>
+<li>2 x Twelve-Core Intel Xeon E5-2697 v2 Processors (2.7&#160;GHz)</li>
+<li>256 GB Memory (expandable to 512GB)</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>4 x 600 GB 10,000 RPM Disks</li>
+<li>2 x QDR (40Gbit/s) Ports</li>
+<li>4 x 1/10 Gb Ethernet Ports (copper)</li>
+<li>2 x 10 Gb Ethernet Ports (optical)</li>
+<li>1 x ILOM Ethernet Port</li>
+<li>2 x Redundant Hot-Swappable Power Supplies</li>
+</ul>
+<p>The Exadata X4-2 comes in 4 different sizes</p>
+<ul>
+<li>Eighth Rack - 2 Database Servers (half of the cores used in each server [8 cores per server]), 3 Storage Servers (half of the disks enabled, half of the Flash Cache enabled)</li>
+<li>Quarter Rack - 2 Database Servers, 3 Storage Servers</li>
+<li>Half Rack - 4 Database Servers, 7 Storage Servers</li>
+<li>Full Rack - 8 Database Servers, 14 Storage Servers</li>
+</ul>
+<h3><span class="mw-headline" id="Database_servers_X4-8">Database servers X4-8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=5" title="Edit section: Database servers X4-8">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2 Servers, each with</p>
+<ul>
+<li>8 x Fifteen-Core Intel Xeon E7-8895 v2 Processors (2.80&#160;GHz)</li>
+<li>2 TB Memory (Expandable up to 6 TB)</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>7 x 600 GB 10,000 RPM Disks</li>
+<li>8 x InfiniBand QDR (40Gbit/s) Ports</li>
+<li>8 x 10 Gb Ethernet Ports based on the Intel 82599 10GbE Controller</li>
+<li>10 x 1 Gb Ethernet Ports</li>
+<li>1 x ILOM Ethernet Port</li>
+<li>4 x Redundant Hot-Swappable Power Supplies</li>
+</ul>
+<h3><span class="mw-headline" id="Storage_Servers_X4-2">Storage Servers X4-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=6" title="Edit section: Storage Servers X4-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each Storage Server has</p>
+<ul>
+<li>Processors: 2 x Six-Core Intel Xeon E5-2630 v2 (2.6&#160;GHz) Processors</li>
+<li>Exadata Smart Flash: Cache 3.2 TB</li>
+<li>System Memory: 96 GB</li>
+<li>Disk Controller: Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>InfiniBand Connectivity: Dual-Port QDR (40Gbit/s) InfiniBand Host Channel Adapter</li>
+<li>Power Supplies: Dual-redundant, hot-swappable power supply</li>
+<li>Disk Drives:
+<ul>
+<li>12 x 1.2 TB 10,000 RPM High Performance or</li>
+<li>12 x 4 TB 7,200 RPM High Capacity</li>
+<li>For raw disk capacity, 1 GB = 1 billion bytes. Actual formatted capacity is less.</li>
+</ul>
+</li>
+<li>Remote Management: Integrated Lights Out Manager (ILOM) Ethernet port</li>
+</ul>
+<h3><span class="mw-headline" id="Database_servers_X3-2">Database servers X3-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=7" title="Edit section: Database servers X3-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A third generation was announced in 2012.<sup id="cite_ref-X3-2_5-0" class="reference"><a href="#cite_note-X3-2-5"><span>[</span>5<span>]</span></a></sup> Each Database Server with</p>
+<ul>
+<li>2 x Eight-Core Intel Xeon E5-2690 Processors (2.9&#160;GHz)</li>
+<li>128 GB Memory (expandable to 256GB)</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>4 x 300 GB 10,000 RPM Disks</li>
+<li>2 x QDR (40Gbit/s) Ports</li>
+<li>4 x 1/10 Gb Ethernet Ports (copper)</li>
+<li>2 x 10 Gb Ethernet Ports (optical)</li>
+<li>1 x ILOM Ethernet Port</li>
+<li>2 x Redundant Hot-Swappable Power Supplies</li>
+</ul>
+<p>The Exadata X3-2 comes in 4 different sizes</p>
+<ul>
+<li>Eighth Rack - 2 Database Servers (half of the cores used in each server [8 cores per server]), 3 Storage Servers (half of the disks enabled, half of the Flash Cache enabled)</li>
+<li>Quarter Rack - 2 Database Servers, 3 Storage Servers</li>
+<li>Half Rack - 4 Database Servers, 7 Storage Servers</li>
+<li>Full Rack - 8 Database Servers, 14 Storage Servers</li>
+</ul>
+<h3><span class="mw-headline" id="Database_servers_X3-8">Database servers X3-8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=8" title="Edit section: Database servers X3-8">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2 Servers, each with</p>
+<ul>
+<li>8 x Ten-Core Intel Xeon E7-8870 Processors (2.40&#160;GHz)</li>
+<li>2 TB Memory (1TB per server)</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>8 x 300 GB 10,000 RPM Disks</li>
+<li>8 x InfiniBand QDR (40Gbit/s) Ports</li>
+<li>8 x 10 Gb Ethernet Ports based on the Intel 82599 10GbE Controller</li>
+<li>8 x 1 Gb Ethernet Ports</li>
+<li>1 x ILOM Ethernet Port</li>
+<li>4 x Redundant Hot-Swappable Power Supplies</li>
+</ul>
+<h3><span class="mw-headline" id="Storage_Servers_X3-2">Storage Servers X3-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=9" title="Edit section: Storage Servers X3-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each Storage Server has</p>
+<ul>
+<li>Processors: 2 x Six-Core b Intel Xeon E5-2630L (2.0&#160;GHz) Processors</li>
+<li>Exadata Smart Flash: Cache 1.6 TB (4 PCI cards)</li>
+<li>System Memory: 64 GB</li>
+<li>Disk Controller: Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>InfiniBand Connectivity: Dual-Port QDR (40Gbit/s) InfiniBand Host Channel Adapter</li>
+<li>Power Supplies: Dual-redundant, hot-swappable power supply</li>
+<li>Disk Drives:
+<ul>
+<li>12 x 600 GB 15,000 RPM High Performance or</li>
+<li>12 x 3 TB 7,200 RPM High Capacity</li>
+<li>For raw disk capacity, 1 GB = 1 billion bytes. Actual formatted capacity is less.</li>
+</ul>
+</li>
+<li>Remote Management: Integrated Lights Out Manager (ILOM) Ethernet port</li>
+</ul>
+<h3><span class="mw-headline" id="Database_servers_X2-2">Database servers X2-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=10" title="Edit section: Database servers X2-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sun Fire X4170 M2<sup id="cite_ref-x2-2_6-0" class="reference"><a href="#cite_note-x2-2-6"><span>[</span>6<span>]</span></a></sup></p>
+<ul>
+<li>2 × Six-Core Intel Xeon X5675 Processors (3.06&#160;GHz)</li>
+<li>96 GB Memory (expandable to 144 GB with optional memory expansion kit)</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>4 × 300 GB 10,000 RPM SAS Disks</li>
+<li>2 × QDR (40Gbit/s) Ports</li>
+<li>2 × 10 Gb Ethernet Ports based on the Intel 82599 10GbE Controller</li>
+<li>4 × 1 Gb Ethernet Ports</li>
+<li>1 × ILOM Ethernet Port</li>
+<li>2 × Redundant Hot-Swappable Power Supplies</li>
+<li>3 × 36 port QDR (40 Gbit/s) InfiniBand Switches (2 x in Quarter Rack configuration)</li>
+</ul>
+<h3><span class="mw-headline" id="Database_servers_X2-8">Database servers X2-8</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=11" title="Edit section: Database servers X2-8">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sun Fire X4800<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<ul>
+<li>8 × Ten-Core Intel Xeon E7-8870 Processors (2.40&#160;GHz)</li>
+<li>2 TB Memory.</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache.</li>
+<li>8 × 300 GB 10,000 RPM SAS Disks</li>
+<li>8 × QDR (40Gbit/s) Ports</li>
+<li>8 × 10 Gb Ethernet Ports based on the Intel 82599 10GbE Controller</li>
+<li>8 × 1 Gb Ethernet Ports</li>
+<li>1 × ILOM Ethernet Port</li>
+<li>4 × Redundant Hot-Swappable Power Supplies</li>
+<li>3 × 36 port QDR (40 Gbit/s) InfiniBand Switches</li>
+</ul>
+<h3><span class="mw-headline" id="Storage_Servers_X2-2">Storage Servers X2-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=12" title="Edit section: Storage Servers X2-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>2 × Six-Core Intel Xeon L5640 (2.26&#160;GHz) Processors</li>
+<li>Exadata Smart Flash Cache 384 GB</li>
+<li>System Memory 24 GB</li>
+<li>Disk Controller HBA with 512MB Battery Backed Write Cache</li>
+<li>InfiniBand Connectivity Dual-Port QDR (40Gbit/s) InfiniBand Host Channel Adapter</li>
+<li>Power Supplies Dual-redundant, hot-swappable power supply</li>
+<li>Remote Management Sun Embedded Integrated Lights Out Manager (ILOM)</li>
+<li>Disk Drives 12 × 600 GB 15,000 RPM High Performance SAS or</li>
+<li>12 × 3 TB 7,200 RPM High Capacity SAS</li>
+<li>Integrated Lights Out Manager (ILOM) Ethernet port<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<p>There was also an expansion rack.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Software">Software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=13" title="Edit section: Software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Software caches database objects in <a href="/wiki/Flash_memory" title="Flash memory">flash memory</a>, replacing slow, mechanical I/O operations to disk with rapid flash memory operations. Software also provides logging feature to speed database log I/O. Exadata storage cells<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (September 2013)">clarification needed</span></a></i>]</sup> determine which rows contain values that are being queried. Smart Scan only returns blocks that are relevant to the compute nodes. Storage cells can take over data intensive processing from compute nodes.</p>
+<p>Storage cells keep track on maximum and minimum values stored in different areas and use those values to determine where predicates can not exist. This allows the storage cell to not have to read the area at all thus saving time and processing cycles.</p>
+<h3><span class="mw-headline" id="InfiniBand_switches">InfiniBand switches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=14" title="Edit section: InfiniBand switches">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 2010 version of the product used <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> datacenter InfiniBand switches with 36 ports.<sup id="cite_ref-pythianblog_10-0" class="reference"><a href="#cite_note-pythianblog-10"><span>[</span>10<span>]</span></a></sup></p>
+<table class="wikitable">
+<tr>
+<th></th>
+<th>Database Machine Full Rack</th>
+<th>Database Machine Half Rack</th>
+<th>Database Machine Quarter Rack</th>
+</tr>
+<tr>
+<td>Database Servers</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Exadata Storage Servers</td>
+<td>14</td>
+<td>7</td>
+<td>3</td>
+</tr>
+<tr>
+<td>InfiniBand Switches</td>
+<td>3</td>
+<td>3</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Upgradability</td>
+<td>Connect multiple Full Racks via the included InfiniBand fabric</td>
+<td>Field upgrade to Full Rack</td>
+<td>Field upgrade from Quarter Rack to Half Rack</td>
+</tr>
+</table>
+<p>Source Oracle Corporation <sup id="cite_ref-orclwhitepaper_2-1" class="reference"><a href="#cite_note-orclwhitepaper-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle</a></li>
+<li><a href="/wiki/Oracle_Exalogic" title="Oracle Exalogic">Exalogic</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ORCL-EXA-L-02-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-ORCL-EXA-L-02_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://bi-insider.com/posts/data-warehouse-appliance-oracle-exadata/">"Data warehouse appliance&#160;: Oracle Exadata"</a>. 22 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOracle+Exadata&amp;rft.btitle=Data+warehouse+appliance+%3A+Oracle+Exadata&amp;rft.date=22+September+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbi-insider.com%2Fposts%2Fdata-warehouse-appliance-oracle-exadata%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-orclwhitepaper-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-orclwhitepaper_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-orclwhitepaper_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20100602000334/http://www.oracle.com/technology/products/bi/db/exadata/pdf/exadata-technical-whitepaper.pdf">"A Technical Overview of the Sun Oracle Database Machine and Exadata Storage Server"</a> <span style="font-size:85%;">(PDF)</span>. <i>White Paper</i>. Oracle Corporation. April 23, 2010. Archived from <a rel="nofollow" class="external text" href="http://www.oracle.com/technology/products/bi/db/exadata/pdf/exadata-technical-whitepaper.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on June 2, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">August 16,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOracle+Exadata&amp;rft.atitle=A+Technical+Overview+of+the+Sun+Oracle+Database+Machine+and+Exadata+Storage+Server&amp;rft.date=April+23%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.oracle.com%2Ftechnology%2Fproducts%2Fbi%2Fdb%2Fexadata%2Fpdf%2Fexadata-technical-whitepaper.pdf&amp;rft.jtitle=White+Paper&amp;rft.pub=Oracle+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://flashdba.com/history-of-exadata/">http://flashdba.com/history-of-exadata/</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oracle.com/us/corporate/press/454114">http://www.oracle.com/us/corporate/press/454114</a></span></li>
+<li id="cite_note-X3-2-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-X3-2_5-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oracle.com/us/products/database/exadata-db-machine-x3-2-1851253.pdf">http://www.oracle.com/us/products/database/exadata-db-machine-x3-2-1851253.pdf</a></span></li>
+<li id="cite_note-x2-2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-x2-2_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oracle.com/technetwork/database/exadata/dbmachine-x2-2-datasheet-175280.pdf?ssSourceSiteId=ocomen">http://www.oracle.com/technetwork/database/exadata/dbmachine-x2-2-datasheet-175280.pdf?ssSourceSiteId=ocomen</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oracle.com/technetwork/database/exadata/dbmachine-x2-8-datasheet-173705.pdf">http://www.oracle.com/technetwork/database/exadata/dbmachine-x2-8-datasheet-173705.pdf</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oracle.com/technetwork/database/exadata/exadata-x2-2-datasheet-175368.pdf?ssSourceSiteId=ocomen">http://www.oracle.com/technetwork/database/exadata/exadata-x2-2-datasheet-175368.pdf?ssSourceSiteId=ocomen</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.oracle.com/technetwork/database/exadata/exadata-storage-exp-rack-ds-v1-425092.pdf">http://www.oracle.com/technetwork/database/exadata/exadata-storage-exp-rack-ds-v1-425092.pdf</a></span></li>
+<li id="cite_note-pythianblog-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-pythianblog_10-0">^</a></b></span> <span class="reference-text"><span class="citation web">Marc Fielding (July 6, 2010). <a rel="nofollow" class="external text" href="http://www.pythian.com/blog/exadata-part-1/">"A Grand Tour of Oracle Exadata, Part 1"</a>. <i>Blog</i>. Pythian<span class="reference-accessdate">. Retrieved <span class="nowrap">September 17,</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOracle+Exadata&amp;rft.atitle=A+Grand+Tour+of+Oracle+Exadata%2C+Part+1&amp;rft.aulast=Marc+Fielding&amp;rft.au=Marc+Fielding&amp;rft.date=July+6%2C+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pythian.com%2Fblog%2Fexadata-part-1%2F&amp;rft.jtitle=Blog&amp;rft.pub=Pythian&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Oracle_Exadata" class="extiw" title="commons:Category:Oracle Exadata">Oracle Exadata</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.oracle.com/us/products/database/exadata-database-machine/index.html">Oracle Exadata Database Machine</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=3WPOrdUGteE">Oracle &amp; Sun Unveil Exadata Version 2</a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a> - Larry Ellison's Exadata V2 announcement</li>
+<li><a rel="nofollow" class="external text" href="http://flashdba.com/history-of-exadata/">History of Exadata</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Oracle" title="Template:Oracle"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Oracle" title="Template talk:Oracle"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oracle&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle Corporation</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Corporation" title="Corporation">Corporate</a> <a href="/wiki/Board_of_directors" title="Board of directors">directors</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Jeffrey_Berg&amp;action=edit&amp;redlink=1" class="new" title="Jeffrey Berg (page does not exist)">Jeffrey Berg</a></li>
+<li><a href="/w/index.php?title=H._Raymond_Bingham&amp;action=edit&amp;redlink=1" class="new" title="H. Raymond Bingham (page does not exist)">H. Raymond Bingham</a></li>
+<li><a href="/wiki/Michael_Boskin" title="Michael Boskin">Michael Boskin</a></li>
+<li><a href="/wiki/Safra_A._Catz" title="Safra A. Catz">Safra A. Catz</a></li>
+<li><a href="/wiki/Larry_Ellison" title="Larry Ellison">Larry Ellison</a></li>
+<li><a href="/wiki/H%C3%A9ctor_Garc%C3%ADa-Molina" title="Héctor García-Molina">Héctor García-Molina</a></li>
+<li><a href="/wiki/Joseph_Grundfest" title="Joseph Grundfest">Joseph Grundfest</a></li>
+<li><a href="/wiki/Jeffrey_O._Henley" title="Jeffrey O. Henley">Jeffrey O. Henley</a></li>
+<li><a href="/wiki/Mark_Hurd" title="Mark Hurd">Mark Hurd</a></li>
+<li><a href="/wiki/Jack_Kemp" title="Jack Kemp">Jack F. Kemp</a></li>
+<li><a href="/w/index.php?title=Donald_L._Lucas&amp;action=edit&amp;redlink=1" class="new" title="Donald L. Lucas (page does not exist)">Donald L. Lucas</a></li>
+<li><a href="/wiki/Naomi_O._Seligman" title="Naomi O. Seligman">Naomi O. Seligman</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">Acquisitions</a> (<a href="/wiki/List_of_acquisitions_by_Oracle" title="List of acquisitions by Oracle">list</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun</a></li>
+<li><a href="/wiki/PeopleSoft" title="PeopleSoft">PeopleSoft</a></li>
+<li><a href="/wiki/Hyperion_Solutions" title="Hyperion Solutions" class="mw-redirect">Hyperion</a></li>
+<li><a href="/wiki/Siebel_Systems" title="Siebel Systems">Siebel</a></li>
+<li><a href="/wiki/BEA_Systems" title="BEA Systems">BEA</a></li>
+<li><a href="/wiki/JD_Edwards" title="JD Edwards">JD Edwards</a></li>
+<li><a href="/wiki/RightNow_Technologies" title="RightNow Technologies">RightNow</a></li>
+<li><a href="/wiki/Virtual_Iron" title="Virtual Iron">Virtual Iron</a></li>
+<li><a href="/wiki/Timesten" title="Timesten" class="mw-redirect">Timesten</a></li>
+<li><a href="/w/index.php?title=Retek&amp;action=edit&amp;redlink=1" class="new" title="Retek (page does not exist)">Retek</a></li>
+<li><a href="/wiki/Sunopsis" title="Sunopsis">Sunopsis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Database" title="Database">DBMS</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oracle_Database" title="Oracle Database">Oracle Database</a></li>
+<li><a href="/wiki/MySQL" title="MySQL">MySQL</a></li>
+<li><a href="/wiki/InnoDB" title="InnoDB">InnoDB</a></li>
+<li><a href="/wiki/Berkeley_DB" title="Berkeley DB">Berkeley DB</a></li>
+<li><a href="/wiki/Timesten" title="Timesten" class="mw-redirect">Timesten</a></li>
+<li><a href="/wiki/Oracle_Rdb" title="Oracle Rdb">Rdb</a></li>
+<li><a href="/wiki/Essbase" title="Essbase">Essbase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Programming_language" title="Programming language">Programming languages</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></li>
+<li><a href="/wiki/PL/SQL" title="PL/SQL">PL/SQL</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Integrated_development_environment" title="Integrated development environment">IDE</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JDeveloper" title="JDeveloper">JDeveloper</a></li>
+<li><a href="/wiki/Oracle_Forms" title="Oracle Forms">Forms</a></li>
+<li><a href="/wiki/NetBeans" title="NetBeans">NetBeans</a></li>
+<li><a href="/wiki/Oracle_Application_Express" title="Oracle Application Express">Apex</a></li>
+<li><a href="/wiki/Oracle_SQL_Developer" title="Oracle SQL Developer">SQL Developer</a></li>
+<li><a href="/wiki/Sun_Studio_(software)" title="Sun Studio (software)" class="mw-redirect">Solaris Studio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Middleware_(distributed_applications)" title="Middleware (distributed applications)">Middleware</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oracle_Fusion_Middleware" title="Oracle Fusion Middleware">Fusion Middleware</a></li>
+<li><a href="/wiki/Oracle_WebCenter" title="Oracle WebCenter">WebCenter</a></li>
+<li><a href="/wiki/Oracle_SOA_Suite" title="Oracle SOA Suite">SOA Suite</a></li>
+<li><a href="/wiki/Oracle_WebLogic_Server" title="Oracle WebLogic Server">WebLogic Server</a></li>
+<li><a href="/wiki/Oracle_Coherence" title="Oracle Coherence">Coherence</a></li>
+<li><a href="/wiki/Tuxedo_(software)" title="Tuxedo (software)">Tuxedo</a></li>
+<li><a href="/wiki/GlassFish" title="GlassFish">GlassFish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Operating_system" title="Operating system">Operating systems</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oracle_Linux" title="Oracle Linux">Oracle Linux</a></li>
+<li><a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Oracle Solaris</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_hardware" title="Computer hardware">Computer hardware</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sun_Fire" title="Sun Fire">Sun Fire</a></li>
+<li><a href="/wiki/SPARC" title="SPARC">SPARC</a> (<a href="/wiki/SPARC_T-Series" title="SPARC T-Series">T-Series</a>, <a href="/wiki/SPARC_Enterprise" title="SPARC Enterprise">Enterprise</a>)</li>
+<li><a href="/wiki/StorageTek" title="StorageTek" class="mw-redirect">StorageTek</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Computer_appliance" title="Computer appliance">Computer appliances</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Oracle Exadata</strong></li>
+<li><a href="/wiki/Oracle_Exalogic" title="Oracle Exalogic">Oracle Exalogic</a></li>
+<li><a href="/w/index.php?title=Oracle_Exalytics&amp;action=edit&amp;redlink=1" class="new" title="Oracle Exalytics (page does not exist)">Oracle Exalytics</a></li>
+<li><a href="/wiki/Oracle_Big_Data_Appliance" title="Oracle Big Data Appliance">Big Data Appliance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Education and recognition</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oracle_Certification_Program" title="Oracle Certification Program">Oracle Certification Program</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Oracle_Corporation" title="Category:Oracle Corporation">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="//commons.wikimedia.org/wiki/Category:Oracle_Corporation" class="extiw" title="commons:Category:Oracle Corporation"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1256
+CPU time usage: 0.197 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 878/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30726/2097152 bytes
+Template argument size: 733/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 2.48 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  185.411      1 - -total
+ 28.96%   53.700      1 - Template:Primary_sources
+ 21.44%   39.759      1 - Template:Reflist
+ 19.80%   36.710      1 - Template:Ambox
+ 14.81%   27.466      1 - Template:Oracle
+ 13.91%   25.797      3 - Template:Cite_web
+ 13.20%   24.479      1 - Template:Commonscat
+ 13.14%   24.357      1 - Template:What
+ 13.04%   24.183      1 - Template:Navbox
+ 10.33%   19.145      1 - Template:Fix-span
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27974340-0!*!0!!en!4!* and timestamp 20150627041142 and revision id 646664342
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Oracle_Exadata&amp;oldid=646664342">https://en.wikipedia.org/w/index.php?title=Oracle_Exadata&amp;oldid=646664342</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Database_management_systems" title="Category:Database management systems">Database management systems</a></li><li><a href="/wiki/Category:Data_warehousing_products" title="Category:Data warehousing products">Data warehousing products</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2012" title="Category:Articles lacking reliable references from September 2012">Articles lacking reliable references from September 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_September_2013" title="Category:Wikipedia articles needing clarification from September 2013">Wikipedia articles needing clarification from September 2013</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oracle+Exadata&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oracle+Exadata" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Oracle_Exadata"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Oracle_Exadata"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Oracle_Exadata" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Oracle_Exadata&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Oracle_Exadata&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Oracle_Exadata" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Oracle_Exadata" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Oracle_Exadata&amp;oldid=646664342" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Oracle_Exadata&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4038419" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Oracle_Exadata&amp;id=646664342" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Oracle+Exadata">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Oracle+Exadata&amp;oldid=646664342&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Oracle_Exadata&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Exadata" title="Exadata – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4038419#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 February 2015, at 16:25.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Oracle_Exadata&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1258"});
+}</script>
+	</body>
+</html>

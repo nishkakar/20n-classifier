@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Erb's palsy - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Erb%27s_palsy" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Erb%27s_palsy&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Erb%27s_palsy&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Erb%27s_palsy" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Erb%27s_palsy" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Erb's_palsy","wgTitle":"Erb's palsy","wgCurRevisionId":666607551,"wgRevisionId":666607551,"wgArticleId":1558987,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing French-language text","Articles with French-language external links","Articles containing German-language text","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from December 2011","Articles that use a Medicine navs subtemplate","Neurological disorders","Birth trauma"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Erb's_palsy","wgRelevantArticleId":1558987,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Erb–Duchenne_palsy","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Brachial_plexus_2.svg/100px-Brachial_plexus_2.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Erb%27s_palsy","wgWikibaseItemId":"Q2736543"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Erb_s_palsy skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Erb's palsy</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Erb%E2%80%93Duchenne_palsy&amp;redirect=no" title="Erb–Duchenne palsy">Erb–Duchenne palsy</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Erb's palsy</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Brachial_plexus_2.svg" class="image"><img alt="Brachial plexus 2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Brachial_plexus_2.svg/230px-Brachial_plexus_2.svg.png" width="230" height="173" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Brachial_plexus_2.svg/345px-Brachial_plexus_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Brachial_plexus_2.svg/460px-Brachial_plexus_2.svg.png 2x" data-file-width="864" data-file-height="648" /></a>
+<div><a href="/wiki/Brachial_plexus" title="Brachial plexus">Brachial plexus</a>. Erb's palsy primarily affects C5 and C6.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/P14.0">P14.0</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=767.6">767.6</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb30827.htm">30827</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/Erb&amp;#39;s-Palsy">Erb's palsy</a></td>
+</tr>
+</table>
+<p><b>Erb's palsy</b> or <b>Erb–Duchenne palsy</b> is a paralysis of the arm caused by injury to the upper group of the arm's main nerves, specifically the severing of the upper trunk <a href="/wiki/Cervical_nerves" title="Cervical nerves" class="mw-redirect">C5–C6</a> nerves. These form part of the <a href="/wiki/Brachial_plexus" title="Brachial plexus">brachial plexus</a>, comprising the <a href="/wiki/Anterior_ramus_of_spinal_nerve" title="Anterior ramus of spinal nerve">ventral rami</a> of <a href="/wiki/Spinal_nerve" title="Spinal nerve">spinal nerves</a> C5–C8 and <a href="/wiki/Thoracic_nerves" title="Thoracic nerves" class="mw-redirect">thoracic nerve</a> T1.<sup id="cite_ref-GraysAnatomy35th_1-0" class="reference"><a href="#cite_note-GraysAnatomy35th-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-Tortora.26Anagnostakos_2-0" class="reference"><a href="#cite_note-Tortora.26Anagnostakos-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Abrahams_3-0" class="reference"><a href="#cite_note-Abrahams-3"><span>[</span>3<span>]</span></a></sup> These injuries arise most commonly, but not exclusively, from <a href="/wiki/Shoulder_dystocia" title="Shoulder dystocia">shoulder dystocia</a> during a difficult birth.<sup id="cite_ref-adam_4-0" class="reference"><a href="#cite_note-adam-4"><span>[</span>4<span>]</span></a></sup> Depending on the nature of the damage, the paralysis can either resolve on its own over a period of months, necessitate rehabilitative therapy, or require surgery.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cause"><span class="tocnumber">1</span> <span class="toctext">Cause</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Presentation"><span class="tocnumber">2</span> <span class="toctext">Presentation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Appearance_and_pain"><span class="tocnumber">3</span> <span class="toctext">Appearance and pain</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Treatment"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Discovery"><span class="tocnumber">5</span> <span class="toctext">Discovery</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notable_people_with_Erb.27s_palsy"><span class="tocnumber">6</span> <span class="toctext">Notable people with Erb's palsy</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Cause">Cause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=1" title="Edit section: Cause">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most common cause of Erb's palsy is <a href="/wiki/Dystocia" title="Dystocia" class="mw-redirect">dystocia</a>, an abnormal or difficult childbirth or labor. For example, it can occur if the infant's head and neck are pulled toward the side at the same time as the shoulders pass through the <a href="/wiki/Birth_canal" title="Birth canal" class="mw-redirect">birth canal</a>. The condition can also be caused by excessive pulling on the shoulders during a <a href="/wiki/Cephalic_presentation" title="Cephalic presentation">cephalic presentation</a> (head first delivery), or by pressure on the raised arms during a <a href="/wiki/Breech_birth" title="Breech birth">breech</a> (feet first) delivery.<sup id="cite_ref-adam_4-1" class="reference"><a href="#cite_note-adam-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-GraysAnatomy35th1046_6-0" class="reference"><a href="#cite_note-GraysAnatomy35th1046-6"><span>[</span>6<span>]</span></a></sup> Erb's palsy can also affect neonates affected by a <a href="/wiki/Clavicle" title="Clavicle">clavicle</a> fracture unrelated to dystocia.<sup id="cite_ref-pmid9396889_7-0" class="reference"><a href="#cite_note-pmid9396889-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>A similar injury may be observed at any age following trauma to the head and shoulder, which cause the nerves of the plexus to violently stretch, with the upper trunk of the plexus sustaining the greatest injury. Injury may also occur as the result of direct violence, including gunshot wounds and traction on the arm, or attempting to diminish shoulder joint dislocation. The level of damage to the constituent nerves is related to the amount of paralysis.</p>
+<h2><span class="mw-headline" id="Presentation">Presentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=2" title="Edit section: Presentation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The paralysis can be partial or complete; the damage to each nerve can range from bruising to tearing. The most commonly involved root is C5 (aka <a href="/wiki/Erb%27s_point_(neurology)" title="Erb's point (neurology)" class="mw-redirect">Erb's point</a>: the union of C5 &amp; C6 roots)<sup id="cite_ref-MosbysDictionary3rded_8-0" class="reference"><a href="#cite_note-MosbysDictionary3rded-8"><span>[</span>8<span>]</span></a></sup> as this is mechanically the furthest point from the force of traction, therefore, the first/most affected.<sup id="cite_ref-GraysAnatomy35th1046_6-1" class="reference"><a href="#cite_note-GraysAnatomy35th1046-6"><span>[</span>6<span>]</span></a></sup> Erb–Duchenne palsy presents as a <a href="/wiki/Lower_motor_neuron" title="Lower motor neuron">lower motor neuron</a> syndrome associated with sensibility disturbance and vegetative phenomena.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The most commonly involved nerves are the <a href="/wiki/Suprascapular_nerve" title="Suprascapular nerve">suprascapular nerve</a>, <a href="/wiki/Musculocutaneous_nerve" title="Musculocutaneous nerve">musculocutaneous nerve</a>, and the <a href="/wiki/Axillary_nerve" title="Axillary nerve">axillary nerve</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-GraysAnatomy35th1037-1039_11-0" class="reference"><a href="#cite_note-GraysAnatomy35th1037-1039-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>The signs of Erb's Palsy include loss of sensation in the arm and paralysis and atrophy of the deltoid, biceps, and brachialis muscles.<sup id="cite_ref-MosbysDictionary3rded_8-1" class="reference"><a href="#cite_note-MosbysDictionary3rded-8"><span>[</span>8<span>]</span></a></sup> "The position of the limb, under such conditions, is characteristic: the arm hangs by the side and is rotated medially; the forearm is extended and pronated. The arm cannot be raised from the side; all power of flexion of the elbow is lost, as is also supination of the forearm".<sup id="cite_ref-GraysAnatomy35th1046_6-2" class="reference"><a href="#cite_note-GraysAnatomy35th1046-6"><span>[</span>6<span>]</span></a></sup> The resulting biceps damage is the main cause of this classic physical position commonly called "waiter's tip."</p>
+<p>If the injury occurs at age early enough to affect development (e.g. as a neonate or infant), it often leaves the patient with stunted growth in the affected arm with everything from the shoulder through to the fingertips smaller than the unaffected arm. This also leaves the patient with impaired muscular, nervous and circulatory development. The lack of muscular development leads to the arm being much weaker than the unaffected one, and less articulate, with many patients unable to lift the arm above shoulder height unaided, as well as leaving many with an elbow contracture.</p>
+<p>The lack of development to the circulatory system can leave the arm with almost no ability to regulate its temperature, which often proves problematic during winter months when it would need to be closely monitored to ensure that the temperature of the arm was not dropping too far below that of the rest of the body. However the damage to the circulatory system also leaves the arm with another problem. It reduces the healing ability of the skin, so that skin damage takes far longer than usual to heal, and infections in the arm can be quite common if cuts are not sterilized as soon as possible. This will often cause many problems for children since they often injure themselves in the course of their childhoods.</p>
+<p>The nervous damage is often the most problematic of the side effects to Erb's Palsy, but it is also the most varying. There have been cases of patients who have lost complete sensory perception within the arm after procedures whereas they had full sensory perception before. The most common area for a loss of sensory perception (except where the arm faces a total loss) is that between the shoulder and the elbow since the nerves which provide information from that area to the brain are also those first damaged in the initial causative trauma.</p>
+<h2><span class="mw-headline" id="Appearance_and_pain">Appearance and pain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=3" title="Edit section: Appearance and pain">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The appearance of the affected arm (or arms) depends on the individual case. In some cases the arm may lack the ability to straighten or rotate but otherwise function normally giving the overall appearance of the arm to be stiff and crooked. Whereas in other circumstances the arm has little to no control and has a "loose" appearance. Treatment such as physiotherapy, massage and electrical stimulation can help to prevent this early on (or throughout) the patient's life by strengthening the arm.</p>
+<p>In some cases, again, individuals may suffer a great deal of discomfort. For example, they may experience a severe cramping pain that lasts for some time and is particularly painful after they have slept running from the shoulder, all the way down to the wrist. Although pain does not affect everyone with Erbs Palsy, it can be extremely uncomfortable to those that it does and can even cause patients to be physically sick or faint. This extreme nerve pain is mostly common during the final stages of growth and almost always eases off in time. Other pains that Erbs Palsy sufferers might endure include strained muscle, stiffness, circulatory problems and cramp. Different factors are dependent on the severity of the condition and can vary, so whilst some patient experience a lot of pain, some patients may experience no pain at all and for their affected arm to simply be visually crooked.</p>
+<p>Discomfort with the shoulder blade is also extremely common in Erb's palsy as the shoulder is often at risk of dislocation. This can result, again, in sickness or lack of sleep.</p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=4" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some babies recover on their own; however, some may require specialist intervention.</p>
+<p>Neonatal/pediatric neurosurgery is often required for <a href="/wiki/Avulsion_fracture" title="Avulsion fracture">avulsion fracture</a> repair. Lesions may heal over time and function return. Physiotherapeutic care is often required to regain muscle usage.</p>
+<p>Although range of motion is recovered in many children under one year in age, individuals who have not yet healed after this point will rarely gain full function in their arm and may develop <a href="/wiki/Arthritis" title="Arthritis">arthritis</a>.</p>
+<p>The three most common treatments for Erb's Palsy are: Nerve transfers (usually from the opposite arm or limb), Sub Scapularis releases and Latissimus Dorsi Tendon Transfers.</p>
+<p>Nerve transfers are usually performed on babies under the age of 9 months since the fast development of younger babies increases the effectiveness of the procedure. They are not usually carried out on patients older than this because when the procedure is done on older infants, more harm than good is done and can result in nerve damage in the area where the nerves were taken from. Scarring can vary from faint scars along the lines of the neck to full "T" shapes across the whole shoulder depending on the training of the surgeon and the nature of the transplant.</p>
+<p>Subscapularis releases, however, are not time limited. Since it is merely cutting a "Z" shape into the subscapularis muscle to provide stretch within the arm, it can be carried out at almost any age and can be carried out repeatedly on the same arm; however, this will compromise the integrity of the muscle.</p>
+<p>Latissimus Dorsi Tendon Transfers involve cutting the Latissimus Dorsi in half horizontally in order to 'pull' part of the muscle around and attach it to the outside of the biceps. This procedure provides external rotation with varying degrees of success. A side effect may be increased sensitivity of the part of the biceps where the muscle will now lie, since the Latissimus Dorsi has roughly twice the number of nerve endings per square inch of other muscles.</p>
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=5" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The renowned British obstetrician <a href="/wiki/William_Smellie_(obstetrician)" title="William Smellie (obstetrician)">William Smellie</a> is credited with the first medical description of an obstetric <a href="/wiki/Brachial_plexus" title="Brachial plexus">brachial plexus</a> palsy. In his 1768 treatise on midwifery, he reported a case of transient bilateral arm paralysis in a newborn after difficult labour.</p>
+<p>In 1861, <a href="/wiki/Guillaume_Benjamin_Amand_Duchenne" title="Guillaume Benjamin Amand Duchenne" class="mw-redirect">Guillaume Benjamin Amand Duchenne</a> coined the term "obstetric palsy of the brachial plexus" after analyzing 4 infants with paralysis of identical muscles in the arm and shoulder, after publishing his initial findings in 1855.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> In 1874, <a href="/wiki/Wilhelm_Heinrich_Erb" title="Wilhelm Heinrich Erb">Wilhelm Heinrich Erb</a> concluded in his thesis on adult brachial plexus injuries that associated palsies of the <a href="/wiki/Deltoid_muscle" title="Deltoid muscle">deltoid</a>, <a href="/wiki/Biceps" title="Biceps">biceps</a> and <a href="/wiki/Subscapularis" title="Subscapularis" class="mw-redirect">subscapularis</a> are derived from a radicular lesion at the level of C5 and C6 rather than isolated peripheral nerve lesions.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Notable_people_with_Erb.27s_palsy">Notable people with Erb's palsy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=6" title="Edit section: Notable people with Erb's palsy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Notable individuals afflicted by Erb's palsy were <a href="/wiki/Wilhelm_II,_German_Emperor" title="Wilhelm II, German Emperor">Emperor Wilhelm II of Germany</a>,<sup id="cite_ref-pmid1285448_15-0" class="reference"><a href="#cite_note-pmid1285448-15"><span>[</span>15<span>]</span></a></sup> and Canadian journalist <a href="/wiki/Barbara_Frum" title="Barbara Frum">Barbara Frum</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup> <a href="/wiki/Martin_Sheen" title="Martin Sheen">Martin Sheen</a> was injured during birth and developed the condition in his left arm.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>]</sup> His difference in arm length and range of motion can be seen in his movies, especially <i><a href="/wiki/Apocalypse_Now" title="Apocalypse Now">Apocalypse Now</a></i>. Despite her condition, professional wrestler <a href="/wiki/Traci_Brooks" title="Traci Brooks">Traci Brooks</a> has achieved a successful career. Another is former Iowa Hawkeyes standout defensive lineman <a href="/wiki/Adrian_Clayborn" title="Adrian Clayborn">Adrian Clayborn</a>. Additionally, gangster rapper and Academy Award winner <a href="/wiki/DJ_Paul" title="DJ Paul">DJ Paul</a> of <a href="/wiki/Three_Six_Mafia" title="Three Six Mafia" class="mw-redirect">Three Six Mafia</a> also has a deformed arm from the condition, which he often hides by wearing a cast during public appearances.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Klumpke%27s_paralysis" title="Klumpke's paralysis" class="mw-redirect">Klumpke's paralysis</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-GraysAnatomy35th-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-GraysAnatomy35th_1-0">^</a></b></span> <span class="reference-text"><span class="citation book">Warwick, R., &amp; Williams, P.L, ed. (1973). <i>Gray’s Anatomy</i> (35th ed.). London: Longman.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.btitle=Gray%E2%80%99s+Anatomy&amp;rft.date=1973&amp;rft.edition=35th&amp;rft.genre=book&amp;rft.place=London&amp;rft.pub=Longman&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> pp.1037–1047</span></li>
+<li id="cite_note-Tortora.26Anagnostakos-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tortora.26Anagnostakos_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">Tortora, G.J., &amp; Anagnostakos, N.P. (1990). <i>Principles of Anatomy and Physiology</i> (6th ed.). New York: Harper &amp; Row. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-046694-4" title="Special:BookSources/0-06-046694-4">0-06-046694-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.aulast=Tortora%2C+G.J.%2C+%26+Anagnostakos%2C+N.P.&amp;rft.au=Tortora%2C+G.J.%2C+%26+Anagnostakos%2C+N.P.&amp;rft.btitle=Principles+of+Anatomy+and+Physiology&amp;rft.date=1990&amp;rft.edition=6th&amp;rft.genre=book&amp;rft.isbn=0-06-046694-4&amp;rft.place=New+York&amp;rft.pub=Harper+%26+Row&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> pp.370–374</span></li>
+<li id="cite_note-Abrahams-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Abrahams_3-0">^</a></b></span> <span class="reference-text"><span class="citation book">Abrahams, P (2002). <i>The Atlas of the Human Body: A Complete Guide to How the Body Works</i>. Leicester, U.K.: Silverdale Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85605-699-6" title="Special:BookSources/1-85605-699-6">1-85605-699-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.au=Abrahams%2C+P&amp;rft.aulast=Abrahams%2C+P&amp;rft.btitle=The+Atlas+of+the+Human+Body%3A+A+Complete+Guide+to+How+the+Body+Works&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=1-85605-699-6&amp;rft.place=Leicester%2C+U.K.&amp;rft.pub=Silverdale+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> pp.76–77</span></li>
+<li id="cite_note-adam-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-adam_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-adam_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://adam.about.com/encyclopedia/infectiousdiseases/Brachial-palsy-in-newborns.htm">A.D.A.M Healthcare center</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ninds.nih.gov/disorders/brachial_plexus_birth/brachial_plexus_birth.htm">Erb–Duchenne and Dejerine–Klumpke Palsies Information Page: National Institute of Neurological Disorders and Stroke (NINDS)</a></span></li>
+<li id="cite_note-GraysAnatomy35th1046-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-GraysAnatomy35th1046_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GraysAnatomy35th1046_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GraysAnatomy35th1046_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Warwick, R., &amp; Williams, P.L. (1973) p.1046</span></li>
+<li id="cite_note-pmid9396889-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9396889_7-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Peleg D, Hasnin J, Shalev E (1997). "Fractured clavicle and Erb's palsy unrelated to birth trauma". <i>American Journal of Obstet. Gynecol.</i> <b>177</b> (5): 1038–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0002-9378%2897%2970010-3">10.1016/S0002-9378(97)70010-3</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9396889">9396889</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.atitle=Fractured+clavicle+and+Erb%27s+palsy+unrelated+to+birth+trauma&amp;rft.aulast=Peleg+D%2C+Hasnin+J%2C+Shalev+E&amp;rft.au=Peleg+D%2C+Hasnin+J%2C+Shalev+E&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0002-9378%2897%2970010-3&amp;rft_id=info%3Apmid%2F9396889&amp;rft.issue=5&amp;rft.jtitle=American+Journal+of+Obstet.+Gynecol.&amp;rft.pages=1038-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=177" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MosbysDictionary3rded-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-MosbysDictionary3rded_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MosbysDictionary3rded_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Glanze, W.D., Anderson, K.N., &amp; Anderson, L.E, ed. (1990). <i><a href="/wiki/Mosby%27s_Medical,_Nursing_%26_Allied_Health_Dictionary" title="Mosby's Medical, Nursing &amp; Allied Health Dictionary" class="mw-redirect">Mosby's Medical, Nursing &amp; Allied Health Dictionary</a></i> (3rd ed.). St. Louis, Missouri: The C.V. Mosby Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8016-3227-7" title="Special:BookSources/0-8016-3227-7">0-8016-3227-7</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.btitle=Mosby%27s+Medical%2C+Nursing+%26+Allied+Health+Dictionary&amp;rft.date=1990&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-8016-3227-7&amp;rft.place=St.+Louis%2C+Missouri&amp;rft.pub=The+C.V.+Mosby+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> p.437</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Gherman, Diomid. Neurologie şi neurochirurgie&#160;: manual / D. Gherman, I. Moldovanu, G. Zapuhlâh&#160;; USMF "Nicolae Testemiţanu". - Chişinău&#160;: Medicina, 2003. - 528 p. - <a href="/wiki/Special:BookSources/9975907393" class="internal mw-magiclink-isbn">ISBN 9975-907-39-3</a>, Page 207 Afectiunile nervilor membrului superior, <a rel="nofollow" class="external free" href="http://library.usmf.md/ebooks.php?key=b60">http://library.usmf.md/ebooks.php?key=b60</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wesnorman.com/clinicalconsiderations.htm">clinicalconsiderations</a> at The Anatomy Lesson by Wesley Norman (Georgetown University)</span></li>
+<li id="cite_note-GraysAnatomy35th1037-1039-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-GraysAnatomy35th1037-1039_11-0">^</a></b></span> <span class="reference-text">Warwick, R., &amp; Williams, P.L. (1973) pp.1037–1039</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/946.html">synd/946</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Duchenne, G. B. A. (1855). "<span lang="fr" xml:lang="fr">De l’éléctrisation localisée et de son application à la pathologie et à la thérapeutique</span>". Paris: Baillière.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.au=Duchenne%2C+G.+B.+A.&amp;rft.aufirst=G.+B.+A.&amp;rft.aulast=Duchenne&amp;rft.btitle=%3Cspan+lang%3D%22fr%22++%3EDe+l%E2%80%99%C3%A9l%C3%A9ctrisation+localis%C3%A9e+et+de+son+application+%C3%A0+la+pathologie+et+%C3%A0+la+th%C3%A9rapeutique%3C%2Fspan%3ECategory%3AArticles+containing+French-language+text&amp;rft.date=1855&amp;rft.genre=book&amp;rft.place=Paris&amp;rft.pub=Bailli%C3%A8re&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(French)</span>.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation journal">Erb, W. (1874). "<span lang="de" xml:lang="de">Ueber eine eigenthümliche Localisation von Lähmungen im Plexus brachialis</span>". <i><span lang="de" xml:lang="de">Verhandlungen des naturhistorisch-medicinischen Vereins zu Heidelberg</span></i> <b>2</b>: 130–137.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.atitle=%3Cspan+lang%3D%22de%22++%3EUeber+eine+eigenth%C3%BCmliche+Localisation+von+L%C3%A4hmungen+im+Plexus+brachialis%3C%2Fspan%3ECategory%3AArticles+containing+German-language+text&amp;rft.au=Erb%2C+W.&amp;rft.aufirst=W.&amp;rft.aulast=Erb&amp;rft.date=1874&amp;rft.genre=article&amp;rft.jtitle=%3Cspan+lang%3D%22de%22++%3EVerhandlungen+des+naturhistorisch-medicinischen+Vereins+zu+Heidelberg%3C%2Fspan%3ECategory%3AArticles+containing+German-language+text&amp;rft.pages=130-137&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-pmid1285448-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid1285448_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Ober WB (1992). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2589601">"Obstetrical events that shaped Western European history"</a>. <i>The Yale journal of biology and medicine</i> <b>65</b> (3): 201–10. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2589601">2589601</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1285448">1285448</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.atitle=Obstetrical+events+that+shaped+Western+European+history&amp;rft.aulast=Ober+WB&amp;rft.au=Ober+WB&amp;rft.date=1992&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2589601&amp;rft_id=info%3Apmc%2F2589601&amp;rft_id=info%3Apmid%2F1285448&amp;rft.issue=3&amp;rft.jtitle=The+Yale+journal+of+biology+and+medicine&amp;rft.pages=201-10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=65" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.erbspalsygroup.co.uk">Erb's Palsy Group</a></li>
+<li><i><a rel="nofollow" class="external text" href="http://www.ninds.nih.gov/disorders/brachial_plexus">brachial_plexus</a></i> at <a href="/wiki/National_Institute_of_Neurological_Disorders_and_Stroke" title="National Institute of Neurological Disorders and Stroke">NINDS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wheelessonline.com/ortho/Erbs_palsy">Erbs_palsy</a> at the <a href="/wiki/Duke_University_Health_System" title="Duke University Health System">Duke University Health System</a>'s Orthopedics program</li>
+<li><span class="citation journal">Watt AJ, Niederbichler AD, Yang LJ, Chung KC (2007). "Wilhelm Heinrich Erb, M.D. (1840 to 1921): a historical perspective on Erb's palsy". <i>Plast. Reconstr. Surg.</i> <b>119</b> (7): 2161–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F01.prs.0000260726.74745.b8">10.1097/01.prs.0000260726.74745.b8</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17519716">17519716</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AErb%27s+palsy&amp;rft.atitle=Wilhelm+Heinrich+Erb%2C+M.D.+%281840+to+1921%29%3A+a+historical+perspective+on+Erb%27s+palsy&amp;rft.aulast=Watt+AJ%2C+Niederbichler+AD%2C+Yang+LJ%2C+Chung+KC&amp;rft.au=Watt+AJ%2C+Niederbichler+AD%2C+Yang+LJ%2C+Chung+KC&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2F01.prs.0000260726.74745.b8&amp;rft_id=info%3Apmid%2F17519716&amp;rft.issue=7&amp;rft.jtitle=Plast.+Reconstr.+Surg.&amp;rft.pages=2161-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=119" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.ubpn.org">United Brachial Plexus Network</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.erbpalsy.org">Erb's Palsy Awareness Center</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Pediatric_conditions_originating_in_the_perinatal_period" title="Template:Pediatric conditions originating in the perinatal period"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Pediatric_conditions_originating_in_the_perinatal_period" title="Template talk:Pediatric conditions originating in the perinatal period"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Pediatric_conditions_originating_in_the_perinatal_period&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Certain conditions originating in the <a href="/wiki/Perinatal" title="Perinatal" class="mw-redirect">perinatal</a> period / <a href="/wiki/Fetal_disease" title="Fetal disease">fetal disease</a> (<a href="/wiki/ICD-10_Chapter_XVI:_Certain_conditions_originating_in_the_perinatal_period" title="ICD-10 Chapter XVI: Certain conditions originating in the perinatal period">P</a>, <a href="/wiki/List_of_ICD-9_codes_760%E2%80%93779:_certain_conditions_originating_in_the_perinatal_period" title="List of ICD-9 codes 760–779: certain conditions originating in the perinatal period">760–779</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Maternal factors and<br />
+complications of pregnancy,<br />
+labour and delivery</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Placental_disease" title="Placental disease">placenta</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Placenta_praevia" title="Placenta praevia">Placenta praevia</a></li>
+<li><a href="/wiki/Placental_insufficiency" title="Placental insufficiency">Placental insufficiency</a></li>
+<li><a href="/wiki/Twin-to-twin_transfusion_syndrome" title="Twin-to-twin transfusion syndrome">Twin-to-twin transfusion syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Chorion" title="Chorion">chorion</a>/<a href="/wiki/Amnion" title="Amnion">amnion</a>:</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chorioamnionitis" title="Chorioamnionitis">Chorioamnionitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Umbilical_cord#Problems_and_abnormalities" title="Umbilical cord">umbilical cord</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Umbilical_cord_prolapse" title="Umbilical cord prolapse">Umbilical cord prolapse</a></li>
+<li><a href="/wiki/Nuchal_cord" title="Nuchal cord">Nuchal cord</a></li>
+<li><a href="/wiki/Single_umbilical_artery" title="Single umbilical artery">Single umbilical artery</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Length of gestation<br />
+and fetal growth</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Small_for_gestational_age" title="Small for gestational age">Small for gestational age</a>/<a href="/wiki/Large_for_gestational_age" title="Large for gestational age">Large for gestational age</a></li>
+<li><a href="/wiki/Preterm_birth" title="Preterm birth">Preterm birth</a>/<a href="/wiki/Postterm_pregnancy" title="Postterm pregnancy">Postmature birth</a></li>
+<li><a href="/wiki/Intrauterine_growth_restriction" title="Intrauterine growth restriction">Intrauterine growth restriction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Birth_trauma_(physical)" title="Birth trauma (physical)">Birth trauma</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Scalp" title="Scalp">scalp</a></i>
+<ul>
+<li><a href="/wiki/Cephalhematoma" title="Cephalhematoma">Cephalhematoma</a></li>
+<li><a href="/wiki/Chignon_(medical_term)" title="Chignon (medical term)">Chignon</a></li>
+<li><a href="/wiki/Caput_succedaneum" title="Caput succedaneum">Caput succedaneum</a></li>
+<li><a href="/wiki/Subgaleal_hemorrhage" title="Subgaleal hemorrhage">Subgaleal hemorrhage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Brachial_plexus_injury" title="Brachial plexus injury">Brachial plexus lesion</a>
+<ul>
+<li><strong class="selflink">Erb's palsy</strong></li>
+<li><a href="/wiki/Klumpke_paralysis" title="Klumpke paralysis">Klumpke paralysis</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By system</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Respiratory_disease" title="Respiratory disease">Respiratory</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Intrauterine_hypoxia" title="Intrauterine hypoxia">Intrauterine hypoxia</a></li>
+<li><a href="/wiki/Infant_respiratory_distress_syndrome" title="Infant respiratory distress syndrome">Infant respiratory distress syndrome</a></li>
+<li><a href="/wiki/Transient_tachypnea_of_the_newborn" title="Transient tachypnea of the newborn">Transient tachypnea of the newborn</a></li>
+<li><a href="/wiki/Meconium_aspiration_syndrome" title="Meconium aspiration syndrome">Meconium aspiration syndrome</a></li>
+<li><i><a href="/wiki/Pleural_disease" title="Pleural disease">pleural disease</a></i>
+<ul>
+<li><a href="/wiki/Pneumothorax" title="Pneumothorax">Pneumothorax</a></li>
+<li><a href="/wiki/Pneumomediastinum" title="Pneumomediastinum">Pneumomediastinum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wilson%E2%80%93Mikity_syndrome" title="Wilson–Mikity syndrome">Wilson–Mikity syndrome</a></li>
+<li><a href="/wiki/Bronchopulmonary_dysplasia" title="Bronchopulmonary dysplasia">Bronchopulmonary dysplasia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cardiovascular_disease" title="Cardiovascular disease">Cardiovascular</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pneumopericardium" title="Pneumopericardium">Pneumopericardium</a></li>
+<li><a href="/wiki/Persistent_fetal_circulation" title="Persistent fetal circulation">Persistent fetal circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bleeding" title="Bleeding">Haemorrhagic</a> and<br />
+<a href="/wiki/Hematologic_disease" title="Hematologic disease">hematologic disease</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vitamin_K_deficiency" title="Vitamin K deficiency">Vitamin K deficiency</a>
+<ul>
+<li><a href="/wiki/Haemorrhagic_disease_of_the_newborn" title="Haemorrhagic disease of the newborn">Haemorrhagic disease of the newborn</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Hemolytic_disease_of_the_newborn" title="Hemolytic disease of the newborn">HDN</a>
+<ul>
+<li><a href="/wiki/Hemolytic_disease_of_the_newborn_(ABO)" title="Hemolytic disease of the newborn (ABO)">ABO</a></li>
+<li><a href="/wiki/Hemolytic_disease_of_the_newborn_(anti-Kell)" title="Hemolytic disease of the newborn (anti-Kell)">Anti-Kell</a></li>
+<li><a href="/wiki/Hemolytic_disease_of_the_newborn_(anti-Rhc)" title="Hemolytic disease of the newborn (anti-Rhc)">Rh c</a></li>
+<li><a href="/wiki/Rh_disease" title="Rh disease">Rh D</a></li>
+<li><a href="/wiki/Hemolytic_disease_of_the_newborn_(anti-RhE)" title="Hemolytic disease of the newborn (anti-RhE)">Rh E</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydrops_fetalis" title="Hydrops fetalis">Hydrops fetalis</a></li>
+<li><a href="/wiki/Hyperbilirubinemia" title="Hyperbilirubinemia" class="mw-redirect">Hyperbilirubinemia</a>
+<ul>
+<li><a href="/wiki/Kernicterus" title="Kernicterus">Kernicterus</a></li>
+<li><a href="/wiki/Neonatal_jaundice" title="Neonatal jaundice">Neonatal jaundice</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Velamentous_cord_insertion" title="Velamentous cord insertion">Velamentous cord insertion</a></li>
+<li><a href="/wiki/Intraventricular_hemorrhage" title="Intraventricular hemorrhage">Intraventricular hemorrhage</a>
+<ul>
+<li><a href="/wiki/Germinal_matrix_hemorrhage" title="Germinal matrix hemorrhage">Germinal matrix hemorrhage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Anemia_of_prematurity" title="Anemia of prematurity">Anemia of prematurity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Gastrointestinal_disease" title="Gastrointestinal disease">Digestive</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ileus" title="Ileus">Ileus</a></li>
+<li><a href="/wiki/Necrotizing_enterocolitis" title="Necrotizing enterocolitis">Necrotizing enterocolitis</a></li>
+<li><a href="/wiki/Meconium_peritonitis" title="Meconium peritonitis">Meconium peritonitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Integumentary_system" title="Integumentary system">Integument</a> and<br />
+<a href="/wiki/Thermoregulation" title="Thermoregulation">thermoregulation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Erythema_toxicum_neonatorum" title="Erythema toxicum neonatorum">Erythema toxicum</a></li>
+<li><a href="/wiki/Sclerema_neonatorum" title="Sclerema neonatorum">Sclerema neonatorum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nervous_system_disease" title="Nervous system disease">Nervous system</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Periventricular_leukomalacia" title="Periventricular leukomalacia">Periventricular leukomalacia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Musculoskeletal_disorder" title="Musculoskeletal disorder">Musculoskeletal</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gray_baby_syndrome" title="Gray baby syndrome">Gray baby syndrome</a></li>
+<li><i><a href="/wiki/Muscle_tone" title="Muscle tone">muscle tone</a></i>
+<ul>
+<li><a href="/wiki/Hypertonia" title="Hypertonia">Congenital hypertonia</a></li>
+<li><a href="/wiki/Hypotonia" title="Hypotonia">Congenital hypotonia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Infectious</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vertically_transmitted_infection" title="Vertically transmitted infection">Vertically transmitted infection</a>
+<ul>
+<li><a href="/wiki/Congenital_rubella_syndrome" title="Congenital rubella syndrome">Congenital rubella syndrome</a></li>
+<li><a href="/wiki/Neonatal_herpes_simplex" title="Neonatal herpes simplex">Neonatal herpes simplex</a></li>
+<li><a href="/wiki/Mycoplasma_hominis_infection" title="Mycoplasma hominis infection">Mycoplasma hominis infection</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Omphalitis" title="Omphalitis" class="mw-redirect">Omphalitis</a></li>
+<li><a href="/wiki/Neonatal_sepsis" title="Neonatal sepsis">Neonatal sepsis</a>
+<ul>
+<li><a href="/wiki/Group_B_streptococcal_infection" title="Group B streptococcal infection">Group B streptococcal infection</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neonatal_conjunctivitis" title="Neonatal conjunctivitis">Neonatal conjunctivitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Perinatal_mortality" title="Perinatal mortality">Perinatal mortality</a>
+<ul>
+<li><a href="/wiki/Stillbirth" title="Stillbirth">Stillbirth</a></li>
+<li><a href="/wiki/Infant_mortality" title="Infant mortality">Infant mortality</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Neonatal_withdrawal" title="Neonatal withdrawal">Neonatal withdrawal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="text-align:center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Congenital_disease_navs" title="Template:Congenital disease navs"><span title="View this template" style="text-align:center;;;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Congenital_disease_navs" title="Template talk:Congenital disease navs" class="mw-redirect"><span title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Congenital_disease_navs&amp;action=edit"><span title="Edit this template" style="text-align:center;;;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Embryology" title="Embryology">developmental</a> medicine</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Embryology
+<ul>
+<li><a href="/wiki/Template:Embryology" title="Template:Embryology">foetus</a></li>
+<li><a href="/wiki/Template:Extraembryonic_and_fetal_membranes" title="Template:Extraembryonic and fetal membranes">membranes</a></li>
+</ul>
+</li>
+<li>Cell lines
+<ul>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_endoderm" title="Template:Human cell types derived primarily from endoderm">endoderm</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">mesoderm</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_ectoderm" title="Template:Human cell types derived primarily from ectoderm">ectoderm</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align:center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Congenital_malformation_due_to_exogenous_toxicity" title="Template:Congenital malformation due to exogenous toxicity">Due to toxins</a></li>
+<li><a href="/wiki/Template:Multiple_abnormalities" title="Template:Multiple abnormalities">Syndromes</a></li>
+<li><a href="/wiki/Template:Chromosomal_abnormalities" title="Template:Chromosomal abnormalities">Chromosomal</a></li>
+<li><a href="/wiki/Template:Pediatric_conditions_originating_in_the_perinatal_period" title="Template:Pediatric conditions originating in the perinatal period">Neonate</a></li>
+<li><a href="/wiki/Template:Twin_conditions" title="Template:Twin conditions">Twins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Obstetric_navs" title="Template:Obstetric navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Obstetric_navs" title="Template talk:Obstetric navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Obstetric_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Obstetrics" title="Obstetrics">obstetrics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Pregnancy" title="Template:Pregnancy">Pregnancy</a></li>
+<li><a href="/wiki/Template:Embryology" title="Template:Embryology">Development</a></li>
+<li><a href="/wiki/Template:Female_reproductive_system" title="Template:Female reproductive system">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Extraembryonic_and_fetal_membranes" title="Template:Extraembryonic and fetal membranes">membranes</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Pathology_of_pregnancy,_childbirth_and_the_puerperium" title="Template:Pathology of pregnancy, childbirth and the puerperium">Pregnancy and childbirth</a></li>
+<li><a href="/wiki/Template:Pediatric_conditions_originating_in_the_perinatal_period" title="Template:Pediatric conditions originating in the perinatal period">Placenta and neonate</a></li>
+<li><a href="/wiki/Template:Vertically_transmitted_infection" title="Template:Vertically transmitted infection">Infections</a></li>
+<li><a href="/wiki/Template:Obstetric_signs_and_symptoms" title="Template:Obstetric signs and symptoms">Symptoms and signs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Obstetrical_procedures" title="Template:Obstetrical procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Uterotonic" title="Template:Uterotonic">oxytocins</a></li>
+<li><a href="/wiki/Template:Labor_repressants" title="Template:Labor repressants">labor repressants</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1084
+CPU time usage: 0.393 seconds
+Real time usage: 0.487 seconds
+Preprocessor visited node count: 1659/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88440/2097152 bytes
+Template argument size: 1819/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.132/10.000 seconds
+Lua memory usage: 3.36 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  373.873      1 - -total
+ 34.97%  130.761      1 - Template:Reflist
+ 25.66%   95.923      1 - Template:Infobox_disease
+ 22.56%   84.334      1 - Template:Infobox
+ 22.01%   82.287      5 - Template:Navbox
+ 16.71%   62.458      1 - Template:Certain_conditions_originating_in_the_perinatal_period
+ 15.41%   57.603      8 - Template:Category_handler
+ 14.35%   53.638      2 - Template:Citation_needed
+ 12.08%   45.172      2 - Template:Fix
+ 11.93%   44.597      5 - Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1558987-0!*!0!!en!4!* and timestamp 20150704215702 and revision id 666607551
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Erb%27s_palsy&amp;oldid=666607551">https://en.wikipedia.org/w/index.php?title=Erb%27s_palsy&amp;oldid=666607551</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Neurological_disorders" title="Category:Neurological disorders">Neurological disorders</a></li><li><a href="/wiki/Category:Birth_trauma" title="Category:Birth trauma">Birth trauma</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_with_French-language_external_links" title="Category:Articles with French-language external links">Articles with French-language external links</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2011" title="Category:Articles with unsourced statements from December 2011">Articles with unsourced statements from December 2011</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Erb%27s+palsy&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Erb%27s+palsy" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Erb%27s_palsy"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Erb%27s_palsy"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Erb%27s_palsy" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Erb%27s_palsy&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Erb%27s_palsy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Erb%27s_palsy" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Erb%27s_palsy&amp;oldid=666607551" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Erb%27s_palsy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2736543" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Erb%27s_palsy&amp;id=666607551" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Erb%27s+palsy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Erb%27s+palsy&amp;oldid=666607551&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Erb%27s_palsy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B4%D9%84%D9%84_%D8%A5%D9%8A%D8%B1%D8%A8" title="شلل إيرب – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Par%C3%A1lisis_de_Erb-Duchenne" title="Parálisis de Erb-Duchenne – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A9%D7%99%D7%AA%D7%95%D7%A7_%D7%A2%D7%9C_%D7%A9%D7%9D_%D7%90%D7%A8%D7%91" title="שיתוק על שם ארב – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Erbse_parese" title="Erbse parese – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Niedow%C5%82ad_Erba" title="Niedowład Erba – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Paralisia_de_Erb" title="Paralisia de Erb – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Erb_Di%C5%A1enova_paraliza" title="Erb Dišenova paraliza – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2736543#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 June 2015, at 10:29.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Erb%27s_palsy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1211"});
+}</script>
+	</body>
+</html>

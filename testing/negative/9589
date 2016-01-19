@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>User Account Control - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/User_Account_Control" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=User_Account_Control&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=User_Account_Control&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/User_Account_Control" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/User_Account_Control" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"User_Account_Control","wgTitle":"User Account Control","wgCurRevisionId":646036733,"wgRevisionId":646036733,"wgArticleId":4359671,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Microsoft Windows security technology","Windows Vista","Windows 7"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"User_Account_Control","wgRelevantArticleId":4359671,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/5/51/Windows_7_UAC.png/100px-Windows_7_UAC.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q818381"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-User_Account_Control skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">User Account Control</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:312px;"><a href="/wiki/File:Windows_7_UAC.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/51/Windows_7_UAC.png/310px-Windows_7_UAC.png" width="310" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/51/Windows_7_UAC.png/465px-Windows_7_UAC.png 1.5x, //upload.wikimedia.org/wikipedia/en/5/51/Windows_7_UAC.png 2x" data-file-width="466" data-file-height="263" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Windows_7_UAC.png" class="internal" title="Enlarge"></a></div>
+User Account Control dialog in <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a> when loading unsigned code</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:312px;"><a href="/wiki/File:Windows_7_UAC_Signedcode.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/44/Windows_7_UAC_Signedcode.png/310px-Windows_7_UAC_Signedcode.png" width="310" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/44/Windows_7_UAC_Signedcode.png/465px-Windows_7_UAC_Signedcode.png 1.5x, //upload.wikimedia.org/wikipedia/en/4/44/Windows_7_UAC_Signedcode.png 2x" data-file-width="466" data-file-height="246" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Windows_7_UAC_Signedcode.png" class="internal" title="Enlarge"></a></div>
+User Account Control dialog in <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a> when loading signed code</div>
+</div>
+</div>
+<p><b>User Account Control</b> (<b>UAC</b>) is a technology and security infrastructure introduced with <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>'s <a href="/wiki/Windows_Vista" title="Windows Vista">Windows Vista</a> and <a href="/wiki/Windows_Server_2008" title="Windows Server 2008">Windows Server 2008</a> <a href="/wiki/Operating_system" title="Operating system">operating systems</a>, with a more relaxed<sup id="cite_ref-winsupersiteuac_1-0" class="reference"><a href="#cite_note-winsupersiteuac-1"><span>[</span>1<span>]</span></a></sup> version also present in <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a>, <a href="/wiki/Windows_Server_2008_R2" title="Windows Server 2008 R2">Windows Server 2008 R2</a>, <a href="/wiki/Windows_8" title="Windows 8">Windows 8</a>, and <a href="/wiki/Windows_Server_2012" title="Windows Server 2012">Windows Server 2012</a>. It aims to improve the security of <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> by limiting <a href="/wiki/Application_software" title="Application software">application software</a> to standard <a href="/wiki/User_privilege" title="User privilege" class="mw-redirect">user privileges</a> until an <a href="/wiki/System_administrator" title="System administrator">administrator</a> authorizes an increase or elevation. In this way, only applications trusted by the user may receive administrative privileges, and <a href="/wiki/Malware" title="Malware">malware</a> should be kept from compromising the operating system. In other words, a user account may have administrator privileges assigned to it, but applications that the user runs do not inherit those privileges unless they are approved beforehand or the user explicitly authorizes it.</p>
+<p>To reduce the possibility of lower-privilege applications communicating with higher-privilege ones, another new technology, <a href="/wiki/User_Interface_Privilege_Isolation" title="User Interface Privilege Isolation">User Interface Privilege Isolation</a>, is used in conjunction with User Account Control to isolate these processes from each other.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> One prominent use of this is <a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">Internet Explorer 7</a>'s "Protected Mode".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tasks_that_trigger_a_UAC_prompt"><span class="tocnumber">2</span> <span class="toctext">Tasks that trigger a UAC prompt</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Features"><span class="tocnumber">3</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Requesting_elevation"><span class="tocnumber">4</span> <span class="toctext">Requesting elevation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Criticism"><span class="tocnumber">5</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Operating systems on mainframes and on servers have differentiated between <a href="/wiki/Superusers" title="Superusers" class="mw-redirect">superusers</a> and <a href="/wiki/Userland_(computing)" title="Userland (computing)" class="mw-redirect">userland</a> for decades. This had an obvious security component, but also an administrative component, in that it prevented users from accidentally changing system settings.</p>
+<p>Early Microsoft home operating-systems (such as <a href="/wiki/MS-DOS" title="MS-DOS">MS-DOS</a>, <a href="/wiki/Windows_95" title="Windows 95">Windows 95</a>, <a href="/wiki/Windows_98" title="Windows 98">Windows 98</a> and <a href="/wiki/Windows_Me" title="Windows Me" class="mw-redirect">Windows Me</a>) did not have a concept of different user-accounts on the same machine, and all applications enjoyed system-wide privileges rivaling (Windows 95, Windows 98, and Windows Me) or equal to (MS-DOS, Windows versions 1.0-3.11) the operating system itself. <a href="/wiki/Windows_NT" title="Windows NT">Windows NT</a> introduced multiple user-accounts, but in practice most users continued to function as an administrator for their normal operations. Further, some applications would require the user be an administrator for some or all of their functions to work.<sup id="cite_ref-Channel_9_4-0" class="reference"><a href="#cite_note-Channel_9-4"><span>[</span>4<span>]</span></a></sup> Subsequent versions of Windows and Microsoft applications encouraged the use of non-administrator user-logons, yet some applications continued to require it. To be certified Windows-compliant by Microsoft, and be able to use the Windows-compliant logo with their packaging, applications must not have required administrator privileges.</p>
+<p>Microsoft developed Vista security firstly from the <i>Limited User Account</i> (LUA), then renamed the concept to <i>User Account Protection</i> (UAP) before finally shipping User Account Control (UAC).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Introduced in <a href="/wiki/Windows_Vista" title="Windows Vista">Windows Vista</a>, User Account Control (UAC) offers an integrated, balanced approach to encourage "super-user when necessary". The key to UAC lies in its ability to elevate privileges without changing the user context (user "Bob" is still user "Bob"). As always, it is difficult to introduce new security features without breaking compatibility with existing applications.</p>
+<p>When someone logs into Vista as a standard user, the system sets up a logon session and assigns a <a href="/wiki/Token_(Windows_NT_architecture)" title="Token (Windows NT architecture)" class="mw-redirect">token</a> containing only the most basic privileges. In this way, the new logon session cannot make changes that would affect the entire system. When logging in as a user in the Administrators group, two separate tokens are assigned. The first token contains all privileges typically awarded to an administrator, and the second is a restricted token similar to what a standard user would receive. User applications, including the <a href="/wiki/Windows_Shell" title="Windows Shell" class="mw-redirect">Windows Shell</a>, then start with the restricted token, resulting in a reduced-privilege environment - even under an Administrator account. When an application requests higher privileges or when a user clicks a "Run as administrator" option, UAC will prompt standard users to enter the credentials of an Administrator account and prompt Administrators for confirmation and, if consent is given, continue or start the process using an unrestricted token.<sup id="cite_ref-kennykerr_6-0" class="reference"><a href="#cite_note-kennykerr-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>In <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a>, Microsoft included a user interface to change User Account Control settings, and introduced one new notification mode, the <i>default</i> setting. By default, UAC does not prompt for consent when users make changes to Windows settings that require elevated permission through programs stored in&#160;%SystemRoot% and digitally signed by Microsoft. Programs that require permission to run still trigger a prompt. Other User Account Control settings that can be changed through the new UI could have been accessed through the registry in Windows Vista.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Tasks_that_trigger_a_UAC_prompt">Tasks that trigger a UAC prompt</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=2" title="Edit section: Tasks that trigger a UAC prompt">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tasks that require administrator privileges will trigger a UAC prompt (if UAC is enabled); they are typically marked by a security shield icon with the 4 colors of the Windows logo (in Vista and Windows Server 2008) or with two panels yellow and two blue (Windows 7 and Server 2008 R2). In the case of executable files, the icon will have a security shield overlay. The following tasks require administrator privileges:<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<ul>
+<li>Running an Application as an Administrator</li>
+<li>Changes to system-wide settings or to files in&#160;%SystemRoot% or&#160;%ProgramFiles%</li>
+<li>Installing and uninstalling applications</li>
+<li>Installing device drivers</li>
+<li>Installing ActiveX controls</li>
+<li>Changing settings for Windows Firewall</li>
+<li>Changing UAC settings</li>
+<li>Configuring Windows Update</li>
+<li>Adding or removing user accounts</li>
+<li>Changing a user’s account type</li>
+<li>Configuring Parental Controls</li>
+<li>Running Task Scheduler</li>
+<li>Restoring backed-up system files</li>
+<li>Viewing or changing another user’s folders and files</li>
+<li>Running Disk Defragmenter</li>
+</ul>
+<p>Common tasks, such as changing the time zone, do not require administrator privileges<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> (although changing the system time itself does, since the system time is commonly used in security protocols such as <a href="/wiki/Kerberos_(protocol)" title="Kerberos (protocol)">Kerberos</a>). A number of tasks that required administrator privileges in earlier versions of Windows, such as installing critical Windows updates, no longer do so in Vista.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Any program can be run as administrator by right-clicking its icon and clicking "Run as administrator", except MSI or MSU packages as, due to their nature, if administrator rights will be required a prompt will usually be shown. Should this fail, the only workaround is to run a Command Prompt as an administrator and launch the MSI or MSP package from there.</p>
+<h2><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=3" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>User Account Control asks for credentials in a <i>Secure Desktop</i> mode, where the entire screen is temporarily dimmed, <a href="/wiki/Windows_Aero" title="Windows Aero">Windows Aero</a> disabled, and only the authorization window at full brightness, to present only the elevation user interface (UI). Normal applications cannot interact with the Secure Desktop. This helps prevent spoofing, such as overlaying different text or graphics on top of the elevation request, or tweaking the mouse pointer to click the confirmation button when that's not what the user intended.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> If an administrative activity comes from a minimized application, the secure desktop request will also be minimized so as to prevent the <a href="/wiki/Focus_(computing)" title="Focus (computing)">focus</a> from being lost. It is possible to disable <i>Secure Desktop</i>, though this is inadvisable from a security perspective.<sup id="cite_ref-bott.2Cedd_.282007.29_13-0" class="reference"><a href="#cite_note-bott.2Cedd_.282007.29-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>Applications written with the assumption that the user will be running with administrator privileges experienced problems in earlier versions of Windows when run from limited user accounts, often because they attempted to write to machine-wide or system directories (such as <i>Program Files</i>) or registry keys (notably <a href="/wiki/HKEY_LOCAL_MACHINE" title="HKEY LOCAL MACHINE" class="mw-redirect">HKLM</a>).<sup id="cite_ref-Channel_9_4-1" class="reference"><a href="#cite_note-Channel_9-4"><span>[</span>4<span>]</span></a></sup> UAC attempts to alleviate this using <i>File and Registry Virtualization</i>, which redirects writes (and subsequent reads) to a per-user location within the user's profile. For example, if an application attempts to write to a directory such as "C:\Program Files\appname\settings.ini" to which the user does not have write permission, the write will be redirected to "C:\Users\username\AppData\Local\VirtualStore\Program Files\appname\settings.ini". The redirection feature is only provided for non-elevated 32-bit applications, and only if they do not include a manifest that requests specific privileges.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>There are a number of configurable UAC settings. It is possible to:<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<ul>
+<li>Require administrators to re-enter their password for heightened security;</li>
+<li>Require the user to press <a href="/wiki/Control-Alt-Delete" title="Control-Alt-Delete">Ctrl+Alt+Del</a> as part of the authentication process for heightened security;</li>
+<li>Disable only file and registry virtualization <sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></li>
+<li>Disable <i>Admin Approval Mode</i> (UAC prompts for administrators) entirely; note that, while this disables the UAC confirmation dialogs, it does not disable Windows' built-in <a href="/wiki/Principle_of_least_privilege" title="Principle of least privilege">LUA</a> feature, which means that users, even those marked as administrators, are still limited users with no true administrative access.</li>
+</ul>
+<p><a href="/wiki/Command_Prompt_(Windows)" title="Command Prompt (Windows)" class="mw-redirect">Command Prompt</a> windows that are running elevated will prefix the title of the window with the word "Administrator", so that a user can discern which instances are running with elevated privileges.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>A distinction is made between elevation requests from a signed executable and an unsigned executable; and if the former, whether the publisher is 'Windows Vista'. The color, icon, and wording of the prompts are different in each case; for example, attempting to convey a greater sense of warning if the executable is unsigned than if not.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p><a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">Internet Explorer 7</a>'s "Protected Mode" feature uses UAC to run with a 'low' <a href="/wiki/Mandatory_Integrity_Control" title="Mandatory Integrity Control">integrity level</a> (a Standard user token has an integrity level of 'medium'; an elevated (Administrator) token has an integrity level of 'high'). As such, it effectively runs in a sandbox, unable to write to most of the system (apart from the Temporary Internet Files folder) without elevating via UAC.<sup id="cite_ref-kennykerr_6-1" class="reference"><a href="#cite_note-kennykerr-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-MRtechnet_19-0" class="reference"><a href="#cite_note-MRtechnet-19"><span>[</span>19<span>]</span></a></sup> Since toolbars and ActiveX controls run within the Internet Explorer process, they will run with low privileges as well, and will be severely limited in what damage they can do to the system.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Requesting_elevation">Requesting elevation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=4" title="Edit section: Requesting elevation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A program can request elevation in a number of different ways. One way for program developers is to add a requestedPrivileges section to an XML document, known as the <a href="/wiki/Manifest_(CLI)" title="Manifest (CLI)">manifest</a>, that is then embedded into the application. A manifest can specify dependencies, visual styles, and now the appropriate security context:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="cp">&lt;?xml version="1.0" encoding="UTF-8" standalone="yes"?&gt;</span>
+<span class="nt">&lt;assembly</span> <span class="na">xmlns=</span><span class="s">"urn:schemas-microsoft-com:asm.v1"</span> <span class="na">manifestVersion=</span><span class="s">"1.0"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;v3:trustInfo</span> <span class="na">xmlns:v3=</span><span class="s">"urn:schemas-microsoft-com:asm.v3"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;v3:security&gt;</span>
+      <span class="nt">&lt;v3:requestedPrivileges&gt;</span>
+        <span class="nt">&lt;v3:requestedExecutionLevel</span> <span class="na">level=</span><span class="s">"highestAvailable"</span><span class="nt">/&gt;</span>
+      <span class="nt">&lt;/v3:requestedPrivileges&gt;</span>
+    <span class="nt">&lt;/v3:security&gt;</span>
+  <span class="nt">&lt;/v3:trustInfo&gt;</span>
+<span class="nt">&lt;/assembly&gt;</span>
+</pre></div>
+<p>Setting the level attribute for requestedExecutionLevel to "asInvoker" will make the application run with the token that started it, "highestAvailable" will present a UAC prompt for administrators and run with the usual reduced privileges for standard users, and "requireAdministrator" will require elevation.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> In both highestAvailable and requireAdministrator modes, failure to provide confirmation results in the program not being launched.</p>
+<p>An executable that is marked as "<code>requireAdministrator</code>" in its manifest cannot be started from a non-elevated process using <code>CreateProcess()</code>. Instead, <code>ERROR_ELEVATION_REQUIRED</code> will be returned. <code>ShellExecute()</code> or <code>ShellExecuteEx()</code> must be used instead. If an <code>HWND</code> is not supplied, then the dialog will show up as a blinking item in the taskbar.</p>
+<p>Inspecting an executable's manifest to determine if it requires elevation is not recommended, as elevation may be required for other reasons (setup executables, application compatibility). However, it is possible to programmatically detect if an executable will require elevation by using <code>CreateProcess()</code> and setting the <code>dwCreationFlags</code> parameter to <code>CREATE_SUSPENDED</code>. If elevation is required, then <code>ERROR_ELEVATION_REQUIRED</code> will be returned.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> If elevation is not required, a success return code will be returned at which point one can use <code>TerminateProcess()</code> on the newly created, suspended process. This will not allow one to detect that an executable requires elevation if one is already executing in an elevated process, however.</p>
+<p>A new process with elevated privileges can be spawned from within a .NET application using the "<code>runas</code>" verb. An example using <a href="/wiki/C_Sharp_(programming_language)" title="C Sharp (programming language)">C#</a>:</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="n">System</span><span class="p">.</span><span class="n">Diagnostics</span><span class="p">.</span><span class="n">Process</span> <span class="n">proc</span> <span class="p">=</span> <span class="k">new</span> <span class="n">System</span><span class="p">.</span><span class="n">Diagnostics</span><span class="p">.</span><span class="n">Process</span><span class="p">();</span>
+<span class="n">proc</span><span class="p">.</span><span class="n">StartInfo</span><span class="p">.</span><span class="n">FileName</span> <span class="p">=</span> <span class="s">"C:\\Windows\\system32\\notepad.exe"</span><span class="p">;</span>
+<span class="n">proc</span><span class="p">.</span><span class="n">StartInfo</span><span class="p">.</span><span class="n">Verb</span> <span class="p">=</span> <span class="s">"runas"</span><span class="p">;</span> <span class="c1">// Elevate the application</span>
+<span class="n">proc</span><span class="p">.</span><span class="n">StartInfo</span><span class="p">.</span><span class="n">UseShellExecute</span> <span class="p">=</span> <span class="k">true</span><span class="p">;</span>
+<span class="n">proc</span><span class="p">.</span><span class="n">Start</span><span class="p">();</span>
+</pre></div>
+<p>In a native <a href="/wiki/Win32" title="Win32" class="mw-redirect">Win32</a> application the same "<code>runas</code>" verb can be added to a <code>ShellExecute()</code> or <code>ShellExecuteEx()</code> call:<sup id="cite_ref-kennykerr_6-2" class="reference"><a href="#cite_note-kennykerr-6"><span>[</span>6<span>]</span></a></sup></p>
+<div class="mw-highlight mw-content-ltr" dir="ltr">
+<pre>
+<span class="n">ShellExecute</span><span class="p">(</span><span class="n">hwnd</span><span class="p">,</span> <span class="s">"runas"</span><span class="p">,</span> <span class="s">"C:</span><span class="se">\\</span><span class="s">Windows</span><span class="se">\\</span><span class="s">Notepad.exe"</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="n">SW_SHOWNORMAL</span><span class="p">);</span>
+</pre></div>
+<p>In the absence of a specific directive stating what privileges the application requests, UAC will apply <a href="/wiki/Heuristic_algorithm" title="Heuristic algorithm" class="mw-redirect">heuristics</a>, to determine whether or not the application needs administrator privileges. For example, if UAC detects that the application is a setup program, from clues such as the filename, versioning fields, or the presence of certain sequences of bytes within the executable, in the absence of a manifest it will assume that the application needs administrator privileges.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=5" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There have been complaints that UAC notifications slow down various tasks on the computer such as the initial installation of software onto Windows Vista.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup> It is possible to turn off UAC while installing software, and re-enable it at a later time.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> However, this is not recommended since, as <a href="/wiki/Windows_Registry#Virtualization" title="Windows Registry">File &amp; Registry Virtualization</a> is only active when UAC is turned on, user settings and configuration files may be installed to a different place (a system directory rather than a user-specific directory) if UAC is switched off than they would be otherwise.<sup id="cite_ref-bott.2Cedd_.282007.29_13-1" class="reference"><a href="#cite_note-bott.2Cedd_.282007.29-13"><span>[</span>13<span>]</span></a></sup> Also <a href="/wiki/Internet_Explorer_7" title="Internet Explorer 7">Internet Explorer 7</a>'s "Protected Mode", whereby the browser runs in a sandbox with lower privileges than the standard user, relies on UAC; and will not function if UAC is disabled.<sup id="cite_ref-MRtechnet_19-1" class="reference"><a href="#cite_note-MRtechnet-19"><span>[</span>19<span>]</span></a></sup></p>
+<p><a href="/wiki/Yankee_Group" title="Yankee Group">Yankee Group</a> analyst Andrew Jaquith stated that "while the new security system shows promise, it is far too chatty and annoying."<sup id="cite_ref-pcworlduac_26-0" class="reference"><a href="#cite_note-pcworlduac-26"><span>[</span>26<span>]</span></a></sup> However, this statement was made over six months before Vista was actually released (even before <a href="/wiki/Development_of_Windows_Vista#Beta_2" title="Development of Windows Vista">Beta 2</a> was released). By the time Windows Vista was released in November 2006, Microsoft had drastically reduced the number of operating system tasks that triggered UAC prompts, and added file and registry virtualization to reduce the number of <a href="/wiki/Legacy_system" title="Legacy system">legacy</a> applications that trigger UAC prompts.<sup id="cite_ref-Channel_9_4-2" class="reference"><a href="#cite_note-Channel_9-4"><span>[</span>4<span>]</span></a></sup> However, David Cross, a product unit manager at Microsoft, stated during the RSA Conference 2008 that UAC was in fact designed to "annoy users," and force independent software vendors to make their programs more secure so that UAC prompts would not be triggered.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> Software written for Windows XP as well as many peripherals would no longer work in Windows Vista or 7 due to the extensive changes made in the introduction of UAC. The compatibility options were also insufficient. In response to these criticisms, Microsoft has altered UAC activity in <a href="/wiki/Windows_7" title="Windows 7">Windows 7</a>. For example, by default users are not prompted to confirm actions initiated with the mouse and keyboard alone such as operating Control Panel applets.</p>
+<p>In a controversial article, New York Times Gadgetwise writer Paul Boutin says: "One recommended way to wring more speed from Vista is to turn off the overly protective User Account Control whose pop-ups are like having your mother hover over your shoulder while you work."<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> Computerworld journalist Preston Gralla described the NYT article as "...one of the worst pieces of technical advice ever issued..." and noted that "...turning off User Account Control... ...will have absolutely no effect on your PC's speed."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Comparison_of_privilege_authorization_features" title="Comparison of privilege authorization features">Comparison of privilege authorization features</a></li>
+<li><a href="/wiki/Secure_attention_key" title="Secure attention key">Secure attention key</a> (SAK)</li>
+<li><a href="/wiki/Features_new_to_Windows_Vista" title="Features new to Windows Vista">Features new to Windows Vista</a></li>
+<li><a href="/wiki/Runas" title="Runas">runas</a></li>
+<li><a href="/wiki/Security_and_safety_features_of_Windows_Vista" title="Security and safety features of Windows Vista" class="mw-redirect">Security and safety features of Windows Vista</a></li>
+<li><a href="/wiki/Sudo" title="Sudo">sudo</a> - A similar feature in UNIX-like operating systems.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-winsupersiteuac-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-winsupersiteuac_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://winsupersite.com/article/windows-7/windows-7-feature-focus-user-account-control">Windows 7 Feature Focus: User Account Control</a>, An overview of UAC in Windows 7 by <a href="/wiki/Paul_Thurott" title="Paul Thurott" class="mw-redirect">Paul Thurott</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://msdn2.microsoft.com/en-us/library/aa905330.aspx">"The Windows Vista and Windows Server 2008 Developer Story: Windows Vista Application Development Requirements for User Account Control (UAC)"</a>. <i>The Windows Vista and Windows Server 2008 Developer Story Series</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>. April 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-10-08</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=The+Windows+Vista+and+Windows+Server+2008+Developer+Story%3A+Windows+Vista+Application+Development+Requirements+for+User+Account+Control+%28UAC%29&amp;rft.date=April+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Faa905330.aspx&amp;rft.jtitle=The+Windows+Vista+and+Windows+Server+2008+Developer+Story+Series&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Marc Silbey, Peter Brundrett (January 2006). <a rel="nofollow" class="external text" href="http://msdn2.microsoft.com/en-us/library/bb250462.aspx">"Understanding and Working in Protected Mode Internet Explorer"</a>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-08</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.aulast=Marc+Silbey%2C+Peter+Brundrett&amp;rft.au=Marc+Silbey%2C+Peter+Brundrett&amp;rft.btitle=Understanding+and+Working+in+Protected+Mode+Internet+Explorer&amp;rft.date=January+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmsdn2.microsoft.com%2Fen-us%2Flibrary%2Fbb250462.aspx&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Channel_9-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Channel_9_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Channel_9_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Channel_9_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Torre, Charles (March 5, 2007). <a rel="nofollow" class="external text" href="http://channel9.msdn.com/ShowPost.aspx?PostID=288259">"UAC - What. How. Why."</a> <span style="font-size:85%;">(VIDEO)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-08</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.aufirst=Charles&amp;rft.aulast=Torre&amp;rft.au=Torre%2C+Charles&amp;rft.btitle=UAC+-+What.+How.+Why.&amp;rft.date=March+5%2C+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fchannel9.msdn.com%2FShowPost.aspx%3FPostID%3D288259&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Michael_Howard_(Microsoft)" title="Michael Howard (Microsoft)">Howard, Michael</a>; LeBlanc, David (2010). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=bRpSUetqwc8C"><i>Writing Secure Code for Windows Vista</i></a>. O'Reilly Media, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780735649316" title="Special:BookSources/9780735649316">9780735649316</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-06</span></span>. <q>UAC started life as the Limited User Account (LUA), then was renamed to User Account Protection (UAP), and finally we got UAC.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.aufirst=Michael&amp;rft.au=Howard%2C+Michael&amp;rft.aulast=Howard&amp;rft.au=LeBlanc%2C+David&amp;rft.btitle=Writing+Secure+Code+for+Windows+Vista&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DbRpSUetqwc8C&amp;rft.isbn=9780735649316&amp;rft.pub=O%27Reilly+Media%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-kennykerr-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-kennykerr_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kennykerr_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-kennykerr_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Kerr, Kenny (September 29, 2006). <a rel="nofollow" class="external text" href="http://weblogs.asp.net/kennykerr/archive/2006/09/29/Windows-Vista-for-Developers-_1320_-Part-4-_1320_-User-Account-Control.aspx">"Windows Vista for Developers – Part 4 – User Account Control"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-03-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.aufirst=Kenny&amp;rft.au=Kerr%2C+Kenny&amp;rft.aulast=Kerr&amp;rft.btitle=Windows+Vista+for+Developers+%E2%80%93+Part+4+%E2%80%93+User+Account+Control&amp;rft.date=September+29%2C+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweblogs.asp.net%2Fkennykerr%2Farchive%2F2006%2F09%2F29%2FWindows-Vista-for-Developers-_1320_-Part-4-_1320_-User-Account-Control.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.askvg.com/how-to-tweak-user-account-control-uac-options-in-windows-vista-home-basic-home-premium/">http://www.askvg.com/how-to-tweak-user-account-control-uac-options-in-windows-vista-home-basic-home-premium/</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">Bott, Ed (2007-02-02). <a rel="nofollow" class="external text" href="http://www.edbott.com/weblog/?p=1602">"What triggers User Account Control prompts?"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.au=Bott%2C+Ed&amp;rft.aufirst=Ed&amp;rft.aulast=Bott&amp;rft.btitle=What+triggers+User+Account+Control+prompts%3F&amp;rft.date=2007-02-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.edbott.com%2Fweblog%2F%3Fp%3D1602&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://windows.microsoft.com/en-us/windows-vista/living-with-and-benefiting-from-user-account-control-from-windows-vista-inside-out">"Living with and benefiting from User Account Control"</a>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>. 2014-12-09.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.btitle=Living+with+and+benefiting+from+User+Account+Control&amp;rft.date=2014-12-09&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwindows.microsoft.com%2Fen-us%2Fwindows-vista%2Fliving-with-and-benefiting-from-user-account-control-from-windows-vista-inside-out&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/James_Allchin" title="James Allchin" class="mw-redirect">Allchin, Jim</a> (2007-01-23). <a rel="nofollow" class="external text" href="http://windowsvistablog.com/blogs/windowsvista/archive/2007/01/23/security-features-vs-convenience.aspx">"Security Features vs. Convenience"</a>. <i>Windows Vista Team Blog</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Security+Features+vs.+Convenience&amp;rft.au=Allchin%2C+Jim&amp;rft.aufirst=Jim&amp;rft.aulast=Allchin&amp;rft.date=2007-01-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwindowsvistablog.com%2Fblogs%2Fwindowsvista%2Farchive%2F2007%2F01%2F23%2Fsecurity-features-vs-convenience.aspx&amp;rft.jtitle=Windows+Vista+Team+Blog&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/windowsvista/aa906021.aspx">"User Account Control Overview"</a>. <i><a href="/wiki/Microsoft_TechNet" title="Microsoft TechNet">TechNet</a></i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=User+Account+Control+Overview&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Fwindowsvista%2Faa906021.aspx&amp;rft.jtitle=TechNet&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blogs.msdn.com/b/uac/archive/2006/05/03/589561.aspx">"User Account Control Prompts on the Secure Desktop"</a>. <i>UACBlog</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>. 4 May 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=User+Account+Control+Prompts+on+the+Secure+Desktop&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.msdn.com%2Fb%2Fuac%2Farchive%2F2006%2F05%2F03%2F589561.aspx&amp;rft.jtitle=UACBlog&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-bott.2Cedd_.282007.29-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-bott.2Cedd_.282007.29_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bott.2Cedd_.282007.29_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Bott, Ed (2 February 2007). <a rel="nofollow" class="external text" href="http://www.edbott.com/weblog/2007/02/what-happens-when-those-tips-dont-work/">"Why you need to be discriminating with those Vista tips"</a>. <i>Ed Bott's Windows Expertise</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Why+you+need+to+be+discriminating+with+those+Vista+tips&amp;rft.au=Bott%2C+Ed&amp;rft.aufirst=Ed&amp;rft.aulast=Bott&amp;rft.date=2+February+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.edbott.com%2Fweblog%2F2007%2F02%2Fwhat-happens-when-those-tips-dont-work%2F&amp;rft.jtitle=Ed+Bott%27s+Windows+Expertise&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/library/ee732424(v=ws.10).aspx">"Determine How to Fix Applications That Are Not Windows 7 Compliant"</a>. <i><a href="/wiki/Microsoft_TechNet" title="Microsoft TechNet">TechNet</a></i>. Microsoft<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-09</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Determine+How+to+Fix+Applications+That+Are+Not+Windows+7+Compliant&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Flibrary%2Fee732424%28v%3Dws.10%29.aspx&amp;rft.jtitle=TechNet&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/bb629436.aspx">"Chapter 2: Defend Against Malware"</a>. <i>Windows Vista Security Guide</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>. November 8, 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Chapter+2%3A+Defend+Against+Malware&amp;rft.date=November+8%2C+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Fbb629436.aspx&amp;rft.jtitle=Windows+Vista+Security+Guide&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/library/dd851895.aspx">User Account Control: Virtualize file and registry write failures to per-user locations</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blogs.msdn.com/uac/archive/2006/08/01/685645.aspx">"Administrator Marking for Command Prompt"</a>. <i>UACBlog</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>. 1 August 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Administrator+Marking+for+Command+Prompt&amp;rft.date=1+August+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.msdn.com%2Fuac%2Farchive%2F2006%2F08%2F01%2F685645.aspx&amp;rft.jtitle=UACBlog&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://windowsvistablog.com/blogs/windowsvista/archive/2007/01/25/accessible-uac-prompts.aspx">"Accessible UAC Prompts"</a>. <i>Windows Vista Blog</i>. Microsoft.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Accessible+UAC+Prompts&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwindowsvistablog.com%2Fblogs%2Fwindowsvista%2Farchive%2F2007%2F01%2F25%2Faccessible-uac-prompts.aspx&amp;rft.jtitle=Windows+Vista+Blog&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MRtechnet-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-MRtechnet_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MRtechnet_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Russinovich, Mark (June 2007). <a rel="nofollow" class="external text" href="http://www.microsoft.com/technet/technetmag/issues/2007/06/UAC/">"Inside Windows Vista User Account Control"</a>. <i><a href="/wiki/TechNet_Magazine" title="TechNet Magazine" class="mw-redirect">TechNet Magazine</a></i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Inside+Windows+Vista+User+Account+Control&amp;rft.aufirst=Mark&amp;rft.aulast=Russinovich&amp;rft.au=Russinovich%2C+Mark&amp;rft.date=June+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.microsoft.com%2Ftechnet%2Ftechnetmag%2Fissues%2F2007%2F06%2FUAC%2F&amp;rft.jtitle=TechNet+Magazine&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web">Friedman, Mike (10 February 2006). <a rel="nofollow" class="external text" href="http://blogs.msdn.com/ie/archive/2006/02/09/528963.aspx">"Protected Mode in Vista IE7"</a>. <i>IEBlog</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Protected+Mode+in+Vista+IE7&amp;rft.aufirst=Mike&amp;rft.au=Friedman%2C+Mike&amp;rft.aulast=Friedman&amp;rft.date=10+February+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.msdn.com%2Fie%2Farchive%2F2006%2F02%2F09%2F528963.aspx&amp;rft.jtitle=IEBlog&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web">Carlisle, Mike (10 March 2007). <a rel="nofollow" class="external text" href="http://www.codeproject.com/KB/vista-security/MakingAppsUACAware.aspx">"Making Your Application UAC Aware"</a>. <i>The Code Project</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Making+Your+Application+UAC+Aware&amp;rft.au=Carlisle%2C+Mike&amp;rft.aufirst=Mike&amp;rft.aulast=Carlisle&amp;rft.date=10+March+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.codeproject.com%2FKB%2Fvista-security%2FMakingAppsUACAware.aspx&amp;rft.jtitle=The+Code+Project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web">Zhang, Junfeng (18 October 2006). <a rel="nofollow" class="external text" href="http://blogs.msdn.com/b/junfeng/archive/2006/10/18/programmatically-determine-if-an-application-requires-elevation-in-windows-vista.aspx">"Programmatically determine if an application requires elevation in Windows Vista"</a>. <i>Junfeng Zhang's Windows Programming Notes</i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Programmatically+determine+if+an+application+requires+elevation+in+Windows+Vista&amp;rft.aufirst=Junfeng&amp;rft.aulast=Zhang&amp;rft.au=Zhang%2C+Junfeng&amp;rft.date=18+October+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fblogs.msdn.com%2Fb%2Fjunfeng%2Farchive%2F2006%2F10%2F18%2Fprogrammatically-determine-if-an-application-requires-elevation-in-windows-vista.aspx&amp;rft.jtitle=Junfeng+Zhang%27s+Windows+Programming+Notes&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://technet.microsoft.com/en-us/library/cc709628(v=ws.10).aspx">"Understanding and Configuring User Account Control in Windows Vista"</a>. <i><a href="/wiki/Microsoft_TechNet" title="Microsoft TechNet">TechNet</a></i>. <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-05</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Understanding+and+Configuring+User+Account+Control+in+Windows+Vista&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Flibrary%2Fcc709628%28v%3Dws.10%29.aspx&amp;rft.jtitle=TechNet&amp;rft.pub=Microsoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web">Trapani, Gina (31 January 2007). <a rel="nofollow" class="external text" href="http://lifehacker.com/software/vista/geek-to-live-windows-vista-upgrade-power-tips-231922.php">"Geek to Live: Windows Vista upgrade power tips"</a>. <i><a href="/wiki/Lifehacker" title="Lifehacker">Lifehacker</a></i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Geek+to+Live%3A+Windows+Vista+upgrade+power+tips&amp;rft.aufirst=Gina&amp;rft.aulast=Trapani&amp;rft.au=Trapani%2C+Gina&amp;rft.date=31+January+2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Flifehacker.com%2Fsoftware%2Fvista%2Fgeek-to-live-windows-vista-upgrade-power-tips-231922.php&amp;rft.jtitle=Lifehacker&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.youtube.com/watch?v=M7Uwx_yaxUM">"Disable UAC in Vista"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.btitle=Disable+UAC+in+Vista&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM7Uwx_yaxUM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pcworlduac-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-pcworlduac_26-0">^</a></b></span> <span class="reference-text"><span class="citation web">Evers, Joris (2006-05-07). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20061210153354/http://news.zdnet.com/2100-1009_22-6069464.html">"Report: Vista to hit anti-spyware, firewall markets"</a>. <i><a href="/wiki/ZDNet" title="ZDNet">ZDNet</a></i>. <a href="/wiki/CBS_Interactive" title="CBS Interactive">CBS Interactive</a>. Archived from <a rel="nofollow" class="external text" href="http://news.zdnet.com/2100-1009_22-6069464.html">the original</a> on 2006-12-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-21</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Report%3A+Vista+to+hit+anti-spyware%2C+firewall+markets&amp;rft.au=Evers%2C+Joris&amp;rft.aufirst=Joris&amp;rft.aulast=Evers&amp;rft.date=2006-05-07&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.zdnet.com%2F2100-1009_22-6069464.html&amp;rft.jtitle=ZDNet&amp;rft.pub=CBS+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web">Espiner, Tom (11 April 2008). <a rel="nofollow" class="external text" href="http://news.cnet.com/Microsoft-Vista-feature-designed-to-annoy-users/2100-1016_3-6237191.html">"Microsoft: Vista feature designed to 'annoy users<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/CNET" title="CNET">CNET</a></i>. <a href="/wiki/CBS_Interactive" title="CBS Interactive">CBS Interactive</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=Microsoft%3A+Vista+feature+designed+to+%27annoy+users%27&amp;rft.au=Espiner%2C+Tom&amp;rft.aufirst=Tom&amp;rft.aulast=Espiner&amp;rft.date=11+April+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2FMicrosoft-Vista-feature-designed-to-annoy-users%2F2100-1016_3-6237191.html&amp;rft.jtitle=CNET&amp;rft.pub=CBS+Interactive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation web">Boutin, Paul (14 May 2009). <a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=9907E5DC1131F937A25756C0A96F9C8B63">"How to Wring a Bit More Speed From Vista"</a>. <i><a href="/wiki/New_York_Times" title="New York Times" class="mw-redirect">New York Times</a> – Gadgetwise</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=How+to+Wring+a+Bit+More+Speed+From+Vista&amp;rft.au=Boutin%2C+Paul&amp;rft.aufirst=Paul&amp;rft.aulast=Boutin&amp;rft.date=14+May+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fquery.nytimes.com%2Fgst%2Ffullpage.html%3Fres%3D9907E5DC1131F937A25756C0A96F9C8B63&amp;rft.jtitle=New+York+Times+%26ndash%3B+Gadgetwise&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web">Gralla, Preston (14 May 2009). <a rel="nofollow" class="external text" href="http://www.pcworld.com/article/164911/nyt_offers_bad_tech_advice.html">"NYT Offers Bad Tech Advice"</a>. <i>PCworld.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+Account+Control&amp;rft.atitle=NYT+Offers+Bad+Tech+Advice&amp;rft.aufirst=Preston&amp;rft.au=Gralla%2C+Preston&amp;rft.aulast=Gralla&amp;rft.date=14+May+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.pcworld.com%2Farticle%2F164911%2Fnyt_offers_bad_tech_advice.html&amp;rft.jtitle=PCworld.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=User_Account_Control&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://windows.microsoft.com/en-US/windows7/turn-user-account-control-on-or-off">Turning UAC On or Off</a> in Windows 7</li>
+<li><a rel="nofollow" class="external text" href="http://technet.microsoft.com/en-us/library/cc731416(WS.10).aspx">Documentation about UAC for Windows 7, Windows Server 2008, Windows Server 2008 R2, Windows Vista</a></li>
+<li><a rel="nofollow" class="external text" href="http://technet2.microsoft.com/WindowsVista/en/library/00d04415-2b2f-422c-b70e-b18ff918c2811033.mspx?mfr=true">UAC Understanding and Configuring</a> More Information at Microsoft Technet</li>
+<li><a rel="nofollow" class="external text" href="http://msdn.microsoft.com/en-us/library/bb530410.aspx">Development Requirements for User Account Control Compatibility</a> More information at Microsoft Developer Network</li>
+<li><a rel="nofollow" class="external text" href="http://blogs.msdn.com/uac/">UAC Team Blog</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Microsoft_Windows_components" title="Template:Microsoft Windows components"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Microsoft_Windows_components" title="Template talk:Microsoft Windows components"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Microsoft_Windows_components&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/List_of_Microsoft_Windows_components" title="List of Microsoft Windows components">Microsoft Windows components</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Management tools</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cmd.exe" title="Cmd.exe">CMD.EXE</a></li>
+<li><a href="/wiki/Control_Panel_(Windows)" title="Control Panel (Windows)">Control Panel</a>
+<ul>
+<li><a href="/wiki/List_of_Control_Panel_applets_(Windows)" title="List of Control Panel applets (Windows)" class="mw-redirect">Applets</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Device_Manager" title="Device Manager">Device Manager</a></li>
+<li><a href="/wiki/Disk_Cleanup" title="Disk Cleanup">Disk Cleanup</a></li>
+<li><a href="/wiki/Disk_Defragmenter_(Windows)" title="Disk Defragmenter (Windows)">Disk Defragmenter</a></li>
+<li><a href="/wiki/Driver_Verifier" title="Driver Verifier">Driver Verifier</a></li>
+<li><a href="/wiki/Event_Viewer" title="Event Viewer">Event Viewer</a></li>
+<li><a href="/wiki/IExpress" title="IExpress">IExpress</a></li>
+<li><a href="/wiki/Microsoft_Management_Console" title="Microsoft Management Console">Management Console</a></li>
+<li><a href="/wiki/Netsh" title="Netsh">Netsh</a></li>
+<li><a href="/wiki/Windows_Error_Reporting" title="Windows Error Reporting">Windows Error Reporting</a></li>
+<li><a href="/wiki/Recovery_Console" title="Recovery Console">Recovery Console</a></li>
+<li><a href="/wiki/Resource_Monitor" title="Resource Monitor">Resource Monitor</a></li>
+<li><a href="/wiki/Microsoft_ScanDisk" title="Microsoft ScanDisk">ScanDisk</a></li>
+<li><a href="/wiki/Sysprep" title="Sysprep">Sysprep</a></li>
+<li><a href="/wiki/MSConfig" title="MSConfig">System Configuration</a></li>
+<li><a href="/wiki/System_File_Checker" title="System File Checker">System File Checker</a></li>
+<li><a href="/wiki/System_Policy_Editor" title="System Policy Editor">System Policy Editor</a></li>
+<li><a href="/wiki/System_Restore" title="System Restore">System Restore</a></li>
+<li><a href="/wiki/Windows_Task_Manager" title="Windows Task Manager" class="mw-redirect">Task Manager</a></li>
+<li><a href="/wiki/Windows_Easy_Transfer" title="Windows Easy Transfer">Windows Easy Transfer</a></li>
+<li><a href="/wiki/Windows_Installer" title="Windows Installer">Windows Installer</a></li>
+<li><a href="/wiki/Windows_PowerShell" title="Windows PowerShell">Windows PowerShell</a></li>
+<li><a href="/wiki/Windows_Update" title="Windows Update">Windows Update</a></li>
+<li><a href="/wiki/Windows_Preinstallation_Environment" title="Windows Preinstallation Environment">WinPE</a></li>
+<li><a href="/wiki/Windows_Recovery_Environment" title="Windows Recovery Environment" class="mw-redirect">WinRE</a></li>
+<li><a href="/wiki/Windows_Management_Instrumentation" title="Windows Management Instrumentation">WMI</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Application_software" title="Application software">Applications</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Calculator_(Windows)" title="Calculator (Windows)">Calculator</a></li>
+<li><a href="/wiki/Character_Map" title="Character Map">Character Map</a></li>
+<li><a href="/wiki/Windows_Contacts" title="Windows Contacts">Contacts</a></li>
+<li><a href="/wiki/Microsoft_Cortana" title="Microsoft Cortana">Cortana</a></li>
+<li><a href="/wiki/Microsoft_Edge" title="Microsoft Edge">Edge</a></li>
+<li><a href="/wiki/Windows_Fax_and_Scan" title="Windows Fax and Scan">Fax and Scan</a></li>
+<li><a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a></li>
+<li><a href="/wiki/Windows_Journal" title="Windows Journal">Journal</a></li>
+<li><a href="/wiki/Magnifier_(Windows)" title="Magnifier (Windows)">Magnifier</a></li>
+<li><a href="/wiki/Windows_Movie_Maker" title="Windows Movie Maker">Movie Maker</a></li>
+<li><a href="/wiki/Windows_Media_Player" title="Windows Media Player">Media Player</a></li>
+<li><a href="/wiki/Windows_Mobile_Device_Center" title="Windows Mobile Device Center">Mobile Device Center</a></li>
+<li><a href="/wiki/Windows_Mobility_Center" title="Windows Mobility Center">Mobility Center</a></li>
+<li><a href="/wiki/Microsoft_Narrator" title="Microsoft Narrator">Narrator</a></li>
+<li><a href="/wiki/Notepad_(software)" title="Notepad (software)">Notepad</a></li>
+<li><a href="/wiki/OneDrive" title="OneDrive">OneDrive</a></li>
+<li><a href="/wiki/Paint_(software)" title="Paint (software)">Paint</a></li>
+<li><a href="/wiki/Windows_Remote_Assistance" title="Windows Remote Assistance">Remote Assistance</a></li>
+<li><a href="/wiki/Snipping_Tool" title="Snipping Tool">Snipping Tool</a></li>
+<li><a href="/wiki/Sound_Recorder_(Windows)" title="Sound Recorder (Windows)">Sound Recorder</a></li>
+<li><a href="/wiki/Windows_Speech_Recognition" title="Windows Speech Recognition">Speech Recognition</a></li>
+<li><a href="/wiki/Windows_Store" title="Windows Store">Store</a></li>
+<li><a href="/wiki/Windows_Photo_Viewer" title="Windows Photo Viewer">Windows Photo Viewer</a></li>
+<li><a href="/wiki/Windows_To_Go" title="Windows To Go">Windows To Go</a></li>
+<li><a href="/wiki/WordPad" title="WordPad">WordPad</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Windows_shell" title="Windows shell">Shell</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Windows_Aero" title="Windows Aero">Aero</a></li>
+<li><a href="/wiki/AutoPlay" title="AutoPlay">AutoPlay</a></li>
+<li><a href="/wiki/AutoRun" title="AutoRun">AutoRun</a></li>
+<li><a href="/wiki/ClearType" title="ClearType">ClearType</a></li>
+<li><a href="/wiki/File_Explorer" title="File Explorer">Explorer</a></li>
+<li><a href="/wiki/Windows_Search" title="Windows Search">Search</a>
+<ul>
+<li><a href="/wiki/IFilter" title="IFilter">IFilter</a></li>
+<li><a href="/wiki/Virtual_folder#Windows" title="Virtual folder">Saved search</a></li>
+<li><a href="/wiki/Windows_Shell_namespace" title="Windows Shell namespace">Namespace</a></li>
+<li><a href="/wiki/Special_folder" title="Special folder">Special folder</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Start_menu" title="Start menu">Start menu</a></li>
+<li><a href="/wiki/Taskbar" title="Taskbar">Taskbar</a></li>
+<li><a href="/wiki/Windows_XP_visual_styles" title="Windows XP visual styles">Windows XP visual styles</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Windows_service" title="Windows service">Services</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Service_Control_Manager" title="Service Control Manager">Service Control Manager</a></li>
+<li><a href="/wiki/Background_Intelligent_Transfer_Service" title="Background Intelligent Transfer Service">BITS</a></li>
+<li><a href="/wiki/Common_Log_File_System" title="Common Log File System">CLFS</a></li>
+<li><a href="/wiki/Multimedia_Class_Scheduler_Service" title="Multimedia Class Scheduler Service">Multimedia Class Scheduler</a></li>
+<li><a href="/wiki/Shadow_Copy" title="Shadow Copy">Shadow Copy</a></li>
+<li><a href="/wiki/Windows_Task_Scheduler" title="Windows Task Scheduler">Task Scheduler</a></li>
+<li><a href="/wiki/Windows_Error_Reporting" title="Windows Error Reporting">Error Reporting</a></li>
+<li><a href="/wiki/Wireless_Zero_Configuration" title="Wireless Zero Configuration">Wireless Zero Configuration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/File_system" title="File system">File systems</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">CDFS</a></li>
+<li><a href="/wiki/Distributed_File_System_(Microsoft)" title="Distributed File System (Microsoft)">DFS</a></li>
+<li><a href="/wiki/ExFAT" title="ExFAT">exFAT</a></li>
+<li><a href="/wiki/Installable_File_System" title="Installable File System">IFS</a></li>
+<li><a href="/wiki/File_Allocation_Table" title="File Allocation Table">FAT</a></li>
+<li><a href="/wiki/NTFS" title="NTFS">NTFS</a>
+<ul>
+<li><a href="/wiki/Hard_link" title="Hard link">Hard link</a></li>
+<li><a href="/wiki/NTFS_junction_point" title="NTFS junction point">Junction point</a></li>
+<li><a href="/wiki/NTFS_volume_mount_point" title="NTFS volume mount point">Mount Point</a></li>
+<li><a href="/wiki/NTFS_reparse_point" title="NTFS reparse point">Reparse point</a></li>
+<li><a href="/wiki/NTFS_symbolic_link" title="NTFS symbolic link">Symbolic link</a></li>
+<li><a href="/wiki/Transactional_NTFS" title="Transactional NTFS">TxF</a></li>
+<li><a href="/wiki/Encrypting_File_System" title="Encrypting File System">EFS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/ReFS" title="ReFS">ReFS</a></li>
+<li><a href="/wiki/Universal_Disk_Format" title="Universal Disk Format">UDF</a></li>
+<li><a href="/wiki/WinFS" title="WinFS">WinFS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Server_(computing)" title="Server (computing)">Server</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Windows_domain" title="Windows domain">Domains</a></li>
+<li><a href="/wiki/Active_Directory" title="Active Directory">Active Directory</a></li>
+<li><a href="/wiki/Microsoft_DNS" title="Microsoft DNS">DNS</a></li>
+<li><a href="/wiki/Group_Policy" title="Group Policy">Group Policy</a></li>
+<li><a href="/wiki/Roaming_user_profile" title="Roaming user profile">Roaming user profiles</a></li>
+<li><a href="/wiki/Folder_redirection" title="Folder redirection">Folder redirection</a></li>
+<li><a href="/wiki/Microsoft_Distributed_Transaction_Coordinator" title="Microsoft Distributed Transaction Coordinator">Distributed Transaction Coordinator</a></li>
+<li><a href="/wiki/Microsoft_Message_Queuing" title="Microsoft Message Queuing">MSMQ</a></li>
+<li><a href="/wiki/Windows_Media_Services" title="Windows Media Services">Windows Media Services</a></li>
+<li><a href="/wiki/Active_Directory_Rights_Management_Services" title="Active Directory Rights Management Services">Rights Management Services</a></li>
+<li><a href="/wiki/Internet_Information_Services" title="Internet Information Services">IIS</a></li>
+<li><a href="/wiki/Remote_Desktop_Services" title="Remote Desktop Services">Remote Desktop Services</a></li>
+<li><a href="/wiki/Windows_Server_Update_Services" title="Windows Server Update Services">WSUS</a></li>
+<li><a href="/wiki/Microsoft_SharePoint" title="Microsoft SharePoint" class="mw-redirect">SharePoint</a></li>
+<li><a href="/wiki/Network_Access_Protection" title="Network Access Protection">Network Access Protection</a></li>
+<li><a href="/wiki/Microsoft_Personal_Web_Server" title="Microsoft Personal Web Server">PWS</a></li>
+<li><a href="/wiki/File_Replication_Service" title="File Replication Service">DFS Replication</a></li>
+<li><a href="/wiki/Remote_Differential_Compression" title="Remote Differential Compression">Remote Differential Compression</a></li>
+<li><a href="/wiki/Print_Services_for_UNIX" title="Print Services for UNIX">Print Services for UNIX</a></li>
+<li><a href="/wiki/Remote_Installation_Services" title="Remote Installation Services">Remote Installation Services</a></li>
+<li><a href="/wiki/Windows_Deployment_Services" title="Windows Deployment Services">Windows Deployment Services</a></li>
+<li><a href="/wiki/Windows_System_Resource_Manager" title="Windows System Resource Manager">System Resource Manager</a></li>
+<li><a href="/wiki/Hyper-V" title="Hyper-V">Hyper-V</a></li>
+<li><a href="/wiki/Server_Core" title="Server Core">Server Core</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Software_architecture" title="Software architecture">Architecture</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architecture_of_Windows_NT" title="Architecture of Windows NT">Architecture of Windows NT</a></li>
+<li><a href="/wiki/Windows_startup_process" title="Windows startup process">Startup process</a></li>
+<li><a href="/wiki/Client/Server_Runtime_Subsystem" title="Client/Server Runtime Subsystem">CSRSS</a></li>
+<li><a href="/wiki/Desktop_Window_Manager" title="Desktop Window Manager">Desktop Window Manager</a></li>
+<li><a href="/wiki/Portable_Executable" title="Portable Executable">Portable Executable</a>
+<ul>
+<li><a href="/wiki/.exe" title=".exe">EXE</a></li>
+<li><a href="/wiki/Dynamic-link_library" title="Dynamic-link library">DLL</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Enhanced_Write_Filter" title="Enhanced Write Filter">Enhanced Write Filter</a></li>
+<li><a href="/wiki/Graphics_Device_Interface" title="Graphics Device Interface">Graphics Device Interface</a></li>
+<li><a href="/wiki/Hal.dll" title="Hal.dll" class="mw-redirect">hal.dll</a></li>
+<li><a href="/wiki/I/O_request_packet" title="I/O request packet">I/O request packet</a></li>
+<li><a href="/wiki/Windows_Imaging_Format" title="Windows Imaging Format">Imaging Format</a></li>
+<li><a href="/wiki/Kernel_Transaction_Manager" title="Kernel Transaction Manager">Kernel Transaction Manager</a></li>
+<li><a href="/wiki/Microsoft_Windows_library_files" title="Microsoft Windows library files">Library files</a></li>
+<li><a href="/wiki/Logical_Disk_Manager" title="Logical Disk Manager">Logical Disk Manager</a></li>
+<li><a href="/wiki/Local_Security_Authority_Subsystem_Service" title="Local Security Authority Subsystem Service">LSASS</a></li>
+<li><a href="/wiki/MinWin" title="MinWin">MinWin</a></li>
+<li><a href="/wiki/NTLDR" title="NTLDR">NTLDR</a></li>
+<li><a href="/wiki/Ntoskrnl.exe" title="Ntoskrnl.exe">Ntoskrnl.exe</a></li>
+<li><a href="/wiki/Object_Manager_(Windows)" title="Object Manager (Windows)">Object Manager</a></li>
+<li><a href="/wiki/Open_XML_Paper_Specification" title="Open XML Paper Specification">Open XML Paper Specification</a></li>
+<li><a href="/wiki/Windows_Registry" title="Windows Registry">Registry</a></li>
+<li><a href="/wiki/Windows_Resource_Protection" title="Windows Resource Protection">Resource Protection</a></li>
+<li><a href="/wiki/Security_Accounts_Manager" title="Security Accounts Manager" class="mw-redirect">Security Accounts Manager</a></li>
+<li><a href="/wiki/Server_Message_Block" title="Server Message Block">Server Message Block</a></li>
+<li><a href="/wiki/Shadow_Copy" title="Shadow Copy">Shadow Copy</a></li>
+<li><a href="/wiki/Session_Manager_Subsystem" title="Session Manager Subsystem">SMSS</a></li>
+<li><a href="/wiki/System_Idle_Process" title="System Idle Process">System Idle Process</a></li>
+<li><a href="/wiki/Windows_USER" title="Windows USER">USER</a></li>
+<li><a href="/wiki/Win32_console" title="Win32 console">Win32 console</a></li>
+<li><a href="/wiki/Winlogon" title="Winlogon">Winlogon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Security" title="Security">Security</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Windows_Action_Center" title="Windows Action Center" class="mw-redirect">Action Center</a></li>
+<li><a href="/wiki/BitLocker" title="BitLocker">BitLocker</a></li>
+<li><a href="/wiki/Data_Execution_Prevention" title="Data Execution Prevention">Data Execution Prevention</a></li>
+<li><a href="/wiki/Microsoft_Family_Safety" title="Microsoft Family Safety">Family Safety</a></li>
+<li><a href="/wiki/Kernel_Patch_Protection" title="Kernel Patch Protection">Kernel Patch Protection</a></li>
+<li><a href="/wiki/Mandatory_Integrity_Control" title="Mandatory Integrity Control">Mandatory Integrity Control</a></li>
+<li><a href="/wiki/Protected_Media_Path" title="Protected Media Path">Protected Media Path</a></li>
+<li><strong class="selflink">User Account Control</strong></li>
+<li><a href="/wiki/User_Interface_Privilege_Isolation" title="User Interface Privilege Isolation">User Interface Privilege Isolation</a></li>
+<li><a href="/wiki/Windows_Defender" title="Windows Defender">Windows Defender</a></li>
+<li><a href="/wiki/Windows_Firewall" title="Windows Firewall">Windows Firewall</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Compatibility_(disambiguation)#Computing" title="Compatibility (disambiguation)" class="mw-redirect">Compatibility</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/COMMAND.COM" title="COMMAND.COM">COMMAND.COM</a></li>
+<li><a href="/wiki/Windows_Services_for_UNIX" title="Windows Services for UNIX">Windows Services for UNIX</a>
+<ul>
+<li><a href="/wiki/Microsoft_POSIX_subsystem" title="Microsoft POSIX subsystem">POSIX subsystem</a></li>
+<li><a href="/wiki/Interix" title="Interix">Interix</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Virtual_DOS_machine" title="Virtual DOS machine">Virtual DOS machine</a></li>
+<li><a href="/wiki/Windows_on_Windows" title="Windows on Windows">Windows on Windows</a></li>
+<li><a href="/wiki/WoW64" title="WoW64">WoW64</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Application_programming_interface" title="Application programming interface">API</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_Scripting" title="Active Scripting">Active Scripting</a>
+<ul>
+<li><a href="/wiki/Windows_Script_Host" title="Windows Script Host">WSH</a></li>
+<li><a href="/wiki/VBScript" title="VBScript">VBScript</a></li>
+<li><a href="/wiki/JScript" title="JScript">JScript</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Component_Object_Model" title="Component Object Model">COM</a>
+<ul>
+<li><a href="/wiki/ActiveX" title="ActiveX">ActiveX</a></li>
+<li><a href="/wiki/ActiveX_Document" title="ActiveX Document">ActiveX Document</a></li>
+<li><a href="/wiki/COM_Structured_Storage" title="COM Structured Storage">COM Structured storage</a></li>
+<li><a href="/wiki/Distributed_Component_Object_Model" title="Distributed Component Object Model">DCOM</a></li>
+<li><a href="/wiki/Object_Linking_and_Embedding" title="Object Linking and Embedding">OLE</a></li>
+<li><a href="/wiki/OLE_Automation" title="OLE Automation">OLE Automation</a></li>
+<li><a href="/wiki/Microsoft_Transaction_Server" title="Microsoft Transaction Server">Transaction Server</a></li>
+</ul>
+</li>
+<li><a href="/wiki/DirectX" title="DirectX">DirectX</a></li>
+<li><a href="/wiki/.NET_Framework" title=".NET Framework">.NET Framework</a></li>
+<li><a href="/wiki/Windows_Holographic" title="Windows Holographic">Windows Holographic</a></li>
+<li><a href="/wiki/Windows_Runtime" title="Windows Runtime">Windows Runtime</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Discontinued" title="Discontinued" class="mw-redirect">Discontinued</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/PC_game" title="PC game">Games</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Full_Tilt!_Pinball#3D_Pinball_for_Windows_.E2.80.93_Space_Cadet" title="Full Tilt! Pinball">3D Pinball</a></li>
+<li><a href="/wiki/Chess_Titans" title="Chess Titans">Chess Titans</a></li>
+<li><a href="/wiki/Microsoft_FreeCell" title="Microsoft FreeCell">FreeCell</a></li>
+<li><a href="/wiki/Microsoft_Hearts" title="Microsoft Hearts">Hearts</a></li>
+<li><a href="/wiki/Hover!" title="Hover!">Hover!</a></li>
+<li><a href="/wiki/InkBall" title="InkBall">InkBall</a></li>
+<li><a href="/wiki/Windows_Ultimate_Extras" title="Windows Ultimate Extras">Hold 'Em</a></li>
+<li><a href="/wiki/Microsoft_Mahjong" title="Microsoft Mahjong">Mahjong Titans</a></li>
+<li><a href="/wiki/Microsoft_Minesweeper" title="Microsoft Minesweeper">Minesweeper</a></li>
+<li><a href="/wiki/Purble_Place" title="Purble Place">Purble Place</a></li>
+<li><a href="/wiki/Reversi" title="Reversi">Reversi</a></li>
+<li><a href="/wiki/Microsoft_Solitaire" title="Microsoft Solitaire">Solitaire</a></li>
+<li><a href="/wiki/Microsoft_Spider_Solitaire" title="Microsoft Spider Solitaire">Spider Solitaire</a></li>
+<li><a href="/wiki/Microsoft_Tinker" title="Microsoft Tinker">Tinker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Others</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ActiveMovie" title="ActiveMovie">ActiveMovie</a></li>
+<li><a href="/wiki/Windows_Anytime_Upgrade" title="Windows Anytime Upgrade">Anytime Upgrade</a></li>
+<li><a href="/wiki/Windows_Address_Book" title="Windows Address Book">Address Book</a></li>
+<li><a href="/wiki/Backup_and_Restore" title="Backup and Restore">Backup and Restore</a></li>
+<li><a href="/wiki/Cardfile" title="Cardfile">Cardfile</a></li>
+<li><a href="/wiki/Windows_CardSpace" title="Windows CardSpace">CardSpace</a></li>
+<li><a href="/wiki/Windows_Desktop_Gadgets" title="Windows Desktop Gadgets">Desktop Gadgets</a></li>
+<li><a href="/wiki/Microsoft_Diagnostics" title="Microsoft Diagnostics">Diagnostics</a></li>
+<li><a href="/wiki/DriveSpace" title="DriveSpace">DriveSpace</a></li>
+<li><a href="/wiki/Windows_DVD_Maker" title="Windows DVD Maker">DVD Maker</a></li>
+<li><a href="/wiki/DVD_Player_(Windows)" title="DVD Player (Windows)">DVD Player</a></li>
+<li><a href="/wiki/Microsoft_Fax" title="Microsoft Fax" class="mw-redirect">Fax</a></li>
+<li><a href="/wiki/File_Manager_(Windows)" title="File Manager (Windows)">File Manager</a></li>
+<li><a href="/wiki/Windows_File_Protection" title="Windows File Protection">File Protection</a></li>
+<li><a href="/wiki/HyperTerminal" title="HyperTerminal" class="mw-redirect">HyperTerminal</a></li>
+<li><a href="/wiki/Microsoft_Internet_Mail_and_News" title="Microsoft Internet Mail and News">Internet Mail and News</a></li>
+<li><a href="/wiki/Windows_Mail" title="Windows Mail">Mail</a></li>
+<li><a href="/wiki/Windows_Media_Center" title="Windows Media Center">Media Center</a></li>
+<li><a href="/wiki/Media_Control_Interface" title="Media Control Interface">Media Control Interface</a></li>
+<li><a href="/wiki/Windows_Meeting_Space" title="Windows Meeting Space">Meeting Space</a></li>
+<li><a href="/wiki/Windows_Messaging" title="Windows Messaging">Messaging</a></li>
+<li><a href="/wiki/Windows_Messenger" title="Windows Messenger">Messenger</a></li>
+<li><a href="/wiki/Microsoft_NetMeeting" title="Microsoft NetMeeting">NetMeeting</a></li>
+<li><a href="/wiki/Next-Generation_Secure_Computing_Base" title="Next-Generation Secure Computing Base">Next-Generation Secure Computing Base</a></li>
+<li><a href="/wiki/NTBackup" title="NTBackup">NTBackup</a></li>
+<li><a href="/wiki/Outlook_Express" title="Outlook Express">Outlook Express</a></li>
+<li><a href="/wiki/Windows_Photo_Gallery" title="Windows Photo Gallery">Photo Gallery</a></li>
+<li><a href="/wiki/Program_Manager" title="Program Manager">Program Manager</a></li>
+<li><a href="/wiki/Video_for_Windows" title="Video for Windows">Video for Windows</a></li>
+<li><a href="/wiki/Windows_SideShow" title="Windows SideShow">Windows SideShow</a></li>
+<li><a href="/wiki/WinHelp" title="WinHelp">WinHelp</a></li>
+<li><a href="/wiki/Windows_System_Assessment_Tool" title="Windows System Assessment Tool">WinSAT</a></li>
+<li><a href="/wiki/Microsoft_Write" title="Microsoft Write">Write</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1089
+CPU time usage: 0.365 seconds
+Real time usage: 0.397 seconds
+Preprocessor visited node count: 1494/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78607/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 2.41 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  233.740      1 - -total
+ 85.19%  199.112      1 - Template:Reflist
+ 59.34%  138.697     25 - Template:Cite_web
+ 14.75%   34.484      1 - Template:Windows_Components
+ 13.96%   32.633      2 - Template:Navbox
+  2.97%    6.937      1 - Template:Cite_book
+  0.91%    2.135      1 - Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4359671-0!*!0!!en!4!* and timestamp 20150711015819 and revision id 646036733
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=User_Account_Control&amp;oldid=646036733">https://en.wikipedia.org/w/index.php?title=User_Account_Control&amp;oldid=646036733</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Microsoft_Windows_security_technology" title="Category:Microsoft Windows security technology">Microsoft Windows security technology</a></li><li><a href="/wiki/Category:Windows_Vista" title="Category:Windows Vista">Windows Vista</a></li><li><a href="/wiki/Category:Windows_7" title="Category:Windows 7">Windows 7</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=User+Account+Control&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=User+Account+Control" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/User_Account_Control"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:User_Account_Control"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/User_Account_Control" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=User_Account_Control&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=User_Account_Control&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/User_Account_Control" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/User_Account_Control" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=User_Account_Control&amp;oldid=646036733" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=User_Account_Control&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q818381" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=User_Account_Control&amp;id=646036733" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=User+Account+Control">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=User+Account+Control&amp;oldid=646036733&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=User_Account_Control&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/User_Account_Control" title="User Account Control – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Benutzerkontensteuerung" title="Benutzerkontensteuerung – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Kasutajakonto_kontroll" title="Kasutajakonto kontroll – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Control_de_cuentas_de_usuario" title="Control de cuentas de usuario – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/User_Account_Control" title="User Account Control – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B3%84%EC%A0%95_%EC%BB%A8%ED%8A%B8%EB%A1%A4" title="사용자 계정 컨트롤 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/User_Account_Control" title="User Account Control – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/User_Account_Control" title="User Account Control – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Gebruikersaccountbeheer" title="Gebruikersaccountbeheer – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E5%88%B6%E5%BE%A1" title="ユーザーアカウント制御 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Kontrola_konta_u%C5%BCytkownika" title="Kontrola konta użytkownika – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/User_Account_Control" title="User Account Control – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%8B%D1%85_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B5%D0%B9_%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Контроль учётных записей пользователей – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/K%C3%A4ytt%C3%A4j%C3%A4tilien_valvonta" title="Käyttäjätilien valvonta – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="//tl.wikipedia.org/wiki/User_Account_Control" title="User Account Control – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/User_Account_Control" title="User Account Control – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%BD%BF%E7%94%A8%E8%80%85%E5%B8%B3%E6%88%B6%E6%8E%A7%E5%88%B6" title="使用者帳戶控制 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q818381#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 February 2015, at 13:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=User_Account_Control&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1111"});
+}</script>
+	</body>
+</html>

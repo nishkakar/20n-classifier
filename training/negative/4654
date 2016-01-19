@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Unibus - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Unibus" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Unibus&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Unibus&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Unibus" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Unibus" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Unibus","wgTitle":"Unibus","wgCurRevisionId":660792691,"wgRevisionId":660792691,"wgArticleId":1300317,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computer buses","DEC hardware"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Unibus","wgRelevantArticleId":1300317,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unibus.jpg/100px-Unibus.jpg","wgULSAcceptLanguageList":["de-de","de","en-us","en","fr"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2071236"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Unibus skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Unibus</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<caption>Unibus</caption>
+<tr>
+<td colspan="2" style="text-align:center">Unibus</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Unibus.jpg" class="image"><img alt="}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unibus.jpg/200px-Unibus.jpg" width="200" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unibus.jpg/300px-Unibus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Unibus.jpg/400px-Unibus.jpg 2x" data-file-width="1433" data-file-height="1084" /></a>
+<div>Unibus backplane (left) and two printed circuit boards</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Year created</th>
+<td>1969<span class="noprint">; 46&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1969</span>)</span></td>
+</tr>
+<tr>
+<th scope="row">Created by</th>
+<td><a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a></td>
+</tr>
+<tr>
+<th scope="row">Width in bits</th>
+<td>18 address, 16 data</td>
+</tr>
+</table>
+<p>The <b>Unibus</b> was the earliest of several <a href="/wiki/Computer_bus" title="Computer bus" class="mw-redirect">computer bus</a> technologies used with <a href="/wiki/PDP-11" title="PDP-11">PDP-11</a> and early <a href="/wiki/VAX" title="VAX">VAX</a> systems manufactured by the <a href="/wiki/Digital_Equipment_Corporation" title="Digital Equipment Corporation">Digital Equipment Corporation</a> (DEC) of <a href="/wiki/Maynard,_Massachusetts" title="Maynard, Massachusetts">Maynard</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>. The Unibus was developed around 1969 by <a href="/wiki/Gordon_Bell" title="Gordon Bell">Gordon Bell</a> and student Harold McFarland while at <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Technical_specifications">Technical specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unibus&amp;action=edit&amp;section=1" title="Edit section: Technical specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Unibus_cable.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibus_cable.jpg/220px-Unibus_cable.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibus_cable.jpg/330px-Unibus_cable.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Unibus_cable.jpg/440px-Unibus_cable.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Unibus_cable.jpg" class="internal" title="Enlarge"></a></div>
+A Unibus connector and extension cable</div>
+</div>
+</div>
+<p>The Unibus is composed of 72 wires (2 connectors x 36 lines per connector). When not counting the power and ground lines, it is usually referred to as a 56 line bus. It can exist within a <a href="/wiki/Backplane" title="Backplane">backplane</a> or on a cable. Up to 20 nodes (devices) can be connected to a single Unibus segment; additional segments can be connected via a bus <a href="/wiki/Repeater" title="Repeater">repeater</a>.</p>
+<p>The bus is completely <a href="/wiki/Asynchronous" title="Asynchronous" class="mw-redirect">asynchronous</a>, allowing a mixture of fast and slow devices. It allows the overlapping of arbitration (selection of the next <i>bus master</i>) while the current bus master is still performing data transfers. The 18 address lines allow the addressing of a maximum of 256&#160;<a href="/wiki/Kibibyte" title="Kibibyte">KiB</a>. Typically, the top 8&#160;KiBw is reserved for the registers of the <a href="/wiki/Memory-mapped_I/O" title="Memory-mapped I/O">memory-mapped I/O</a> devices used in the PDP-11 architecture.</p>
+<p>The design deliberately minimizes the amount of redundant logic required in the system. For example, a system always contains more slave devices than master devices so most of the fancy logic required to implement asynchronous data transfers is forced into the relatively few master devices. For interrupts, only the <i>interrupt-fielding processor</i> needs to contain the complicated timing logic. The end result is that most I/O controllers can be implemented with very simple logic and most of the critical logic is implemented as a custom <a href="/wiki/Integrated_circuit#SSI.2C_MSI_and_LSI" title="Integrated circuit">MSI IC</a>.</p>
+<h2><span class="mw-headline" id="Pinout">Pinout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unibus&amp;action=edit&amp;section=2" title="Edit section: Pinout">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Number</th>
+<th>Name</th>
+<th>Type</th>
+<th>Description</th>
+</tr>
+<tr>
+<td>18</td>
+<td>A00-A17</td>
+<td>1</td>
+<td>Address Lines</td>
+</tr>
+<tr>
+<td>16</td>
+<td>D00-D15</td>
+<td>1</td>
+<td>Data Lines</td>
+</tr>
+<tr>
+<td>4</td>
+<td>BR4-BR7</td>
+<td>1</td>
+<td>Bus (Interrupt) Requests at priorities 4 (lowest) through 7 (highest)</td>
+</tr>
+<tr>
+<td>4</td>
+<td>BG4-BG7</td>
+<td>2</td>
+<td>Bus (Interrupt) Grants at priorities 4 (lowest) through 7 (highest)</td>
+</tr>
+<tr>
+<td>1</td>
+<td>NPR</td>
+<td>1</td>
+<td>Non Processor (DMA) Request</td>
+</tr>
+<tr>
+<td>1</td>
+<td>NPG</td>
+<td>2</td>
+<td>Non Processor (DMA) Grant</td>
+</tr>
+<tr>
+<td>1</td>
+<td>MSYNC</td>
+<td>1</td>
+<td>Master Sync</td>
+</tr>
+<tr>
+<td>1</td>
+<td>SSYNC</td>
+<td>1</td>
+<td>Slave Sync</td>
+</tr>
+<tr>
+<td>1</td>
+<td>BBSY</td>
+<td>1</td>
+<td>Bus Busy</td>
+</tr>
+<tr>
+<td>1</td>
+<td>SACK</td>
+<td>1</td>
+<td>Selection Acknowledge</td>
+</tr>
+<tr>
+<td>1</td>
+<td>INIT</td>
+<td>1</td>
+<td>Bus Init</td>
+</tr>
+<tr>
+<td>1</td>
+<td>INTR</td>
+<td>1</td>
+<td>Interrupt Request</td>
+</tr>
+<tr>
+<td>1</td>
+<td>PA</td>
+<td>1</td>
+<td>Parity control</td>
+</tr>
+<tr>
+<td>1</td>
+<td>PB</td>
+<td>1</td>
+<td>Parity control</td>
+</tr>
+<tr>
+<td>2</td>
+<td>C0-C1</td>
+<td>1</td>
+<td>Control Lines</td>
+</tr>
+<tr>
+<td>1</td>
+<td>ACLO</td>
+<td>3</td>
+<td>AC Low</td>
+</tr>
+<tr>
+<td>1</td>
+<td>DCLO</td>
+<td>3</td>
+<td>DC Low</td>
+</tr>
+<tr>
+<td>2</td>
+<td>+5v</td>
+<td>-</td>
+<td>Power Lines (not counted as part of the 56)</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Gnd</td>
+<td>-</td>
+<td>Ground Lines (not counted as part of the 56)</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Unibus_grant_continuity_card.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Unibus_grant_continuity_card.jpg/220px-Unibus_grant_continuity_card.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Unibus_grant_continuity_card.jpg/330px-Unibus_grant_continuity_card.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Unibus_grant_continuity_card.jpg/440px-Unibus_grant_continuity_card.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Unibus_grant_continuity_card.jpg" class="internal" title="Enlarge"></a></div>
+Unibus grant request continuity card</div>
+</div>
+</div>
+<p>Type 1 lines are a normal multi-sender <a href="/wiki/Wired_logic_connection" title="Wired logic connection">wired-OR</a> bus with pullup resistors on each side of the bus, typically on a <a href="/wiki/Electrical_termination" title="Electrical termination">terminator card</a>.<sup id="cite_ref-specification_2-0" class="reference"><a href="#cite_note-specification-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Type 2 lines are selectively propagated by each card to the next slot -- if the card wants to keep the request grant it will assert the SACK line and not propagate the request to the next slot. If a slot is empty it is necessary to install a "grant continuity card" in the slot to propagate the signal to the next card.<sup id="cite_ref-specification_2-1" class="reference"><a href="#cite_note-specification-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>Type 3 signals are generated by the power supply and have only a single sender. They warn the devices on the bus when the power is about to fail, so those devices can execute an orderly shutdown, and disable operations to prevent spurious writes.<sup id="cite_ref-specification_2-2" class="reference"><a href="#cite_note-specification-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The two control lines (C0 and C1) allowed the selection of four different data transfer cycles:</p>
+<ul>
+<li>DATI (Data In, a read)</li>
+<li>DATIP (Data In/Pause, the first portion of a Read-Modify-Write operation. A DATO or DATOB operation completes this.)</li>
+<li>DATO (Data Out, a word write)</li>
+<li>DATOB (Data Out/Byte, a byte write)</li>
+<li>During an interrupt cycle, a fifth style of transfer was automatically invoked to convey an <i>interrupt vector</i> from the interrupting device to the <i>interrupt-fielding processor</i>.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Unibus&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web">Gardner Hendrie, Interviewer (June 23, 2005). <a rel="nofollow" class="external text" href="http://www.computerhistory.org/collections/accession/102702036">"Bell (Gordon) Oral History"</a>. <i>Reference number: X3202.2006</i>. Computer History Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">May 20,</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnibus&amp;rft.atitle=Bell+%28Gordon%29+Oral+History&amp;rft.au=Gardner+Hendrie%2C+Interviewer&amp;rft.aulast=Gardner+Hendrie%2C+Interviewer&amp;rft.date=June+23%2C+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.computerhistory.org%2Fcollections%2Faccession%2F102702036&amp;rft.jtitle=Reference+number%3A+X3202.2006&amp;rft.pub=Computer+History+Museum&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-specification-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-specification_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-specification_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-specification_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Digital Equipment Corporation (1979). <a rel="nofollow" class="external text" href="http://textfiles.com/bitsavers/pdf/dec/unibus/UnibusSpec1979.pdf">"Unibus Specification"</a> <span style="font-size:85%;">(PDF)</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUnibus&amp;rft.au=Digital+Equipment+Corporation&amp;rft.aulast=Digital+Equipment+Corporation&amp;rft.btitle=Unibus+Specification&amp;rft.date=1979&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ftextfiles.com%2Fbitsavers%2Fpdf%2Fdec%2Funibus%2FUnibusSpec1979.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Computer_bus" title="Template:Computer bus"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Computer_bus" title="Template talk:Computer bus"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Computer_bus&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Bus_(computing)" title="Bus (computing)">Computer bus</a>&#160;–  <a href="/wiki/Technical_standard" title="Technical standard">technical</a> and <a href="/wiki/De_facto_standard" title="De facto standard"><i>de facto</i></a> standards (<a href="/wiki/Wired_communication" title="Wired communication">wired</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/System_bus" title="System bus">System bus</a></li>
+<li><a href="/wiki/Front-side_bus" title="Front-side bus">Front-side bus</a></li>
+<li><a href="/wiki/Back-side_bus" title="Back-side bus">Back-side bus</a></li>
+<li><a href="/wiki/Daisy_chain_(electrical_engineering)" title="Daisy chain (electrical engineering)">Daisy chain</a></li>
+<li><a href="/wiki/Control_bus" title="Control bus">Control bus</a></li>
+<li><a href="/wiki/Address_bus" title="Address bus">Address bus</a></li>
+<li><a href="/wiki/Bus_contention" title="Bus contention">Bus contention</a></li>
+<li><a href="/wiki/Network_on_a_chip" title="Network on a chip">Network on a chip</a></li>
+<li><a href="/wiki/Plug_and_play" title="Plug and play">Plug and play</a></li>
+<li><a href="/wiki/List_of_device_bit_rates#Computer_buses" title="List of device bit rates">List of bus bandwidths</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Standards</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/S-100_bus" title="S-100 bus">S-100 bus</a></li>
+<li><strong class="selflink">Unibus</strong></li>
+<li><a href="/wiki/VAXBI_Bus" title="VAXBI Bus">VAXBI</a></li>
+<li><a href="/wiki/MBus_(SPARC)" title="MBus (SPARC)">MBus</a></li>
+<li><a href="/wiki/STD_Bus" title="STD Bus">STD Bus</a></li>
+<li><a href="/wiki/System_Management_Bus" title="System Management Bus">SMBus</a></li>
+<li><a href="/wiki/Q-Bus" title="Q-Bus">Q-Bus</a></li>
+<li><a href="/wiki/Europe_Card_Bus" title="Europe Card Bus">Europe Card Bus</a></li>
+<li><a href="/wiki/Industry_Standard_Architecture" title="Industry Standard Architecture">ISA</a></li>
+<li><a href="/wiki/STEbus" title="STEbus">STEbus</a></li>
+<li><a href="/wiki/Amiga_Zorro_II" title="Amiga Zorro II">Zorro II</a></li>
+<li><a href="/wiki/Amiga_Zorro_III" title="Amiga Zorro III">Zorro III</a></li>
+<li><a href="/wiki/Computer_Automated_Measurement_and_Control" title="Computer Automated Measurement and Control">CAMAC</a></li>
+<li><a href="/wiki/FASTBUS" title="FASTBUS">FASTBUS</a></li>
+<li><a href="/wiki/Low_Pin_Count" title="Low Pin Count">LPC</a></li>
+<li><a href="/wiki/HP_Precision_Bus" title="HP Precision Bus">HP Precision Bus</a></li>
+<li><a href="/wiki/Extended_Industry_Standard_Architecture" title="Extended Industry Standard Architecture">EISA</a></li>
+<li><a href="/wiki/VMEbus" title="VMEbus">VME</a></li>
+<li><a href="/wiki/VME_eXtensions_for_Instrumentation" title="VME eXtensions for Instrumentation">VXI</a></li>
+<li><a href="/wiki/VXS" title="VXS">VXS</a></li>
+<li><a href="/wiki/NuBus" title="NuBus">NuBus</a></li>
+<li><a href="/wiki/TURBOchannel" title="TURBOchannel">TURBOchannel</a></li>
+<li><a href="/wiki/Micro_Channel_architecture" title="Micro Channel architecture">MCA</a></li>
+<li><a href="/wiki/SBus" title="SBus">SBus</a></li>
+<li><a href="/wiki/VESA_Local_Bus" title="VESA Local Bus">VLB</a></li>
+<li><a href="/wiki/Conventional_PCI" title="Conventional PCI">PCI</a></li>
+<li><a href="/wiki/PCI_eXtensions_for_Instrumentation" title="PCI eXtensions for Instrumentation">PXI</a></li>
+<li><a href="/wiki/GSC_bus" title="GSC bus">HP GSC bus</a></li>
+<li><a href="/wiki/CoreConnect" title="CoreConnect">CoreConnect</a></li>
+<li><a href="/wiki/InfiniBand" title="InfiniBand">InfiniBand</a></li>
+<li><a href="/wiki/Ultra_Port_Architecture" title="Ultra Port Architecture">UPA</a></li>
+<li><a href="/wiki/PCI-X" title="PCI-X">PCI Extended (PCI-X)</a></li>
+<li><a href="/wiki/Accelerated_Graphics_Port" title="Accelerated Graphics Port">AGP</a></li>
+<li><a href="/wiki/PCI_Express" title="PCI Express">PCI Express (PCIe)</a></li>
+<li><a href="/wiki/Direct_Media_Interface" title="Direct Media Interface">Direct Media Interface (DMI)</a></li>
+<li><a href="/wiki/RapidIO" title="RapidIO">RapidIO</a></li>
+<li><a href="/wiki/Intel_QuickPath_Interconnect" title="Intel QuickPath Interconnect">Intel QuickPath Interconnect</a></li>
+<li><a href="/wiki/HyperTransport" title="HyperTransport">HyperTransport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Storage</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ST-506" title="ST-506">ST-506</a></li>
+<li><a href="/wiki/Enhanced_Small_Disk_Interface" title="Enhanced Small Disk Interface">ESDI</a></li>
+<li><a href="/wiki/Storage_Module_Device" title="Storage Module Device">SMD</a></li>
+<li><a href="/wiki/Parallel_ATA" title="Parallel ATA">Parallel ATA (PATA)</a></li>
+<li><a href="/wiki/Serial_Storage_Architecture" title="Serial Storage Architecture">SSA</a></li>
+<li><a href="/wiki/Digital_Storage_Systems_Interconnect" title="Digital Storage Systems Interconnect">DSSI</a></li>
+<li><a href="/wiki/HIPPI" title="HIPPI">HIPPI</a></li>
+<li><a href="/wiki/Serial_ATA" title="Serial ATA">Serial ATA (SATA)</a></li>
+<li><a href="/wiki/ESATA" title="ESATA" class="mw-redirect">eSATA</a></li>
+<li><a href="/wiki/ESATAp" title="ESATAp">eSATAp</a></li>
+<li><a href="/wiki/MSATA" title="MSATA" class="mw-redirect">mSATA</a></li>
+<li><a href="/wiki/SCSI" title="SCSI">SCSI</a></li>
+<li><a href="/wiki/Parallel_SCSI" title="Parallel SCSI">Parallel SCSI</a></li>
+<li><a href="/wiki/Serial_attached_SCSI" title="Serial attached SCSI">SAS</a></li>
+<li><a href="/wiki/Fibre_Channel" title="Fibre Channel">Fibre Channel</a></li>
+<li><a href="/wiki/SATA_Express" title="SATA Express">SATA Express</a></li>
+<li><a href="/wiki/M.2" title="M.2">M.2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Peripheral</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apple_Desktop_Bus" title="Apple Desktop Bus">Apple Desktop Bus</a></li>
+<li><a href="/wiki/HIL_bus" title="HIL bus">HIL</a></li>
+<li><a href="/wiki/MIDI" title="MIDI">MIDI</a></li>
+<li><a href="/wiki/Multibus" title="Multibus">Multibus</a></li>
+<li><a href="/wiki/RS-232" title="RS-232">RS-232</a></li>
+<li><a href="/wiki/RS-422" title="RS-422">RS-422</a></li>
+<li><a href="/wiki/RS-423" title="RS-423">RS-423</a></li>
+<li><a href="/wiki/RS-485" title="RS-485">RS-485</a></li>
+<li><a href="/wiki/DMX512-A" title="DMX512-A" class="mw-redirect">DMX512-A</a></li>
+<li><a href="/wiki/IEEE-488" title="IEEE-488">IEEE-488 (GPIB)</a></li>
+<li><a href="/wiki/IEEE_1284" title="IEEE 1284">IEEE-1284 (parallel port)</a></li>
+<li><a href="/wiki/UNI/O" title="UNI/O">UNI/O</a></li>
+<li><a href="/wiki/ACCESS.bus" title="ACCESS.bus">ACCESS.bus</a></li>
+<li><a href="/wiki/1-Wire" title="1-Wire">1-Wire</a></li>
+<li><a href="/wiki/IEC_61030" title="IEC 61030">D²B</a></li>
+<li><a href="/wiki/I%C2%B2C" title="I²C">I²C</a></li>
+<li><a href="/wiki/Serial_Peripheral_Interface_Bus" title="Serial Peripheral Interface Bus">SPI</a></li>
+<li><a href="/wiki/Parallel_SCSI" title="Parallel SCSI">Parallel SCSI</a></li>
+<li><a href="/wiki/Profibus" title="Profibus">Profibus</a></li>
+<li><a href="/wiki/USB" title="USB">USB</a></li>
+<li><a href="/wiki/IEEE_1394" title="IEEE 1394">IEEE 1394 (FireWire)</a></li>
+<li><a href="/wiki/Camera_Link" title="Camera Link">Camera Link</a></li>
+<li><a href="/wiki/PCI_Express#PCI_Express_External_Cabling" title="PCI Express">External PCIe</a></li>
+<li><a href="/wiki/Thunderbolt_(interface)" title="Thunderbolt (interface)">Thunderbolt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Audio</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADAT_Lightpipe" title="ADAT Lightpipe">ADAT Lightpipe</a></li>
+<li><a href="/wiki/AES3" title="AES3">AES3</a></li>
+<li><a href="/wiki/Intel_High_Definition_Audio" title="Intel High Definition Audio">Intel HD Audio</a></li>
+<li><a href="/wiki/I%C2%B2S" title="I²S">I²S</a></li>
+<li><a href="/wiki/MADI" title="MADI">MADI</a></li>
+<li><a href="/wiki/McASP" title="McASP">McASP</a></li>
+<li><a href="/wiki/S/PDIF" title="S/PDIF">S/PDIF</a></li>
+<li><a href="/wiki/TOSLINK" title="TOSLINK">TOSLINK</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Portable</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PC_Card" title="PC Card">PC Card</a></li>
+<li><a href="/wiki/ExpressCard" title="ExpressCard">ExpressCard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Embedded</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Multidrop_bus" title="Multidrop bus">Multidrop bus</a></li>
+<li><a href="/wiki/Advanced_Microcontroller_Bus_Architecture" title="Advanced Microcontroller Bus Architecture">AMBA</a></li>
+<li><a href="/wiki/Wishbone_(computer_bus)" title="Wishbone (computer bus)">Wishbone</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><small><i>Note: interfaces are listed in speed ascending order (roughly), the interface at the end of each section should be the fastest</i></small><br />
+<img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Computer_buses" title="Category:Computer buses">Category</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1029
+CPU time usage: 0.198 seconds
+Real time usage: 0.259 seconds
+Preprocessor visited node count: 545/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23345/2097152 bytes
+Template argument size: 352/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 1.54 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  156.024      1 - -total
+ 42.98%   67.059      1 - Template:Infobox_Computer_Hardware_Bus
+ 38.99%   60.833      1 - Template:Infobox
+ 28.70%   44.782      1 - Template:Reflist
+ 24.78%   38.656      1 - Template:Computer-bus
+ 22.84%   35.632      2 - Template:Cite_web
+ 21.18%   33.045      1 - Template:Navbox
+ 10.11%   15.778      1 - Template:Start_date_and_age
+  6.00%    9.361      1 - Template:Icon
+  3.66%    5.708      1 - Template:Years_or_months_ago
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1300317-0!*!0!!*!4!* and timestamp 20150711201338 and revision id 660792691
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Unibus&amp;oldid=660792691">https://en.wikipedia.org/w/index.php?title=Unibus&amp;oldid=660792691</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_buses" title="Category:Computer buses">Computer buses</a></li><li><a href="/wiki/Category:DEC_hardware" title="Category:DEC hardware">DEC hardware</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Unibus&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Unibus" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Unibus"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Unibus"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Unibus" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Unibus&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Unibus&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Unibus" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Unibus" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Unibus&amp;oldid=660792691" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Unibus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2071236" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Unibus&amp;id=660792691" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Unibus">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Unibus&amp;oldid=660792691&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Unibus&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/Unibus" title="Unibus – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Unibus" title="Unibus – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Unibus" title="Unibus – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2071236#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 May 2015, at 16:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Unibus&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1236"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Reperfusion injury - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Reperfusion_injury" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Reperfusion_injury&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Reperfusion_injury&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Reperfusion_injury" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Reperfusion_injury" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Reperfusion_injury","wgTitle":"Reperfusion injury","wgCurRevisionId":657033012,"wgRevisionId":657033012,"wgArticleId":655995,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Pages containing cite templates with deprecated parameters","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from June 2008","Articles that use a Medicine navs subtemplate","Cardiovascular physiology","Neurotrauma"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Reperfusion_injury","wgRelevantArticleId":655995,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1413991"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Reperfusion_injury skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Reperfusion injury</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Reperfusion injury</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D015427">D015427</a></td>
+</tr>
+</table>
+<p><b>Reperfusion injury</b> is the <a href="/wiki/Tissue_(biology)" title="Tissue (biology)">tissue</a> damage caused when <a href="/wiki/Blood" title="Blood">blood</a> supply returns to the tissue after a period of <a href="/wiki/Ischemia" title="Ischemia">ischemia</a> or lack of oxygen. The absence of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and <a href="/wiki/Nutrient" title="Nutrient">nutrients</a> from blood during the ischemic period creates a condition in which the restoration of <a href="/wiki/Circulatory_system" title="Circulatory system">circulation</a> results in <a href="/wiki/Inflammation" title="Inflammation">inflammation</a> and <a href="/wiki/Oxidation" title="Oxidation" class="mw-redirect">oxidative</a> damage through the induction of <a href="/wiki/Oxidative_stress" title="Oxidative stress">oxidative stress</a> rather than restoration of normal function.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mechanisms"><span class="tocnumber">1</span> <span class="toctext">Mechanisms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Treatment"><span class="tocnumber">2</span> <span class="toctext">Treatment</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Therapeutic_hypothermia"><span class="tocnumber">2.1</span> <span class="toctext">Therapeutic hypothermia</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Hydrogen_sulfide_treatment"><span class="tocnumber">2.2</span> <span class="toctext">Hydrogen sulfide treatment</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Cyclosporine"><span class="tocnumber">2.3</span> <span class="toctext">Cyclosporine</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#TRO40303"><span class="tocnumber">2.4</span> <span class="toctext">TRO40303</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Stem_cell_therapy"><span class="tocnumber">2.5</span> <span class="toctext">Stem cell therapy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Reperfusion_protection_in_obligate_hibernators"><span class="tocnumber">3</span> <span class="toctext">Reperfusion protection in obligate hibernators</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mechanisms">Mechanisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=1" title="Edit section: Mechanisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Reperfusion of ischemic tissues is often associated with microvascular injury, particularly due to increased permeability of capillaries and arterioles that lead to an increase of diffusion and fluid filtration across the tissues. These "activated" endothelial cells produce more <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">reactive oxygen species</a> but less <a href="/wiki/Nitric_oxide" title="Nitric oxide">nitric oxide</a> following reperfusion, and the imbalance results in a subsequent inflammatory response.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> The <a href="/wiki/Inflammatory_response" title="Inflammatory response" class="mw-redirect">inflammatory response</a> is partially responsible for the damage of reperfusion injury. <a href="/wiki/White_blood_cell" title="White blood cell">White blood cells</a>, carried to the area by the newly returning blood, release a host of <a href="/wiki/Cytokine" title="Cytokine">inflammatory factors</a> such as <a href="/wiki/Interleukin" title="Interleukin">interleukins</a> as well as <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">free radicals</a> in response to tissue damage.<sup id="cite_ref-WMClark_2-0" class="reference"><a href="#cite_note-WMClark-2"><span>[</span>2<span>]</span></a></sup> The restored blood flow reintroduces oxygen within <a href="/wiki/Cell_(biology)" title="Cell (biology)">cells</a> that damages cellular <a href="/wiki/Protein" title="Protein">proteins</a>, <a href="/wiki/DNA" title="DNA">DNA</a>, and the <a href="/wiki/Plasma_membrane" title="Plasma membrane" class="mw-redirect">plasma membrane</a>. Damage to the cell's membrane may in turn cause the release of more free radicals. Such reactive species may also act indirectly in <a href="/wiki/Redox_signaling" title="Redox signaling" class="mw-redirect">redox signaling</a> to turn on <a href="/wiki/Apoptosis" title="Apoptosis">apoptosis</a>. White blood cells may also bind to the <a href="/wiki/Endothelium" title="Endothelium">endothelium</a> of small <a href="/wiki/Capillary" title="Capillary">capillaries</a>, obstructing them and leading to more ischemia.<sup id="cite_ref-WMClark_2-1" class="reference"><a href="#cite_note-WMClark-2"><span>[</span>2<span>]</span></a></sup> Another hypothesis would be that normally, tissues contain free radical scavengers to avoid damage by oxidizing species normally contained in the blood. Ischemic tissue would have a decrease function of these scavengers because of cell injury. Once blood flow is reestablished, oxygen species contained in the blood will damage the ischemic tissue because the function of the scavengers is decreased.</p>
+<p>Reperfusion injury plays a part in the <a href="/wiki/Brain" title="Brain">brain</a>'s <a href="/wiki/Ischemic_cascade" title="Ischemic cascade">ischemic cascade</a>, which is involved in <a href="/wiki/Stroke" title="Stroke">stroke</a> and <a href="/wiki/Traumatic_brain_injury" title="Traumatic brain injury">brain trauma</a>. Similar failure processes are involved in brain failure following reversal of <a href="/wiki/Cardiac_arrest" title="Cardiac arrest">cardiac arrest</a>;<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> control of these processes is the subject of ongoing research. Repeated bouts of ischemia and reperfusion injury also are thought to be a factor leading to the formation and failure to <a href="/wiki/Wound_healing" title="Wound healing">heal</a> of <a href="/wiki/Chronic_wound" title="Chronic wound">chronic wounds</a> such as <a href="/wiki/Pressure_sore" title="Pressure sore" class="mw-redirect">pressure sores</a> and <a href="/wiki/Diabetic_foot" title="Diabetic foot">diabetic foot</a> <a href="/wiki/Ulcer_(dermatology)" title="Ulcer (dermatology)">ulcers</a>.<sup id="cite_ref-TMustoe_4-0" class="reference"><a href="#cite_note-TMustoe-4"><span>[</span>4<span>]</span></a></sup> Continuous pressure limits blood supply and causes ischemia, and the inflammation occurs during reperfusion. As this process is repeated, it eventually damages tissue enough to cause a <a href="/wiki/Wound" title="Wound">wound</a>.<sup id="cite_ref-TMustoe_4-1" class="reference"><a href="#cite_note-TMustoe-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>In prolonged ischemia (60 minutes or more), <a href="/wiki/Hypoxanthine" title="Hypoxanthine">hypoxanthine</a> is formed as breakdown product of <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a> metabolism. The enzyme <i><a href="/wiki/Xanthine_dehydrogenase" title="Xanthine dehydrogenase">xanthine dehydrogenase</a></i> acts in reverse, that is as a <i><a href="/wiki/Xanthine_oxidase" title="Xanthine oxidase">xanthine oxidase</a></i> as a result of the higher availability of oxygen. This oxidation results in molecular oxygen being converted into highly reactive <a href="/wiki/Superoxide" title="Superoxide">superoxide</a> and <a href="/wiki/Hydroxyl" title="Hydroxyl">hydroxyl</a> <a href="/wiki/Radical_(chemistry)" title="Radical (chemistry)">radicals</a>. Xanthine oxidase also produces <a href="/wiki/Uric_acid" title="Uric acid">uric acid</a>, which may act as both a prooxidant and as a scavenger of reactive species such as peroxynitrite. Excessive <a href="/wiki/Nitric_oxide" title="Nitric oxide">nitric oxide</a> produced during reperfusion reacts with <a href="/wiki/Superoxide" title="Superoxide">superoxide</a> to produce the potent reactive species <a href="/wiki/Peroxynitrite" title="Peroxynitrite">peroxynitrite</a>. Such radicals and reactive oxygen species attack cell membrane lipids, proteins, and glycosaminoglycans, causing further damage. They may also initiate specific biological processes by <a href="/wiki/Redox_signaling" title="Redox signaling" class="mw-redirect">redox signaling</a>.</p>
+<p>Reperfusion can cause <a href="/wiki/Hyperkalemia" title="Hyperkalemia">hyperkalemia</a>.<sup id="cite_ref-Atlee2007_5-0" class="reference"><a href="#cite_note-Atlee2007-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Reperfusion injury is a primary concern in <a href="/wiki/Liver_transplantation" title="Liver transplantation">liver transplantation</a> surgery.<sup id="cite_ref-Lemasters1997_6-0" class="reference"><a href="#cite_note-Lemasters1997-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=2" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Reperfusion_therapy" title="Reperfusion therapy">Reperfusion therapy</a></div>
+<p>A study of <a href="/wiki/Aortic_cross-clamping" title="Aortic cross-clamping" class="mw-redirect">aortic cross-clamping</a>, a common procedure in <a href="/wiki/Cardiac_surgery" title="Cardiac surgery">cardiac surgery</a>, demonstrated a strong potential benefit with further research ongoing.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2008)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Therapeutic_hypothermia">Therapeutic hypothermia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=3" title="Edit section: Therapeutic hypothermia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An intriguing area of research demonstrates the ability of a reduction in body temperature to limit ischemic injuries. This procedure is called <a href="/wiki/Therapeutic_hypothermia" title="Therapeutic hypothermia" class="mw-redirect">therapeutic hypothermia</a>, and it has been shown by a number of large, high-quality randomised trials to significantly improve survival and reduce brain damage after birth asphyxia in newborn infants, almost doubling the chance of normal survival. For a full review see <a href="/wiki/Hypothermia_therapy_for_neonatal_encephalopathy" title="Hypothermia therapy for neonatal encephalopathy">Hypothermia therapy for neonatal encephalopathy</a>.</p>
+<p>However, the therapeutic effect of hypothermia does not confine itself to metabolism and membrane stability. Another school of thought focuses on hypothermia’s ability to prevent the injuries that occur after circulation returns to the brain, or what is termed <a href="//en.wiktionary.org/wiki/reperfusion" class="extiw" title="wikt:reperfusion">reperfusion</a> injuries. In fact an individual suffering from an ischemic insult continues suffering injuries well after circulation is restored. In rats it has been shown that neurons often die a full 24 hours after blood flow returns. Some theorize that this delayed reaction derives from the various inflammatory immune responses that occur during reperfusion.<sup id="cite_ref-Newsweek_7-0" class="reference"><a href="#cite_note-Newsweek-7"><span>[</span>7<span>]</span></a></sup> These inflammatory responses cause intracranial pressure, pressure which leads to cell injury and in some situations cell death. Hypothermia has been shown to help moderate intracranial pressure and therefore to minimize the harmful effect of a patient’s inflammatory immune responses during reperfusion. Beyond this, reperfusion also increases free radical production. Hypothermia too has been shown to minimize a patient’s production of deadly <a href="/wiki/Free_radicals" title="Free radicals" class="mw-redirect">free radicals</a> during reperfusion. Many now suspect it is because hypothermia reduces both intracranial pressure and free radical production that hypothermia improves patient outcome following a blockage of blood flow to the brain.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Hydrogen_sulfide_treatment">Hydrogen sulfide treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=4" title="Edit section: Hydrogen sulfide treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are some preliminary studies that seem to indicate that treatment with <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">hydrogen sulfide</a> (H<sub>2</sub>S) can have a protective effect against reperfusion injury.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Cyclosporine">Cyclosporine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=5" title="Edit section: Cyclosporine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In addition to its well-known immunosuppressive capabilities, the one-time administration of <a href="/wiki/Cyclosporine" title="Cyclosporine" class="mw-redirect">cyclosporine</a> at the time of <a href="/wiki/Percutaneous_coronary_intervention" title="Percutaneous coronary intervention">percutaneous coronary intervention</a> (PCI) has been found to deliver a 40 percent reduction in infarct size in a small group proof of concept study of human patients with reperfusion injury published in <a href="/wiki/The_New_England_Journal_of_Medicine" title="The New England Journal of Medicine">The New England Journal of Medicine</a> in 2008.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Reperfusion leads to biochemical imbalances within the cell that lead to <a href="/wiki/Cellular_death" title="Cellular death" class="mw-redirect">cell death</a> and increased infarct size. More specifically, <a href="/wiki/Hypercalcaemia" title="Hypercalcaemia">calcium overload</a> and excessive production of <a href="/wiki/Reactive_oxygen_species" title="Reactive oxygen species">reactive oxygen species</a> in the first few minutes after reperfusion set off a cascade of biochemical changes that result in the opening of the so-called <a href="/wiki/Mitochondrial_permeability_transition_pore" title="Mitochondrial permeability transition pore">mitochondrial permeability transition pore</a> (MPT pore) in the mitochondrial membrane of cardiac cells.<sup id="cite_ref-Javadov_S._2007_11-0" class="reference"><a href="#cite_note-Javadov_S._2007-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>The opening of the MPT pore leads to the inrush of water into the mitochondria, resulting in mitochondrial dysfunction and collapse. Upon collapse, the calcium is then released to overwhelm the next mitochondria in a cascading series of events that cause mitochondrial energy production supporting the cell to be reduced or stopped completely. The cessation of energy production results in cellular death. Protecting mitochondria is a viable cardioprotective strategy.<sup id="cite_ref-Hausenloy_D_2008_12-0" class="reference"><a href="#cite_note-Hausenloy_D_2008-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Cyclosporine has been confirmed in studies to inhibit the actions of <a href="/wiki/Cyclophilin" title="Cyclophilin">cyclophilin</a> D, a protein which is induced by excessive intracellular calcium flow to interact with other pore components and help open the MPT pore. Inhibiting cyclophilin D has been shown to prevent the opening of the MPT pore and protect the mitochondria and cellular energy production from excessive calcium inflows.<sup id="cite_ref-Javadov_S._2007_11-1" class="reference"><a href="#cite_note-Javadov_S._2007-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>In 2008, an editorial in the New England Journal of Medicine called for more studies to determine if cyclosporine can become a treatment to ameliorate reperfusion injury by protecting mitochondria.<sup id="cite_ref-Hausenloy_D_2008_12-1" class="reference"><a href="#cite_note-Hausenloy_D_2008-12"><span>[</span>12<span>]</span></a></sup> To that end, in 2011 the researchers involved in the original 2008 NEJM study initiated a phase III clinical study of reperfusion injury in 1000 myocardial infarction patients in centers throughout Europe. Results of that study are expected to be announced later in 2014.</p>
+<p>Note: This same process of mitochondrial destruction through the opening of the MPT pore is implicated in making <a href="/wiki/Traumatic_brain_injuries" title="Traumatic brain injuries" class="mw-redirect">traumatic brain injuries</a> much worse.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Cyclosporine is currently in a phase II/III (adaptive) clinical study in Europe to determine its ability to ameliorate neuronal cellular damage in traumatic brain injury.</p>
+<h3><span class="mw-headline" id="TRO40303">TRO40303</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=6" title="Edit section: TRO40303">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>TRO40303 is a new cardioprotective compound that was shown to inhibit the MPT pore and reduce infarct size after ischemia-reperfusion. It was developed by <a href="/wiki/Trophos" title="Trophos">Trophos</a> company and currently is in <a href="/wiki/Phase_I_clinical_trial" title="Phase I clinical trial" class="mw-redirect">Phase I clinical trial</a>.<sup id="cite_ref-pmid_.3D_24507657_14-0" class="reference"><a href="#cite_note-pmid_.3D_24507657-14"><span>[</span>14<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Stem_cell_therapy">Stem cell therapy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=7" title="Edit section: Stem cell therapy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Recent investigations suggest a possible beneficial effect of <a href="/wiki/Mesenchymal_stem_cells" title="Mesenchymal stem cells" class="mw-redirect">mesenchymal stem cells</a> on heart and kidney reperfusion injury.<sup id="cite_ref-pmid_.3D_21498423_15-0" class="reference"><a href="#cite_note-pmid_.3D_21498423-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-pmid_.3D_24220681_16-0" class="reference"><a href="#cite_note-pmid_.3D_24220681-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Reperfusion_protection_in_obligate_hibernators">Reperfusion protection in obligate hibernators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=8" title="Edit section: Reperfusion protection in obligate hibernators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Hibernation" title="Hibernation">Obligatory hibernators</a> such as the <a href="/wiki/Ground_squirrel" title="Ground squirrel">ground squirrels</a> show resistance to ischemia/reperfusion (I/R) injury in liver, heart, and small intestine during the hibernation season when there is a switch from <a href="/wiki/Carbohydrate_metabolism" title="Carbohydrate metabolism">carbohydrate metabolism</a> to <a href="/wiki/Lipid_metabolism" title="Lipid metabolism">lipid metabolism</a> for cellular energy supply.<sup id="cite_ref-lipid_cycles_17-0" class="reference"><a href="#cite_note-lipid_cycles-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-ground_squirrels_18-0" class="reference"><a href="#cite_note-ground_squirrels-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-squirrel_hibernation_19-0" class="reference"><a href="#cite_note-squirrel_hibernation-19"><span>[</span>19<span>]</span></a></sup> This metabolic switch limits <a href="/wiki/Anaerobic_metabolism" title="Anaerobic metabolism" class="mw-redirect">anaerobic metabolism</a> and the formation of <a href="/wiki/Lactic_acid" title="Lactic acid">lactate</a>, a herald of poor prognosis and <a href="/wiki/Multi-organ_failure" title="Multi-organ failure" class="mw-redirect">multi-organ failure</a> (MOF) after I/R injury. In addition, the increase in lipid metabolism generates <a href="/wiki/Ketone_bodies" title="Ketone bodies">ketone bodies</a> and activates <a href="/wiki/PPAR" title="PPAR" class="mw-redirect">peroxisome proliferating-activated receptors</a> (PPARs), both of which have been shown to be protective against I/R injury.<sup id="cite_ref-ppar_and_hemorrhage_20-0" class="reference"><a href="#cite_note-ppar_and_hemorrhage-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Crush_syndrome" title="Crush syndrome">Crush syndrome</a></li>
+<li><a href="/wiki/Ischemia" title="Ischemia">Ischemia</a></li>
+<li><a href="/wiki/Myocardial_infarction#Reperfusion" title="Myocardial infarction">Myocardial infarction&#160;— Reperfusion</a></li>
+<li><a href="/wiki/Therapeutic_hypothermia" title="Therapeutic hypothermia" class="mw-redirect">Therapeutic hypothermia</a></li>
+<li><a href="/wiki/Hypothermia_therapy_for_neonatal_encephalopathy" title="Hypothermia therapy for neonatal encephalopathy">Hypothermia therapy for neonatal encephalopathy</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Carden, DL; Granger, DN (Feb 2000). "Pathophysiology of ischaemia-reperfusion injury.". <i>The Journal of pathology</i> <b>190</b> (3): 255–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F%28SICI%291096-9896%28200002%29190%3A3%3C255%3A%3AAID-PATH526%3E3.0.CO%3B2-6">10.1002/(SICI)1096-9896(200002)190:3&lt;255::AID-PATH526&gt;3.0.CO;2-6</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10685060">10685060</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Pathophysiology+of+ischaemia-reperfusion+injury.&amp;rft.au=Carden%2C+DL&amp;rft.aufirst=DL&amp;rft.au=Granger%2C+DN&amp;rft.aulast=Carden&amp;rft.date=Feb+2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F%28SICI%291096-9896%28200002%29190%3A3%3C255%3A%3AAID-PATH526%3E3.0.CO%3B2-6&amp;rft_id=info%3Apmid%2F10685060&amp;rft.issue=3&amp;rft.jtitle=The+Journal+of+pathology&amp;rft.pages=255-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=190" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WMClark-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-WMClark_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WMClark_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Clark, Wayne M. (January 5, 2005). <a rel="nofollow" class="external text" href="http://www.emedicine.com/neuro/topic602.htm">"Reperfusion Injury in Stroke"</a>. <i>eMedicine</i>. WebMD<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-08-09</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Reperfusion+Injury+in+Stroke&amp;rft.au=Clark%2C+Wayne+M.&amp;rft.aufirst=Wayne+M.&amp;rft.aulast=Clark&amp;rft.date=January+5%2C+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.emedicine.com%2Fneuro%2Ftopic602.htm&amp;rft.jtitle=eMedicine&amp;rft.pub=WebMD&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web">Crippen, David. <a rel="nofollow" class="external text" href="http://www.sciamsurgery.com/sciamsurgery/institutional/payPerAdd.action?chapterId=part08_ch10">"Brain Failure and Brain Death: Introduction"</a>. <i>Scientific American Surgery, Critical Care, April 2005</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-01-09</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Brain+Failure+and+Brain+Death%3A+Introduction&amp;rft.au=Crippen%2C+David&amp;rft.aufirst=David&amp;rft.aulast=Crippen&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciamsurgery.com%2Fsciamsurgery%2Finstitutional%2FpayPerAdd.action%3FchapterId%3Dpart08_ch10&amp;rft.jtitle=Scientific+American+Surgery%2C+Critical+Care%2C+April+2005&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-TMustoe-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-TMustoe_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TMustoe_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Mustoe T. (2004). "Understanding chronic wounds: a unifying hypothesis on their pathogenesis and implications for therapy". <i>American Journal Of Surgery</i> <b>187</b> (5A): 65S–70S. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0002-9610%2803%2900306-4">10.1016/S0002-9610(03)00306-4</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15147994">15147994</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Understanding+chronic+wounds%3A+a+unifying+hypothesis+on+their+pathogenesis+and+implications+for+therapy&amp;rft.aulast=Mustoe+T.&amp;rft.au=Mustoe+T.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0002-9610%2803%2900306-4&amp;rft_id=info%3Apmid%2F15147994&amp;rft.issue=5A&amp;rft.jtitle=American+Journal+Of+Surgery&amp;rft.pages=65S-70S&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=187" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Atlee2007-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Atlee2007_5-0">^</a></b></span> <span class="reference-text"><span class="citation book">John L. Atlee (2007). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=qVdr5MVok1YC&amp;pg=PA55"><i>Complications in anesthesia</i></a>. Elsevier Health Sciences. pp.&#160;55–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4160-2215-2" title="Special:BookSources/978-1-4160-2215-2">978-1-4160-2215-2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.au=John+L.+Atlee&amp;rft.aulast=John+L.+Atlee&amp;rft.btitle=Complications+in+anesthesia&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqVdr5MVok1YC%26pg%3DPA55&amp;rft.isbn=978-1-4160-2215-2&amp;rft.pages=55-&amp;rft.pub=Elsevier+Health+Sciences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lemasters1997-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lemasters1997_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Lemasters JJ. (1997). "Reperfusion injury after liver preservation for transplantation". <i>Annual Review of Pharmacology and Toxicology</i> <b>37</b>: 327–38. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.pharmtox.37.1.327">10.1146/annurev.pharmtox.37.1.327</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9131256">9131256</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Reperfusion+injury+after+liver+preservation+for+transplantation&amp;rft.aulast=Lemasters+JJ.&amp;rft.au=Lemasters+JJ.&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.pharmtox.37.1.327&amp;rft_id=info%3Apmid%2F9131256&amp;rft.jtitle=Annual+Review+of+Pharmacology+and+Toxicology&amp;rft.pages=327-38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Newsweek-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Newsweek_7-0">^</a></b></span> <span class="reference-text">Adler, Jerry. "Back From the Dead." Newsweek. July 23, 2007.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Polderman, Kees H. "Application of therapeutic hypothermia in the ICU." Intensive Car Med. (2004) 30:556-575.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Elrod J.W., J.W. Calvert, M.R. Duranski, D.J. Lefer. "Hydrogen sulfide donor protects against acute myocardial ischemia-reperfusion injury." <i>Circulation</i> 114(18):II172, 2006.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Piot C., Croiselle P., Staat P. et al. "Effect of Cyclosporine on Reperfusion Injury in Acute Myocardial Infaction." <i>New England Journal of Medicine</i> 359 (5): 473-481 2008.</span></li>
+<li id="cite_note-Javadov_S._2007-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Javadov_S._2007_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Javadov_S._2007_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Javadov S., Karmazyn M. "Mitochondrial Permeability Transition Pore Opening as an Endpoint to Initiate Cell Death and as a Putative Target for Cardioprotection." Cell Physiol Biochem 20:1-22 2007.</span></li>
+<li id="cite_note-Hausenloy_D_2008-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hausenloy_D_2008_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hausenloy_D_2008_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Hausenloy D. and Yellon D. "Time to take myocardial reperfusion injury seriously." New England Journal of Medicine Editorial comment 359 (5): 518-520 2008.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Sullivan, P., Sebastian, A., Hall, E. "Therapeutic window analysis of the neuroprotective effects of cyclosporine A after traumatic brain injury." Journal of Neurotrauma 2011; Feb;28:311–318.</span></li>
+<li id="cite_note-pmid_.3D_24507657-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid_.3D_24507657_14-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Le Lamer S (Feb 2014). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24507657/">"Translation of TRO40303 from myocardial infarction models to demonstration of safety and tolerance in a randomized Phase I trial."</a>. <i>J Transl Med.</i> <b>12</b>: 38. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1186%2F1479-5876-12-38">10.1186/1479-5876-12-38</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3923730">3923730</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24507657">24507657</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Translation+of+TRO40303+from+myocardial+infarction+models+to+demonstration+of+safety+and+tolerance+in+a+randomized+Phase+I+trial.&amp;rft.aulast=Le+Lamer+S&amp;rft.au=Le+Lamer+S&amp;rft.date=Feb+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2Fpmid%2F24507657%2F&amp;rft_id=info%3Adoi%2F10.1186%2F1479-5876-12-38&amp;rft_id=info%3Apmc%2F3923730&amp;rft_id=info%3Apmid%2F24507657&amp;rft.jtitle=J+Transl+Med.&amp;rft.pages=38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid_.3D_21498423-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid_.3D_21498423_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal">van der Spoel TI (Sep 2011). "Human relevance of pre-clinical studies in stem cell therapy: systematic review and meta-analysis of large animal models of ischaemic heart disease.". <i>Cardiovasc Res</i> <b>91</b> (4): 649–58. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fcvr%2Fcvr113">10.1093/cvr/cvr113</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21498423">21498423</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Human+relevance+of+pre-clinical+studies+in+stem+cell+therapy%3A+systematic+review+and+meta-analysis+of+large+animal+models+of+ischaemic+heart+disease.&amp;rft.aulast=van+der+Spoel+TI&amp;rft.au=van+der+Spoel+TI&amp;rft.date=Sep+2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1093%2Fcvr%2Fcvr113&amp;rft_id=info%3Apmid%2F21498423&amp;rft.issue=4&amp;rft.jtitle=Cardiovasc+Res&amp;rft.pages=649-58&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=91" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid_.3D_24220681-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid_.3D_24220681_16-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Zhao JJ (Jan 2014). <a rel="nofollow" class="external text" href="http://www.spandidos-publications.com/mmr/9/1/91">"Protection of mesenchymal stem cells on acute kidney injury."</a>. <i>Mol Med Rep</i> <b>9</b> (1): 91–96. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3892%2Fmmr.2013.1792">10.3892/mmr.2013.1792</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24220681">24220681</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Protection+of+mesenchymal+stem+cells+on+acute+kidney+injury.&amp;rft.aulast=Zhao+JJ&amp;rft.au=Zhao+JJ&amp;rft.date=Jan+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.spandidos-publications.com%2Fmmr%2F9%2F1%2F91&amp;rft_id=info%3Adoi%2F10.3892%2Fmmr.2013.1792&amp;rft_id=info%3Apmid%2F24220681&amp;rft.issue=1&amp;rft.jtitle=Mol+Med+Rep&amp;rft.pages=91-96&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lipid_cycles-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-lipid_cycles_17-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Dark, J (2005). "Annual lipid cycles in hibernators: integration of physiology and behavior.". <i>Annual review of nutrition</i> <b>25</b>: 469–97. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.nutr.25.050304.092514">10.1146/annurev.nutr.25.050304.092514</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16011475">16011475</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Annual+lipid+cycles+in+hibernators%3A+integration+of+physiology+and+behavior.&amp;rft.au=Dark%2C+J&amp;rft.aufirst=J&amp;rft.aulast=Dark&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.nutr.25.050304.092514&amp;rft_id=info%3Apmid%2F16011475&amp;rft.jtitle=Annual+review+of+nutrition&amp;rft.pages=469-97&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-ground_squirrels-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-ground_squirrels_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Andrews, MT (May 2007). "Advances in molecular biology of hibernation in mammals.". <i>BioEssays&#160;: news and reviews in molecular, cellular and developmental biology</i> <b>29</b> (5): 431–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fbies.20560">10.1002/bies.20560</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17450592">17450592</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Advances+in+molecular+biology+of+hibernation+in+mammals.&amp;rft.au=Andrews%2C+MT&amp;rft.aufirst=MT&amp;rft.aulast=Andrews&amp;rft.date=May+2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fbies.20560&amp;rft_id=info%3Apmid%2F17450592&amp;rft.issue=5&amp;rft.jtitle=BioEssays+%3A+news+and+reviews+in+molecular%2C+cellular+and+developmental+biology&amp;rft.pages=431-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-squirrel_hibernation-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-squirrel_hibernation_19-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Kurtz, CC; Lindell, SL, Mangino, MJ, Carey, HV (November 2006). "Hibernation confers resistance to intestinal ischemia-reperfusion injury.". <i>American journal of physiology. Gastrointestinal and liver physiology</i> <b>291</b> (5): G895–901. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1152%2Fajpgi.00155.2006">10.1152/ajpgi.00155.2006</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16751173">16751173</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Hibernation+confers+resistance+to+intestinal+ischemia-reperfusion+injury.&amp;rft.aufirst=CC&amp;rft.au=Kurtz%2C+CC&amp;rft.aulast=Kurtz&amp;rft.date=November+2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1152%2Fajpgi.00155.2006&amp;rft_id=info%3Apmid%2F16751173&amp;rft.issue=5&amp;rft.jtitle=American+journal+of+physiology.+Gastrointestinal+and+liver+physiology&amp;rft.pages=G895-901&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=291" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>);</span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-ppar_and_hemorrhage-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-ppar_and_hemorrhage_20-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Zingarelli, B; Hake, PW, O'Connor, M, Burroughs, TJ, Wong, HR, Solomkin, JS, Lentsch, AB (June 2009). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2765201">"Lung injury after hemorrhage is age dependent: role of peroxisome proliferator-activated receptor gamma."</a>. <i>Critical Care Medicine</i> <b>37</b> (6): 1978–87. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2FCCM.0b013e31819feb4d">10.1097/CCM.0b013e31819feb4d</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2765201">2765201</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19384226">19384226</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AReperfusion+injury&amp;rft.atitle=Lung+injury+after+hemorrhage+is+age+dependent%3A+role+of+peroxisome+proliferator-activated+receptor+gamma.&amp;rft.aufirst=B&amp;rft.aulast=Zingarelli&amp;rft.au=Zingarelli%2C+B&amp;rft.date=June+2009&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2765201&amp;rft_id=info%3Adoi%2F10.1097%2FCCM.0b013e31819feb4d&amp;rft_id=info%3Apmc%2F2765201&amp;rft_id=info%3Apmid%2F19384226&amp;rft.issue=6&amp;rft.jtitle=Critical+Care+Medicine&amp;rft.pages=1978-87&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.benbest.com/cryonics/ischemia.html#reperfuse">Reperfusion Injury and "No Reflow"</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.newsweek.com/id/35045">Docs Change the Way They Think About Death</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Vascular_diseases" title="Template:Vascular diseases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Vascular_diseases" title="Template talk:Vascular diseases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Vascular_diseases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">
+<ul>
+<li><a href="/wiki/Cardiovascular_disease" title="Cardiovascular disease">Cardiovascular disease</a>: <a href="/wiki/Vascular_disease" title="Vascular disease">vascular disease</a></li>
+<li><a href="/wiki/Circulatory_system" title="Circulatory system">Circulatory system</a> <a href="/wiki/Pathology" title="Pathology">pathology</a>
+<ul>
+<li><a href="/wiki/ICD-10_Chapter_IX:_Diseases_of_the_circulatory_system#.28I70.E2.80.93I79.29_Diseases_of_arteries.2C_arterioles_and_capillaries" title="ICD-10 Chapter IX: Diseases of the circulatory system">I70–I99</a>, <a href="/wiki/List_of_ICD-9_codes_390%E2%80%93459:_diseases_of_the_circulatory_system#Diseases_of_arteries.2C_arterioles.2C_and_capillaries_.28440.E2.80.93448.29" title="List of ICD-9 codes 390–459: diseases of the circulatory system">440–456</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Artery" title="Artery">Arteries</a>, <a href="/wiki/Arteriole" title="Arteriole">arterioles</a><br />
+and <a href="/wiki/Capillary" title="Capillary">capillaries</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Inflammation" title="Inflammation">Inflammation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arteritis" title="Arteritis">Arteritis</a>
+<ul>
+<li><a href="/wiki/Aortitis" title="Aortitis">Aortitis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Thromboangiitis_obliterans" title="Thromboangiitis obliterans">Buerger's disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Peripheral_vascular_disease" title="Peripheral vascular disease" class="mw-redirect">Arterial occlusive disease</a> /<br />
+<a href="/wiki/Peripheral_vascular_disease" title="Peripheral vascular disease" class="mw-redirect">peripheral vascular disease</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Arteriosclerosis" title="Arteriosclerosis">Arteriosclerosis</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atherosclerosis" title="Atherosclerosis">Atherosclerosis</a>
+<ul>
+<li><a href="/wiki/Foam_cell" title="Foam cell">Foam cell</a></li>
+<li><a href="/wiki/Fatty_streak" title="Fatty streak">Fatty streak</a></li>
+<li><a href="/wiki/Atheroma" title="Atheroma">Atheroma</a></li>
+<li><a href="/wiki/Intermittent_claudication" title="Intermittent claudication">Intermittent claudication</a></li>
+<li><a href="/wiki/Critical_limb_ischemia" title="Critical limb ischemia">Critical limb ischemia</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Monckeberg%27s_arteriosclerosis" title="Monckeberg's arteriosclerosis">Monckeberg's arteriosclerosis</a></li>
+<li><a href="/wiki/Arteriolosclerosis" title="Arteriolosclerosis">Arteriolosclerosis</a>
+<ul>
+<li><a href="/wiki/Hyaline_arteriolosclerosis" title="Hyaline arteriolosclerosis">Hyaline</a></li>
+<li><a href="/wiki/Hyperplastic_arteriolosclerosis" title="Hyperplastic arteriolosclerosis">Hyperplastic</a></li>
+<li><a href="/wiki/Cholesterol" title="Cholesterol">Cholesterol</a></li>
+<li><a href="/wiki/Low-density_lipoprotein" title="Low-density lipoprotein">LDL</a></li>
+<li><a href="/wiki/Oxycholesterol" title="Oxycholesterol">Oxycholesterol</a></li>
+<li><a href="/wiki/Trans_fat" title="Trans fat">Trans fat</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Stenosis" title="Stenosis">Stenosis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carotid_artery_stenosis" title="Carotid artery stenosis">Carotid artery stenosis</a></li>
+<li><a href="/wiki/Renal_artery_stenosis" title="Renal artery stenosis">Renal artery stenosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aortoiliac_occlusive_disease" title="Aortoiliac occlusive disease">Aortoiliac occlusive disease</a></li>
+<li><a href="/wiki/Degos_disease" title="Degos disease">Degos disease</a></li>
+<li><a href="/wiki/Erythromelalgia" title="Erythromelalgia">Erythromelalgia</a></li>
+<li><a href="/wiki/Fibromuscular_dysplasia" title="Fibromuscular dysplasia">Fibromuscular dysplasia</a></li>
+<li><a href="/wiki/Raynaud%27s_phenomenon" title="Raynaud's phenomenon">Raynaud's phenomenon</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Aneurysm" title="Aneurysm">Aneurysm</a> / <a href="/wiki/Dissection_(medical)" title="Dissection (medical)">dissection</a> /<br />
+<a href="/wiki/Pseudoaneurysm" title="Pseudoaneurysm">pseudoaneurysm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>torso</i>: <a href="/wiki/Aortic_aneurysm" title="Aortic aneurysm">Aortic aneurysm</a>
+<ul>
+<li><a href="/wiki/Abdominal_aortic_aneurysm" title="Abdominal aortic aneurysm">Abdominal aortic aneurysm</a></li>
+<li><a href="/wiki/Thoracic_aortic_aneurysm" title="Thoracic aortic aneurysm">Thoracic aortic aneurysm</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Aortic_dissection" title="Aortic dissection">Aortic dissection</a></li>
+<li><a href="/wiki/Coronary_artery_aneurysm" title="Coronary artery aneurysm">Coronary artery aneurysm</a></li>
+<li><i>head / neck</i>
+<ul>
+<li><a href="/wiki/Intracranial_aneurysm" title="Intracranial aneurysm">Intracranial aneurysm</a></li>
+<li><a href="/wiki/Intracranial_berry_aneurysm" title="Intracranial berry aneurysm" class="mw-redirect">Intracranial berry aneurysm</a></li>
+<li><a href="/wiki/Carotid_artery_dissection" title="Carotid artery dissection">Carotid artery dissection</a></li>
+<li><a href="/wiki/Vertebral_artery_dissection" title="Vertebral artery dissection">Vertebral artery dissection</a></li>
+<li><a href="/wiki/Familial_aortic_dissection" title="Familial aortic dissection">Familial aortic dissection</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Vascular_malformation" title="Vascular malformation">Vascular malformation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arteriovenous_fistula" title="Arteriovenous fistula">Arteriovenous fistula</a></li>
+<li><a href="/wiki/Arteriovenous_malformation" title="Arteriovenous malformation">Arteriovenous malformation</a></li>
+<li><a href="/wiki/Telangiectasia" title="Telangiectasia">Telangiectasia</a>
+<ul>
+<li><a href="/wiki/Hereditary_hemorrhagic_telangiectasia" title="Hereditary hemorrhagic telangiectasia">Hereditary hemorrhagic telangiectasia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nevus#Vascular_nevus" title="Nevus">Vascular nevus</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cherry_hemangioma" title="Cherry hemangioma">Cherry hemangioma</a></li>
+<li><a href="/wiki/Halo_nevus" title="Halo nevus">Halo nevus</a></li>
+<li><a href="/wiki/Spider_angioma" title="Spider angioma">Spider angioma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Vein" title="Vein">Veins</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Inflammation" title="Inflammation">Inflammation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Phlebitis" title="Phlebitis">Phlebitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Venous_thrombosis" title="Venous thrombosis">Venous thrombosis</a> /<br />
+<a href="/wiki/Thrombophlebitis" title="Thrombophlebitis">Thrombophlebitis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>primarily lower limb</i>
+<ul>
+<li><a href="/wiki/Deep_vein_thrombosis" title="Deep vein thrombosis">Deep vein thrombosis</a></li>
+</ul>
+</li>
+<li><i>abdomen</i>
+<ul>
+<li><a href="/wiki/Hepatic_veno-occlusive_disease" title="Hepatic veno-occlusive disease">Hepatic veno-occlusive disease</a></li>
+<li><a href="/wiki/Budd%E2%80%93Chiari_syndrome" title="Budd–Chiari syndrome">Budd–Chiari syndrome</a></li>
+<li><a href="/wiki/May%E2%80%93Thurner_syndrome" title="May–Thurner syndrome">May–Thurner syndrome</a></li>
+<li><a href="/wiki/Portal_vein_thrombosis" title="Portal vein thrombosis">Portal vein thrombosis</a></li>
+<li><a href="/wiki/Renal_vein_thrombosis" title="Renal vein thrombosis">Renal vein thrombosis</a></li>
+</ul>
+</li>
+<li><i>upper limb / torso</i>
+<ul>
+<li><a href="/wiki/Mondor%27s_disease" title="Mondor's disease">Mondor's disease</a></li>
+<li><a href="/wiki/Paget%E2%80%93Schroetter_disease" title="Paget–Schroetter disease">Paget–Schroetter disease</a></li>
+</ul>
+</li>
+<li><i>head</i>
+<ul>
+<li><a href="/wiki/Cerebral_venous_sinus_thrombosis" title="Cerebral venous sinus thrombosis">Cerebral venous sinus thrombosis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Post-thrombotic_syndrome" title="Post-thrombotic syndrome">Post-thrombotic syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Varicose_veins" title="Varicose veins">Varicose veins</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gastric_varices" title="Gastric varices">Gastric varices</a></li>
+<li><a href="/wiki/Portacaval_anastomosis" title="Portacaval anastomosis">Portacaval anastomosis</a>
+<ul>
+<li><a href="/wiki/Caput_medusae" title="Caput medusae">Caput medusae</a></li>
+<li><a href="/wiki/Esophageal_varices" title="Esophageal varices">Esophageal varices</a></li>
+<li><a href="/wiki/Hemorrhoid" title="Hemorrhoid">Hemorrhoid</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Varicocele" title="Varicocele">Varicocele</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronic_venous_insufficiency" title="Chronic venous insufficiency">Chronic venous insufficiency</a></li>
+<li><a href="/wiki/Chronic_cerebrospinal_venous_insufficiency" title="Chronic cerebrospinal venous insufficiency">Chronic cerebrospinal venous insufficiency</a></li>
+<li><a href="/wiki/Superior_vena_cava_syndrome" title="Superior vena cava syndrome">Superior vena cava syndrome</a></li>
+<li><a href="/wiki/Inferior_vena_cava_syndrome" title="Inferior vena cava syndrome">Inferior vena cava syndrome</a></li>
+<li><a href="/wiki/Venous_ulcer" title="Venous ulcer">Venous ulcer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Arteries or veins</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angiopathy" title="Angiopathy">Angiopathy</a>
+<ul>
+<li><a href="/wiki/Macroangiopathy" title="Macroangiopathy" class="mw-redirect">Macroangiopathy</a></li>
+<li><a href="/wiki/Microangiopathy" title="Microangiopathy">Microangiopathy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Embolism" title="Embolism">Embolism</a>
+<ul>
+<li><a href="/wiki/Pulmonary_embolism" title="Pulmonary embolism">Pulmonary embolism</a></li>
+<li><a href="/wiki/Cholesterol_embolism" title="Cholesterol embolism">Cholesterol embolism</a></li>
+<li><a href="/wiki/Paradoxical_embolism" title="Paradoxical embolism">Paradoxical embolism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Thrombosis" title="Thrombosis">Thrombosis</a></li>
+<li><a href="/wiki/Vasculitis" title="Vasculitis">Vasculitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Blood_pressure" title="Blood pressure">Blood pressure</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypertension" title="Hypertension">Hypertension</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertensive_heart_disease" title="Hypertensive heart disease">Hypertensive heart disease</a></li>
+<li><a href="/wiki/Hypertensive_emergency" title="Hypertensive emergency">Hypertensive emergency</a></li>
+<li><a href="/wiki/Hypertensive_nephropathy" title="Hypertensive nephropathy">Hypertensive nephropathy</a></li>
+<li><a href="/wiki/Essential_hypertension" title="Essential hypertension">Essential hypertension</a></li>
+<li><a href="/wiki/Secondary_hypertension" title="Secondary hypertension">Secondary hypertension</a>
+<ul>
+<li><a href="/wiki/Renovascular_hypertension" title="Renovascular hypertension">Renovascular hypertension</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Benign_hypertension" title="Benign hypertension">Benign hypertension</a></li>
+<li><a href="/wiki/Pulmonary_hypertension" title="Pulmonary hypertension">Pulmonary hypertension</a></li>
+<li><a href="/wiki/Systolic_hypertension" title="Systolic hypertension">Systolic hypertension</a></li>
+<li><a href="/wiki/White_coat_hypertension" title="White coat hypertension">White coat hypertension</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypotension" title="Hypotension">Hypotension</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orthostatic_hypotension" title="Orthostatic hypotension">Orthostatic hypotension</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Vascular_navs" title="Template:Vascular navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Vascular_navs" title="Template talk:Vascular navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Vascular_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Circulatory_system" title="Circulatory system">circulatory system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Arteries_and_veins" title="Template:Arteries and veins">Anatomy</a></li>
+<li>Arteries
+<ul>
+<li><a href="/wiki/Template:Arteries_of_head_and_neck" title="Template:Arteries of head and neck">head and neck</a></li>
+<li><a href="/wiki/Template:Arteries_of_upper_limbs" title="Template:Arteries of upper limbs">arms</a></li>
+<li><a href="/wiki/Template:Arteries_of_thorax" title="Template:Arteries of thorax">chest</a></li>
+<li><a href="/wiki/Template:Arteries_of_abdomen" title="Template:Arteries of abdomen">abdomen</a></li>
+<li><a href="/wiki/Template:Arteries_of_lower_limbs" title="Template:Arteries of lower limbs">legs</a></li>
+</ul>
+</li>
+<li>Veins
+<ul>
+<li><a href="/wiki/Template:Veins_of_the_head_and_neck" title="Template:Veins of the head and neck">head and neck</a></li>
+<li><a href="/wiki/Template:Veins_of_the_upper_limb" title="Template:Veins of the upper limb">arms</a></li>
+<li><a href="/wiki/Template:Veins_of_the_thorax_and_vertebral_column" title="Template:Veins of the thorax and vertebral column">chest</a></li>
+<li><a href="/wiki/Template:Veins_of_the_abdomen_and_pelvis" title="Template:Veins of the abdomen and pelvis">abdomen and pelvis</a></li>
+<li><a href="/wiki/Template:Veins_of_the_lower_limb" title="Template:Veins of the lower limb">legs</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Development_of_mammalian_circulatory_system" title="Template:Development of mammalian circulatory system">Development</a></li>
+<li><a href="/wiki/Template:Human_cell_types_derived_primarily_from_mesoderm" title="Template:Human cell types derived primarily from mesoderm">Cells</a></li>
+<li><a href="/wiki/Template:Cardiovascular_physiology" title="Template:Cardiovascular physiology">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Angiogenic_proteins" title="Template:Angiogenic proteins">proteins</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Congenital_vascular_defects" title="Template:Congenital vascular defects">Congenital</a></li>
+<li><a href="/wiki/Template:Vascular_tumors" title="Template:Vascular tumors">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Lymphatic_vessel_disease" title="Template:Lymphatic vessel disease">Lymphatic vessels</a></li>
+<li><a href="/wiki/Template:Chest_trauma" title="Template:Chest trauma">Injury</a></li>
+<li><a href="/wiki/Template:Systemic_vasculitis" title="Template:Systemic vasculitis">Vasculitis</a></li>
+<li><a href="/wiki/Template:Vascular_diseases" title="Template:Vascular diseases">Other</a></li>
+<li><a href="/wiki/Template:Cardiovascular_system_symptoms_and_signs" title="Template:Cardiovascular system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_cardiovascular_system" title="Template:Eponymous medical signs for cardiovascular system">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Vascular_procedures" title="Template:Vascular procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Beta_blockers" title="Template:Beta blockers">beta blockers</a></li>
+<li><a href="/wiki/Template:Channelergics" title="Template:Channelergics" class="mw-redirect">channel blockers</a></li>
+<li><a href="/wiki/Template:Diuretics" title="Template:Diuretics">diuretics</a></li>
+<li><a href="/wiki/Template:Nonsympatholytic_vasodilatory_antihypertensives" title="Template:Nonsympatholytic vasodilatory antihypertensives">nonsympatholytic vasodilatory antihypertensives</a></li>
+<li><a href="/wiki/Template:Peripheral_vasodilators" title="Template:Peripheral vasodilators">peripheral vasodilators</a></li>
+<li><a href="/wiki/Template:Agents_acting_on_the_renin-angiotensin_system" title="Template:Agents acting on the renin-angiotensin system">renin–angiotensin system</a></li>
+<li><a href="/wiki/Template:Sympatholytic_antihypertensives" title="Template:Sympatholytic antihypertensives">sympatholytic antihypertensives</a></li>
+<li><a href="/wiki/Template:Vasoprotectives" title="Template:Vasoprotectives">vasoprotectives</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1021
+CPU time usage: 0.362 seconds
+Real time usage: 0.444 seconds
+Preprocessor visited node count: 1631/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 98587/2097152 bytes
+Template argument size: 553/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 3.82 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  354.019      1 - -total
+ 35.27%  124.871      1 - Template:Reflist
+ 27.25%   96.454      1 - Template:Infobox_disease
+ 23.97%   84.858      1 - Template:Infobox
+ 22.59%   79.969      6 - Template:Navbox
+ 19.87%   70.341     10 - Template:Cite_journal
+ 15.08%   53.393      1 - Template:Vascular_diseases
+ 12.09%   42.797      1 - Template:Citation_needed
+ 10.14%   35.883      1 - Template:Fix
+  8.86%   31.350      2 - Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:655995-0!*!0!!en!*!* and timestamp 20150712013331 and revision id 657033012
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Reperfusion_injury&amp;oldid=657033012">https://en.wikipedia.org/w/index.php?title=Reperfusion_injury&amp;oldid=657033012</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cardiovascular_physiology" title="Category:Cardiovascular physiology">Cardiovascular physiology</a></li><li><a href="/wiki/Category:Neurotrauma" title="Category:Neurotrauma">Neurotrauma</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2008" title="Category:Articles with unsourced statements from June 2008">Articles with unsourced statements from June 2008</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Reperfusion+injury&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Reperfusion+injury" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Reperfusion_injury"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Reperfusion_injury"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Reperfusion_injury" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Reperfusion_injury&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Reperfusion_injury&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Reperfusion_injury" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Reperfusion_injury" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Reperfusion_injury&amp;oldid=657033012" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Reperfusion_injury&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1413991" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Reperfusion_injury&amp;id=657033012" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Reperfusion+injury">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Reperfusion+injury&amp;oldid=657033012&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Reperfusion_injury&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Reperfusionsschaden" title="Reperfusionsschaden – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Cedera_reperfusi_darah" title="Cedera reperfusi darah – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Danno_da_riperfusione" title="Danno da riperfusione – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_poreperfuzyjny" title="Zespół poreperfuzyjny – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1413991#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 April 2015, at 13:05.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Reperfusion_injury&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":575,"wgHostname":"mw1021"});
+}</script>
+	</body>
+</html>

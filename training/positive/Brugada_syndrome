@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Brugada syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brugada_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brugada_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Brugada_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Brugada_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Brugada_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Brugada_syndrome","wgTitle":"Brugada syndrome","wgCurRevisionId":670175504,"wgRevisionId":670175504,"wgArticleId":155623,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with contributors link","Articles that use a Medicine navs subtemplate","Cardiac dysrhythmia","Channelopathy","Congenital disorders","Syndromes","Cardiogenetic disorders"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brugada_syndrome","wgRelevantArticleId":155623,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Brugada_EKG_Schema.jpg/89px-Brugada_EKG_Schema.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q599683"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Brugada_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Brugada syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Brugada syndrome</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Brugada_EKG_Schema.jpg" class="image"><img alt="Brugada EKG Schema.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Brugada_EKG_Schema.jpg/230px-Brugada_EKG_Schema.jpg" width="230" height="257" srcset="//upload.wikimedia.org/wikipedia/commons/0/05/Brugada_EKG_Schema.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/05/Brugada_EKG_Schema.jpg 2x" data-file-width="263" data-file-height="294" /></a>
+<div>(A) Normal electrocardiogram pattern in the precordial leads V<sub>1-3</sub>, (B) changes in Brugada syndrome (type B)</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Cardiology" title="Cardiology">Cardiology</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/I49.8">I49.8</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=746.89">746.89</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/601144">601144</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb31999.htm">31999</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic3736.htm">med/3736</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D053840">D053840</a></td>
+</tr>
+</table>
+<p><b>Brugada syndrome</b> is a <a href="/wiki/Genetic_disease" title="Genetic disease" class="mw-redirect">genetic disease</a> that is characterised by abnormal <a href="/wiki/Electrocardiogram" title="Electrocardiogram" class="mw-redirect">electrocardiogram</a> (ECG) findings and an increased risk of <a href="/wiki/Sudden_cardiac_death" title="Sudden cardiac death">sudden cardiac death</a>. It is named by the Spanish cardiologists Pedro Brugada and Josep Brugada. It is the major<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-pmid11823453_2-0" class="reference"><a href="#cite_note-pmid11823453-2"><span>[</span>2<span>]</span></a></sup> cause of <a href="/wiki/Sudden_unexplained_death_syndrome" title="Sudden unexplained death syndrome" class="mw-redirect">sudden unexplained death syndrome</a> (SUDS), also known as sudden adult death syndrome (SADS), and is the most common cause of sudden death in young men without known underlying cardiac disease in <a href="/wiki/Thailand" title="Thailand">Thailand</a> and <a href="/wiki/Laos" title="Laos">Laos</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Although the ECG findings of Brugada syndrome were first reported<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> among survivors of cardiac arrest in 1989, it was only in 1992 that the Brugada brothers<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> recognized it as a distinct clinical entity, causing sudden <a href="/wiki/Death" title="Death">death</a> by causing <a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">ventricular fibrillation</a> (a lethal <a href="/wiki/Arrhythmia" title="Arrhythmia" class="mw-redirect">arrhythmia</a>) in the <a href="/wiki/Heart" title="Heart">heart</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Genetics"><span class="tocnumber">1</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Diagnosis"><span class="tocnumber">2</span> <span class="toctext">Diagnosis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Electrocardiography"><span class="tocnumber">2.1</span> <span class="toctext">Electrocardiography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Treatment"><span class="tocnumber">3</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=1" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Type</th>
+<th>OMIM</th>
+<th>Mutation</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td>B1</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/601144">601144</a></td>
+<td><a href="/wiki/SCN5A" title="SCN5A" class="mw-redirect">SCN5A</a></td>
+<td>alpha subunit of the <a href="/wiki/Sodium_channel" title="Sodium channel">sodium channel</a>. Current through this channel is commonly referred to as I<sub>Na</sub>. Loss of function in this channel leads to an unopposed <a href="/wiki/Cardiac_transient_outward_potassium_current" title="Cardiac transient outward potassium current">I<sub>to</sub> current</a> (<a href="/wiki/KCND2" title="KCND2">KCND2</a>)</td>
+</tr>
+<tr>
+<td>B2</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/611778">611778</a></td>
+<td><a href="/wiki/GPD1L" title="GPD1L">GPD1L</a></td>
+<td>Glycerol-3-phosphate dehydrogenase like peptide</td>
+</tr>
+<tr>
+<td>B3</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/114205">114205</a></td>
+<td><a href="/wiki/CACNA1C" title="CACNA1C" class="mw-redirect">CACNA1C</a></td>
+<td>Alpha subunit of cardiac L-type calcium channel.<sup id="cite_ref-pmid_17224476_6-0" class="reference"><a href="#cite_note-pmid_17224476-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>B4</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/600003">600003</a></td>
+<td><a href="/wiki/CACNB2" title="CACNB2">CACNB2</a></td>
+<td>Beta-2 subunit of the voltage dependent L-type calcium channel.<sup id="cite_ref-pmid_17224476_6-1" class="reference"><a href="#cite_note-pmid_17224476-6"><span>[</span>6<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>B5</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/604433">604433</a></td>
+<td><a href="/wiki/KCNE3" title="KCNE3">KCNE3</a> which coassembles with <a href="/wiki/KCND3" title="KCND3">KCND3</a></td>
+<td>Beta subunit to <a href="/wiki/KCND3" title="KCND3">KCND3</a>. Modulates the I<sub>to</sub> potassium outward current<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>B6</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/600235">600235</a></td>
+<td><a href="/wiki/SCN1B" title="SCN1B">SCN1B</a></td>
+<td>Beta-1 subunit of the sodium channel <a href="/wiki/SCN5A" title="SCN5A" class="mw-redirect">SCN5A</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/SCN10A" title="SCN10A" class="mw-redirect">SCN10A</a></td>
+<td><sup id="cite_ref-BezzinaBarc2013_9-0" class="reference"><a href="#cite_note-BezzinaBarc2013-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td><a href="/wiki/HEY2" title="HEY2">HEY2</a></td>
+<td><sup id="cite_ref-BezzinaBarc2013_9-1" class="reference"><a href="#cite_note-BezzinaBarc2013-9"><span>[</span>9<span>]</span></a></sup></td>
+</tr>
+</table>
+<p>Approximately 20% of the cases of Brugada syndrome have been shown to be associated with mutations in the <a href="/wiki/Gene" title="Gene">gene</a> that encodes for the <a href="/wiki/Sodium" title="Sodium">sodium</a> <a href="/wiki/Ion_channel" title="Ion channel">ion channel</a> in the <a href="/wiki/Cell_(biology)" title="Cell (biology)">cell</a> <a href="/wiki/Cell_membrane" title="Cell membrane">membranes</a> of the muscle cells of the heart (the <a href="/wiki/Myocyte" title="Myocyte">myocytes</a>). The gene, named <a href="/wiki/SCN5A" title="SCN5A" class="mw-redirect">SCN5A</a>, is located on the short arm of the <a href="/wiki/Chromosome_3_(human)" title="Chromosome 3 (human)">third chromosome</a> (3p21). Loss-of-function mutations in this gene lead to a loss of the action potential dome of some epicardial areas of the right ventricle. This results in transmural and <a href="/wiki/Epicardial" title="Epicardial" class="mw-redirect">epicardial</a> dispersion of <a href="/wiki/Repolarization" title="Repolarization">repolarization</a>. The transmural dispersion underlies ST-segment elevation and the development of a vulnerable window across the ventricular wall, whereas the epicardial dispersion of repolarization facilitates the development of phase 2 reentry, which generates a phase 2 reentrant extrasystole that captures the vulnerable window to precipitate <a href="/wiki/Ventricular_tachycardia" title="Ventricular tachycardia">ventricular tachycardia</a> and/or fibrillation that often results in sudden cardiac death. At present time however, all the reported patients who died because of the disease and were submitted to detailed autopsy study have shown a structural right ventricular pathology underlying the syndrome.</p>
+<p>Over 160 mutations in the SCN5A gene have been discovered to date, each having varying mechanisms and effects on function, thereby explaining the varying degrees of penetration and expression of this disorder.<sup id="cite_ref-Hedley_10-0" class="reference"><a href="#cite_note-Hedley-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>An example of one of the mechanisms in which a loss of function of the sodium channel occurs is a mutation in the gene that disrupts the sodium channel's ability to bind properly to <a href="/wiki/Ankyrin" title="Ankyrin">ankyrin</a>-G, an important protein mediating interaction between ion channels and cytoskeletal elements. Very recently a mutation in a second gene, <a href="/wiki/Glycerol-3-phosphate_dehydrogenase" title="Glycerol-3-phosphate dehydrogenase">Glycerol-3-phosphate dehydrogenase</a> 1-like gene (<i><a rel="nofollow" class="external text" href="http://www.genenames.org/data/hgnc_data.php?match=GPD1L">GPD1L</a></i>) has been shown to result in Brugada syndrome in a large multigenerational family (London, 2006). This gene acts as an ion channel modulator in the heart, although the exact mechanism is not yet understood.</p>
+<p>Recently Antzelevitch has identified mutations in the <a href="/wiki/Voltage-dependent_calcium_channel" title="Voltage-dependent calcium channel">L-type calcium channel</a> subunits (<i><a rel="nofollow" class="external text" href="http://www.genenames.org/data/hgnc_data.php?match=CACNA1C">CACNA1C</a></i> (A39V and G490R) and <i><a rel="nofollow" class="external text" href="http://www.genenames.org/data/hgnc_data.php?match=CACNB2">CACNB2</a></i> (S481L)) leading to ST elevation and a relatively short QT interval (below 360&#160;ms).<sup id="cite_ref-pmid17556198_11-0" class="reference"><a href="#cite_note-pmid17556198-11"><span>[</span>11<span>]</span></a></sup> For a comprehensive list of all mutations see <sup id="cite_ref-Hedley_10-1" class="reference"><a href="#cite_note-Hedley-10"><span>[</span>10<span>]</span></a></sup> In 2013, Bezzina et al. showed that common variants at <a href="/wiki/SCN5A" title="SCN5A" class="mw-redirect">SCN5A</a>-<a href="/wiki/SCN10A" title="SCN10A" class="mw-redirect">SCN10A</a> and <a href="/wiki/HEY2" title="HEY2">HEY2</a> are associated with Brugada syndrome.<sup id="cite_ref-BezzinaBarc2013_9-2" class="reference"><a href="#cite_note-BezzinaBarc2013-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>This condition is inherited in an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> pattern and is more common in males. In addition it has a higher prevalence in most Asian populations.</p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=2" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Genetic_testing" title="Genetic testing">Genetic testing</a> for Brugada syndrome is clinically available and may help confirm a diagnosis as well as differentiate between relatives who are at risk for the disease and those who are not.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Electrocardiography">Electrocardiography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=3" title="Edit section: Electrocardiography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:Brugada.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brugada.jpg/400px-Brugada.jpg" width="400" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brugada.jpg/600px-Brugada.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Brugada.jpg/800px-Brugada.jpg 2x" data-file-width="994" data-file-height="634" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Brugada.jpg" class="internal" title="Enlarge"></a></div>
+ECG pattern in Brugada syndrome. According to a recent consensus document, type 1 ST segment elevation either spontaneously present or induced with <a href="/wiki/Ajmaline" title="Ajmaline">ajmaline</a>/<a href="/wiki/Flecainide" title="Flecainide">flecainide</a> test is considered diagnostic. Type 2 and 3 may lead to suspicion but drug challenge is required for diagnosis. The ECGs in the right and left panels are from the same patient before (right panel, type 3) and after (left panel, type 1) endovenous administration of 1 mg/kg of Ajmaline during 10 minutes.</div>
+</div>
+</div>
+<p>In some cases, the disease can be detected by observing characteristic patterns on an <a href="/wiki/Electrocardiogram" title="Electrocardiogram" class="mw-redirect">electrocardiogram</a>, which may be present all the time or might be elicited by the administration of particular drugs (e.g., Class IA (<a href="/wiki/Ajmaline" title="Ajmaline">ajmaline</a>) or class 1C (<a href="/wiki/Flecainide" title="Flecainide">flecainide</a>) antiarrhythmic drugs that block sodium channels and cause appearance of ECG abnormalities) or resurface spontaneously due to as yet unclarified triggers.</p>
+<p>Brugada syndrome has three different ECG patterns.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<ul>
+<li>Type 1 has a coved type ST elevation with at least 2&#160;mm (0.2 mV) J-point elevation a gradually descending ST segment followed by a negative T-wave.</li>
+<li>Type 2 has a saddle back pattern with a least 2&#160;mm J-point elevation and at least 1&#160;mm ST elevation with a positive or biphasic T-wave. Type 2 pattern can occasionally be seen in healthy subjects.</li>
+<li>Type 3 has either a coved (type 1 like) or a saddle back (type 2 like) pattern with less than 2&#160;mm J-point elevation and less than 1&#160;mm ST elevation. Type 3 pattern is not uncommon in healthy subjects.</li>
+</ul>
+<p>The pattern seen on the ECG is persistent ST elevations in the electrocardiographic leads V<sub>1</sub>-V<sub>3</sub> with a <a href="/wiki/Right_bundle_branch_block" title="Right bundle branch block">right bundle branch block</a> (RBBB) appearance with or without the terminal S waves in the lateral leads that are associated with a typical RBBB. A prolongation of the PR interval (a conduction disturbance in the heart) is also frequently seen. The ECG can fluctuate over time, depending on the autonomic balance and the administration of antiarrhythmic drugs. Adrenergic stimulation decreases the ST segment elevation, while vagal stimulation worsens it. (There is a case report of a patient who died while shaving, presumed due to the vagal stimulation of the carotid sinus massage.)</p>
+<p>The administration of class Ia, Ic and III drugs increases the ST segment elevation, as does fever. Exercise decreases ST segment elevation in some patients but increases it in others (after exercise when the body temperature has risen). The changes in heart rate induced by atrial pacing are accompanied by changes in the degree of ST segment elevation. When the heart rate decreases, the ST segment elevation increases and when the heart rate increases the ST segment elevation decreases. However, the contrary can also be observed.</p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=4" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The cause of death in Brugada syndrome is <a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">ventricular fibrillation</a>. The episodes of syncope (fainting) and sudden death (aborted or not) are caused by fast polymorphic ventricular tachycardias or ventricular fibrillation. These arrhythmias appear with no warning. While there is no exact treatment modality that reliably and totally prevents ventricular fibrillation from occurring in this syndrome, treatment lies in termination of this lethal <a href="/wiki/Arrhythmia" title="Arrhythmia" class="mw-redirect">arrhythmia</a> before it causes death. This is done via implantation of an <a href="/wiki/Implantable_cardioverter-defibrillator" title="Implantable cardioverter-defibrillator">implantable cardioverter-defibrillator</a> (ICD), which continuously monitors the heart rhythm and will <a href="/wiki/Defibrillation" title="Defibrillation">defibrillate</a> an individual if ventricular fibrillation is noted.</p>
+<p>Recent studies have evaluated the role of <a href="/wiki/Quinidine" title="Quinidine">quinidine</a>, a Class Ia antiarrhythmic drug, for decreasing VF episodes occurring in this syndrome. Quinidine has been found to both decrease the number of VF episodes and correct spontaneous ECG changes, possibly via inhibiting <a href="/wiki/Cardiac_transient_outward_potassium_current" title="Cardiac transient outward potassium current">I<sub>to</sub> channels</a>.<sup id="cite_ref-pmid15381640_14-0" class="reference"><a href="#cite_note-pmid15381640-14"><span>[</span>14<span>]</span></a></sup> Some drugs have been reported to induce the type-1 ECG and/or (fatal) arrhythmias in Brugada syndrome patients. Patients with Brugada syndrome can prevent arrhythmias by avoiding these drugs or using them only in controlled conditions.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Those with risk factors for <a href="/wiki/Coronary_artery_disease" title="Coronary artery disease">coronary artery disease</a> may require an <a href="/wiki/Angiography" title="Angiography">angiogram</a> before ICD implantation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cardiac_action_potential" title="Cardiac action potential">Cardiac action potential</a></li>
+<li><a href="/wiki/Catecholaminergic_polymorphic_ventricular_tachycardia" title="Catecholaminergic polymorphic ventricular tachycardia">Catecholaminergic polymorphic ventricular tachycardia</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Nademanee K; Veerakul G; Nimmannit S et al. (1997). "Arrhythmogenic marker for the sudden unexplained death syndrome in Thai men". <i>Circulation</i> <b>96</b> (8): 2595–2600. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1161%2F01.cir.96.8.2595">10.1161/01.cir.96.8.2595</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9355899">9355899</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Arrhythmogenic+marker+for+the+sudden+unexplained+death+syndrome+in+Thai+men&amp;rft.au=Bhuripanyo%2C+K&amp;rft.au=Chaowakul%2C+V&amp;rft.au=Kuasirikul%2C+S&amp;rft.aulast=Nademanee+K&amp;rft.au=Likittanasombat%2C+K&amp;rft.au=Malasit%2C+P&amp;rft.au=Nademanee+K&amp;rft.au=Nimmannit+S&amp;rft.au=Tunsanga%2C+K&amp;rft.au=Veerakul+G&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1161%2F01.cir.96.8.2595&amp;rft_id=info%3Apmid%2F9355899&amp;rft.issue=8&amp;rft.jtitle=Circulation&amp;rft.pages=2595-2600&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=96" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid11823453-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid11823453_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Vatta M; Dumaine R; Varghese G et al. (February 2002). <a rel="nofollow" class="external text" href="http://hmg.oxfordjournals.org/cgi/pmidlookup?view=long&amp;pmid=11823453">"Genetic and biophysical basis of sudden unexplained nocturnal death syndrome (SUNDS), a disease allelic to Brugada syndrome"</a>. <i>Hum. Mol. Genet.</i> <b>11</b> (3): 337–45. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fhmg%2F11.3.337">10.1093/hmg/11.3.337</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11823453">11823453</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Genetic+and+biophysical+basis+of+sudden+unexplained+nocturnal+death+syndrome+%28SUNDS%29%2C+a+disease+allelic+to+Brugada+syndrome&amp;rft.au=Aihara%2C+N&amp;rft.au=Brugada%2C+J&amp;rft.au=Brugada%2C+R&amp;rft.au=Dumaine+R&amp;rft.aulast=Vatta+M&amp;rft.au=Nademanee%2C+K&amp;rft.au=Richard%2C+TA&amp;rft.au=Shimizu%2C+W&amp;rft.au=Varghese+G&amp;rft.au=Vatta+M&amp;rft.date=February+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fhmg.oxfordjournals.org%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D11823453&amp;rft_id=info%3Adoi%2F10.1093%2Fhmg%2F11.3.337&amp;rft_id=info%3Apmid%2F11823453&amp;rft.issue=3&amp;rft.jtitle=Hum.+Mol.+Genet.&amp;rft.pages=337-45&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Brugada J, Brugada P, Brugada R (July 1999). "The syndrome of right bundle branch block ST segment elevation in V1 to V3 and sudden death--the Brugada syndrome". <i>Europace</i> <b>1</b> (3): 156–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1053%2Feupc.1999.0033">10.1053/eupc.1999.0033</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11225790">11225790</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=The+syndrome+of+right+bundle+branch+block+ST+segment+elevation+in+V1+to+V3+and+sudden+death--the+Brugada+syndrome&amp;rft.au=Brugada+J%2C+Brugada+P%2C+Brugada+R&amp;rft.aulast=Brugada+J%2C+Brugada+P%2C+Brugada+R&amp;rft.date=July+1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1053%2Feupc.1999.0033&amp;rft_id=info%3Apmid%2F11225790&amp;rft.issue=3&amp;rft.jtitle=Europace&amp;rft.pages=156-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Martini B; Nava A; Thiene G et al. (December 1989). "Ventricular fibrillation without apparent heart disease: description of six cases". <i>Am. Heart J.</i> <b>118</b> (6): 1203–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0002-8703%2889%2990011-2">10.1016/0002-8703(89)90011-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2589161">2589161</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Ventricular+fibrillation+without+apparent+heart+disease%3A+description+of+six+cases&amp;rft.au=Buja%2C+GF&amp;rft.au=Canciani%2C+B&amp;rft.au=Daliento%2C+L&amp;rft.au=Dalla+Volta%2C+S&amp;rft.aulast=Martini+B&amp;rft.au=Martini+B&amp;rft.au=Nava+A&amp;rft.au=Scognamiglio%2C+R&amp;rft.au=Thiene+G&amp;rft.date=December+1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0002-8703%2889%2990011-2&amp;rft_id=info%3Apmid%2F2589161&amp;rft.issue=6&amp;rft.jtitle=Am.+Heart+J.&amp;rft.pages=1203-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=118" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">Brugada P, Brugada J (November 1992). "Right bundle branch block, persistent ST segment elevation and sudden cardiac death: a distinct clinical and electrocardiographic syndrome. A multicenter report". <i>J. Am. Coll. Cardiol.</i> <b>20</b> (6): 1391–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0735-1097%2892%2990253-J">10.1016/0735-1097(92)90253-J</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1309182">1309182</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Right+bundle+branch+block%2C+persistent+ST+segment+elevation+and+sudden+cardiac+death%3A+a+distinct+clinical+and+electrocardiographic+syndrome.+A+multicenter+report&amp;rft.au=Brugada+P%2C+Brugada+J&amp;rft.aulast=Brugada+P%2C+Brugada+J&amp;rft.date=November+1992&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0735-1097%2892%2990253-J&amp;rft_id=info%3Apmid%2F1309182&amp;rft.issue=6&amp;rft.jtitle=J.+Am.+Coll.+Cardiol.&amp;rft.pages=1391-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid_17224476-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid_17224476_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid_17224476_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Antzelevitch C; Pollevick GD; Cordeiro JM et al. (2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1952683">"Loss-of-Function Mutations in the Cardiac Calcium Channel Underlie a New Clinical Entity Characterized by ST-Segment Elevation, Short QT Intervals, and Sudden Cardiac Death"</a>. <i>Circulation</i> <b>115</b> (4): 442–229. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1161%2FCIRCULATIONAHA.106.668392">10.1161/CIRCULATIONAHA.106.668392</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1952683">1952683</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17224476">17224476</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Loss-of-Function+Mutations+in+the+Cardiac+Calcium+Channel+Underlie+a+New+Clinical+Entity+Characterized+by+ST-Segment+Elevation%2C+Short+QT+Intervals%2C+and+Sudden+Cardiac+Death&amp;rft.au=Aizawa%2C+Y.&amp;rft.au=Antzelevitch+C&amp;rft.au=Casis%2C+O.&amp;rft.au=Cordeiro+JM&amp;rft.au=Guerchicoff%2C+A.&amp;rft.aulast=Antzelevitch+C&amp;rft.au=Oliva%2C+A.&amp;rft.au=Pfeiffer%2C+R.&amp;rft.au=Pollevick+GD&amp;rft.au=Sanguinetti%2C+M.+C.&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1952683&amp;rft_id=info%3Adoi%2F10.1161%2FCIRCULATIONAHA.106.668392&amp;rft_id=info%3Apmc%2F1952683&amp;rft_id=info%3Apmid%2F17224476&amp;rft.issue=4&amp;rft.jtitle=Circulation&amp;rft.pages=442-229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=115" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">Delpon E; Cordeiro JM; Núñez L et al. (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2585750">"Functional Effects of KCNE3 Mutation and its Role in the Development of Brugada Syndrome"</a>. <i>Circulation Arrhythmia and Electrophysiology</i> <b>1</b> (3): 209–18. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1161%2FCIRCEP.107.748103">10.1161/CIRCEP.107.748103</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2585750">2585750</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19122847">19122847</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Functional+Effects+of+KCNE3+Mutation+and+its+Role+in+the+Development+of+Brugada+Syndrome&amp;rft.au=Cordeiro+JM&amp;rft.au=Delpon+E&amp;rft.au=Guerchicoff%2C+A.&amp;rft.au=Kanters%2C+J.+K.&amp;rft.au=Larsen%2C+C.+T.&amp;rft.aulast=Delpon+E&amp;rft.au=N%C3%BA%C3%B1ez+L&amp;rft.au=Pollevick%2C+G.+D.&amp;rft.au=Thomsen%2C+P.+E.+B.&amp;rft.au=Wu%2C+Y.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2585750&amp;rft_id=info%3Adoi%2F10.1161%2FCIRCEP.107.748103&amp;rft_id=info%3Apmc%2F2585750&amp;rft_id=info%3Apmid%2F19122847&amp;rft.issue=3&amp;rft.jtitle=Circulation+Arrhythmia+and+Electrophysiology&amp;rft.pages=209-18&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Watanabe H; Koopmann TT; Le Scouarnec S et al. (June 2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2373423">"Sodium channel β1 subunit mutations associated with Brugada syndrome and cardiac conduction disease in humans"</a>. <i>J. Clin. Invest.</i> <b>118</b> (6): 2260–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1172%2FJCI33891">10.1172/JCI33891</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2373423">2373423</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18464934">18464934</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Sodium+channel+%CE%B21+subunit+mutations+associated+with+Brugada+syndrome+and+cardiac+conduction+disease+in+humans&amp;rft.au=Anselme%2C+Fr%C3%A9d%C3%A9ric&amp;rft.au=Demolombe%2C+Sophie&amp;rft.au=Ingram%2C+Christiana+R.&amp;rft.au=Koopmann+TT&amp;rft.aulast=Watanabe+H&amp;rft.au=Le+Scouarnec+S&amp;rft.au=Probst%2C+Vincent&amp;rft.au=Schott%2C+Jean-Jacques&amp;rft.au=Watanabe+H&amp;rft.au=Yang%2C+Tao&amp;rft.date=June+2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2373423&amp;rft_id=info%3Adoi%2F10.1172%2FJCI33891&amp;rft_id=info%3Apmc%2F2373423&amp;rft_id=info%3Apmid%2F18464934&amp;rft.issue=6&amp;rft.jtitle=J.+Clin.+Invest.&amp;rft.pages=2260-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=118" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BezzinaBarc2013-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-BezzinaBarc2013_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BezzinaBarc2013_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BezzinaBarc2013_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Bezzina, Connie R; Barc, Julien; Mizusawa, Yuka; Remme, Carol Ann; Gourraud, Jean-Baptiste; Simonet, Floriane; Verkerk, Arie O; Schwartz, Peter J; Crotti, Lia; Dagradi, Federica; Guicheney, Pascale; Fressart, Véronique; Leenhardt, Antoine; Antzelevitch, Charles; Bartkowiak, Susan; Schulze-Bahr, Eric; Zumhagen, Sven; Behr, Elijah R; Bastiaenen, Rachel; Tfelt-Hansen, Jacob; Olesen, Morten Salling; Kääb, Stefan; Beckmann, Britt M; Weeke, Peter; Watanabe, Hiroshi; Endo, Naoto; Minamino, Tohru; Horie, Minoru; Ohno, Seiko; Hasegawa, Kanae; Makita, Naomasa; Nogami, Akihiko; Shimizu, Wataru; Aiba, Takeshi; Froguel, Philippe; Balkau, Beverley; Lantieri, Olivier; Torchio, Margherita; Wiese, Cornelia; Weber, David; Wolswinkel, Rianne; Coronel, Ruben; Boukens, Bas J; Bézieau, Stéphane; Charpentier, Eric; Chatel, Stéphanie; Despres, Aurore; Gros, Françoise; Kyndt, Florence; Lecointe, Simon; Lindenbaum, Pierre; Portero, Vincent; Violleau, Jade; Gessler, Manfred; Tan, Hanno L; Roden, Dan M; Christoffels, Vincent M; Marec, Hervé Le; Wilde, Arthur A; Probst, Vincent; Schott, Jean-Jacques; Dina, Christian; Redon, Richard (2013). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3869788">"Common variants at SCN5A-SCN10A and HEY2 are associated with Brugada syndrome, a rare disease with high risk of sudden cardiac death"</a>. <i>Nature Genetics</i> <b>45</b>: 1044–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fng.2712">10.1038/ng.2712</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1061-4036">1061-4036</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3869788">3869788</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23872634">23872634</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Common+variants+at+SCN5A-SCN10A+and+HEY2+are+associated+with+Brugada+syndrome%2C+a+rare+disease+with+high+risk+of+sudden+cardiac+death&amp;rft.au=Aiba%2C+Takeshi&amp;rft.au=Antzelevitch%2C+Charles&amp;rft.au=Balkau%2C+Beverley&amp;rft.au=Barc%2C+Julien&amp;rft.au=Bartkowiak%2C+Susan&amp;rft.au=Bastiaenen%2C+Rachel&amp;rft.au=B%C3%A9zieau%2C+St%C3%A9phane&amp;rft.au=Beckmann%2C+Britt+M&amp;rft.au=Behr%2C+Elijah+R&amp;rft.au=Bezzina%2C+Connie+R&amp;rft.au=Boukens%2C+Bas+J&amp;rft.au=Charpentier%2C+Eric&amp;rft.au=Chatel%2C+St%C3%A9phanie&amp;rft.au=Christoffels%2C+Vincent+M&amp;rft.au=Coronel%2C+Ruben&amp;rft.au=Crotti%2C+Lia&amp;rft.au=Dagradi%2C+Federica&amp;rft.au=Despres%2C+Aurore&amp;rft.au=Dina%2C+Christian&amp;rft.au=Endo%2C+Naoto&amp;rft.aufirst=Connie+R&amp;rft.au=Fressart%2C+V%C3%A9ronique&amp;rft.au=Froguel%2C+Philippe&amp;rft.au=Gessler%2C+Manfred&amp;rft.au=Gourraud%2C+Jean-Baptiste&amp;rft.au=Gros%2C+Fran%C3%A7oise&amp;rft.au=Guicheney%2C+Pascale&amp;rft.au=Hasegawa%2C+Kanae&amp;rft.au=Horie%2C+Minoru&amp;rft.au=K%C3%A4%C3%A4b%2C+Stefan&amp;rft.au=Kyndt%2C+Florence&amp;rft.au=Lantieri%2C+Olivier&amp;rft.aulast=Bezzina&amp;rft.au=Lecointe%2C+Simon&amp;rft.au=Leenhardt%2C+Antoine&amp;rft.au=Lindenbaum%2C+Pierre&amp;rft.au=Makita%2C+Naomasa&amp;rft.au=Marec%2C+Herv%C3%A9+Le&amp;rft.au=Minamino%2C+Tohru&amp;rft.au=Mizusawa%2C+Yuka&amp;rft.au=Nogami%2C+Akihiko&amp;rft.au=Ohno%2C+Seiko&amp;rft.au=Olesen%2C+Morten+Salling&amp;rft.au=Portero%2C+Vincent&amp;rft.au=Probst%2C+Vincent&amp;rft.au=Redon%2C+Richard&amp;rft.au=Remme%2C+Carol+Ann&amp;rft.au=Roden%2C+Dan+M&amp;rft.au=Schott%2C+Jean-Jacques&amp;rft.au=Schulze-Bahr%2C+Eric&amp;rft.au=Schwartz%2C+Peter+J&amp;rft.au=Shimizu%2C+Wataru&amp;rft.au=Simonet%2C+Floriane&amp;rft.au=Tan%2C+Hanno+L&amp;rft.au=Tfelt-Hansen%2C+Jacob&amp;rft.au=Torchio%2C+Margherita&amp;rft.au=Verkerk%2C+Arie+O&amp;rft.au=Violleau%2C+Jade&amp;rft.au=Watanabe%2C+Hiroshi&amp;rft.au=Weber%2C+David&amp;rft.au=Weeke%2C+Peter&amp;rft.au=Wiese%2C+Cornelia&amp;rft.au=Wilde%2C+Arthur+A&amp;rft.au=Wolswinkel%2C+Rianne&amp;rft.au=Zumhagen%2C+Sven&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3869788&amp;rft_id=info%3Adoi%2F10.1038%2Fng.2712&amp;rft_id=info%3Apmc%2F3869788&amp;rft_id=info%3Apmid%2F23872634&amp;rft.issn=1061-4036&amp;rft.jtitle=Nature+Genetics&amp;rft.pages=1044-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hedley-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hedley_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hedley_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Hedley PL; Jørgensen P; Schlamowitz S; Moolman-Smook, Johanna et al. (2009). "Brugada syndrome". <i>Human Mutation</i> <b>30</b> (9): 1256–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fhumu.21066">10.1002/humu.21066</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19606473">19606473</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Brugada+syndrome&amp;rft.au=Christiansen%2C+Michael&amp;rft.au=Corfield%2C+Valerie+A.&amp;rft.au=Hedley+PL&amp;rft.au=J%C3%B8rgensen+P&amp;rft.au=Kanters%2C+J%C3%B8rgen+K.&amp;rft.aulast=Hedley+PL&amp;rft.au=Moolman-Smook%2C+Johanna&amp;rft.au=Schlamowitz+S&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fhumu.21066&amp;rft_id=info%3Apmid%2F19606473&amp;rft.issue=9&amp;rft.jtitle=Human+Mutation&amp;rft.pages=1256-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid17556198-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid17556198_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Antzelevitch C (2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1989771">"Genetic basis of Brugada syndrome"</a>. <i>Heart rhythm&#160;: the official journal of the Heart Rhythm Society</i> <b>4</b> (6): 756–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.hrthm.2007.03.015">10.1016/j.hrthm.2007.03.015</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1989771">1989771</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17556198">17556198</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Genetic+basis+of+Brugada+syndrome&amp;rft.au=Antzelevitch+C&amp;rft.aulast=Antzelevitch+C&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1989771&amp;rft_id=info%3Adoi%2F10.1016%2Fj.hrthm.2007.03.015&amp;rft_id=info%3Apmc%2F1989771&amp;rft_id=info%3Apmid%2F17556198&amp;rft.issue=6&amp;rft.jtitle=Heart+rhythm+%3A+the+official+journal+of+the+Heart+Rhythm+Society&amp;rft.pages=756-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&amp;part=brugada">http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&amp;part=brugada</a> Overview of Brugada Syndrome Genetic Testing</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Antzelevitch C; Brugada P; Borggrefe M et al. (2005). "Brugada Syndrome. Report of the second consensus conference". <i>Heart Rhythm</i> <b>2</b> (4): 429–440. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.hrthm.2005.01.005">10.1016/j.hrthm.2005.01.005</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15898165">15898165</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Brugada+Syndrome.+Report+of+the+second+consensus+conference&amp;rft.au=Antzelevitch+C&amp;rft.au=Borggrefe+M&amp;rft.au=Brugada%2C+J&amp;rft.au=Brugada%2C+R&amp;rft.au=Brugada+P&amp;rft.au=Corrado%2C+D&amp;rft.au=Gussak%2C+I&amp;rft.aulast=Antzelevitch+C&amp;rft.au=Lemarec%2C+H&amp;rft.au=Nademanee%2C+K&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.hrthm.2005.01.005&amp;rft_id=info%3Apmid%2F15898165&amp;rft.issue=4&amp;rft.jtitle=Heart+Rhythm&amp;rft.pages=429-440&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid15381640-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid15381640_14-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Belhassen B, Glick A, Viskin S (2004). "Efficacy of quinidine in high-risk patients with Brugada syndrome". <i>Circulation</i> <b>110</b> (13): 1731–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1161%2F01.CIR.0000143159.30585.90">10.1161/01.CIR.0000143159.30585.90</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15381640">15381640</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Efficacy+of+quinidine+in+high-risk+patients+with+Brugada+syndrome&amp;rft.au=Belhassen+B%2C+Glick+A%2C+Viskin+S&amp;rft.aulast=Belhassen+B%2C+Glick+A%2C+Viskin+S&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1161%2F01.CIR.0000143159.30585.90&amp;rft_id=info%3Apmid%2F15381640&amp;rft.issue=13&amp;rft.jtitle=Circulation&amp;rft.pages=1731-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=110" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation journal">Postema, PG; Wolpert, C; Amin, AS; Probst, V; Borggrefe, M; Roden, DM; Priori, SG; Tan, HL; Hiraoka, M; Brugada, J; Wilde, AA (September 2009). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2779019">"Drugs and Brugada syndrome patients: review of the literature, recommendations and an up-to-date website (www.brugadadrugs.org)"</a>. <i>Heart rhythm&#160;: the official journal of the Heart Rhythm Society</i> <b>6</b> (9): 1335–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.hrthm.2009.07.002">10.1016/j.hrthm.2009.07.002</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2779019">2779019</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19716089">19716089</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrugada+syndrome&amp;rft.atitle=Drugs+and+Brugada+syndrome+patients%3A+review+of+the+literature%2C+recommendations+and+an+up-to-date+website+%28www.brugadadrugs.org%29&amp;rft.au=Amin%2C+AS&amp;rft.au=Borggrefe%2C+M&amp;rft.au=Brugada%2C+J&amp;rft.aufirst=PG&amp;rft.au=Hiraoka%2C+M&amp;rft.aulast=Postema&amp;rft.au=Postema%2C+PG&amp;rft.au=Priori%2C+SG&amp;rft.au=Probst%2C+V&amp;rft.au=Roden%2C+DM&amp;rft.au=Tan%2C+HL&amp;rft.au=Wilde%2C+AA&amp;rft.au=Wolpert%2C+C&amp;rft.date=September+2009&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2779019&amp;rft_id=info%3Adoi%2F10.1016%2Fj.hrthm.2009.07.002&amp;rft_id=info%3Apmc%2F2779019&amp;rft_id=info%3Apmid%2F19716089&amp;rft.issue=9&amp;rft.jtitle=Heart+rhythm+%3A+the+official+journal+of+the+Heart+Rhythm+Society&amp;rft.pages=1335-41&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.brugadadrugs.org">BrugadaDrugs.org</a>, maintained by Brugada specialists, contains a list of drugs to avoid in patients with the Brugada syndrome</li>
+<li><a rel="nofollow" class="external text" href="http://www.genetests.org/profiles/brugada">GeneReviews: Brugada syndrome</a></li>
+<li>Behr: <a rel="nofollow" class="external free" href="http://www.c-r-y.org.uk/long_qt_syndrome.htm">http://www.c-r-y.org.uk/long_qt_syndrome.htm</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.brugada.org">The Ramon Brugada Senior Foundation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sindromedibrugada.it">la Sindrome di Brugada</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Channelopathy" title="Template talk:Channelopathy"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Channelopathy&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Channelopathy" title="Channelopathy">Diseases of ion channels</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Calcium_channel" title="Calcium channel">Calcium channel</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Voltage-dependent_calcium_channel" title="Voltage-dependent calcium channel">Voltage-gated</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cav2.1" title="Cav2.1">CACNA1A</a></i>
+<ul>
+<li><a href="/wiki/Familial_hemiplegic_migraine" title="Familial hemiplegic migraine">Familial hemiplegic migraine 1</a></li>
+<li><a href="/wiki/Episodic_ataxia" title="Episodic ataxia">Episodic ataxia 2</a></li>
+<li><a href="/wiki/Spinocerebellar_ataxia_type-6" title="Spinocerebellar ataxia type-6" class="mw-redirect">Spinocerebellar ataxia type-6</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Cav1.2" title="Cav1.2">CACNA1C</a></i>
+<ul>
+<li><a href="/wiki/Timothy_syndrome" title="Timothy syndrome">Timothy syndrome</a></li>
+<li><strong class="selflink">Brugada syndrome 3</strong></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 8</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Cav1.4" title="Cav1.4">CACNA1F</a></i>
+<ul>
+<li><a href="/wiki/Ocular_albinism" title="Ocular albinism">Ocular albinism 2</a></li>
+<li><a href="/wiki/X-linked_congenital_stationary_night_blindness" title="X-linked congenital stationary night blindness">CSNB2A</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Cav1.1" title="Cav1.1">CACNA1S</a></i>
+<ul>
+<li><a href="/wiki/Hypokalemic_periodic_paralysis" title="Hypokalemic periodic paralysis">Hypokalemic periodic paralysis 1</a></li>
+<li><a href="/wiki/Thyrotoxic_periodic_paralysis" title="Thyrotoxic periodic paralysis">Thyrotoxic periodic paralysis 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CACNB2" title="CACNB2">CACNB2</a></i>
+<ul>
+<li><strong class="selflink">Brugada syndrome 4</strong></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ligand gated</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/RYR1" title="RYR1">RYR1</a></i>
+<ul>
+<li><a href="/wiki/Malignant_hyperthermia" title="Malignant hyperthermia">Malignant hyperthermia</a></li>
+<li><a href="/wiki/Central_core_disease" title="Central core disease">Central core disease</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/RYR2" title="RYR2" class="mw-redirect">RYR2</a></i>
+<ul>
+<li><a href="/wiki/Catecholaminergic_polymorphic_ventricular_tachycardia" title="Catecholaminergic polymorphic ventricular tachycardia">CPVT1</a></li>
+<li><a href="/wiki/Arrhythmogenic_right_ventricular_dysplasia" title="Arrhythmogenic right ventricular dysplasia">ARVD2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sodium_channel" title="Sodium channel">Sodium channel</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Voltage-gated</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/SCN1A" title="SCN1A" class="mw-redirect">SCN1A</a></i>
+<ul>
+<li><a href="/wiki/Familial_hemiplegic_migraine" title="Familial hemiplegic migraine">Familial hemiplegic migraine 3</a></li>
+<li><a href="/wiki/Generalized_epilepsy_with_febrile_seizures_plus" title="Generalized epilepsy with febrile seizures plus">GEFS+ 2</a></li>
+<li><a href="/wiki/Febrile_seizure" title="Febrile seizure">Febrile seizure 3A</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN1B" title="SCN1B">SCN1B</a></i>
+<ul>
+<li><strong class="selflink">Brugada syndrome 6</strong></li>
+<li><a href="/wiki/Generalized_epilepsy_with_febrile_seizures_plus" title="Generalized epilepsy with febrile seizures plus">GEFS+ 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN4A" title="SCN4A" class="mw-redirect">SCN4A</a></i>
+<ul>
+<li><a href="/wiki/Hypokalemic_periodic_paralysis" title="Hypokalemic periodic paralysis">Hypokalemic periodic paralysis 2</a></li>
+<li><a href="/wiki/Hyperkalemic_periodic_paralysis" title="Hyperkalemic periodic paralysis">Hyperkalemic periodic paralysis</a></li>
+<li><a href="/wiki/Paramyotonia_congenita" title="Paramyotonia congenita">Paramyotonia congenita</a></li>
+<li><a href="/wiki/Potassium-aggravated_myotonia" title="Potassium-aggravated myotonia">Potassium-aggravated myotonia</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN4B" title="SCN4B">SCN4B</a></i>
+<ul>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 10</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN5A" title="SCN5A" class="mw-redirect">SCN5A</a></i>
+<ul>
+<li><strong class="selflink">Brugada syndrome 1</strong></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN9A" title="SCN9A" class="mw-redirect">SCN9A</a></i>
+<ul>
+<li><a href="/wiki/Erythromelalgia" title="Erythromelalgia">Erythromelalgia</a></li>
+<li><a href="/wiki/Febrile_seizure" title="Febrile seizure">Febrile seizure 3B</a></li>
+<li><a href="/wiki/Paroxysmal_extreme_pain_disorder" title="Paroxysmal extreme pain disorder">Paroxysmal extreme pain disorder</a></li>
+<li><a href="/wiki/Congenital_insensitivity_to_pain" title="Congenital insensitivity to pain">Congenital insensitivity to pain</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Epithelial_sodium_channel" title="Epithelial sodium channel">Constitutively active</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/SCNN1B" title="SCNN1B">SCNN1B</a></i>/<i><a href="/wiki/SCNN1G" title="SCNN1G">SCNN1G</a></i>
+<ul>
+<li><a href="/wiki/Liddle%27s_syndrome" title="Liddle's syndrome">Liddle's syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCNN1A" title="SCNN1A">SCNN1A</a></i>/<i><a href="/wiki/SCNN1B" title="SCNN1B">SCNN1B</a></i>/<i><a href="/wiki/SCNN1G" title="SCNN1G">SCNN1G</a></i>
+<ul>
+<li><a href="/wiki/Pseudohypoaldosteronism" title="Pseudohypoaldosteronism">Pseudohypoaldosteronism 1AR</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Potassium_channel" title="Potassium channel">Potassium channel</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Voltage-gated_potassium_channel" title="Voltage-gated potassium channel">Voltage-gated</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/KCNA1" title="KCNA1" class="mw-redirect">KCNA1</a></i>
+<ul>
+<li><a href="/wiki/Episodic_ataxia" title="Episodic ataxia">Episodic ataxia 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNA5" title="KCNA5">KCNA5</a></i>
+<ul>
+<li><a href="/wiki/Familial_atrial_fibrillation" title="Familial atrial fibrillation">Familial atrial fibrillation 7</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNC3" title="KCNC3">KCNC3</a></i>
+<ul>
+<li><a href="/wiki/Spinocerebellar_ataxia_type-13" title="Spinocerebellar ataxia type-13">Spinocerebellar ataxia type-13</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNE1" title="KCNE1">KCNE1</a></i>
+<ul>
+<li><a href="/wiki/Jervell_and_Lange-Nielsen_syndrome" title="Jervell and Lange-Nielsen syndrome">Jervell and Lange-Nielsen syndrome</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 5</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNE2" title="KCNE2">KCNE2</a></i>
+<ul>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 6</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNE3" title="KCNE3">KCNE3</a></i>
+<ul>
+<li><strong class="selflink">Brugada syndrome 5</strong></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNH2" title="KCNH2" class="mw-redirect">KCNH2</a></i>
+<ul>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNQ1" title="KCNQ1" class="mw-redirect">KCNQ1</a></i>
+<ul>
+<li><a href="/wiki/Jervell_and_Lange-Nielsen_syndrome" title="Jervell and Lange-Nielsen syndrome">Jervell and Lange-Nielsen syndrome</a></li>
+<li><a href="/wiki/Romano%E2%80%93Ward_syndrome" title="Romano–Ward syndrome">Romano–Ward syndrome</a></li>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 1</a></li>
+<li><a href="/wiki/Familial_atrial_fibrillation" title="Familial atrial fibrillation">Familial atrial fibrillation 3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNQ2" title="KCNQ2" class="mw-redirect">KCNQ2</a></i>
+<ul>
+<li><a href="/wiki/Benign_familial_neonatal_epilepsy" title="Benign familial neonatal epilepsy" class="mw-redirect">BFNS1</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Inward-rectifier_potassium_ion_channel" title="Inward-rectifier potassium ion channel">Inward-rectifier</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/ROMK" title="ROMK">KCNJ1</a></i>
+<ul>
+<li><a href="/wiki/Bartter_syndrome" title="Bartter syndrome">Bartter syndrome 2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNJ2" title="KCNJ2" class="mw-redirect">KCNJ2</a></i>
+<ul>
+<li><a href="/wiki/Andersen%E2%80%93Tawil_syndrome" title="Andersen–Tawil syndrome">Andersen–Tawil syndrome</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 7</a></li>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a>)</li>
+</ul>
+</li>
+<li><i><a href="/wiki/Kir6.2" title="Kir6.2">KCNJ11</a></i>
+<ul>
+<li><a href="/wiki/Transient_neonatal_diabetes_mellitus" title="Transient neonatal diabetes mellitus">TNDM3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNJ18" title="KCNJ18" class="mw-redirect">KCNJ18</a></i>
+<ul>
+<li><a href="/wiki/Thyrotoxic_periodic_paralysis" title="Thyrotoxic periodic paralysis">Thyrotoxic periodic paralysis 2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chloride_channel" title="Chloride channel">Chloride channel</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cystic_fibrosis_transmembrane_conductance_regulator" title="Cystic fibrosis transmembrane conductance regulator">CFTR</a></i>
+<ul>
+<li><a href="/wiki/Cystic_fibrosis" title="Cystic fibrosis">Cystic fibrosis</a></li>
+<li><a href="/wiki/Congenital_absence_of_the_vas_deferens" title="Congenital absence of the vas deferens">Congenital absence of the vas deferens</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCN1" title="CLCN1">CLCN1</a></i>
+<ul>
+<li><a href="/wiki/Thomsen_disease" title="Thomsen disease" class="mw-redirect">Thomsen disease</a></li>
+<li><a href="/wiki/Myotonia_congenita" title="Myotonia congenita">Myotonia congenita</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCN5" title="CLCN5">CLCN5</a></i>
+<ul>
+<li><a href="/wiki/Dent%27s_disease" title="Dent's disease">Dent's disease</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCN7" title="CLCN7">CLCN7</a></i>
+<ul>
+<li><a href="/wiki/Osteopetrosis" title="Osteopetrosis">Osteopetrosis A2, B4</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Bestrophin_1" title="Bestrophin 1">BEST1</a></i>
+<ul>
+<li><a href="/wiki/Vitelliform_macular_dystrophy" title="Vitelliform macular dystrophy">Vitelliform macular dystrophy</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCNKB" title="CLCNKB">CLCNKB</a></i>
+<ul>
+<li><a href="/wiki/Bartter_syndrome" title="Bartter syndrome">Bartter syndrome 3</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Transient_receptor_potential_channel" title="Transient receptor potential channel">TRP channel</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/TRPC6" title="TRPC6">TRPC6</a></i>
+<ul>
+<li><a href="/wiki/Focal_segmental_glomerulosclerosis" title="Focal segmental glomerulosclerosis">FSGS2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/MCOLN1" title="MCOLN1">TRPML1</a></i>
+<ul>
+<li><a href="/wiki/Mucolipidosis_type_IV" title="Mucolipidosis type IV">Mucolipidosis type IV</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Connexin" title="Connexin">Connexin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Gap_junction_protein,_alpha_1" title="Gap junction protein, alpha 1" class="mw-redirect">GJA1</a></i>
+<ul>
+<li><a href="/wiki/Oculodentodigital_dysplasia" title="Oculodentodigital dysplasia">Oculodentodigital dysplasia</a></li>
+<li><a href="/wiki/Hallermann%E2%80%93Streiff_syndrome" title="Hallermann–Streiff syndrome">Hallermann–Streiff syndrome</a></li>
+<li><a href="/wiki/Hypoplastic_left_heart_syndrome" title="Hypoplastic left heart syndrome">Hypoplastic left heart syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB1" title="GJB1">GJB1</a></i>
+<ul>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease X1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB2" title="GJB2">GJB2</a></i>
+<ul>
+<li><a href="/wiki/Keratitis%E2%80%93ichthyosis%E2%80%93deafness_syndrome" title="Keratitis–ichthyosis–deafness syndrome">Keratitis–ichthyosis–deafness syndrome</a></li>
+<li><a href="/wiki/Ichthyosis_hystrix" title="Ichthyosis hystrix">Ichthyosis hystrix</a></li>
+<li><a href="/wiki/Bart%E2%80%93Pumphrey_syndrome" title="Bart–Pumphrey syndrome">Bart–Pumphrey syndrome</a></li>
+<li><a href="/wiki/Vohwinkel_syndrome" title="Vohwinkel syndrome" class="mw-redirect">Vohwinkel syndrome</a>)</li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB3" title="GJB3">GJB3</a>/<a href="/wiki/GJB4" title="GJB4">GJB4</a></i>
+<ul>
+<li><a href="/wiki/Erythrokeratodermia_variabilis" title="Erythrokeratodermia variabilis">Erythrokeratodermia variabilis</a></li>
+<li><a href="/wiki/Progressive_symmetric_erythrokeratodermia" title="Progressive symmetric erythrokeratodermia">Progressive symmetric erythrokeratodermia</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB6" title="GJB6">GJB6</a></i>
+<ul>
+<li><a href="/wiki/Clouston%27s_hidrotic_ectodermal_dysplasia" title="Clouston's hidrotic ectodermal dysplasia">Clouston's hidrotic ectodermal dysplasia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Porin_(protein)" title="Porin (protein)">Porin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Aquaporin_2" title="Aquaporin 2">AQP2</a></i>
+<ul>
+<li><a href="/wiki/Nephrogenic_diabetes_insipidus" title="Nephrogenic diabetes insipidus">Nephrogenic diabetes insipidus 2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>See also: <a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></i></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1183
+CPU time usage: 0.333 seconds
+Real time usage: 0.398 seconds
+Preprocessor visited node count: 1947/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 103167/2097152 bytes
+Template argument size: 593/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.106/10.000 seconds
+Lua memory usage: 3.05 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  284.374      1 - -total
+ 44.85%  127.536      1 - Template:Reflist
+ 29.58%   84.105      1 - Template:Infobox_disease
+ 29.15%   82.888     14 - Template:Cite_journal
+ 25.99%   73.902      1 - Template:Infobox
+ 21.93%   62.365      5 - Template:Navbox
+ 17.69%   50.301      1 - Template:Channelopathy
+  7.71%   21.933      1 - Template:Protein_defects_by_function_navs
+  6.04%   17.173      1 - Template:Comma_separated_entries
+  4.58%   13.016      1 - Template:Namespace_detect
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:155623-0!*!0!!en!4!* and timestamp 20150710134608 and revision id 670175504
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brugada_syndrome&amp;oldid=670175504">https://en.wikipedia.org/w/index.php?title=Brugada_syndrome&amp;oldid=670175504</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cardiac_dysrhythmia" title="Category:Cardiac dysrhythmia">Cardiac dysrhythmia</a></li><li><a href="/wiki/Category:Channelopathy" title="Category:Channelopathy">Channelopathy</a></li><li><a href="/wiki/Category:Congenital_disorders" title="Category:Congenital disorders">Congenital disorders</a></li><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li><li><a href="/wiki/Category:Cardiogenetic_disorders" title="Category:Cardiogenetic disorders">Cardiogenetic disorders</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brugada+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brugada+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Brugada_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Brugada_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Brugada_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Brugada_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brugada_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brugada_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brugada_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brugada_syndrome&amp;oldid=670175504" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brugada_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q599683" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brugada_syndrome&amp;id=670175504" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brugada+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Brugada+syndrome&amp;oldid=670175504&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brugada_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D8%A8%D8%B1%D9%88%D8%AC%D8%A7%D8%AF%D8%A7" title="متلازمة بروجادا – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Brugada_syndrom" title="Brugada syndrom – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Brugada-Syndrom" title="Brugada-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Brugada" title="Síndrome de Brugada – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Brugada" title="Syndrome de Brugada – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B8%8C%EB%A3%A8%EA%B0%80%EB%8B%A4_%EC%A6%9D%ED%9B%84%EA%B5%B0" title="브루가다 증후군 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Brugada_sindrom" title="Brugada sindrom – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Brugada" title="Sindrome di Brugada – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%9E%D7%95%D7%A0%D7%AA_%D7%91%D7%A8%D7%95%D7%92%D7%93%D7%94" title="תסמונת ברוגדה – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Brugadas_sindroms" title="Brugadas sindroms – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AC%E3%83%80%E7%97%87%E5%80%99%E7%BE%A4" title="ブルガダ症候群 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Choroba_Brugad%C3%B3w" title="Choroba Brugadów – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Brugada" title="Síndrome de Brugada – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%91%D1%80%D1%83%D0%B3%D0%B0%D0%B4%D0%B0" title="Синдром Бругада – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Brugadan_oireyhtym%C3%A4" title="Brugadan oireyhtymä – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%9F%E0%AE%BE_%E0%AE%A8%E0%AF%8B%E0%AE%AF%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%82%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B1%E0%AE%BF%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF" title="புருகாடா நோய்க்கூட்டறிகுறி – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Brugada_sendromu" title="Brugada sendromu – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%91%D1%80%D1%83%D0%B3%D0%B0%D0%B4%D0%B0" title="Синдром Бругада – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B8%83%E9%AD%AF%E6%A0%BC%E9%81%94%E6%B0%8F%E7%97%87%E5%80%99%E7%BE%A4" title="布魯格達氏症候群 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q599683#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 July 2015, at 09:48.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brugada_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1100"});
+}</script>
+	</body>
+</html>

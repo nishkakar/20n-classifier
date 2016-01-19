@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Business process validation - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Business_process_validation" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Business_process_validation&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Business_process_validation&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Business_process_validation" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Business_process_validation" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Business_process_validation","wgTitle":"Business process validation","wgCurRevisionId":640454388,"wgRevisionId":640454388,"wgArticleId":40753902,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2015","Software testing","Formal methods","Software quality","Enterprise modelling","Process management","Business process"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Business_process_validation","wgRelevantArticleId":40753902,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17004095"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Business_process_validation skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Business process validation</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Business Process Validation</b> (BPV) is the act of verifying that a set of end-to-end business processes function as intended. If there are problems in one or more business applications that support a business process, or in the integration or configuration of those systems, then the consequences of disruption to the business can be serious. A company might be unable to take orders or ship product – which can directly impact company revenue, reputation, and customer satisfaction. It can also drive additional expenses, as defects in production are much more expensive to fix than if identified earlier. For this reason, a key aim of Business Process Validation is to identify defects early, before new enterprise software<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> is deployed in production so that there is no business impact and the cost of repairing defects is kept to a minimum.</p>
+<p>Note: BPV is unrelated to <a href="/wiki/Validation_(drug_manufacture)" title="Validation (drug manufacture)">Validation (drug manufacture)</a> by the <a href="/wiki/U.S._Food_and_Drug_Administration" title="U.S. Food and Drug Administration" class="mw-redirect">U.S. Food and Drug Administration</a>.</p>
+<p>During Business Process Validation (BPV), the business process is checked step-by-step using representative data to confirm that all business rules are working correctly and that all underlying transactions are performing properly across every enterprise application<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> used in the business process. When defects are identified, these problems are logged for repair by IT personnel, business analysts or the software vendor, as appropriate.</p>
+<p>Business Process Validation can be performed on various timescales, including the following:</p>
+<ul>
+<li><i>Project basis</i>, when new enterprise software systems (such as <a href="/wiki/SAP_HANA" title="SAP HANA">SAP HANA</a>®, mobile, cloud, or web applications) are being deployed for the first time</li>
+<li><i>Periodic basis</i>, when there are regular monthly, quarterly, or annual updates to enterprise software, such as <a href="/wiki/SAP_AG" title="SAP AG" class="mw-redirect">SAP</a>®</li>
+<li><i>Continuous basis<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></i>, when companies want to validate the readiness of their processes and enterprise systems 24/7/365</li>
+</ul>
+<p><br /></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Business_Process_Validation_Methods"><span class="tocnumber">1</span> <span class="toctext">Business Process Validation Methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Manual"><span class="tocnumber">1.1</span> <span class="toctext">Manual</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Automated"><span class="tocnumber">1.2</span> <span class="toctext">Automated</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Business_Process_Validation_Methods">Business Process Validation Methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Business_process_validation&amp;action=edit&amp;section=1" title="Edit section: Business Process Validation Methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Manual">Manual</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Business_process_validation&amp;action=edit&amp;section=2" title="Edit section: Manual">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Manual Business Process Validation is where one or more people (typically a cross-functional team) work at keyboards or mobile devices to execute the various business process steps directly in the enterprise software by hand. Defects are manually noted and typically logged in a defect tracking system.</p>
+<p>There are several shortcomings to the manual approach. First, since all data is entered by hand, it can be time consuming for subject matter experts and business analysts. These are expensive staff resources that could be deployed on other higher value activities. Second, manual testing extends project timelines. This slows the deployment of innovation and makes business users wait longer for cost saving and revenue generating new technology. Third, the manual process is often incomplete, since the time-intensive nature means that IT teams cannot test all business processes,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2015)">citation needed</span></a></i>]</sup> given their resource constraints. This lack of coverage introduces technology risk in a company’s business processes. Finally, if business process validation is done manually by IT teams, then business requirements and processes have to be unambiguously documented in advance, which is a time-consuming task.</p>
+<h3><span class="mw-headline" id="Automated">Automated</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Business_process_validation&amp;action=edit&amp;section=3" title="Edit section: Automated">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Automated Business Process Validation relies on software to execute the various business process steps directly in the enterprise software systems in an automated fashion.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> BPV software automatically uses standard business process data during the validation, and interprets the correctness of each transaction and result. Defects are automatically noted and logged.</p>
+<p>With <a href="/wiki/Worksoft" title="Worksoft">BPV software</a>, the business process must first be "captured" in the BPV software system so that it can be automatically executed. This amounts to performing the business process once in the enterprise system with the BPV software running in the background to capture the process. Once the business process is captured, BPV software allows the business process automation to be modified with very little effort. Some BPV software have object-oriented designs that allow sub-processes to be shared among different end-to-end business processes, and business process automation can be easily copied and modified. This last feature is particularly helpful when companies have variations of business processes across geographies or business units. For example, an order shipment process in Europe may differ slightly from the same process in North America because there are differences in compliance requirements and Bills of Lading. There is no need to capture the second process end-to-end<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> for automation purposes. The first process can easily be copied and modified in the BPV software. This enables companies to efficiently and quickly build their portfolio of business processes for automated validation.</p>
+<p>An ancillary benefit is that once the business process is correctly captured, BPV software allows a complete and accurate description of the business process to be printed. This documentation is generated automatically with no additional effort and is useful for training, regulatory compliance, and other purposes. It is available on-demand and is typically very accurate because it is based on the most recent versions of systems and business practices. BPV software largely avoids the shortcomings of manual business process validation. The automation software can be configured to validate business processes on a 24/7/365 basis, if desired by the user. The frequency of automation enables any defects in underlying business systems and interfaces to be detected and repaired quickly, before business users are impacted.</p>
+<p>Automated business process validation is a way to ensure that a company’s business processes continue to work, even when mission critical enterprise systems change.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Business_process_validation&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://en.wikipedia.org/wiki/Enterprise_software">"Enterprise Software"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABusiness+process+validation&amp;rft.btitle=Enterprise+Software&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEnterprise_software&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.webopedia.com/TERM/E/enterprise_application.html">"What is enterprise application?"</a>. Quinstreet Enterprise<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABusiness+process+validation&amp;rft.btitle=What+is+enterprise+application%3F&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.webopedia.com%2FTERM%2FE%2Fenterprise_application.html&amp;rft.pub=Quinstreet+Enterprise&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.worksoft.com/files/resources/Worksoft-Paper-Lights-Out-Testing-For-Business-Process-Validation.pdf">"Lights-out Testing for End-to-end Business Process Validation."</a> <span style="font-size:85%;">(PDF)</span>. Worksoft<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABusiness+process+validation&amp;rft.btitle=Lights-out+Testing+for+End-to-end+Business+Process+Validation.&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.worksoft.com%2Ffiles%2Fresources%2FWorksoft-Paper-Lights-Out-Testing-For-Business-Process-Validation.pdf&amp;rft.pub=Worksoft&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">Hayes, Linda. <a rel="nofollow" class="external text" href="http://www.softwaretestpro.com/itemassets/4772/automatedtestinghandbook.pdf">"The Automated Testing Handbook"</a> <span style="font-size:85%;">(PDF)</span>. Software Testing Institute<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABusiness+process+validation&amp;rft.aufirst=Linda&amp;rft.au=Hayes%2C+Linda&amp;rft.aulast=Hayes&amp;rft.btitle=The+Automated+Testing+Handbook&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.softwaretestpro.com%2Fitemassets%2F4772%2Fautomatedtestinghandbook.pdf&amp;rft.pub=Software+Testing+Institute&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://wiki.scn.sap.com/wiki/display/BPX/End+to+End+Business+Scenarios">"End to End Business Scenarios"</a>. SAP<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABusiness+process+validation&amp;rft.btitle=End+to+End+Business+Scenarios&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwiki.scn.sap.com%2Fwiki%2Fdisplay%2FBPX%2FEnd%2Bto%2BEnd%2BBusiness%2BScenarios&amp;rft.pub=SAP&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1244
+CPU time usage: 0.105 seconds
+Real time usage: 0.134 seconds
+Preprocessor visited node count: 361/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 8718/2097152 bytes
+Template argument size: 486/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.046/10.000 seconds
+Lua memory usage: 1.93 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  120.495      1 - -total
+ 54.50%   65.669      1 - Template:Cn
+ 42.82%   51.593      1 - Template:Reflist
+ 37.20%   44.830      1 - Template:Fix
+ 33.57%   40.450      5 - Template:Cite_web
+ 33.40%   40.242      2 - Template:Category_handler
+  4.31%    5.196      1 - Template:Fix/category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40753902-0!*!0!!en!*!* and timestamp 20150627093926 and revision id 640454388
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Business_process_validation&amp;oldid=640454388">https://en.wikipedia.org/w/index.php?title=Business_process_validation&amp;oldid=640454388</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Software_testing" title="Category:Software testing">Software testing</a></li><li><a href="/wiki/Category:Formal_methods" title="Category:Formal methods">Formal methods</a></li><li><a href="/wiki/Category:Software_quality" title="Category:Software quality">Software quality</a></li><li><a href="/wiki/Category:Enterprise_modelling" title="Category:Enterprise modelling">Enterprise modelling</a></li><li><a href="/wiki/Category:Process_management" title="Category:Process management">Process management</a></li><li><a href="/wiki/Category:Business_process" title="Category:Business process">Business process</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2015" title="Category:Articles with unsourced statements from January 2015">Articles with unsourced statements from January 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Business+process+validation&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Business+process+validation" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Business_process_validation"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Business_process_validation&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Business_process_validation" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Business_process_validation&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Business_process_validation&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Business_process_validation" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Business_process_validation" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Business_process_validation&amp;oldid=640454388" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Business_process_validation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q17004095" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Business_process_validation&amp;id=640454388" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Business+process+validation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Business+process+validation&amp;oldid=640454388&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Business_process_validation&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q17004095#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 January 2015, at 01:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Business_process_validation&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1038"});
+}</script>
+	</body>
+</html>

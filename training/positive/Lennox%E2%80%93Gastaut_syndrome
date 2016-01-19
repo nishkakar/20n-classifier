@@ -1,0 +1,774 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Lennox–Gastaut syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lennox%E2%80%93Gastaut_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Lennox%E2%80%93Gastaut_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lennox%E2%80%93Gastaut_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lennox–Gastaut_syndrome","wgTitle":"Lennox–Gastaut syndrome","wgCurRevisionId":665666974,"wgRevisionId":665666974,"wgArticleId":2191954,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","CS1 Spanish-language sources (es)","All articles with dead external links","Articles with dead external links from October 2010","Articles with contributors link","Articles needing additional references from April 2013","All articles needing additional references","Articles that use a Medicine navs subtemplate","Neurological disorders","Epilepsy types"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lennox–Gastaut_syndrome","wgRelevantArticleId":2191954,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en","es"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1544884"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lennox–Gastaut_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Lennox–Gastaut syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Lennox–Gastaut syndrome</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/G40.4">G40.4</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=345.0">345.0</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb29493.htm">29493</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/neuro/topic186.htm">neuro/186</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/Lennox-Gastaut-Syndrome">Lennox–Gastaut syndrome</a></td>
+</tr>
+</table>
+<p><b>Lennox–Gastaut syndrome</b> (LGS), also known as <i>Lennox syndrome</i>, is a difficult-to-treat form of childhood-onset <a href="/wiki/Epilepsy" title="Epilepsy">epilepsy</a> that most often appears between the second and sixth year of life, and is characterized by frequent seizures and different seizure types; it is often accompanied by developmental delay and psychological and behavioral problems.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Characteristics"><span class="tocnumber">1</span> <span class="toctext">Characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Incidence_and_prevalence"><span class="tocnumber">2</span> <span class="toctext">Incidence and prevalence</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Finland"><span class="tocnumber">2.1</span> <span class="toctext">Finland</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#United_States"><span class="tocnumber">2.2</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Mortality"><span class="tocnumber">3</span> <span class="toctext">Mortality</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Causes"><span class="tocnumber">4</span> <span class="toctext">Causes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Diagnosis"><span class="tocnumber">5</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Treatment"><span class="tocnumber">6</span> <span class="toctext">Treatment</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Pharmacological"><span class="tocnumber">6.1</span> <span class="toctext">Pharmacological</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Approved"><span class="tocnumber">6.1.1</span> <span class="toctext">Approved</span></a>
+<ul>
+<li class="toclevel-4 tocsection-11"><a href="#First-line_drugs"><span class="tocnumber">6.1.1.1</span> <span class="toctext">First-line drugs</span></a></li>
+<li class="toclevel-4 tocsection-12"><a href="#Second-line_drugs"><span class="tocnumber">6.1.1.2</span> <span class="toctext">Second-line drugs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-13"><a href="#Unapproved.2C_off-label.2C_and_investigational_drugs"><span class="tocnumber">6.1.2</span> <span class="toctext">Unapproved, off-label, and investigational drugs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Surgical"><span class="tocnumber">6.2</span> <span class="toctext">Surgical</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Other"><span class="tocnumber">6.3</span> <span class="toctext">Other</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Ketogenic_diet"><span class="tocnumber">6.3.1</span> <span class="toctext">Ketogenic diet</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Intravenous_immunoglobulin_therapy"><span class="tocnumber">6.3.2</span> <span class="toctext">Intravenous immunoglobulin therapy</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Support_.26_Community"><span class="tocnumber">8</span> <span class="toctext">Support &amp; Community</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Resources"><span class="tocnumber">9</span> <span class="toctext">Resources</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Characteristics">Characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=1" title="Edit section: Characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2013)</i></small></span></td>
+</tr>
+</table>
+<p>The age of onset of seizures is typically between 2 and 6 years old, though onset can occur at an earlier or later age. The syndrome shows clear parallels to <a href="/wiki/West_syndrome" title="West syndrome" class="mw-redirect">West syndrome</a>, enough to suggest a connection.</p>
+<p>Daily multiple seizures are typical in LGS. Also typical is the broad range of seizures that can occur, larger than that of any other epileptic syndrome. The most frequently occurring seizure type is <a href="/wiki/Tonic_seizure" title="Tonic seizure" class="mw-redirect">tonic</a> seizures, which are often nocturnal (90%); the second most frequent are <a href="/wiki/Myoclonic_seizure" title="Myoclonic seizure" class="mw-redirect">myoclonic seizures</a>, which often occur when the person is over-tired.<sup id="cite_ref-tired_bad_1-0" class="reference"><a href="#cite_note-tired_bad-1"><span>[</span>1<span>]</span></a></sup></p>
+<p><a href="/wiki/Atonic_seizure" title="Atonic seizure">Atonic</a>, atypical <a href="/wiki/Absence_seizure" title="Absence seizure">absence</a>, tonic, <a href="/wiki/Complex_partial_seizure" title="Complex partial seizure" class="mw-redirect">complex partial</a>, <a href="/wiki/Focal_seizure" title="Focal seizure" class="mw-redirect">focalized</a> and <a href="/wiki/Tonic%E2%80%93clonic_seizure" title="Tonic–clonic seizure">tonic–clonic seizures</a> are also common. Additionally, about half of patients will have <a href="/wiki/Status_epilepticus" title="Status epilepticus">status epilepticus</a>, usually the nonconvulsive type, which is characterized by dizziness, <a href="/wiki/Apathy" title="Apathy">apathy</a>, and unresponsiveness. The seizures can cause sudden falling (or <a href="/wiki/Spasm" title="Spasm">spasms</a> in tonic, atonic and myoclonic episodes) and/or loss of balance, which is why patients often wear a helmet to prevent head injury.</p>
+<p>In addition to daily multiple seizures of various types, children with LGS frequently have arrested/slowed <a href="/wiki/Psycho-motor_development" title="Psycho-motor development" class="mw-redirect">psycho-motor development</a> and behavior disorders.</p>
+<p>The syndrome is also characterized by an <a href="//en.wiktionary.org/wiki/interictal" class="extiw" title="wiktionary:interictal">interictal</a> (between-seizures) <a href="/wiki/Electroencephalogram" title="Electroencephalogram" class="mw-redirect">EEG</a> featuring slow <a href="/wiki/Spike-and-wave" title="Spike-and-wave">spike-wave complexes</a>.</p>
+<h2><span class="mw-headline" id="Incidence_and_prevalence">Incidence and prevalence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=2" title="Edit section: Incidence and prevalence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>LGS is seen in approximately 4% of children with epilepsy, and is more prevalent in males than females. <sup id="cite_ref-trevathanetal1997_2-0" class="reference"><a href="#cite_note-trevathanetal1997-2"><span>[</span>2<span>]</span></a></sup> Children can have no neurological problems prior diagnosis, or have other forms of epilepsy. <a href="/wiki/West_syndrome" title="West syndrome" class="mw-redirect">West syndrome</a> is diagnosed in 20% of patients before it evolves into LGS at about 2 years old.<sup id="cite_ref-Tyagi2010_3-0" class="reference"><a href="#cite_note-Tyagi2010-3"><span>[</span>3<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Finland">Finland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=3" title="Edit section: Finland">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to a 1997 community-based retrospective study in the <a href="/wiki/Helsinki" title="Helsinki">Helsinki</a> metropolitan area and the province of <a href="/wiki/Uusimaa" title="Uusimaa">Uusimaa</a>, the annual incidence of Lennox–Gastaut was 2 in 100,000 (0.002%) from 1975 to 1985.<sup id="cite_ref-Finland_4-0" class="reference"><a href="#cite_note-Finland-4"><span>[</span>4<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=4" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>0.026% of all children in the <a href="/wiki/Atlanta,_Georgia" title="Atlanta, Georgia" class="mw-redirect">Atlanta, Georgia</a> metropolitan area were estimated to have LGS in 1997, which was defined as, "onset of multiple seizure types before age 11 years, with at least one seizure type resulting in falls, and an <a href="/wiki/EEG" title="EEG" class="mw-redirect">EEG</a> demonstrating slow spike-wave complexes (&lt;2.5 Hz)." The study concluded that LGS accounts for 4% of childhood epilepsies.<sup id="cite_ref-trevathanetal1997_2-1" class="reference"><a href="#cite_note-trevathanetal1997-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Mortality">Mortality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=5" title="Edit section: Mortality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The mortality rate ranges from 3-7% in a mean follow up period of 8.5 to 9.7 years. Death is often related to accidents.<sup id="cite_ref-7percent_5-0" class="reference"><a href="#cite_note-7percent-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Causes">Causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=6" title="Edit section: Causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is no uniform cause: in 20% of those concerned, the LGS develops from <a href="/wiki/West_syndrome" title="West syndrome" class="mw-redirect">West syndrome</a>.<sup id="cite_ref-Tyagi2010_3-1" class="reference"><a href="#cite_note-Tyagi2010-3"><span>[</span>3<span>]</span></a></sup> The medical history frequently includes infantile spasms or focal and generalized seizures.</p>
+<p>The most common type of LGS (70–78%) is symptomatic (secondary) - that is an identifiable underlying pathology is responsible.<sup id="cite_ref-trevathanetal1997_2-2" class="reference"><a href="#cite_note-trevathanetal1997-2"><span>[</span>2<span>]</span></a></sup> This includes <a href="/wiki/Encephalopathy" title="Encephalopathy">encephalopathy</a> (brain damage) or another disease and/or developmental disorder. Frequent causes include <a href="/wiki/Tuberous_sclerosis" title="Tuberous sclerosis">tuberous sclerosis</a>, hereditary <a href="/wiki/Metabolic_diseases" title="Metabolic diseases" class="mw-redirect">metabolic diseases</a>, inflammatory brain disease such as <a href="/wiki/Encephalitis" title="Encephalitis">encephalitis</a>, <a href="/wiki/Meningitis" title="Meningitis">meningitis</a>, and <a href="/wiki/Toxoplasmosis" title="Toxoplasmosis">toxoplasmosis</a>; <a href="/wiki/Hypoxia_(medical)" title="Hypoxia (medical)">hypoxia</a>–<a href="/wiki/Ischemia" title="Ischemia">ischemia</a> injury and other birth injuries; and <a href="/wiki/Lesion" title="Lesion">lesions</a> of the <a href="/wiki/Frontal_lobe" title="Frontal lobe">frontal lobe</a>. These patients tend to have a worse prognosis than those with idiopathic LGS.<sup id="cite_ref-Tyagi2010_3-2" class="reference"><a href="#cite_note-Tyagi2010-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Progress in <a href="/wiki/Genome" title="Genome">genome</a> and <a href="/wiki/Exome" title="Exome">exome</a> sequencing is revealing that some individuals diagnosed with Lennox Gastaut Syndrome have <a href="/w/index.php?title=De_novo_mutations&amp;action=edit&amp;redlink=1" class="new" title="De novo mutations (page does not exist)">de novo mutations</a> in a variety of genes, including <a href="/wiki/CHD2" title="CHD2">CHD2</a> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In up to one-third of cases no cause can be found.<sup id="cite_ref-Tyagi2010_3-3" class="reference"><a href="#cite_note-Tyagi2010-3"><span>[</span>3<span>]</span></a></sup> These cases are referred as cryptogenic if a cause is suspected but unknown. Not all investigators mention the second category.</p>
+<p>Lennox–Gastaut syndrome and drug resistant/drug refractory epilepsy have been recorded with neurovisceral porphyrias including acute intermittent porphyria, hereditary coproporphyria and variegate porphyria. Care must be taken to avoid <a href="/wiki/Porphyrin" title="Porphyrin">porphyrinogenic</a> anti-seizure drugs in these cases. Diagnosis may be difficult in children who require enzyme or DNA testing.</p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=7" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(April 2013)</i></small></span></td>
+</tr>
+</table>
+<p>Generally speaking, LGS can often only be defined as a syndrome and/or distinguished from other syndromes because there are various overlaps with other syndromes. Currently, the fact that there is no uniform cause complicates things.</p>
+<p><br /></p>
+<p>The diagnosis or suspicion of LGS is often a question of probability rather than certainty. This is because the varied presentations of LGS share features with other disorders, many of which may be said to have overlapping characteristics.</p>
+<p>The diagnosis is more obvious when the epilepsy has frequent and manifold attacks, with the classic pattern on the electro-encephalogram (EEG); the latter is a slowed rhythm with Spike-wave-pattern, or with a multifocal and generalizing Sharp-slow-wave-discharges at 1.5–2.5&#160;Hz. During sleep, frequently, tonic patterns can be seen. But variations of these patterns are known in patients with no diagnosis other than LGS, and they can differ bilaterally, and from time to time, within the same patient.</p>
+<p>General medical investigation usually reveals developmental delay and cognitive deficiencies in children with true LGS. These may precede development of seizures, or require up to two years after the seizures begin, in order to become apparent.</p>
+<p>Exclusion of organic or structural brain lesions is also important in establishing a correct diagnosis of LGS; this may require magnetic resonance imaging (MRI) or computerized tomography (CT). An important differential diagnosis is 'Pseudo-Lennox-Syndrome', which differs from LGS, in that there are no tonic seizures; sleeping EEG provides the best basis for distinguishing between the two.</p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=8" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>LGS seizures are often treatment resistant, but this does not mean that treatment is futile. Options include anticonvulsants, anesthetics, steroids such as <a href="/wiki/Prednisone" title="Prednisone">prednisone</a>, <a href="/wiki/Immunoglobulin" title="Immunoglobulin" class="mw-redirect">immunoglobulins</a>, and various other pharmacological agents that have been reported to work in individual patients.</p>
+<h3><span class="mw-headline" id="Pharmacological">Pharmacological</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=9" title="Edit section: Pharmacological">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>No scientific study has shown any drug to be highly <a href="/wiki/Efficacious" title="Efficacious" class="mw-redirect">efficacious</a> for treatment of LGS, and its best treatment remains uncertain. <a href="/wiki/Rufinamide" title="Rufinamide">Rufinamide</a>(Banzel), <a href="/wiki/Lamotrigine" title="Lamotrigine">lamotrigine</a>, <a href="/wiki/Topiramate" title="Topiramate">topiramate</a> and <a href="/wiki/Felbamate" title="Felbamate">felbamate</a> may help as add-on therapy.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Approved">Approved</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=10" title="Edit section: Approved">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<h5><span class="mw-headline" id="First-line_drugs">First-line drugs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=11" title="Edit section: First-line drugs">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Rufinamide approved recently by FDA</p>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(April 2013)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li>valproates (<a href="/wiki/Valproic_acid" title="Valproic acid" class="mw-redirect">valproic acid</a>, <a href="/wiki/Sodium_valproate" title="Sodium valproate" class="mw-redirect">sodium valproate</a> and <a href="/wiki/Valproate_semisodium" title="Valproate semisodium" class="mw-redirect">valproate semisodium</a>)</li>
+<li>felbamate</li>
+<li><a href="/wiki/Benzodiazepine" title="Benzodiazepine">benzodiazepines</a>, specifically <a href="/wiki/Clonazepam" title="Clonazepam">clonazepam</a>, <a href="/wiki/Nitrazepam" title="Nitrazepam">nitrazepam</a>, and <a href="/wiki/Clobazam" title="Clobazam">clobazam</a></li>
+</ul>
+<p>Nitrazepam is not approved in the USA.</p>
+<p>Clobazam has been recently approved by the FDA on 10/24/11.</p>
+<h5><span class="mw-headline" id="Second-line_drugs">Second-line drugs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=12" title="Edit section: Second-line drugs">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>In 1999, Dr. Sachdeo and colleagues at the University of Medicine and Dentistry of New Jersey and the Robert Wood Johnson Medical School in New Brunswick reported that 33% of the patients in the <a href="/wiki/Topiramate" title="Topiramate">topiramate</a> group experienced a minimum 50% reduction in seizures (specifically drop attacks and tonic–clonics), compared with 8% in the <a href="/wiki/Placebo" title="Placebo">placebo</a> group.<sup id="cite_ref-topiramate_9-0" class="reference"><a href="#cite_note-topiramate-9"><span>[</span>9<span>]</span></a></sup> It was also found to be effective as an adjunctive therapy in a review published by Drs. Edith Alva Moncayo and Antonio Ruiz Ruiz in March 2003.<sup id="cite_ref-topiramate_adjunct_10-0" class="reference"><a href="#cite_note-topiramate_adjunct-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Dr. Motte and colleagues at the American Memorial Hospital at <a href="/wiki/Reims" title="Reims">Reims</a>, France reported in 1997 that <a href="/wiki/Lamotrigine" title="Lamotrigine">lamotrigine</a> was effective in the treatment of LGS, with the most common side effect in the treatment group relative to placebo being colds or viral illnesses.<sup id="cite_ref-lamotrigine_11-0" class="reference"><a href="#cite_note-lamotrigine-11"><span>[</span>11<span>]</span></a></sup> Two years later, it was approved by Health Canada for adjunctive therapy in Lennox Gastaut in adults and children.<sup id="cite_ref-epilepsy_ontario_12-0" class="reference"><a href="#cite_note-epilepsy_ontario-12"><span>[</span>12<span>]</span></a></sup> The United States <a href="/wiki/Food_and_Drug_Administration" title="Food and Drug Administration">Food and Drug Administration</a> approved it for that in August 1998.<sup id="cite_ref-US_lamotrigine_approval_13-0" class="reference"><a href="#cite_note-US_lamotrigine_approval-13"><span>[</span>13<span>]</span></a></sup></p>
+<p><a href="/wiki/Felbamate" title="Felbamate">Felbamate</a> is indicated in the use of LGS in the event that everything else fails,<sup id="cite_ref-Felbatol_PI_sheet_14-0" class="reference"><a href="#cite_note-Felbatol_PI_sheet-14"><span>[</span>14<span>]</span></a></sup> and was found to be superior to placebo in controlling treatment resistant <a href="/wiki/Partial_seizure" title="Partial seizure">partial seizures</a> and <a href="/wiki/Atonic_seizure" title="Atonic seizure">atonic seizures</a>.<sup id="cite_ref-felbamate_15-0" class="reference"><a href="#cite_note-felbamate-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-felbamate2_16-0" class="reference"><a href="#cite_note-felbamate2-16"><span>[</span>16<span>]</span></a></sup> However, it has been known to cause <a href="/wiki/Aplastic_anemia" title="Aplastic anemia">aplastic anemia</a> and liver toxicity.<sup id="cite_ref-felbamateliver_17-0" class="reference"><a href="#cite_note-felbamateliver-17"><span>[</span>17<span>]</span></a></sup></p>
+<h4><span class="mw-headline" id="Unapproved.2C_off-label.2C_and_investigational_drugs">Unapproved, off-label, and investigational drugs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=13" title="Edit section: Unapproved, off-label, and investigational drugs">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Vigabatrin" title="Vigabatrin">Vigabatrin</a> was found by Feucht et al. to be an effective add-on in patients whose seizures were not satisfactorily controlled by valproate. Out of 20 children, only 1 experienced a serious side effect (<a href="/wiki/Dyskinesia" title="Dyskinesia">dyskinesia</a>).<sup id="cite_ref-feuchtetal_18-0" class="reference"><a href="#cite_note-feuchtetal-18"><span>[</span>18<span>]</span></a></sup></p>
+<p><a href="/wiki/Zonisamide" title="Zonisamide">Zonisamide</a> showed promise in an overview of controlled and uncontrolled trials conducted in Japan.<sup id="cite_ref-zonisamideoverview_19-0" class="reference"><a href="#cite_note-zonisamideoverview-19"><span>[</span>19<span>]</span></a></sup> However, in a physician survey conducted December 2004, only 28% of Lennox–Gastaut and <a href="/wiki/West_syndrome" title="West syndrome" class="mw-redirect">West syndrome</a> patients improved on zonisamide.<sup id="cite_ref-zonisamidesurvey_20-0" class="reference"><a href="#cite_note-zonisamidesurvey-20"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Surgical">Surgical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=14" title="Edit section: Surgical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Vagus_nerve_stimulation" title="Vagus nerve stimulation">vagus nerve stimulation</a></li>
+<li><a href="/wiki/Corpus_callosotomy" title="Corpus callosotomy">corpus callosotomy</a></li>
+</ul>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=15" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Ketogenic_diet">Ketogenic diet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=16" title="Edit section: Ketogenic diet">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Ketogenic_diet" title="Ketogenic diet">Ketogenic diet</a></div>
+<p>A <a href="/wiki/Ketogenic_diet" title="Ketogenic diet">ketogenic diet</a> is a diet that causes <a href="/wiki/Ketosis" title="Ketosis">ketosis</a>, a state in which there is an increased amount of <a href="/wiki/Ketone" title="Ketone">ketones</a> in the body. It is becoming increasingly popular for treating intractable epilepsy.</p>
+<h4><span class="mw-headline" id="Intravenous_immunoglobulin_therapy">Intravenous immunoglobulin therapy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=17" title="Edit section: Intravenous immunoglobulin therapy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Intravenous immunoglobulin therapy has been used in Lennox–Gastaut syndrome as early as 1986, when van Rijckevorsel-Harmant and colleagues used it in seven patients with ostensibly idiopathic LGS and saw EEG improvement and decreased seizure frequency in six of them.<sup id="cite_ref-van_Rijckevorsel-Harmant_et_al_1986_21-0" class="reference"><a href="#cite_note-van_Rijckevorsel-Harmant_et_al_1986-21"><span>[</span>21<span>]</span></a></sup></p>
+<p><br /></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=18" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>LGS was named for <a href="/wiki/Neurology" title="Neurology">neurologists</a> <a href="/wiki/William_G._Lennox" title="William G. Lennox" class="mw-redirect">William G. Lennox</a> (Boston, USA) and <a href="/wiki/Henri_Gastaut" title="Henri Gastaut">Henri Gastaut</a> (Marseille, France).</p>
+<p>In 2010 the first documentary highlighting this disorder was produced by Eisai Inc. in cooperation with the LGS Foundation.</p>
+<p><a rel="nofollow" class="external free" href="http://www.livingwithlgs.com/lgs-documentary.aspx">http://www.livingwithlgs.com/lgs-documentary.aspx</a></p>
+<h2><span class="mw-headline" id="Support_.26_Community">Support &amp; Community</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=19" title="Edit section: Support &amp; Community">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Caregivers of individuals living with Lennox-Gastaut Syndrome may seek support and information from a variety of resources including the <a href="/w/index.php?title=LGS_Foundation&amp;action=edit&amp;redlink=1" class="new" title="LGS Foundation (page does not exist)">LGS Foundation</a> and the <a href="/wiki/Epilepsy_Foundation_of_America" title="Epilepsy Foundation of America" class="mw-redirect">Epilepsy Foundation of America</a>. The LGS Foundation offers an international conference every 18 months in the United States, regional support groups, online support groups, and numerous other programs and services.</p>
+<p>International LGS Awareness Day is November 1 annually.</p>
+<h2><span class="mw-headline" id="Resources">Resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=20" title="Edit section: Resources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a rel="nofollow" class="external text" href="http://www.lgsfoundation.org">LGS Foundation</a> <a rel="nofollow" class="external autonumber" href="http://www.lgsfoundation.org">[1]</a><br />
+Epilepsy.com <a rel="nofollow" class="external autonumber" href="http://www.epilepsy.com">[2]</a><br /></p>
+<p><br /></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=21" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-tired_bad-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-tired_bad_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20050408031621/http://hcd2.bupa.co.uk/fact_sheets/html/childhood_seizures.html">"Childhood seizures – epilepsy and convulsions in children"</a>. Archived from <a rel="nofollow" class="external text" href="http://hcd2.bupa.co.uk/fact_sheets/html/childhood_seizures.html">the original</a> on April 8, 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">August 16,</span> 2005</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.btitle=Childhood+seizures+%E2%80%93+epilepsy+and+convulsions+in+children&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fhcd2.bupa.co.uk%2Ffact_sheets%2Fhtml%2Fchildhood_seizures.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-trevathanetal1997-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-trevathanetal1997_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-trevathanetal1997_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-trevathanetal1997_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Trevathan, E; Murphy, CC; Yeargin-Allsopp, M (1997). "Prevalence and descriptive epidemiology of Lennox-Gastaut syndrome among Atlanta children". <i>Epilepsia</i> <b>38</b> (12): 1283–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1528-1157.1997.tb00065.x">10.1111/j.1528-1157.1997.tb00065.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9578523">9578523</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Prevalence+and+descriptive+epidemiology+of+Lennox-Gastaut+syndrome+among+Atlanta+children&amp;rft.aufirst=E&amp;rft.aulast=Trevathan&amp;rft.au=Murphy%2C+CC&amp;rft.au=Trevathan%2C+E&amp;rft.au=Yeargin-Allsopp%2C+M&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1528-1157.1997.tb00065.x&amp;rft_id=info%3Apmid%2F9578523&amp;rft.issue=12&amp;rft.jtitle=Epilepsia&amp;rft.pages=1283-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Tyagi2010-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tyagi2010_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tyagi2010_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Tyagi2010_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Tyagi2010_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Tyagi, Satyanand et al. (Jul–Sep 2010). <a rel="nofollow" class="external text" href="http://www.ijpbs.net/issue-3/82.pdf">"Pharmacological Management of Lennox-Gastaut Syndrome a Difficult to Treat Form of Childhood-Onset Epilepsy: An Overview"</a> <span style="font-size:85%;">(PDF)</span>. <i>International Journal of Pharma and Bio Sciences</i> <b>1</b> (3): 1–6.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Pharmacological+Management+of+Lennox-Gastaut+Syndrome+a+Difficult+to+Treat+Form+of+Childhood-Onset+Epilepsy%3A+An+Overview&amp;rft.aulast=Tyagi%2C+Satyanand&amp;rft.au=Tyagi%2C+Satyanand&amp;rft.date=Jul-Sep+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ijpbs.net%2Fissue-3%2F82.pdf&amp;rft.issue=3&amp;rft.jtitle=International+Journal+of+Pharma+and+Bio+Sciences&amp;rft.pages=1-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-Finland-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Finland_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Heiskala, H (1997). "Community-based study of Lennox-Gastaut syndrome". <i>Epilepsia</i> <b>38</b> (5): 526–31. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1528-1157.1997.tb01136.x">10.1111/j.1528-1157.1997.tb01136.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9184597">9184597</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Community-based+study+of+Lennox-Gastaut+syndrome&amp;rft.aufirst=H&amp;rft.au=Heiskala%2C+H&amp;rft.aulast=Heiskala&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1528-1157.1997.tb01136.x&amp;rft_id=info%3Apmid%2F9184597&amp;rft.issue=5&amp;rft.jtitle=Epilepsia&amp;rft.pages=526-31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=38" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7percent-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-7percent_5-0">^</a></b></span> <span class="reference-text"><span class="citation web">Glauser, Tracy A. and Morita, Diego A. (2002). <a rel="nofollow" class="external text" href="http://www.emedicine.com/neuro/topic186.htm">"Introduction"</a>. <i>Lennox–Gastaut Syndrome</i>. eMedicine.com, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2005</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Introduction&amp;rft.au=Glauser%2C+Tracy+A.+and+Morita%2C+Diego+A.&amp;rft.aulast=Glauser%2C+Tracy+A.+and+Morita%2C+Diego+A.&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.emedicine.com%2Fneuro%2Ftopic186.htm&amp;rft.jtitle=Lennox%E2%80%93Gastaut+Syndrome&amp;rft.pub=eMedicine.com%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation journal">Lund C, Brodtkorb E, Øye AM, Røsby O, Selmer KK (2014). "CHD2 mutations in Lennox-Gastaut syndrome". <i>Epilepsy Behav.</i> <b>33</b>: 18-21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.yebeh.2014.02.005">10.1016/j.yebeh.2014.02.005</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24614520">24614520</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=CHD2+mutations+in+Lennox-Gastaut+syndrome&amp;rft.aulast=Lund+C%2C+Brodtkorb+E%2C+%C3%98ye+AM%2C+R%C3%B8sby+O%2C+Selmer+KK&amp;rft.au=Lund+C%2C+Brodtkorb+E%2C+%C3%98ye+AM%2C+R%C3%B8sby+O%2C+Selmer+KK&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.yebeh.2014.02.005&amp;rft_id=info%3Apmid%2F24614520&amp;rft.jtitle=Epilepsy+Behav.&amp;rft.pages=18-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=33" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">LCapelli LP, Krepischi AC, Gurgel-Giannetti J, Mendes MF, Rodrigues T, Varela MC, Koiffmann CP, Rosenberg C (2012). "Deletion of the RMGA and CHD2 genes in a child with epilepsy and mental deficiency". <i>Eur J Med Genet.</i> <b>55</b> (2): 132-134. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ejmg.2011.10.004">10.1016/j.ejmg.2011.10.004</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22178256">22178256</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Deletion+of+the+RMGA+and+CHD2+genes+in+a+child+with+epilepsy+and+mental+deficiency&amp;rft.aulast=LCapelli+LP%2C+Krepischi+AC%2C+Gurgel-Giannetti+J%2C+Mendes+MF%2C+Rodrigues+T%2C+Varela+MC%2C+Koiffmann+CP%2C+Rosenberg+C&amp;rft.au=LCapelli+LP%2C+Krepischi+AC%2C+Gurgel-Giannetti+J%2C+Mendes+MF%2C+Rodrigues+T%2C+Varela+MC%2C+Koiffmann+CP%2C+Rosenberg+C&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ejmg.2011.10.004&amp;rft_id=info%3Apmid%2F22178256&amp;rft.issue=2&amp;rft.jtitle=Eur+J+Med+Genet.&amp;rft.pages=132-134&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=55" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Hancock, EC; Cross, HH; Hancock, Eleanor C (2009). Hancock, Eleanor C, ed. "Treatment of Lennox-Gastaut syndrome". <i>Cochrane database of systematic reviews (Online)</i> (3): CD003277. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F14651858.CD003277.pub2">10.1002/14651858.CD003277.pub2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19588340">19588340</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Treatment+of+Lennox-Gastaut+syndrome&amp;rft.au=Cross%2C+HH&amp;rft.aufirst=EC&amp;rft.au=Hancock%2C+EC&amp;rft.au=Hancock%2C+Eleanor+C&amp;rft.aulast=Hancock&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F14651858.CD003277.pub2&amp;rft_id=info%3Apmid%2F19588340&amp;rft.issue=3&amp;rft.jtitle=Cochrane+database+of+systematic+reviews+%28Online%29&amp;rft.pages=CD003277&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-topiramate-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-topiramate_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Sachdeo, R. C.; Glauser, TA; Ritter, F; Reife, R; Lim, P; Pledger, G (1999). <a rel="nofollow" class="external text" href="http://www.neurology.org/cgi/content/abstract/52/9/1882">"A double-blind, randomized trial of topiramate in Lennox-Gastaut syndrome"</a>. <i>Neurology</i> <b>52</b> (9): 1882–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1212%2Fwnl.52.9.1882">10.1212/wnl.52.9.1882</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10371538">10371538</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=A+double-blind%2C+randomized+trial+of+topiramate+in+Lennox-Gastaut+syndrome&amp;rft.au=Glauser%2C+TA&amp;rft.aulast=Sachdeo%2C+R.+C.&amp;rft.au=Lim%2C+P&amp;rft.au=Pledger%2C+G&amp;rft.au=Reife%2C+R&amp;rft.au=Ritter%2C+F&amp;rft.au=Sachdeo%2C+R.+C.&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.neurology.org%2Fcgi%2Fcontent%2Fabstract%2F52%2F9%2F1882&amp;rft_id=info%3Adoi%2F10.1212%2Fwnl.52.9.1882&amp;rft_id=info%3Apmid%2F10371538&amp;rft.issue=9&amp;rft.jtitle=Neurology&amp;rft.pages=1882-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-topiramate_adjunct-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-topiramate_adjunct_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Alva-Moncayo, E; Ruiz-Ruiz, A (2003). <a rel="nofollow" class="external text" href="http://www.revneurol.com/sec/resumen.php?or=pubmed&amp;id=2002014">"Utilidad del topiramato como terapia añadida a esquemas convencionales para el síndrome de Lennox-Gastaut" [The value of topiramate used with conventional schemes as an adjunctive therapy in the treatment of Lennox-Gastaut syndrome]</a>. <i>Revista de neurologia</i> (in Spanish) <b>36</b> (5): 453–7. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12640599">12640599</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Utilidad+del+topiramato+como+terapia+a%C3%B1adida+a+esquemas+convencionales+para+el+s%C3%ADndrome+de+Lennox-Gastaut&amp;rft.au=Alva-Moncayo%2C+E&amp;rft.aufirst=E&amp;rft.aulast=Alva-Moncayo&amp;rft.au=Ruiz-Ruiz%2C+A&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.revneurol.com%2Fsec%2Fresumen.php%3For%3Dpubmed%26id%3D2002014&amp;rft_id=info%3Apmid%2F12640599&amp;rft.issue=5&amp;rft.jtitle=Revista+de+neurologia&amp;rft.pages=453-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=36" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lamotrigine-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-lamotrigine_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Motte, J; Trevathan, E; Arvidsson, JF; Barrera, MN; Mullens, EL; Manasco, P (1997). "Lamotrigine for generalized seizures associated with the Lennox-Gastaut syndrome. Lamictal Lennox-Gastaut Study Group". <i>The New England Journal of Medicine</i> <b>337</b> (25): 1807–12. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1056%2FNEJM199712183372504">10.1056/NEJM199712183372504</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9400037">9400037</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Lamotrigine+for+generalized+seizures+associated+with+the+Lennox-Gastaut+syndrome.+Lamictal+Lennox-Gastaut+Study+Group&amp;rft.au=Arvidsson%2C+JF&amp;rft.au=Barrera%2C+MN&amp;rft.aufirst=J&amp;rft.aulast=Motte&amp;rft.au=Manasco%2C+P&amp;rft.au=Motte%2C+J&amp;rft.au=Mullens%2C+EL&amp;rft.au=Trevathan%2C+E&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1056%2FNEJM199712183372504&amp;rft_id=info%3Apmid%2F9400037&amp;rft.issue=25&amp;rft.jtitle=The+New+England+Journal+of+Medicine&amp;rft.pages=1807-12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=337" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-epilepsy_ontario-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-epilepsy_ontario_12-0">^</a></b></span> <span class="reference-text"><span class="citation web">Epilepsy Ontario (1999). <a rel="nofollow" class="external text" href="http://epilepsyontario.org/client/EO/EOWeb.nsf/web/Lamotrigine+Approved+in+Canada+for+Lennox-Gastaut+Syndrome">"Lamotrigine Approved in Canada for Lennox–Gastaut Syndrome"</a>. <i>'Sharing' News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2005</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Lamotrigine+Approved+in+Canada+for+Lennox%E2%80%93Gastaut+Syndrome&amp;rft.au=Epilepsy+Ontario&amp;rft.aulast=Epilepsy+Ontario&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fepilepsyontario.org%2Fclient%2FEO%2FEOWeb.nsf%2Fweb%2FLamotrigine%2BApproved%2Bin%2BCanada%2Bfor%2BLennox-Gastaut%2BSyndrome&amp;rft.jtitle=%7FUNIQ--nowiki-0000004F-QINU%7FSharing%7FUNIQ--nowiki-00000050-QINU%7F+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-US_lamotrigine_approval-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-US_lamotrigine_approval_13-0">^</a></b></span> <span class="reference-text"><span class="citation web">Glaxo Wellcome Inc (1998). <a rel="nofollow" class="external text" href="http://www.fda.gov/cder/foi/nda/98/020241s003.htm">"Final Printed Labeling—Part 1"</a>. <i>Lamictal Tablets &amp; Chewable Dispersible Tablets (Lamotrigine) Drug Approval Page</i>. United States Food and Drug Administration Center for Drug Evaluation and Research<span class="reference-accessdate">. Retrieved <span class="nowrap">13 November</span> 2005</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Final+Printed+Labeling%E2%80%94Part+1&amp;rft.au=Glaxo+Wellcome+Inc&amp;rft.aulast=Glaxo+Wellcome+Inc&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.fda.gov%2Fcder%2Ffoi%2Fnda%2F98%2F020241s003.htm&amp;rft.jtitle=Lamictal+Tablets+%26+Chewable+Dispersible+Tablets+%28Lamotrigine%29+Drug+Approval+Page&amp;rft.pub=United+States+Food+and+Drug+Administration+Center+for+Drug+Evaluation+and+Research&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;since October 2010">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-Felbatol_PI_sheet-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Felbatol_PI_sheet_14-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.rxlist.com/cgi/generic/felbamate_ids.htm">"Felbatol (felbamate)"</a>. p.&#160;3<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-09-19</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.btitle=Felbatol+%28felbamate%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rxlist.com%2Fcgi%2Fgeneric%2Ffelbamate_ids.htm&amp;rft.pages=3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-felbamate-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-felbamate_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal">The Felbamate Study Group In Lennox-gastaut Syndrome (1993). "Efficacy of felbamate in childhood epileptic encephalopathy (Lennox-Gastaut syndrome). The Felbamate Study Group in Lennox-Gastaut Syndrome". <i>The New England Journal of Medicine</i> <b>328</b> (1): 29–33. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1056%2FNEJM199301073280105">10.1056/NEJM199301073280105</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8347179">8347179</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Efficacy+of+felbamate+in+childhood+epileptic+encephalopathy+%28Lennox-Gastaut+syndrome%29.+The+Felbamate+Study+Group+in+Lennox-Gastaut+Syndrome&amp;rft.aulast=The+Felbamate+Study+Group+In+Lennox-gastaut+Syndrome&amp;rft.au=The+Felbamate+Study+Group+In+Lennox-gastaut+Syndrome&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1056%2FNEJM199301073280105&amp;rft_id=info%3Apmid%2F8347179&amp;rft.issue=1&amp;rft.jtitle=The+New+England+Journal+of+Medicine&amp;rft.pages=29-33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=328" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-felbamate2-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-felbamate2_16-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Devinsky, O; Faught, RE; Wilder, BJ; Kanner, AM; Kamin, M; Kramer, LD; Rosenberg, A (1995). "Efficacy of felbamate monotherapy in patients undergoing presurgical evaluation of partial seizures". <i>Epilepsy research</i> <b>20</b> (3): 241–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0920-1211%2894%2900084-A">10.1016/0920-1211(94)00084-A</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7796796">7796796</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Efficacy+of+felbamate+monotherapy+in+patients+undergoing+presurgical+evaluation+of+partial+seizures&amp;rft.au=Devinsky%2C+O&amp;rft.au=Faught%2C+RE&amp;rft.aufirst=O&amp;rft.au=Kamin%2C+M&amp;rft.au=Kanner%2C+AM&amp;rft.au=Kramer%2C+LD&amp;rft.aulast=Devinsky&amp;rft.au=Rosenberg%2C+A&amp;rft.au=Wilder%2C+BJ&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0920-1211%2894%2900084-A&amp;rft_id=info%3Apmid%2F7796796&amp;rft.issue=3&amp;rft.jtitle=Epilepsy+research&amp;rft.pages=241-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-felbamateliver-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-felbamateliver_17-0">^</a></b></span> <span class="reference-text"><span class="citation journal">O'neil, MG; Perdun, CS; Wilson, MB; Mcgown, ST; Patel, S (1996). "Felbamate-associated fatal acute hepatic necrosis". <i>Neurology</i> <b>46</b> (5): 1457–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1212%2Fwnl.46.5.1457">10.1212/wnl.46.5.1457</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8628501">8628501</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Felbamate-associated+fatal+acute+hepatic+necrosis&amp;rft.aufirst=MG&amp;rft.aulast=O%27neil&amp;rft.au=Mcgown%2C+ST&amp;rft.au=O%27neil%2C+MG&amp;rft.au=Patel%2C+S&amp;rft.au=Perdun%2C+CS&amp;rft.au=Wilson%2C+MB&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1212%2Fwnl.46.5.1457&amp;rft_id=info%3Apmid%2F8628501&amp;rft.issue=5&amp;rft.jtitle=Neurology&amp;rft.pages=1457-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-feuchtetal-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-feuchtetal_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Feucht, M; Brantner-Inthaler, S (1994). "Gamma-vinyl-GABA (vigabatrin) in the therapy of Lennox-Gastaut syndrome: an open study". <i>Epilepsia</i> <b>35</b> (5): 993–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1528-1157.1994.tb02544.x">10.1111/j.1528-1157.1994.tb02544.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7925171">7925171</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Gamma-vinyl-GABA+%28vigabatrin%29+in+the+therapy+of+Lennox-Gastaut+syndrome%3A+an+open+study&amp;rft.au=Brantner-Inthaler%2C+S&amp;rft.au=Feucht%2C+M&amp;rft.aufirst=M&amp;rft.aulast=Feucht&amp;rft.date=1994&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1528-1157.1994.tb02544.x&amp;rft_id=info%3Apmid%2F7925171&amp;rft.issue=5&amp;rft.jtitle=Epilepsia&amp;rft.pages=993-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=35" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zonisamideoverview-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-zonisamideoverview_19-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Yagi, K (2004). "Overview of Japanese experience-controlled and uncontrolled trials". <i>Seizure&#160;: the journal of the British Epilepsy Association</i>. 13 Suppl 1: S11–5; discussion S16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.seizure.2004.04.018">10.1016/j.seizure.2004.04.018</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15511680">15511680</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Overview+of+Japanese+experience-controlled+and+uncontrolled+trials&amp;rft.aufirst=K&amp;rft.aulast=Yagi&amp;rft.au=Yagi%2C+K&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.seizure.2004.04.018&amp;rft_id=info%3Apmid%2F15511680&amp;rft.jtitle=Seizure+%3A+the+journal+of+the+British+Epilepsy+Association&amp;rft.pages=S11-5%3B+discussion+S16&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13+Suppl+1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-zonisamidesurvey-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-zonisamidesurvey_20-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Yamauchi, T; Aikawa, H (2004). "Efficacy of zonisamide: our experience". <i>Seizure&#160;: the journal of the British Epilepsy Association</i>. 13 Suppl 1: S41–8; discussion S49. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.seizure.2004.04.021">10.1016/j.seizure.2004.04.021</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15511689">15511689</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Efficacy+of+zonisamide%3A+our+experience&amp;rft.au=Aikawa%2C+H&amp;rft.aufirst=T&amp;rft.aulast=Yamauchi&amp;rft.au=Yamauchi%2C+T&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.seizure.2004.04.021&amp;rft_id=info%3Apmid%2F15511689&amp;rft.jtitle=Seizure+%3A+the+journal+of+the+British+Epilepsy+Association&amp;rft.pages=S41-8%3B+discussion+S49&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13+Suppl+1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-van_Rijckevorsel-Harmant_et_al_1986-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-van_Rijckevorsel-Harmant_et_al_1986_21-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Van Rijckevorsel-Harmant, K; Delire, M; Rucquoy-Ponsar, M (1986). "Treatment of idiopathic West and Lennox-Gastaut syndromes by intravenous administration of human polyvalent immunoglobulins". <i>European archives of psychiatry and neurological sciences</i> <b>236</b> (2): 119–22. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2FBF00454021">10.1007/BF00454021</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3792407">3792407</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALennox%E2%80%93Gastaut+syndrome&amp;rft.atitle=Treatment+of+idiopathic+West+and+Lennox-Gastaut+syndromes+by+intravenous+administration+of+human+polyvalent+immunoglobulins&amp;rft.au=Delire%2C+M&amp;rft.aufirst=K&amp;rft.aulast=Van+Rijckevorsel-Harmant&amp;rft.au=Rucquoy-Ponsar%2C+M&amp;rft.au=Van+Rijckevorsel-Harmant%2C+K&amp;rft.date=1986&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2FBF00454021&amp;rft_id=info%3Apmid%2F3792407&amp;rft.issue=2&amp;rft.jtitle=European+archives+of+psychiatry+and+neurological+sciences&amp;rft.pages=119-22&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=236" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit&amp;section=22" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Epilepsy" title="Epilepsy">Epilepsy</a></li>
+<li><a href="/wiki/West_syndrome" title="West syndrome" class="mw-redirect">West syndrome</a></li>
+<li><a href="/wiki/Ohtahara_syndrome" title="Ohtahara syndrome">Ohtahara syndrome</a></li>
+<li><a href="/wiki/Syndromes" title="Syndromes" class="mw-redirect">Syndromes</a></li>
+<li><a href="/wiki/Epilepsy_Phenome/Genome_Project" title="Epilepsy Phenome/Genome Project">Epilepsy Phenome/Genome Project</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Seizures_and_epilepsy" title="Template:Seizures and epilepsy"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Seizures_and_epilepsy" title="Template talk:Seizures and epilepsy"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Seizures_and_epilepsy&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Epileptic_seizure" title="Epileptic seizure">Seizures</a> and <a href="/wiki/Epilepsy" title="Epilepsy">epilepsy</a> (<a href="/wiki/ICD-10_Chapter_VI:_Diseases_of_the_nervous_system#Epilepsy" title="ICD-10 Chapter VI: Diseases of the nervous system">G40–G41</a>, <a href="/wiki/List_of_ICD-9_codes_320%E2%80%93359:_diseases_of_the_nervous_system#Other_disorders_of_the_central_nervous_system_.28340.E2.80.93349.29" title="List of ICD-9 codes 320–359: diseases of the nervous system">345</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Basics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Seizure_types" title="Seizure types">Seizure types</a></li>
+<li><a href="/wiki/Aura_(symptom)" title="Aura (symptom)">Aura (warning sign)</a></li>
+<li><a href="/wiki/Postictal_state" title="Postictal state">Postictal state</a></li>
+<li><a href="/wiki/Epileptogenesis" title="Epileptogenesis">Epileptogenesis</a></li>
+<li><a href="/wiki/Epilepsy_in_children" title="Epilepsy in children">Epilepsy in children</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatments</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anticonvulsant" title="Anticonvulsant">Anticonvulsants</a></li>
+<li><a href="/wiki/Electroencephalography" title="Electroencephalography">Electroencephalography</a> (diagnosis method)</li>
+<li><a href="/wiki/Epileptologist" title="Epileptologist">Epileptologist</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Issues_for_people_with_epilepsy" title="Issues for people with epilepsy">Personal issues</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Epilepsy_and_driving" title="Epilepsy and driving">Epilepsy and driving</a></li>
+<li><a href="/wiki/Epilepsy_and_employment" title="Epilepsy and employment">Epilepsy and employment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Seizure_types" title="Seizure types">Seizure types</a><br />
+<a href="/wiki/Category:Epilepsy_types" title="Category:Epilepsy types">Epilepsy types</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Focal_seizure" title="Focal seizure" class="mw-redirect">Focal</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Seizures</dt>
+<dd><a href="/wiki/Simple_partial_seizure" title="Simple partial seizure" class="mw-redirect">Simple partial</a></dd>
+<dd><a href="/wiki/Complex_partial_seizure" title="Complex partial seizure" class="mw-redirect">Complex partial</a></dd>
+<dd><a href="/wiki/Gelastic_seizure" title="Gelastic seizure">Gelastic seizure</a></dd>
+</dl>
+<dl>
+<dt>Epilepsy</dt>
+<dd><a href="/wiki/Temporal_lobe_epilepsy" title="Temporal lobe epilepsy">Temporal lobe epilepsy</a></dd>
+<dd><a href="/wiki/Frontal_lobe_epilepsy" title="Frontal lobe epilepsy">Frontal lobe epilepsy</a></dd>
+<dd><a href="/wiki/Rolandic_epilepsy" title="Rolandic epilepsy">Rolandic epilepsy</a></dd>
+<dd><a href="/wiki/Nocturnal_epilepsy" title="Nocturnal epilepsy">Nocturnal epilepsy</a></dd>
+<dd><a href="/wiki/Panayiotopoulos_syndrome" title="Panayiotopoulos syndrome">Panayiotopoulos syndrome</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Generalised_epilepsy" title="Generalised epilepsy">Generalised</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tonic-clonic_seizure" title="Tonic-clonic seizure" class="mw-redirect">Tonic-clonic</a></li>
+<li><a href="/wiki/Absence_seizure" title="Absence seizure">Absence seizure</a></li>
+<li><a href="/wiki/Atonic_seizure" title="Atonic seizure">Atonic seizure</a></li>
+<li><a href="/wiki/Automatism_(medicine)" title="Automatism (medicine)">Automatism</a></li>
+<li><a href="/wiki/Benign_familial_neonatal_epilepsy" title="Benign familial neonatal epilepsy" class="mw-redirect">Benign familial neonatal epilepsy</a></li>
+<li><a href="/wiki/Lennox-Gastaut_syndrome" title="Lennox-Gastaut syndrome" class="mw-redirect">Lennox-Gastaut</a></li>
+<li><a href="/wiki/Myoclonic_astatic_epilepsy" title="Myoclonic astatic epilepsy">Doose syndrome</a></li>
+<li><a href="/wiki/West_syndrome" title="West syndrome" class="mw-redirect">West</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Status_epilepticus" title="Status epilepticus">Status epilepticus</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Epilepsia_partialis_continua" title="Epilepsia partialis continua">Epilepsia partialis continua</a></li>
+<li><a href="/wiki/Complex_partial_status_epilepticus" title="Complex partial status epilepticus">Complex partial status epilepticus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Myoclonic_epilepsy" title="Myoclonic epilepsy">Myoclonic epilepsy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Progressive_myoclonus_epilepsies" title="Progressive myoclonus epilepsies" class="mw-redirect">Progressive myoclonus epilepsies</a>
+<ul>
+<li><a href="/wiki/Dentatorubral-pallidoluysian_atrophy" title="Dentatorubral-pallidoluysian atrophy">Dentatorubral-pallidoluysian atrophy</a></li>
+<li><a href="/wiki/Unverricht-Lundborg_disease" title="Unverricht-Lundborg disease" class="mw-redirect">Unverricht-Lundborg disease</a></li>
+<li><a href="/wiki/MERRF_syndrome" title="MERRF syndrome">MERRF syndrome</a></li>
+<li><a href="/wiki/Lafora_disease" title="Lafora disease">Lafora disease</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Juvenile_myoclonic_epilepsy" title="Juvenile myoclonic epilepsy">Juvenile myoclonic epilepsy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Non-epileptic_seizure" title="Non-epileptic seizure">Non-epileptic<br />
+seizures</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Febrile_seizure" title="Febrile seizure">Febrile seizure</a></li>
+<li><a href="/wiki/Psychogenic_non-epileptic_seizures" title="Psychogenic non-epileptic seizures">Psychogenic non-epileptic seizures</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related disorders</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sudden_unexpected_death_in_epilepsy" title="Sudden unexpected death in epilepsy">Sudden unexpected death in epilepsy</a></li>
+<li><a href="/wiki/Todd%27s_paresis" title="Todd's paresis">Todd's paresis</a></li>
+<li><a href="/wiki/Landau-Kleffner_syndrome" title="Landau-Kleffner syndrome" class="mw-redirect">Landau-Kleffner syndrome</a></li>
+<li><a href="/wiki/Epilepsy_in_animals" title="Epilepsy in animals">Epilepsy in animals</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Epilepsy<br />
+organizations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Citizens_United_for_Research_in_Epilepsy" title="Citizens United for Research in Epilepsy">Citizens United for Research in Epilepsy</a></li>
+<li><a href="/wiki/Epilepsy_Action" title="Epilepsy Action">Epilepsy Action</a></li>
+<li><a href="/wiki/Epilepsy_Action_Australia" title="Epilepsy Action Australia">Epilepsy Action Australia</a></li>
+<li><a href="/wiki/Epilepsy_Foundation" title="Epilepsy Foundation">Epilepsy Foundation</a> (USA)</li>
+<li><a href="/wiki/Epilepsy_Outlook" title="Epilepsy Outlook">Epilepsy Outlook</a> (UK)</li>
+<li><a href="/wiki/Epilepsy_Research_UK" title="Epilepsy Research UK">Epilepsy Research UK</a></li>
+<li><a href="/wiki/Epilepsy_Toronto" title="Epilepsy Toronto">Epilepsy Toronto</a></li>
+<li><a href="/wiki/International_Dravet_Epilepsy_Action_League" title="International Dravet Epilepsy Action League">International Dravet Epilepsy Action League</a></li>
+<li><a href="/wiki/National_Society_for_Epilepsy" title="National Society for Epilepsy" class="mw-redirect">Epilepsy Society</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Central_nervous_system_navs" title="Template:Central nervous system navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Central_nervous_system_navs" title="Template talk:Central nervous system navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Central_nervous_system_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Nervous_system" title="Template:Nervous system">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Meninges" title="Template:Meninges">meninges</a></li>
+<li><a href="/wiki/Template:Cerebral_cortex" title="Template:Cerebral cortex">cortex</a>
+<ul>
+<li><i><a href="/wiki/Template:Association_fibers" title="Template:Association fibers">association fibers</a></i></li>
+<li><i><a href="/wiki/Template:Commissural_fibers_and_septum" title="Template:Commissural fibers and septum">commissural fibers</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Lateral_ventricles" title="Template:Lateral ventricles" class="mw-redirect">lateral ventricles</a></li>
+<li><a href="/wiki/Template:Rostral_basal_ganglia_and_associated_structures" title="Template:Rostral basal ganglia and associated structures">basal ganglia</a></li>
+<li><a href="/wiki/Template:Diencephalon" title="Template:Diencephalon">diencephalon</a></li>
+<li><a href="/wiki/Template:Mesencephalon" title="Template:Mesencephalon">mesencephalon</a></li>
+<li><a href="/wiki/Template:Pons" title="Template:Pons">pons</a></li>
+<li><a href="/wiki/Template:Cerebellum" title="Template:Cerebellum">cerebellum</a></li>
+<li><a href="/wiki/Template:Medulla" title="Template:Medulla">medulla</a></li>
+<li><a href="/wiki/Template:Spinal_cord" title="Template:Spinal cord">spinal cord</a>
+<ul>
+<li><i><a href="/wiki/Template:Neural_tracts" title="Template:Neural tracts">tracts</a></i></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nervous_system_physiology" title="Template:Nervous system physiology">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Neurotransmitter_systems" title="Template:Neurotransmitter systems">neutrotransmission</a>
+<ul>
+<li><i><a href="/wiki/Template:Neurotransmitter_metabolism_enzymes" title="Template:Neurotransmitter metabolism enzymes">enzymes</a></i></li>
+<li><i><a href="/wiki/Template:Neurotransmitter_metabolism_intermediates" title="Template:Neurotransmitter metabolism intermediates">intermediates</a></i></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Development_of_nervous_system" title="Template:Development of nervous system">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cerebral_palsy" title="Template:Cerebral palsy">Cerebral palsy</a></li>
+<li><a href="/wiki/Template:Diseases_of_meninges" title="Template:Diseases of meninges">Meningitis</a></li>
+<li><a href="/wiki/Template:Demyelinating_diseases_of_CNS" title="Template:Demyelinating diseases of CNS">Demyelinating diseases</a></li>
+<li><a href="/wiki/Template:Seizures_and_epilepsy" title="Template:Seizures and epilepsy">Seizures and epilepsy</a></li>
+<li><a href="/wiki/Template:Headache" title="Template:Headache">Headache</a></li>
+<li><a href="/wiki/Template:Cerebrovascular_diseases" title="Template:Cerebrovascular diseases">Stroke</a></li>
+<li><a href="/wiki/Template:Sleep" title="Template:Sleep">Sleep</a></li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_nervous_system" title="Template:Congenital malformations and deformations of nervous system">Congenital</a></li>
+<li><a href="/wiki/Template:Neurotrauma" title="Template:Neurotrauma">Injury</a></li>
+<li><a href="/wiki/Template:Nervous_system_tumors" title="Template:Nervous system tumors">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:CNS_diseases_of_the_nervous_system" title="Template:CNS diseases of the nervous system">Other</a>
+<ul>
+<li><a href="/wiki/Template:Cerebral_palsy_and_other_paralytic_syndromes" title="Template:Cerebral palsy and other paralytic syndromes">paralytic syndromes</a></li>
+<li><a href="/wiki/Template:Amyotrophic_lateral_sclerosis" title="Template:Amyotrophic lateral sclerosis">ALS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Symptoms_involving_head_and_neck" title="Template:Symptoms involving head and neck">head and neck</a></li>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_nervous_system" title="Template:Eponymous medical signs for nervous system">eponymous</a></li>
+<li><a href="/wiki/Template:Lesions_of_spinal_cord_and_brain" title="Template:Lesions of spinal cord and brain">lesions</a></li>
+</ul>
+</li>
+<li>Tests
+<ul>
+<li><a href="/wiki/Template:CSF_tests" title="Template:CSF tests">CSF</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Neuro_procedures" title="Template:Neuro procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:General_anesthetics" title="Template:General anesthetics">general anesthetics</a></li>
+<li><a href="/wiki/Template:Analgesics" title="Template:Analgesics">analgesics</a></li>
+<li><a href="/wiki/Template:Antiaddictives" title="Template:Antiaddictives" class="mw-redirect">addiction</a></li>
+<li><a href="/wiki/Template:Anticonvulsants" title="Template:Anticonvulsants">epilepsy</a></li>
+<li><a href="/wiki/Template:Cholinergics" title="Template:Cholinergics">cholinergics</a></li>
+<li><a href="/wiki/Template:Antimigraine_preparations" title="Template:Antimigraine preparations">migraine</a></li>
+<li><a href="/wiki/Template:Antiparkinson" title="Template:Antiparkinson">Parkinson's</a></li>
+<li><a href="/wiki/Template:Antivertigo_preparations" title="Template:Antivertigo preparations">vertigo</a></li>
+<li><a href="/wiki/Template:Other_nervous_system_drugs" title="Template:Other nervous system drugs">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1111
+CPU time usage: 0.484 seconds
+Real time usage: 0.568 seconds
+Preprocessor visited node count: 2204/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 113295/2097152 bytes
+Template argument size: 1029/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 4.01 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  447.794      1 - -total
+ 45.22%  202.488      1 - Template:Reflist
+ 19.42%   86.956      1 - Template:Infobox_disease
+ 19.23%   86.097     16 - Template:Cite_journal
+ 16.60%   74.327      1 - Template:Infobox
+ 11.42%   51.131      5 - Template:Cite_web
+ 11.30%   50.584      1 - Template:Refimprove_section
+ 11.22%   50.236      3 - Template:Navbox
+ 10.97%   49.103      3 - Template:Ambox
+  9.79%   43.828      1 - Template:Refimprove
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2191954-0!*!0!!en!4!* and timestamp 20150704215050 and revision id 665666974
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lennox–Gastaut_syndrome&amp;oldid=665666974">https://en.wikipedia.org/w/index.php?title=Lennox–Gastaut_syndrome&amp;oldid=665666974</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Neurological_disorders" title="Category:Neurological disorders">Neurological disorders</a></li><li><a href="/wiki/Category:Epilepsy_types" title="Category:Epilepsy types">Epilepsy types</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2010" title="Category:Articles with dead external links from October 2010">Articles with dead external links from October 2010</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2013" title="Category:Articles needing additional references from April 2013">Articles needing additional references from April 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lennox%E2%80%93Gastaut+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lennox%E2%80%93Gastaut+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lennox%E2%80%93Gastaut_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Lennox%E2%80%93Gastaut_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Lennox%E2%80%93Gastaut_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lennox%E2%80%93Gastaut_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lennox%E2%80%93Gastaut_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;oldid=665666974" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1544884" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lennox%E2%80%93Gastaut_syndrome&amp;id=665666974" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lennox%E2%80%93Gastaut+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lennox%E2%80%93Gastaut+syndrome&amp;oldid=665666974&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Lennox-Gastaut-Syndrom" title="Lennox-Gastaut-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Lennox-Gastaut" title="Síndrome de Lennox-Gastaut – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Lennox-Gastaut" title="Syndrome de Lennox-Gastaut – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Lennox-Gastaut" title="Sindrome di Lennox-Gastaut – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%9E%D7%95%D7%A0%D7%AA_%D7%9C%D7%A0%D7%95%D7%A7%D7%A1-%D7%92%D7%A1%D7%98%D7%95" title="תסמונת לנוקס-גסטו – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Syndroom_van_Lennox-Gastaut" title="Syndroom van Lennox-Gastaut – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Lennox-Gastaut_syndrom" title="Lennox-Gastaut syndrom – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Lennoxa-Gastauta" title="Zespół Lennoxa-Gastauta – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Lennox-Gastaut" title="Síndrome de Lennox-Gastaut – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Lennox%E2%80%93Gastaut%E2%80%99n_oireyhtym%C3%A4" title="Lennox–Gastaut’n oireyhtymä – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Lennox-Gastauts_syndrom" title="Lennox-Gastauts syndrom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1544884#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 June 2015, at 20:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lennox%E2%80%93Gastaut_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1064"});
+}</script>
+	</body>
+</html>

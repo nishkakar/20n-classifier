@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Fructose 1,6-bisphosphatase - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fructose_1,6-bisphosphatase" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Fructose_1,6-bisphosphatase" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Fructose_1,6-bisphosphatase" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fructose_1,6-bisphosphatase","wgTitle":"Fructose 1,6-bisphosphatase","wgCurRevisionId":608501138,"wgRevisionId":608501138,"wgArticleId":316522,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Genes on human chromosome 9","Protein pages needing a picture","Articles that use a Medicine navs subtemplate","EC 3.1.3","Protein families"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fructose_1,6-bisphosphatase","wgRelevantArticleId":316522,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Fructose-1,6-bisphosphatase_deficiency","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fructose-1.6-bisphosphatase-pdb-3FBP.png/100px-Fructose-1.6-bisphosphatase-pdb-3FBP.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Fructose_1,6-bisphosphatase","wgWikibaseItemId":"Q899507"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Fructose_1_6-bisphosphatase skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Fructose 1,6-bisphosphatase</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Fructose-1,6-bisphosphatase_deficiency&amp;redirect=no" title="Fructose-1,6-bisphosphatase deficiency">Fructose-1,6-bisphosphatase deficiency</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">fructose-1,6-bisphosphatase 1</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Fructose-1.6-bisphosphatase-pdb-3FBP.png" class="image"><img alt="Fructose-1.6-bisphosphatase-pdb-3FBP.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fructose-1.6-bisphosphatase-pdb-3FBP.png/200px-Fructose-1.6-bisphosphatase-pdb-3FBP.png" width="200" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fructose-1.6-bisphosphatase-pdb-3FBP.png/300px-Fructose-1.6-bisphosphatase-pdb-3FBP.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fructose-1.6-bisphosphatase-pdb-3FBP.png/400px-Fructose-1.6-bisphosphatase-pdb-3FBP.png 2x" data-file-width="1000" data-file-height="1000" /></a>
+<div>Fructose-1,6-bisphosphatase and its fructose 2,6-bisphosphate complex. Rendered from PDB <a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?structureId=3FBP">3FBP</a>.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3">Symbol</th>
+<td style="background-color: #eee">FBP1</td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3">Alt. symbols</th>
+<td style="background-color: #eee">FBP</td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Entrez" title="Entrez">Entrez</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/gene?cmd=retrieve&amp;dopt=default&amp;list_uids=2203&amp;rn=1">2203</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Human_Genome_Organisation" title="Human Genome Organisation">HUGO</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.genenames.org/data/hgnc_data.php?hgnc_id=3606">3606</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.omim.org/229700">229700</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">RefSeq</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="//genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&amp;position=NM_000507&amp;rn=1">NM_000507</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Swiss-Prot" title="Swiss-Prot" class="mw-redirect">UniProt</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.uniprot.org/uniprot/P09467">P09467</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Other data</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.genome.jp/dbget-bin/www_bget?enzyme+3.1.3.11">3.1.3.11</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Locus</a></th>
+<td style="background-color: #eee"><a href="/wiki/Chromosome_9_(human)" title="Chromosome 9 (human)">Chr. 9</a> <i><a rel="nofollow" class="external text" href="http://omim.org/search?index=geneMap&amp;search=9q22.3">q22.3</a></i></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Fructose-1-6-bisphosphatase</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:PDB_1bk4_EBI.jpg" class="image"><img alt="PDB 1bk4 EBI.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PDB_1bk4_EBI.jpg/220px-PDB_1bk4_EBI.jpg" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PDB_1bk4_EBI.jpg/330px-PDB_1bk4_EBI.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PDB_1bk4_EBI.jpg/440px-PDB_1bk4_EBI.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div>crystal structure of rabbit liver fructose-1,6-bisphosphatase at 2.3 angstrom resolution</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3">Symbol</th>
+<td style="background-color: #eee">FBPase</td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF00316">PF00316</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Pfam" title="Pfam">Pfam</a> clan</th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://pfam.xfam.org/clan/CL0171">CL0171</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/InterPro" title="InterPro">InterPro</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/interpro/entry/IPR000146">IPR000146</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/PROSITE" title="PROSITE">PROSITE</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.expasy.org/cgi-bin/prosite-search-ac?PDOC00114">PDOC00114</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Structural_Classification_of_Proteins" title="Structural Classification of Proteins" class="mw-redirect">SCOP</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?tlev=fa;&amp;pdb=1frp">1frp</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/SUPERFAMILY" title="SUPERFAMILY" class="mw-redirect">SUPERFAMILY</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://supfam.org/SUPERFAMILY/cgi-bin/search.cgi?search_field=1frp">1frp</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%">
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Available protein structures:</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://pfam.sanger.ac.uk/family/PF00316?tab=pdbBlock">structures</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=PfamIdQuery&amp;pfamID=PF00316">RCSB PDB</a>; <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/pdbe/entry/search/index?pfam_accession:PF00316">PDBe</a>; <a rel="nofollow" class="external text" href="http://pdbj.org/searchFor?query=PF00316">PDBj</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PDBsum" title="PDBsum">PDBsum</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPfamStr.pl?pfam_id=PF00316">structure summary</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Firmicute fructose-1,6-bisphosphatase</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3">Symbol</th>
+<td style="background-color: #eee">FBPase_2</td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF06874">PF06874</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Pfam" title="Pfam">Pfam</a> clan</th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://pfam.xfam.org/clan/CL0163">CL0163</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/InterPro" title="InterPro">InterPro</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/interpro/entry/IPR009164">IPR009164</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%">
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Available protein structures:</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://pfam.sanger.ac.uk/family/PF06874?tab=pdbBlock">structures</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=PfamIdQuery&amp;pfamID=PF06874">RCSB PDB</a>; <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/pdbe/entry/search/index?pfam_accession:PF06874">PDBe</a>; <a rel="nofollow" class="external text" href="http://pdbj.org/searchFor?query=PF06874">PDBj</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PDBsum" title="PDBsum">PDBsum</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPfamStr.pl?pfam_id=PF06874">structure summary</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Fructose-1,6-bisphosphatase</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:PDB_1umg_EBI.jpg" class="image"><img alt="PDB 1umg EBI.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PDB_1umg_EBI.jpg/220px-PDB_1umg_EBI.jpg" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PDB_1umg_EBI.jpg/330px-PDB_1umg_EBI.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/PDB_1umg_EBI.jpg/440px-PDB_1umg_EBI.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div>crystal structure of fructose-1,6-bisphosphatase</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3">Symbol</th>
+<td style="background-color: #eee">FBPase_3</td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF01950">PF01950</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/InterPro" title="InterPro">InterPro</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/interpro/entry/IPR002803">IPR002803</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Structural_Classification_of_Proteins" title="Structural Classification of Proteins" class="mw-redirect">SCOP</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://scop.mrc-lmb.cam.ac.uk/scop/search.cgi?tlev=fa;&amp;pdb=1umg">1umg</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/SUPERFAMILY" title="SUPERFAMILY" class="mw-redirect">SUPERFAMILY</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://supfam.org/SUPERFAMILY/cgi-bin/search.cgi?search_field=1umg">1umg</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%">
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Available protein structures:</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Pfam" title="Pfam">Pfam</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://pfam.sanger.ac.uk/family/PF01950?tab=pdbBlock">structures</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=PfamIdQuery&amp;pfamID=PF01950">RCSB PDB</a>; <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/pdbe/entry/search/index?pfam_accession:PF01950">PDBe</a>; <a rel="nofollow" class="external text" href="http://pdbj.org/searchFor?query=PF01950">PDBj</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PDBsum" title="PDBsum">PDBsum</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPfamStr.pl?pfam_id=PF01950">structure summary</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><b>Fructose bisphosphatase</b> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> <a rel="nofollow" class="external text" href="http://enzyme.expasy.org/EC/3.1.3.11">3.1.3.11</a>) is an <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> that converts <a href="/wiki/Fructose-1,6-bisphosphate" title="Fructose-1,6-bisphosphate" class="mw-redirect">fructose-1,6-bisphosphate</a> to <a href="/wiki/Fructose_6-phosphate" title="Fructose 6-phosphate">fructose 6-phosphate</a> in <a href="/wiki/Gluconeogenesis" title="Gluconeogenesis">gluconeogenesis</a> and the <a href="/wiki/Calvin_cycle" title="Calvin cycle" class="mw-redirect">Calvin cycle</a> which are both <a href="/wiki/Anabolism" title="Anabolism">anabolic pathways</a>. Fructose bisphosphatase <a href="/wiki/Catalyst" title="Catalyst" class="mw-redirect">catalyses</a> the reverse of the reaction which is catalysed by <a href="/wiki/Phosphofructokinase" title="Phosphofructokinase">phosphofructokinase</a> in <a href="/wiki/Glycolysis" title="Glycolysis">glycolysis</a>.<sup id="cite_ref-pmid2159755_1-0" class="reference"><a href="#cite_note-pmid2159755-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-pmid3008716_2-0" class="reference"><a href="#cite_note-pmid3008716-2"><span>[</span>2<span>]</span></a></sup> These enzymes only catalyse the reaction in one direction each, and are regulated by metabolites such as <a href="/wiki/Fructose_2,6-bisphosphate" title="Fructose 2,6-bisphosphate">fructose 2,6-bisphosphate</a> so that high activity of one of the two enzymes is accompanied by low activity of the other. More specifically, fructose 2,6-bisphosphate allosterically inhibits fructose 1,6-bisphosphatase, but activates phosphofructokinase-I. Fructose 1,6-bisphosphatase is involved in many different <a href="/wiki/Metabolism" title="Metabolism">metabolic pathways</a> and found in most <a href="/wiki/Organism" title="Organism">organisms</a>. FBPase requires metal <a href="/wiki/Ion" title="Ion">ions</a> for catalysis (<a href="/wiki/Magnesium" title="Magnesium">Mg</a><sup>2+</sup> and <a href="/wiki/Manganese" title="Manganese">Mn</a><sup>2+</sup> being preferred) and the enzyme is potently inhibited by <a href="/wiki/Lithium" title="Lithium">Li</a><sup>+</sup>.</p>
+<p>The <a href="/wiki/Protein_folding" title="Protein folding">fold</a> of fructose-1,6-bisphosphatase from <a href="/wiki/Pig" title="Pig">pig</a> was noted to be identical to that of inositol-1-phosphatase (IMPase).<sup id="cite_ref-pmid8382485_3-0" class="reference"><a href="#cite_note-pmid8382485-3"><span>[</span>3<span>]</span></a></sup> <a href="/wiki/Inositol" title="Inositol">Inositol</a> polyphosphate 1-phosphatase (IPPase), IMPase and FBPase share a <a href="/wiki/Sequence_motif" title="Sequence motif">sequence motif</a> (<a href="/wiki/Aspartic_acid" title="Aspartic acid">Asp</a>-<a href="/wiki/Proline" title="Proline">Pro</a>-<a href="/wiki/Isoleucine" title="Isoleucine">Ile</a>/<a href="/wiki/Leucine" title="Leucine">Leu</a>-Asp-<a href="/wiki/Glycine" title="Glycine">Gly</a>/<a href="/wiki/Serine" title="Serine">Ser</a>-<a href="/wiki/Threonine" title="Threonine">Thr</a>/Ser) which has been shown to <a href="/wiki/Molecular_binding" title="Molecular binding">bind</a> metal <a href="/wiki/Ions" title="Ions" class="mw-redirect">ions</a> and participate in catalysis. This <a href="/wiki/Protein_motif" title="Protein motif" class="mw-redirect">motif</a> is also found in the distantly-related <a href="/wiki/Fungal" title="Fungal" class="mw-redirect">fungal</a>, <a href="/wiki/Bacteria" title="Bacteria">bacterial</a> and <a href="/wiki/Saccharomyces_cerevisiae" title="Saccharomyces cerevisiae">yeast</a> IMPase <a href="/wiki/Homology_(biology)" title="Homology (biology)">homologues</a>. It has been suggested that these <a href="/wiki/Protein" title="Protein">proteins</a> define an ancient <a href="/wiki/Structurally" title="Structurally" class="mw-redirect">structurally</a> conserved family involved in diverse <a href="/wiki/Metabolism" title="Metabolism">metabolic</a> pathways, including inositol signalling, gluconeogenesis, sulphate assimilation and possibly <a href="/wiki/Quinone" title="Quinone">quinone</a> <a href="/wiki/Metabolism" title="Metabolism">metabolism</a>.<sup id="cite_ref-pmid7761465_4-0" class="reference"><a href="#cite_note-pmid7761465-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Three different groups of FBPases have been identified in <a href="/wiki/Eukaryotes" title="Eukaryotes" class="mw-redirect">eukaryotes</a> and <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> (FBPase I-III).<sup id="cite_ref-pmid10986273_5-0" class="reference"><a href="#cite_note-pmid10986273-5"><span>[</span>5<span>]</span></a></sup> None of these groups have been found in <a href="/wiki/Archaea" title="Archaea">archaea</a> so far, though a new group of FBPases (FBPase IV) which also show <a href="/wiki/Inositol_monophosphatase" title="Inositol monophosphatase">inositol monophosphatase</a> activity has recently been identified in archaea.<sup id="cite_ref-pmid11062561_6-0" class="reference"><a href="#cite_note-pmid11062561-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>A new group of FBPases (FBPase V) is found in <a href="/wiki/Thermophilic" title="Thermophilic" class="mw-redirect">thermophilic</a> archaea and the hyperthermophilic <a href="/wiki/Bacterium" title="Bacterium" class="mw-redirect">bacterium</a> <i><a href="/wiki/Aquifex_aeolicus" title="Aquifex aeolicus">Aquifex aeolicus</a></i>.<sup id="cite_ref-pmid12065581_7-0" class="reference"><a href="#cite_note-pmid12065581-7"><span>[</span>7<span>]</span></a></sup> The characterised members of this group show strict <a href="/wiki/Substrate_specificity" title="Substrate specificity" class="mw-redirect">substrate specificity</a> for FBP and are suggested to be the true FBPase in these <a href="/wiki/Organism" title="Organism">organisms</a>.<sup id="cite_ref-pmid12065581_7-1" class="reference"><a href="#cite_note-pmid12065581-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-pmid15274916_8-0" class="reference"><a href="#cite_note-pmid15274916-8"><span>[</span>8<span>]</span></a></sup> A <a href="/wiki/Secondary_structure" title="Secondary structure" class="mw-redirect">structural</a> study suggests that FBPase V has a novel <a href="/wiki/Protein_folding" title="Protein folding">fold</a> for a <a href="/wiki/Sugar" title="Sugar">sugar</a> <a href="/wiki/Phosphatase" title="Phosphatase">phosphatase</a>, forming a four-layer alpha-beta-beta-alpha sandwich, unlike the more usual five-layered alpha-beta-alpha-beta-alpha arrangement.<sup id="cite_ref-pmid15274916_8-1" class="reference"><a href="#cite_note-pmid15274916-8"><span>[</span>8<span>]</span></a></sup> The arrangement of the <a href="/wiki/Catalytic" title="Catalytic" class="mw-redirect">catalytic</a> <a href="/wiki/Side_chain" title="Side chain">side chains</a> and metal <a href="/wiki/Ligands" title="Ligands" class="mw-redirect">ligands</a> was found to be consistent with the three-metal <a href="/wiki/Ion" title="Ion">ion</a> assisted catalysis mechanism proposed for other FBPases.</p>
+<p>The fructose 1,6-bisphosphatases found within the <a href="/wiki/Firmicutes" title="Firmicutes">Firmicutes</a> (low GC <a href="/wiki/Gram-positive" title="Gram-positive" class="mw-redirect">Gram-positive</a> bacteria) do not show any significant <a href="/wiki/Sequence_(biology)" title="Sequence (biology)">sequence</a> similarity to the <a href="/wiki/Enzymes" title="Enzymes" class="mw-redirect">enzymes</a> from other <a href="/wiki/Organism" title="Organism">organisms</a>. The <i><a href="/wiki/Bacillus_subtilis" title="Bacillus subtilis">Bacillus subtilis</a></i> enzyme is inhibited by <a href="/wiki/Adenosine_monophosphate" title="Adenosine monophosphate">AMP</a>, though this can be overcome by <a href="/wiki/Phosphoenolpyruvate" title="Phosphoenolpyruvate" class="mw-redirect">phosphoenolpyruvate</a>, and is dependent on Mn(2+).<sup id="cite_ref-pmid221467_9-0" class="reference"><a href="#cite_note-pmid221467-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-pmid9696785_10-0" class="reference"><a href="#cite_note-pmid9696785-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Mutant" title="Mutant">Mutants</a> lacking this enzyme are apparently still able to grow on gluconeogenic growth substrates such as <a href="/wiki/Malate" title="Malate" class="mw-redirect">malate</a> and <a href="/wiki/Glycerol" title="Glycerol">glycerol</a>.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:23.5px auto;"><a href="/wiki/File:Beta-D-fructose-1,6-bisphosphate_wpmp.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Beta-D-fructose-1%2C6-bisphosphate_wpmp.png/120px-Beta-D-fructose-1%2C6-bisphosphate_wpmp.png" width="120" height="103" srcset="//upload.wikimedia.org/wikipedia/commons/9/95/Beta-D-fructose-1%2C6-bisphosphate_wpmp.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/95/Beta-D-fructose-1%2C6-bisphosphate_wpmp.png 2x" data-file-width="175" data-file-height="150" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Fructose_1,6-bisphosphate" title="Fructose 1,6-bisphosphate">Fructose 1,6-bisphosphate</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26.5px auto;"><a href="/wiki/File:Beta-D-fructose-6-phosphate_wpmp.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Beta-D-fructose-6-phosphate_wpmp.png/120px-Beta-D-fructose-6-phosphate_wpmp.png" width="120" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/9/9f/Beta-D-fructose-6-phosphate_wpmp.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9f/Beta-D-fructose-6-phosphate_wpmp.png 2x" data-file-width="162" data-file-height="131" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Fructose_6-phosphate" title="Fructose 6-phosphate">Fructose 6-phosphate</a></p>
+</div>
+</div>
+</li>
+</ul>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Interactive_pathway_map"><span class="tocnumber">1</span> <span class="toctext">Interactive pathway map</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Interactive_pathway_map">Interactive pathway map</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit&amp;section=1" title="Edit section: Interactive pathway map">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Click on genes, proteins and metabolites below to link to respective articles.</i> <sup id="cite_ref-WikiPathways_11-0" class="reference"><a href="#cite_note-WikiPathways-11"><span>[</span>§ 1<span>]</span></a></sup></p>
+<div style="overflow:auto;">
+<div class="thumb tleft">
+<div class="thumbinner" style="width: 375px;">
+<div style="width: 375px; height: 350px; overflow: hidden;">
+<div style="position: relative; top: -287.616246498599px; left: -239.5px; width: {{{bSize}}}px">[[File:
+<div class="thumb" style="float:none; clear:none; margin-left:5px; border:solid #ccc 1px; padding:2px; width:1027px;&#160;;">
+<div class="thumbinner image" style="position:relative; width:1019px; height:{{{height}}}px; border:solid #ccc 1px; background-color:white;">
+<div style=";left:0px; top:0px; width:1015px; position:absolute;">
+<div class="floatright">
+<div class="noresize"><a href="http://en.wikipedia.org/wiki/Glycolysis#Interactive_pathway_map" class="plainlinks" rel="nofollow" title="Go to pathway article"><img alt="GlycolysisGluconeogenesis_WP534" src="//upload.wikimedia.org/wikipedia/commons/a/aa/WP534.png" width="1015" height="1341" data-file-width="1015" data-file-height="1341" usemap="#ImageMap_1_1465783672" /></a><map name="ImageMap_1_1465783672">
+<area href="http://en.wikipedia.org/wiki/2-Phosphoglyceric_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,823,323,843" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Dihydrolipoyl_transacetylase" class="plainlinks" rel="nofollow" shape="rect" coords="696,1192,759,1212" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="801,1025,901,1045" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="555,986,615,1006" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Dihydroxyacetone_phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="386,589,486,609" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="723,1081,823,1101" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT2" class="plainlinks" rel="nofollow" shape="rect" coords="386,136,446,156" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Enolase_2" class="plainlinks" rel="nofollow" shape="rect" coords="387,878,447,898" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Oxaloacetic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="478,938,578,958" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_1,6-bisphosphatase" class="plainlinks" rel="nofollow" shape="rect" coords="387,428,447,448" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/G6PC" class="plainlinks" rel="nofollow" shape="rect" coords="385,273,445,293" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT5" class="plainlinks" rel="nofollow" shape="rect" coords="386,196,446,216" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_6-phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,385,323,405" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/E3_binding_protein" class="plainlinks" rel="nofollow" shape="rect" coords="696,1232,759,1252" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aldolase_A" class="plainlinks" rel="nofollow" shape="rect" coords="387,498,447,518" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GOT1" class="plainlinks" rel="nofollow" shape="rect" coords="555,887,615,907" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PCK1" class="plainlinks" rel="nofollow" shape="rect" coords="323,977,383,997" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_(lipoamide)_alpha_1" class="plainlinks" rel="nofollow" shape="rect" coords="696,1132,759,1152" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose" class="plainlinks" rel="nofollow" shape="rect" coords="223,98,323,118" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose_6-phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,310,323,330" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_(lipoamide)_alpha_2" class="plainlinks" rel="nofollow" shape="rect" coords="696,1152,759,1172" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_carboxylase" class="plainlinks" rel="nofollow" shape="rect" coords="658,987,718,1007" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/3-Phosphoglyceric_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,744,323,764" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PGK1" class="plainlinks" rel="nofollow" shape="rect" coords="387,692,447,712" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Alpha-enolase" class="plainlinks" rel="nofollow" shape="rect" coords="387,839,447,859" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_1,6-bisphosphatase" class="plainlinks" rel="nofollow" shape="rect" coords="387,408,447,428" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Oxaloacetic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="801,941,901,961" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/ENO3" class="plainlinks" rel="nofollow" shape="rect" coords="387,858,447,878" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose" class="plainlinks" rel="nofollow" shape="rect" coords="223,218,323,238" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_(lipoamide)_beta" class="plainlinks" rel="nofollow" shape="rect" coords="696,1172,759,1192" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aldolase_C" class="plainlinks" rel="nofollow" shape="rect" coords="387,538,447,558" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aspartic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="801,839,901,859" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,465,323,485" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,889,323,909" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GOT2" class="plainlinks" rel="nofollow" shape="rect" coords="872,889,932,909" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aspartic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="478,839,578,859" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoglycerate_kinase" class="plainlinks" rel="nofollow" shape="rect" coords="387,712,447,732" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Dihydrolipoamide_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="696,1212,759,1232" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="478,1025,578,1045" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,664,323,684" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,1029,323,1049" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aldolase_B" class="plainlinks" rel="nofollow" shape="rect" coords="387,518,447,538" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT4" class="plainlinks" rel="nofollow" shape="rect" coords="386,176,446,196" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malate_dehydrogenase_2" class="plainlinks" rel="nofollow" shape="rect" coords="872,987,932,1007" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/TPI1" class="plainlinks" rel="nofollow" shape="rect" coords="329,625,389,645" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,584,323,604" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Acetyl-CoA" class="plainlinks" rel="nofollow" shape="rect" coords="774,1266,874,1286" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT3" class="plainlinks" rel="nofollow" shape="rect" coords="386,156,446,176" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose-6-phosphate_isomerase" class="plainlinks" rel="nofollow" shape="rect" coords="387,344,447,364" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT1" class="plainlinks" rel="nofollow" shape="rect" coords="386,116,446,136" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/HK1" class="plainlinks" rel="nofollow" shape="rect" coords="119,242,179,262" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucokinase" class="plainlinks" rel="nofollow" shape="rect" coords="119,302,179,322" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/HK3" class="plainlinks" rel="nofollow" shape="rect" coords="119,282,179,302" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/HK2" class="plainlinks" rel="nofollow" shape="rect" coords="119,262,179,282" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PFKL" class="plainlinks" rel="nofollow" shape="rect" coords="118,421,178,441" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PFKM" class="plainlinks" rel="nofollow" shape="rect" coords="118,401,178,421" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PFKP" class="plainlinks" rel="nofollow" shape="rect" coords="118,441,178,461" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GAPDHS" class="plainlinks" rel="nofollow" shape="rect" coords="125,611,188,631" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="125,631,188,651" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoglycerate_mutase" class="plainlinks" rel="nofollow" shape="rect" coords="113,794,173,814" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoglycerate_mutase" class="plainlinks" rel="nofollow" shape="rect" coords="113,774,173,794" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PKM2" class="plainlinks" rel="nofollow" shape="rect" coords="104,947,164,967" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PKLR" class="plainlinks" rel="nofollow" shape="rect" coords="104,967,164,987" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PKM2" class="plainlinks" rel="nofollow" shape="rect" coords="104,927,164,947" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="89,1040,149,1060" alt="go to Entrez" title="go to Entrez" />
+<area href="http://en.wikipedia.org/wiki/LDHA" class="plainlinks" rel="nofollow" shape="rect" coords="89,1060,149,1080" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="89,1100,149,1120" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="89,1080,149,1100" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="197,1124,297,1144" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pentose_phosphate_pathway" class="plainlinks" rel="nofollow" shape="rect" coords="540,310,733,330" alt="go to article" title="go to article" />
+<area href="http://www.wikipathways.org/index.php/Pathway:WP500" class="plainlinks" rel="nofollow" shape="rect" coords="542,354,705,374" alt="go to WikiPathways" title="go to WikiPathways" />
+<area href="http://en.wikipedia.org/wiki/Citric_acid_cycle" class="plainlinks" rel="nofollow" shape="rect" coords="870,1144,965,1164" alt="go to article" title="go to article" />
+<area href="http://www.ncbi.nlm.nih.gov/gene/51660" class="plainlinks" rel="nofollow" shape="rect" coords="593,1071,673,1091" alt="go to Entrez" title="go to Entrez" />
+<area href="http://en.wikipedia.org/wiki/BRP44" class="plainlinks" rel="nofollow" shape="rect" coords="593,1091,673,1111" alt="go to article" title="go to article" /></map></div>
+</div>
+</div>
+<div style="text-align:left; background-color:transparent; color:white; line-height:110%;">
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:828px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.6666666666666px; height:0px; overflow:hidden; position:relative; left:695.6666666666667px; top:1197px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:801.0px; top:1029.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:555.3333333333333px; top:991.166666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:386.0px; top:594px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:723.0px; top:1086px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.0px; top:140.655462184874px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.9999999999999px; top:882.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:477.6500000000001px; top:942.5px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.99999999999994px; top:432.616246498599px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:384.8991596638656px; top:277.627450980392px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.0px; top:200.655462184874px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:390.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.6666666666666px; height:0px; overflow:hidden; position:relative; left:695.6666666666667px; top:1237px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.99999999999994px; top:502.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:555.3333333333333px; top:891.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:322.9999999999999px; top:981.666666666668px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.6666666666666px; height:0px; overflow:hidden; position:relative; left:695.6666666666667px; top:1137px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:103.366666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:315.274509803922px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.6666666666666px; height:0px; overflow:hidden; position:relative; left:695.6666666666667px; top:1157px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:657.9999999999997px; top:992.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:749px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.9999999999999px; top:696.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.9999999999999px; top:843.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.99999999999994px; top:412.616246498599px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:801.0000000000001px; top:945.5px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.9999999999999px; top:862.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:223.366666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.6666666666666px; height:0px; overflow:hidden; position:relative; left:695.6666666666667px; top:1177px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.99999999999994px; top:542.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:801.0px; top:844px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:470px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:894.366666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:872.3333333333333px; top:893.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:477.6500000000001px; top:844px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.9999999999999px; top:716.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.6666666666666px; height:0px; overflow:hidden; position:relative; left:695.6666666666667px; top:1217px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:477.6500000000001px; top:1029.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:669px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:1033.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.99999999999994px; top:522.666666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.0px; top:180.655462184874px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:872.3333333333334px; top:992.166666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:329.33333333333303px; top:629.666666666666px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:222.5px; top:588.616666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:773.5px; top:1270.7px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.0px; top:160.655462184874px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.9999999999999px; top:349.445378151261px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:386.0px; top:120.655462184874px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:119.22128851540629px; top:246.677871148459px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:119.22128851540629px; top:306.67787114846px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:119.22128851540629px; top:286.67787114846px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:119.22128851540629px; top:266.67787114846px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:117.66666666666674px; top:425.666666666666px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:117.66666666666674px; top:405.666666666666px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:117.66666666666674px; top:445.666666666666px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.3333333333333px; height:0px; overflow:hidden; position:relative; left:125.00000000000004px; top:616.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:63.3333333333333px; height:0px; overflow:hidden; position:relative; left:125.00000000000004px; top:636.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:113.00000000000006px; top:799.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:113.00000000000006px; top:779.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:104.29411764705867px; top:952.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:104.29411764705867px; top:972.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:104.29411764705867px; top:932.333333333333px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:89.0px; top:1044.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:89.0px; top:1064.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:89.0px; top:1104.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:60px; height:0px; overflow:hidden; position:relative; left:89.0px; top:1084.66666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:100px; height:0px; overflow:hidden; position:relative; left:197.3666666666667px; top:1129.36666666667px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:193px; height:0px; overflow:hidden; position:relative; left:539.9495798319327px; top:314.941176470588px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:163px; height:0px; overflow:hidden; position:relative; left:541.9495798319327px; top:358.941176470588px; background:transparent; border-top:3px green solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:95px; height:0px; overflow:hidden; position:relative; left:870.0px; top:1149px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:80px; height:0px; overflow:hidden; position:relative; left:593.0px; top:1076px; background:transparent; border-top:3px green solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:80px; height:0px; overflow:hidden; position:relative; left:593.0px; top:1096px; background:transparent; border-top:3px blue solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+<div id="annotation_0x0" style="position:absolute; left:0px; top:0px; line-height:110%"><span style="background-color:transparent;">[[</span>
+<div style="display:block; width:53px; height:12px; overflow:hidden; position:relative; left:386.99999999999994px; top:415.616246498599px; background:transparent; border:4px black solid"></div>
+<span style="background-color:transparent;">]]</span></div>
+</div>
+<div style="visibility:hidden">
+<div class="floatright">
+<div class="noresize"><a href="http://en.wikipedia.org/wiki/Glycolysis#Interactive_pathway_map" class="plainlinks" rel="nofollow" title="Go to pathway article"><img alt="GlycolysisGluconeogenesis_WP534" src="//upload.wikimedia.org/wikipedia/commons/a/aa/WP534.png" width="1015" height="1341" data-file-width="1015" data-file-height="1341" usemap="#ImageMap_1_1465783672" /></a><map name="ImageMap_1_1465783672">
+<area href="http://en.wikipedia.org/wiki/2-Phosphoglyceric_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,823,323,843" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Dihydrolipoyl_transacetylase" class="plainlinks" rel="nofollow" shape="rect" coords="696,1192,759,1212" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="801,1025,901,1045" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="555,986,615,1006" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Dihydroxyacetone_phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="386,589,486,609" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="723,1081,823,1101" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT2" class="plainlinks" rel="nofollow" shape="rect" coords="386,136,446,156" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Enolase_2" class="plainlinks" rel="nofollow" shape="rect" coords="387,878,447,898" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Oxaloacetic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="478,938,578,958" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_1,6-bisphosphatase" class="plainlinks" rel="nofollow" shape="rect" coords="387,428,447,448" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/G6PC" class="plainlinks" rel="nofollow" shape="rect" coords="385,273,445,293" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT5" class="plainlinks" rel="nofollow" shape="rect" coords="386,196,446,216" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_6-phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,385,323,405" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/E3_binding_protein" class="plainlinks" rel="nofollow" shape="rect" coords="696,1232,759,1252" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aldolase_A" class="plainlinks" rel="nofollow" shape="rect" coords="387,498,447,518" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GOT1" class="plainlinks" rel="nofollow" shape="rect" coords="555,887,615,907" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PCK1" class="plainlinks" rel="nofollow" shape="rect" coords="323,977,383,997" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_(lipoamide)_alpha_1" class="plainlinks" rel="nofollow" shape="rect" coords="696,1132,759,1152" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose" class="plainlinks" rel="nofollow" shape="rect" coords="223,98,323,118" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose_6-phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,310,323,330" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_(lipoamide)_alpha_2" class="plainlinks" rel="nofollow" shape="rect" coords="696,1152,759,1172" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_carboxylase" class="plainlinks" rel="nofollow" shape="rect" coords="658,987,718,1007" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/3-Phosphoglyceric_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,744,323,764" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PGK1" class="plainlinks" rel="nofollow" shape="rect" coords="387,692,447,712" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Alpha-enolase" class="plainlinks" rel="nofollow" shape="rect" coords="387,839,447,859" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_1,6-bisphosphatase" class="plainlinks" rel="nofollow" shape="rect" coords="387,408,447,428" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Oxaloacetic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="801,941,901,961" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/ENO3" class="plainlinks" rel="nofollow" shape="rect" coords="387,858,447,878" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose" class="plainlinks" rel="nofollow" shape="rect" coords="223,218,323,238" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvate_dehydrogenase_(lipoamide)_beta" class="plainlinks" rel="nofollow" shape="rect" coords="696,1172,759,1192" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aldolase_C" class="plainlinks" rel="nofollow" shape="rect" coords="387,538,447,558" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aspartic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="801,839,901,859" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Fructose_1,6-bisphosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,465,323,485" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoenolpyruvic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,889,323,909" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GOT2" class="plainlinks" rel="nofollow" shape="rect" coords="872,889,932,909" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aspartic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="478,839,578,859" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoglycerate_kinase" class="plainlinks" rel="nofollow" shape="rect" coords="387,712,447,732" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Dihydrolipoamide_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="696,1212,759,1232" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="478,1025,578,1045" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/1,3-Bisphosphoglyceric_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,664,323,684" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pyruvic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="223,1029,323,1049" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Aldolase_B" class="plainlinks" rel="nofollow" shape="rect" coords="387,518,447,538" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT4" class="plainlinks" rel="nofollow" shape="rect" coords="386,176,446,196" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Malate_dehydrogenase_2" class="plainlinks" rel="nofollow" shape="rect" coords="872,987,932,1007" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/TPI1" class="plainlinks" rel="nofollow" shape="rect" coords="329,625,389,645" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate" class="plainlinks" rel="nofollow" shape="rect" coords="223,584,323,604" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Acetyl-CoA" class="plainlinks" rel="nofollow" shape="rect" coords="774,1266,874,1286" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT3" class="plainlinks" rel="nofollow" shape="rect" coords="386,156,446,176" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucose-6-phosphate_isomerase" class="plainlinks" rel="nofollow" shape="rect" coords="387,344,447,364" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GLUT1" class="plainlinks" rel="nofollow" shape="rect" coords="386,116,446,136" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/HK1" class="plainlinks" rel="nofollow" shape="rect" coords="119,242,179,262" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glucokinase" class="plainlinks" rel="nofollow" shape="rect" coords="119,302,179,322" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/HK3" class="plainlinks" rel="nofollow" shape="rect" coords="119,282,179,302" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/HK2" class="plainlinks" rel="nofollow" shape="rect" coords="119,262,179,282" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PFKL" class="plainlinks" rel="nofollow" shape="rect" coords="118,421,178,441" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PFKM" class="plainlinks" rel="nofollow" shape="rect" coords="118,401,178,421" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PFKP" class="plainlinks" rel="nofollow" shape="rect" coords="118,441,178,461" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/GAPDHS" class="plainlinks" rel="nofollow" shape="rect" coords="125,611,188,631" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Glyceraldehyde_3-phosphate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="125,631,188,651" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoglycerate_mutase" class="plainlinks" rel="nofollow" shape="rect" coords="113,794,173,814" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Phosphoglycerate_mutase" class="plainlinks" rel="nofollow" shape="rect" coords="113,774,173,794" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PKM2" class="plainlinks" rel="nofollow" shape="rect" coords="104,947,164,967" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PKLR" class="plainlinks" rel="nofollow" shape="rect" coords="104,967,164,987" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/PKM2" class="plainlinks" rel="nofollow" shape="rect" coords="104,927,164,947" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="89,1040,149,1060" alt="go to Entrez" title="go to Entrez" />
+<area href="http://en.wikipedia.org/wiki/LDHA" class="plainlinks" rel="nofollow" shape="rect" coords="89,1060,149,1080" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="89,1100,149,1120" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactate_dehydrogenase" class="plainlinks" rel="nofollow" shape="rect" coords="89,1080,149,1100" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Lactic_acid" class="plainlinks" rel="nofollow" shape="rect" coords="197,1124,297,1144" alt="go to article" title="go to article" />
+<area href="http://en.wikipedia.org/wiki/Pentose_phosphate_pathway" class="plainlinks" rel="nofollow" shape="rect" coords="540,310,733,330" alt="go to article" title="go to article" />
+<area href="http://www.wikipathways.org/index.php/Pathway:WP500" class="plainlinks" rel="nofollow" shape="rect" coords="542,354,705,374" alt="go to WikiPathways" title="go to WikiPathways" />
+<area href="http://en.wikipedia.org/wiki/Citric_acid_cycle" class="plainlinks" rel="nofollow" shape="rect" coords="870,1144,965,1164" alt="go to article" title="go to article" />
+<area href="http://www.ncbi.nlm.nih.gov/gene/51660" class="plainlinks" rel="nofollow" shape="rect" coords="593,1071,673,1091" alt="go to Entrez" title="go to Entrez" />
+<area href="http://en.wikipedia.org/wiki/BRP44" class="plainlinks" rel="nofollow" shape="rect" coords="593,1091,673,1111" alt="go to article" title="go to article" /></map></div>
+</div>
+</div>
+</div>
+<div class="thumbcaption" style="width:300px;"></div>
+</div>
+|{{{bSize}}}px|alt=Glycolysis and Gluconeogenesis <a rel="nofollow" class="external text" href="http://www.wikipathways.org/index.php/Pathway:WP534">edit</a>]]</div>
+</div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:WP534.png" title="File:WP534.png">File:WP534.png</a></div>
+Glycolysis and Gluconeogenesis <a rel="nofollow" class="external text" href="http://www.wikipathways.org/index.php/Pathway:WP534">edit</a></div>
+</div>
+</div>
+<div style="clear:both;"></div>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WikiPathways-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-WikiPathways_11-0">^</a></b></span> <span class="reference-text">The interactive pathway map can be edited at WikiPathways: <span class="citation web"><a rel="nofollow" class="external text" href="http://www.wikipathways.org/index.php/Pathway:WP534">"GlycolysisGluconeogenesis_WP534"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.btitle=GlycolysisGluconeogenesis_WP534&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wikipathways.org%2Findex.php%2FPathway%3AWP534&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fructose_bisphosphatase_deficiency" title="Fructose bisphosphatase deficiency">Fructose bisphosphatase deficiency</a></li>
+<li><a href="/wiki/Fructose" title="Fructose">Fructose</a></li>
+<li><a href="/wiki/Gluconeogenesis" title="Gluconeogenesis">Gluconeogenesis</a></li>
+<li><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pmid2159755-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid2159755_1-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Marcus F, Harrsch PB (May 1990). "Amino acid sequence of spinach chloroplast fructose-1,6-bisphosphatase". <i>Arch. Biochem. Biophys.</i> <b>279</b> (1): 151–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0003-9861%2890%2990475-E">10.1016/0003-9861(90)90475-E</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2159755">2159755</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Amino+acid+sequence+of+spinach+chloroplast+fructose-1%2C6-bisphosphatase&amp;rft.aulast=Marcus+F%2C+Harrsch+PB&amp;rft.au=Marcus+F%2C+Harrsch+PB&amp;rft.date=May+1990&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0003-9861%2890%2990475-E&amp;rft_id=info%3Apmid%2F2159755&amp;rft.issue=1&amp;rft.jtitle=Arch.+Biochem.+Biophys.&amp;rft.pages=151-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=279" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid3008716-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid3008716_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Marcus F, Gontero B, Harrsch PB, Rittenhouse J (March 1986). "Amino acid sequence homology among fructose-1,6-bisphosphatases". <i>Biochem. Biophys. Res. Commun.</i> <b>135</b> (2): 374–81. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0006-291X%2886%2990005-7">10.1016/0006-291X(86)90005-7</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/3008716">3008716</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Amino+acid+sequence+homology+among+fructose-1%2C6-bisphosphatases&amp;rft.aulast=Marcus+F%2C+Gontero+B%2C+Harrsch+PB%2C+Rittenhouse+J&amp;rft.au=Marcus+F%2C+Gontero+B%2C+Harrsch+PB%2C+Rittenhouse+J&amp;rft.date=March+1986&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0006-291X%2886%2990005-7&amp;rft_id=info%3Apmid%2F3008716&amp;rft.issue=2&amp;rft.jtitle=Biochem.+Biophys.+Res.+Commun.&amp;rft.pages=374-81&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=135" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid8382485-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid8382485_3-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Zhang Y, Liang JY, Lipscomb WN (February 1993). "Structural similarities between fructose-1,6-bisphosphatase and inositol monophosphatase". <i>Biochem. Biophys. Res. Commun.</i> <b>190</b> (3): 1080–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1006%2Fbbrc.1993.1159">10.1006/bbrc.1993.1159</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8382485">8382485</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Structural+similarities+between+fructose-1%2C6-bisphosphatase+and+inositol+monophosphatase&amp;rft.aulast=Zhang+Y%2C+Liang+JY%2C+Lipscomb+WN&amp;rft.au=Zhang+Y%2C+Liang+JY%2C+Lipscomb+WN&amp;rft.date=February+1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1006%2Fbbrc.1993.1159&amp;rft_id=info%3Apmid%2F8382485&amp;rft.issue=3&amp;rft.jtitle=Biochem.+Biophys.+Res.+Commun.&amp;rft.pages=1080-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=190" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid7761465-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7761465_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">York JD, Ponder JW, Majerus PW (May 1995). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC41866">"Definition of a metal-dependent/Li(+)-inhibited phosphomonoesterase protein family based upon a conserved three-dimensional core structure"</a>. <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>92</b> (11): 5149–53. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.92.11.5149">10.1073/pnas.92.11.5149</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC41866">41866</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7761465">7761465</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Definition+of+a+metal-dependent%2FLi%28%2B%29-inhibited+phosphomonoesterase+protein+family+based+upon+a+conserved+three-dimensional+core+structure&amp;rft.aulast=York+JD%2C+Ponder+JW%2C+Majerus+PW&amp;rft.au=York+JD%2C+Ponder+JW%2C+Majerus+PW&amp;rft.date=May+1995&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC41866&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.92.11.5149&amp;rft_id=info%3Apmc%2F41866&amp;rft_id=info%3Apmid%2F7761465&amp;rft.issue=11&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&amp;rft.pages=5149-53&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=92" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid10986273-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid10986273_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Donahue JL, Bownas JL, Niehaus WG, Larson TJ (October 2000). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC111013">"Purification and characterization of glpX-encoded fructose 1, 6-bisphosphatase, a new enzyme of the glycerol 3-phosphate regulon of Escherichia coli"</a>. <i>J. Bacteriol.</i> <b>182</b> (19): 5624–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1128%2Fjb.182.19.5624-5627.2000">10.1128/jb.182.19.5624-5627.2000</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC111013">111013</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10986273">10986273</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Purification+and+characterization+of+glpX-encoded+fructose+1%2C+6-bisphosphatase%2C+a+new+enzyme+of+the+glycerol+3-phosphate+regulon+of+Escherichia+coli&amp;rft.au=Donahue+JL%2C+Bownas+JL%2C+Niehaus+WG%2C+Larson+TJ&amp;rft.aulast=Donahue+JL%2C+Bownas+JL%2C+Niehaus+WG%2C+Larson+TJ&amp;rft.date=October+2000&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC111013&amp;rft_id=info%3Adoi%2F10.1128%2Fjb.182.19.5624-5627.2000&amp;rft_id=info%3Apmc%2F111013&amp;rft_id=info%3Apmid%2F10986273&amp;rft.issue=19&amp;rft.jtitle=J.+Bacteriol.&amp;rft.pages=5624-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=182" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid11062561-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid11062561_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Stec B, Yang H, Johnson KA, Chen L, Roberts MF (November 2000). "MJ0109 is an enzyme that is both an inositol monophosphatase and the 'missing' archaeal fructose-1,6-bisphosphatase". <i>Nat. Struct. Biol.</i> <b>7</b> (11): 1046–50. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F80968">10.1038/80968</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11062561">11062561</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=MJ0109+is+an+enzyme+that+is+both+an+inositol+monophosphatase+and+the+%27missing%27+archaeal+fructose-1%2C6-bisphosphatase&amp;rft.aulast=Stec+B%2C+Yang+H%2C+Johnson+KA%2C+Chen+L%2C+Roberts+MF&amp;rft.au=Stec+B%2C+Yang+H%2C+Johnson+KA%2C+Chen+L%2C+Roberts+MF&amp;rft.date=November+2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2F80968&amp;rft_id=info%3Apmid%2F11062561&amp;rft.issue=11&amp;rft.jtitle=Nat.+Struct.+Biol.&amp;rft.pages=1046-50&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid12065581-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid12065581_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid12065581_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Rashid N, Imanaka H, Kanai T, Fukui T, Atomi H, Imanaka T (August 2002). "A novel candidate for the true fructose-1,6-bisphosphatase in archaea". <i>J. Biol. Chem.</i> <b>277</b> (34): 30649–55. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1074%2Fjbc.M202868200">10.1074/jbc.M202868200</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12065581">12065581</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=A+novel+candidate+for+the+true+fructose-1%2C6-bisphosphatase+in+archaea&amp;rft.aulast=Rashid+N%2C+Imanaka+H%2C+Kanai+T%2C+Fukui+T%2C+Atomi+H%2C+Imanaka+T&amp;rft.au=Rashid+N%2C+Imanaka+H%2C+Kanai+T%2C+Fukui+T%2C+Atomi+H%2C+Imanaka+T&amp;rft.date=August+2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M202868200&amp;rft_id=info%3Apmid%2F12065581&amp;rft.issue=34&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.pages=30649-55&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=277" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid15274916-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-pmid15274916_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pmid15274916_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Nishimasu H, Fushinobu S, Shoun H, Wakagi T (June 2004). "The first crystal structure of the novel class of fructose-1,6-bisphosphatase present in thermophilic archaea". <i>Structure</i> <b>12</b> (6): 949–59. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.str.2004.03.026">10.1016/j.str.2004.03.026</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15274916">15274916</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=The+first+crystal+structure+of+the+novel+class+of+fructose-1%2C6-bisphosphatase+present+in+thermophilic+archaea&amp;rft.aulast=Nishimasu+H%2C+Fushinobu+S%2C+Shoun+H%2C+Wakagi+T&amp;rft.au=Nishimasu+H%2C+Fushinobu+S%2C+Shoun+H%2C+Wakagi+T&amp;rft.date=June+2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.str.2004.03.026&amp;rft_id=info%3Apmid%2F15274916&amp;rft.issue=6&amp;rft.jtitle=Structure&amp;rft.pages=949-59&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid221467-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid221467_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Fujita Y, Freese E (June 1979). "Purification and properties of fructose-1,6-bisphosphatase of Bacillus subtilis". <i>J. Biol. Chem.</i> <b>254</b> (12): 5340–9. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/221467">221467</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Purification+and+properties+of+fructose-1%2C6-bisphosphatase+of+Bacillus+subtilis&amp;rft.au=Fujita+Y%2C+Freese+E&amp;rft.aulast=Fujita+Y%2C+Freese+E&amp;rft.date=June+1979&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F221467&amp;rft.issue=12&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.pages=5340-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=254" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid9696785-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9696785_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Fujita Y, Yoshida K, Miwa Y, Yanai N, Nagakawa E, Kasahara Y (August 1998). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC107433">"Identification and expression of the Bacillus subtilis fructose-1, 6-bisphosphatase gene (fbp)"</a>. <i>J. Bacteriol.</i> <b>180</b> (16): 4309–13. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC107433">107433</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9696785">9696785</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Identification+and+expression+of+the+Bacillus+subtilis+fructose-1%2C+6-bisphosphatase+gene+%28fbp%29&amp;rft.au=Fujita+Y%2C+Yoshida+K%2C+Miwa+Y%2C+Yanai+N%2C+Nagakawa+E%2C+Kasahara+Y&amp;rft.aulast=Fujita+Y%2C+Yoshida+K%2C+Miwa+Y%2C+Yanai+N%2C+Nagakawa+E%2C+Kasahara+Y&amp;rft.date=August+1998&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC107433&amp;rft_id=info%3Apmc%2F107433&amp;rft_id=info%3Apmid%2F9696785&amp;rft.issue=16&amp;rft.jtitle=J.+Bacteriol.&amp;rft.pages=4309-13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=180" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Berg, Jeremy Mark; John L. Tymoczko; Lubert Stryer (2002). "Glycolysis and Gluconeogenesis". In Susan Moran (ed.). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&amp;db=books&amp;doptcmdl=GenBookHL&amp;term=fructose+bisphosphatase+AND+stryer%5Bbook%5D+AND+216199%5Buid%5D&amp;rid=stryer.section.2281#2284"><i>Biochemistry</i></a> (5th Edition ed.). 41 Madison Avenue, New York, New York: W. H. Freeman and Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7167-3051-0" title="Special:BookSources/0-7167-3051-0">0-7167-3051-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFructose+1%2C6-bisphosphatase&amp;rft.atitle=Glycolysis+and+Gluconeogenesis&amp;rft.au=Berg%2C+Jeremy+Mark&amp;rft.aufirst=Jeremy+Mark&amp;rft.au=John+L.+Tymoczko&amp;rft.aulast=Berg&amp;rft.au=Lubert+Stryer&amp;rft.btitle=Biochemistry&amp;rft.date=2002&amp;rft.edition=5th+Edition&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Fquery.fcgi%3Fcmd%3DSearch%26db%3Dbooks%26doptcmdl%3DGenBookHL%26term%3Dfructose%2Bbisphosphatase%2BAND%2Bstryer%255Bbook%255D%2BAND%2B216199%255Buid%255D%26rid%3Dstryer.section.2281%232284&amp;rft.isbn=0-7167-3051-0&amp;rft.place=41+Madison+Avenue%2C+New+York%2C+New+York&amp;rft.pub=W.+H.+Freeman+and+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&amp;term=Fructose-1,6-Biphosphatase">Fructose-1,6-Biphosphatase</a> at the US National Library of Medicine <a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">Medical Subject Headings</a> (MeSH)</li>
+</ul>
+<p><i>This article incorporates text from the <a href="/wiki/Public_domain" title="Public domain">public domain</a> <a href="/wiki/Pfam" title="Pfam">Pfam</a> and <a href="/wiki/InterPro" title="InterPro">InterPro</a> <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/interpro/entry/IPR000146">IPR000146</a></i></p>
+<p><i>This article incorporates text from the <a href="/wiki/Public_domain" title="Public domain">public domain</a> <a href="/wiki/Pfam" title="Pfam">Pfam</a> and <a href="/wiki/InterPro" title="InterPro">InterPro</a> <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/interpro/entry/IPR009164">IPR009164</a></i></p>
+<p><i>This article incorporates text from the <a href="/wiki/Public_domain" title="Public domain">public domain</a> <a href="/wiki/Pfam" title="Pfam">Pfam</a> and <a href="/wiki/InterPro" title="InterPro">InterPro</a> <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/interpro/entry/IPR002803">IPR002803</a></i></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Esterases" title="Template:Esterases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Esterases" title="Template talk:Esterases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Esterases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Hydrolase" title="Hydrolase">Hydrolase</a>: <a href="/wiki/Esterase" title="Esterase">esterases</a> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> 3.1)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.1:_Carboxylic_Ester_Hydrolases" title="List of EC numbers (EC 3)">3.1.1</a>: <a href="/wiki/Carboxylic_acid" title="Carboxylic acid">Carboxylic</a><br />
+ester hydrolases</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cholinesterase" title="Cholinesterase">Cholinesterase</a>
+<ul>
+<li><a href="/wiki/Acetylcholinesterase" title="Acetylcholinesterase">Acetylcholinesterase</a></li>
+<li><a href="/wiki/Butyrylcholinesterase" title="Butyrylcholinesterase">Butyrylcholinesterase</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pectinesterase" title="Pectinesterase">Pectinesterase</a></li>
+<li><a href="/wiki/6-phosphogluconolactonase" title="6-phosphogluconolactonase">6-phosphogluconolactonase</a></li>
+<li><a href="/wiki/PAF_acetylhydrolase" title="PAF acetylhydrolase">PAF acetylhydrolase</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Lipase" title="Lipase">Lipase</a>
+<ul>
+<li><a href="/wiki/Bile_salt-dependent_lipase" title="Bile salt-dependent lipase">Bile salt-dependent</a></li>
+<li><a href="/wiki/Gastric_lipase" title="Gastric lipase">Gastric</a>/<a href="/wiki/Lingual_lipase" title="Lingual lipase">Lingual</a></li>
+<li><a href="/wiki/Pancreatic_lipase" title="Pancreatic lipase">Pancreatic</a></li>
+<li><a href="/wiki/Lysosomal_lipase" title="Lysosomal lipase">Lysosomal</a></li>
+<li><a href="/wiki/Hormone-sensitive_lipase" title="Hormone-sensitive lipase">Hormone-sensitive</a></li>
+<li><a href="/wiki/Endothelial_lipase" title="Endothelial lipase">Endothelial</a></li>
+<li><a href="/wiki/Hepatic_lipase" title="Hepatic lipase">Hepatic</a></li>
+<li><a href="/wiki/Lipoprotein_lipase" title="Lipoprotein lipase">Lipoprotein</a></li>
+<li><a href="/wiki/Monoacylglycerol_lipase" title="Monoacylglycerol lipase">Monoacylglycerol</a></li>
+<li><a href="/wiki/Diacylglycerol_lipase" title="Diacylglycerol lipase">Diacylglycerol</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Phospholipase" title="Phospholipase">Phospholipase</a>
+<ul>
+<li><a href="/wiki/Phospholipase_A1" title="Phospholipase A1">A1</a></li>
+<li><a href="/wiki/Phospholipase_A2" title="Phospholipase A2">A2</a></li>
+<li><a href="/wiki/Phospholipase_B" title="Phospholipase B">B</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.2:_Thioester_Hydrolases" title="List of EC numbers (EC 3)">3.1.2</a>: <a href="/wiki/Thioesterase" title="Thioesterase">Thioesterase</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Palmitoyl_protein_thioesterase" title="Palmitoyl protein thioesterase">Palmitoyl protein thioesterase</a></li>
+<li><a href="/wiki/Ubiquitin_carboxy-terminal_hydrolase_L1" title="Ubiquitin carboxy-terminal hydrolase L1">Ubiquitin carboxy-terminal hydrolase L1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.3:_Phosphoric_Monoester_Hydrolases" title="List of EC numbers (EC 3)">3.1.3</a>: <a href="/wiki/Phosphatase" title="Phosphatase">Phosphatase</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alkaline_phosphatase" title="Alkaline phosphatase">Alkaline phosphatase</a>
+<ul>
+<li><a href="/wiki/ALPI" title="ALPI">ALPI</a></li>
+<li><a href="/wiki/ALPL" title="ALPL">ALPL</a></li>
+<li><a href="/wiki/Placental_alkaline_phosphatase" title="Placental alkaline phosphatase">ALPP</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Acid_phosphatase" title="Acid phosphatase">Acid phosphatase</a> (<a href="/wiki/Prostatic_acid_phosphatase" title="Prostatic acid phosphatase">Prostatic</a>)/<a href="/wiki/Tartrate-resistant_acid_phosphatase" title="Tartrate-resistant acid phosphatase">Tartrate-resistant acid phosphatase</a>/<a href="/wiki/Purple_acid_phosphatases" title="Purple acid phosphatases">Purple acid phosphatases</a></li>
+<li><a href="/wiki/Nucleotidase" title="Nucleotidase">Nucleotidase</a></li>
+<li><a href="/wiki/Glucose_6-phosphatase" title="Glucose 6-phosphatase">Glucose 6-phosphatase</a></li>
+<li><strong class="selflink">Fructose 1,6-bisphosphatase</strong>
+<ul>
+<li><a href="/wiki/Calcineurin" title="Calcineurin">Calcineurin</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Protein_phosphatase" title="Protein phosphatase">Protein phosphatase</a>
+<ul>
+<li><a href="/wiki/PP2A" title="PP2A" class="mw-redirect">PP2A</a></li>
+</ul>
+</li>
+<li><a href="/wiki/OCRL" title="OCRL">OCRL</a></li>
+<li><a href="/wiki/Pyruvate_dehydrogenase_phosphatase" title="Pyruvate dehydrogenase phosphatase">Pyruvate dehydrogenase phosphatase</a></li>
+<li><a href="/wiki/Phosphofructokinase_2" title="Phosphofructokinase 2">Fructose 6-P,2-kinase:fructose 2,6-bisphosphatase</a></li>
+<li><a href="/wiki/PTEN_(gene)" title="PTEN (gene)">PTEN</a></li>
+<li><a href="/wiki/Phytase" title="Phytase">Phytase</a></li>
+<li><a href="/wiki/Inositol-phosphate_phosphatase" title="Inositol-phosphate phosphatase">Inositol-phosphate phosphatase</a>
+<ul>
+<li><a href="/wiki/Inositol_monophosphatase_1" title="Inositol monophosphatase 1">IMPA1</a>, <a href="/wiki/Inositol_monophosphatase_2" title="Inositol monophosphatase 2">IMPA2</a>, <a href="/wiki/Inositol_monophosphatase_3" title="Inositol monophosphatase 3">IMPA3</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Protein_phosphatase" title="Protein phosphatase">Protein phosphatase</a>: <a href="/wiki/Protein_tyrosine_phosphatase" title="Protein tyrosine phosphatase">Protein tyrosine phosphatase</a></li>
+<li><a href="/wiki/Protein_serine/threonine_phosphatase" title="Protein serine/threonine phosphatase">Protein serine/threonine phosphatase</a></li>
+<li><a href="/wiki/Dual-specificity_phosphatase" title="Dual-specificity phosphatase">Dual-specificity phosphatase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.4:_Phosphoric_Diester_Hydrolases" title="List of EC numbers (EC 3)">3.1.4</a>: <a href="/wiki/Phosphodiesterase" title="Phosphodiesterase">Phosphodiesterase</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autotaxin" title="Autotaxin">Autotaxin</a></li>
+<li><a href="/wiki/Phospholipase" title="Phospholipase">Phospholipase</a>
+<ul>
+<li><a href="/wiki/Phospholipase_C" title="Phospholipase C">C</a></li>
+<li><a href="/wiki/Phospholipase_D" title="Phospholipase D">D</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sphingomyelin_phosphodiesterase" title="Sphingomyelin phosphodiesterase">Sphingomyelin phosphodiesterase</a>
+<ul>
+<li><a href="/wiki/Sphingomyelin_phosphodiesterase_1" title="Sphingomyelin phosphodiesterase 1">1</a></li>
+</ul>
+</li>
+<li><a href="/wiki/PDE1" title="PDE1">PDE1</a></li>
+<li><a href="/wiki/Phosphodiesterase_2" title="Phosphodiesterase 2">PDE2</a></li>
+<li><a href="/wiki/Phosphodiesterase_3" title="Phosphodiesterase 3">PDE3</a></li>
+<li><a href="/wiki/PDE4A" title="PDE4A">PDE4A</a>/<a href="/wiki/PDE4B" title="PDE4B">PDE4B</a></li>
+<li><a href="/wiki/CGMP_specific_phosphodiesterase_type_5" title="CGMP specific phosphodiesterase type 5" class="mw-redirect">PDE5</a></li>
+<li><a href="/wiki/Lecithinase" title="Lecithinase">Lecithinase</a> (<a href="/wiki/Clostridium_perfringens_alpha_toxin" title="Clostridium perfringens alpha toxin">Clostridium perfringens alpha toxin</a>)</li>
+<li><a href="/wiki/Cyclic_nucleotide_phosphodiesterase" title="Cyclic nucleotide phosphodiesterase">Cyclic nucleotide phosphodiesterase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.6:_Sulfuric_Ester_Hydrolases" title="List of EC numbers (EC 3)">3.1.6</a>: <a href="/wiki/Sulfatase" title="Sulfatase">Sulfatase</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Arylsulfatase" title="Arylsulfatase">arylsulfatase</a></i>
+<ul>
+<li><a href="/wiki/Arylsulfatase_A" title="Arylsulfatase A">Arylsulfatase A</a></li>
+<li><a href="/wiki/Arylsulfatase_B" title="Arylsulfatase B">Arylsulfatase B</a></li>
+<li><a href="/wiki/Arylsulfatase_E" title="Arylsulfatase E">Arylsulfatase E</a></li>
+<li><a href="/wiki/Steroid_sulfatase" title="Steroid sulfatase">Steroid sulfatase</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Galactosamine-6_sulfatase" title="Galactosamine-6 sulfatase">Galactosamine-6 sulfatase</a></li>
+<li><a href="/wiki/Iduronate-2-sulfatase" title="Iduronate-2-sulfatase">Iduronate-2-sulfatase</a></li>
+<li><a href="/wiki/N-acetylglucosamine-6-sulfatase" title="N-acetylglucosamine-6-sulfatase">N-acetylglucosamine-6-sulfatase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nuclease" title="Nuclease">Nuclease</a> (includes<br />
+<a href="/wiki/Deoxyribonuclease" title="Deoxyribonuclease">deoxyribonuclease</a> and<br />
+<a href="/wiki/Ribonuclease" title="Ribonuclease">ribonuclease</a>)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.11:_Exodeoxyribonucleases_Producing_5.27-Phosphomonoesters" title="List of EC numbers (EC 3)">3.1.11</a>-16: <a href="/wiki/Exonuclease" title="Exonuclease">Exonuclease</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Exodeoxyribonuclease" title="Exodeoxyribonuclease">Exodeoxyribonuclease</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RecBCD" title="RecBCD">RecBCD</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Exoribonuclease" title="Exoribonuclease">Exoribonuclease</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oligonucleotidase" title="Oligonucleotidase">Oligonucleotidase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_3)#EC_3.1.21:_Endodeoxyribonucleases_Producing_5.27-Phosphomonoesters" title="List of EC numbers (EC 3)">3.1.21</a>-31: <a href="/wiki/Endonuclease" title="Endonuclease">Endonuclease</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Endodeoxyribonuclease" title="Endodeoxyribonuclease">Endodeoxyribonuclease</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deoxyribonuclease_I" title="Deoxyribonuclease I">Deoxyribonuclease I</a></li>
+<li><a href="/wiki/Deoxyribonuclease_II" title="Deoxyribonuclease II">Deoxyribonuclease II</a></li>
+<li><a href="/wiki/Deoxyribonuclease_IV" title="Deoxyribonuclease IV">Deoxyribonuclease IV</a></li>
+<li><a href="/wiki/Restriction_enzyme" title="Restriction enzyme">Restriction enzyme</a></li>
+<li><a href="/wiki/UvrABC_endonuclease" title="UvrABC endonuclease">UvrABC endonuclease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Endoribonuclease" title="Endoribonuclease">Endoribonuclease</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/RNase_III" title="RNase III" class="mw-redirect">RNase III</a></li>
+<li><a href="/wiki/RNase_H" title="RNase H" class="mw-redirect">RNase H</a>
+<ul>
+<li><a href="/wiki/RNASEH1" title="RNASEH1">1</a></li>
+<li><a href="/wiki/RNASEH2A" title="RNASEH2A">2A</a></li>
+<li><a href="/wiki/RNASEH2B" title="RNASEH2B">2B</a></li>
+<li><a href="/w/index.php?title=RNASEH2C&amp;action=edit&amp;redlink=1" class="new" title="RNASEH2C (page does not exist)">2C</a></li>
+</ul>
+</li>
+<li><a href="/wiki/RNase_P" title="RNase P" class="mw-redirect">RNase P</a></li>
+<li><a href="/wiki/Ribonuclease_A" title="Ribonuclease A" class="mw-redirect">RNase A</a>
+<ul>
+<li><a href="/wiki/RNASE1" title="RNASE1">1</a></li>
+<li><a href="/wiki/Eosinophil-derived_neurotoxin" title="Eosinophil-derived neurotoxin">2</a></li>
+<li><a href="/wiki/Eosinophil_cationic_protein" title="Eosinophil cationic protein">3</a></li>
+<li><a href="/wiki/Angiogenin" title="Angiogenin">4/5</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ribonuclease_T1" title="Ribonuclease T1">RNase T1</a></li>
+<li><a href="/wiki/RNA-induced_silencing_complex" title="RNA-induced silencing complex">RNA-induced silencing complex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">either deoxy- or ribo-</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aspergillus_nuclease_S1" title="Aspergillus nuclease S1">Aspergillus nuclease S1</a></li>
+<li><a href="/wiki/Micrococcal_nuclease" title="Micrococcal nuclease">Micrococcal nuclease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="padding: 0px; background-color: AntiqueWhite">
+<div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Biochemistry_metanavs" title="Template:Biochemistry metanavs">Biochemistry overview</a></li>
+<li><a href="/wiki/Template:Enzymes" title="Template:Enzymes">Enzymes overview</a></li>
+<li>By <a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a>: <a href="/wiki/Template:Alcohol_oxidoreductases" title="Template:Alcohol oxidoreductases">1.1</a>
+<ul>
+<li><a href="/wiki/Template:Aldehyde/Oxo_oxidoreductases" title="Template:Aldehyde/Oxo oxidoreductases">2</a></li>
+<li><a href="/wiki/Template:CH-CH_oxidoreductases" title="Template:CH-CH oxidoreductases">3</a></li>
+<li><a href="/wiki/Template:CH-NH2_oxidoreductases" title="Template:CH-NH2 oxidoreductases">4</a></li>
+<li><a href="/wiki/Template:CH-NH_oxidoreductases" title="Template:CH-NH oxidoreductases">5</a></li>
+<li><a href="/wiki/Template:NADH_or_NADPH_oxidoreductases" title="Template:NADH or NADPH oxidoreductases">6</a></li>
+<li><a href="/wiki/Template:Nitrogenous_donor_oxidoreductases" title="Template:Nitrogenous donor oxidoreductases">7</a></li>
+<li><a href="/wiki/Template:Sulfur_oxidoreductases" title="Template:Sulfur oxidoreductases">8</a></li>
+<li><a href="/wiki/Template:Diphenol_family_oxidoreductases" title="Template:Diphenol family oxidoreductases">10</a></li>
+<li><a href="/wiki/Template:Peroxidases" title="Template:Peroxidases">11</a></li>
+<li><a href="/wiki/Template:Monooxygenases" title="Template:Monooxygenases">13</a></li>
+<li><a href="/wiki/Template:Dioxygenases" title="Template:Dioxygenases">14</a></li>
+<li><a href="/wiki/Template:Other_oxidoreductases" title="Template:Other oxidoreductases">15-18</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:One_carbon_transferases" title="Template:One carbon transferases">2.1</a>
+<ul>
+<li><a href="/wiki/Template:Aldehyde-ketone_transferases" title="Template:Aldehyde-ketone transferases">2</a></li>
+<li><a href="/wiki/Template:Acyltransferases" title="Template:Acyltransferases">3</a></li>
+<li><a href="/wiki/Template:Glycosyltransferases" title="Template:Glycosyltransferases">4</a></li>
+<li><a href="/wiki/Template:Alkyl_and_aryl_transferases" title="Template:Alkyl and aryl transferases">5</a></li>
+<li><a href="/wiki/Template:Nitrogenous_transferases" title="Template:Nitrogenous transferases">6</a></li>
+<li><a href="/wiki/Template:Kinases" title="Template:Kinases">7</a>
+<ul>
+<li><a href="/wiki/Template:Tyrosine_kinases" title="Template:Tyrosine kinases">2.7.10</a></li>
+<li><a href="/wiki/Template:Serine/threonine-specific_protein_kinases" title="Template:Serine/threonine-specific protein kinases">11-12</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sulfur-containing_group_transferases" title="Template:Sulfur-containing group transferases">8</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Esterases" title="Template:Esterases">3.1</a>
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/Template:Protein_tyrosine_phosphatases" title="Template:Protein tyrosine phosphatases">3.1.3.48</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sugar_hydrolases" title="Template:Sugar hydrolases">2</a></li>
+<li><a href="/wiki/Template:Ether_bond_hydrolases" title="Template:Ether bond hydrolases">3</a></li>
+<li><a href="/wiki/Template:Proteases" title="Template:Proteases">4</a>
+<ul>
+<li><a href="/wiki/Template:Serine_endopeptidases" title="Template:Serine endopeptidases">3.4.21</a></li>
+<li><a href="/wiki/Template:Cysteine_proteases" title="Template:Cysteine proteases">22</a></li>
+<li><a href="/wiki/Template:Aspartic_acid_proteases" title="Template:Aspartic acid proteases">23</a></li>
+<li><a href="/wiki/Template:Metalloendopeptidases" title="Template:Metalloendopeptidases">24</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Carbon-nitrogen_non-peptide_hydrolases" title="Template:Carbon-nitrogen non-peptide hydrolases">5</a></li>
+<li><a href="/wiki/Template:Acid_anhydride_hydrolases" title="Template:Acid anhydride hydrolases">6</a></li>
+<li><a href="/wiki/Template:Carbon-carbon_hydrolases" title="Template:Carbon-carbon hydrolases">7</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Carbon-carbon_lyases" title="Template:Carbon-carbon lyases">4.1</a>
+<ul>
+<li><a href="/wiki/Template:Carbon-oxygen_lyases" title="Template:Carbon-oxygen lyases">2</a></li>
+<li><a href="/wiki/Template:Carbon-nitrogen_lyases" title="Template:Carbon-nitrogen lyases">3</a></li>
+<li><a href="/wiki/Template:Carbon-sulfur_lyases" title="Template:Carbon-sulfur lyases">4</a></li>
+<li><a href="/wiki/Template:Carbon-halide_lyases" title="Template:Carbon-halide lyases">5</a></li>
+<li><a href="/wiki/Template:Phosphorus-oxygen_lyases" title="Template:Phosphorus-oxygen lyases">6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Racemases_and_epimerases" title="Template:Racemases and epimerases">5.1</a>
+<ul>
+<li><a href="/wiki/Template:Geometric_isomerases" title="Template:Geometric isomerases">2</a></li>
+<li><a href="/wiki/Template:Intramolecular_oxidoreductases" title="Template:Intramolecular oxidoreductases">3</a></li>
+<li><a href="/wiki/Template:Mutases" title="Template:Mutases">4</a></li>
+<li><a href="/wiki/Template:Topoisomerases" title="Template:Topoisomerases">99</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Ligases_CO_CS_and_CN" title="Template:Ligases CO CS and CN">6.1-3</a>
+<ul>
+<li><a href="/wiki/Template:Carbon-carbon_ligases" title="Template:Carbon-carbon ligases">4</a></li>
+<li><a href="/wiki/Template:Phosphoric_ester_and_nitrogen-metal_ligases" title="Template:Phosphoric ester and nitrogen-metal ligases">5-6</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Glycolysis_enzymes" title="Template:Glycolysis enzymes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Glycolysis_enzymes" title="Template talk:Glycolysis enzymes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Glycolysis_enzymes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a>: <a href="/wiki/Carbohydrate_metabolism" title="Carbohydrate metabolism">carbohydrate metabolism</a>: <a href="/wiki/Glycolysis" title="Glycolysis">glycolysis</a>/<a href="/wiki/Gluconeogenesis" title="Gluconeogenesis">gluconeogenesis</a> <a href="/wiki/Enzyme" title="Enzyme">enzymes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Glycolysis</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hexokinase" title="Hexokinase">Hexokinase</a> (<a href="/wiki/HK1" title="HK1">HK1</a>, <a href="/wiki/HK2" title="HK2">HK2</a>, <a href="/wiki/HK3" title="HK3">HK3</a>, <a href="/wiki/Glucokinase" title="Glucokinase">Glucokinase</a>)→/<a href="/wiki/Glucose_6-phosphatase" title="Glucose 6-phosphatase">Glucose 6-phosphatase</a>←</li>
+<li><a href="/wiki/Glucose-6-phosphate_isomerase" title="Glucose-6-phosphate isomerase">Glucose isomerase</a></li>
+<li><a href="/wiki/Phosphofructokinase_1" title="Phosphofructokinase 1">Phosphofructokinase 1</a> (<a href="/wiki/PFKL" title="PFKL">Liver</a>, <a href="/wiki/PFKM" title="PFKM">Muscle</a>, <a href="/wiki/PFKP" title="PFKP">Platelet</a>)→/<strong class="selflink">Fructose 1,6-bisphosphatase</strong>←</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fructose-bisphosphate_aldolase" title="Fructose-bisphosphate aldolase">Fructose-bisphosphate aldolase</a> (Aldolase <a href="/wiki/Aldolase_A" title="Aldolase A">A</a>, <a href="/wiki/Aldolase_B" title="Aldolase B">B</a>, <a href="/wiki/Aldolase_C" title="Aldolase C">C</a>)</li>
+<li><a href="/wiki/Triosephosphate_isomerase" title="Triosephosphate isomerase">Triosephosphate isomerase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glyceraldehyde_3-phosphate_dehydrogenase" title="Glyceraldehyde 3-phosphate dehydrogenase">Glyceraldehyde 3-phosphate dehydrogenase</a></li>
+<li><a href="/wiki/Phosphoglycerate_kinase" title="Phosphoglycerate kinase">Phosphoglycerate kinase</a></li>
+<li><a href="/wiki/Phosphoglycerate_mutase" title="Phosphoglycerate mutase">Phosphoglycerate mutase</a></li>
+<li><a href="/wiki/Enolase" title="Enolase">Enolase</a></li>
+<li><a href="/wiki/Pyruvate_kinase" title="Pyruvate kinase">Pyruvate kinase</a> (<a href="/wiki/PKLR" title="PKLR">PKLR</a>, <a href="/wiki/PKM2" title="PKM2">PKM2</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Gluconeogenesis only</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">to <a href="/wiki/Oxaloacetic_acid" title="Oxaloacetic acid">oxaloacetate</a>:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyruvate_carboxylase" title="Pyruvate carboxylase">Pyruvate carboxylase</a></li>
+<li><a href="/wiki/Phosphoenolpyruvate_carboxykinase" title="Phosphoenolpyruvate carboxykinase">Phosphoenolpyruvate carboxykinase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">from <a href="/wiki/Lactic_acid" title="Lactic acid">lactate</a> (<a href="/wiki/Cori_cycle" title="Cori cycle">Cori cycle</a>):</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lactate_dehydrogenase" title="Lactate dehydrogenase">Lactate dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">from <a href="/wiki/Alanine" title="Alanine">alanine</a> (<a href="/wiki/Alanine_cycle" title="Alanine cycle" class="mw-redirect">Alanine cycle</a>):</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alanine_transaminase" title="Alanine transaminase">Alanine transaminase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">from <a href="/wiki/Glycerol" title="Glycerol">glycerol</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glycerol_kinase" title="Glycerol kinase">Glycerol kinase</a></li>
+<li><a href="/wiki/Glycerol_dehydrogenase" title="Glycerol dehydrogenase">Glycerol dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Regulatory</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Phosphofructokinase_2" title="Phosphofructokinase 2">Fructose 6-P,2-kinase:fructose 2,6-bisphosphatase</a>
+<ul>
+<li><a href="/wiki/PFKFB1" title="PFKFB1">PFKFB1</a>, <a href="/wiki/PFKFB2" title="PFKFB2">PFKFB2</a>, <a href="/wiki/PFKFB3" title="PFKFB3">PFKFB3</a>, <a href="/wiki/PFKFB4" title="PFKFB4">PFKFB4</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Bisphosphoglycerate_mutase" title="Bisphosphoglycerate mutase">Bisphosphoglycerate mutase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metabolic_navs" title="Template:Metabolic navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metabolic_navs" title="Template talk:Metabolic navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metabolic_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Inborn_error_of_metabolism" title="Inborn error of metabolism">inborn errors of metabolism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Metabolism" title="Template:Metabolism">Metabolism</a></li>
+<li>Enzymes and pathways: <a href="/wiki/Template:Citric_acid_cycle" title="Template:Citric acid cycle">citric acid cycle</a>
+<ul>
+<li><a href="/wiki/Template:Citric_acid_cycle_enzymes_and_ETC" title="Template:Citric acid cycle enzymes and ETC">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_enzymes" title="Template:Pentose phosphate pathway enzymes">pentose phosphate</a>
+<ul>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_intermediates" title="Template:Pentose phosphate pathway intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycoproteins" title="Template:Glycoproteins">glycoproteins</a>
+<ul>
+<li><a href="/wiki/Template:Glycoprotein_metabolism_enzymes" title="Template:Glycoprotein metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycosaminoglycans" title="Template:Glycosaminoglycans">glycosaminoglycans</a>
+<ul>
+<li><a href="/wiki/Template:Proteoglycan_metabolism_enzymes" title="Template:Proteoglycan metabolism enzymes">proteoglycan enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Phospholipids" title="Template:Phospholipids">phospholipid</a>
+<ul>
+<li><a href="/wiki/Template:Phospholipid_metabolism" title="Template:Phospholipid metabolism">metabolism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_metabolism_enzymes" title="Template:Cholesterol and steroid metabolism enzymes">cholesterol and steroid</a>
+<ul>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_intermediates" title="Template:Cholesterol and steroid intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sphingolipids" title="Template:Sphingolipids">sphingolipids</a>
+<ul>
+<li><a href="/wiki/Template:Glycolipid/sphingolipid_metabolism_enzymes" title="Template:Glycolipid/sphingolipid metabolism enzymes" class="mw-redirect">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Eicosanoids" title="Template:Eicosanoids">eicosanoids</a>
+<ul>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_enzymes" title="Template:Eicosanoid metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Amino_acid_metabolism_enzymes" title="Template:Amino acid metabolism enzymes">amino acid</a>
+<ul>
+<li><a href="/wiki/Template:Amino_acid_metabolism_intermediates" title="Template:Amino acid metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Urea_cycle" title="Template:Urea cycle">urea cycle</a>
+<ul>
+<li><a href="/wiki/Template:Urea_cycle_enzymes" title="Template:Urea cycle enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nucleotide_metabolism_enzymes" title="Template:Nucleotide metabolism enzymes">nucleotide</a>
+<ul>
+<li><a href="/wiki/Template:Nucleotide_metabolism_intermediates" title="Template:Nucleotide metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disorders</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Disorders_of_TCA_and_ETC" title="Template:Disorders of TCA and ETC">Citric acid cycle and electron transport chain</a></li>
+<li><a href="/wiki/Template:Glycoprotein_disorders" title="Template:Glycoprotein disorders">Glycoprotein</a></li>
+<li><a href="/wiki/Template:Proteoglycan_disorders" title="Template:Proteoglycan disorders">Proteoglycan</a></li>
+<li><a href="/wiki/Template:Fatty-acid_metabolism_disorders" title="Template:Fatty-acid metabolism disorders">Fatty-acid</a></li>
+<li><a href="/wiki/Template:Phospholipid_metabolism_disorders" title="Template:Phospholipid metabolism disorders">Phospholipid</a></li>
+<li><a href="/wiki/Template:Defects_of_cholesterol_and_steroid_metabolism" title="Template:Defects of cholesterol and steroid metabolism">Cholesterol and steroid</a></li>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_disorders" title="Template:Eicosanoid metabolism disorders">Eicosanoid</a></li>
+<li><a href="/wiki/Template:Amino_acid_metabolic_pathology" title="Template:Amino acid metabolic pathology">Amino acid</a></li>
+<li><a href="/wiki/Template:Inborn_errors_of_purine-pyrimidine_metabolism" title="Template:Inborn errors of purine-pyrimidine metabolism">Purine-pyrimidine</a></li>
+<li><a href="/wiki/Template:Heme_metabolism_disorders" title="Template:Heme metabolism disorders">Heme metabolism</a></li>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_endocrinology,_nutrition,_and_metabolism" title="Template:Eponymous medical signs for endocrinology, nutrition, and metabolism">Symptoms and signs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Other_alimentary_tract_and_metabolism_products" title="Template:Other alimentary tract and metabolism products">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Nutrition_navs" title="Template:Nutrition navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Nutrition_navs" title="Template talk:Nutrition navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Nutrition_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Nutrition" title="Nutrition">nutrition</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Vitamins" title="Template:Vitamins">Vitamins</a>
+<ul>
+<li><a href="/wiki/Template:Metabolism_of_vitamins,_coenzymes,_and_cofactors" title="Template:Metabolism of vitamins, coenzymes, and cofactors">metabolism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Enzyme_cofactors" title="Template:Enzyme cofactors">Cofactors</a></li>
+<li><a href="/wiki/Template:Metal_metabolism" title="Template:Metal metabolism">Metal metabolism</a></li>
+<li>Fats
+<ul>
+<li><a href="/wiki/Template:Lipid_metabolism_enzymes" title="Template:Lipid metabolism enzymes">metabolism</a></li>
+<li><a href="/wiki/Template:Fatty-acid_metabolism_intermediates" title="Template:Fatty-acid metabolism intermediates">intermediates</a></li>
+<li><a href="/wiki/Template:Lipoprotein_metabolism" title="Template:Lipoprotein metabolism">lipoproteins</a></li>
+</ul>
+</li>
+<li>Sugars
+<ul>
+<li><a href="/wiki/Template:Glycolysis" title="Template:Glycolysis">Glycolysis</a>
+<ul>
+<li><a href="/wiki/Template:Glycolysis_enzymes" title="Template:Glycolysis enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycogenesis_and_glycogenolysis_enzymes" title="Template:Glycogenesis and glycogenolysis enzymes">Glycogenesis and glycogenolysis</a>
+<ul>
+<li><a href="/wiki/Template:Glycogenesis_and_glycogenolysis_metabolic_intermediates" title="Template:Glycogenesis and glycogenolysis metabolic intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Fructose_and_galactose_metabolism_enzymes" title="Template:Fructose and galactose metabolism enzymes">Fructose and galactose</a>
+<ul>
+<li><a href="/wiki/Template:Fructose_and_galactose_metabolic_intermediates" title="Template:Fructose and galactose metabolic intermediates">intermediates</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Metabolic_disorders_of_vitamins,_coenzymes,_and_cofactors" title="Template:Metabolic disorders of vitamins, coenzymes, and cofactors">Vitamins</a></li>
+<li><a href="/wiki/Template:Inborn_errors_of_carbohydrate_metabolism" title="Template:Inborn errors of carbohydrate metabolism">Carbohydrate</a></li>
+<li><a href="/wiki/Template:Lipid_metabolism_disorders" title="Template:Lipid metabolism disorders">Lipid</a>
+<ul>
+<li><a href="/wiki/Template:Lipid_storage_disorders" title="Template:Lipid storage disorders">storage</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Inborn_errors_of_metal_metabolism" title="Template:Inborn errors of metal metabolism">Metals</a></li>
+<li><a href="/wiki/Template:Nutritional_pathology" title="Template:Nutritional pathology">Other</a></li>
+<li><a href="/wiki/Template:Symptoms_concerning_nutrition,_metabolism_and_development" title="Template:Symptoms concerning nutrition, metabolism and development">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_endocrinology,_nutrition,_and_metabolism" title="Template:Eponymous medical signs for endocrinology, nutrition, and metabolism">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antiobesity_preparations" title="Template:Antiobesity preparations">obesity</a></li>
+<li><a href="/wiki/Template:Lipid_modifying_agents" title="Template:Lipid modifying agents">lipid-modifying</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vitamins" title="Template:Vitamins">Vitamins</a></li>
+<li><a href="/wiki/Template:Mineral_supplements" title="Template:Mineral supplements">Mineral supplements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1240
+CPU time usage: 0.477 seconds
+Real time usage: 0.548 seconds
+Preprocessor visited node count: 5377/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 294641/2097152 bytes
+Template argument size: 69344/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 2.78 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  407.246      1 - -total
+ 33.36%  135.862      7 - Template:Infobox
+ 27.02%  110.052     10 - Template:Navbox
+ 25.16%  102.477      1 - Template:GlycolysisGluconeogenesis_WP534
+ 19.30%   78.605      2 - Template:Reflist
+ 17.85%   72.713      3 - Template:Infobox_protein_family
+ 13.46%   54.810      1 - Template:CSS_image_crop
+ 12.62%   51.404      1 - Template:Phosphatases
+ 11.82%   48.150      1 - Template:Annotated_image
+ 11.23%   45.725      1 - Template:Infobox_protein
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:316522-0!*!0!!en!4!* and timestamp 20150708170821 and revision id 608501138
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fructose_1,6-bisphosphatase&amp;oldid=608501138">https://en.wikipedia.org/w/index.php?title=Fructose_1,6-bisphosphatase&amp;oldid=608501138</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Genes_on_human_chromosome_9" title="Category:Genes on human chromosome 9">Genes on human chromosome 9</a></li><li><a href="/wiki/Category:EC_3.1.3" title="Category:EC 3.1.3">EC 3.1.3</a></li><li><a href="/wiki/Category:Protein_families" title="Category:Protein families">Protein families</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Protein_pages_needing_a_picture" title="Category:Protein pages needing a picture">Protein pages needing a picture</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fructose+1%2C6-bisphosphatase&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Fructose+1%2C6-bisphosphatase" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Fructose_1,6-bisphosphatase"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Fructose_1,6-bisphosphatase"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Fructose_1,6-bisphosphatase" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Fructose_1,6-bisphosphatase" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Fructose_1,6-bisphosphatase" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;oldid=608501138" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q899507" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fructose_1%2C6-bisphosphatase&amp;id=608501138" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fructose+1%2C6-bisphosphatase">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Fructose+1%2C6-bisphosphatase&amp;oldid=608501138&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Fructose_1,6-bisphosphatase&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D8%B1%D9%88%D9%83%D8%AA%D9%88%D8%B2_%D8%AB%D9%86%D8%A7%D8%A6%D9%8A_%D8%A7%D9%84%D9%81%D9%88%D8%B3%D9%81%D8%A7%D8%AA%D8%A7%D8%B2" title="فروكتوز ثنائي الفوسفاتاز – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fructose-1,6-bisphosphatase" title="Fructose-1,6-bisphosphatase – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Fructosa-1,6-bisfosfatasa" title="Fructosa-1,6-bisfosfatasa – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Fructose-1,6-bisphosphatase" title="Fructose-1,6-bisphosphatase – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Frutosa-1,6-bisfosfatase" title="Frutosa-1,6-bisfosfatase – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%95%D7%A7%D7%98%D7%95%D7%96_1,6-%D7%91%D7%99%D7%A1%D7%A4%D7%95%D7%A1%D7%A4%D7%98%D7%90%D7%96" title="פרוקטוז 1,6-ביספוספטאז – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%95%E3%83%AB%E3%82%AF%E3%83%88%E3%83%BC%E3%82%B9-1,6-%E3%83%93%E3%82%B9%E3%83%9B%E3%82%B9%E3%83%95%E3%82%A1%E3%82%BF%E3%83%BC%E3%82%BC" title="フルクトース-1,6-ビスホスファターゼ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Fruktoza-bisfosfataza" title="Fruktoza-bisfosfataza – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Fruktoza-bisfosfataza" title="Fruktoza-bisfosfataza – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Fruktoosi-1,6-bisfosfataasi" title="Fruktoosi-1,6-bisfosfataasi – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Fruktos-1,6-bisfosfatas" title="Fruktos-1,6-bisfosfatas – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q899507#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 May 2014, at 05:51.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Fructose_1,6-bisphosphatase&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1036"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Propagation of uncertainty - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Propagation_of_uncertainty" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Propagation_of_uncertainty" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Propagation_of_uncertainty" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Propagation_of_uncertainty","wgTitle":"Propagation of uncertainty","wgCurRevisionId":664627080,"wgRevisionId":664627080,"wgArticleId":593908,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from October 2012","Wikipedia articles with GND identifiers","Algebra of random variables","Numerical analysis","Statistical approximations","Uncertainty of numbers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Propagation_of_uncertainty","wgRelevantArticleId":593908,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1364905"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Propagation_of_uncertainty skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Propagation of uncertainty</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><dl>
+<dd><i>For the propagation of uncertainty through time, see <a href="/wiki/Chaos_theory#Sensitivity_to_initial_conditions" title="Chaos theory">Chaos theory#Sensitivity to initial conditions</a>.</i></dd>
+</dl>
+<p>In <a href="/wiki/Statistics" title="Statistics">statistics</a>, <b>propagation of uncertainty</b> (or <b>propagation of error</b>) is the effect of <a href="/wiki/Variable_(mathematics)" title="Variable (mathematics)">variables</a>' <a href="/wiki/Uncertainty" title="Uncertainty">uncertainties</a> (or <a href="/wiki/Errors_and_residuals_in_statistics" title="Errors and residuals in statistics" class="mw-redirect">errors</a>) on the uncertainty of a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> based on them. When the variables are the values of experimental measurements they have <a href="/wiki/Observational_error" title="Observational error">uncertainties due to measurement limitations</a> (e.g., instrument <a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">precision</a>) which propagate to the combination of variables in the function.</p>
+<p>The uncertainty is usually defined by the <a href="/wiki/Absolute_error" title="Absolute error" class="mw-redirect">absolute error</a> <span class="texhtml">Δ<i>x</i></span>. Uncertainties can also be defined by the <a href="/wiki/Relative_error" title="Relative error" class="mw-redirect">relative error</a> <span class="texhtml">(Δ<i>x</i>)/<i>x</i></span>, which is usually written as a percentage.</p>
+<p>Most commonly, the error on a quantity, <span class="texhtml">Δ<i>x</i></span>, is given as the <a href="/wiki/Standard_deviation" title="Standard deviation">standard deviation</a>, <span class="texhtml mvar" style="font-style:italic;">σ</span>. Standard deviation is the positive square root of <a href="/wiki/Variance" title="Variance">variance</a>, <span class="texhtml"><i>σ</i><sup>2</sup></span>. The value of a quantity and its error are often expressed as an interval <span class="texhtml"><i>x</i> ± Δ<i>x</i></span>. If the statistical <a href="/wiki/Probability_distribution" title="Probability distribution">probability distribution</a> of the variable is known or can be assumed, it is possible to derive <a href="/wiki/Confidence_limits" title="Confidence limits" class="mw-redirect">confidence limits</a> to describe the region within which the true value of the variable may be found. For example, the 68% confidence limits for a one-dimensional variable belonging to a <a href="/wiki/Normal_distribution" title="Normal distribution">normal distribution</a> are ± one standard deviation from the value, that is, there is approximately a 68% probability that the true value lies in the region <span class="texhtml"><i>x</i> ± <i>σ</i></span>.</p>
+<p>If the variables are <a href="/wiki/Correlated" title="Correlated" class="mw-redirect">correlated</a>, then <a href="/wiki/Covariance" title="Covariance">covariance</a> must be taken into account.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Linear_combinations"><span class="tocnumber">1</span> <span class="toctext">Linear combinations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Non-linear_combinations"><span class="tocnumber">2</span> <span class="toctext">Non-linear combinations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Simplification"><span class="tocnumber">2.1</span> <span class="toctext">Simplification</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Example"><span class="tocnumber">2.2</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Caveats_and_warnings"><span class="tocnumber">2.3</span> <span class="toctext">Caveats and warnings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Example_formulas"><span class="tocnumber">3</span> <span class="toctext">Example formulas</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Example_calculations"><span class="tocnumber">4</span> <span class="toctext">Example calculations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Inverse_tangent_function"><span class="tocnumber">4.1</span> <span class="toctext">Inverse tangent function</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Resistance_measurement"><span class="tocnumber">4.2</span> <span class="toctext">Resistance measurement</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Linear_combinations">Linear combinations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=1" title="Edit section: Linear combinations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="\{f_k(x_1,x_2,\dots,x_n)\}" src="//upload.wikimedia.org/math/a/0/d/a0de8d4d63d709ad765953b72fea1a9c.png" /> be a set of <i>m</i> functions which are linear combinations of <img class="mwe-math-fallback-image-inline tex" alt="n" src="//upload.wikimedia.org/math/7/b/8/7b8b965ad4bca0e41ab51de7b31363a1.png" /> variables <img class="mwe-math-fallback-image-inline tex" alt="x_1,x_2,\dots,x_n" src="//upload.wikimedia.org/math/3/4/f/34feb8e4d8944bfb796e8813d614d3bd.png" /> with combination coefficients <img class="mwe-math-fallback-image-inline tex" alt="A_{k1},A_{k2},\dots,A_{kn}, (k=1\dots m)" src="//upload.wikimedia.org/math/d/b/2/db2555a8b8c192f511078466a7472c7a.png" />.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f_k=\sum_i^n A_{ki} x_i" src="//upload.wikimedia.org/math/b/9/d/b9d22db279ec0a12f9dd33efcbd7abbf.png" /> or <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{f}=\mathrm{Ax}\," src="//upload.wikimedia.org/math/9/6/e/96e7e21acea6bec7373d384cfa99d734.png" /></dd>
+</dl>
+<p>and let the <a href="/wiki/Variance-covariance_matrix" title="Variance-covariance matrix" class="mw-redirect">variance-covariance matrix</a> on x be denoted by <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{\Sigma^x}\," src="//upload.wikimedia.org/math/7/0/1/70192806a6e3a0fdd66449c241fc9538.png" />.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathrm{\Sigma^x} =
+\begin{pmatrix}
+   \sigma^2_1 &amp; \sigma_{12} &amp; \sigma_{13} &amp; \cdots \\
+   \sigma_{12} &amp; \sigma^2_2 &amp; \sigma_{23} &amp; \cdots\\
+   \sigma_{13} &amp; \sigma_{23} &amp; \sigma^2_3 &amp; \cdots \\
+   \vdots &amp; \vdots &amp; \vdots &amp; \ddots \\
+\end{pmatrix} = 
+\begin{pmatrix}
+   \mathit{\Sigma}^x_1 &amp; \mathit{\Sigma}^x_{12} &amp; \mathit{\Sigma}^x_{13} &amp; \cdots \\
+   \mathit{\Sigma}^x_{12} &amp; \mathit{\Sigma}^x_2 &amp; \mathit{\Sigma}^x_{23} &amp; \cdots\\
+   \mathit{\Sigma}^x_{13} &amp; \mathit{\Sigma}^x_{23} &amp; \mathit{\Sigma}^x_3 &amp; \cdots \\
+   \vdots &amp; \vdots &amp; \vdots &amp; \ddots \\
+\end{pmatrix}
+" src="//upload.wikimedia.org/math/c/f/0/cf0f467ee3332998c104dd8b8471df70.png" /></dd>
+</dl>
+<p>Then, the variance-covariance matrix <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{\Sigma^f}\," src="//upload.wikimedia.org/math/e/c/9/ec9a8f44150ca175737d53dcfaa2224a.png" /> of <i>f</i> is given by</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathit{\Sigma}^f_{ij}= \sum_k^n \sum_\ell^n A_{ik} \mathit{\Sigma}^x_{k\ell} A_{j\ell}: \mathrm{\Sigma^f= A \Sigma^x A^\top}" src="//upload.wikimedia.org/math/e/0/1/e01b3241c9a49704b6e89ddcd97f8f90.png" />.</dd>
+</dl>
+<p>This is the most general expression for the propagation of error from one set of variables onto another. When the errors on <i>x</i> are uncorrelated the general expression simplifies to</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathit{\Sigma}^f_{ij}= \sum_k^n  A_{ik} \mathit{\Sigma}^x_k A_{jk}." src="//upload.wikimedia.org/math/5/0/6/506713d37ff81adfbc6a9bf4064a4d40.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\mathit{\Sigma}^x_k = \sigma^2_{x_k}" src="//upload.wikimedia.org/math/2/1/8/21878154fa94224a42c5cdc7e176332c.png" /> is the variance of <i>k</i>-th element of the <i>x</i> vector. Note that even though the errors on <i>x</i> may be uncorrelated, the errors on <i>f</i> are in general correlated; in other words, even if <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{\Sigma^x}" src="//upload.wikimedia.org/math/d/c/1/dc1bdb4d88662334bf4ed2cda6766adb.png" /> is a diagonal matrix, <img class="mwe-math-fallback-image-inline tex" alt="\mathrm{\Sigma^f}" src="//upload.wikimedia.org/math/f/8/f/f8f3c217af29da6767ea7917a7cce573.png" /> is in general a full matrix.</p>
+<p>The general expressions for a scalar-valued function, <i>f</i>, are a little simpler.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f=\sum_i^n a_i x_i: f=\mathrm{a x}\," src="//upload.wikimedia.org/math/c/c/c/ccc3d18f875e1fa6174564edbd5d3fb5.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma^2_f= \sum_i^n \sum_j^n a_i \mathit{\Sigma}^x_{ij} a_j= \mathrm{a \Sigma^x a^\top}" src="//upload.wikimedia.org/math/6/9/f/69f1644650be1cf8a867be2532af8e91.png" /></dd>
+</dl>
+<p>(where a is a row-vector).</p>
+<p>Each covariance term, <img class="mwe-math-fallback-image-inline tex" alt="\sigma_{ij}" src="//upload.wikimedia.org/math/7/9/a/79aee098a5189162ccc5c8d7eec6bbe9.png" /> can be expressed in terms of the <a href="/wiki/Pearson_product-moment_correlation_coefficient" title="Pearson product-moment correlation coefficient">correlation coefficient</a> <img class="mwe-math-fallback-image-inline tex" alt="\rho_{ij}\," src="//upload.wikimedia.org/math/d/3/c/d3ccd70305fe311fd76c731782dd9fa1.png" /> by <img class="mwe-math-fallback-image-inline tex" alt="\sigma_{ij}=\rho_{ij}\sigma_i\sigma_j\," src="//upload.wikimedia.org/math/e/8/5/e8550772092b76fdfd479f5db67ad860.png" />, so that an alternative expression for the variance of <i>f</i> is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma^2_f= \sum_i^n a_i^2\sigma^2_i+\sum_i^n \sum_{j (j \ne i)}^n a_i a_j\rho_{ij} \sigma_i\sigma_j. " src="//upload.wikimedia.org/math/f/d/0/fd08497f77ec3e9ab50397a381f25159.png" /></dd>
+</dl>
+<p>In the case that the variables in <i>x</i> are uncorrelated this simplifies further to</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma^{2}_{f}= \sum_i^n a_{i}^{2}\sigma^{2}_{i}." src="//upload.wikimedia.org/math/8/7/8/87872e04ec4dd917c44c0a3a63f019b7.png" /></dd>
+</dl>
+<p>In the simplest case of identical coefficients and variances, we find</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma_{f}= \sqrt{n} a \sigma." src="//upload.wikimedia.org/math/0/f/3/0f394e91ac22f827019edda65e4d9631.png" /></dd>
+</dl>
+<h2><span class="mw-headline" id="Non-linear_combinations">Non-linear combinations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=2" title="Edit section: Non-linear combinations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote">See also: <a href="/wiki/Taylor_expansions_for_the_moments_of_functions_of_random_variables" title="Taylor expansions for the moments of functions of random variables">Taylor expansions for the moments of functions of random variables</a></div>
+<p>When <i>f</i> is a set of non-linear combination of the variables <i>x</i>, an <a href="/wiki/Interval_propagation" title="Interval propagation">interval propagation</a> could be performed in order to compute intervals which contain all consistent values for the variables. In a probabilistic approach, the function <i>f</i> must usually be linearized by approximation to a first-order <a href="/wiki/Taylor_series" title="Taylor series">Taylor series</a> expansion, though in some cases, exact formulas can be derived that do not depend on the expansion as is the case for the exact variance of products.<sup id="cite_ref-Goodman1960_1-0" class="reference"><a href="#cite_note-Goodman1960-1"><span>[</span>1<span>]</span></a></sup> The Taylor expansion would be:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f_k \approx f^0_k+  \sum_i^n \frac{\partial f_k}{\partial {x_i}} x_i " src="//upload.wikimedia.org/math/b/4/9/b4966fa0182465025d357b82b8d57cb6.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\partial f_k/\partial x_i" src="//upload.wikimedia.org/math/5/a/a/5aab1d9424672359a3a416909a612e87.png" /> denotes the <a href="/wiki/Partial_derivative" title="Partial derivative">partial derivative</a> of <i>f<sub>k</sub></i> with respect to the <i>i</i>-th variable, evaluated at the mean value of all components of vector <i>x</i>. Or in <a href="/wiki/Matrix_notation" title="Matrix notation" class="mw-redirect">matrix notation</a>,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathrm{f} \approx \mathrm{f}^0 + \mathrm{J} \mathrm{x}\," src="//upload.wikimedia.org/math/a/2/a/a2ac413b64be45f59161390ecbb8bdfa.png" /></dd>
+</dl>
+<p>where J is the <a href="/wiki/Jacobian_matrix" title="Jacobian matrix" class="mw-redirect">Jacobian matrix</a>. Since f<sup>0</sup> is a constant it does not contribute to the error on f. Therefore, the propagation of error follows the linear case, above, but replacing the linear coefficients, <i>A<sub>ik</sub></i> and <i>A<sub>jk</sub></i> by the partial derivatives, <img class="mwe-math-fallback-image-inline tex" alt="\frac{\partial f_k}{\partial x_i}" src="//upload.wikimedia.org/math/6/8/0/680bcc549b0b912d5f31369142d7b456.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\frac{\partial f_k}{\partial x_j}" src="//upload.wikimedia.org/math/e/e/c/eece1ebd851b2b5b95cf49dade355e1b.png" />. In matrix notation, <sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathrm{\Sigma}^\mathrm{f} = \mathrm{J} \mathrm{\Sigma}^\mathrm{x} \mathrm{J}^\top" src="//upload.wikimedia.org/math/7/8/f/78f28699ef10af157ae5ca265e52c942.png" />.</dd>
+</dl>
+<p>That is, the Jacobian of the function is used to transform the rows and columns of the variance-covariance matrix of the argument.</p>
+<h3><span class="mw-headline" id="Simplification">Simplification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=3" title="Edit section: Simplification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Neglecting correlations or assuming independent variables yields a common formula among engineers and experimental scientists to calculate error propagation, the variance formula:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="s_f = \sqrt{ \left(\frac{\partial f}{\partial {x} }\right)^2 s_x^2 + \left(\frac{\partial f}{\partial {y} }\right)^2 s_y^2 + \left(\frac{\partial f}{\partial {z} }\right)^2 s_z^2 + ...}" src="//upload.wikimedia.org/math/f/7/2/f72f7a61c57c58a0635e7197697fad45.png" /></p>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="s_f" src="//upload.wikimedia.org/math/2/f/c/2fcaf7a72ed77280982dbf446c1ab9be.png" /> represents the standard deviation of the function <img class="mwe-math-fallback-image-inline tex" alt="f" src="//upload.wikimedia.org/math/8/f/a/8fa14cdd754f91cc6554c9e71929cce7.png" />, <img class="mwe-math-fallback-image-inline tex" alt="s_x" src="//upload.wikimedia.org/math/6/b/5/6b5eaa31568b521152a5aacec91548c2.png" /> represents the standard deviation of <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />, <img class="mwe-math-fallback-image-inline tex" alt="s_y" src="//upload.wikimedia.org/math/8/c/0/8c06f77a048c7032b6258f4ceddcac77.png" /> represents the standard deviation of <img class="mwe-math-fallback-image-inline tex" alt="y" src="//upload.wikimedia.org/math/4/1/5/415290769594460e2e485922904f345d.png" />, and so forth. One practical application of this formula in an engineering context is the evaluation of relative uncertainty of the insertion loss for power measurements of random fields.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>It is important to note that this formula is based on the linear characteristics of the gradient of <img class="mwe-math-fallback-image-inline tex" alt="f" src="//upload.wikimedia.org/math/8/f/a/8fa14cdd754f91cc6554c9e71929cce7.png" /> and therefore it is a good estimation for the standard deviation of <img class="mwe-math-fallback-image-inline tex" alt="f" src="//upload.wikimedia.org/math/8/f/a/8fa14cdd754f91cc6554c9e71929cce7.png" /> as long as <img class="mwe-math-fallback-image-inline tex" alt="s_x, s_y, s_z,..." src="//upload.wikimedia.org/math/a/6/5/a6514a3dc9718e44dec5d2b6d2d896f8.png" /> are small compared to the partial derivatives.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=4" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Any non-linear differentiable function, <i>f(a,b)</i>, of two variables, <i>a</i> and <i>b</i>, can be expanded as</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f\approx f^0+\frac{\partial f}{\partial a}a+\frac{\partial f}{\partial b}b" src="//upload.wikimedia.org/math/4/4/6/446e7b195f20abe11db1a34cc44f0b4e.png" /></dd>
+</dl>
+<p>hence:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma^2_f\approx\left| \frac{\partial f}{\partial a}\right| ^2\sigma^2_a+\left| \frac{\partial f}{\partial b}\right|^2\sigma^2_b+2\frac{\partial f}{\partial a}\frac{\partial f}{\partial b}\sigma_{ab}." src="//upload.wikimedia.org/math/3/7/c/37cf9b0aa46bec68e9b3beacabf7ab9a.png" /></dd>
+</dl>
+<p>In the particular case that <img class="mwe-math-fallback-image-inline tex" alt="f=ab\!" src="//upload.wikimedia.org/math/1/0/b/10bb5adcb1ab0d52090caa49766680c5.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\frac{\partial f}{\partial a}=b, \frac{\partial f}{\partial b}=a" src="//upload.wikimedia.org/math/7/5/d/75da61d8b82091a6bfde46da263e63e3.png" />. Then</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma^2_f \approx b^2\sigma^2_a+a^2 \sigma_b^2+2ab\,\sigma_{ab}" src="//upload.wikimedia.org/math/e/8/6/e867cd139bb36387e8b08779d2b79074.png" /></dd>
+</dl>
+<p>or</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{\sigma_f}{f}\right)^2 \approx \left(\frac{\sigma_a}{a}\right)^2+\left(\frac{\sigma_b}{b}\right)^2+2\left(\frac{\sigma_a}{a}\right)\left(\frac{\sigma_b}{b}\right)\rho_{ab}." src="//upload.wikimedia.org/math/9/0/b/90b83e3bc246c98d43195f59a36e0fd6.png" /></dd>
+</dl>
+<h3><span class="mw-headline" id="Caveats_and_warnings">Caveats and warnings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=5" title="Edit section: Caveats and warnings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Error estimates for non-linear functions are <a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">biased</a> on account of using a truncated series expansion. The extent of this bias depends on the nature of the function. For example, the bias on the error calculated for log <i>x</i> increases as <i>x</i> increases, since the expansion to 1+<i>x</i> is a good approximation only when <i>x</i> is small.</p>
+<p>In the special case of the inverse <img class="mwe-math-fallback-image-inline tex" alt="1/B" src="//upload.wikimedia.org/math/e/3/2/e321efb26608670e61a466a49cae996a.png" />, where <img class="mwe-math-fallback-image-inline tex" alt="B=N(0,1)" src="//upload.wikimedia.org/math/b/f/3/bf3481db934d9a5b86d48ef9e2ad8135.png" />, the distribution is a <a href="/wiki/Inverse_distribution#Reciprocal_normal_distribution" title="Inverse distribution">reciprocal normal distribution</a>, and there is no definable variance. For such <a href="/wiki/Inverse_distribution" title="Inverse distribution">inverse distributions</a> and for <a href="/wiki/Ratio_distribution" title="Ratio distribution">ratio distributions</a>, there can be defined probabilities for intervals, which can be computed either by <a href="/wiki/Monte_Carlo_simulation" title="Monte Carlo simulation" class="mw-redirect">Monte Carlo simulation</a> or, in some cases, by using the Geary–Hinkley transformation.<sup id="cite_ref-HayyaJ1975On_6-0" class="reference"><a href="#cite_note-HayyaJ1975On-6"><span>[</span>6<span>]</span></a></sup> The statistics, mean and variance, of the shifted reciprocal function <img class="mwe-math-fallback-image-inline tex" alt=" \frac{1}{p-B} " src="//upload.wikimedia.org/math/d/b/9/db91b14d63bf4e1fa1e70f65cad10047.png" /> for <img class="mwe-math-fallback-image-inline tex" alt="B=N(\mu,\sigma)" src="//upload.wikimedia.org/math/7/3/8/738cca409239b54beadcb7b2194b4d5a.png" />, however, exist in a <a href="/wiki/Principal_value" title="Principal value">principal value</a> sense if the difference between the shift or pole <img class="mwe-math-fallback-image-inline tex" alt="p" src="//upload.wikimedia.org/math/8/3/8/83878c91171338902e0fe0fb97a8c47a.png" /> and the mean <img class="mwe-math-fallback-image-inline tex" alt="\mu" src="//upload.wikimedia.org/math/b/7/2/b72bb92668acc30b4474caff40274044.png" /> is real. The mean of this transformed random variable is then indeed the scaled <a href="/wiki/Dawson%27s_function" title="Dawson's function" class="mw-redirect">Dawson's function</a> <img class="mwe-math-fallback-image-inline tex" alt="\frac{\sqrt{2}}{\sigma} F \left(\frac{p-\mu}{\sqrt{2}\sigma}\right)" src="//upload.wikimedia.org/math/b/6/0/b6030673e5a60df4215ba3105b187852.png" />.<sup id="cite_ref-lecomte2013exact_7-0" class="reference"><a href="#cite_note-lecomte2013exact-7"><span>[</span>7<span>]</span></a></sup> In contrast, if the shift <img class="mwe-math-fallback-image-inline tex" alt="p-\mu" src="//upload.wikimedia.org/math/7/0/5/7052e5b09be5187484030269a1de8c6b.png" /> is purely complex, the mean exists and is a scaled <a href="/wiki/Faddeeva_function" title="Faddeeva function">Faddeeva function</a>, whose exact expression depends on the sign of the imaginary part, <img class="mwe-math-fallback-image-inline tex" alt="\operatorname{Im}(p-\mu)" src="//upload.wikimedia.org/math/7/1/2/712d51808680d5594b78c5ecd70f6ecf.png" />. In both cases, the variance is a simple function of the mean.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> Therefore, the variance has to be considered in a principal value sense if <img class="mwe-math-fallback-image-inline tex" alt="p-\mu" src="//upload.wikimedia.org/math/7/0/5/7052e5b09be5187484030269a1de8c6b.png" /> is real, while it exists if the imaginary part of <img class="mwe-math-fallback-image-inline tex" alt="p-\mu" src="//upload.wikimedia.org/math/7/0/5/7052e5b09be5187484030269a1de8c6b.png" /> is non-zero. Note that these means and variances are exact, as they do not recur to linearisation of the ratio. The exact covariance of two ratios with a pair of different poles <img class="mwe-math-fallback-image-inline tex" alt="p_1" src="//upload.wikimedia.org/math/1/5/b/15be3c2519dc3df50beeab4d9eb20dd8.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="p_2" src="//upload.wikimedia.org/math/b/b/d/bbdc52880341d0aeb3b3006af0a6583a.png" /> is similarly available.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The case of the inverse of a <b>complex</b> normal variable <img class="mwe-math-fallback-image-inline tex" alt="B" src="//upload.wikimedia.org/math/9/d/5/9d5ed678fe57bcca610140957afab571.png" />, shifted or not, exhibits different characteristics.<sup id="cite_ref-lecomte2013exact_7-1" class="reference"><a href="#cite_note-lecomte2013exact-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>For highly non-linear functions, there exist five categories of probabilistic approaches for uncertainty propagation;<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> see <a href="/wiki/Uncertainty_Quantification#Methodologies_for_forward_uncertainty_propagation" title="Uncertainty Quantification" class="mw-redirect">Uncertainty Quantification#Methodologies for forward uncertainty propagation</a> for details.</p>
+<h2><span class="mw-headline" id="Example_formulas">Example formulas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=6" title="Edit section: Example formulas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This table shows the variances of simple functions of the real variables <img class="mwe-math-fallback-image-inline tex" alt="A,B\!" src="//upload.wikimedia.org/math/8/9/4/894bf9bd97022fef25db683cb227186f.png" />, with standard deviations <img class="mwe-math-fallback-image-inline tex" alt="\sigma_A, \sigma_B\," src="//upload.wikimedia.org/math/b/e/4/be429f8aa32b39d1a2ab6353a1a6bc53.png" />, <a href="/wiki/Covariance_and_correlation" title="Covariance and correlation">covariance</a> <img class="mwe-math-fallback-image-inline tex" alt="\sigma_{AB}" src="//upload.wikimedia.org/math/5/4/0/5408c0a7d46e88e2e2f06226db013233.png" /> and exactly known real-valued constants <img class="mwe-math-fallback-image-inline tex" alt="a,b\," src="//upload.wikimedia.org/math/0/8/9/0894858cd2ca24e04e981e303511dc09.png" /> (i.e., <img class="mwe-math-fallback-image-inline tex" alt="\sigma_a=\sigma_b=0" src="//upload.wikimedia.org/math/0/1/4/0141cedbbb4fcd7292c8da866efaa352.png" />).</p>
+<dl>
+<dd>
+<table class="wikitable">
+<tr>
+<th style="background:#ffdead;">Function</th>
+<th style="background:#ffdead;">Variance</th>
+<th style="background:#ffdead;">Standard Deviation</th>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = aA\," src="//upload.wikimedia.org/math/9/c/e/9ce5f3206a62b53085223b64a80c33cf.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 = a^2\sigma_A^2" src="//upload.wikimedia.org/math/e/0/0/e004f612cc5afed3a9b4daf9c020543c.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f = a\sigma_A" src="//upload.wikimedia.org/math/4/7/e/47e0e27c972d2ea83adcb456c744f426.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a A + bB\," src="//upload.wikimedia.org/math/a/2/4/a24115767ee32c2bc50de8c257d4666e.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 = a^2\sigma_A^2 + b^2\sigma_B^2 + 2ab\,\sigma_{AB}" src="//upload.wikimedia.org/math/8/f/b/8fb77c4031b6c477352e5878ccfa9f92.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f = \sqrt{a^2\sigma_A^2 + b^2\sigma_B^2 + 2ab\,\sigma_{AB}}" src="//upload.wikimedia.org/math/8/b/c/8bc9e5dc5384466fe05354d26f80b045.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a A - bB\," src="//upload.wikimedia.org/math/c/6/4/c64572dd96738760fab1c3d13aa6f8fe.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 = a^2\sigma_A^2 + b^2\sigma_B^2 - 2ab\,\sigma_{AB}" src="//upload.wikimedia.org/math/f/2/a/f2aba879d82cfee9a0c210de9175bc30.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f = \sqrt{a^2\sigma_A^2 + b^2\sigma_B^2 - 2ab\,\sigma_{AB}}" src="//upload.wikimedia.org/math/e/5/b/e5baec91b8a324c9de87f4c459ade075.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = AB\," src="//upload.wikimedia.org/math/2/9/7/297419fe26410c64c3bd521d79579345.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx f^2 \left[ \left(\frac{\sigma_A}{A}\right)^2 + \left(\frac{\sigma_B}{B}\right)^2 + 2\frac{\sigma_{AB}}{AB}\right]" src="//upload.wikimedia.org/math/a/0/d/a0d76edc073bc8f54f4f79d4ff8717e1.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left|f\right| \sqrt{\left(\frac{\sigma_A}{A}\right)^2 + \left(\frac{\sigma_B}{B}\right)^2 + 2\frac{\sigma_{AB}}{AB}}" src="//upload.wikimedia.org/math/0/9/5/095ac9bbf52e41d5948fc550601a0cde.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = \frac{A}{B}\," src="//upload.wikimedia.org/math/a/e/6/ae6351ad50e984da4de78729e1a2752d.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx f^2 \left[\left(\frac{\sigma_A}{A}\right)^2 + \left(\frac{\sigma_B}{B}\right)^2 - 2\frac{\sigma_{AB}}{AB} \right]" src="//upload.wikimedia.org/math/7/8/1/7813d0973f545972591fc8403bdfd74b.png" /><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| f \right| \sqrt{ \left(\frac{\sigma_A}{A}\right)^2 + \left(\frac{\sigma_B}{B}\right)^2 - 2\frac{\sigma_{AB}}{AB} }" src="//upload.wikimedia.org/math/3/5/8/358ae1545c051a24b9966d22a837e9ad.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a A^{b}\," src="//upload.wikimedia.org/math/e/9/1/e916a86af44705797839ef28f0915b01.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx \left( {a}{b}{A}^{b-1}{\sigma_A} \right)^2 = \left( \frac{{f}{b}{\sigma_A}}{A} \right)^2 " src="//upload.wikimedia.org/math/8/5/d/85d73e14613b89928b4c4232ec34dfae.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| {a}{b}{A}^{b-1}{\sigma_A} \right| = \left| \frac{{f}{b}{\sigma_A}}{A} \right| " src="//upload.wikimedia.org/math/e/3/6/e3642b24c416795655c68b1ca38ad013.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a \ln(bA)\," src="//upload.wikimedia.org/math/5/e/3/5e310d0800834ecd74a788d30be24169.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx \left(a \frac{\sigma_A}{A} \right)^2" src="//upload.wikimedia.org/math/1/c/f/1cfd1e4691cee41c37a93a3aa411548b.png" /> <sup id="cite_ref-harris2003_12-0" class="reference"><a href="#cite_note-harris2003-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| a \frac{\sigma_A}{A}\right|" src="//upload.wikimedia.org/math/8/7/a/87a40ee674a9438668844fe5c7854753.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a \log_{10}(A)\," src="//upload.wikimedia.org/math/e/d/d/edd6c0a51276c5620c698244a128d09f.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx \left(a \frac{\sigma_A}{A \ln(10)} \right)^2" src="//upload.wikimedia.org/math/5/9/9/59902d8155c1ddf5bb34a9d00ededa46.png" /> <sup id="cite_ref-harris2003_12-1" class="reference"><a href="#cite_note-harris2003-12"><span>[</span>12<span>]</span></a></sup></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| a \frac{\sigma_A}{A \ln(10)} \right|" src="//upload.wikimedia.org/math/f/2/1/f214fd43b6a03f783f7be726acf215ef.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a e^{bA}\," src="//upload.wikimedia.org/math/1/a/c/1ac21ea682e61106917d64237d0852b9.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx f^2 \left( b\sigma_A \right)^2" src="//upload.wikimedia.org/math/7/2/4/724ffa0b094f3cb83c9798eaf2b65213.png" /> <sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| f \left( b\sigma_A \right) \right| " src="//upload.wikimedia.org/math/e/f/1/ef174ec51619632137aaa40a5cea0ee6.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = a^{bA}\," src="//upload.wikimedia.org/math/3/f/5/3f5a13be3e326628d90a3ddefbc08718.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx f^2 \left( b\ln(a)\sigma_A \right)^2" src="//upload.wikimedia.org/math/2/8/7/2872fc867062b5e52015b16927acce02.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| f \left( b\ln(a)\sigma_A \right) \right|" src="//upload.wikimedia.org/math/d/4/3/d43f8aeea21ff5f48af1ab706b4ca293.png" /></td>
+</tr>
+<tr>
+<td><img class="mwe-math-fallback-image-inline tex" alt="f = A^B\," src="//upload.wikimedia.org/math/5/4/a/54a10c34afff46884a728ff8e9c849d6.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 \approx f^2 \left[ \left( \frac{B}{A}\sigma_A \right)^2 +\left( \ln(A)\sigma_B \right)^2 + 2 \frac{B \ln(A)}{A} \sigma_{AB} \right]" src="//upload.wikimedia.org/math/9/5/d/95da3aa7d952a4890bab878a9fae8fb4.png" /></td>
+<td><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f \approx \left| f \right| \sqrt{ \left( \frac{B}{A}\sigma_A \right)^2 +\left( \ln(A)\sigma_B \right)^2 + 2 \frac{B \ln(A)}{A} \sigma_{AB} } " src="//upload.wikimedia.org/math/3/9/7/397992126dac0621a978966396809c66.png" /></td>
+</tr>
+</table>
+</dd>
+</dl>
+<p>For uncorrelated variables (<img class="mwe-math-fallback-image-inline tex" alt="\rho_{AB}=0" src="//upload.wikimedia.org/math/7/0/0/700b22f3a41d8a7e03efa99782de6a3a.png" />) the covariance terms are also zero, as <img class="mwe-math-fallback-image-inline tex" alt="\sigma_{AB}=\rho_{AB}\sigma_A\sigma_B\," src="//upload.wikimedia.org/math/7/2/1/721aabfda1da375dc2241e0e078d9768.png" />.</p>
+<p>In this case, expressions for more complicated functions can be derived by combining simpler functions. For example, repeated multiplication, assuming no correlation gives,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f = ABC; \left(\frac{\sigma_f}{f}\right)^2 \approx \left(\frac{\sigma_A}{A}\right)^2 + \left(\frac{\sigma_B}{B}\right)^2+ \left(\frac{\sigma_C}{C}\right)^2." src="//upload.wikimedia.org/math/3/a/9/3a96a696359a60ad9efc5ea8d0cc04cf.png" /></dd>
+</dl>
+<p>For the case <img class="mwe-math-fallback-image-inline tex" alt="f = AB " src="//upload.wikimedia.org/math/1/b/2/1b2c7d0cf5ac3ba4a64c0471a3f36414.png" /> we also have Goodman's expression<sup id="cite_ref-Goodman1960_1-1" class="reference"><a href="#cite_note-Goodman1960-1"><span>[</span>1<span>]</span></a></sup> for the exact variance: for the uncorrelated case it is</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="V(XY)= E(X)^2 V(Y) + E(Y)^2 V(X) + E((X-E(X))^2 (Y-E(Y))^2)" src="//upload.wikimedia.org/math/8/a/e/8aef386ba56e802a8af2dadbeeb0740f.png" /></p>
+<p>and therefore we have:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="\sigma_f^2 = A^2\sigma_B^2 + B^2\sigma_A^2 +  \sigma_A^2\sigma_B^2 " src="//upload.wikimedia.org/math/4/a/8/4a840ce0b36710f45b0a41d94fa3abc8.png" /></p>
+<h2><span class="mw-headline" id="Example_calculations">Example calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=7" title="Edit section: Example calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Inverse_tangent_function">Inverse tangent function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=8" title="Edit section: Inverse tangent function">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>We can calculate the uncertainty propagation for the inverse tangent function as an example of using partial derivatives to propagate error.</p>
+<p>Define</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="f(x) = \arctan(x)," src="//upload.wikimedia.org/math/c/c/8/cc8f3bd2a2af10d58ea886635010e313.png" /></dd>
+</dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">σ<sub>x</sub></span> is the absolute uncertainty on our measurement of <span class="texhtml mvar" style="font-style:italic;">x</span>. The derivative of <span class="texhtml"><i>f</i>(<i>x</i>)</span> with respect to <span class="texhtml mvar" style="font-style:italic;">x</span> is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\frac{d f}{d x} = \frac{1}{1+x^2}." src="//upload.wikimedia.org/math/f/0/9/f09c3bf443f87128eb65d4dbe06fbe24.png" /></dd>
+</dl>
+<p>Therefore, our propagated uncertainty is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma_{f} \approx \frac{\sigma_x}{1+x^2}," src="//upload.wikimedia.org/math/4/5/d/45da96fade1e71d7e7a5d1de7a95f11e.png" /></dd>
+</dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">σ<sub>f</sub></span> is the absolute propagated uncertainty.</p>
+<h3><span class="mw-headline" id="Resistance_measurement">Resistance measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=9" title="Edit section: Resistance measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A practical application is an <a href="/wiki/Experiment" title="Experiment">experiment</a> in which one measures <a href="/wiki/Current_(electricity)" title="Current (electricity)" class="mw-redirect">current</a>, <span class="texhtml mvar" style="font-style:italic;">I</span>, and <a href="/wiki/Voltage" title="Voltage">voltage</a>, <span class="texhtml mvar" style="font-style:italic;">V</span>, on a <a href="/wiki/Resistor" title="Resistor">resistor</a> in order to determine the <a href="/wiki/Electrical_resistance" title="Electrical resistance" class="mw-redirect">resistance</a>, <span class="texhtml mvar" style="font-style:italic;">R</span>, using <a href="/wiki/Ohm%27s_law" title="Ohm's law">Ohm's law</a>, <span class="texhtml"><i>R</i> = <i>V</i> / <i>I</i></span>.</p>
+<p>Given the measured variables with uncertainties, <span class="texhtml"><i>I</i> ± σ<sub><i>I</i></sub></span> and <span class="texhtml"><i>V</i> ± σ<sub><i>V</i></sub></span>, and neglecting their possible correlation, the uncertainty in the computed quantity, <span class="texhtml">σ<sub><i>R</i></sub></span> is</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sigma_R \approx \sqrt{ \sigma_V^2 \left(\frac{1}{I}\right)^2 + \sigma_I^2 \left(\frac{-V}{I^2}\right)^2 }." src="//upload.wikimedia.org/math/7/0/6/706da1ebb7f2bce23f16466e69e91f6c.png" /></dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Accuracy_and_precision" title="Accuracy and precision">Accuracy and precision</a></li>
+<li><a href="/wiki/Automatic_differentiation" title="Automatic differentiation">Automatic differentiation</a></li>
+<li><a href="/wiki/Delta_method" title="Delta method">Delta method</a></li>
+<li><a href="/wiki/Errors_and_residuals_in_statistics" title="Errors and residuals in statistics" class="mw-redirect">Errors and residuals in statistics</a></li>
+<li><a href="/wiki/Experimental_uncertainty_analysis" title="Experimental uncertainty analysis">Experimental uncertainty analysis</a></li>
+<li><a href="/wiki/Interval_finite_element" title="Interval finite element">Interval finite element</a></li>
+<li><a href="/wiki/List_of_uncertainty_propagation_software" title="List of uncertainty propagation software">List of uncertainty propagation software</a></li>
+<li><a href="/wiki/Measurement_uncertainty" title="Measurement uncertainty">Measurement uncertainty</a></li>
+<li><a href="/wiki/Significance_arithmetic" title="Significance arithmetic">Significance arithmetic</a></li>
+<li><a href="/wiki/Uncertainty_quantification" title="Uncertainty quantification">Uncertainty quantification</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Goodman1960-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Goodman1960_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Goodman1960_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Leo_Goodman" title="Leo Goodman">Goodman, Leo</a> (1960). "On the Exact Variance of Products". <i>Journal of the American Statistical Association</i> <b>55</b> (292): 708–713. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2307%2F2281592">10.2307/2281592</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2281592">2281592</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=On+the+Exact+Variance+of+Products&amp;rft.aufirst=Leo&amp;rft.au=Goodman%2C+Leo&amp;rft.aulast=Goodman&amp;rft.date=1960&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2307%2F2281592&amp;rft.issue=292&amp;rft.jstor=2281592&amp;rft.jtitle=Journal+of+the+American+Statistical+Association&amp;rft.pages=708-713&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=55" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Ochoa1,Benjamin; Belongie, Serge <a rel="nofollow" class="external text" href="http://vision.ucsd.edu/sites/default/files/ochoa06.pdf">"Covariance Propagation for Guided Matching"</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Ku, H. H. (October 1966). <a rel="nofollow" class="external text" href="http://nistdigitalarchives.contentdm.oclc.org/cdm/compoundobject/collection/p13011coll6/id/78003/rec/5">"Notes on the use of propagation of error formulas"</a>. <i>Journal of Research of the National Bureau of Standards</i> (National Bureau of Standards) <b>70C</b> (4): 262. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.6028%2Fjres.070c.025">10.6028/jres.070c.025</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0022-4316">0022-4316</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=Notes+on+the+use+of+propagation+of+error+formulas&amp;rft.aufirst=H.+H.&amp;rft.au=Ku%2C+H.+H.&amp;rft.aulast=Ku&amp;rft.date=October+1966&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnistdigitalarchives.contentdm.oclc.org%2Fcdm%2Fcompoundobject%2Fcollection%2Fp13011coll6%2Fid%2F78003%2Frec%2F5&amp;rft_id=info%3Adoi%2F10.6028%2Fjres.070c.025&amp;rft.issn=0022-4316&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Research+of+the+National+Bureau+of+Standards&amp;rft.pages=262&amp;rft.pub=National+Bureau+of+Standards&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=70C" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Arnaut, L. R. (December 2008). <a rel="nofollow" class="external text" href="http://publications.npl.co.uk/npl_web/pdf/tqe2.pdf">"Measurement uncertainty in reverberation chambers - I. Sample statistics"</a> <span style="font-size:85%;">(PDF)</span>. <i>NPL Technical Report TQE 2, 2nd. ed., sec. 4.1.2.2</i> (National Physical Laboratory) <b>TQE</b> (2): 52. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1754-2995">1754-2995</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=Measurement+uncertainty+in+reverberation+chambers+-+I.+Sample+statistics&amp;rft.au=Arnaut%2C+L.+R.&amp;rft.aufirst=L.+R.&amp;rft.aulast=Arnaut&amp;rft.date=December+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpublications.npl.co.uk%2Fnpl_web%2Fpdf%2Ftqe2.pdf&amp;rft.issn=1754-2995&amp;rft.issue=2&amp;rft.jtitle=NPL+Technical+Report+TQE+2%2C+2nd.+ed.%2C+sec.+4.1.2.2&amp;rft.pages=52&amp;rft.pub=National+Physical+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=TQE" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation book">Clifford, A. A. (1973). <i>Multivariate error analysis: a handbook of error propagation and calculation in many-parameter systems</i>. John Wiley &amp; Sons. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0470160551" title="Special:BookSources/0470160551">0470160551</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.au=Clifford%2C+A.+A.&amp;rft.aufirst=A.+A.&amp;rft.aulast=Clifford&amp;rft.btitle=Multivariate+error+analysis%3A+a+handbook+of+error+propagation+and+calculation+in+many-parameter+systems&amp;rft.date=1973&amp;rft.genre=book&amp;rft.isbn=0470160551&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (October 2012)">page&#160;needed</span></a></i>]</sup></span></li>
+<li id="cite_note-HayyaJ1975On-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-HayyaJ1975On_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Jack_Hayya" title="Jack Hayya" class="mw-redirect">Hayya, Jack</a>; Armstrong, Donald; Gressis, Nicolas (July 1975). "A Note on the Ratio of Two Normally Distributed Variables". <i><a href="/wiki/Management_Science_(journal)" title="Management Science (journal)">Management Science</a></i> <b>21</b> (11): 1338–1341. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1287%2Fmnsc.21.11.1338">10.1287/mnsc.21.11.1338</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/2629897">2629897</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=A+Note+on+the+Ratio+of+Two+Normally+Distributed+Variables&amp;rft.au=Armstrong%2C+Donald&amp;rft.aufirst=Jack&amp;rft.au=Gressis%2C+Nicolas&amp;rft.au=Hayya%2C+Jack&amp;rft.aulast=Hayya&amp;rft.date=July+1975&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1287%2Fmnsc.21.11.1338&amp;rft.issue=11&amp;rft.jstor=2629897&amp;rft.jtitle=Management+Science&amp;rft.pages=1338-1341&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=21" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lecomte2013exact-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-lecomte2013exact_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lecomte2013exact_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lecomte, Christophe (May 2013). "Exact statistics of systems with uncertainties: an analytical theory of rank-one stochastic dynamic systems". <i>Journal of Sound and Vibrations</i> <b>332</b> (11): 2750–2776. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jsv.2012.12.009">10.1016/j.jsv.2012.12.009</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=Exact+statistics+of+systems+with+uncertainties%3A+an+analytical+theory+of+rank-one+stochastic+dynamic+systems&amp;rft.aufirst=Christophe&amp;rft.aulast=Lecomte&amp;rft.au=Lecomte%2C+Christophe&amp;rft.date=May+2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jsv.2012.12.009&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Sound+and+Vibrations&amp;rft.pages=2750-2776&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=332" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation journal">Lecomte, Christophe (May 2013). "Exact statistics of systems with uncertainties: an analytical theory of rank-one stochastic dynamic systems". <i>Journal of Sound and Vibrations</i> <b>332</b> (11). Section (4.1.1). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jsv.2012.12.009">10.1016/j.jsv.2012.12.009</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=Exact+statistics+of+systems+with+uncertainties%3A+an+analytical+theory+of+rank-one+stochastic+dynamic+systems&amp;rft.aufirst=Christophe&amp;rft.aulast=Lecomte&amp;rft.au=Lecomte%2C+Christophe&amp;rft.date=May+2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jsv.2012.12.009&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Sound+and+Vibrations&amp;rft.pages=Section+%284.1.1%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=332" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation journal">Lecomte, Christophe (May 2013). "Exact statistics of systems with uncertainties: an analytical theory of rank-one stochastic dynamic systems". <i>Journal of Sound and Vibrations</i> <b>332</b> (11). Eq.(39)-(40). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jsv.2012.12.009">10.1016/j.jsv.2012.12.009</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=Exact+statistics+of+systems+with+uncertainties%3A+an+analytical+theory+of+rank-one+stochastic+dynamic+systems&amp;rft.aufirst=Christophe&amp;rft.aulast=Lecomte&amp;rft.au=Lecomte%2C+Christophe&amp;rft.date=May+2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jsv.2012.12.009&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Sound+and+Vibrations&amp;rft.pages=Eq.%2839%29-%2840%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=332" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">S. H. Lee and W. Chen, <i>A comparative study of uncertainty propagation methods for black-box-type problems</i>, Structural and Multidisciplinary Optimization Volume 37, Number 3 (2009), 239–253, DOI: 10.1007/s00158-008-0234-7</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.sagepub.com/upm-data/6427_Chapter_4__Lee_%28Analyzing%29_I_PDF_6.pdf">"Strategies for Variance Estimation"</a> <span style="font-size:85%;">(PDF)</span>. p.&#160;37<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.btitle=Strategies+for+Variance+Estimation&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sagepub.com%2Fupm-data%2F6427_Chapter_4__Lee_%2528Analyzing%2529_I_PDF_6.pdf&amp;rft.pages=37&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-harris2003-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-harris2003_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-harris2003_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFHarris2003" class="citation">Harris, Daniel C. (2003), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=csTsQr-v0d0C&amp;pg=PA56"><i>Quantitative chemical analysis</i></a> (6th ed.), Macmillan, p.&#160;56, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7167-4464-3" title="Special:BookSources/0-7167-4464-3">0-7167-4464-3</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.aufirst=Daniel+C.&amp;rft.au=Harris%2C+Daniel+C.&amp;rft.aulast=Harris&amp;rft.btitle=Quantitative+chemical+analysis&amp;rft.date=2003&amp;rft.edition=6th&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DcsTsQr-v0d0C%26pg%3DPA56&amp;rft.isbn=0-7167-4464-3&amp;rft.pages=56&amp;rft.pub=Macmillan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.foothill.edu/psme/daley/tutorials_files/10.%20Error%20Propagation.pdf">"Error Propagation tutorial"</a> <span style="font-size:85%;">(PDF)</span>. <i>Foothill College</i>. October 9, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-01</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.atitle=Error+Propagation+tutorial&amp;rft.date=October+9%2C+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.foothill.edu%2Fpsme%2Fdaley%2Ftutorials_files%2F10.%2520Error%2520Propagation.pdf&amp;rft.jtitle=Foothill+College&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span id="CITEREFBevingtonRobinson2002" class="citation">Bevington, Philip R.; Robinson, D. Keith (2002), <i>Data Reduction and Error Analysis for the Physical Sciences</i> (3rd ed.), McGraw-Hill, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-07-119926-8" title="Special:BookSources/0-07-119926-8">0-07-119926-8</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.au=Bevington%2C+Philip+R.&amp;rft.aufirst=Philip+R.&amp;rft.aulast=Bevington&amp;rft.au=Robinson%2C+D.+Keith&amp;rft.btitle=Data+Reduction+and+Error+Analysis+for+the+Physical+Sciences&amp;rft.date=2002&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-07-119926-8&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFMeyer1975" class="citation">Meyer, Stuart L. (1975), <i>Data Analysis for Scientists and Engineers</i>, Wiley, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-471-59995-6" title="Special:BookSources/0-471-59995-6">0-471-59995-6</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.aufirst=Stuart+L.&amp;rft.aulast=Meyer&amp;rft.au=Meyer%2C+Stuart+L.&amp;rft.btitle=Data+Analysis+for+Scientists+and+Engineers&amp;rft.date=1975&amp;rft.genre=book&amp;rft.isbn=0-471-59995-6&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>Taylor, J. R., 1997: An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements. 2nd ed. University Science Books, 327 pp.</li>
+<li>Peralta, M, 2012: Propagation Of Errors: How To Mathematically Predict Measurement Errors, CreateSpace.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.av8n.com/physics/uncertainty.htm">A detailed discussion of measurements and the propagation of uncertainty</a> explaining the benefits of using error propagation formulas and Monte Carlo simulations instead of simple <a href="/wiki/Significance_arithmetic" title="Significance arithmetic">significance arithmetic</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rit.edu/cos/uphysics/uncertainties/Uncertainties.html">Uncertainties and Error Propagation</a>, Vern Lindberg's Guide to Uncertainties and Error Propagation.</li>
+<li><a rel="nofollow" class="external text" href="http://www.bipm.org/en/publications/guides/gum.html">GUM</a>, Guide to the Expression of Uncertainty in Measurement</li>
+<li><a rel="nofollow" class="external text" href="http://infoscience.epfl.ch/record/97374/files/TR-98-01R3.pdf">EPFL An Introduction to Error Propagation</a>, Derivation, Meaning and Examples of Cy = Fx Cx Fx'</li>
+<li><a rel="nofollow" class="external text" href="http://packages.python.org/uncertainties/">uncertainties package</a>, a program/library for transparently performing calculations with uncertainties (and error correlations).</li>
+<li><a rel="nofollow" class="external text" href="https://pypi.python.org/pypi/soerp">soerp package</a>, a python program/library for transparently performing *second-order* calculations with uncertainties (and error correlations).</li>
+<li><span class="citation techreport">Joint Committee for Guides in Metrology (2011). <a rel="nofollow" class="external text" href="http://www.bipm.org/utils/common/documents/jcgm/JCGM_102_2011_E.pdf"><i>JCGM 102: Evaluation of Measurement Data - Supplement 2 to the "Guide to the Expression of Uncertainty in Measurement" - Extension to Any Number of Output Quantities</i></a> <span style="font-size:85%;">(PDF)</span> (Technical report). JCGM<span class="reference-accessdate">. Retrieved <span class="nowrap">13 February</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APropagation+of+uncertainty&amp;rft.au=Joint+Committee+for+Guides+in+Metrology&amp;rft.aulast=Joint+Committee+for+Guides+in+Metrology&amp;rft.btitle=JCGM+102%3A+Evaluation+of+Measurement+Data+-+Supplement+2+to+the+%22Guide+to+the+Expression+of+Uncertainty+in+Measurement%22+-+Extension+to+Any+Number+of+Output+Quantities&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Futils%2Fcommon%2Fdocuments%2Fjcgm%2FJCGM_102_2011_E.pdf&amp;rft.pub=JCGM&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4479158-6">4479158-6</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1008
+CPU time usage: 0.541 seconds
+Real time usage: 12.676 seconds
+Preprocessor visited node count: 1766/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 32334/2097152 bytes
+Template argument size: 769/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 3.2 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 12602.431      1 - -total
+  1.64%  206.429      1 - Template:Reflist
+  0.54%   68.151      7 - Template:Cite_journal
+  0.45%   56.515      1 - Template:Page_needed
+  0.37%   46.785      1 - Template:Authority_control
+  0.36%   45.852      1 - Template:Fix
+  0.32%   40.492      1 - Template:See_also
+  0.32%   40.288      2 - Template:Category_handler
+  0.19%   23.527      3 - Template:Citation
+  0.08%   10.683      1 - Template:Cite_techreport
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:593908-0!*!0!!en!*!*!math=0 and timestamp 20150628183028 and revision id 664627080
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Propagation_of_uncertainty&amp;oldid=664627080">https://en.wikipedia.org/w/index.php?title=Propagation_of_uncertainty&amp;oldid=664627080</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Algebra_of_random_variables" title="Category:Algebra of random variables">Algebra of random variables</a></li><li><a href="/wiki/Category:Numerical_analysis" title="Category:Numerical analysis">Numerical analysis</a></li><li><a href="/wiki/Category:Statistical_approximations" title="Category:Statistical approximations">Statistical approximations</a></li><li><a href="/wiki/Category:Uncertainty_of_numbers" title="Category:Uncertainty of numbers">Uncertainty of numbers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_October_2012" title="Category:Wikipedia articles needing page number citations from October 2012">Wikipedia articles needing page number citations from October 2012</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Propagation+of+uncertainty&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Propagation+of+uncertainty" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Propagation_of_uncertainty"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Propagation_of_uncertainty"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Propagation_of_uncertainty" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Propagation_of_uncertainty" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Propagation_of_uncertainty" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Propagation_of_uncertainty&amp;oldid=664627080" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Propagation_of_uncertainty&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1364905" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Propagation_of_uncertainty&amp;id=664627080" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Propagation+of+uncertainty">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Propagation+of+uncertainty&amp;oldid=664627080&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Propagation_of_uncertainty&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Fehlerfortpflanzung" title="Fehlerfortpflanzung – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Propagaci%C3%B3n_de_errores" title="Propagación de errores – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Propagation_des_incertitudes" title="Propagation des incertitudes – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Propagazione_degli_errori" title="Propagazione degli errori – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Feill%C3%A6re" title="Feillære – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Propagacja_b%C5%82%C4%99du" title="Propagacja błędu – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Propaga%C3%A7%C3%A3o_de_erros" title="Propagação de erros – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Virheen_kasautumislaki" title="Virheen kasautumislaki – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Felfortplantning" title="Felfortplantning – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%AF%AF%E5%B7%AE%E4%BC%A0%E6%92%AD" title="误差传播 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1364905#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 29 May 2015, at 22:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Propagation_of_uncertainty&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1215"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Color balance - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Color_balance" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Color_balance&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Color_balance&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Color_balance" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Color_balance" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Color_balance","wgTitle":"Color balance","wgCurRevisionId":656284569,"wgRevisionId":656284569,"wgArticleId":1561411,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from September 2010","Color","Image processing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Color_balance","wgRelevantArticleId":1561411,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lily-M7292-As-shot-and-manual.jpg/100px-Lily-M7292-As-shot-and-manual.jpg","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q182571"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Color_balance skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Color balance</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">This article is about the process applied to still images.  For the equivalent process applied to video, see <a href="/wiki/Color_grading" title="Color grading">Color grading</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Lily-M7292-As-shot-and-manual.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lily-M7292-As-shot-and-manual.jpg/300px-Lily-M7292-As-shot-and-manual.jpg" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lily-M7292-As-shot-and-manual.jpg/450px-Lily-M7292-As-shot-and-manual.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Lily-M7292-As-shot-and-manual.jpg/600px-Lily-M7292-As-shot-and-manual.jpg 2x" data-file-width="801" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Lily-M7292-As-shot-and-manual.jpg" class="internal" title="Enlarge"></a></div>
+The left half shows the photo as it came from the digital camera. The right half shows the photo adjusted to make a gray surface neutral in the same light.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Photography" title="Photography">photography</a> and <a href="/wiki/Image_processing" title="Image processing">image processing</a>, <b>color balance</b> is the global adjustment of the intensities of the colors (typically red, green, and blue <a href="/wiki/Primary_colors" title="Primary colors" class="mw-redirect">primary colors</a>). An important goal of this adjustment is to render specific colors – particularly neutral colors – correctly; hence, the general method is sometimes called <b>gray balance</b>, <b>neutral balance</b>, or <b>white balance</b>. Color balance changes the overall mixture of colors in an image and is used for <a href="/wiki/Color_correction" title="Color correction">color correction</a>; generalized versions of color balance are used to get colors other than neutrals to also appear correct or pleasing.</p>
+<p>Image data acquired by sensors – either <a href="/wiki/Photographic_film" title="Photographic film">film</a> or electronic <a href="/wiki/Image_sensor" title="Image sensor">image sensors</a> – must be transformed from the acquired values to new values that are appropriate for color reproduction or display. Several aspects of the acquisition and display process make such color correction essential – including the fact that the acquisition sensors do not match the sensors in the human eye, that the properties of the display medium must be accounted for, and that the ambient viewing conditions of the acquisition differ from the display viewing conditions.</p>
+<p>The color balance operations in popular <a href="/wiki/Image_editing" title="Image editing">image editing</a> applications usually operate directly on the red, green, and blue channel <a href="/wiki/Pixel" title="Pixel">pixel</a> values,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> without respect to any color sensing or reproduction model. In shooting film, color balance is typically achieved by using <a href="/wiki/Color_correction_filter" title="Color correction filter" class="mw-redirect">color correction filters</a> over the lights or on the camera lens.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Generalized_color_balance"><span class="tocnumber">1</span> <span class="toctext">Generalized color balance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Illuminant_estimation_and_adaptation"><span class="tocnumber">2</span> <span class="toctext">Illuminant estimation and adaptation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Color_balance_and_chromatic_colors"><span class="tocnumber">3</span> <span class="toctext">Color balance and chromatic colors</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Mathematics_of_color_balance"><span class="tocnumber">4</span> <span class="toctext">Mathematics of color balance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Scaling_monitor_R.2C_G.2C_and_B"><span class="tocnumber">4.1</span> <span class="toctext">Scaling monitor R, G, and B</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Scaling_X.2C_Y.2C_Z"><span class="tocnumber">4.2</span> <span class="toctext">Scaling X, Y, Z</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Von_Kries.27s_method"><span class="tocnumber">4.3</span> <span class="toctext">Von Kries's method</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Scaling_camera_RGB"><span class="tocnumber">4.4</span> <span class="toctext">Scaling camera RGB</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Preferred_chromatic_adaptation_spaces"><span class="tocnumber">4.5</span> <span class="toctext">Preferred chromatic adaptation spaces</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#General_illuminant_adaptation"><span class="tocnumber">4.6</span> <span class="toctext">General illuminant adaptation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Generalized_color_balance">Generalized color balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=1" title="Edit section: Generalized color balance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Color_balancing_girl.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Color_balancing_girl.jpg/300px-Color_balancing_girl.jpg" width="300" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Color_balancing_girl.jpg/450px-Color_balancing_girl.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Color_balancing_girl.jpg/600px-Color_balancing_girl.jpg 2x" data-file-width="650" data-file-height="458" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Color_balancing_girl.jpg" class="internal" title="Enlarge"></a></div>
+A showcase of the effects of color balancing.</div>
+</div>
+</div>
+<p>Sometimes the adjustment to keep neutrals neutral is called <i>white balance</i>, and the phrase <i>color balance</i> refers to the adjustment that in addition makes other colors in a displayed image appear to have the same general appearance as the colors in an original scene.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> It is particularly important that neutral (gray, neutral, white) colors in a scene appear neutral in the reproduction. Hence, the special case of balancing the neutral colors (sometimes <i>gray balance</i>, <i>neutral balance</i>, or <i>white balance</i>) is a particularly important – perhaps dominant – element of color balancing.</p>
+<p>Normally, one would not use the phrase <i>color balance</i> to describe the adjustments needed to account for differences between the sensors and the human eye, or the details of the display primaries. <i>Color balance</i> is normally reserved to refer to correction for differences in the ambient illumination conditions. However, the algorithms for transforming the data do not always clearly separate out the different elements of the correction. Hence, it can be difficult to assign color balance to a specific step in the color correction process. Moreover, there can be significant differences in the color balancing goal. Some applications are created to produce an accurate rendering – as suggested above. In other applications, the goal of color balancing is to produce a pleasing rendering. This difference also creates difficulty in defining the color balancing processing operations.</p>
+<h2><span class="mw-headline" id="Illuminant_estimation_and_adaptation">Illuminant estimation and adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=2" title="Edit section: Illuminant estimation and adaptation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Clifton_Beach_5.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Clifton_Beach_5.jpg/300px-Clifton_Beach_5.jpg" width="300" height="197" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Clifton_Beach_5.jpg/450px-Clifton_Beach_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Clifton_Beach_5.jpg/600px-Clifton_Beach_5.jpg 2x" data-file-width="1919" data-file-height="1262" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Clifton_Beach_5.jpg" class="internal" title="Enlarge"></a></div>
+A seascape photograph at <a href="/wiki/Clifton_Beach,_Tasmania" title="Clifton Beach, Tasmania">Clifton Beach</a>, <a href="/wiki/South_Arm,_Tasmania" title="South Arm, Tasmania">South Arm</a>, <a href="/wiki/Tasmania" title="Tasmania">Tasmania</a>, Australia. The white balance has been adjusted towards the warm side for creative effect.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:ColorChecker100423.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ColorChecker100423.jpg/300px-ColorChecker100423.jpg" width="300" height="218" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ColorChecker100423.jpg/450px-ColorChecker100423.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/ColorChecker100423.jpg/600px-ColorChecker100423.jpg 2x" data-file-width="1200" data-file-height="871" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:ColorChecker100423.jpg" class="internal" title="Enlarge"></a></div>
+Photograph of a ColorChecker as a reference shot for color balance adjustments.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Government_Center_Miami_color_balance_comparison.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Government_Center_Miami_color_balance_comparison.jpg/300px-Government_Center_Miami_color_balance_comparison.jpg" width="300" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Government_Center_Miami_color_balance_comparison.jpg/450px-Government_Center_Miami_color_balance_comparison.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Government_Center_Miami_color_balance_comparison.jpg/600px-Government_Center_Miami_color_balance_comparison.jpg 2x" data-file-width="1145" data-file-height="576" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Government_Center_Miami_color_balance_comparison.jpg" class="internal" title="Enlarge"></a></div>
+Two photos of the Stephen P. Clark Government Center building in Miami, Florida taken with a Samsung SL50 point and shoot camera. Left photo shows a "normal", accurate color balance, while the right side shows a "vivid" color balance</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg/300px-PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg" width="300" height="172" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg/450px-PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg/600px-PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg 2x" data-file-width="1097" data-file-height="630" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PIA16800-MarsCuriosityRover-MtSharp-ColorVersions-20120823.jpg" class="internal" title="Enlarge"></a></div>
+Comparison of color versions (raw, natural, white balance) of "<a href="/wiki/Aeolis_Mons" title="Aeolis Mons">Mount Sharp</a>" on <a href="/wiki/Mars" title="Mars">Mars</a> (August 23, 2012).</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg/300px-PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg" width="300" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg/450px-PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg/600px-PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg 2x" data-file-width="3294" data-file-height="1568" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:PIA16068_-_Mars_Curiosity_Rover_-_Aeolis_Mons_-_20120817.jpg" class="internal" title="Enlarge"></a></div>
+A white balanced image of "<a href="/wiki/Aeolis_Mons" title="Aeolis Mons">Mount Sharp</a>" on <a href="/wiki/Mars" title="Mars">Mars</a> (August 8, 2012).</div>
+</div>
+</div>
+<p>Most digital cameras have a means to select a color correction based on the type of scene illumination, using either manual illuminant selection, or automatic white balance (AWB), or custom white balance. The algorithm that performs this analysis performs generalized color balancing, known as illuminant adaptation or <a href="/wiki/Chromatic_adaptation" title="Chromatic adaptation">chromatic adaptation</a>.</p>
+<p>Many methods are used to achieve color balancing. Setting a button on a camera is a way for the user to indicate to the processor the nature of the scene lighting. Another option on some cameras is a button which one may press when the camera is pointed at a <a href="/wiki/Gray_card" title="Gray card">gray card</a> or other neutral object. This "custom white balance" step captures an image of the ambient light, and this information is helpful in controlling color balance.</p>
+<p>There is a large literature on how one might estimate the ambient illumination from the camera data and then use this information to transform the image data. A variety of algorithms have been proposed, and the quality of these have been debated. A few examples and examination of the references therein will lead the reader to many others. Examples are <a href="/wiki/Retinex" title="Retinex" class="mw-redirect">Retinex</a>, an <a href="/wiki/Artificial_neural_network" title="Artificial neural network">artificial neural network</a><sup id="cite_ref-Funt1996_5-0" class="reference"><a href="#cite_note-Funt1996-5"><span>[</span>5<span>]</span></a></sup> or a <a href="/wiki/Bayesian_method" title="Bayesian method" class="mw-redirect">Bayesian method</a>.<sup id="cite_ref-Finlayson2001_6-0" class="reference"><a href="#cite_note-Finlayson2001-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Color_balance_and_chromatic_colors">Color balance and chromatic colors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=3" title="Edit section: Color balance and chromatic colors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Color balancing an image affects not only the neutrals, but other colors as well. An image that is not color balanced is said to have a color cast, as everything in the image appears to have been shifted towards one color or another.<sup id="cite_ref-Yule1967_7-0" class="reference"><a href="#cite_note-Yule1967-7"><span>[</span>7<span>]</span></a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="This citation requires a reference to the specific page or range of pages in which the material appears. (September 2010)">page&#160;needed</span></a></i>]</sup> Color balancing may be thought in terms of removing this color cast.</p>
+<p>Color balance is also related to <a href="/wiki/Color_constancy" title="Color constancy">color constancy</a>. Algorithms and techniques used to attain color constancy are frequently used for color balancing, as well. Color constancy is, in turn, related to <a href="/wiki/Chromatic_adaptation" title="Chromatic adaptation">chromatic adaptation</a>. Conceptually, color balancing consists of two steps: first, determining the <a href="/wiki/Standard_illuminant" title="Standard illuminant">illuminant</a> under which an image was captured; and second, scaling the components (e.g., R, G, and B) of the image or otherwise transforming the components so they conform to the viewing illuminant.</p>
+<p>Viggiano found that white balancing in the camera's native <a href="/wiki/RGB" title="RGB" class="mw-redirect">RGB</a> tended to produce less color inconstancy (i.e., less distortion of the colors) than in monitor RGB for over 4000 hypothetical sets of camera sensitivities.<sup id="cite_ref-Viggiano2004_8-0" class="reference"><a href="#cite_note-Viggiano2004-8"><span>[</span>8<span>]</span></a></sup> This difference typically amounted to a factor of more than two in favor of camera RGB. This means that it is advantageous to get color balance right at the time an image is captured, rather than edit later on a monitor. If one must color balance later, balancing the <a href="/wiki/Raw_image_format" title="Raw image format">raw image data</a> will tend to produce less distortion of chromatic colors than balancing in monitor RGB.</p>
+<h2><span class="mw-headline" id="Mathematics_of_color_balance">Mathematics of color balance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=4" title="Edit section: Mathematics of color balance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Color balancing is sometimes performed on a three-component image (e.g., <a href="/wiki/RGB_color_model" title="RGB color model">RGB</a>) using a 3x3 <a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">matrix</a>. This type of transformation is appropriate if the image were captured using the wrong white balance setting on a digital camera, or through a color filter.</p>
+<h3><span class="mw-headline" id="Scaling_monitor_R.2C_G.2C_and_B">Scaling monitor R, G, and B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=5" title="Edit section: Scaling monitor R, G, and B">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In principle, one wants to scale all relative luminances in an image so that objects which are believed to be <a href="/wiki/Grey" title="Grey">neutral</a> appear so. If, say, a surface with <img class="mwe-math-fallback-image-inline tex" alt="R=240" src="//upload.wikimedia.org/math/d/3/9/d39a5d295935faf252a0510271d8412c.png" /> was believed to be a white object, and if 255 is the count which corresponds to white, one could multiply all <a href="/wiki/Red" title="Red">red</a> values by 255/240. Doing analogously for <a href="/wiki/Green" title="Green">green</a> and <a href="/wiki/Blue" title="Blue">blue</a> would result, at least in theory, in a color balanced image. In this type of transformation the 3x3 matrix is a <a href="/wiki/Diagonal_matrix" title="Diagonal matrix">diagonal matrix</a>.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left[\begin{array}{c} R \\ G \\ B \end{array}\right]=\left[\begin{array}{ccc}255/R'_w &amp; 0 &amp; 0 \\ 0 &amp; 255/G'_w &amp; 0 \\ 0 &amp; 0 &amp; 255/B'_w\end{array}\right]\left[\begin{array}{c}R' \\ G' \\ B' \end{array}\right]" src="//upload.wikimedia.org/math/b/3/d/b3d08a19db99f8d1817896e926377a7a.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="R" src="//upload.wikimedia.org/math/e/1/e/e1e1d3d40573127e9ee0480caf1283d6.png" />, <img class="mwe-math-fallback-image-inline tex" alt="G" src="//upload.wikimedia.org/math/d/f/c/dfcf28d0734569a6a693bc8194de62bf.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="B" src="//upload.wikimedia.org/math/9/d/5/9d5ed678fe57bcca610140957afab571.png" /> are the color balanced red, green, and blue components of a <a href="/wiki/Pixel" title="Pixel">pixel</a> in the image; <img class="mwe-math-fallback-image-inline tex" alt="R'" src="//upload.wikimedia.org/math/e/7/d/e7df32a1c68b30bea84a21f5867910b5.png" />, <img class="mwe-math-fallback-image-inline tex" alt="G'" src="//upload.wikimedia.org/math/b/1/c/b1c5660b1392ecb094b31a0e42253ff9.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="B'" src="//upload.wikimedia.org/math/5/1/1/511f90342424097709853ee70b80ecd8.png" /> are the red, green, and blue components of the image before color balancing, and <img class="mwe-math-fallback-image-inline tex" alt="R'_w" src="//upload.wikimedia.org/math/c/d/9/cd95f75981d408baa2d69805da5deb9f.png" />, <img class="mwe-math-fallback-image-inline tex" alt="G'_w" src="//upload.wikimedia.org/math/8/a/c/8acaeb239494e7165c2bfc7c5c5176ca.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="B'_w" src="//upload.wikimedia.org/math/8/4/1/8417121a2fbb00a4d320cdd3a8a57b65.png" /> are the red, green, and blue components of a pixel which is believed to be a white surface in the image before color balancing. This is a simple scaling of the red, green, and blue channels, and is why color balance tools in <a href="/wiki/Photoshop" title="Photoshop" class="mw-redirect">Photoshop</a> and the <a href="/wiki/GIMP" title="GIMP">GIMP</a> have a white eyedropper tool. It has been demonstrated that performing the white balancing in the phosphor set assumed by <a href="/wiki/SRGB" title="SRGB">sRGB</a> tends to produce large errors in chromatic colors, even though it can render the neutral surfaces perfectly neutral.<sup id="cite_ref-Viggiano2004_8-1" class="reference"><a href="#cite_note-Viggiano2004-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Scaling_X.2C_Y.2C_Z">Scaling X, Y, Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=6" title="Edit section: Scaling X, Y, Z">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the image may be transformed into <a href="/wiki/CIE_1931_color_space" title="CIE 1931 color space">CIE XYZ tristimulus values</a>, the color balancing may be performed there. This has been termed a “wrong von Kries” transformation.<sup id="cite_ref-Terstiege1972_9-0" class="reference"><a href="#cite_note-Terstiege1972-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Fairchild1998_10-0" class="reference"><a href="#cite_note-Fairchild1998-10"><span>[</span>10<span>]</span></a></sup> Although it has been demonstrated to offer usually poorer results than balancing in monitor RGB, it is mentioned here as a bridge to other things. Mathematically, one computes:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left[\begin{array}{c} X \\ Y \\ Z \end{array}\right]=\left[\begin{array}{ccc}X_w/X'_w &amp; 0 &amp; 0 \\ 0 &amp; Y_w/Y'_w &amp; 0 \\ 0 &amp; 0 &amp; Z_w/Z'_w\end{array}\right]\left[\begin{array}{c}X' \\ Y' \\ Z' \end{array}\right]" src="//upload.wikimedia.org/math/b/c/a/bca290f9362090a5d4dcc8e10c37cb4d.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="X" src="//upload.wikimedia.org/math/0/2/1/02129bb861061d1a052c592e2dc6b383.png" />, <img class="mwe-math-fallback-image-inline tex" alt="Y" src="//upload.wikimedia.org/math/5/7/c/57cec4137b614c87cb4e24a3d003a3e0.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="Z" src="//upload.wikimedia.org/math/2/1/c/21c2e59531c8710156d34a3c30ac81d5.png" /> are the color-balanced tristimulus values; <img class="mwe-math-fallback-image-inline tex" alt="X_w" src="//upload.wikimedia.org/math/c/3/d/c3d3e0defbb6431f1d7f81b52746e221.png" />, <img class="mwe-math-fallback-image-inline tex" alt="Y_w" src="//upload.wikimedia.org/math/a/f/e/afe0d9466dc5a124eb61b16caa1ec4af.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="Z_w" src="//upload.wikimedia.org/math/d/a/b/dab5a4e1b0b0a6da7dfffb189339e3d7.png" /> are the tristimulus values of the viewing illuminant (the white point to which the image is being transformed to conform to); <img class="mwe-math-fallback-image-inline tex" alt="X'_w" src="//upload.wikimedia.org/math/0/a/e/0aec8d1d1466ddd9d7101943278694be.png" />, <img class="mwe-math-fallback-image-inline tex" alt="Y'_w" src="//upload.wikimedia.org/math/5/a/0/5a045ff686003aefaadf228785593119.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="Z'_w" src="//upload.wikimedia.org/math/d/1/4/d14b02a82f7140a6eacc78ddceffc528.png" /> are the tristimulus values of an object believed to be white in the un-color-balanced image, and <img class="mwe-math-fallback-image-inline tex" alt="X'" src="//upload.wikimedia.org/math/c/1/6/c164e630313c7e71508c5c046f83c6f5.png" />, <img class="mwe-math-fallback-image-inline tex" alt="Y'" src="//upload.wikimedia.org/math/9/7/3/97310a84f616996c3a5184eee566c2f2.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="Z'" src="//upload.wikimedia.org/math/b/5/0/b50969fbc26f9ffc93c2e1160388595e.png" /> are the tristimulus values of a pixel in the un-color-balanced image. If the tristimulus values of the monitor primaries are in a matrix <img class="mwe-math-fallback-image-inline tex" alt="\mathbf{P}" src="//upload.wikimedia.org/math/9/8/9/989a6e804d84d2fdc5a92bcf9b74f020.png" /> so that:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left[\begin{array}{c} X \\ Y \\ Z \end{array}\right]=\mathbf{P}\left[\begin{array}{c}L_R \\ L_G \\ L_B \end{array}\right]" src="//upload.wikimedia.org/math/1/c/5/1c5987368cb3b8acde03e24f290dae52.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="L_R" src="//upload.wikimedia.org/math/4/5/7/45700f377afa46d16a39d445a2b6f53f.png" />, <img class="mwe-math-fallback-image-inline tex" alt="L_G" src="//upload.wikimedia.org/math/f/c/1/fc118212516d8d8a67e9e833a5d232c7.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="L_B" src="//upload.wikimedia.org/math/9/6/e/96ea9405d98dc31e8991fafef6bd58a2.png" /> are the un-<a href="/wiki/Gamma_correction" title="Gamma correction">gamma corrected</a> monitor RGB, one may use:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left[\begin{array}{c} L_R \\ L_G \\ L_B \end{array}\right]=\mathbf{P^{-1}}\left[\begin{array}{ccc}X_w/X'_w &amp; 0 &amp; 0 \\ 0 &amp; Y_w/Y'_w &amp; 0 \\ 0 &amp; 0 &amp; Z_w/Z'_w\end{array}\right]\mathbf{P}\left[\begin{array}{c}L_{R'} \\ L_{G'} \\ L_{B'} \end{array}\right]" src="//upload.wikimedia.org/math/1/b/9/1b9840ef6a03364eacb2659d7253f48c.png" /></dd>
+</dl>
+<h3><span class="mw-headline" id="Von_Kries.27s_method">Von Kries's method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=7" title="Edit section: Von Kries's method">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Johannes_von_Kries" title="Johannes von Kries">Johannes von Kries</a>, whose theory of <a href="/wiki/Rod_cell" title="Rod cell">rods</a> and three color-sensitive <a href="/wiki/Cone_cell" title="Cone cell">cone</a> types in the <a href="/wiki/Retina" title="Retina">retina</a> has survived as the dominant explanation of color sensation for over 100 years, motivated the method of converting color to the <a href="/wiki/LMS_color_space" title="LMS color space">LMS color space</a>, representing the effective stimuli for the Long-, Medium-, and Short-wavelength cone types that are modeled as adapting independently. A 3x3 matrix converts RGB or XYZ to LMS, and then the three LMS primary values are scaled to balance the neutral; the color can then be converted back to the desired final <a href="/wiki/Color_space" title="Color space">color space</a>:<sup id="cite_ref-Sharma_11-0" class="reference"><a href="#cite_note-Sharma-11"><span>[</span>11<span>]</span></a></sup></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left[\begin{array}{c} L \\ M \\ S \end{array}\right]=\left[\begin{array}{ccc}1/L'_w &amp; 0 &amp; 0 \\ 0 &amp; 1/M'_w &amp; 0 \\ 0 &amp; 0 &amp; 1/S'_w\end{array}\right]\left[\begin{array}{c}L' \\ M' \\ S' \end{array}\right]" src="//upload.wikimedia.org/math/9/b/3/9b3f2f008b283321e3d3abfccaab703f.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="L" src="//upload.wikimedia.org/math/d/2/0/d20caec3b48a1eef164cb4ca81ba2587.png" />, <img class="mwe-math-fallback-image-inline tex" alt="M" src="//upload.wikimedia.org/math/6/9/6/69691c7bdcc3ce6d5d8a1361f22d04ac.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="S" src="//upload.wikimedia.org/math/5/d/b/5dbc98dcc983a70728bd082d1a47546e.png" /> are the color-balanced LMS cone tristimulus values; <img class="mwe-math-fallback-image-inline tex" alt="L'_w" src="//upload.wikimedia.org/math/a/d/e/ade1f92e584c5f3c16c3d2bfb2c28f42.png" />, <img class="mwe-math-fallback-image-inline tex" alt="M'_w" src="//upload.wikimedia.org/math/7/4/0/74069bffcefc75143377fcbaf8f9b60b.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="S'_w" src="//upload.wikimedia.org/math/1/1/5/115dddea865fdd99cc27c0c8e84a10fc.png" /> are the tristimulus values of an object believed to be white in the un-color-balanced image, and <img class="mwe-math-fallback-image-inline tex" alt="L'" src="//upload.wikimedia.org/math/e/a/4/ea431f3fbe364c2fea2e24bd33a7abc5.png" />, <img class="mwe-math-fallback-image-inline tex" alt="M'" src="//upload.wikimedia.org/math/c/0/c/c0c8156de7a5455113e67f33c15182fb.png" />, and <img class="mwe-math-fallback-image-inline tex" alt="S'" src="//upload.wikimedia.org/math/0/0/2/00226656ea0692401f9834fe6994da11.png" /> are the tristimulus values of a pixel in the un-color-balanced image.</p>
+<p>Matrices to convert to LMS space were not specified by von Kries, but can be derived from CIE color matching functions and LMS color matching functions when the latter are specified; matrices can also be found in reference books.<sup id="cite_ref-Sharma_11-1" class="reference"><a href="#cite_note-Sharma-11"><span>[</span>11<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Scaling_camera_RGB">Scaling camera RGB</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=8" title="Edit section: Scaling camera RGB">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By Viggiano's measure, and using his model of gaussian camera spectral sensitivities, most camera RGB spaces performed better than either monitor RGB or XYZ.<sup id="cite_ref-Viggiano2004_8-2" class="reference"><a href="#cite_note-Viggiano2004-8"><span>[</span>8<span>]</span></a></sup> If the camera's raw RGB values are known, one may use the 3x3 diagonal matrix:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left[\begin{array}{c} R \\ G \\ B \end{array}\right]=\left[\begin{array}{ccc}255/R'_w &amp; 0 &amp; 0 \\ 0 &amp; 255/G'_w &amp; 0 \\ 0 &amp; 0 &amp; 255/B'_w\end{array}\right]\left[\begin{array}{c}R' \\ G' \\ B' \end{array}\right]" src="//upload.wikimedia.org/math/b/3/d/b3d08a19db99f8d1817896e926377a7a.png" /></dd>
+</dl>
+<p>and then convert to a working RGB space such as <a href="/wiki/SRGB" title="SRGB">sRGB</a> or <a href="/wiki/Adobe_RGB" title="Adobe RGB" class="mw-redirect">Adobe RGB</a> after balancing.</p>
+<h3><span class="mw-headline" id="Preferred_chromatic_adaptation_spaces">Preferred chromatic adaptation spaces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=9" title="Edit section: Preferred chromatic adaptation spaces">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Comparisons of images balanced by diagonal transforms in a number of different RGB spaces have identified several such spaces that work better than others, and better than camera or monitor spaces, for chromatic adaptation, as measured by several <a href="/wiki/Color_appearance_model" title="Color appearance model">color appearance models</a>; the systems that performed statistically as well as the best on the majority of the image test sets used were the "Sharp", "Bradford", "CMCCAT", and "ROMM" spaces.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="General_illuminant_adaptation">General illuminant adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=10" title="Edit section: General illuminant adaptation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The best color matrix for adapting to a change in illuminant is not necessarily a diagonal matrix in a fixed color space. It has long been known that if the space of illuminants can be described as a linear model with <i>N</i> basis terms, the proper color transformation will be the weighted sum of <i>N</i> fixed linear transformations, not necessarily consistently diagonalizable.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Color_cast" title="Color cast" class="mw-redirect">Color cast</a></li>
+<li><a href="/wiki/Color_temperature" title="Color temperature">Color temperature</a></li>
+<li><a href="/wiki/Gamma_correction" title="Gamma correction">Gamma correction</a></li>
+<li><a href="/wiki/White_point" title="White point">White point</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Phyllis Davis (2000). <a rel="nofollow" class="external text" href="http://books.google.com/?id=0sEnoWrMw-gC&amp;pg=PA135&amp;dq=%22color+balance%22+channels"><i>The Gimp for Linux and Unix</i></a>. Peachpit Press. p.&#160;134. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-70253-3" title="Special:BookSources/0-201-70253-3">0-201-70253-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.aulast=Phyllis+Davis&amp;rft.au=Phyllis+Davis&amp;rft.btitle=The+Gimp+for+Linux+and+Unix&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D0sEnoWrMw-gC%26pg%3DPA135%26dq%3D%2522color%2Bbalance%2522%2Bchannels&amp;rft.isbn=0-201-70253-3&amp;rft.pages=134&amp;rft.pub=Peachpit+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Adobe Creative Team (2000). <a rel="nofollow" class="external text" href="http://books.google.com/?id=MRtx2-0GZc4C&amp;pg=PA277&amp;dq=%22color+balance%22+channels"><i>Adobe Photoshop 6.0</i></a>. Adobe Press. p.&#160;278. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-201-71016-1" title="Special:BookSources/0-201-71016-1">0-201-71016-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.au=Adobe+Creative+Team&amp;rft.aulast=Adobe+Creative+Team&amp;rft.btitle=Adobe+Photoshop+6.0&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DMRtx2-0GZc4C%26pg%3DPA277%26dq%3D%2522color%2Bbalance%2522%2Bchannels&amp;rft.isbn=0-201-71016-1&amp;rft.pages=278&amp;rft.pub=Adobe+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Blain Brown (2002). <a rel="nofollow" class="external text" href="http://books.google.com/?id=1JL2jFbNPNAC&amp;pg=PA170&amp;dq=%22color+balance%22"><i>Cinematography: Theory and Practice&#160;: Imagemaking for Cinematographers, Directors, and Videographers</i></a>. Focal Press. p.&#160;170. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-240-80500-3" title="Special:BookSources/0-240-80500-3">0-240-80500-3</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.au=Blain+Brown&amp;rft.aulast=Blain+Brown&amp;rft.btitle=Cinematography%3A+Theory+and+Practice+%3A+Imagemaking+for+Cinematographers%2C+Directors%2C+and+Videographers&amp;rft.date=2002&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D1JL2jFbNPNAC%26pg%3DPA170%26dq%3D%2522color%2Bbalance%2522&amp;rft.isbn=0-240-80500-3&amp;rft.pages=170&amp;rft.pub=Focal+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation book">Hsien-Che Lee (2005). <a rel="nofollow" class="external text" href="http://books.google.com/?id=CzAbJrLin_AC&amp;pg=PA450&amp;vq=color+balance&amp;dq=%22color+balance%22+wandell"><i>Introduction to Color Imaging Science</i></a>. Cambridge University Press. p.&#160;450. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-84388-X" title="Special:BookSources/0-521-84388-X">0-521-84388-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.au=Hsien-Che+Lee&amp;rft.aulast=Hsien-Che+Lee&amp;rft.btitle=Introduction+to+Color+Imaging+Science&amp;rft.date=2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DCzAbJrLin_AC%26pg%3DPA450%26vq%3Dcolor%2Bbalance%26dq%3D%2522color%2Bbalance%2522%2Bwandell&amp;rft.isbn=0-521-84388-X&amp;rft.pages=450&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Funt1996-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Funt1996_5-0">^</a></b></span> <span class="reference-text">Brian Funt, Vlad Cardei, and Kobus Barnard, "<a rel="nofollow" class="external text" href="http://www.cs.sfu.ca/~colour/publications/ARIZONA/arizona_abs.html">Learning color constancy</a>," in <i>Proceedings of the Fourth IS&amp;T/SID Color Imaging Conference,</i> p 58-60 (1996).</span></li>
+<li id="cite_note-Finlayson2001-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Finlayson2001_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Graham Finlayson, Paul M. Hubel, and Steven Hordley (November 2001). <a rel="nofollow" class="external text" href="http://www2.cmp.uea.ac.uk/Research/compvis/Papers/FinHorHub_PAMI01.pdf">"Color by correlation: a simple, unifying framework for color constancy"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/IEEE_Transactions_on_Pattern_Analysis_and_Machine_Intelligence" title="IEEE Transactions on Pattern Analysis and Machine Intelligence">IEEE Transactions on Pattern Analysis and Machine Intelligence</a></i> <b>23</b> (11): 1209–1221. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2F34.969113">10.1109/34.969113</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.atitle=Color+by+correlation%3A+a+simple%2C+unifying+framework+for+color+constancy&amp;rft.au=Graham+Finlayson%2C+Paul+M.+Hubel%2C+and+Steven+Hordley&amp;rft.aulast=Graham+Finlayson%2C+Paul+M.+Hubel%2C+and+Steven+Hordley&amp;rft.date=November+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww2.cmp.uea.ac.uk%2FResearch%2Fcompvis%2FPapers%2FFinHorHub_PAMI01.pdf&amp;rft_id=info%3Adoi%2F10.1109%2F34.969113&amp;rft.issue=11&amp;rft.jtitle=IEEE+Transactions+on+Pattern+Analysis+and+Machine+Intelligence&amp;rft.pages=1209-1221&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Yule1967-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Yule1967_7-0">^</a></b></span> <span class="reference-text">John A C Yule, <i>Principles of Color Reproduction.</i> New York: Wiley, 1967.</span></li>
+<li id="cite_note-Viggiano2004-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Viggiano2004_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Viggiano2004_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Viggiano2004_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">J A Stephen Viggiano, "<a rel="nofollow" class="external text" href="http://www.acolyte-color.com/papers/EI_2004.pdf">Comparison of the accuracy of different white balancing options as quantified by their color constancy</a>." <i>Sensors and Camera Systems for Scientific, Industrial, and Digital Photography Applications V: Proceedings of the SPIE,</i> volume 5301. Bellingham, WA: SPIE: the International Society for Optical Engineering, p 323-333 (2004), retrieved online 2008-07-28.</span></li>
+<li id="cite_note-Terstiege1972-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Terstiege1972_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Heinz Terstiege (1972). "Chromatic adaptation: a state-of-the-art report". <i>Journal of Color Appearance</i> <b>1</b> (4): 19–23 (cont. 40).</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.atitle=Chromatic+adaptation%3A+a+state-of-the-art+report&amp;rft.au=Heinz+Terstiege&amp;rft.aulast=Heinz+Terstiege&amp;rft.date=1972&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Color+Appearance&amp;rft.pages=19-23+%28cont.+40%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Fairchild1998-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fairchild1998_10-0">^</a></b></span> <span class="reference-text">Mark D Fairchild, <i>Color Appearance Models.</i> Reading, MA: Addison-Wesley, 1998.</span></li>
+<li id="cite_note-Sharma-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sharma_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sharma_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Gaurav Sharma (2003). <a rel="nofollow" class="external text" href="http://books.google.com/?id=AkByHKRGTsQC&amp;pg=PA153&amp;dq=%22von+Kries%22"><i>Digital Color Imaging Handbook</i></a>. <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. p.&#160;153. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8493-0900-X" title="Special:BookSources/0-8493-0900-X">0-8493-0900-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.au=Gaurav+Sharma&amp;rft.aulast=Gaurav+Sharma&amp;rft.btitle=Digital+Color+Imaging+Handbook&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DAkByHKRGTsQC%26pg%3DPA153%26dq%3D%2522von%2BKries%2522&amp;rft.isbn=0-8493-0900-X&amp;rft.pages=153&amp;rft.pub=CRC+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation journal">Sabine Süsstrunk, Jack Holm, and Graham D. Finlayson (January 2001). <a rel="nofollow" class="external text" href="http://infoscience.epfl.ch/getfile.py?recid=34049&amp;mode=best">"Chromatic Adaptation Performance of Different RGB Sensors"</a>. <i>IS&amp;T/SPIE Electronic Imaging</i> <b>4300</b>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.atitle=Chromatic+Adaptation+Performance+of+Different+RGB+Sensors&amp;rft.aulast=Sabine+S%C3%BCsstrunk%2C+Jack+Holm%2C+and+Graham+D.+Finlayson&amp;rft.au=Sabine+S%C3%BCsstrunk%2C+Jack+Holm%2C+and+Graham+D.+Finlayson&amp;rft.date=January+2001&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Finfoscience.epfl.ch%2Fgetfile.py%3Frecid%3D34049%26mode%3Dbest&amp;rft.jtitle=IS%26T%2FSPIE+Electronic+Imaging&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=4300" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation book">Laurence T. Maloney and Brain A. Wandell (1987). "Color constancy: a method for recovering surface spectral reflectance". In Martin A. Fischler and Oscar Firschein. <a rel="nofollow" class="external text" href="http://books.google.com/?id=W5hLHUI8U-kC&amp;pg=PA293&amp;dq=maloney+wandell"><i>Readings in Computer Vision</i></a>. Morgan-Kaufmann. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-934613-33-8" title="Special:BookSources/0-934613-33-8">0-934613-33-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColor+balance&amp;rft.atitle=Color+constancy%3A+a+method+for+recovering+surface+spectral+reflectance&amp;rft.aulast=Laurence+T.+Maloney+and+Brain+A.+Wandell&amp;rft.au=Laurence+T.+Maloney+and+Brain+A.+Wandell&amp;rft.btitle=Readings+in+Computer+Vision&amp;rft.date=1987&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DW5hLHUI8U-kC%26pg%3DPA293%26dq%3Dmaloney%2Bwandell&amp;rft.isbn=0-934613-33-8&amp;rft.pub=Morgan-Kaufmann&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Color_balance&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.nikondigital.org/articles/white_balance.htm">White Balance</a> - Intro at nikondigital.org</li>
+<li><a rel="nofollow" class="external text" href="http://www.photoxels.com/tutorial_white-balance.html">Understanding White Balance</a> - Tutorial</li>
+<li><a rel="nofollow" class="external text" href="http://www.ipol.im/pub/algo/lmps_simplest_color_balance/">Affine color balance with saturation, with code and on-line demonstration</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.geofflawrence.com/white_balance.html">Getting the White Balance Right for Neutral Colors</a> - Photography Tutorial</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Color_topics" title="Template:Color topics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Color_topics" title="Template talk:Color topics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Color_topics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/File:Colouring_pencils.jpg" class="image"><img alt="Colouring pencils.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/20px-Colouring_pencils.jpg" width="20" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/30px-Colouring_pencils.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Colouring_pencils.jpg/40px-Colouring_pencils.jpg 2x" data-file-width="1884" data-file-height="1256" /></a> <a href="/wiki/Color" title="Color">Color</a> topics <a href="/wiki/Index_of_color-related_articles" title="Index of color-related articles">(Index)</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Shades_of_red" title="Shades of red">Red</a></li>
+<li><a href="/wiki/Shades_of_orange" title="Shades of orange">Orange</a></li>
+<li><a href="/wiki/Shades_of_yellow" title="Shades of yellow">Yellow</a></li>
+<li><a href="/wiki/Shades_of_green" title="Shades of green">Green</a></li>
+<li><a href="/wiki/Shades_of_cyan" title="Shades of cyan">Cyan</a></li>
+<li><a href="/wiki/Shades_of_blue" title="Shades of blue">Blue</a></li>
+<li><a href="/wiki/Shades_of_violet" title="Shades of violet">Violet</a></li>
+<li><a href="/wiki/Shades_of_purple" title="Shades of purple">Purple</a></li>
+<li><a href="/wiki/Shades_of_magenta" title="Shades of magenta">Magenta</a></li>
+<li><a href="/wiki/Shades_of_pink" title="Shades of pink">Pink</a></li>
+<li><a href="/wiki/Shades_of_brown" title="Shades of brown">Brown</a></li>
+<li><a href="/wiki/Shades_of_white" title="Shades of white">White</a></li>
+<li><a href="/wiki/Shades_of_gray" title="Shades of gray">Gray</a></li>
+<li><a href="/wiki/Shades_of_black" title="Shades of black">Black</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Colorimetry" title="Colorimetry">Color science</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Color physics</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">Electromagnetic spectrum</a>
+<ul>
+<li><a href="/wiki/Light" title="Light">Light</a></li>
+<li><a href="/wiki/Rainbow" title="Rainbow">Rainbow</a></li>
+<li><a href="/wiki/Visible_spectrum" title="Visible spectrum">Visible</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spectral_color" title="Spectral color">Spectral colors</a></li>
+<li><a href="/wiki/Chromophore" title="Chromophore">Chromophore</a>
+<ul>
+<li><a href="/wiki/Structural_coloration" title="Structural coloration">Structural coloration</a></li>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+</ul>
+</li>
+<li><a href="/wiki/On_Vision_and_Colors" title="On Vision and Colors">On Vision and Colors</a></li>
+<li><a href="/wiki/Metamerism_(color)" title="Metamerism (color)">Metamerism</a>
+<ul>
+<li><a href="/wiki/Spectral_power_distribution" title="Spectral power distribution">Spectral power distribution</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Color perception</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_vision" title="Color vision">Color vision</a>
+<ul>
+<li><a href="/wiki/Color_blindness" title="Color blindness">Color blindness</a></li>
+<li><a href="/wiki/Ishihara_Test" title="Ishihara Test">test</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tetrachromacy" title="Tetrachromacy">Tetrachromacy</a>
+<ul>
+<li><a href="/wiki/Color_constancy" title="Color constancy">Color constancy</a></li>
+<li><a href="/wiki/Color_term" title="Color term">Color term</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Color_depth" title="Color depth">Color depth</a>
+<ul>
+<li><a href="/wiki/Color_photography" title="Color photography">Color photography</a></li>
+<li><a href="/wiki/Spot_color" title="Spot color">Spot color</a></li>
+<li><a href="/wiki/Color_printing" title="Color printing">Color printing</a></li>
+<li><a href="/wiki/Web_colors" title="Web colors">Web colors</a></li>
+<li><a href="/wiki/Color_mapping" title="Color mapping">Color mapping</a></li>
+<li><a href="/wiki/Color_code" title="Color code">Color code</a></li>
+<li><a href="/wiki/Color_management" title="Color management">Color management</a></li>
+<li><a href="/wiki/Chrominance" title="Chrominance">Chrominance</a></li>
+<li><a href="/wiki/False_color" title="False color">False color</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Chroma_key" title="Chroma key">Chroma key</a></li>
+<li><strong class="selflink">Color balance</strong></li>
+<li><a href="/wiki/Colour_cast" title="Colour cast">Color cast</a></li>
+<li><a href="/wiki/Color_temperature" title="Color temperature">Color temperature</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Color_psychology" title="Color psychology">Color psychology</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_symbolism" title="Color symbolism">Color symbolism</a></li>
+<li><a href="/wiki/Color_preferences" title="Color preferences">Color preferences</a></li>
+<li><a href="/wiki/L%C3%BCscher_color_test" title="Lüscher color test">Lüscher color test</a></li>
+<li><a href="/wiki/Kruithof_curve" title="Kruithof curve">Kruithof curve</a></li>
+<li><a href="/wiki/Political_colour" title="Political colour">Political colour</a></li>
+<li><a href="/wiki/National_colours" title="National colours">National colours</a></li>
+<li><a href="/wiki/Chromophobia" title="Chromophobia">Chromophobia</a></li>
+<li><a href="/wiki/Chromotherapy" title="Chromotherapy">Chromotherapy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Philosophy_of_color" title="Philosophy of color">Color philosophy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Color_space" title="Color space">Color space</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_model" title="Color model">Color model</a>
+<ul>
+<li><a href="/wiki/Additive_color" title="Additive color">additive</a></li>
+<li><a href="/wiki/Subtractive_color" title="Subtractive color">subtractive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Color_mixing" title="Color mixing">Color mixing</a>
+<ul>
+<li><a href="/wiki/Primary_color" title="Primary color">Primary color</a></li>
+<li><a href="/wiki/Secondary_color" title="Secondary color">Secondary color</a></li>
+<li><a href="/wiki/Tertiary_color" title="Tertiary color">Tertiary color (intermediate)</a></li>
+<li><a href="/wiki/Tertiary_color#Tertiary-_and_quaternary-color_terms" title="Tertiary color">Quaternary color</a></li>
+<li><a href="/wiki/Tertiary_color#Tertiary-_and_quaternary-color_terms" title="Tertiary color">Quinary color</a></li>
+<li><a href="/wiki/Color_theory#Warm_vs._cool_colors" title="Color theory">Aggressive color (warm)</a></li>
+<li><a href="/wiki/Color_theory#Warm_vs._cool_colors" title="Color theory">Receding color (cool)</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pastel_(color)" title="Pastel (color)">Pastel colors</a></li>
+<li><a href="/wiki/Color_gradient" title="Color gradient">Color gradient</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Color_scheme" title="Color scheme">Color scheme</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Color_tool" title="Color tool">Color tool</a>
+<ul>
+<li><a href="/wiki/Monochromatic_color" title="Monochromatic color">Monochromatic colors</a></li>
+<li><a href="/wiki/Complementary_colors" title="Complementary colors">Complementary colors</a></li>
+<li><a href="/wiki/Analogous_colors" title="Analogous colors">Analogous colors</a></li>
+<li><a href="/wiki/Grey" title="Grey">Achromatic colors (Neutral)</a></li>
+<li><a href="/wiki/Polychrome" title="Polychrome">Polychromatic colors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Impossible_color" title="Impossible color">Impossible colors</a></li>
+<li><a href="/wiki/Light-on-dark_color_scheme" title="Light-on-dark color scheme">Light-on-dark</a></li>
+<li><a href="/wiki/Tincture_(heraldry)" title="Tincture (heraldry)">Tinctures in heraldry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Color_theory" title="Color theory">Color theory</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chromaticity" title="Chromaticity">Chromaticity diagram</a></li>
+<li><a href="/wiki/Color_solid" title="Color solid">Color solid</a></li>
+<li><a href="/wiki/Color_wheel" title="Color wheel">Color wheel</a></li>
+<li><a href="/wiki/Color_triangle" title="Color triangle">Color triangle</a></li>
+<li><a href="/wiki/Color_analysis_(art)" title="Color analysis (art)">Color analysis (art)</a></li>
+<li><a href="/wiki/Color_realism_(art_style)" title="Color realism (art style)">Color realism (art style)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Color_term" title="Color term">Color terms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Basic_colour_term" title="Basic colour term" class="mw-redirect">Basic terms</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Red" title="Red">Red</a></li>
+<li><a href="/wiki/Green" title="Green">Green</a></li>
+<li><a href="/wiki/Yellow" title="Yellow">Yellow</a></li>
+<li><a href="/wiki/Blue" title="Blue">Blue</a></li>
+<li><a href="/wiki/Orange_(colour)" title="Orange (colour)">Orange</a></li>
+<li><a href="/wiki/Purple" title="Purple">Purple</a></li>
+<li><a href="/wiki/Pink" title="Pink">Pink</a></li>
+<li><a href="/wiki/Brown" title="Brown">Brown</a></li>
+<li><a href="/wiki/Black" title="Black">Black</a></li>
+<li><a href="/wiki/Grey" title="Grey">Gray</a></li>
+<li><a href="/wiki/White" title="White">White</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Cultural differences</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Linguistic_relativity_and_the_color_naming_debate" title="Linguistic relativity and the color naming debate">Linguistic relativity and the color naming debate</a>
+<ul>
+<li><a href="/wiki/Distinction_of_blue_and_green_in_various_languages" title="Distinction of blue and green in various languages">Distinction of blue and green in various languages</a></li>
+</ul>
+</li>
+<li>Color history
+<ul>
+<li><a href="/wiki/Color_in_Chinese_culture" title="Color in Chinese culture">Color in Chinese culture</a></li>
+<li><a href="/wiki/Traditional_colors_of_Japan" title="Traditional colors of Japan">Traditional colors of Japan</a></li>
+<li><a href="/wiki/Human_skin_color" title="Human skin color">Human skin color</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Color dimensions</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hue" title="Hue">Hue</a>
+<ul>
+<li><a href="/wiki/Dichromatism" title="Dichromatism">Dichromatism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Colorfulness" title="Colorfulness">Colorfulness (chroma and saturation)</a></li>
+<li><a href="/wiki/Tints_and_shades" title="Tints and shades">Tints and shades</a></li>
+<li><a href="/wiki/Lightness" title="Lightness">Lightness (tone and value)</a></li>
+<li><a href="/wiki/Grayscale" title="Grayscale">Grayscale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Color organizations</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pantone" title="Pantone">Pantone</a></li>
+<li><a href="/wiki/Color_Marketing_Group" title="Color Marketing Group">Color Marketing Group</a></li>
+<li><a href="/wiki/The_Color_Association_of_the_United_States" title="The Color Association of the United States">The Color Association of the United States</a></li>
+<li><a href="/wiki/International_Colour_Authority" title="International Colour Authority">International Colour Authority</a></li>
+<li><a href="/wiki/International_Commission_on_Illumination" title="International Commission on Illumination">International Commission on Illumination (CIE)</a></li>
+<li><a href="/wiki/International_Color_Consortium" title="International Color Consortium">International Color Consortium</a></li>
+<li><a href="/wiki/International_Colour_Association" title="International Colour Association">International Colour Association</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Lists_of_colors" title="Lists of colors">Lists</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_colors:_A%E2%80%93F" title="List of colors: A–F">List of colors: A–F</a></li>
+<li><a href="/wiki/List_of_colors:_G%E2%80%93M" title="List of colors: G–M">List of colors: G–M</a></li>
+<li><a href="/wiki/List_of_colors:_N%E2%80%93Z" title="List of colors: N–Z">List of colors: N–Z</a></li>
+<li><a href="/wiki/List_of_colors_(compact)" title="List of colors (compact)">List of colors (compact)</a></li>
+<li><a href="/wiki/List_of_color_palettes" title="List of color palettes">List of color palettes</a></li>
+<li><a href="/wiki/List_of_color_spaces_and_their_uses" title="List of color spaces and their uses">List of color spaces</a></li>
+<li><a href="/wiki/List_of_Crayola_crayon_colors" title="List of Crayola crayon colors">List of Crayola crayon colors</a>
+<ul>
+<li><a href="/wiki/History_of_Crayola_crayons" title="History of Crayola crayons">history</a></li>
+<li><a href="/wiki/List_of_Crayola_colored_pencil_colors" title="List of Crayola colored pencil colors">pencil colors</a></li>
+<li><a href="/wiki/List_of_Crayola_marker_colors" title="List of Crayola marker colors">marker colors</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Color_chart" title="Color chart">Color chart</a></li>
+<li><a href="/wiki/List_of_fictional_colors" title="List of fictional colors">List of fictional colors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Index_of_color-related_articles" title="Index of color-related articles">Related</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Visual_perception" title="Visual perception">Vision</a></li>
+<li><a href="/wiki/Image_processing" title="Image processing">Image processing</a></li>
+<li><a href="/wiki/Multi-primary_color_display" title="Multi-primary color display">Multi-primary color display</a>
+<ul>
+<li><a href="/wiki/Quattron" title="Quattron">Quattron</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Lighting" title="Lighting">Lighting</a></li>
+<li><a href="/wiki/Local_color_(visual_art)" title="Local color (visual art)">Local color (visual art)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Color" title="Category:Color">Category</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Color" title="Portal:Color">Portal</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1004
+CPU time usage: 0.461 seconds
+Real time usage: 4.403 seconds
+Preprocessor visited node count: 2428/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69464/2097152 bytes
+Template argument size: 3889/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 3.13 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 4247.418      1 - -total
+  2.77%  117.754      4 - Template:Navbox
+  2.27%   96.522      1 - Template:Reflist
+  2.00%   85.159      1 - Template:Color_topics
+  1.18%   50.278      6 - Template:Cite_book
+  1.15%   48.737      1 - Template:About
+  1.13%   48.100      3 - Template:Navbox_subgroup
+  0.96%   40.789      1 - Template:Hatnote
+  0.85%   36.022      1 - Template:Page_needed
+  0.71%   30.155      1 - Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1561411-0!*!0!!en!4!*!math=0 and timestamp 20150629130058 and revision id 656284569
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Color_balance&amp;oldid=656284569">https://en.wikipedia.org/w/index.php?title=Color_balance&amp;oldid=656284569</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Color" title="Category:Color">Color</a></li><li><a href="/wiki/Category:Image_processing" title="Category:Image processing">Image processing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_September_2010" title="Category:Wikipedia articles needing page number citations from September 2010">Wikipedia articles needing page number citations from September 2010</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Color+balance&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Color+balance" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Color_balance"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Color_balance"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Color_balance" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Color_balance&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Color_balance&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Color_balance" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Color_balance" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Color_balance&amp;oldid=656284569" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Color_balance&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q182571" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Color_balance&amp;id=656284569" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Color+balance">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Color+balance&amp;oldid=656284569&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Color_balance&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D8%B2%D9%86_%D9%84%D9%88%D9%86%D9%8A" title="توازن لوني – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8" title="কালার ব্যালান্স – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Balan%C3%A7_de_blancs" title="Balanç de blancs – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Vyv%C3%A1%C5%BEen%C3%AD_b%C3%ADl%C3%A9" title="Vyvážení bílé – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Hvidbalance" title="Hvidbalance – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Wei%C3%9Fabgleich" title="Weißabgleich – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%99%CF%83%CE%BF%CF%81%CF%81%CE%BF%CF%80%CE%AF%CE%B1_%CF%87%CF%81%CF%8E%CE%BC%CE%B1%CF%84%CE%BF%CF%82" title="Ισορροπία χρώματος – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Balance_de_blancos" title="Balance de blancos – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%AA%D8%B9%D8%A7%D8%AF%D9%84_%D8%B1%D9%86%DA%AF_%D8%B3%D9%81%DB%8C%D8%AF" title="تعادل رنگ سفید – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Balance_des_blancs" title="Balance des blancs – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%83%89%EC%A1%B0%ED%99%94" title="색조화 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Hv%C3%ADtj%C3%B6fnun" title="Hvítjöfnun – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Bilanciamento_del_colore" title="Bilanciamento del colore – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9" title="ホワイトバランス – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Hvitbalanse" title="Hvitbalanse – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Balans_bieli" title="Balans bieli – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Balan%C3%A7o_de_cores" title="Balanço de cores – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81_%D0%B1%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE_%D1%86%D0%B2%D0%B5%D1%82%D0%B0" title="Баланс белого цвета – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AB_%E0%B7%83%E0%B6%82%E0%B6%AD%E0%B7%94%E0%B6%BD%E0%B6%B1%E0%B6%BA" title="වර්ණ සංතුලනය – Sinhala" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Valkotasapaino" title="Valkotasapaino – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Vitbalans" title="Vitbalans – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%A3_%E0%B0%B8%E0%B0%AE%E0%B0%A4%E0%B1%8C%E0%B0%B2%E0%B1%8D%E0%B0%AF%E0%B0%82" title="వర్ణ సమతౌల్యం – Telugu" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Renk_dengesi" title="Renk dengesi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%BD%D1%81_%D0%B1%D1%96%D0%BB%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BB%D1%8C%D0%BE%D1%80%D1%83" title="Баланс білого кольору – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%89%B2%E5%BD%A9%E5%B9%B3%E8%A1%A1" title="色彩平衡 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q182571#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 April 2015, at 15:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Color_balance&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1237"});
+}</script>
+	</body>
+</html>

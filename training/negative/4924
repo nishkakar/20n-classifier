@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>IEC 60320 - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/IEC_60320" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=IEC_60320&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=IEC_60320&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/IEC_60320" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/IEC_60320" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"IEC_60320","wgTitle":"IEC 60320","wgCurRevisionId":663508989,"wgRevisionId":663508989,"wgArticleId":326120,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that may contain original research from August 2014","All articles that may contain original research","Use British (Oxford) English from December 2011","All Wikipedia articles written in British (Oxford) English","Articles with specifically marked weasel-worded phrases from August 2014","All articles with unsourced statements","Articles with unsourced statements from January 2011","Commons category with local link same as on Wikidata","Electrical power connectors","IEC standards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"IEC_60320","wgRelevantArticleId":326120,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q134156"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-IEC_60320 skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">IEC 60320</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"IEC connector" redirects here. For other uses, see <a href="/wiki/IEC_connector_(disambiguation)" title="IEC connector (disambiguation)" class="mw-disambig">IEC connector (disambiguation)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content ambox-Original_research" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=IEC_60320&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span> <small><i>(August 2014)</i></small></span></td>
+</tr>
+</table>
+<p><b>IEC 60320</b> is a set of standards from the <a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">International Electrotechnical Commission</a> (IEC) specifying non-locking appliance and interconnection couplers for connecting <a href="/wiki/Power_supply_cord" title="Power supply cord" class="mw-redirect">power supply cords</a> to <a href="/wiki/Electrical_appliance" title="Electrical appliance" class="mw-redirect">electrical appliances</a> up to 250 volts.<sup id="cite_ref-IEC_60320-1_1-0" class="reference"><a href="#cite_note-IEC_60320-1-1"><span>[</span>1<span>]</span></a></sup> <i>Appliance couplers</i> enable the use of standard inlets and country-specific cord sets which allow manufacturers to produce the same appliance for many markets, where only the cord set has to be changed for a particular market. <i>Interconnection couplers</i> allow a power supply from a piece of equipment or an appliance to be made available to other equipment or appliances. Couplers described under these standards have standardized current and temperature ratings.</p>
+<p>Different types of connector (distinguished by shape and size) are specified for different combinations of current, temperature and earthing requirements. Unlike <a href="/wiki/IEC_60309" title="IEC 60309">IEC 60309</a> connectors, they are not coded for voltage; users must ensure that the voltage rating of the equipment is compatible with the <a href="/wiki/Mains_supply" title="Mains supply" class="mw-redirect">mains supply.</a></p>
+<p>Each type of coupler is identified by a standard sheet number. For appliance couplers this consists of the letter C followed by a number, where the standard sheet for the appliance inlet is 1 higher than the sheet for the corresponding cable connector. Many types of coupler also have common names. The most common ones are <i>IEC connector</i> for the common C13 and C14, the <i>figure of 8 connector</i> for C7 and C8, and <i>cloverleaf connector</i> or <i>Mickey Mouse connector</i> for the C5/C6. <i>Kettle plug</i> is a colloquial term used for the high-temperature C16 appliance inlet (and sometimes, wrongly, for the mating C15 female connector). Kettle plug is sometimes, incorrectly, used to refer to regular temperature C13 and C14 connectors.</p>
+<p>The first edition of IEC 320 (later renumbered IEC 60320) was published in 1970.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Application"><span class="tocnumber">1</span> <span class="toctext">Application</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Standards"><span class="tocnumber">2</span> <span class="toctext">Standards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Parts_of_the_standard"><span class="tocnumber">2.1</span> <span class="toctext">Parts of the standard</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Contents_of_standards"><span class="tocnumber">2.2</span> <span class="toctext">Contents of standards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#North_American_ratings"><span class="tocnumber">3</span> <span class="toctext">North American ratings</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Appliance_couplers"><span class="tocnumber">4</span> <span class="toctext">Appliance couplers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#C1.2FC2_coupler"><span class="tocnumber">4.1</span> <span class="toctext"> C1/C2 coupler</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#C5.2FC6_coupler"><span class="tocnumber">4.2</span> <span class="toctext"> C5/C6 coupler</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#C7.2FC8_coupler"><span class="tocnumber">4.3</span> <span class="toctext"> C7/C8 coupler</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#C13.2FC14_coupler"><span class="tocnumber">4.4</span> <span class="toctext"> C13/C14 coupler</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#C15.2FC16_coupler"><span class="tocnumber">4.5</span> <span class="toctext"> C15/C16 coupler</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#C15A.2FC16A_coupler"><span class="tocnumber">4.5.1</span> <span class="toctext"> C15A/C16A coupler</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#C17.2FC18_coupler"><span class="tocnumber">4.6</span> <span class="toctext"> C17/C18 coupler</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#C19.2FC20_coupler"><span class="tocnumber">4.7</span> <span class="toctext"> C19/C20 coupler</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Withdrawn_and_other_standard_sheets"><span class="tocnumber">4.8</span> <span class="toctext">Withdrawn and other standard sheets</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Interconnection_couplers"><span class="tocnumber">5</span> <span class="toctext">Interconnection couplers</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Application">Application</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=1" title="Edit section: Application">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Detachable appliance couplers are used in <a href="/wiki/Office_equipment" title="Office equipment" class="mw-redirect">office equipment</a>, <a href="/wiki/Measuring_instrument" title="Measuring instrument">measuring instruments</a>, <a href="/wiki/Information_technology" title="Information technology">IT</a> environments and <a href="/wiki/Medical_device" title="Medical device">medical devices</a>, among many types of equipment for worldwide distribution. Each appliance's <a href="/wiki/Power_system" title="Power system" class="mw-redirect">power system</a> must be adapted to the different plugs used in different regions. An appliance with a permanently attached plug for use in one country cannot be readily sold in another which uses an incompatible wall socket; this requires keeping track of variations throughout the product's life cycle from assembly and testing to shipping and repairs.</p>
+<p>Since a country-specific power supply cord can be included in the product <a href="/wiki/Packaging" title="Packaging" class="mw-redirect">packaging</a>, model variations are minimized and factory testing is simplified. A cord which is fitted with non-rewireable (usually moulded) connectors at both ends is termed a <i>cord set</i>. Appliance manufacturing may be simplified by mounting an appliance coupler directly on the <a href="/wiki/Printed_circuit_board" title="Printed circuit board">printed circuit board</a>. Assembly and handling of an appliance is easier if the power cord can be removed without much effort.</p>
+<p>Appliances can be used in another country easily, with a simple change of the power supply cord (including a connector and a country-specific plug). The power supply cord can be replaced easily if damaged because it is a standardized part that can be unplugged and re-inserted. Safety hazards, maintenance expenditure and repairs are minimized.</p>
+<h2><span class="mw-headline" id="Standards">Standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=2" title="Edit section: Standards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Parts_of_the_standard">Parts of the standard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=3" title="Edit section: Parts of the standard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The overall title of IEC 60320 is <b>Appliance couplers for household and similar general purposes</b>. It is divided into five parts:</p>
+<ul>
+<li><b>IEC 60320-1: General Requirements</b> specifies two-<a href="/wiki/Pole_(electrical_circuits)" title="Pole (electrical circuits)" class="mw-redirect">pole</a> couplers intended for the connection of a supply cord to electrical appliances.<sup id="cite_ref-IEC_60320-1_1-1" class="reference"><a href="#cite_note-IEC_60320-1-1"><span>[</span>1<span>]</span></a></sup> The female part <i>connector</i> supplies power to the male <i>appliance inlet</i>. The male part is designated by the even number one greater than the number assigned to the female part, so a C1 connector mates with a C2 inlet, and a C15A mates with a C16A.</li>
+<li><b>IEC 60320-2-1: Sewing machine couplers</b> specifies couplers which are not interchangeable with other couplers from IEC 60320, for use with household sewing machines. They are rated no higher than 2.5 amperes and 250 volts.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></li>
+<li><b>IEC 60320-2-2: Interconnection couplers for household and similar equipment</b> specifies a means of enabling the connection and disconnection at will of an appliance or equipment to a cord leading to another appliance or equipment. It consist of two parts: a <i>plug connector</i>, which is the part integral with, or intended to be attached to, the cord, and an <i>appliance outlet</i>, which is the part integrated or incorporated in the appliance or equipment or intended to be fixed to it, and from which the supply is obtained.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+<li><b>IEC 60320-2-3: Couplers with a degree of protection higher than IPX0</b><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> specifies couplers with some degree of <a href="/wiki/IP_Code#Liquid_ingress_protection" title="IP Code">liquid ingress protection</a>.</li>
+<li><b>IEC 60320-2-4: Couplers dependent on appliance weight for engagement</b>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></li>
+</ul>
+<p>Only the first and third are described in this article.</p>
+<h3><span class="mw-headline" id="Contents_of_standards">Contents of standards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=4" title="Edit section: Contents of standards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The standards define the mechanical, electrical and thermal requirements and safety goals of power couplers. The standard scope is limited to appliance couplers with a rated voltage not exceeding 250 VAC at 50&#160;Hz or 60&#160;Hz, and a rated current not exceeding 16 A. Further sub-parts of IEC 60320 focus on special topics such as <a href="/wiki/IP_Code" title="IP Code">protection ratings</a> and appliance specific requirements.</p>
+<p>The shape and dimensions of appliance inlets and connectors are coordinated so that a connector with lower current rating, temperature rating, or polarization cannot be inserted into an appliance inlet that requires higher ratings. It is impossible, for instance, to connect a Protection Class II connector, which has no earthing, to a Protection Class I appliance inlet which requires an earth. The opposite (i.e., connecting a Protection Class I connector to a Protection Class II appliance inlet) is possible because it creates no safety hazard for the appliance user. The same applies to the nominal current and the pin temperature. This coding plays a significant role in the safe operation of appliances and the protection against improper use.</p>
+<p>Pin temperature is measured where the pin projects from the engagement surface. The maximum permitted pin temperatures, are 70&#160;°C, 120&#160;°C, and 155&#160;°C, respectively (the higher temperatures are not applicable to interconnection couplers). The pin temperature is determined by the design of the appliance, and its interior temperature, rather than by its ambient temperature. Typical applications with increased pin temperatures include appliances with heating coils such as ovens or electric grills. It is generally possible to use a connector with a higher rated temperature with a lower rated appliance inlet, but the keying feature of the inlet prevents use of a connector with a lower temperature rating.</p>
+<p>Selection of a coupler depends in part on the IEC <a href="/wiki/Appliance_classes" title="Appliance classes">appliance classes</a>. Class I appliances must have their chassis connected to electrical earth and require a coupler with earthing. Class II double insulated electrical appliances do not require a safety connection to electrical earth and can use a coupler with only two circuit conductors.</p>
+<p>Connectors are also classified according to the method of connecting the cord, either as rewirable connectors or non-rewirable connectors.</p>
+<p>In addition to the limiting values, the standards define further general criteria such as withdrawal forces, testing procedures, the minimum number of insertion cycles, and the number of flexings of cords. IEC 60320-1 codes the various coupler outlines using a combination of letters and numbers, <i>e.g.</i>, "C14", while IEC 60320-2-2 uses a single letter, <i>e.g.</i>, "F".</p>
+<p>IEC 60320-1 defines a <i>cord set</i> as an "assembly consisting of one cable or cord fitted with one plug and one connector, intended for the connection of an electrical appliance or equipment to the electrical supply". It also defines an <i>interconnection cord set</i> as an "assembly consisting of one cable or cord fitted with one plug connector and one connector, intended for the interconnection between two electrical appliances".</p>
+<p>In addition to the connections within the standards, as mentioned, there are possible combinations between IEC 60320-1 and IEC 60320-2-2. Fitted with a flexible cord, the components become interconnection cords to be used for connecting appliances or for extending other interconnection cords or power supply cords.</p>
+<h2><span class="mw-headline" id="North_American_ratings">North American ratings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=5" title="Edit section: North American ratings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>North American rating agencies (<a href="/wiki/Canadian_Standards_Association" title="Canadian Standards Association" class="mw-redirect">CSA</a>, <a href="/wiki/Norma_Oficial_Mexicana" title="Norma Oficial Mexicana">NOM-ANCE</a>, and <a href="/wiki/Underwriters_Laboratories" title="Underwriters Laboratories" class="mw-redirect">UL</a>) will certify IEC 60320 connectors for higher currents than are specified in the IEC standard itself. In particular, UL will certify:</p>
+<ul>
+<li>C5/C6 connectors for up to 13&#160;A,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> although 10&#160;A is more commonly seen (IEC maximum is 2.5 A)</li>
+<li>C7/C8 connectors for up to 10A<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> (IEC maximum is 2.5 A)</li>
+<li>C13/C14 and C15/C16 connectors for up to 15&#160;A<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> (IEC maximum is 10 A)</li>
+<li>C19/C20 and C21/C22 connectors for up to 20&#160;A<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> (IEC maximum is 16 A)</li>
+</ul>
+<p>Given the 120±5% mains voltage used in the United States<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and Canada,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> these higher ratings permit devices with C6 and C8 inputs to draw more than 114×2.5 = 285&#160;W from the mains, and devices with C14 inputs to draw more than 1140&#160;W from the mains.</p>
+<p>This is exploited by high-powered <a href="/wiki/Power_supply_unit_(computer)" title="Power supply unit (computer)">computer power supplies</a>, up to 1200&#160;W output, and even some particularly efficient 1500&#160;W output models<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> to use the more popular C14 input on products sold worldwide.</p>
+<p>Although less common, <a href="/wiki/Power_brick" title="Power brick" class="mw-redirect">power bricks</a> with C6 and C8 inputs and ratings up to 300&#160;W also exist.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Appliance_couplers">Appliance couplers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=6" title="Edit section: Appliance couplers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The dimensions and tolerances for connectors and appliance inlets are given in standard sheets, which are dimensioned drawings showing the features required for safety and interchangeability.</p>
+<table class="wikitable" style="text-align:center;">
+<caption><b>IEC 60320-1 Appliance Couplers</b></caption>
+<tr>
+<th>Connector (Female)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></th>
+<th>Appliance Inlet (Male)<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></th>
+<th>Diagram</th>
+<th>Pin spacing,<br />
+centres (mm)</th>
+<th>Earth contact</th>
+<th><a href="/wiki/Appliance_class" title="Appliance class" class="mw-redirect">Appliance class</a></th>
+<th>Rewirable<br />
+connector<br />
+allowed?</th>
+<th><a href="/wiki/Current_rating" title="Current rating" class="mw-redirect">Max. current</a><br />
+(A)</th>
+<th>Max. pin temp.<br />
+(°C)</th>
+<th>Remarks and example uses</th>
+</tr>
+<tr>
+<td>C1</td>
+<td>C2</td>
+<td><a href="/wiki/File:IEC_60320_C1.svg" class="image"><img alt="IEC 60320 C1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IEC_60320_C1.svg/100px-IEC_60320_C1.svg.png" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IEC_60320_C1.svg/150px-IEC_60320_C1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IEC_60320_C1.svg/200px-IEC_60320_C1.svg.png 2x" data-file-width="173" data-file-height="98" /></a></td>
+<td>6.6</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>0.2</td>
+<td>70</td>
+<td align="left">Not polarized. Electric shaver.</td>
+</tr>
+<tr>
+<td>C3</td>
+<td>C4</td>
+<td><a href="/wiki/File:IEC_60320_C3.png" class="image"><img alt="IEC 60320 C3.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IEC_60320_C3.png/100px-IEC_60320_C3.png" width="100" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IEC_60320_C3.png/150px-IEC_60320_C3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e7/IEC_60320_C3.png 2x" data-file-width="190" data-file-height="118" /></a></td>
+<td>10</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td></td>
+<td>2.5</td>
+<td>70</td>
+<td align="left">Polarized, similar connector to C5/C6 but with a key ridge instead of an earthing conductor, withdrawn from standard.<sup id="cite_ref-access11_17-0" class="reference"><a href="#cite_note-access11-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>C5</td>
+<td>C6</td>
+<td><a href="/wiki/File:IEC_60320_C5.svg" class="image"><img alt="IEC 60320 C5.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/IEC_60320_C5.svg/100px-IEC_60320_C5.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/IEC_60320_C5.svg/150px-IEC_60320_C5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/IEC_60320_C5.svg/200px-IEC_60320_C5.svg.png 2x" data-file-width="190" data-file-height="138" /></a></td>
+<td>10 (H)<br />
+4.5 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>2.5</td>
+<td>70</td>
+<td align="left">Many small <a href="/wiki/Switched-mode_power_supplies" title="Switched-mode power supplies" class="mw-redirect">switched-mode power supplies</a> used for laptops. Commonly referred to as a Clover-leaf or Mickey Mouse connector due to its shape.</td>
+</tr>
+<tr>
+<td>C7</td>
+<td>C8</td>
+<td><a href="/wiki/File:IEC_60320_C7.svg" class="image"><img alt="IEC 60320 C7.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/IEC_60320_C7.svg/100px-IEC_60320_C7.svg.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/IEC_60320_C7.svg/150px-IEC_60320_C7.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/IEC_60320_C7.svg/200px-IEC_60320_C7.svg.png 2x" data-file-width="204" data-file-height="102" /></a></td>
+<td>8.6</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>2.5</td>
+<td>70</td>
+<td align="left">Not polarized. Domestic Audio, video, radio equipment and double insulated power supplies. C8 inlet is 10&#160;mm deep, C8A and C8B inlets are 15.5&#160;mm deep. Commonly referred to as a "figure of 8".<br />
+There is a similar polarized connector having one squared side, (see outline below), but this is not part of the standard.<br />
+<a href="/wiki/File:IEC_60320_C7P_Polarised.png" class="image"><img alt="IEC 60320 C7P Polarised.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IEC_60320_C7P_Polarised.png/100px-IEC_60320_C7P_Polarised.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IEC_60320_C7P_Polarised.png/150px-IEC_60320_C7P_Polarised.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IEC_60320_C7P_Polarised.png/200px-IEC_60320_C7P_Polarised.png 2x" data-file-width="2000" data-file-height="1000" /></a></td>
+</tr>
+<tr>
+<td>C9</td>
+<td>C10</td>
+<td><a href="/wiki/File:IEC_60320_C9.svg" class="image"><img alt="IEC 60320 C9.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IEC_60320_C9.svg/100px-IEC_60320_C9.svg.png" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IEC_60320_C9.svg/150px-IEC_60320_C9.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IEC_60320_C9.svg/200px-IEC_60320_C9.svg.png 2x" data-file-width="235" data-file-height="148" /></a></td>
+<td>10</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>6</td>
+<td>70</td>
+<td align="left">Not polarized. This kind of coupler is used by <a href="/wiki/Roland_Corporation" title="Roland Corporation">Roland Corporation</a> for a couple of synthesizer and drum computer models (for example: TR-909) and by <a href="/wiki/Revox" title="Revox">Revox</a> for many older models of their HiFi equipment (for example, A76, A77, A78, B77, B225). Was also used heavily on <a href="/wiki/Marantz" title="Marantz">Marantz</a> Hifi equipment in the 1980s and 1990s</td>
+</tr>
+<tr>
+<td>C11</td>
+<td>C12</td>
+<td><a href="/wiki/File:IEC_60320_C11.png" class="image"><img alt="IEC 60320 C11.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/IEC_60320_C11.png/100px-IEC_60320_C11.png" width="100" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/IEC_60320_C11.png/150px-IEC_60320_C11.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/IEC_60320_C11.png/200px-IEC_60320_C11.png 2x" data-file-width="237" data-file-height="152" /></a></td>
+<td>10</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td></td>
+<td>10</td>
+<td>70</td>
+<td align="left">Polarized, similar to C9 with a slot in the connector, withdrawn from standard.<sup id="cite_ref-access11_17-1" class="reference"><a href="#cite_note-access11-17"><span>[</span>17<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>C13</td>
+<td>C14</td>
+<td><a href="/wiki/File:IEC_60320_C13.svg" class="image"><img alt="IEC 60320 C13.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/IEC_60320_C13.svg/100px-IEC_60320_C13.svg.png" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/IEC_60320_C13.svg/150px-IEC_60320_C13.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/IEC_60320_C13.svg/200px-IEC_60320_C13.svg.png 2x" data-file-width="269" data-file-height="186" /></a></td>
+<td>14 (H)<br />
+4 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>10</td>
+<td>70</td>
+<td align="left">Very common on personal computers and peripherals.</td>
+</tr>
+<tr>
+<td>C15</td>
+<td>C16</td>
+<td><a href="/wiki/File:IEC_60320_C15.svg" class="image"><img alt="IEC 60320 C15.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/IEC_60320_C15.svg/100px-IEC_60320_C15.svg.png" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/IEC_60320_C15.svg/150px-IEC_60320_C15.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/IEC_60320_C15.svg/200px-IEC_60320_C15.svg.png 2x" data-file-width="253" data-file-height="169" /></a></td>
+<td>14 (H)<br />
+4 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>10</td>
+<td bgcolor="#FFCC66">120</td>
+<td align="left">For use in high temperature settings (for example, electric kettle, computer networking closets). Also used in Cisco MDS9000 series rack-mounted SAN switches <sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> and early Xbox 360 power supplies.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>C15A</td>
+<td>C16A</td>
+<td><a href="/wiki/File:IEC_60320_C15A.svg" class="image"><img alt="IEC 60320 C15A.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IEC_60320_C15A.svg/100px-IEC_60320_C15A.svg.png" width="100" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IEC_60320_C15A.svg/150px-IEC_60320_C15A.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IEC_60320_C15A.svg/200px-IEC_60320_C15A.svg.png 2x" data-file-width="268" data-file-height="181" /></a></td>
+<td>14 (H)<br />
+4 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>10</td>
+<td bgcolor="#FF6699">155</td>
+<td align="left">For use in very high temperature settings. Similar to C15/C16, but the top is narrowed to exclude the C15 cord connector.</td>
+</tr>
+<tr>
+<td>C17</td>
+<td>C18</td>
+<td><a href="/wiki/File:IEC_60320_C17.svg" class="image"><img alt="IEC 60320 C17.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/IEC_60320_C17.svg/100px-IEC_60320_C17.svg.png" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/IEC_60320_C17.svg/150px-IEC_60320_C17.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/IEC_60320_C17.svg/200px-IEC_60320_C17.svg.png 2x" data-file-width="269" data-file-height="186" /></a></td>
+<td>14</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>10</td>
+<td>70</td>
+<td align="left">Later model Xbox 360 power supplies, some vacuum cleaners, a few models of <a href="/wiki/Continuous_positive_airway_pressure" title="Continuous positive airway pressure">CPAP</a> machines, some higher end audio equipment, Sony televisions, medical devices intended for use in a home healthcare environment that are IEC-60601-1-11 1.0 (2010) compliant.</td>
+</tr>
+<tr>
+<td>C19</td>
+<td>C20</td>
+<td><a href="/wiki/File:IEC_60320_C19.svg" class="image"><img alt="IEC 60320 C19.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IEC_60320_C19.svg/100px-IEC_60320_C19.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IEC_60320_C19.svg/150px-IEC_60320_C19.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IEC_60320_C19.svg/200px-IEC_60320_C19.svg.png 2x" data-file-width="250" data-file-height="182" /></a></td>
+<td>13 (H)<br />
+8 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>16</td>
+<td>70</td>
+<td align="left">Common on Enterprise-class servers and datacenter rack-mounted power distribution units, Late 2005 PowerMac G5, Cisco 6500 Series Power Supplies, Cisco UCS 5108 Chassis, Nexus 7000 Series Core Router Power Supplies.</td>
+</tr>
+<tr>
+<td>C21</td>
+<td>C22</td>
+<td><a href="/wiki/File:IEC_60320_C21.svg" class="image"><img alt="IEC 60320 C21.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/IEC_60320_C21.svg/100px-IEC_60320_C21.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/IEC_60320_C21.svg/150px-IEC_60320_C21.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/IEC_60320_C21.svg/200px-IEC_60320_C21.svg.png 2x" data-file-width="253" data-file-height="185" /></a></td>
+<td>13 (H)<br />
+8 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>16</td>
+<td bgcolor="#FF6699">155</td>
+<td align="left">High-temperature variant of C19/C20</td>
+</tr>
+<tr>
+<td>C23</td>
+<td>C24</td>
+<td><a href="/wiki/File:IEC_60320_C23.svg" class="image"><img alt="IEC 60320 C23.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IEC_60320_C23.svg/100px-IEC_60320_C23.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IEC_60320_C23.svg/150px-IEC_60320_C23.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IEC_60320_C23.svg/200px-IEC_60320_C23.svg.png 2x" data-file-width="250" data-file-height="182" /></a></td>
+<td>13</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>16</td>
+<td>70</td>
+<td align="left">Ungrounded variant of C19/C20</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="C1.2FC2_coupler"><span id="C1"></span><span id="C2"></span> C1/C2 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=7" title="Edit section: C1/C2 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C2.svg" class="image"><img alt="IEC 60320 C2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IEC_60320_C2.svg/100px-IEC_60320_C2.svg.png" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IEC_60320_C2.svg/150px-IEC_60320_C2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/IEC_60320_C2.svg/200px-IEC_60320_C2.svg.png 2x" data-file-width="173" data-file-height="98" /></a> <a href="/wiki/File:Plug_Rasiererstecker_IEC-60320-C1.jpg" class="image"><img alt="Plug Rasiererstecker IEC-60320-C1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Plug_Rasiererstecker_IEC-60320-C1.jpg/100px-Plug_Rasiererstecker_IEC-60320-C1.jpg" width="100" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Plug_Rasiererstecker_IEC-60320-C1.jpg/150px-Plug_Rasiererstecker_IEC-60320-C1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Plug_Rasiererstecker_IEC-60320-C1.jpg/200px-Plug_Rasiererstecker_IEC-60320-C1.jpg 2x" data-file-width="1944" data-file-height="1532" /></a> <a href="/wiki/File:Philishave_hq5426.jpg" class="image"><img alt="Philishave hq5426.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Philishave_hq5426.jpg/70px-Philishave_hq5426.jpg" width="70" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Philishave_hq5426.jpg/105px-Philishave_hq5426.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Philishave_hq5426.jpg/140px-Philishave_hq5426.jpg 2x" data-file-width="691" data-file-height="911" /></a></p>
+<p>The C1 coupler and C2 inlet were commonly used for mains powered <a href="/wiki/Electric_shaver" title="Electric shaver" class="mw-redirect">electric shavers</a>. These have largely been supplanted by <a href="/wiki/Cordless" title="Cordless">cordless</a> shavers with <a href="/wiki/Rechargeable_batteries" title="Rechargeable batteries" class="mw-redirect">rechargeable batteries</a> or corded shavers which use an <a href="/wiki/AC_adapter" title="AC adapter">AC adapter</a>.</p>
+<h3><span class="mw-headline" id="C5.2FC6_coupler"><span id="C5"></span><span id="C6"></span> C5/C6 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=8" title="Edit section: C5/C6 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C6.svg" class="image"><img alt="IEC 60320 C6.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/IEC_60320_C6.svg/100px-IEC_60320_C6.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/IEC_60320_C6.svg/150px-IEC_60320_C6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/IEC_60320_C6.svg/200px-IEC_60320_C6.svg.png 2x" data-file-width="190" data-file-height="138" /></a> <a href="/wiki/File:Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg" class="image"><img alt="Plug Kleeblattstecker DIN VDE 0625 Teil 1 Normblatt C5.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg/100px-Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg" width="100" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg/150px-Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg/200px-Plug_Kleeblattstecker_DIN_VDE_0625_Teil_1_Normblatt_C5.jpg 2x" data-file-width="1161" data-file-height="897" /></a> <a href="/wiki/File:C5_3-conductor_on_iMac_G4.jpg" class="image"><img alt="C5 3-conductor on iMac G4.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/C5_3-conductor_on_iMac_G4.jpg/100px-C5_3-conductor_on_iMac_G4.jpg" width="100" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/C5_3-conductor_on_iMac_G4.jpg/150px-C5_3-conductor_on_iMac_G4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/C5_3-conductor_on_iMac_G4.jpg/200px-C5_3-conductor_on_iMac_G4.jpg 2x" data-file-width="2552" data-file-height="1474" /></a></p>
+<p>This coupler is sometimes colloquially called a <i>cloverleaf</i> coupler or "<a href="/wiki/Mickey_Mouse" title="Mickey Mouse">Mickey Mouse</a>" (because the cross section looks like the silhouette of the Disney character).</p>
+<p>The C6 inlet is used on laptop power supplies and portable projectors, as well as on some desktop computers and recent LCD televisions from LG.</p>
+<h3><span class="mw-headline" id="C7.2FC8_coupler"><span id="C7"></span><span id="C8"></span> C7/C8 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=9" title="Edit section: C7/C8 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C8.svg" class="image"><img alt="IEC 60320 C8.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/IEC_60320_C8.svg/100px-IEC_60320_C8.svg.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/IEC_60320_C8.svg/150px-IEC_60320_C8.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/IEC_60320_C8.svg/200px-IEC_60320_C8.svg.png 2x" data-file-width="204" data-file-height="102" /></a> <a href="/wiki/File:IEC60320_C7.jpg" class="image"><img alt="IEC60320 C7.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/IEC60320_C7.jpg/100px-IEC60320_C7.jpg" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/IEC60320_C7.jpg/150px-IEC60320_C7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/IEC60320_C7.jpg/200px-IEC60320_C7.jpg 2x" data-file-width="600" data-file-height="340" /></a> <a href="/wiki/File:IEC60320_C7_Socket.JPG" class="image"><img alt="IEC60320 C7 Socket.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IEC60320_C7_Socket.JPG/100px-IEC60320_C7_Socket.JPG" width="100" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IEC60320_C7_Socket.JPG/150px-IEC60320_C7_Socket.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/IEC60320_C7_Socket.JPG/200px-IEC60320_C7_Socket.JPG 2x" data-file-width="684" data-file-height="417" /></a></p>
+<p>Commonly known as a <i>figure-8</i> or <i>shotgun</i> connector due to the shape of its cross-section. This coupler is often used for small <a href="/wiki/Cassette_recorder" title="Cassette recorder" class="mw-redirect">cassette recorders</a>, battery/mains operated radios, some full size audio-visual equipment, <a href="/wiki/Laptop_computer" title="Laptop computer" class="mw-redirect">laptop computer</a> <a href="/wiki/Power_supplies" title="Power supplies" class="mw-redirect">power supplies</a>, <a href="/wiki/Video_game_console" title="Video game console">video game consoles</a>, and similar <a href="/wiki/Appliance_classes#Class_II" title="Appliance classes">double-insulated</a> appliances.</p>
+<p>A C8B inlet type is defined by the standard, for use by dual-voltage appliances; it has three pins, and can hold a C7 connector in either of two positions, allowing the user to select voltage by choosing the position the connector is inserted.<sup id="cite_ref-ANZS60320_20-0" class="reference"><a href="#cite_note-ANZS60320-20"><span>[</span>20<span>]</span></a></sup></p>
+<div class="floatright"><a href="/wiki/File:IEC_60320_C7P_Polarised.png" class="image"><img alt="IEC 60320 C7P Polarised.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IEC_60320_C7P_Polarised.png/100px-IEC_60320_C7P_Polarised.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IEC_60320_C7P_Polarised.png/150px-IEC_60320_C7P_Polarised.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IEC_60320_C7P_Polarised.png/200px-IEC_60320_C7P_Polarised.png 2x" data-file-width="2000" data-file-height="1000" /></a></div>
+<p>A similar but polarized connector has been made, but is not part of the standard. Sometimes called C7P, it is asymmetrical, with one side squared off. Unpolarized C7 connectors can be inserted into the polarized inlets; however, doing so might be a safety risk if the device is designed for polarized power. Although not specified by IEC 60230, and not clear if any formal written standard exists, the most common wiring appears to connect the squared side to the neutral, and the rounded to the hot line.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="C13.2FC14_coupler"><span id="C13"></span><span id="C14"></span> C13/C14 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=10" title="Edit section: C13/C14 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C14.svg" class="image"><img alt="IEC 60320 C14.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/IEC_60320_C14.svg/100px-IEC_60320_C14.svg.png" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/IEC_60320_C14.svg/150px-IEC_60320_C14.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/IEC_60320_C14.svg/200px-IEC_60320_C14.svg.png 2x" data-file-width="269" data-file-height="186" /></a> <a href="/wiki/File:IEC60320_C13.jpg" class="image"><img alt="IEC60320 C13.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/IEC60320_C13.jpg/100px-IEC60320_C13.jpg" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/IEC60320_C13.jpg/150px-IEC60320_C13.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/IEC60320_C13.jpg/200px-IEC60320_C13.jpg 2x" data-file-width="600" data-file-height="340" /></a> <a href="/wiki/File:IEC60320_C14.jpg" class="image"><img alt="IEC60320 C14.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/IEC60320_C14.jpg/100px-IEC60320_C14.jpg" width="100" height="57" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/IEC60320_C14.jpg/150px-IEC60320_C14.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/IEC60320_C14.jpg/200px-IEC60320_C14.jpg 2x" data-file-width="600" data-file-height="340" /></a></p>
+<p>Most <a href="/wiki/Desktop_computer" title="Desktop computer">desktop computers</a> use the C14 inlet to attach the power cord to the power supply, as do many <a href="/wiki/Instrument_amplifier" title="Instrument amplifier">instrument amplifiers</a>, monitors, printers and other peripherals. Many <a href="/wiki/AT_form_factor" title="AT form factor" class="mw-redirect">AT form factor</a> computers also provided a panel-mounting C13 outlet controlled by the physical power switch for powering the monitor. With the arrival of <a href="/wiki/ATX" title="ATX">ATX</a> the readily accessible permanent power switch was removed and the outlet was either permanently powered or completely removed.</p>
+<p>A <a href="/wiki/Power_cord" title="Power cord">power cord</a> with a suitable <a href="/wiki/Mains_power_plug" title="Mains power plug" class="mw-redirect">power plug</a> for the locality in which the appliance is used on one end and a C13 connector on the other is commonly called an <i>IEC cord</i>. IEC cords are used to power many pieces of electronic equipment, including computers, <a href="/wiki/Instrument_amplifier" title="Instrument amplifier">instrument amplifiers</a> and professional <a href="/wiki/Sound" title="Sound">audio</a> equipment.</p>
+<p>Cables with a C14 coupler at one end and a C13 coupler at the other are commonly available. They have a variety of common uses including connecting power between older PCs and their monitors, extending existing power cords, connecting to C13 coupler strips (commonly used with rack-mount gear to save space and for international standardization) and connecting computer equipment to the output of a <a href="/wiki/Uninterruptible_power_supply" title="Uninterruptible power supply">uninterruptible power supply</a> (UPS) (larger UPSs often have C19 outlets as well.)</p>
+<p>There are also a variety of splitter blocks, splitter cables, and similar devices available. These, along with the cables mentioned above, are nearly always un-fused (with the exception of <a href="/wiki/BS_1363" title="BS 1363" class="mw-redirect">BS 1363</a> to IEC cables which are always fused but sometimes at more than the rating of the IEC connector), and in 230&#160;V countries the cables are often made with only 0.75&#160;mm<sup>2</sup> conductors which are rated only to 6&#160;A.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (August 2014)">by whom?</span></a></i>]</sup> Therefore, care must be taken to avoid overloading the cables and connectors when using such products.</p>
+<p>In some countries these cables are sometimes referred to as a "kettle cord" or "kettle lead", but the C13/14 connectors are only rated for 70&#160;°C; a device such as a kettle requires the C15/16 connector, rated for 120&#160;°C.</p>
+<h3><span class="mw-headline" id="C15.2FC16_coupler"><span id="C15"></span><span id="C16"></span> C15/C16 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=11" title="Edit section: C15/C16 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C16.svg" class="image"><img alt="IEC 60320 C16.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IEC_60320_C16.svg/100px-IEC_60320_C16.svg.png" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IEC_60320_C16.svg/150px-IEC_60320_C16.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/IEC_60320_C16.svg/200px-IEC_60320_C16.svg.png 2x" data-file-width="253" data-file-height="169" /></a> <a href="/wiki/File:IEC_60320_C15.jpg" class="image"><img alt="IEC 60320 C15.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEC_60320_C15.jpg/100px-IEC_60320_C15.jpg" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEC_60320_C15.jpg/150px-IEC_60320_C15.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/21/IEC_60320_C15.jpg 2x" data-file-width="200" data-file-height="138" /></a></p>
+<p>Some <a href="/wiki/Electric_kettle" title="Electric kettle" class="mw-redirect">electric kettles</a> and similar hot household <a href="/wiki/Small_appliance" title="Small appliance">appliances</a> like home <a href="/wiki/Still" title="Still">stills</a> use a supply cord with a C15 connector, and a matching C16 inlet on the appliance; their temperature rating is 120&#160;°C rather than the 70&#160;°C of the similar C13/C14 combination. The official designation in Europe for the C15/C16 coupler is a 'hot condition' coupler.</p>
+<p>These are similar in form to the C13/C14 coupler, except with a ridge opposite the earth in the C16 inlet (preventing a C13 fitting), and a corresponding valley in the C15 connector (which doesn't prevent it fitting a C14 inlet). For example, an electric kettle cord can be used to power a computer, but an unmodified computer cord cannot be used to power a kettle.</p>
+<p>Many people are not aware of the subtle differences between the C13/C14 and C15/C16 couplers, and so all are loosely referred to as <i>kettle plug</i> and <i>kettle lead</i> (in the UK), <i>jug plug</i> (in Australia)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup> and <i>Kabel Koomkoom</i> (literally, "kettle cable" in Israel) when referring to these mains cords.</p>
+<p>In <a href="/wiki/Sweden" title="Sweden">Sweden</a>, the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, <a href="/wiki/Germany" title="Germany">Germany</a> and some other countries the C15/C16 coupler has replaced and made obsolete the formerly common type of <a href="/wiki/Appliance_plug" title="Appliance plug">appliance coupler</a> in most applications. In the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a> it has also replaced a once-common large, round connector which had two round pins for power and a larger round pin for earth. These were common on kettles, particularly those from <a href="/wiki/Russell_Hobbs" title="Russell Hobbs">Russell Hobbs</a> and were also used on home-brewing machines and large film projectors.</p>
+<h4><span class="mw-headline" id="C15A.2FC16A_coupler"><span id="C15A"></span><span id="C16A"></span> C15A/C16A coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=12" title="Edit section: C15A/C16A coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/File:IEC_60320_C16A.svg" class="image"><img alt="IEC 60320 C16A.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IEC_60320_C16A.svg/100px-IEC_60320_C16A.svg.png" width="100" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IEC_60320_C16A.svg/150px-IEC_60320_C16A.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/IEC_60320_C16A.svg/200px-IEC_60320_C16A.svg.png 2x" data-file-width="268" data-file-height="181" /></a></p>
+<p>There is also a C15A/C16A coupler, with an even higher (155&#160;°C) temperature rating.</p>
+<h3><span class="mw-headline" id="C17.2FC18_coupler"><span id="C17"></span><span id="C18"></span> C17/C18 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=13" title="Edit section: C17/C18 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C18.svg" class="image"><img alt="IEC 60320 C18.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IEC_60320_C18.svg/100px-IEC_60320_C18.svg.png" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IEC_60320_C18.svg/150px-IEC_60320_C18.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/IEC_60320_C18.svg/200px-IEC_60320_C18.svg.png 2x" data-file-width="269" data-file-height="186" /></a> <a href="/wiki/File:Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg" class="image"><img alt="Plug IEC320 Kaltgeräteanschlusssteckdose DIN VDE 0625 Teil 1 Normblatt C17.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg/100px-Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg" width="100" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg/150px-Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg/200px-Plug_IEC320_Kaltger%C3%A4teanschlusssteckdose_DIN_VDE_0625_Teil_1_Normblatt_C17.jpg 2x" data-file-width="1695" data-file-height="1190" /></a> <a href="/wiki/File:Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg" class="image"><img alt="Socket IEC320 Kaltgeräteeinbaustecker DIN VDE 0625 Teil 1 Normblatt C18.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg/100px-Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg/150px-Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg/200px-Socket_IEC320_Kaltger%C3%A4teeinbaustecker_DIN_VDE_0625_Teil_1_Normblatt_C18.jpg 2x" data-file-width="1783" data-file-height="1123" /></a></p>
+<p>Similar to C13/C14 coupler, but unearthed. A C18 inlet will accept a C13 connector but a C14 inlet will not accept a C17 connector.</p>
+<p>The <a href="/wiki/IBM_Wheelwriter" title="IBM Wheelwriter" class="mw-redirect">IBM Wheelwriter</a> series of electronic <a href="/wiki/Typewriter" title="Typewriter">typewriters</a> are one common application. Three wire cords with C13 connectors, which are easier to find, are sometimes used in place of the two wire cords for replacement. In this case, the ground wire will not be connected.</p>
+<p>The C17/C18 coupler is often used in audio applications where a <a href="/wiki/Floating_ground" title="Floating ground">floating ground</a> is maintained to eliminate <a href="/wiki/Mains_hum" title="Mains hum">hum</a> caused by <a href="/wiki/Ground_loop_(electricity)" title="Ground loop (electricity)">ground loops</a>. Other common applications are the power supplies of <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a> game consoles, replacing the C15/C16 coupler employed initially, and large CRT televisions manufactured by <a href="/wiki/RCA" title="RCA">RCA</a> in the early 1990s.</p>
+<h3><span class="mw-headline" id="C19.2FC20_coupler"><span id="C19"></span><span id="C20"></span> C19/C20 coupler</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=14" title="Edit section: C19/C20 coupler">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/File:IEC_60320_C20.svg" class="image"><img alt="IEC 60320 C20.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/IEC_60320_C20.svg/100px-IEC_60320_C20.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/IEC_60320_C20.svg/150px-IEC_60320_C20.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/IEC_60320_C20.svg/200px-IEC_60320_C20.svg.png 2x" data-file-width="250" data-file-height="182" /></a> <a href="/wiki/File:IEC_60320_C19_Plug.jpg" class="image"><img alt="IEC 60320 C19 Plug.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/IEC_60320_C19_Plug.jpg/100px-IEC_60320_C19_Plug.jpg" width="100" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/IEC_60320_C19_Plug.jpg/150px-IEC_60320_C19_Plug.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/IEC_60320_C19_Plug.jpg/200px-IEC_60320_C19_Plug.jpg 2x" data-file-width="1401" data-file-height="1167" /></a> <a href="/wiki/File:IEC_60320_C20_Skt.jpg" class="image"><img alt="IEC 60320 C20 Skt.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/IEC_60320_C20_Skt.jpg/100px-IEC_60320_C20_Skt.jpg" width="100" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/IEC_60320_C20_Skt.jpg/150px-IEC_60320_C20_Skt.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/IEC_60320_C20_Skt.jpg/200px-IEC_60320_C20_Skt.jpg 2x" data-file-width="1512" data-file-height="1440" /></a></p>
+<p>Earthed, 16&#160;A, polarized. This coupler is used for some IT applications where higher currents are required, as for instance, on high-power workstations and servers, <a href="/wiki/Uninterruptible_power_supply" title="Uninterruptible power supply">uninterruptible power supplies</a>, <a href="/wiki/Power_distribution_unit" title="Power distribution unit">power distribution units</a>, large network routers, switches, <a href="/wiki/Blade_enclosure" title="Blade enclosure" class="mw-redirect">blade enclosures</a>, and similar equipment. This connector can also be found on high current medical equipment. It is rectangular and has pins parallel to the long axis of the coupler face.</p>
+<h3><span class="mw-headline" id="Withdrawn_and_other_standard_sheets">Withdrawn and other standard sheets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=15" title="Edit section: Withdrawn and other standard sheets">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some connector types are no longer in the current standard. The C3 and C4 standard sheets, and the C11 and C12 standard sheets, are no longer listed.</p>
+<p>Standard sheet C25 shows retaining device dimensions. Sheet C26 shows detail dimensions for pillar-type terminals, where the end of the screw bears on a wire directly or through a pressure plate. Sheet 27 shows details for screw terminals, where the wire is held by wrapping it around the head of a screw.</p>
+<h2><span class="mw-headline" id="Interconnection_couplers">Interconnection couplers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=16" title="Edit section: Interconnection couplers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>IEC 60320 Part 2-2 specifies couplers almost identical to those in IEC 60320-1, but the female part is a power outlet that is built into a piece of equipment, while the male part is attached to a cord. They are identified by letters, not numbers, with one letter identifying the cord plug, and the following letter identifying the mating appliance outlet. For example, an E plug fits into an F outlet.</p>
+<p>The dimensions and tolerances for plug connectors and appliance outlets are given in standard sheets, which are dimensioned drawings showing the features required for safety and interchangeability.</p>
+<table class="wikitable" style="text-align:center;">
+<caption><b>IEC 60320-2-2 Interconnection Couplers</b></caption>
+<tr>
+<th>Plug Connector (Male)</th>
+<th>Appliance Outlet (Female)</th>
+<th>Drawing</th>
+<th>Pin spacing,<br />
+centres (mm)</th>
+<th>Earth contact</th>
+<th><a href="/wiki/Appliance_class" title="Appliance class" class="mw-redirect">Appliance class</a></th>
+<th>Rewirable<br />
+connector<br />
+allowed?</th>
+<th><a href="/wiki/Current_rating" title="Current rating" class="mw-redirect">Max. current</a><br />
+(A)</th>
+<th>Remarks and example uses</th>
+</tr>
+<tr>
+<td>A</td>
+<td>B</td>
+<td><a href="/wiki/File:IEC_60320_C5.svg" class="image"><img alt="IEC 60320 C5.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/IEC_60320_C5.svg/100px-IEC_60320_C5.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/IEC_60320_C5.svg/150px-IEC_60320_C5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/IEC_60320_C5.svg/200px-IEC_60320_C5.svg.png 2x" data-file-width="190" data-file-height="138" /></a></td>
+<td>10 (H)<br />
+4.5 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>2.5</td>
+<td align="left">Commonly referred to as a Clover-leaf or Mickey Mouse connector due to its shape.</td>
+</tr>
+<tr>
+<td>C</td>
+<td>D</td>
+<td><a href="/wiki/File:IEC_60320_C7.svg" class="image"><img alt="IEC 60320 C7.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/IEC_60320_C7.svg/100px-IEC_60320_C7.svg.png" width="100" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/IEC_60320_C7.svg/150px-IEC_60320_C7.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/IEC_60320_C7.svg/200px-IEC_60320_C7.svg.png 2x" data-file-width="204" data-file-height="102" /></a></td>
+<td>8.6</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>2.5</td>
+<td align="left">Not polarized. Commonly referred to as a "figure of 8".</td>
+</tr>
+<tr>
+<td>E</td>
+<td>F</td>
+<td><a href="/wiki/File:IEC_60320_C13.svg" class="image"><img alt="IEC 60320 C13.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/IEC_60320_C13.svg/100px-IEC_60320_C13.svg.png" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/IEC_60320_C13.svg/150px-IEC_60320_C13.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/IEC_60320_C13.svg/200px-IEC_60320_C13.svg.png 2x" data-file-width="269" data-file-height="186" /></a></td>
+<td>14 (H)<br />
+4 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>10</td>
+<td align="left">Very common for power distribution on computer and instrument equipment racks, used to be common as a means of connecting power from a PC to a monitor.</td>
+</tr>
+<tr>
+<td>G</td>
+<td>H</td>
+<td><a href="/wiki/File:IEC_60320_C17.svg" class="image"><img alt="IEC 60320 C17.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/IEC_60320_C17.svg/100px-IEC_60320_C17.svg.png" width="100" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/IEC_60320_C17.svg/150px-IEC_60320_C17.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/IEC_60320_C17.svg/200px-IEC_60320_C17.svg.png 2x" data-file-width="269" data-file-height="186" /></a></td>
+<td>14</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>10</td>
+<td align="left">Ungrounded variant of E/F</td>
+</tr>
+<tr>
+<td>I</td>
+<td>J</td>
+<td><a href="/wiki/File:IEC_60320_C19.svg" class="image"><img alt="IEC 60320 C19.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IEC_60320_C19.svg/100px-IEC_60320_C19.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IEC_60320_C19.svg/150px-IEC_60320_C19.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/IEC_60320_C19.svg/200px-IEC_60320_C19.svg.png 2x" data-file-width="250" data-file-height="182" /></a></td>
+<td>13 (H)<br />
+8 (V)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>I</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>16</td>
+<td align="left">Common on Enterprise-class servers and datacenter rack-mounted power distribution units.</td>
+</tr>
+<tr>
+<td>K</td>
+<td>L</td>
+<td><a href="/wiki/File:IEC_60320_C23.svg" class="image"><img alt="IEC 60320 C23.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IEC_60320_C23.svg/100px-IEC_60320_C23.svg.png" width="100" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IEC_60320_C23.svg/150px-IEC_60320_C23.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/IEC_60320_C23.svg/200px-IEC_60320_C23.svg.png 2x" data-file-width="250" data-file-height="182" /></a></td>
+<td>13</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td>II</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td>16</td>
+<td align="left">Ungrounded variant of I/J</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:IEC_60320" class="extiw" title="commons:Category:IEC 60320">IEC 60320</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/AC_power_plugs_and_sockets" title="AC power plugs and sockets">AC power plugs and sockets</a></li>
+<li><a href="/wiki/Power_entry_module" title="Power entry module">Power entry module</a></li>
+<li><a href="/wiki/IEC_60309" title="IEC 60309">IEC 60309</a> specifies larger couplers used for higher currents, higher voltages, and polyphase systems.</li>
+<li><a href="/wiki/IEC_60906-1" title="IEC 60906-1">IEC 60906-1</a> A proposed standard for domestic wall sockets.</li>
+<li><a href="/wiki/NEMA_connector" title="NEMA connector">NEMA connector</a> North American standard for building receptacles and compatible cord connectors</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IEC_60320-1-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IEC_60320-1_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IEC_60320-1_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="//webstore.iec.ch/publication/1452">"IEC 60320-1"</a>. <i>IEC Webstore</i>. International Electrotechnical Commission.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIEC+60320&amp;rft.atitle=IEC+60320-1&amp;rft.genre=article&amp;rft_id=%2F%2Fwebstore.iec.ch%2Fpublication%2F1452&amp;rft.jtitle=IEC+Webstore&amp;rft.pub=International+Electrotechnical+Commission&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Sophie J. Chumas (ed), <i>Index of international standards, Volume 390 of NBS special publication</i>, U.S. Department of Commerce, National Bureau of Standards 1974, page 2014</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://webstore.iec.ch/publication/1453">IEC 60320-2-1 edition 2.0 <i>Appliance couplers for household and similar general purposes — Part 2-1: Sewing machine couplers</i></a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://webstore.iec.ch/publication/1454">IEC 60320-2-2 edition 2.0 <i>Interconnection couplers for household and similar equipment</i></a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://webstore.iec.ch/publication/1457">IEC 60320-2-3 consolidated edition 1.1 with amendment 1 <i>Appliance couplers for household and similar general purposes — Part 2-3: Appliance couplers with a degree of protection higher than IPX0</i></a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://webstore.iec.ch/publication/1460">IEC 60320-2-4 edition 1.0 <i>Appliance couplers for household and similar general purposes - Part 2-4: Couplers dependent on appliance weight for engagement</i></a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://database.ul.com/cgi-bin/XYV/cgifind.new/LISEXT/1FRAME/srchres.html?query=E152635">UL certification E152635</a> covering <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_connectors.htm#yc-13">YC-14 C5</a> and <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_plugs.htm#yp-34">YP-34 C6</a> connectors. Note that the manufacturer's page only mentions the 10&#160;A rating when used with 18 <a href="/wiki/American_wire_gauge" title="American wire gauge">AWG</a> wire; the UL certification allows 13&#160;A when used with 16 AWG wire. Retrieved 2014-09-24.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://database.ul.com/cgi-bin/XYV/cgifind.new/LISEXT/1FRAME/srchres.html?query=E152635">UL certification E152635</a> covering <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_connectors.htm#yc-13">YC-13 C7</a> and <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_plugs.htm#yp-31">YP-31 C8</a> connectors. Retrieved 2014-09-24.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://database.ul.com/cgi-bin/XYV/cgifind.new/LISEXT/1FRAME/srchres.html?query=E152635">UL certification E152635</a> covering <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_connectors.htm#yc-12">YC-12 C13, YC-20 C15</a> and <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_plugs.htm#yp-32">YP-32 C14</a> connectors. Note that the manufacturer's YC-20 label contains an error; the wire gauges (18, 16, 14) are repeated in the "current rating" column; the UL certification contains the correct values (10&#160;A, 13&#160;A, 15&#160;A). Retrieved 2014-09-24.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://database.ul.com/cgi-bin/XYV/cgifind.new/LISEXT/1FRAME/srchres.html?query=E152635">UL certification E152635</a> covering <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_connectors.htm#yc-18">YC-18 C19, YC-25 C21</a> and <a rel="nofollow" class="external text" href="http://www.yung-li.com.tw/en/products/iec_plugs.htm#yp-33">YP-33 C20</a> connectors. Note that the manufacturer's page only mentions the 16&#160;A rating when used with 14 <a href="/wiki/American_wire_gauge" title="American wire gauge">AWG</a> wire; the UL certification allows 20&#160;A when used with 12 AWG wire. Retrieved 2014-09-24.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/ANSI" title="ANSI" class="mw-redirect">ANSI</a> C84.1: <a rel="nofollow" class="external text" href="http://www.nema.org/stds/c84-1.cfm">American National Standard for Electric Power Systems and Equipment—Voltage Ratings (60 Hertz)</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">CAN3-C235-83: Preferred Voltage Levels for AC Systems, 0 to 50 000&#160;V</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">One arbitrarily chosen example of a 1500&#160;W PSU with a C14 input is the <a rel="nofollow" class="external text" href="http://www.overclockers.com/enermax-maxrevo-1500-80-gold-fully-modular-psu-review/">Enermax MAXREVO 1500 W 80+ Gold</a>. It manages to fit within the 15&#160;A input current limit because of its <a href="/wiki/80_Plus" title="80 Plus">80 Plus</a> gold efficiency.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ecvv.com/product/660678.html">Wellsun Technology Co.,Ltd model WS 3-300W specifications</a> "Optional AC inlet: IEC-320-C6 (three pins) IEC-320-C8 (two pins)" and "Output power range: 3W to 300W". Retrieved 2014-08-26.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://books.google.com/books?id=soSsLATmZnkC&amp;pg=PA243&amp;dq=%22female+connector%22#v=onepage&amp;q=%22female%20connector%22&amp;f=false">[1]</a>, Comprehensive Dictionary of Electrical Engineering, Phillip A. Laplante, Springer, 1999, p.243 (retrieved 26 March 2014 from Google Books)</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://books.google.com/books?id=soSsLATmZnkC&amp;pg=PA395&amp;dq=%22male+connector%22#v=onepage&amp;q=%22male%20connector%22&amp;f=false">[2]</a>, Comprehensive Dictionary of Electrical Engineering, Phillip A. Laplante, Springer, 1999, p.395 (retrieved 26 March 2014 from Google Books)</span></li>
+<li id="cite_note-access11-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-access11_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-access11_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.accesscomms.com.au/reference/iec320.htm">IEC 320 data sheet</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cisco.com/en/US/docs/storage/san_switches/mds9000/hw/9216/installation/guide/techspec.html#wp1028954"><i>Cisco MDS 9216 Switch Hardware Installation Guide</i></a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ebay.co.uk/itm/1M-XBOX-360-POWER-LEAD-UK-3-PIN-PLUG-TO-IEC-C15-HOT-CONDITION-MAINS-CABLE-TV-PS3-/360424948011"><i>Replacement XBox 360 Hot cable</i></a></span></li>
+<li id="cite_note-ANZS60320-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-ANZS60320_20-0">^</a></b></span> <span class="reference-text"><i>Australian/New Zealand Standard AS/NZS 60320.1:2004, Appliance couplers for household and similar general purposes Part 1: General Requirements (IEC 60320-1, Ed. 2.0 (2001) MOD)</i>. This is the Australian version of the IEC standard with national variations shown.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.signalandpower.com/files/P-11R13W-06B%20top%20level%20drawing.pdf">Specification drawing of Yung Li polarized power cable</a> showing which pins connect to which wires.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.quail.net/docs/1068.079(0096-0303).pdf">Specification drawing of Quail polarized power cable</a> showing which pins connect to which wires.</span></li>
+</ol>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/publication/3515">IEC 60799 edition 2.0 <i>Electrical accessories — Cord sets and interconnection cord sets</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.stayonline.com/reference-iec320.aspx">International Standardized Appliance Connectors (IEC-60320) Reference Chart</a> Includes diagrams of all couplers, their rated current, equipment class, and temperature rating.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IEC_60320&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/preview/info_iec60320-1%7Bed2.1%7Db.pdf">IEC 60320-1 Appliance couplers for household and similar general purposes - Part 1: General requirements</a></li>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/preview/info_iec60320-2-1%7Bed2.0%7Db.pdf">IEC 60320-2-1 Appliance couplers for household and similar general purposes - Part 2-1: Sewing machine couplers</a></li>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/preview/info_iec60320-2-2%7Bed2.0%7Db.pdf">IEC 60320-2-2 Appliance couplers for household and similar general purposes - Part 2-2: Interconnection couplers for household and similar equipment</a></li>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/preview/info_iec60320-2-3%7Bed1.1%7Db.pdf">IEC 60320-2-3 Appliance couplers for household and similar general purposes - Part 2-3: Appliance couplers with a degree of protection higher than IPX0</a></li>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/preview/info_iec60320-2-4%7Bed1.1%7Db.pdf">IEC 60320-2-4 Appliance couplers for household and similar general purposes - Part 2-4: Couplers dependent on appliance weight for engagement</a></li>
+<li><a rel="nofollow" class="external text" href="https://webstore.iec.ch/preview/info_iec60320-3%7Bed1.0%7Db.pdf">IEC 60320-3 Appliance couplers for household and similar general purposes - Part 3: Standard sheets and gauges</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1162
+CPU time usage: 0.311 seconds
+Real time usage: 0.519 seconds
+Preprocessor visited node count: 1438/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15649/2097152 bytes
+Template argument size: 1522/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.054/10.000 seconds
+Lua memory usage: 2.09 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  233.345      1 - -total
+ 18.55%   43.285      1 - Template:Reflist
+ 18.49%   43.152      1 - Template:Original_research
+ 16.23%   37.866      1 - Template:Ambox
+ 12.10%   28.229      1 - Template:Redirect
+ 11.31%   26.393      1 - Template:Commons_category
+ 10.33%   24.102      1 - Template:Cite_web
+  9.03%   21.081      1 - Template:Use_British_(Oxford)_English
+  7.43%   17.341      1 - Template:DMCA
+  7.40%   17.256      2 - Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:326120-0!*!0!!en!4!* and timestamp 20150708213004 and revision id 663508989
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=IEC_60320&amp;oldid=663508989">https://en.wikipedia.org/w/index.php?title=IEC_60320&amp;oldid=663508989</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electrical_power_connectors" title="Category:Electrical power connectors">Electrical power connectors</a></li><li><a href="/wiki/Category:IEC_standards" title="Category:IEC standards">IEC standards</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_August_2014" title="Category:Articles that may contain original research from August 2014">Articles that may contain original research from August 2014</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Use_British_(Oxford)_English_from_December_2011" title="Category:Use British (Oxford) English from December 2011">Use British (Oxford) English from December 2011</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_British_(Oxford)_English" title="Category:All Wikipedia articles written in British (Oxford) English">All Wikipedia articles written in British (Oxford) English</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_August_2014" title="Category:Articles with specifically marked weasel-worded phrases from August 2014">Articles with specifically marked weasel-worded phrases from August 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IEC+60320&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IEC+60320" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/IEC_60320"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:IEC_60320"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/IEC_60320" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=IEC_60320&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=IEC_60320&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/IEC_60320" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/IEC_60320" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=IEC_60320&amp;oldid=663508989" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=IEC_60320&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q134156" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=IEC_60320&amp;id=663508989" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=IEC+60320">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=IEC+60320&amp;oldid=663508989&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=IEC_60320&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Connector_IEC" title="Connector IEC – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Ger%C3%A4testecker" title="Gerätestecker – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Conector_IEC" title="Conector IEC – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/CEI_60320" title="CEI 60320 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/IEC_60320" title="IEC 60320 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Z%C5%82%C4%85cze_IEC" title="Złącze IEC – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%8A%D1%91%D0%BC_IEC" title="Разъём IEC – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/IEC_60320" title="IEC 60320 – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q134156#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 May 2015, at 07:11.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=IEC_60320&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1034"});
+}</script>
+	</body>
+</html>

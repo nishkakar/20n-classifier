@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Yaws - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Yaws" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Yaws&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Yaws&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Yaws" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Yaws" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Yaws","wgTitle":"Yaws","wgCurRevisionId":668072391,"wgRevisionId":668072391,"wgArticleId":301373,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Pages containing cite templates with deprecated parameters","Articles with contributors link","Commons category template with no category set","Commons category with page title same as on Wikidata","Articles that use a Medicine navs subtemplate","Bacterium-related cutaneous conditions","Syphilis"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Yaws","wgRelevantArticleId":301373,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yaws_01.jpg/67px-Yaws_01.jpg","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q76973"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Yaws skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Yaws</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For other uses, see <a href="/wiki/Yaws_(disambiguation)" title="Yaws (disambiguation)" class="mw-redirect">Yaws (disambiguation)</a>.</div>
+<div class="hatnote">"Parangi" redirects here. For the village in Iran, see <a href="/wiki/Parangi,_Iran" title="Parangi, Iran">Parangi, Iran</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Yaws</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Yaws_01.jpg" class="image"><img alt="Yaws 01.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yaws_01.jpg/230px-Yaws_01.jpg" width="230" height="341" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yaws_01.jpg/345px-Yaws_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Yaws_01.jpg/460px-Yaws_01.jpg 2x" data-file-width="974" data-file-height="1446" /></a>
+<div>Nodules on the elbow resulting from a <i>Treponema pallidum pertenue</i> bacterial infection</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Infectious_disease_(medical_specialty)" title="Infectious disease (medical specialty)">Infectious disease</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/A66">A66</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=102">102</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/001341.htm">001341</a></td>
+</tr>
+</table>
+<p><b>Yaws</b> (also known as <b>frambesia tropica</b>, <b>thymosis</b>, <b>polypapilloma tropicum</b>, <b>parangi</b>, <b>bouba</b>, <b>frambösie</b>,<sup id="cite_ref-Bolognia_1-0" class="reference"><a href="#cite_note-Bolognia-1"><span>[</span>1<span>]</span></a></sup> and <b>pian</b><sup id="cite_ref-Andrews_2-0" class="reference"><a href="#cite_note-Andrews-2"><span>[</span>2<span>]</span></a></sup>) is a tropical <a href="/wiki/Infection" title="Infection">infection</a> of the <a href="/wiki/Skin" title="Skin">skin</a>, <a href="/wiki/Bone" title="Bone">bones</a> and joints caused by the <a href="/wiki/Spirochete" title="Spirochete" class="mw-redirect">spirochete</a> <a href="/wiki/Bacterium" title="Bacterium" class="mw-redirect">bacterium</a> <i><a href="/wiki/Treponema_pallidum" title="Treponema pallidum">Treponema pallidum</a> pertenue</i>.<sup id="cite_ref-Mit2012_3-0" class="reference"><a href="#cite_note-Mit2012-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-Mit2013_4-0" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup> The disease begins with a round, hard swelling of the skin, 2 to 5 centimeters in diameter.<sup id="cite_ref-Mit2013_4-1" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup> The center may break open and form an <a href="/wiki/Ulcer" title="Ulcer">ulcer</a>.<sup id="cite_ref-Mit2013_4-2" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup> This initial skin lesion typically heals after three to six months.<sup id="cite_ref-WHO2014_5-0" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> After weeks to years, joints and bones may become painful, <a href="/wiki/Fatigue_(medical)" title="Fatigue (medical)">fatigue</a> may develop, and new skin lesions may appear.<sup id="cite_ref-Mit2013_4-3" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup> The skin of the <a href="/wiki/Hand" title="Hand">palms</a> of the hands and the soles of the feet may become thick and break open.<sup id="cite_ref-WHO2014_5-1" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> The bones (especially those of the nose) may become misshapen.<sup id="cite_ref-WHO2014_5-2" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> After five years or more large areas of skin death with subsequent scarring may occur.<sup id="cite_ref-Mit2013_4-4" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Yaws is spread by direct contact with the fluid from a lesion of an infected person.<sup id="cite_ref-WHO2014_5-3" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> The contact is usually of a non-sexual nature.<sup id="cite_ref-WHO2014_5-4" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> The disease is most common among children, who spread it by playing together.<sup id="cite_ref-Mit2013_4-5" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup> Other related treponemal diseases are <a href="/wiki/Nonvenereal_endemic_syphilis" title="Nonvenereal endemic syphilis">bejel</a> (<i>Treponema pallidum endemicum</i>), <a href="/wiki/Pinta_(disease)" title="Pinta (disease)">pinta</a> (<i>Treponema pallidum carateum</i>), and <a href="/wiki/Syphilis" title="Syphilis">syphilis</a> (<i>Treponema pallidum pallidum</i>).<sup id="cite_ref-WHO2014_5-5" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Yaws is often diagnosed by the appearance of the lesions.<sup id="cite_ref-WHO2014_5-6" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Blood <a href="/wiki/Antibody" title="Antibody">antibody</a> tests may be useful but cannot separate previous from current infections.<sup id="cite_ref-WHO2014_5-7" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Polymerase_chain_reaction" title="Polymerase chain reaction">Polymerase chain reaction</a> (PCR) is the most accurate method of diagnosis.<sup id="cite_ref-WHO2014_5-8" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Prevention is, in part, by curing those who have the disease thereby decreasing the risk of transmission.<sup id="cite_ref-WHO2014_5-9" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Where the disease is common, treating the entire community is effective.<sup id="cite_ref-WHO2014_5-10" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Improving cleanliness and sanitation will also decrease spread.<sup id="cite_ref-WHO2014_5-11" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Treatment is typically with <a href="/wiki/Antibiotic" title="Antibiotic" class="mw-redirect">antibiotics</a> including: <a href="/wiki/Azithromycin" title="Azithromycin">azithromycin</a> by mouth or <a href="/wiki/Benzathine_penicillin" title="Benzathine penicillin" class="mw-redirect">benzathine penicillin</a> by injection.<sup id="cite_ref-WHO2014_5-12" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Without treatment, physical deformities occur in 10% of cases.<sup id="cite_ref-WHO2014_5-13" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Yaws is common in at least 14 <a href="/wiki/Tropical_countries" title="Tropical countries" class="mw-redirect">tropical countries</a> as of 2012.<sup id="cite_ref-Mit2013_4-6" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-WHO2014_5-14" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> The disease infects only humans.<sup id="cite_ref-WHO2014_5-15" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> In the 1950s and 1960s the <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> (WHO) nearly eradicated yaws.<sup id="cite_ref-WHO2014_5-16" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> Since then the number of cases has increased and there are renewed efforts to eradication the disease by 2020.<sup id="cite_ref-WHO2014_5-17" class="reference"><a href="#cite_note-WHO2014-5"><span>[</span>5<span>]</span></a></sup> The last estimate of the number of people infected was more than 500,000 in 1995.<sup id="cite_ref-Mit2012_3-1" class="reference"><a href="#cite_note-Mit2012-3"><span>[</span>3<span>]</span></a></sup> Although one of the first descriptions of the disease was made in 1679 by <a href="/wiki/Willem_Piso" title="Willem Piso">Willem Piso</a>, archaeological evidence suggests that yaws may have been present among humans as far back as 1.6 million years ago.<sup id="cite_ref-Mit2013_4-7" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cause"><span class="tocnumber">2</span> <span class="toctext">Cause</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Prevention"><span class="tocnumber">4</span> <span class="toctext">Prevention</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Treatment"><span class="tocnumber">5</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Epidemiology"><span class="tocnumber">6</span> <span class="toctext">Epidemiology</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:4150843630_bc699a7fa4_bPian.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/4150843630_bc699a7fa4_bPian.jpg/220px-4150843630_bc699a7fa4_bPian.jpg" width="220" height="270" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/4150843630_bc699a7fa4_bPian.jpg/330px-4150843630_bc699a7fa4_bPian.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/4150843630_bc699a7fa4_bPian.jpg/440px-4150843630_bc699a7fa4_bPian.jpg 2x" data-file-width="1577" data-file-height="1936" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:4150843630_bc699a7fa4_bPian.jpg" class="internal" title="Enlarge"></a></div>
+Secondary breakout in a Java child age of 12 years. Wax model</div>
+</div>
+</div>
+<p>Within 90 days (but usually less than a month) of infection a painless but distinctive "mother yaw" <a href="/wiki/Nodule_(medicine)" title="Nodule (medicine)">nodule</a> appears, which enlarges and becomes warty in appearance. Nearby "daughter yaws" may also appear simultaneously.</p>
+<p>This primary stage resolves completely within six months. The secondary stage occurs months to years later, with typically widespread skin lesions that vary in appearance, including "crab yaws" on the palms of the hands and soles of the feet with <a href="/wiki/Desquamation" title="Desquamation">desquamation</a>. These secondary lesions frequently ulcerate and are then highly infectious, but heal after six months or more. About 10% of people then go on to develop tertiary disease within five to ten years (during which further secondary lesions may come and go), with widespread bone, joint and <a href="/wiki/Soft_tissue" title="Soft tissue">soft tissue</a> destruction, which may include extensive destruction of the bone and cartilage of the nose (rhinopharyngitis mutilans or "gangosa").</p>
+<h2><span class="mw-headline" id="Cause">Cause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=2" title="Edit section: Cause">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The disease is transmitted by skin-to-skin contact with an infective lesion, with the bacterium entering through a pre-existing cut, bite or scratch.</p>
+<p><i>T. pallidum pertenue</i> has been identified in non-human primates (baboons, chimpanzees, and gorillas) and studies show that experimental inoculation of human beings with a simian isolate causes yaws-like disease. However, no evidence exists of crosstransmission between human beings and primates, but more research is needed to discount the possibility of a yaws animal reservoir in non-human primates.<sup id="cite_ref-Mit2013_4-8" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=3" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most often the diagnosis is made clinically. <a href="/wiki/Dark_field_microscopy" title="Dark field microscopy">Dark field microscopy</a> of samples taken from early lesions (particularly ulcerative lesions) may show the responsible organism. Blood tests such as <a href="/wiki/VDRL" title="VDRL" class="mw-redirect">VDRL</a>, <a href="/wiki/Rapid_Plasma_Reagin" title="Rapid Plasma Reagin" class="mw-redirect">Rapid Plasma Reagin</a> (RPR) and <a href="/wiki/TPHA" title="TPHA" class="mw-redirect">TPHA</a> will also be positive, but there are no current blood tests which distinguish among the four <a href="/wiki/Treponematosis" title="Treponematosis">treponematoses</a>.<sup id="cite_ref-MedicineNet_6-0" class="reference"><a href="#cite_note-MedicineNet-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Prevention">Prevention</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=4" title="Edit section: Prevention">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg/250px-COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg" width="250" height="274" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg/375px-COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg/500px-COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg 2x" data-file-width="638" data-file-height="700" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:COLLECTIE_TROPENMUSEUM_Een_Europeaan_vaccineert_Indonesische_pati%C3%ABnten_met_neosalvarsaan_tegen_de_ziekte_framboesia_TMnr_10006691.jpg" class="internal" title="Enlarge"></a></div>
+European doctor treats an Indonesian woman for yaws.</div>
+</div>
+</div>
+<p>Yaws is a relatively easy disease to eradicate. Humans are likely the only reservoir of infection.<sup id="cite_ref-Capuano2011_7-0" class="reference"><a href="#cite_note-Capuano2011-7"><span>[</span>7<span>]</span></a></sup> A single injection of long-acting penicillin or other <a href="/wiki/Beta_lactam" title="Beta lactam" class="mw-redirect">beta lactam</a> antibiotic cures the disease and is widely available;<sup id="cite_ref-Asiedu2008_8-0" class="reference"><a href="#cite_note-Asiedu2008-8"><span>[</span>8<span>]</span></a></sup> and the disease is highly localised making case tracing relatively easy.</p>
+<p>In April 2012, WHO initiated a new global campaign for the eradication of yaws, which has been on the WHO eradication list since 2011. According to the official roadmap, elimination should be achieved by 2020.<sup id="cite_ref-Maurice2012_9-0" class="reference"><a href="#cite_note-Maurice2012-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Rinaldi2012_10-0" class="reference"><a href="#cite_note-Rinaldi2012-10"><span>[</span>10<span>]</span></a></sup> So far, this appears to have met with some success, since no cases have been seen in India since 2004.<sup id="cite_ref-Asiedu2008_8-1" class="reference"><a href="#cite_note-Asiedu2008-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Certification for disease-free status requires an absence of the disease for at least five years. In India this happened on 19 September 2011. In 1996 there were 3,571 yaws cases in India; in 1997 after a serious elimination effort began the number of cases fell to 735. By 2003 the number of cases were 46. The last clinical case in India was reported in 2003 and the last latent case in 2006.<sup id="cite_ref-Akbar2011_12-0" class="reference"><a href="#cite_note-Akbar2011-12"><span>[</span>12<span>]</span></a></sup> India is a country where yaws has been fully eradicated and no case has been reported after 2003.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>In March 2013, WHO convened a new meeting of yaws experts in Geneva to further discuss the strategy of the new eradication campaign. The meeting was significant, and representatives of most countries where yaws is endemic attended and described the epidemiological situation at the national level. The disease is currently known to be present in Indonesia and Timor-Leste in South-East Asia; Papua New Guinea, the Solomon Islands and Vanuatu in the Pacific region; and Benin, Cameroon, Central African Republic, Congo, Côte d'Ivoire, Democratic Republic of Congo, Ghana and Togo in Africa. As reported at the meeting, in several such countries, mapping of the disease is still patchy and will need to be completed before any serious eradication effort could be enforced.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=5" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Treatment is normally by a single <a href="/wiki/Intramuscular_injection" title="Intramuscular injection">intramuscular injection</a> of <a href="/wiki/Penicillin" title="Penicillin">penicillin</a>, or by a course of penicillin, <a href="/wiki/Erythromycin" title="Erythromycin">erythromycin</a> or <a href="/wiki/Tetracycline" title="Tetracycline">tetracycline</a> tablets. A single oral dose of <a href="/wiki/Azithromycin" title="Azithromycin">azithromycin</a> was shown to be as effective as intramuscular penicillin.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Primary and secondary stage lesions may heal completely, but the destructive changes of tertiary yaws are largely irreversible.</p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=6" title="Edit section: Epidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>About three quarters of people affected are children under 15 years of age, with the greatest incidence in children 6–10 years old.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> Therefore, children are the main reservoir of infection. Because <i>T. pallidum pertenue</i> is temperature- and humidity-dependent, yaws is found in humid tropical regions in South America, Africa, Asia and Oceania.</p>
+<p>Mass treatment campaigns in the 1950s reduced the worldwide <a href="/wiki/Prevalence" title="Prevalence">prevalence</a> from 50–150 million to fewer than 2.5 million; however during the 1970s there were outbreaks in South-East Asia and there have been continued sporadic cases in South America. It is unclear how many people worldwide are infected at present.<sup id="cite_ref-Capuano2011_7-1" class="reference"><a href="#cite_note-Capuano2011-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The global prevalence of this disease and the other endemic treponematoses, <a href="/wiki/Nonvenereal_endemic_syphilis" title="Nonvenereal endemic syphilis">bejel</a> and <a href="/wiki/Pinta_(disease)" title="Pinta (disease)">pinta</a>, was reduced by the Global Control of Treponematoses (TCP) programme between 1952 and 1964 from about 50 to 150 million cases to about 2.5 million (a 95 percent reduction). Following the cessation of this program yaws surveillance and treatment became a part of primary health systems of the affected countries. However incomplete eradication led to a resurgence of yaws in the 1970s with the largest number of case found in the Western Africa region.<sup id="cite_ref-Capuano2011_7-2" class="reference"><a href="#cite_note-Capuano2011-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-Rinaldi2008_17-0" class="reference"><a href="#cite_note-Rinaldi2008-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>Following the development of orally administered azithromycin as a treatment, the WHO has targeted yaws for eradication by 2020.<sup id="cite_ref-WHO2012_18-0" class="reference"><a href="#cite_note-WHO2012-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=7" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Don%27t_show_me_Yaws.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Don%27t_show_me_Yaws.jpg/220px-Don%27t_show_me_Yaws.jpg" width="220" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Don%27t_show_me_Yaws.jpg/330px-Don%27t_show_me_Yaws.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Don%27t_show_me_Yaws.jpg/440px-Don%27t_show_me_Yaws.jpg 2x" data-file-width="800" data-file-height="505" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Don%27t_show_me_Yaws.jpg" class="internal" title="Enlarge"></a></div>
+Page from Surgeon John O'Neill's illustrated journal of diseases on West Coast of Africa, written during his time on HM Gun Boat <i>Decoy</i>. Colour diagrams showing a "typical case of Framboesia or Yaws". Date: 1874</div>
+</div>
+</div>
+<p>Examination of remains of <i><a href="/wiki/Homo_erectus" title="Homo erectus">Homo erectus</a></i> from <a href="/wiki/Kenya" title="Kenya">Kenya</a>, that are about 1.6 million years old, has revealed signs typical of yaws. The genetic analysis of the yaws' causative bacteria — <i>Treponema pallidum pertenue</i> — has led to the conclusion that yaws is the most ancient of the four known <i>Treponema</i> diseases. All other <i>Treponema pallidum</i> subspecies probably evolved from <i>Treponema pallidum pertenue</i>. Yaws is believed to have originated in tropical areas of Africa, and spread to other tropical areas of the world via immigration and the <a href="/wiki/Slave_trade" title="Slave trade" class="mw-redirect">slave trade</a>. The latter is likely the way it was introduced to Europe from Africa in the 15th century. The first unambiguous description of yaws was made by the Dutch physician <a href="/wiki/Willem_Piso" title="Willem Piso">Willem Piso</a>. Yaws was clearly described in 1679 among African slaves by <a href="/wiki/Thomas_Sydenham" title="Thomas Sydenham">Thomas Sydenham</a> in his epistle on venereal diseases, although he thought that it was the same disease as syphilis. The causative agent of yaws was discovered in 1905 by <a href="/wiki/Aldo_Castellani" title="Aldo Castellani">Aldo Castellani</a> in ulcers of patients from <a href="/wiki/Ceylon" title="Ceylon" class="mw-redirect">Ceylon</a>.<sup id="cite_ref-Mit2013_4-9" class="reference"><a href="#cite_note-Mit2013-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The current name is believed to be of <a href="/wiki/Island_Caribs" title="Island Caribs">Carib</a> origin, "yaya" meaning sore.<sup id="cite_ref-MedicineNet_6-1" class="reference"><a href="#cite_note-MedicineNet-6"><span>[</span>6<span>]</span></a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Yaws" class="extiw" title="commons:Category:Yaws">Yaws</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Bolognia-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bolognia_1-0">^</a></b></span> <span class="reference-text"><span class="citation book">Rapini RP; Bolognia JL; Jorizzo JL. (2007). <i>Dermatology: 2-Volume Set</i>. St. Louis: Mosby. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-4160-2999-0" title="Special:BookSources/1-4160-2999-0">1-4160-2999-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.aulast=Rapini+RP%3B+Bolognia+JL%3B+Jorizzo+JL.&amp;rft.au=Rapini+RP%3B+Bolognia+JL%3B+Jorizzo+JL.&amp;rft.btitle=Dermatology%3A+2-Volume+Set&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=1-4160-2999-0&amp;rft.place=St.+Louis&amp;rft.pub=Mosby&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Andrews-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andrews_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">James WD; Berger TG; et al. (2006). <i>Andrews' Diseases of the Skin: clinical Dermatology</i>. Saunders Elsevier. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7216-2921-0" title="Special:BookSources/0-7216-2921-0">0-7216-2921-0</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/62736861">62736861</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.au=James+WD%3B+Berger+TG%3B&amp;rft.aulast=James+WD%3B+Berger+TG%3B&amp;rft.btitle=Andrews%27+Diseases+of+the+Skin%3A+clinical+Dermatology&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F62736861&amp;rft.isbn=0-7216-2921-0&amp;rft.pub=Saunders+Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-Mit2012-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mit2012_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mit2012_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Mitjà O; Hays R; Rinaldi AC; McDermott R; Bassat Q (2012). <a rel="nofollow" class="external text" href="http://cid.oxfordjournals.org/content/55/3/406.long">"New treatment schemes for yaws: the path toward eradication"</a> <span style="font-size:85%;">(PDF)</span>. <i>Clinical Infectious Diseases</i> <b>55</b> (3): 406–412. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fcid%2Fcis444">10.1093/cid/cis444</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22610931">22610931</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=New+treatment+schemes+for+yaws%3A+the+path+toward+eradication&amp;rft.au=Bassat+Q&amp;rft.au=Hays+R&amp;rft.aulast=Mitj%C3%A0+O&amp;rft.au=McDermott+R&amp;rft.au=Mitj%C3%A0+O&amp;rft.au=Rinaldi+AC&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcid.oxfordjournals.org%2Fcontent%2F55%2F3%2F406.long&amp;rft_id=info%3Adoi%2F10.1093%2Fcid%2Fcis444&amp;rft_id=info%3Apmid%2F22610931&amp;rft.issue=3&amp;rft.jtitle=Clinical+Infectious+Diseases&amp;rft.pages=406-412&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=55" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Mit2013-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mit2013_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mit2013_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Mit2013_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Mit2013_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Mit2013_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Mit2013_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Mit2013_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Mit2013_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Mit2013_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Mit2013_4-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Mitjà O; Asiedu K; Mabey D (2013). "Yaws". <i>Lancet</i> <b>381</b> (9868): 763–773. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0140-6736%2812%2962130-8">10.1016/S0140-6736(12)62130-8</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23415015">23415015</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws&amp;rft.au=Asiedu+K&amp;rft.aulast=Mitj%C3%A0+O&amp;rft.au=Mabey+D&amp;rft.au=Mitj%C3%A0+O&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0140-6736%2812%2962130-8&amp;rft_id=info%3Apmid%2F23415015&amp;rft.issue=9868&amp;rft.jtitle=Lancet&amp;rft.pages=763-773&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=381" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WHO2014-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-WHO2014_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WHO2014_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-WHO2014_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-WHO2014_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-WHO2014_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-WHO2014_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-WHO2014_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-WHO2014_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-WHO2014_5-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-WHO2014_5-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-WHO2014_5-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-WHO2014_5-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-WHO2014_5-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-WHO2014_5-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-WHO2014_5-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-WHO2014_5-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-WHO2014_5-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-WHO2014_5-17"><sup><i><b>r</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/factsheets/fs316/en/">"Yaws Fact sheet N°316"</a>. <i>World Health Organization</i>. February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 February</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws++Fact+sheet+N%C2%B0316&amp;rft.date=February+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.who.int%2Fmediacentre%2Ffactsheets%2Ffs316%2Fen%2F&amp;rft.jtitle=World+Health+Organization&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MedicineNet-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-MedicineNet_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MedicineNet_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Davis CP; Stoppler MC. <a rel="nofollow" class="external text" href="http://www.medicinenet.com/yaws/page4.htm">"Yaws"</a>. MedicineNet.com<span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.au=Davis+CP%3B+Stoppler+MC&amp;rft.aulast=Davis+CP%3B+Stoppler+MC&amp;rft.btitle=Yaws&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.medicinenet.com%2Fyaws%2Fpage4.htm&amp;rft.pub=MedicineNet.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Capuano2011-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Capuano2011_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Capuano2011_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Capuano2011_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Capuano, C; Ozaki, M (2011). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3253475/pdf/JTM2011-642832.pdf">"Yaws in the Western Paciﬁc Region: A Review of the Literature"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Tropical Medicine</i> <b>2011</b>: 642832. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1155%2F2011%2F642832">10.1155/2011/642832</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3253475">3253475</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22235208">22235208</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws+in+the+Western+Paci%EF%AC%81c+Region%3A+A+Review+of+the+Literature&amp;rft.au=Capuano%2C+C&amp;rft.aufirst=C&amp;rft.aulast=Capuano&amp;rft.au=Ozaki%2C+M&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3253475%2Fpdf%2FJTM2011-642832.pdf&amp;rft_id=info%3Adoi%2F10.1155%2F2011%2F642832&amp;rft_id=info%3Apmc%2F3253475&amp;rft_id=info%3Apmid%2F22235208&amp;rft.jtitle=Journal+of+Tropical+Medicine&amp;rft.pages=642832&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2011" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Asiedu2008-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Asiedu2008_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Asiedu2008_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Asiedu K; Amouzou, B; Dhariwal, A; Karam, M; Lobo, D; Patnaik, S; Meheus, A (2008). <a rel="nofollow" class="external text" href="http://www.who.int/bulletin/volumes/86/7/08-055608/en/index.html">"Yaws eradication: past efforts and future perspectives"</a>. <i><a href="/wiki/Bulletin_of_the_World_Health_Organisation" title="Bulletin of the World Health Organisation" class="mw-redirect">Bulletin of the World Health Organisation</a></i> <b>86</b> (7): 499–500. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2471%2FBLT.08.055608">10.2471/BLT.08.055608</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2647478">2647478</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18670655">18670655</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-02</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws+eradication%3A+past+efforts+and+future+perspectives&amp;rft.au=Amouzou%2C+B&amp;rft.au=Asiedu+K&amp;rft.au=Dhariwal%2C+A&amp;rft.au=Karam%2C+M&amp;rft.aulast=Asiedu+K&amp;rft.au=Lobo%2C+D&amp;rft.au=Meheus%2C+A&amp;rft.au=Patnaik%2C+S&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.who.int%2Fbulletin%2Fvolumes%2F86%2F7%2F08-055608%2Fen%2Findex.html&amp;rft_id=info%3Adoi%2F10.2471%2FBLT.08.055608&amp;rft_id=info%3Apmc%2F2647478&amp;rft_id=info%3Apmid%2F18670655&amp;rft.issue=7&amp;rft.jtitle=Bulletin+of+the+World+Health+Organisation&amp;rft.pages=499-500&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=86" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Maurice2012-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Maurice2012_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Maurice, J (2012). <a rel="nofollow" class="external text" href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)60581-9/fulltext">"WHO plans new yaws eradication campaign"</a>. <i>The Lancet</i> <b>379</b>: 1377–78. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0140-6736%2812%2960581-9">10.1016/S0140-6736(12)60581-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=WHO+plans+new+yaws+eradication+campaign&amp;rft.aufirst=J&amp;rft.aulast=Maurice&amp;rft.au=Maurice%2C+J&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.thelancet.com%2Fjournals%2Flancet%2Farticle%2FPIIS0140-6736%2812%2960581-9%2Ffulltext&amp;rft_id=info%3Adoi%2F10.1016%2FS0140-6736%2812%2960581-9&amp;rft.jtitle=The+Lancet&amp;rft.pages=1377-78&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=379" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rinaldi2012-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rinaldi2012_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Rinaldi A (2012). <a rel="nofollow" class="external text" href="http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0001837">"Yaws eradication: facing old problems, raising new hopes."</a>. <i><a href="/wiki/PLoS_Neglected_Tropical_Diseases" title="PLoS Neglected Tropical Diseases" class="mw-redirect">PLoS Neglected Tropical Diseases</a></i> <b>6</b> (11): e18372. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1371%2Fjournal.pntd.0001837">10.1371/journal.pntd.0001837</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23209846">23209846</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws+eradication%3A+facing+old+problems%2C+raising+new+hopes.&amp;rft.aulast=Rinaldi+A&amp;rft.au=Rinaldi+A&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.plosntds.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pntd.0001837&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pntd.0001837&amp;rft_id=info%3Apmid%2F23209846&amp;rft.issue=11&amp;rft.jtitle=PLoS+Neglected+Tropical+Diseases&amp;rft.pages=e18372&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.searo.who.int/LinkFiles/Yaws_yaws.pdf">WHO South-East Asia report of an intercountry workshop on Yaws eradication, 2006</a></span></li>
+<li id="cite_note-Akbar2011-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Akbar2011_12-0">^</a></b></span> <span class="reference-text"><span class="citation news">Akbar, S (7 August 2011). <a rel="nofollow" class="external text" href="http://www.asianage.com/health-fitness/another-milestone-india-yaws-eradication-116">"Another milestone for India: Yaws eradication"</a>. <i>The Asian Age</i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Another+milestone+for+India%3A+Yaws+eradication&amp;rft.au=Akbar%2C+S&amp;rft.aufirst=S&amp;rft.aulast=Akbar&amp;rft.date=7+August+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.asianage.com%2Fhealth-fitness%2Fanother-milestone-india-yaws-eradication-116&amp;rft.jtitle=The+Asian+Age&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal"><a rel="nofollow" class="external text" href="http://www.ncdc.gov.in/index3.asp?sslid=330&amp;subsublinkid=304">"Yaws Eradication Programme (YEP)"</a>. NCDC, Dte. General of Health Services, Ministry of Health &amp; Family Welfare, Government of India<span class="reference-accessdate">. Retrieved <span class="nowrap">18 January</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.btitle=Yaws+Eradication+Programme+%28YEP%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ncdc.gov.in%2Findex3.asp%3Fsslid%3D330%26subsublinkid%3D304&amp;rft.pub=NCDC%2C+Dte.+General+of+Health+Services%2C+Ministry+of+Health+%26+Family+Welfare%2C+Government+of+India&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scidev.net/global/disease/news/drug-and-a-syphilis-test-offer-hope-of-yaws-eradication.html">Drug and a syphilis test offer hope of yaws eradication, 2013</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation journal">Mitjà, O; Hays, R; Ipai, A; Penias, M; Paru, R; Fagaho, D; de Lazzari, E; Bassat, Q (Jan 28, 2012). "Single-dose azithromycin versus benzathine benzylpenicillin for treatment of yaws in children in Papua New Guinea: an open-label, non-inferiority, randomised trial.". <i>Lancet</i> <b>379</b> (9813): 342–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0140-6736%2811%2961624-3">10.1016/S0140-6736(11)61624-3</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22240407">22240407</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Single-dose+azithromycin+versus+benzathine+benzylpenicillin+for+treatment+of+yaws+in+children+in+Papua+New+Guinea%3A+an+open-label%2C+non-inferiority%2C+randomised+trial.&amp;rft.aufirst=O&amp;rft.aulast=Mitj%C3%A0&amp;rft.au=Mitj%C3%A0%2C+O&amp;rft.date=Jan+28%2C+2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0140-6736%2811%2961624-3&amp;rft_id=info%3Apmid%2F22240407&amp;rft.issue=9813&amp;rft.jtitle=Lancet&amp;rft.pages=342-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=379" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.who.int/mediacentre/factsheets/fs316/en/">"Yaws"</a>. <i>WHO Fact sheet</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-10-16</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.who.int%2Fmediacentre%2Ffactsheets%2Ffs316%2Fen%2F&amp;rft.jtitle=WHO+Fact+sheet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-Rinaldi2008-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rinaldi2008_17-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Rinaldi A (2008). <a rel="nofollow" class="external text" href="http://www.plosntds.org/article/info%3Adoi%2F10.1371%2Fjournal.pntd.0000275">"Yaws: a second (and maybe last?) chance for eradication."</a>. <i><a href="/wiki/PLoS_Neglected_Tropical_Diseases" title="PLoS Neglected Tropical Diseases" class="mw-redirect">PLoS Neglected Tropical Diseases</a></i> <b>2</b> (8): e275. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1371%2Fjournal.pntd.0000275">10.1371/journal.pntd.0000275</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18846236">18846236</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-03-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Yaws%3A+a+second+%28and+maybe+last%3F%29+chance+for+eradication.&amp;rft.aulast=Rinaldi+A&amp;rft.au=Rinaldi+A&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.plosntds.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pntd.0000275&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pntd.0000275&amp;rft_id=info%3Apmid%2F18846236&amp;rft.issue=8&amp;rft.jtitle=PLoS+Neglected+Tropical+Diseases&amp;rft.pages=e275&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WHO2012-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-WHO2012_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal"><a rel="nofollow" class="external text" href="http://www.who.int/wer/2012/wer8720.pdf?ua=1">"Eradication of yaws – the Morges Strategy."</a> <span style="font-size:85%;">(PDF)</span>. <i>The Weekly Epidemiological Record</i> <b>87</b> (20). 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-05-06</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Eradication+of+yaws+%E2%80%93+the+Morges+Strategy.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.who.int%2Fwer%2F2012%2Fwer8720.pdf%3Fua%3D1&amp;rft.issue=20&amp;rft.jtitle=The+Weekly+Epidemiological+Record&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=87" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Yaws&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=168">"<i>Treponema pallidum subsp. pertenue</i>"</a>. <i>NCBI Taxonomy Browser</i>. 168.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AYaws&amp;rft.atitle=Treponema+pallidum+subsp.+pertenue&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2FTaxonomy%2FBrowser%2Fwwwtax.cgi%3Fmode%3DInfo%26id%3D168&amp;rft.jtitle=NCBI+Taxonomy+Browser&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gram-negative_non-proteobacterial_diseases" title="Template:Gram-negative non-proteobacterial diseases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gram-negative_non-proteobacterial_diseases" title="Template talk:Gram-negative non-proteobacterial diseases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gram-negative_non-proteobacterial_diseases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">
+<ul>
+<li><a href="/wiki/Infection" title="Infection">Infectious diseases</a></li>
+<li><a href="/wiki/Pathogenic_bacteria" title="Pathogenic bacteria">Bacterial diseases</a>: <a href="/wiki/Bergey%27s_Manual_of_Systematic_Bacteriology" title="Bergey's Manual of Systematic Bacteriology">BV4</a> non-<a href="/wiki/Proteobacteria" title="Proteobacteria">proteobacterial</a> <a href="/wiki/Gram-negative_bacterial_infection" title="Gram-negative bacterial infection">G-</a> (primarily <a href="/wiki/ICD-10_Chapter_I:_Certain_infectious_and_parasitic_diseases#A00.E2.80.93A79_.E2.80.93_Bacterial_infections.2C_and_other_intestinal_infectious_diseases.2C_and_STDs" title="ICD-10 Chapter I: Certain infectious and parasitic diseases">A00–A79</a>, <a href="/wiki/List_of_ICD-9_codes_001%E2%80%93139:_infectious_and_parasitic_diseases#1._Infectious_and_parasitic_diseases_.28001.E2.80.93139.29" title="List of ICD-9 codes 001–139: infectious and parasitic diseases">001–041, 080–109</a>)</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirochaete" title="Spirochaete">Spirochaete</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirochaetaceae" title="Spirochaetaceae">Spirochaetaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Treponema" title="Treponema">Treponema</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Treponema_pallidum" title="Treponema pallidum">Treponema pallidum</a></i>
+<ul>
+<li><a href="/wiki/Syphilis" title="Syphilis">Syphilis</a>/<a href="/wiki/Nonvenereal_endemic_syphilis" title="Nonvenereal endemic syphilis">bejel</a></li>
+<li><strong class="selflink">Yaws</strong></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Treponema_carateum" title="Treponema carateum">Treponema carateum</a></i> (<a href="/wiki/Pinta_(disease)" title="Pinta (disease)">Pinta</a>)</li>
+<li><i><a href="/wiki/Treponema_denticola" title="Treponema denticola">Treponema denticola</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Borrelia" title="Borrelia">Borrelia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Borrelia_burgdorferi" title="Borrelia burgdorferi">Borrelia burgdorferi</a></i>/<i><a href="/wiki/Borrelia_afzelii" title="Borrelia afzelii">Borrelia afzelii</a></i>
+<ul>
+<li><a href="/wiki/Lyme_disease" title="Lyme disease">Lyme disease</a></li>
+<li><a href="/wiki/Erythema_chronicum_migrans" title="Erythema chronicum migrans">Erythema chronicum migrans</a></li>
+<li><a href="/wiki/Neuroborreliosis" title="Neuroborreliosis">Neuroborreliosis</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Borrelia_recurrentis" title="Borrelia recurrentis">Borrelia recurrentis</a></i> (<a href="/wiki/Relapsing_fever#Louse-borne_relapsing_fever" title="Relapsing fever">Louse borne relapsing fever</a>)</li>
+<li><i><a href="/wiki/Borrelia_hermsii" title="Borrelia hermsii">Borrelia hermsii</a></i>/<i><a href="/wiki/Borrelia_duttoni" title="Borrelia duttoni">Borrelia duttoni</a></i>/<i><a href="/wiki/Borrelia_parkeri" title="Borrelia parkeri">Borrelia parkeri</a></i> (<a href="/wiki/Relapsing_fever#Tick-borne_relapsing_fever" title="Relapsing fever">Tick borne relapsing fever</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leptospiraceae" title="Leptospiraceae">Leptospiraceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leptospira" title="Leptospira">Leptospira</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Leptospira_interrogans" title="Leptospira interrogans">Leptospira interrogans</a></i> (<a href="/wiki/Leptospirosis" title="Leptospirosis">Leptospirosis</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirillaceae" title="Spirillaceae">Spirillaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirillum" title="Spirillum">Spirillum</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Spirillum_minus" title="Spirillum minus">Spirillum minus</a></i> (<a href="/wiki/Rat-bite_fever" title="Rat-bite fever">Rat-bite fever</a>/<a href="/wiki/Sodoku" title="Sodoku">Sodoku</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chlamydiaceae" title="Chlamydiaceae">Chlamydiaceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chlamydophila" title="Chlamydophila">Chlamydophila</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Chlamydophila_psittaci" title="Chlamydophila psittaci">Chlamydophila psittaci</a></i> (<a href="/wiki/Psittacosis" title="Psittacosis">Psittacosis</a>)</li>
+<li><i><a href="/wiki/Chlamydophila_pneumoniae" title="Chlamydophila pneumoniae">Chlamydophila pneumoniae</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chlamydia_(genus)" title="Chlamydia (genus)">Chlamydia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Chlamydia_trachomatis" title="Chlamydia trachomatis">Chlamydia trachomatis</a></i>
+<ul>
+<li><a href="/wiki/Chlamydia_infection" title="Chlamydia infection">Chlamydia</a></li>
+<li><a href="/wiki/Lymphogranuloma_venereum" title="Lymphogranuloma venereum">Lymphogranuloma venereum</a></li>
+<li><a href="/wiki/Trachoma" title="Trachoma">Trachoma</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bacteroidetes" title="Bacteroidetes">Bacteroidetes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Bacteroides_fragilis" title="Bacteroides fragilis">Bacteroides fragilis</a></i></li>
+<li><i><a href="/wiki/Tannerella_forsythia" title="Tannerella forsythia">Tannerella forsythia</a></i></li>
+<li><i><a href="/wiki/Capnocytophaga_canimorsus" title="Capnocytophaga canimorsus">Capnocytophaga canimorsus</a></i></li>
+<li><i><a href="/wiki/Porphyromonas_gingivalis" title="Porphyromonas gingivalis">Porphyromonas gingivalis</a></i></li>
+<li><i><a href="/wiki/Prevotella_intermedia" title="Prevotella intermedia">Prevotella intermedia</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Fusobacteria" title="Fusobacteria">Fusobacteria</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Fusobacterium_necrophorum" title="Fusobacterium necrophorum">Fusobacterium necrophorum</a></i> (<a href="/wiki/Lemierre%27s_syndrome" title="Lemierre's syndrome">Lemierre's syndrome</a>)</li>
+<li><i><a href="/wiki/Fusobacterium_nucleatum" title="Fusobacterium nucleatum">Fusobacterium nucleatum</a></i></li>
+<li><i><a href="/wiki/Fusobacterium_polymorphum" title="Fusobacterium polymorphum">Fusobacterium polymorphum</a></i></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Streptobacillus_moniliformis" title="Streptobacillus moniliformis">Streptobacillus moniliformis</a></i> (<a href="/wiki/Rat-bite_fever" title="Rat-bite fever">Rat-bite fever</a>/<a href="/wiki/Haverhill_fever" title="Haverhill fever">Haverhill fever</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bacteria_navs" title="Template:Bacteria navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bacteria_navs" title="Template talk:Bacteria navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bacteria_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Pathogenic_bacteria" title="Pathogenic bacteria">bacterial disease</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bacteria" title="Template:Bacteria">Bacteria</a>
+<ul>
+<li><a href="/wiki/Template:Bacteria_classification" title="Template:Bacteria classification">classification</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Growth_media" title="Template:Growth media">Growth media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Gram-positive_firmicutes_diseases" title="Template:Gram-positive firmicutes diseases">Gram-positive firmicutes</a></li>
+<li><a href="/wiki/Template:Gram-positive_actinobacteria_diseases" title="Template:Gram-positive actinobacteria diseases">Gram-positive actinobacteria</a></li>
+<li><a href="/wiki/Template:Gram-negative_proteobacterial_diseases" title="Template:Gram-negative proteobacterial diseases">Gram-negative proteobacteria</a></li>
+<li><a href="/wiki/Template:Gram-negative_non-proteobacterial_diseases" title="Template:Gram-negative non-proteobacterial diseases">Gram-negative non-proteobacteria</a></li>
+<li><a href="/wiki/Template:Cholera" title="Template:Cholera">Cholera</a></li>
+<li><a href="/wiki/Template:Tuberculosis" title="Template:Tuberculosis">Tuberculosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Antibiotics
+<ul>
+<li><a href="/wiki/Template:Cell_wall_disruptive_antibiotics" title="Template:Cell wall disruptive antibiotics">cell wall</a></li>
+<li><a href="/wiki/Template:Nucleic_acid_inhibitors" title="Template:Nucleic acid inhibitors">nucleic acid</a></li>
+<li><a href="/wiki/Template:Antimycobacterials" title="Template:Antimycobacterials">mycobacteria</a></li>
+<li><a href="/wiki/Template:Protein_synthesis_inhibitor_antibiotics" title="Template:Protein synthesis inhibitor antibiotics">protein synthesis</a></li>
+<li><a href="/wiki/Template:Other_antibacterials" title="Template:Other antibacterials">other</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Immune_sera_and_immunoglobulins" title="Template:Immune sera and immunoglobulins">Antibodies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00563687">00563687</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1080
+CPU time usage: 0.478 seconds
+Real time usage: 0.591 seconds
+Preprocessor visited node count: 1979/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 86966/2097152 bytes
+Template argument size: 539/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Lua time usage: 0.163/10.000 seconds
+Lua memory usage: 3.21 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  456.437      1 - -total
+ 35.51%  162.089      1 - Template:Reflist
+ 19.57%   89.340      7 - Template:Navbox
+ 16.12%   73.586      1 - Template:Infobox_disease
+ 13.63%   62.203      1 - Template:Infobox
+ 13.33%   60.842      1 - Template:Gram-negative_non-proteobacterial_bacterial_diseases
+ 10.75%   49.053     10 - Template:Cite_journal
+  7.92%   36.142      2 - Template:Cite_book
+  7.27%   33.164      1 - Template:Other_uses
+  6.63%   30.281      1 - Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:301373-0!*!0!!en!4!* and timestamp 20150704215316 and revision id 668072391
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Yaws&amp;oldid=668072391">https://en.wikipedia.org/w/index.php?title=Yaws&amp;oldid=668072391</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bacterium-related_cutaneous_conditions" title="Category:Bacterium-related cutaneous conditions">Bacterium-related cutaneous conditions</a></li><li><a href="/wiki/Category:Syphilis" title="Category:Syphilis">Syphilis</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yaws&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Yaws" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Yaws"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Yaws"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Yaws" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Yaws&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Yaws&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Yaws" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Yaws" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Yaws&amp;oldid=668072391" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Yaws&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q76973" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Yaws&amp;id=668072391" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Yaws">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Yaws&amp;oldid=668072391&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Yaws&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D9%82%D9%8A_(%D9%8A%D8%A7%D9%88%D8%B3)" title="الداء العليقي (ياوس) – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Pian" title="Pian – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Framb%C3%A9zie" title="Frambézie – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Framb%C3%B6sie" title="Frambösie – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Pian_(enfermedad)" title="Pian (enfermedad) – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DB%8C%D8%A7%D8%B2" title="یاز – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pian_(m%C3%A9decine)" title="Pian (médecine) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Fraimis" title="Fraimis – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Framboesia" title="Framboesia – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-jv"><a href="//jv.wikipedia.org/wiki/Path%C3%A8k" title="Pathèk – Javanese" lang="jv" hreflang="jv">Basa Jawa</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AF%E0%B5%8B%E0%B4%B8%E0%B5%8D" title="യോസ് – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Framboesia" title="Framboesia – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%99%E3%82%B8%E3%82%A2" title="フランベジア – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-or"><a href="//or.wikipedia.org/wiki/%E0%AD%9F%E0%AC%9C" title="ୟଜ – Oriya" lang="or" hreflang="or">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Malinica" title="Malinica – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Bouba" title="Bouba – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Yaws" title="Yaws – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Frambezija" title="Frambezija – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Framboesi" title="Framboesi – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%84%E0%B8%B8%E0%B8%94%E0%B8%97%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%94" title="โรคคุดทะราด – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Frambezi" title="Frambezi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/B%E1%BB%87nh_gh%E1%BA%BB_c%C3%B3c" title="Bệnh ghẻ cóc – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q76973#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 22 June 2015, at 06:56.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Yaws&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1064"});
+}</script>
+	</body>
+</html>

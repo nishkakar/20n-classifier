@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Hadamard code - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hadamard_code" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hadamard_code&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hadamard_code&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Hadamard_code" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hadamard_code" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hadamard_code","wgTitle":"Hadamard code","wgCurRevisionId":669790760,"wgRevisionId":669790760,"wgArticleId":7428961,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2015","Coding theory","Error detection and correction"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hadamard_code","wgRelevantArticleId":7428961,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Multigrade_operator_XOR.svg/100px-Multigrade_operator_XOR.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1567339"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Hadamard_code skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Hadamard code</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Hadamard code</th>
+</tr>
+<tr>
+<th scope="row" style="width:50%;">Named after</th>
+<td><a href="/wiki/Jacques_Hadamard" title="Jacques Hadamard">Jacques Hadamard</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ccf;">Classification</th>
+</tr>
+<tr>
+<th scope="row" style="width:50%;">Type</th>
+<td><a href="/wiki/Linear_code" title="Linear code">Linear</a> <a href="/wiki/Block_code" title="Block code">block code</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ccf;">Parameters</th>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_block_length_n" title="Block code">Block length</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="n=2^k" src="//upload.wikimedia.org/math/3/7/b/37b2ba6de790e54418c5aae90321e3cf.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_message_length_k" title="Block code">Message length</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_rate_R" title="Block code">Rate</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="k/2^k" src="//upload.wikimedia.org/math/c/7/0/c709ccc9ee49e1972498881fdbac26d1.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_distance_d" title="Block code">Distance</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="d=2^{k-1}" src="//upload.wikimedia.org/math/0/1/c/01cc57343ac577d784f7b256617c9652.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_alphabet_.CE.A3" title="Block code">Alphabet size</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="2" src="//upload.wikimedia.org/math/c/8/1/c81e728d9d4c2f636f067f89cc14862c.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#Popular_notation" title="Block code">Notation</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="[2^{k},k,2^{k-1}]_2" src="//upload.wikimedia.org/math/d/8/9/d89da8278007faeb4984bd3b942691e2.png" />-code</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:right">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Infobox_code" title="Template:Infobox code"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Infobox_code" title="Template talk:Infobox code"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Infobox_code&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Punctured Hadamard code</th>
+</tr>
+<tr>
+<th scope="row" style="width:50%;">Named after</th>
+<td><a href="/wiki/Jacques_Hadamard" title="Jacques Hadamard">Jacques Hadamard</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ccf;">Classification</th>
+</tr>
+<tr>
+<th scope="row" style="width:50%;">Type</th>
+<td><a href="/wiki/Linear_code" title="Linear code">Linear</a> <a href="/wiki/Block_code" title="Block code">block code</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#ccf;">Parameters</th>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_block_length_n" title="Block code">Block length</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="n=2^{k-1}" src="//upload.wikimedia.org/math/7/a/1/7a1d54c88bd40b43818eb235d28bdfd4.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_message_length_k" title="Block code">Message length</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_rate_R" title="Block code">Rate</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="k/2^{k-1}" src="//upload.wikimedia.org/math/8/3/4/834ab0f516b631f08e7862dc7556249f.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_distance_d" title="Block code">Distance</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="d=2^{k-2}" src="//upload.wikimedia.org/math/c/0/0/c0098e0bbf7439f69a3433fa112b544d.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#The_alphabet_.CE.A3" title="Block code">Alphabet size</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="2" src="//upload.wikimedia.org/math/c/8/1/c81e728d9d4c2f636f067f89cc14862c.png" /></td>
+</tr>
+<tr>
+<th scope="row" style="width:50%;"><a href="/wiki/Block_code#Popular_notation" title="Block code">Notation</a></th>
+<td><img class="mwe-math-fallback-image-inline tex" alt="[2^{k-1},k,2^{k-2}]_2" src="//upload.wikimedia.org/math/f/1/5/f153cb2c853fff3049a330b1adccdd11.png" />-code</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:right">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Infobox_code" title="Template:Infobox code"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Infobox_code" title="Template talk:Infobox code"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Infobox_code&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Hadamard-Code.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamard-Code.svg/250px-Hadamard-Code.svg.png" width="250" height="500" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamard-Code.svg/375px-Hadamard-Code.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamard-Code.svg/500px-Hadamard-Code.svg.png 2x" data-file-width="32" data-file-height="64" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hadamard-Code.svg" class="internal" title="Enlarge"></a></div>
+Matrix of the Hadamard code (32, 6, 16) for the <a href="/wiki/Reed-Muller_Code" title="Reed-Muller Code" class="mw-redirect">Reed-Muller Code</a> (1, 5) of the NASA space probe <a href="/wiki/Mariner_9" title="Mariner 9">Mariner 9</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a href="/wiki/File:Multigrade_operator_XOR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Multigrade_operator_XOR.svg/250px-Multigrade_operator_XOR.svg.png" width="250" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Multigrade_operator_XOR.svg/375px-Multigrade_operator_XOR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Multigrade_operator_XOR.svg/500px-Multigrade_operator_XOR.svg.png 2x" data-file-width="361" data-file-height="291" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Multigrade_operator_XOR.svg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Exclusive_or" title="Exclusive or">XOR</a> operations<br />
+Here the white fields stand for 0<br />
+and the red fields for 1</div>
+</div>
+</div>
+<p>The <b>Hadamard code</b> is an <a href="/wiki/Error-correcting_code" title="Error-correcting code" class="mw-redirect">error-correcting code</a> that is used for <a href="/wiki/Error_detection_and_correction" title="Error detection and correction">error detection and correction</a> when transmitting messages over very noisy or unreliable channels. In 1971, the code was used to transmit photos of Mars back to Earth from the NASA space probe <a href="/wiki/Mariner_9" title="Mariner 9">Mariner 9</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2015)">citation needed</span></a></i>]</sup> Because of its unique mathematical properties, the Hadamard code is not only used by engineers, but also intensely studied in <a href="/wiki/Coding_theory" title="Coding theory">coding theory</a>, <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, and <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a>. The Hadamard code is named after the French mathematician <a href="/wiki/Jacques_Hadamard" title="Jacques Hadamard">Jacques Hadamard</a>. It also known under the names <b>Walsh code</b>, <b>Walsh family</b>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> and <b>Walsh–Hadamard code</b><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> in recognition of the American mathematician <a href="/wiki/Joseph_Leonard_Walsh" title="Joseph Leonard Walsh" class="mw-redirect">Joseph Leonard Walsh</a>.</p>
+<p>The Hadamard code is an example of a <a href="/wiki/Linear_code" title="Linear code">linear code</a> over a <a href="/wiki/Binary_set" title="Binary set" class="mw-redirect">binary alphabet</a> that maps messages of length <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" /> to codewords of length <img class="mwe-math-fallback-image-inline tex" alt="2^k" src="//upload.wikimedia.org/math/b/3/4/b340d3e11a01b97cc9a572c939977fa5.png" />. It is unique in that each non-zero codeword has a <a href="/wiki/Hamming_weight" title="Hamming weight">Hamming weight</a> of exactly <img class="mwe-math-fallback-image-inline tex" alt="2^k/2" src="//upload.wikimedia.org/math/6/b/a/6baa015b0b0c3de45bb350607fd9e2c4.png" />, which implies that the <a href="/wiki/Block_code#The_distance_d" title="Block code">distance</a> of the code is also <img class="mwe-math-fallback-image-inline tex" alt="2^k/2" src="//upload.wikimedia.org/math/6/b/a/6baa015b0b0c3de45bb350607fd9e2c4.png" />. In standard <a href="/wiki/Block_code#Popular_notation" title="Block code">coding theory notation</a> for <a href="/wiki/Block_code" title="Block code">block codes</a>, the Hadamard code is a <img class="mwe-math-fallback-image-inline tex" alt="[2^k,k,2^k/2]_2" src="//upload.wikimedia.org/math/1/7/8/17850df4ab68a0d545326a297516cf92.png" />-code, that is, it is a <a href="/wiki/Linear_code" title="Linear code">linear code</a> over a <a href="/wiki/Binary_set" title="Binary set" class="mw-redirect">binary alphabet</a>, has <a href="/wiki/Block_code#The_block_length_n" title="Block code">block length</a> <img class="mwe-math-fallback-image-inline tex" alt="2^k" src="//upload.wikimedia.org/math/b/3/4/b340d3e11a01b97cc9a572c939977fa5.png" />, <a href="/wiki/Block_code#The_message_length_k" title="Block code">message length</a> (or dimension) <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" />, and <a href="/wiki/Block_code#The_distance_d" title="Block code">minimum distance</a> <img class="mwe-math-fallback-image-inline tex" alt="2^k/2" src="//upload.wikimedia.org/math/6/b/a/6baa015b0b0c3de45bb350607fd9e2c4.png" />. The block length is very large compared to the message length, but on the other hand, errors can be corrected even in extremely noisy conditions. The <b>punctured Hadamard code</b> is a slightly improved version of the Hadamard code; it is a <img class="mwe-math-fallback-image-inline tex" alt="[2^{k-1},k,2^{k-2}]_2" src="//upload.wikimedia.org/math/f/1/5/f153cb2c853fff3049a330b1adccdd11.png" />-code and thus has a slightly better <a href="/wiki/Block_code#The_rate_R" title="Block code">rate</a> while maintaining the relative distance of <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" />, and is thus preferred in practical applications. The punctured Hadamard code is the same as the first order <a href="/wiki/Reed%E2%80%93Muller_code" title="Reed–Muller code">Reed–Muller code</a> over the binary alphabet.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Normally, Hadamard codes are based on <a href="/wiki/Hadamard_matrix#Sylvester.27s_construction" title="Hadamard matrix">Sylvester's construction of Hadamard matrices</a>, but the term “Hadamard code” is also used to refer to codes constructed from arbitrary <a href="/wiki/Hadamard_matrix" title="Hadamard matrix">Hadamard matrices</a>, which are not necessarily of Sylvester type. In general, such a code is not linear. Such codes were first constructed by <a href="/wiki/R._C._Bose" title="R. C. Bose" class="mw-redirect">R. C. Bose</a> and <a href="/wiki/Sharadchandra_Shankar_Shrikhande" title="Sharadchandra Shankar Shrikhande">S. S. Shrikhande</a> in 1959.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> If <i>n</i> is the size of the Hadamard matrix, the code has parameters <img class="mwe-math-fallback-image-inline tex" alt="(n,2n,n/2)_2" src="//upload.wikimedia.org/math/5/a/b/5ab3d780bbe76ec7d20caec2cf6e1dc1.png" />, meaning it is a not-necessarily-linear binary code with 2<i>n</i> codewords of block length <i>n</i> and minimal distance <i>n</i>/2. The construction and decoding scheme described below apply for general <i>n</i>, but the property of linearity and the identification with Reed–Muller codes require that <i>n</i> be a power of 2 and that the Hadamard matrix be equivalent to the matrix constructed by Sylvester's method.</p>
+<p>The Hadamard code is a <a href="/wiki/Locally_decodable" title="Locally decodable" class="mw-redirect">locally decodable</a> code, which provides a way to recover parts of the original message with high probability, while only looking at a small fraction of the received word. This gives rise to applications in <a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity theory</a> and particularly in the design of <a href="/wiki/Probabilistically_checkable_proofs" title="Probabilistically checkable proofs" class="mw-redirect">probabilistically checkable proofs</a>. Since the relative distance of the Hadamard code is 1/2, normally one can only hope to recover from at most a 1/4 fraction of error. Using <a href="/wiki/List_decoding" title="List decoding">list decoding</a>, however, it is possible to compute a short list of possible candidate messages as long as fewer than <img class="mwe-math-fallback-image-inline tex" alt="\frac{1}{2}-\epsilon" src="//upload.wikimedia.org/math/7/8/3/7833c52049e75d23787eb7e51872b651.png" /> of the bits in the received word have been corrupted.</p>
+<p>In <a href="/wiki/Code_division_multiple_access" title="Code division multiple access">code division multiple access</a> (CDMA) communication, the Hadamard code is referred to as Walsh Code, and is used to define individual <a href="/wiki/Telecommunications" title="Telecommunications" class="mw-redirect">communication</a> <a href="/wiki/Channel_(communications)" title="Channel (communications)">channels</a>. It is usual in the CDMA literature to refer to codewords as “codes”. Each user will use a different codeword, or “code”, to modulate their signal. Because Walsh codewords are mathematically <a href="/wiki/Orthogonal" title="Orthogonal" class="mw-redirect">orthogonal</a>, a Walsh-encoded signal appears as <a href="/wiki/Random_noise" title="Random noise" class="mw-redirect">random noise</a> to a CDMA capable mobile <a href="/wiki/Terminal_(telecommunication)" title="Terminal (telecommunication)">terminal</a>, unless that terminal uses the same codeword as the one used to encode the incoming <a href="/wiki/Signal_(information_theory)" title="Signal (information theory)" class="mw-redirect">signal</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Constructions"><span class="tocnumber">2</span> <span class="toctext">Constructions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Construction_using_inner_products"><span class="tocnumber">2.1</span> <span class="toctext">Construction using inner products</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Construction_using_a_generator_matrix"><span class="tocnumber">2.2</span> <span class="toctext">Construction using a generator matrix</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Construction_using_general_Hadamard_matrices"><span class="tocnumber">2.3</span> <span class="toctext">Construction using general Hadamard matrices</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Distance"><span class="tocnumber">3</span> <span class="toctext">Distance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Local_decodability"><span class="tocnumber">4</span> <span class="toctext">Local decodability</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Proof_of_lemma_1"><span class="tocnumber">4.1</span> <span class="toctext">Proof of lemma 1</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Proof_of_theorem_1"><span class="tocnumber">4.2</span> <span class="toctext">Proof of theorem 1</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Algorithm"><span class="tocnumber">4.2.1</span> <span class="toctext">Algorithm</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Proof_of_correctness"><span class="tocnumber">4.2.2</span> <span class="toctext">Proof of correctness</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Optimality"><span class="tocnumber">5</span> <span class="toctext">Optimality</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Hadamard code</i> is the name that is most commonly used for this code in the literature. <a href="/wiki/Jacques_Hadamard" title="Jacques Hadamard">Jacques Hadamard</a> did not invent the code himself, but he defined <a href="/wiki/Hadamard_matrix" title="Hadamard matrix">Hadamard matrices</a> around 1893, long before the first <a href="/wiki/Error-correcting_code" title="Error-correcting code" class="mw-redirect">error-correcting code</a>, the <a href="/wiki/Hamming_code" title="Hamming code">Hamming code</a>, was developed in the 1940s. The Hadamard code is based on Hadamard matrices, and while there are many different Hadamard matrices that could be used here, normally only <a href="/wiki/Hadamard_matrix#Sylvester.27s_construction" title="Hadamard matrix">Sylvester's construction of Hadamard matrices</a> is used to obtain the codewords of the Hadamard code. <a href="/wiki/James_Joseph_Sylvester" title="James Joseph Sylvester">James Joseph Sylvester</a> developed his construction of Hadamard matrices in 1867, which actually predates Hadamard's work on Hadamard matrices. Hence the name <i>Hadamard code</i> is not undisputed and sometimes the code is called <i>Walsh code</i>, honoring the American mathematician <a href="/wiki/Joseph_Leonard_Walsh" title="Joseph Leonard Walsh" class="mw-redirect">Joseph Leonard Walsh</a>.</p>
+<p>A Hadamard code was used during the 1971 <a href="/wiki/Mariner_9" title="Mariner 9">Mariner 9</a> mission to correct for picture transmission errors. The data words used during this mission were 6 bits long, which represented 64 <a href="/wiki/Grayscale" title="Grayscale">grayscale</a> values. Because of limitations of the quality of the alignment of the transmitter the maximum useful data length was about 30 bits. Instead of using a <a href="/wiki/Repetition_code" title="Repetition code">repetition code</a>, a [32, 6, 16] Hadamard code was used. Errors of up to 7 bits per word could be corrected using this scheme. Compared to a 5-<a href="/wiki/Repetition_code" title="Repetition code">repetition code</a>, the error correcting properties of this Hadamard code are much better, yet its rate is comparable. The efficient decoding algorithm was an important factor in the decision to use this code. The circuitry used was called the "Green Machine". It employed the <a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">fast Fourier transform</a> which can increase the decoding speed by a factor of three. Since the 1990s use of this code by space programs has more or less ceased, and the Deep Space Network does not support this error correction scheme for its dishes that are greater than 26&#160;m.</p>
+<h2><span class="mw-headline" id="Constructions">Constructions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=2" title="Edit section: Constructions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While all Hadamard codes are based on Hadamard matrices, the constructions differ in subtle ways for different scientific fields, authors, and uses. Engineers, who use the codes for data transmission, and <a href="/wiki/Coding_theory" title="Coding theory">coding theorists</a>, who analyze extremal properties of codes, typically want the <a href="/wiki/Block_code#The_rate_R" title="Block code">rate</a> of the code to be as high as possible, even if this means that the construction becomes mathematically slightly less elegant. On the other hand, for many applications of Hadamard codes in <a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a> it is not so important to achieve the optimal rate, and hence simpler constructions of Hadamard codes are preferred since they can be analyzed more elegantly.</p>
+<h3><span class="mw-headline" id="Construction_using_inner_products">Construction using inner products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=3" title="Edit section: Construction using inner products">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When given a binary message <img class="mwe-math-fallback-image-inline tex" alt="x\in\{0,1\}^k" src="//upload.wikimedia.org/math/e/6/f/e6f502543c433139b2928434740da6a5.png" /> of length <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" />, the Hadamard code encodes the message into a codeword <img class="mwe-math-fallback-image-inline tex" alt="\text{Had}(x)" src="//upload.wikimedia.org/math/0/b/6/0b647ac0c09f043cf35b2c969685e224.png" /> using an encoding function <img class="mwe-math-fallback-image-inline tex" alt="\text{Had} : \{0,1\}^k\to\{0,1\}^{2^k}" src="//upload.wikimedia.org/math/2/0/d/20d9e6c4a88d6a2925f0399c248f425e.png" />. This function makes use of the <a href="/wiki/Inner_product" title="Inner product" class="mw-redirect">inner product</a> <img class="mwe-math-fallback-image-inline tex" alt="\langle x , y \rangle" src="//upload.wikimedia.org/math/f/d/c/fdca0bfccc74afcea2729558a4dd8a96.png" /> of two vectors <img class="mwe-math-fallback-image-inline tex" alt="x,y\in\{0,1\}^k" src="//upload.wikimedia.org/math/2/3/4/234081811307cb660da9cc8172e4a1dc.png" />, which is defined as follows:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\langle x , y \rangle = \sum_{i=1}^{k} x_i y_i\ \bmod\ 2\,." src="//upload.wikimedia.org/math/a/0/4/a04c3219eb099c4832d5219ad2625e73.png" /></dd>
+</dl>
+<p>Then the Hadamard encoding of <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> is defined as the sequence of <i>all</i> inner products with <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\text{Had}(x) = \Big(\langle x , y \rangle\Big)_{y\in\{0,1\}^k}" src="//upload.wikimedia.org/math/3/c/9/3c90ef0a8e81dbf79fe9278d12987a35.png" /></dd>
+</dl>
+<p>As mentioned above, the <i>punctured</i> Hadamard code is used in practice since the Hadamard code itself is somewhat wasteful. This is because, if the first bit of <img class="mwe-math-fallback-image-inline tex" alt="y" src="//upload.wikimedia.org/math/4/1/5/415290769594460e2e485922904f345d.png" /> is zero, <img class="mwe-math-fallback-image-inline tex" alt="y_1=0" src="//upload.wikimedia.org/math/e/0/4/e04030269ca145a61f558c94b001c918.png" />, then the inner product contains no information whatsoever about <img class="mwe-math-fallback-image-inline tex" alt="x_1" src="//upload.wikimedia.org/math/f/9/a/f9a3b8e9e501458e8face47cae8826de.png" />, and hence, it is impossible to fully decode <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> from those positions of the codeword alone. On the other hand, when the codeword is restricted to the positions where <img class="mwe-math-fallback-image-inline tex" alt="y_1=1" src="//upload.wikimedia.org/math/2/a/0/2a0a29c2a0153ae5122300ca7970edd5.png" />, it is still possible to fully decode <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />. Hence it makes sense to restrict the Hadamard code to these positions, which gives rise to the <i>punctured</i> Hadamard encoding of <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />; that is, <img class="mwe-math-fallback-image-inline tex" alt="\text{pHad}(x) = \Big(\langle x , y \rangle\Big)_{y\in\{1\}\times\{0,1\}^{k-1}}" src="//upload.wikimedia.org/math/6/c/a/6caf96acbb6dc922c481fc705351ba6a.png" />.</p>
+<h3><span class="mw-headline" id="Construction_using_a_generator_matrix">Construction using a generator matrix</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=4" title="Edit section: Construction using a generator matrix">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Hadamard code is a linear code, and all linear codes can be generated by a generator matrix <img class="mwe-math-fallback-image-inline tex" alt="G" src="//upload.wikimedia.org/math/d/f/c/dfcf28d0734569a6a693bc8194de62bf.png" />. This is a matrix such that <img class="mwe-math-fallback-image-inline tex" alt="\text{Had}(x)= x\cdot G" src="//upload.wikimedia.org/math/b/4/1/b416d1db0742abcb1a88595c1d199c49.png" /> holds for all <img class="mwe-math-fallback-image-inline tex" alt="x\in\{0,1\}^k" src="//upload.wikimedia.org/math/e/6/f/e6f502543c433139b2928434740da6a5.png" />, where the message <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> is viewed as a row vector and the vector-matrix product is understood in the <a href="/wiki/Vector_space" title="Vector space">vector space</a> over the <a href="/wiki/Finite_field" title="Finite field">finite field</a> <img class="mwe-math-fallback-image-inline tex" alt="\mathbb F_2" src="//upload.wikimedia.org/math/6/c/4/6c4caf84a20bc476562c698cbad47b2a.png" />. In particular, an equivalent way to write the inner product definition for the Hadamard code arises by using the generator matrix whose columns consist of <i>all</i> strings <img class="mwe-math-fallback-image-inline tex" alt="y" src="//upload.wikimedia.org/math/4/1/5/415290769594460e2e485922904f345d.png" /> of length <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" />, that is,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="G = 
+\begin{pmatrix}
+\uparrow &amp; \uparrow &amp; &amp; \uparrow\\ 
+y_1 &amp; y_2 &amp; \dots &amp; y_{2^k} \\ 
+\downarrow &amp; \downarrow &amp; &amp; \downarrow
+\end{pmatrix}\,." src="//upload.wikimedia.org/math/8/3/c/83c620455082d23ad1b8bdef450e2215.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="y_i \in \{0,1\}^k" src="//upload.wikimedia.org/math/0/e/a/0ea6a0e0cf2c6d55dc2222ec07a26787.png" /> is the <img class="mwe-math-fallback-image-inline tex" alt="i" src="//upload.wikimedia.org/math/8/6/5/865c0c0b4ab0e063e5caa3387c1a8741.png" />-th binary vector in <a href="/wiki/Lexicographical_order" title="Lexicographical order">lexicographical order</a>. For example, the generator matrix for the Hadamard code of dimension <img class="mwe-math-fallback-image-inline tex" alt="k=3" src="//upload.wikimedia.org/math/9/d/8/9d8980d95018cffda6b0d77684ba1523.png" /> is:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+G = 
+\begin{bmatrix}
+0 &amp; 0 &amp; 0 &amp; 0 &amp; 1 &amp; 1 &amp; 1 &amp; 1\\ 
+0 &amp; 0 &amp; 1 &amp; 1 &amp; 0 &amp; 0 &amp; 1 &amp; 1\\ 
+0 &amp; 1 &amp; 0 &amp; 1 &amp; 0 &amp; 1 &amp; 0 &amp; 1 
+\end{bmatrix}.
+" src="//upload.wikimedia.org/math/5/f/a/5fa11597b3a4c83b69d25b151056e6e8.png" /></dd>
+</dl>
+<p>The matrix <img class="mwe-math-fallback-image-inline tex" alt="G" src="//upload.wikimedia.org/math/d/f/c/dfcf28d0734569a6a693bc8194de62bf.png" /> is a <img class="mwe-math-fallback-image-inline tex" alt="(k\times 2^k)" src="//upload.wikimedia.org/math/4/3/d/43ded914b1add30d94db899079b4ce18.png" />-matrix and gives rise to the <a href="/wiki/Linear_operator" title="Linear operator" class="mw-redirect">linear operator</a> <img class="mwe-math-fallback-image-inline tex" alt="\text{Had}:\{0,1\}^k\to\{0,1\}^{2^k}" src="//upload.wikimedia.org/math/2/0/d/20d9e6c4a88d6a2925f0399c248f425e.png" />.</p>
+<p>The generator matrix of the <i>punctured</i> Hadamard code is obtained by restricting the matrix <img class="mwe-math-fallback-image-inline tex" alt="G" src="//upload.wikimedia.org/math/d/f/c/dfcf28d0734569a6a693bc8194de62bf.png" /> to the columns whose first entry is one. For example, the generator matrix for the punctured Hadamard code of dimension <img class="mwe-math-fallback-image-inline tex" alt="k=3" src="//upload.wikimedia.org/math/9/d/8/9d8980d95018cffda6b0d77684ba1523.png" /> is:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+G' = 
+\begin{bmatrix}
+1 &amp; 1 &amp; 1 &amp; 1\\ 
+0 &amp; 0 &amp; 1 &amp; 1\\ 
+0 &amp; 1 &amp; 0 &amp; 1 
+\end{bmatrix}.
+" src="//upload.wikimedia.org/math/b/6/d/b6d3dc7ef53ad3d61be673e675310d28.png" /></dd>
+</dl>
+<p>Then <img class="mwe-math-fallback-image-inline tex" alt="\text{pHad}:\{0,1\}^k\to\{0,1\}^{2^{k-1}}" src="//upload.wikimedia.org/math/a/0/f/a0f12d6c4e8c658f75255ce9fbcb9ddc.png" /> is a linear mapping with <img class="mwe-math-fallback-image-inline tex" alt="\text{pHad}(x)= x \cdot G'" src="//upload.wikimedia.org/math/d/2/0/d20deaaed245d41b8bb8641b287afd2e.png" />.</p>
+<p>For general <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" />, the generator matrix of the punctured Hadamard code is a <a href="/wiki/Parity-check_matrix" title="Parity-check matrix">parity-check matrix</a> for the <a href="/wiki/Hamming_code#Hamming_codes_with_additional_parity_.28SECDED.29" title="Hamming code">extended Hamming code</a> of length <img class="mwe-math-fallback-image-inline tex" alt="2^{k-1}" src="//upload.wikimedia.org/math/1/1/c/11cee71240a8d81a0b94260894ce1c71.png" /> and dimension <img class="mwe-math-fallback-image-inline tex" alt="2^{k-1}-k" src="//upload.wikimedia.org/math/c/5/2/c528249c09bcb118eb3131c3bb264e48.png" />, which makes the punctured Hadamard code the <a href="/wiki/Dual_code" title="Dual code">dual code</a> of the extended Hamming code. Hence an alternative way to define the Hadamard code is in terms of its parity-check matrix: the parity-check matrix of the Hadamard code is equal to the generator matrix of the Hamming code.</p>
+<h3><span class="mw-headline" id="Construction_using_general_Hadamard_matrices">Construction using general Hadamard matrices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=5" title="Edit section: Construction using general Hadamard matrices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Generalized Hadamard codes are obtained from an <i>n</i>-by-<i>n</i> <a href="/wiki/Hadamard_matrix" title="Hadamard matrix">Hadamard matrix</a> <i>H</i>. In particular, the 2<i>n</i> codewords of the code are the rows of <i>H</i> and the rows of −<i>H</i>. To obtain a code over the alphabet {0,1}, the mapping −1&#160;↦&#160;1, 1&#160;↦&#160;0, or, equivalently, <i>x</i>&#160;↦&#160;(1&#160;−&#160;<i>x</i>)/2, is applied to the matrix elements. That the minimum distance of the code is <i>n</i>/2 follows from the defining property of Hadamard matrices, namely that their rows are mutually orthogonal. This implies that two distinct rows of a Hadamard matrix differ in exactly <i>n</i>/2 positions, and, since negation of a row does not affect orthogonality, that any row of <i>H</i> differs from any row of −<i>H</i> in <i>n</i>/2 positions as well, except when the rows correspond, in which case they differ in <i>n</i> positions.</p>
+<p>To get the punctured Hadamard code above with <img class="mwe-math-fallback-image-inline tex" alt="n=2^{k-1}" src="//upload.wikimedia.org/math/7/a/1/7a1d54c88bd40b43818eb235d28bdfd4.png" />, the chosen Hadamard matrix <i>H</i> has to be of Sylvester type, which gives rise to a message length of <img class="mwe-math-fallback-image-inline tex" alt="\log_2(2n)=k" src="//upload.wikimedia.org/math/b/1/7/b17b8e2c420b906d1b65f405686d9ba8.png" />.</p>
+<h2><span class="mw-headline" id="Distance">Distance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=6" title="Edit section: Distance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The distance of a code is the minimum <a href="/wiki/Hamming_distance" title="Hamming distance">Hamming distance</a> between any two distinct codewords, i.e., the minimum number of positions at which two distinct codewords differ. Since the Walsh–Hadamard code is a <a href="/wiki/Linear_code" title="Linear code">linear code</a>, the distance is equal to the minimum <a href="/wiki/Hamming_weight" title="Hamming weight">Hamming weight</a> among all of its non-zero codewords. All non-zero codewords of the Walsh–Hadamard code have a <a href="/wiki/Hamming_weight" title="Hamming weight">Hamming weight</a> of exactly <img class="mwe-math-fallback-image-inline tex" alt="2^{k-1}" src="//upload.wikimedia.org/math/1/1/c/11cee71240a8d81a0b94260894ce1c71.png" /> by the following argument.</p>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="x\in\{0,1\}^k" src="//upload.wikimedia.org/math/e/6/f/e6f502543c433139b2928434740da6a5.png" /> be a non-zero message. Then the following value is exactly equal to the fraction of positions in the codeword that are equal to one:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\Pr_{y\in\{0,1\}^k} \big[ (\text{Had}(x))_y = 1 \big] = \Pr_{y\in\{0,1\}^k} \big[ \langle x,y\rangle = 1 \big]\,." src="//upload.wikimedia.org/math/9/f/1/9f184869fe93a60dad8259e418fb90db.png" /></dd>
+</dl>
+<p>The fact that the latter value is exactly <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" /> is called the <i>random subsum principle</i>. To see that it is true, assume without loss of generality that <img class="mwe-math-fallback-image-inline tex" alt="x_1=1" src="//upload.wikimedia.org/math/6/3/6/6366c1b5884f645a527ca215c47e6327.png" />. Then, when conditioned on the values of <img class="mwe-math-fallback-image-inline tex" alt="y_2,\dots,y_k" src="//upload.wikimedia.org/math/7/9/a/79afea56353045582d404298e6ec99ba.png" />, the event is equivalent to <img class="mwe-math-fallback-image-inline tex" alt="y_1 \cdot x_1 = b" src="//upload.wikimedia.org/math/0/f/9/0f9515a030aa4e73e8553a3a402501cb.png" /> for some <img class="mwe-math-fallback-image-inline tex" alt="b\in\{0,1\}" src="//upload.wikimedia.org/math/a/0/2/a029d7fbd4702043066c5a51d314b831.png" /> depending on <img class="mwe-math-fallback-image-inline tex" alt="x_2,\dots,x_k" src="//upload.wikimedia.org/math/f/5/f/f5fec75cf49f56f024b8776a3c544749.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="y_2,\dots,y_k" src="//upload.wikimedia.org/math/7/9/a/79afea56353045582d404298e6ec99ba.png" />. The probability that <img class="mwe-math-fallback-image-inline tex" alt="y_1=b" src="//upload.wikimedia.org/math/a/c/c/acc2702574abadccd2ea8b3d25814504.png" /> happens is exactly <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" />. Thus, in fact, <i>all</i> non-zero codewords of the Hadamard code have relative Hamming weight <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" />, and thus, its relative distance is <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" />.</p>
+<p>The relative distance of the <i>punctured</i> Hadamard code is <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" /> as well, but it no longer has the property that every non-zero codeword has weight exactly <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" /> since the all <img class="mwe-math-fallback-image-inline tex" alt="1" src="//upload.wikimedia.org/math/c/4/c/c4ca4238a0b923820dcc509a6f75849b.png" />s vector <img class="mwe-math-fallback-image-inline tex" alt="1^{2^{k-1}}" src="//upload.wikimedia.org/math/4/3/2/432db973fa89c81c77c9fc3df1780a6b.png" /> is a codeword of the punctured Hadamard code. This is because the vector <img class="mwe-math-fallback-image-inline tex" alt="x=10^{k-1}" src="//upload.wikimedia.org/math/5/f/5/5f54dc1d6a7b47116277102a0e8cfebf.png" /> encodes to <img class="mwe-math-fallback-image-inline tex" alt="\text{pHad}(10^{k-1}) = 1^{2^{k-1}}" src="//upload.wikimedia.org/math/8/9/2/8927ce6428a2b4154d48d73ca376c223.png" />. Furthermore, whenever <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> is non-zero and not the vector <img class="mwe-math-fallback-image-inline tex" alt="10^{k-1}" src="//upload.wikimedia.org/math/d/c/3/dc3ca55e99ac6804a13afb22001b5f49.png" />, the random subsum principle applies again, and the relative weight of <img class="mwe-math-fallback-image-inline tex" alt="\text{Had}(x)" src="//upload.wikimedia.org/math/0/b/6/0b647ac0c09f043cf35b2c969685e224.png" /> is exactly <img class="mwe-math-fallback-image-inline tex" alt="1/2" src="//upload.wikimedia.org/math/9/7/5/975ca8804565c1a569450d61090b2743.png" />.</p>
+<h2><span class="mw-headline" id="Local_decodability">Local decodability</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=7" title="Edit section: Local decodability">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <a href="/wiki/Locally_decodable" title="Locally decodable" class="mw-redirect">locally decodable</a> code is a code that allows a single bit of the original message to be recovered with high probability by only looking at a small portion of the received word. A code is <img class="mwe-math-fallback-image-inline tex" alt="q" src="//upload.wikimedia.org/math/7/6/9/7694f4a66316e53c8cdd9d9954bd611d.png" />-query <a href="/wiki/Locally_decodable" title="Locally decodable" class="mw-redirect">locally decodable</a> if a message bit, <img class="mwe-math-fallback-image-inline tex" alt="x_i" src="//upload.wikimedia.org/math/0/5/e/05e42209d67fe1eb15a055e9d3b3770e.png" />, can be recovered by checking <img class="mwe-math-fallback-image-inline tex" alt="q" src="//upload.wikimedia.org/math/7/6/9/7694f4a66316e53c8cdd9d9954bd611d.png" /> bits of the received word. More formally, a code, <img class="mwe-math-fallback-image-inline tex" alt="C: \{0,1\}^k \rightarrow \{0,1\}^n" src="//upload.wikimedia.org/math/b/c/7/bc72c2e2b057fae60d5e3be5f299e6fb.png" />, is <img class="mwe-math-fallback-image-inline tex" alt="(q, \delta\geq 0, \epsilon\geq 0)" src="//upload.wikimedia.org/math/5/e/4/5e4ede32dc35e69f40ba8e4c4fccdae7.png" />-locally decodable, if there exists a probabilistic decoder, <img class="mwe-math-fallback-image-inline tex" alt="D:\{0,1\}^n \rightarrow \{0,1\}^k" src="//upload.wikimedia.org/math/e/7/8/e7805ef7c24832bf83477ce0f392ff79.png" />, such that <i>(Note: <img class="mwe-math-fallback-image-inline tex" alt="\Delta(x,y)" src="//upload.wikimedia.org/math/6/d/e/6de8fee35885122b4dd282a1d3aa3cb3.png" /> represents the <a href="/wiki/Hamming_distance" title="Hamming distance">Hamming distance</a> between vectors <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="y" src="//upload.wikimedia.org/math/4/1/5/415290769594460e2e485922904f345d.png" />)</i>:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="\forall x \in \{0,1\}^k, \forall y \in \{0,1\}^n" src="//upload.wikimedia.org/math/a/8/a/a8a73f7f1760397a0c73088808d043cc.png" />, <img class="mwe-math-fallback-image-inline tex" alt="\Delta(y, C(x)) \leq \delta n" src="//upload.wikimedia.org/math/2/5/4/25440af47758d2c60454ba9386a5711b.png" /> implies that <img class="mwe-math-fallback-image-inline tex" alt="Pr[D(y)_i = x_i] \geq \frac{1}{2} + \epsilon, \forall i \in [k]" src="//upload.wikimedia.org/math/7/3/2/7326f23ed74f1f6eeab2e3eb921a3ce4.png" /></p>
+<p><b>Theorem 1:</b> The Walsh–Hadamard code is <img class="mwe-math-fallback-image-inline tex" alt="(2, \delta, \frac{1}{2}-2\delta)" src="//upload.wikimedia.org/math/1/f/2/1f27d94148d8b3458ccf04b02d6c8810.png" />-locally decodable for <img class="mwe-math-fallback-image-inline tex" alt="0\leq \delta \leq \frac{1}{4}" src="//upload.wikimedia.org/math/0/8/b/08b58aed4694739083bea58a479394da.png" />.</p>
+<p><b>Lemma 1:</b> For all codewords, <img class="mwe-math-fallback-image-inline tex" alt="c" src="//upload.wikimedia.org/math/4/a/8/4a8a08f09d37b73795649038408b5f33.png" /> in a Walsh–Hadamard code, <img class="mwe-math-fallback-image-inline tex" alt="C" src="//upload.wikimedia.org/math/0/d/6/0d61f8370cad1d412f80b84d143e1257.png" />, <img class="mwe-math-fallback-image-inline tex" alt="c_i+c_j=c_{i+j}" src="//upload.wikimedia.org/math/4/4/a/44ade0366812baffbbd2f6036aad9000.png" />, where <img class="mwe-math-fallback-image-inline tex" alt="c_i, c_j" src="//upload.wikimedia.org/math/7/6/d/76d1d709f98111def364a712a7445a13.png" /> represent the bits in <img class="mwe-math-fallback-image-inline tex" alt="c" src="//upload.wikimedia.org/math/4/a/8/4a8a08f09d37b73795649038408b5f33.png" /> in positions <img class="mwe-math-fallback-image-inline tex" alt="i" src="//upload.wikimedia.org/math/8/6/5/865c0c0b4ab0e063e5caa3387c1a8741.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="j" src="//upload.wikimedia.org/math/3/6/3/363b122c528f54df4a0446b6bab05515.png" /> respectively, and <img class="mwe-math-fallback-image-inline tex" alt="c_{i+j}" src="//upload.wikimedia.org/math/e/c/1/ec1e437efe55e436bee19d5bb7396602.png" /> represents the bit at position <img class="mwe-math-fallback-image-inline tex" alt="(i+j)" src="//upload.wikimedia.org/math/3/c/d/3cd4b6943dc83952c0d445b7d17f80cb.png" />.</p>
+<h3><span class="mw-headline" id="Proof_of_lemma_1">Proof of lemma 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=8" title="Edit section: Proof of lemma 1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<hr />
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="C(x) = c = (c_0,\dots,c_{2^n-1})" src="//upload.wikimedia.org/math/1/1/8/1183d0376940718afa1e15cdecbc912c.png" /> be the codeword in <img class="mwe-math-fallback-image-inline tex" alt="C" src="//upload.wikimedia.org/math/0/d/6/0d61f8370cad1d412f80b84d143e1257.png" /> corresponding to message <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />.</p>
+<p>Let <img class="mwe-math-fallback-image-inline tex" alt="G = 
+\begin{pmatrix}
+\uparrow &amp; \uparrow &amp; &amp; \uparrow\\ 
+g_0 &amp; g_1 &amp; \dots &amp; g_{2^n-1} \\ 
+\downarrow &amp; \downarrow &amp; &amp; \downarrow
+\end{pmatrix}" src="//upload.wikimedia.org/math/8/b/5/8b5bd1356d947f16fc245151520871cc.png" /> be the generator matrix of <img class="mwe-math-fallback-image-inline tex" alt="C" src="//upload.wikimedia.org/math/0/d/6/0d61f8370cad1d412f80b84d143e1257.png" />.</p>
+<p>By definition, <img class="mwe-math-fallback-image-inline tex" alt="c_i = x\cdot g_i" src="//upload.wikimedia.org/math/b/9/a/b9a64b28ecc2203a7590ccdf634c2f09.png" />. From this, <img class="mwe-math-fallback-image-inline tex" alt="c_i+c_j = x\cdot g_i + x\cdot g_j = x\cdot(g_i+g_j)" src="//upload.wikimedia.org/math/d/a/7/da7eb19799eeee9e9292657b55644948.png" />. By the construction of <img class="mwe-math-fallback-image-inline tex" alt="G" src="//upload.wikimedia.org/math/d/f/c/dfcf28d0734569a6a693bc8194de62bf.png" />, <img class="mwe-math-fallback-image-inline tex" alt="g_i + g_j = g_{i+j}" src="//upload.wikimedia.org/math/2/5/9/259239656d4490b7ed61c0f1a3bc1ef9.png" />. Therefore, by substitution, <img class="mwe-math-fallback-image-inline tex" alt="c_i + c_j = x\cdot g_{i+j} = c_{i+j}" src="//upload.wikimedia.org/math/e/c/6/ec660f60b1db01f3823c7753260c7a72.png" />.</p>
+<h3><span class="mw-headline" id="Proof_of_theorem_1">Proof of theorem 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=9" title="Edit section: Proof of theorem 1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<hr />
+<p>To prove theorem 1 we will construct a decoding algorithm and prove its correctness.</p>
+<h4><span class="mw-headline" id="Algorithm">Algorithm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=10" title="Edit section: Algorithm">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><b>Input:</b> Received word <img class="mwe-math-fallback-image-inline tex" alt="y = (y_0, \dots, y_{2^n-1})" src="//upload.wikimedia.org/math/d/8/0/d80fa1123b6a10a6e7e9b5d8d0aef139.png" /></p>
+<p>For each <img class="mwe-math-fallback-image-inline tex" alt="i \in \{1, \dots, n\}" src="//upload.wikimedia.org/math/b/c/9/bc982169e8ce8c7ce0babd961e0121b7.png" />:</p>
+<ol>
+<li>Pick <img class="mwe-math-fallback-image-inline tex" alt="j \in \{0, \dots, 2^n-1\}" src="//upload.wikimedia.org/math/c/0/b/c0b8f2004f060931513741cb4f0c4852.png" /> independently at random</li>
+<li>Pick <img class="mwe-math-fallback-image-inline tex" alt="k \in \{0, \dots, 2^n-1\}" src="//upload.wikimedia.org/math/c/3/f/c3fd4c126eecc35ad2725eeb5dc04f89.png" /> such that <img class="mwe-math-fallback-image-inline tex" alt="j+k = e_i" src="//upload.wikimedia.org/math/8/8/c/88c1459ea2d4095c0e323988885e5ea2.png" /> where <img class="mwe-math-fallback-image-inline tex" alt="j+k" src="//upload.wikimedia.org/math/5/e/a/5ea4d93f23ea6550afb64156c364a150.png" /> is the bitwise <i>xor</i> of <img class="mwe-math-fallback-image-inline tex" alt="j" src="//upload.wikimedia.org/math/3/6/3/363b122c528f54df4a0446b6bab05515.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" />.</li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="x_i \gets y_j+y_k" src="//upload.wikimedia.org/math/8/b/2/8b2f34d49b600a51e91c160c6e926809.png" /></li>
+</ol>
+<p><b>Output:</b> Message <img class="mwe-math-fallback-image-inline tex" alt="x = (x_1, \dots, x_n)" src="//upload.wikimedia.org/math/b/8/e/b8e63eae5257058ef9be74f2f210fc6b.png" /></p>
+<h4><span class="mw-headline" id="Proof_of_correctness">Proof of correctness</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=11" title="Edit section: Proof of correctness">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>For any message, <img class="mwe-math-fallback-image-inline tex" alt="x" src="//upload.wikimedia.org/math/9/d/d/9dd4e461268c8034f5c8564e155c67a6.png" />, and received word <img class="mwe-math-fallback-image-inline tex" alt="y" src="//upload.wikimedia.org/math/4/1/5/415290769594460e2e485922904f345d.png" /> such that <img class="mwe-math-fallback-image-inline tex" alt="y" src="//upload.wikimedia.org/math/4/1/5/415290769594460e2e485922904f345d.png" /> differs from <img class="mwe-math-fallback-image-inline tex" alt="c = C(x)" src="//upload.wikimedia.org/math/a/d/8/ad83c6479b5dedcb8e6a057d47326461.png" /> on at most <img class="mwe-math-fallback-image-inline tex" alt="\delta" src="//upload.wikimedia.org/math/f/1/0/f10f03c9836c36537d2539196058bfa2.png" /> fraction of bits, <img class="mwe-math-fallback-image-inline tex" alt="x_i" src="//upload.wikimedia.org/math/0/5/e/05e42209d67fe1eb15a055e9d3b3770e.png" /> can be decoded with probability at least <img class="mwe-math-fallback-image-inline tex" alt="\frac{1}{2}+(1-2\delta)" src="//upload.wikimedia.org/math/b/f/0/bf0365902ecdb2e3a1e6b83e653d1d11.png" />.</p>
+<p>By lemma 1, <img class="mwe-math-fallback-image-inline tex" alt="c_j+c_k = c_{j+k} = x\cdot g_{j+k} = x\cdot e_i = x_i" src="//upload.wikimedia.org/math/0/0/1/0019942d45c9801d7259234d79eb900f.png" />. Since <img class="mwe-math-fallback-image-inline tex" alt="j" src="//upload.wikimedia.org/math/3/6/3/363b122c528f54df4a0446b6bab05515.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="k" src="//upload.wikimedia.org/math/8/c/e/8ce4b16b22b58894aa86c421e8759df3.png" /> are picked uniformly, the probability that <img class="mwe-math-fallback-image-inline tex" alt="y_j \not = c_j" src="//upload.wikimedia.org/math/0/a/7/0a79e62e758529e70fad82309450dd6d.png" /> is at most <img class="mwe-math-fallback-image-inline tex" alt="\delta" src="//upload.wikimedia.org/math/f/1/0/f10f03c9836c36537d2539196058bfa2.png" />. Similarly, the probability that <img class="mwe-math-fallback-image-inline tex" alt="y_k \not = c_k" src="//upload.wikimedia.org/math/3/0/c/30c22134968f56e55c1d5134c9537482.png" /> is at most <img class="mwe-math-fallback-image-inline tex" alt="\delta" src="//upload.wikimedia.org/math/f/1/0/f10f03c9836c36537d2539196058bfa2.png" />. By the <a href="/wiki/Union_bound" title="Union bound" class="mw-redirect">union bound</a>, the probability that either <img class="mwe-math-fallback-image-inline tex" alt="y_j" src="//upload.wikimedia.org/math/0/f/b/0fb734d9f37222c4626ec4c6c6490ea3.png" /> or <img class="mwe-math-fallback-image-inline tex" alt="y_k" src="//upload.wikimedia.org/math/3/4/4/344df017cd973e2b68f81471620a88c9.png" /> do not match the corresponding bits in <img class="mwe-math-fallback-image-inline tex" alt="c" src="//upload.wikimedia.org/math/4/a/8/4a8a08f09d37b73795649038408b5f33.png" /> is at most <img class="mwe-math-fallback-image-inline tex" alt="2\delta" src="//upload.wikimedia.org/math/b/8/5/b85131690a8fd052551dd1c5455fc3db.png" />. If both <img class="mwe-math-fallback-image-inline tex" alt="y_j" src="//upload.wikimedia.org/math/0/f/b/0fb734d9f37222c4626ec4c6c6490ea3.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="y_k" src="//upload.wikimedia.org/math/3/4/4/344df017cd973e2b68f81471620a88c9.png" /> correspond to <img class="mwe-math-fallback-image-inline tex" alt="c" src="//upload.wikimedia.org/math/4/a/8/4a8a08f09d37b73795649038408b5f33.png" />, then lemma 1 will apply, and therefore, the proper value of <img class="mwe-math-fallback-image-inline tex" alt="x_i" src="//upload.wikimedia.org/math/0/5/e/05e42209d67fe1eb15a055e9d3b3770e.png" /> will be computed. Therefore the probability <img class="mwe-math-fallback-image-inline tex" alt="x_i" src="//upload.wikimedia.org/math/0/5/e/05e42209d67fe1eb15a055e9d3b3770e.png" /> is decoded properly is at least <img class="mwe-math-fallback-image-inline tex" alt="1-2\delta" src="//upload.wikimedia.org/math/6/c/a/6cad06efba6327fb8c63fc75a2edfef2.png" />. Therefore, <img class="mwe-math-fallback-image-inline tex" alt="\epsilon = \frac{1}{2} - 2\delta" src="//upload.wikimedia.org/math/a/9/9/a9975af2714778014da7a21337f47001.png" /> and for <img class="mwe-math-fallback-image-inline tex" alt="\epsilon" src="//upload.wikimedia.org/math/c/5/0/c50b9e82e318d4c163e4b1b060f7daf5.png" /> to be positive, <img class="mwe-math-fallback-image-inline tex" alt="0 \leq \delta \leq \frac{1}{4}" src="//upload.wikimedia.org/math/0/8/b/08b58aed4694739083bea58a479394da.png" />.</p>
+<p>Therefore, the Walsh–Hadamard code is <img class="mwe-math-fallback-image-inline tex" alt="(2, \delta, \frac{1}{2}-2\delta)" src="//upload.wikimedia.org/math/1/f/2/1f27d94148d8b3458ccf04b02d6c8810.png" /> locally decodable for <img class="mwe-math-fallback-image-inline tex" alt="0\leq \delta \leq \frac{1}{4}" src="//upload.wikimedia.org/math/0/8/b/08b58aed4694739083bea58a479394da.png" /></p>
+<h2><span class="mw-headline" id="Optimality">Optimality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=12" title="Edit section: Optimality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For <i>k</i>&#160;≤&#160;7 the linear Hadamard codes have been proven optimal in the sense of minimum distance.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Zadoff%E2%80%93Chu_sequence" title="Zadoff–Chu sequence">Zadoff–Chu sequence</a> — improve over the Walsh–Hadamard codes</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=14" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">See, e.g., <a href="#CITEREFAmadeiManzoliMerani2002">Amadei, Manzoli &amp; Merani (2002</a>)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">See, e.g., <a href="#CITEREFAroraBarak2009">Arora &amp; Barak (2009</a>, Section 19.2.2).</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">See, e.g., <a href="#CITEREFGuruswami2009">Guruswami (2009</a>, p.&#160;3).</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Bose, R.C.; Shrikhande, S.S. (1959). "A note on a result in the theory of code construction". <i>Information and Control</i> <b>2</b> (2): 183–194. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0019-9958%2859%2990376-6">10.1016/S0019-9958(59)90376-6</a>. <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.2879">10<wbr />.1<wbr />.1<wbr />.154<wbr />.2879</a></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.atitle=A+note+on+a+result+in+the+theory+of+code+construction&amp;rft.au=Bose%2C+R.C.&amp;rft.aufirst=R.C.&amp;rft.aulast=Bose&amp;rft.au=Shrikhande%2C+S.S.&amp;rft.date=1959&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0019-9958%2859%2990376-6&amp;rft.issue=2&amp;rft.jtitle=Information+and+Control&amp;rft.pages=183-194&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.complextoreal.com/CDMA.pdf">"CDMA Tutorial: Intuitive Guide to Principles of Communications"</a> <span style="font-size:85%;">(PDF)</span>. Complex to Real<span class="reference-accessdate">. Retrieved <span class="nowrap">4 August</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.btitle=CDMA+Tutorial%3A+Intuitive+Guide+to+Principles+of+Communications&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.complextoreal.com%2FCDMA.pdf&amp;rft.pub=Complex+to+Real&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span id="CITEREFJaffeBouyukliev" class="citation">Jaffe, David B.; Bouyukliev, Iliya, <a rel="nofollow" class="external text" href="http://www.math.unl.edu/~djaffe2/papers/sevens.html"><i>Optimal binary linear codes of dimension at most seven</i></a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.au=Bouyukliev%2C+Iliya&amp;rft.aufirst=David+B.&amp;rft.au=Jaffe%2C+David+B.&amp;rft.aulast=Jaffe&amp;rft.btitle=Optimal+binary+linear+codes+of+dimension+at+most+seven&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.math.unl.edu%2F~djaffe2%2Fpapers%2Fsevens.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hadamard_code&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span id="CITEREFAmadeiManzoliMerani2002" class="citation">Amadei, M.; Manzoli, U.; Merani, M.L. (2002), "On the assignment of Walsh and quasi-orthogonal codes in a multicarrier DS-CDMA system with multiple classes of users", <i>Global Telecommunications Conference, 2002. GLOBECOM'02. IEEE</i> <b>1</b>, IEEE, pp.&#160;841–5, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FGLOCOM.2002.1188196">10.1109/GLOCOM.2002.1188196</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7803-7632-3" title="Special:BookSources/0-7803-7632-3">0-7803-7632-3</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.atitle=On+the+assignment+of+Walsh+and+quasi-orthogonal+codes+in+a+multicarrier+DS-CDMA+system+with+multiple+classes+of+users&amp;rft.au=Amadei%2C+M.&amp;rft.aufirst=M.&amp;rft.aulast=Amadei&amp;rft.au=Manzoli%2C+U.&amp;rft.au=Merani%2C+M.L.&amp;rft.btitle=Global+Telecommunications+Conference%2C+2002.+GLOBECOM%2702.+IEEE&amp;rft.date=2002&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1109%2FGLOCOM.2002.1188196&amp;rft.isbn=0-7803-7632-3&amp;rft.pages=841-5&amp;rft.pub=IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFAroraBarak2009" class="citation"><a href="/wiki/Sanjeev_Arora" title="Sanjeev Arora">Arora, Sanjeev</a>; Barak, Boaz (2009), <a rel="nofollow" class="external text" href="http://www.cs.princeton.edu/theory/complexity/"><i>Computational Complexity: A Modern Approach</i></a>, Cambridge University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-42426-4" title="Special:BookSources/978-0-521-42426-4">978-0-521-42426-4</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.au=Arora%2C+Sanjeev&amp;rft.au=Barak%2C+Boaz&amp;rft.aufirst=Sanjeev&amp;rft.aulast=Arora&amp;rft.btitle=Computational+Complexity%3A+A+Modern+Approach&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cs.princeton.edu%2Ftheory%2Fcomplexity%2F&amp;rft.isbn=978-0-521-42426-4&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFGuruswami2009" class="citation">Guruswami, Venkatesan (2009), <a rel="nofollow" class="external text" href="http://www.cs.cmu.edu/~venkatg/pubs/papers/ld-binary-ms.pdf"><i>List decoding of binary codes</i></a> <span style="font-size:85%;">(PDF)</span></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.aufirst=Venkatesan&amp;rft.au=Guruswami%2C+Venkatesan&amp;rft.aulast=Guruswami&amp;rft.btitle=List+decoding+of+binary+codes&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cs.cmu.edu%2F~venkatg%2Fpubs%2Fpapers%2Fld-binary-ms.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span id="CITEREFRudra" class="citation">Rudra, Atri, <a rel="nofollow" class="external text" href="http://www.cse.buffalo.edu/faculty/atri/courses/coding-theory/lectures/lect4.pdf">"Hamming code and Hamming bound"</a> <span style="font-size:85%;">(PDF)</span>, <i>Lecture notes</i></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHadamard+code&amp;rft.atitle=Hamming+code+and+Hamming+bound&amp;rft.aufirst=Atri&amp;rft.aulast=Rudra&amp;rft.au=Rudra%2C+Atri&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cse.buffalo.edu%2Ffaculty%2Fatri%2Fcourses%2Fcoding-theory%2Flectures%2Flect4.pdf&amp;rft.jtitle=Lecture+notes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:CCSDS" title="Template:CCSDS"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:CCSDS" title="Template talk:CCSDS"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:CCSDS&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Consultative_Committee_for_Space_Data_Systems" title="Consultative Committee for Space Data Systems" class="mw-redirect">Consultative Committee for Space Data Systems</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Data compression</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Images
+<ul>
+<li><a href="/wiki/ICER" title="ICER">ICER</a></li>
+<li><a href="/wiki/JPEG" title="JPEG">JPEG</a></li>
+<li><a href="/wiki/JPEG_2000" title="JPEG 2000">JPEG 2000</a></li>
+<li><a href="/wiki/CCSDS_122.0-B-1" title="CCSDS 122.0-B-1">122.0.B1</a></li>
+</ul>
+</li>
+<li>Data
+<ul>
+<li><a href="/wiki/Adaptive_coding" title="Adaptive coding">Adaptive Entropy Coder</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Error Correction</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Current</dt>
+<dd><a href="/wiki/Binary_Golay_code" title="Binary Golay code">Binary Golay code</a></dd>
+<dd><a href="/wiki/Concatenated_error_correction_code" title="Concatenated error correction code">Concatenated codes</a></dd>
+<dd><a href="/wiki/Turbo_code" title="Turbo code">Turbo codes</a></dd>
+<dt>Proposed</dt>
+<dd><a href="/wiki/Low-density_parity-check_code" title="Low-density parity-check code">LDPC codes</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Telemetry command uplink</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Command_Loss_Timer_Reset" title="Command Loss Timer Reset">Command Loss Timer Reset</a></li>
+<li><a href="/wiki/Proximity-1_Space_Link_Protocol" title="Proximity-1 Space Link Protocol">Proximity-1 Space Link Protocol</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Telemetry downlink</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spacecraft_Monitoring_%26_Control" title="Spacecraft Monitoring &amp; Control" class="mw-redirect">Spacecraft Monitoring &amp; Control</a></li>
+<li><a href="/wiki/Beacon_mode_service" title="Beacon mode service">Beacon mode service</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Telemetry general</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Space_Communications_Protocol_Specifications" title="Space Communications Protocol Specifications">Space Communications Protocol Specifications</a> (SCPS): <a href="/wiki/Performance_Enhancing_Proxy" title="Performance Enhancing Proxy" class="mw-redirect">Performance Enhancing Proxy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Telemetry modulation systems</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Current</dt>
+<dd><a href="/wiki/Phase-shift_keying#Binary_phase-shift_keying_.28BPSK.29" title="Phase-shift keying">BPSK</a></dd>
+<dd><a href="/wiki/QPSK" title="QPSK" class="mw-redirect">QPSK</a></dd>
+<dd><a href="/wiki/OQPSK" title="OQPSK" class="mw-redirect">OQPSK</a></dd>
+<dt>Proposed</dt>
+<dd><a href="/wiki/GMSK" title="GMSK" class="mw-redirect">GMSK</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Frequencies</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X_band" title="X band">X band</a></li>
+<li><a href="/wiki/S_band" title="S band">S band</a></li>
+<li><a href="/wiki/Ku_band" title="Ku band">K<sub>u</sub> band</a></li>
+<li><a href="/wiki/Ka_band" title="Ka band">K<sub>a</sub> band</a></li>
+<li><a href="/wiki/K_band" title="K band">K band</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Networking, interoperability and monitoring</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service-oriented architecture</a> (<a href="/wiki/Message_Abstraction_Layer" title="Message Abstraction Layer">Message Abstraction Layer</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1223
+CPU time usage: 0.362 seconds
+Real time usage: 4.029 seconds
+Preprocessor visited node count: 2035/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41046/2097152 bytes
+Template argument size: 1199/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 2.55 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 3955.040      1 - -total
+  9.96%  393.968      2 - Template:Infobox_code
+  9.89%  391.082      2 - Template:Infobox
+  1.55%   61.412      1 - Template:Reflist
+  1.05%   41.713      1 - Template:Citation_needed
+  0.94%   37.137      1 - Template:Fix
+  0.84%   33.391      2 - Template:Category_handler
+  0.74%   29.301      1 - Template:Cite_journal
+  0.43%   16.987      5 - Template:Citation
+  0.41%   16.214      1 - Template:CCSDS
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7428961-0!*!0!!en!4!*!math=0 and timestamp 20150703151450 and revision id 669790760
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hadamard_code&amp;oldid=669790760">https://en.wikipedia.org/w/index.php?title=Hadamard_code&amp;oldid=669790760</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Coding_theory" title="Category:Coding theory">Coding theory</a></li><li><a href="/wiki/Category:Error_detection_and_correction" title="Category:Error detection and correction">Error detection and correction</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2015" title="Category:Articles with unsourced statements from January 2015">Articles with unsourced statements from January 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hadamard+code&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hadamard+code" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Hadamard_code"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Hadamard_code"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Hadamard_code" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Hadamard_code&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hadamard_code&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hadamard_code" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hadamard_code" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hadamard_code&amp;oldid=669790760" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hadamard_code&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1567339" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hadamard_code&amp;id=669790760" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hadamard+code">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Hadamard+code&amp;oldid=669790760&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hadamard_code&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Walsh-Code" title="Walsh-Code – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E7%9B%B4%E4%BA%A4%E7%AC%A6%E5%8F%B7" title="直交符号 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1567339#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 3 July 2015, at 15:14.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hadamard_code&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1162"});
+}</script>
+	</body>
+</html>

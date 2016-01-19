@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Torsades de pointes - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Torsades_de_pointes" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Torsades_de_pointes&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Torsades_de_pointes&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Torsades_de_pointes" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Torsades_de_pointes" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Torsades_de_pointes","wgTitle":"Torsades de pointes","wgCurRevisionId":670135512,"wgRevisionId":670135512,"wgArticleId":685936,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Wikipedia articles that are too technical from December 2013","All articles that are too technical","Articles needing expert attention from December 2013","All articles needing expert attention","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from April 2015","Articles that use a Medicine navs subtemplate","Cardiac dysrhythmia","French medical phrases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Torsades_de_pointes","wgRelevantArticleId":685936,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torsades_de_Pointes_TdP.png/100px-Torsades_de_Pointes_TdP.png","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1625433"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Torsades_de_pointes skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Torsades de pointes</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a href="//en.wiktionary.org/wiki/technical#Adjective" class="extiw" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Torsades_de_pointes&amp;action=edit">improve</a> this article to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="/wiki/Talk:Torsades_de_pointes" title="Talk:Torsades de pointes">talk page</a> may contain suggestions.</span> <small><i>(December 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Torsades de pointes</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Torsades_de_Pointes_TdP.png" class="image"><img alt="Torsades de Pointes TdP.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torsades_de_Pointes_TdP.png/230px-Torsades_de_Pointes_TdP.png" width="230" height="129" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torsades_de_Pointes_TdP.png/345px-Torsades_de_Pointes_TdP.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Torsades_de_Pointes_TdP.png/460px-Torsades_de_Pointes_TdP.png 2x" data-file-width="765" data-file-height="429" /></a>
+<div>12-lead ECG of Torsades de Pointes (TdP) in a 56-year-old white female with <a href="/wiki/Hypokalemia" title="Hypokalemia">Hypokalemia</a> (2.4 mmol/L) and <a href="/wiki/Hypomagnesemia" title="Hypomagnesemia">Hypomagnesemia</a> (1.6 mg/dL.)</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Cardiology" title="Cardiology">Cardiology</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb29252.htm">29252</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic2286.htm">med/2286</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/emerg/topic596.htm#">emerg/596</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/Torsades-de-Pointes">Torsades de pointes</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D016171">D016171</a></td>
+</tr>
+</table>
+<p><b>Torsades de pointes</b> or <b>torsade de pointes</b> (<b>TdP</b> or simply <b>torsade(s)</b>) (<small>French:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_French" title="Help:IPA for French">[tɔʁsad də pwɛ̃t]</a></span>, translated as "twisting of the spikes"), is a specific type of <a href="/wiki/Arrhythmia" title="Arrhythmia" class="mw-redirect">abnormal heart rhythm</a> that can potentially lead to <a href="/wiki/Sudden_cardiac_death" title="Sudden cardiac death">sudden cardiac death</a>. It is a polymorphic <a href="/wiki/Ventricular_tachycardia" title="Ventricular tachycardia">ventricular tachycardia</a> that exhibits distinct characteristics on the <a href="/wiki/Electrocardiogram" title="Electrocardiogram" class="mw-redirect">electrocardiogram</a> (ECG). It was described by <a href="/wiki/Dessertenne" title="Dessertenne" class="mw-redirect">Dessertenne</a> in 1966.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Causes"><span class="tocnumber">2</span> <span class="toctext">Causes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Prescription_drug_interactions"><span class="tocnumber">2.1</span> <span class="toctext">Prescription drug interactions</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Risk_factors"><span class="tocnumber">2.2</span> <span class="toctext">Risk factors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Treatment"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most episodes revert spontaneously to a normal sinus rhythm. Other possible outcomes include <a href="/wiki/Palpitation" title="Palpitation" class="mw-redirect">palpitations</a>, dizziness, lightheadedness (short episodes), <a href="/wiki/Syncope_(medicine)" title="Syncope (medicine)">fainting</a> (longer episodes), and <a href="/wiki/Sudden_cardiac_death" title="Sudden cardiac death">sudden cardiac death</a>.</p>
+<h2><span class="mw-headline" id="Causes">Causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=2" title="Edit section: Causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Common causes for torsades de pointes include <a href="/wiki/Diarrhea" title="Diarrhea">diarrhea</a>, <a href="/wiki/Hypomagnesemia" title="Hypomagnesemia">low blood magnesium</a> and <a href="/wiki/Hypokalemia" title="Hypokalemia">low blood potassium</a>. It is commonly seen in malnourished individuals and chronic <a href="/wiki/Alcoholism" title="Alcoholism">alcoholics</a>. Certain combinations of drugs resulting in <a href="/wiki/Drug_interactions" title="Drug interactions" class="mw-redirect">drug interactions</a> may contribute: decreasing the <a href="/wiki/Drug_metabolism" title="Drug metabolism">metabolism</a> of a medication causing QT elongation such as <a href="/wiki/Clarithromycin" title="Clarithromycin">clarithromycin (Biaxin)</a>, levofloxacin, or <a href="/wiki/Haloperidol" title="Haloperidol">haloperidol (Haldol)</a>, taken concomitantly with a specific <a href="/wiki/Cytochrome_P450" title="Cytochrome P450">cytochrome P450</a> inhibitor like <a href="/wiki/Fluoxetine" title="Fluoxetine">fluoxetine (Prozac)</a>, <a href="/wiki/Cimetidine" title="Cimetidine">cimetidine (Tagamet)</a>; foods like <a href="/wiki/Grapefruit_drug_interactions" title="Grapefruit drug interactions" class="mw-redirect">grapefruit</a> will result in higher than normal doses of the medication responsible for the QT elongation. Since these specific drugs worsen the elongation of the QT wave in a dose-dependent manner, inhibition of drug metabolism raises the risks of developing a malignant torsades de pointes arrhythmia.</p>
+<h3><span class="mw-headline" id="Prescription_drug_interactions">Prescription drug interactions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=3" title="Edit section: Prescription drug interactions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>TdP as a prescription drug side effect has been a major liability and reason for withdrawal of medications from the marketplace.<sup id="cite_ref-labant2014_2-0" class="reference"><a href="#cite_note-labant2014-2"><span>[</span>2<span>]</span></a></sup> Examples include <a href="/wiki/Amiodarone" title="Amiodarone">amiodarone</a>, <a href="/wiki/Methadone" title="Methadone">methadone</a>, <a href="/wiki/Lithium_(medication)" title="Lithium (medication)">lithium</a>, <a href="/wiki/Chloroquine" title="Chloroquine">chloroquine</a>, <a href="/wiki/Erythromycin" title="Erythromycin">erythromycin</a>, <a href="/wiki/Amphetamine" title="Amphetamine">amphetamine</a>, <a href="/wiki/Ephedrine" title="Ephedrine">ephedrine</a>, <a href="/wiki/Pseudoephedrine" title="Pseudoephedrine">pseudoephedrine</a>, <a href="/wiki/Methylphenidate" title="Methylphenidate">methylphenidate</a> and <a href="/wiki/Phenothiazines" title="Phenothiazines" class="mw-redirect">phenothiazines</a>.<sup id="cite_ref-pcqr_tpd_3-0" class="reference"><a href="#cite_note-pcqr_tpd-3"><span>[</span>3<span>]</span></a></sup> It can also be the side effect of some antiarrhythmic medications such as <a href="/wiki/Sotalol" title="Sotalol">sotalol</a>, <a href="/wiki/Procainamide" title="Procainamide">procainamide</a> and quinidine. The gastrokinetic drug <a href="/wiki/Cisapride" title="Cisapride">cisapride (Propulsid)</a> was withdrawn from the US market in 2000 after such interactions led to deaths caused by long QT syndrome-induced torsades de pointes. To correct the prolonged QT interval, magnesium IV 2gm will help effectively block calcium flow as well as prevent recurrent Torsade de Pointes.</p>
+<p>In September 2011 (subsequently updated in March 2012 and February 2013), the FDA issued a warning concerning increased incidence of QT elongation with doses of the antidepressant Celexa (<a href="/wiki/Citalopram" title="Citalopram">citalopram</a>) above 40&#160;mg per day, which is considered the maximum allowable dosage, increasing the risk of Torsades.<sup id="cite_ref-fdapr_celexa_4-0" class="reference"><a href="#cite_note-fdapr_celexa-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-deshmukh_ulveling_5-0" class="reference"><a href="#cite_note-deshmukh_ulveling-5"><span>[</span>5<span>]</span></a></sup> However, the study, "Evaluation of the FDA Warning Against Prescribing Citalopram at Doses Exceeding 40 mg" reported no increased risk of abnormal arrhythmias thus questioning the merit of FDA warning.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Risk_factors">Risk factors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=4" title="Edit section: Risk factors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following is a list of factors associated with an increased tendency toward torsades de pointes:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Identifying_reliable_sources_(medicine)" title="Wikipedia:Identifying reliable sources (medicine)"><span title="Material near this tag needs references to reliable medical sources. (April 2015)">medical citation needed</span></a></i>]</sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG/300px-Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG" width="300" height="62" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG/450px-Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG/600px-Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG 2x" data-file-width="2172" data-file-height="450" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Torsades_converted_by_AICD_ECG_strip_Lead_II.JPG" class="internal" title="Enlarge"></a></div>
+Lead II <a href="/wiki/Electrocardiogram" title="Electrocardiogram" class="mw-redirect">ECG</a> showing torsades being shocked by an <a href="/wiki/Implantable_cardioverter-defibrillator" title="Implantable cardioverter-defibrillator">implantable cardioverter-defibrillator</a> back to the patient's baseline <a href="/wiki/Cardiac_rhythm" title="Cardiac rhythm" class="mw-redirect">cardiac rhythm</a>.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Hypokalemia" title="Hypokalemia">Hypokalemia</a> (low blood potassium)</li>
+<li><a href="/wiki/Hypomagnesemia" title="Hypomagnesemia">Hypomagnesemia</a> (low blood magnesium)</li>
+<li><a href="/wiki/Hypocalcemia" title="Hypocalcemia" class="mw-redirect">Hypocalcemia</a> (low blood calcium)</li>
+<li><a href="/wiki/Bradycardia" title="Bradycardia">Bradycardia</a> (slow heartbeat)</li>
+<li><a href="/wiki/Heart_failure" title="Heart failure">Heart failure</a></li>
+<li><a href="/wiki/Left_ventricular_hypertrophy" title="Left ventricular hypertrophy">Left ventricular hypertrophy</a></li>
+<li><a href="/wiki/Hypothermia" title="Hypothermia">Hypothermia</a></li>
+<li><a href="/wiki/Subarachnoid_hemorrhage" title="Subarachnoid hemorrhage">Subarachnoid hemorrhage</a></li>
+<li><a href="/wiki/Hypothyroidism" title="Hypothyroidism">Hypothyroidism</a></li>
+</ul>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=5" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ECG tracing in torsades demonstrates a <i>polymorphic ventricular tachycardia</i> with a characteristic illusion of a twisting of the QRS complex around the isoelectric baseline (peaks which are at first pointing up are seen to be pointing down for subsequent "beats" when looking at ECG traces of the "heartbeat"). It is hemodynamically unstable and causes a sudden drop in arterial blood pressure, leading to dizziness and <a href="/wiki/Syncope_(medicine)" title="Syncope (medicine)">fainting</a>. Depending on their cause, most individual episodes of torsades de pointes revert to normal sinus rhythm within a few seconds, but may also persist and possibly degenerate into <a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">ventricular fibrillation</a>, which will lead to sudden death in the absence of prompt medical intervention. Torsades de pointes is associated with <a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">long QT syndrome</a>, a condition whereby prolonged QT intervals are visible on the ECG. Long QT intervals predispose the patient to an <span id="R-on-T_phenomenon">R-on-T phenomenon</span>, where the R wave representing ventricular depolarization occurs during the relative refractory period at the end of repolarization (represented by the latter half of the T-wave). An R-on-T can initiate torsades. Sometimes pathologic T-U waves may be seen in the ECG before the initiation of torsades.<sup id="cite_ref-pmc_7-0" class="reference"><a href="#cite_note-pmc-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>A "short-coupled variant of torsade de pointes", which presents without long QT syndrome, was also described in 1994.<sup id="cite_ref-pmid_8-0" class="reference"><a href="#cite_note-pmid-8"><span>[</span>8<span>]</span></a></sup></p>
+<ul>
+<li>Drastic rotation of the heart's electrical axis</li>
+<li>Prolonged <a href="/wiki/QT_interval" title="QT interval">QT interval</a> (<a href="/wiki/LQTS" title="LQTS" class="mw-redirect">LQTS</a>) - may not be present in the short-coupled variant of torsade de pointes</li>
+<li>Preceded by long and short RR-intervals - not present in the short-coupled variant of torsade de pointes</li>
+<li>Triggered by a <a href="/wiki/Premature_ventricular_contraction" title="Premature ventricular contraction">premature ventricular contraction</a> (R-on-T PVC)</li>
+</ul>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=6" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Treatment is directed at withdrawal of the offending agent, infusion of <a href="/wiki/Magnesium_sulfate" title="Magnesium sulfate">magnesium sulfate</a>,<sup id="cite_ref-pmid15466950_9-0" class="reference"><a href="#cite_note-pmid15466950-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-pmid16635167_10-0" class="reference"><a href="#cite_note-pmid16635167-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Antiarrhythmic_drug" title="Antiarrhythmic drug" class="mw-redirect">antiarrhythmic drugs</a>, and electrical therapy such as a temporary pacemaker as needed.</p>
+<p>Because of the polymorphic nature of torsades de pointes, synchronized <a href="/wiki/Cardioversion" title="Cardioversion">cardioversion</a> may not be possible, and the patient may require an unsynchronized shock (or <a href="/wiki/Defibrillation" title="Defibrillation">defibrillation</a>).</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=7" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The phenomenon was originally described in a French <a href="/wiki/Medical_journal" title="Medical journal" class="mw-redirect">medical journal</a> by <a href="/wiki/Dessertenne" title="Dessertenne" class="mw-redirect">Dessertenne</a> in 1966, when he observed this cardiac rhythm disorder in an 80-year-old female patient with complete intermittent <a href="/wiki/Atrioventricular" title="Atrioventricular" class="mw-disambig">atrioventricular</a> block. In coining the term, he referred his colleagues to the "Dictionnaire Le Robert," a bilingual French English dictionary, of which his wife had just given him a copy. Here "torsade" is defined as (a)a bundle of threads twisted in a helix or spiral, for ornamental purposes, as in an <a href="/wiki/Aran_sweater" title="Aran sweater" class="mw-redirect">Aran sweater</a>; (b) long hair twisted together, or (c) an ornamental motif as seen on architectural columns.</p>
+<p>The singular and plural forms (<i>torsade de pointes</i> and <i>torsades de pointes</i>) have both often been used. The question of whether either one is "correct" and the other "incorrect" has repeatedly arisen. Among major medical dictionaries, one enters only the plural form, another enters the plural form as the <a href="/wiki/Headword" title="Headword">headword</a> but lists the singular as a variant, and another enters the singular form as the headword and gives a usage comment saying that the plural is not preferred. One group of physicians suggests<sup id="cite_ref-Circulation_1999_100_1462_11-0" class="reference"><a href="#cite_note-Circulation_1999_100_1462-11"><span>[</span>11<span>]</span></a></sup> that it would make sense to use the singular form as the general entity name (whether comprising a single or repeated episodes) and that one might best reserve the plural form for describing repeated twistings during a single episode. Regarding the <a href="/wiki/Natural_language" title="Natural language">natural language</a> variation, they conclude good-naturedly, "Wasn't it the French who coined the term 'vive la difference?'"<sup id="cite_ref-Circulation_1999_100_1462_11-1" class="reference"><a href="#cite_note-Circulation_1999_100_1462-11"><span>[</span>11<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-1" style="-moz-column-count: 1; -webkit-column-count: 1; column-count: 1; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Dessertenne, F. (1966). "La tachycardie ventriculaire a deux foyers opposes variables". <i>Archives des maladies du coeur et des vaisseaux</i> (in French) <b>59</b> (2): 263–272. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0003-9683">0003-9683</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4956181">4956181</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=La+tachycardie+ventriculaire+a+deux+foyers+opposes+variables&amp;rft.au=Dessertenne%2C+F.&amp;rft.aufirst=F.&amp;rft.aulast=Dessertenne&amp;rft.date=1966&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F4956181&amp;rft.issn=0003-9683&amp;rft.issue=2&amp;rft.jtitle=Archives+des+maladies+du+coeur+et+des+vaisseaux&amp;rft.pages=263-272&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=59" class="Z3988"><span style="display:none;">&#160;</span></span> Prepaired by Rahel farhad</span></li>
+<li id="cite_note-labant2014-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-labant2014_2-0">^</a></b></span> <span class="reference-text"><span class="citation news">Labant, MaryAnn (November 15, 2014). "Weaving a Stronger Drug Safety Net". <i><a href="/wiki/Gen._Eng._Biotechnol._News" title="Gen. Eng. Biotechnol. News" class="mw-redirect">Gen. Eng. Biotechnol. News</a></i> (paper) <b>34</b> (20). p.&#160;1.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Weaving+a+Stronger+Drug+Safety+Net&amp;rft.au=Labant%2C+MaryAnn&amp;rft.aulast=Labant%2C+MaryAnn&amp;rft.date=November+15%2C+2014&amp;rft.genre=article&amp;rft.issue=20&amp;rft.jtitle=Gen.+Eng.+Biotechnol.+News&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pcqr_tpd-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pcqr_tpd_3-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140307070100/https://www.pediatriccareonline.org/pco/ub/view/Point-of-Care-Quick-Reference/397325/0/drugs_that_prolong_the_qt_interval_or_induce_torsades_de_pointes?amod=aapea&amp;login=true&amp;nfstatus=401">"Drugs That Prolong the QT Interval or Induce Torsades de Pointes"</a>. <i>Point of Care Quick Reference</i>. <a href="/wiki/American_Academy_of_Pediatrics" title="American Academy of Pediatrics">American Academy of Pediatrics</a>. March 11, 2010. Archived from <a rel="nofollow" class="external text" href="https://www.pediatriccareonline.org/pco/ub/view/Point-of-Care-Quick-Reference/397325/0/drugs_that_prolong_the_qt_interval_or_induce_torsades_de_pointes?amod=aapea&amp;login=true&amp;nfstatus=401">the original</a> on March 7, 2014.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Drugs+That+Prolong+the+QT+Interval+or+Induce+Torsades+de+Pointes&amp;rft.date=March+11%2C+2010&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fwww.pediatriccareonline.org%2Fpco%2Fub%2Fview%2FPoint-of-Care-Quick-Reference%2F397325%2F0%2Fdrugs_that_prolong_the_qt_interval_or_induce_torsades_de_pointes%3Famod%3Daapea%26login%3Dtrue%26nfstatus%3D401&amp;rft.jtitle=Point+of+Care+Quick+Reference&amp;rft.pub=American+Academy+of+Pediatrics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fdapr_celexa-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-fdapr_celexa_4-0">^</a></b></span> <span class="reference-text"><span class="citation pressrelease"><a rel="nofollow" class="external text" href="http://www.fda.gov/Drugs/DrugSafety/ucm297391.htm">"FDA Drug Safety Communication: Revised recommendations for Celexa (citalopram hydrobromide) related to a potential risk of abnormal heart rhythms with high doses"</a> (Press release). <a href="/wiki/USFDA" title="USFDA" class="mw-redirect">USFDA</a>. February 15, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">December 13,</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.btitle=FDA+Drug+Safety+Communication%3A+Revised+recommendations+for+Celexa+%28citalopram+hydrobromide%29+related+to+a+potential+risk+of+abnormal+heart+rhythms+with+high+doses&amp;rft.date=February+15%2C+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fda.gov%2FDrugs%2FDrugSafety%2Fucm297391.htm&amp;rft.pub=USFDA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-deshmukh_ulveling-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-deshmukh_ulveling_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Deshmukh, Anand; Ulveling, Kyle et al. (2012). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3298934">"Prolonged QTc interval and torsades de pointes induced by citalopram"</a>. <i><a href="/wiki/Tex._Heart_Inst._J." title="Tex. Heart Inst. J." class="mw-redirect">Tex. Heart Inst. J.</a></i> <b>39</b> (1): 68–70. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3298934">3298934</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22412232">22412232</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Prolonged+QTc+interval+and+torsades+de+pointes+induced+by+citalopram&amp;rft.au=Abuissa+Hussam&amp;rft.au=Airey%2C+Kelly&amp;rft.au=Alla%2C+Venkata&amp;rft.au=Deshmukh%2C+Anand&amp;rft.aulast=Deshmukh%2C+Anand&amp;rft.au=Ulveling%2C+Kyle&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3298934&amp;rft_id=info%3Apmc%2F3298934&amp;rft_id=info%3Apmid%2F22412232&amp;rft.issue=1&amp;rft.jtitle=Tex.+Heart+Inst.+J.&amp;rft.pages=68-70&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39" class="Z3988"><span style="display:none;">&#160;</span></span><a href="/wiki/Open_access" title="open access publication - free to read"><img alt="open access publication - free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/8px-Open_Access_logo_PLoS_transparent.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/12px-Open_Access_logo_PLoS_transparent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Open_Access_logo_PLoS_transparent.svg/16px-Open_Access_logo_PLoS_transparent.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation journal">K Zivin, PN Pfeiffer, ASB Bohnert, D Ganoczy, FC Blow, BK Nallamothu, HC Kales (June 1, 2013). "Evaluation of the FDA Warning Against Prescribing Citalopram at Doses Exceeding 40 mg". <i>Am J Psychiatry</i> <b>170</b> (6): 642–650. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1176%2Fappi.ajp.2013.12030408">10.1176/appi.ajp.2013.12030408</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23640689">23640689</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Evaluation+of+the+FDA+Warning+Against+Prescribing+Citalopram+at+Doses+Exceeding+40+mg&amp;rft.au=K+Zivin%2C+PN+Pfeiffer%2C+ASB+Bohnert%2C+D+Ganoczy%2C+FC+Blow%2C+BK+Nallamothu%2C+HC+Kales&amp;rft.aulast=K+Zivin%2C+PN+Pfeiffer%2C+ASB+Bohnert%2C+D+Ganoczy%2C+FC+Blow%2C+BK+Nallamothu%2C+HC+Kales&amp;rft.date=June+1%2C+2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1176%2Fappi.ajp.2013.12030408&amp;rft_id=info%3Apmid%2F23640689&amp;rft.issue=6&amp;rft.jtitle=Am+J+Psychiatry&amp;rft.pages=642-650&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=170" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmc-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmc_7-0">^</a></b></span> <span class="reference-text"><span class="citation journal">John, J.; Amley, X.; Bombino, G.; Gitelis, C.; Topi, B.; Hollander, G.; Ghosh, J. (2010). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3021856">"Torsade de Pointes due to Methadone Use in a Patient with HIV and Hepatitis C Coinfection"</a>. <i>Cardiology Research and Practice</i> <b>2010</b>: 1–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.4061%2F2010%2F524764">10.4061/2010/524764</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3021856">3021856</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21253542">21253542</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Torsade+de+Pointes+due+to+Methadone+Use+in+a+Patient+with+HIV+and+Hepatitis+C+Coinfection&amp;rft.au=Amley%2C+X.&amp;rft.au=Bombino%2C+G.&amp;rft.aufirst=J.&amp;rft.au=Ghosh%2C+J.&amp;rft.au=Gitelis%2C+C.&amp;rft.au=Hollander%2C+G.&amp;rft.au=John%2C+J.&amp;rft.aulast=John&amp;rft.au=Topi%2C+B.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3021856&amp;rft_id=info%3Adoi%2F10.4061%2F2010%2F524764&amp;rft_id=info%3Apmc%2F3021856&amp;rft_id=info%3Apmid%2F21253542&amp;rft.jtitle=Cardiology+Research+and+Practice&amp;rft.pages=1-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2010" class="Z3988"><span style="display:none;">&#160;</span></span><span class="plainlinks noprint" style="font-size:smaller">&#160;<a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_pmid/21253542&amp;action=edit&amp;editintro=Template:Cite_pmid/editintro2">edit</a></span></span></li>
+<li id="cite_note-pmid-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Leenhardt A, Glaser E, Burguera M, Nürnberg M, Maison-Blanche P, and Coumel P (January 1994). <a rel="nofollow" class="external text" href="http://circ.ahajournals.org/content/89/1/206.full.pdf">"Short-coupled variant of torsade de pointes. A new electrocardiographic entity in the spectrum of idiopathic ventricular tachyarrhythmias"</a> <span style="font-size:85%;">(PDF)</span>. <i>Circulation</i> <b>89</b> (1): 206–15. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1161%2F01.CIR.89.1.206">10.1161/01.CIR.89.1.206</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8281648">8281648</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Short-coupled+variant+of+torsade+de+pointes.+A+new+electrocardiographic+entity+in+the+spectrum+of+idiopathic+ventricular+tachyarrhythmias&amp;rft.aulast=Leenhardt+A%2C+Glaser+E%2C+Burguera+M%2C+N%C3%BCrnberg+M%2C+Maison-Blanche+P%2C+and+Coumel+P&amp;rft.au=Leenhardt+A%2C+Glaser+E%2C+Burguera+M%2C+N%C3%BCrnberg+M%2C+Maison-Blanche+P%2C+and+Coumel+P&amp;rft.date=January+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcirc.ahajournals.org%2Fcontent%2F89%2F1%2F206.full.pdf&amp;rft_id=info%3Adoi%2F10.1161%2F01.CIR.89.1.206&amp;rft_id=info%3Apmid%2F8281648&amp;rft.issue=1&amp;rft.jtitle=Circulation&amp;rft.pages=206-15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=89" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid15466950-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid15466950_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Hoshino, Kenji; Ogawa Kiyoshi et al. (October 2004). <a rel="nofollow" class="external text" href="http://www.jacn.org/cgi/pmidlookup?view=long&amp;pmid=15466950">"Optimal administration dosage of magnesium sulfate for torsades de pointes in children with long QT syndrome"</a>. <i><a href="/wiki/J._Am._Coll._Nutr." title="J. Am. Coll. Nutr." class="mw-redirect">J. Am. Coll. Nutr.</a></i> <b>23</b> (5): 497S–500S. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F07315724.2004.10719388">10.1080/07315724.2004.10719388</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15466950">15466950</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Optimal+administration+dosage+of+magnesium+sulfate+for+torsades+de+pointes+in+children+with+long+QT+syndrome&amp;rft.au=Eto%2C+Yoshikatsu&amp;rft.au=Hishitani%2C+Takashi&amp;rft.au=Hoshino%2C+Kenji&amp;rft.au=Isobe%2C+Takeshi&amp;rft.aulast=Hoshino%2C+Kenji&amp;rft.au=Ogawa+Kiyoshi&amp;rft.date=October+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jacn.org%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D15466950&amp;rft_id=info%3Adoi%2F10.1080%2F07315724.2004.10719388&amp;rft_id=info%3Apmid%2F15466950&amp;rft.issue=5&amp;rft.jtitle=J.+Am.+Coll.+Nutr.&amp;rft.pages=497S-500S&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=23" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16635167-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16635167_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Hoshino, Kenji; Ogawa, Kiyoshi et al. (April 2006). <a rel="nofollow" class="external text" href="http://www3.interscience.wiley.com/resolve/openurl?genre=article&amp;sid=nlm:pubmed&amp;issn=1328-8067&amp;date=2006&amp;volume=48&amp;issue=2&amp;spage=112">"Successful uses of magnesium sulfate for torsades de pointes in children with long QT syndrome"</a>. <i><a href="/wiki/Pediatr._Int." title="Pediatr. Int." class="mw-redirect">Pediatr. Int.</a></i> <b>48</b> (2): 112–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1442-200X.2006.02177.x">10.1111/j.1442-200X.2006.02177.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16635167">16635167</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=Successful+uses+of+magnesium+sulfate+for+torsades+de+pointes+in+children+with+long+QT+syndrome&amp;rft.au=Etoh%2C+Yoshikatsu&amp;rft.au=Hishitani%2C+Takashi&amp;rft.au=Hoshino%2C+Kenji&amp;rft.au=Isobe%2C+Takeshi&amp;rft.aulast=Hoshino%2C+Kenji&amp;rft.au=Ogawa%2C+Kiyoshi&amp;rft.date=April+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fresolve%2Fopenurl%3Fgenre%3Darticle%26sid%3Dnlm%3Apubmed%26issn%3D1328-8067%26date%3D2006%26volume%3D48%26issue%3D2%26spage%3D112&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1442-200X.2006.02177.x&amp;rft_id=info%3Apmid%2F16635167&amp;rft.issue=2&amp;rft.jtitle=Pediatr.+Int.&amp;rft.pages=112-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=48" class="Z3988"><span style="display:none;">&#160;</span></span><a href="/wiki/Paywall" title="Closed access"><img alt="Closed access" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/8px-Closed_Access_logo_alternative.svg.png" width="8" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/12px-Closed_Access_logo_alternative.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Closed_Access_logo_alternative.svg/16px-Closed_Access_logo_alternative.svg.png 2x" data-file-width="640" data-file-height="1000" /></a></span></li>
+<li id="cite_note-Circulation_1999_100_1462-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Circulation_1999_100_1462_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Circulation_1999_100_1462_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITEREFMoise_NS1999" class="citation">Moise NS (1999), <a rel="nofollow" class="external text" href="http://circ.ahajournals.org/content/100/13/1462.1.full">"As Americans, we should get this right [correspondence and response]"</a>, <i>Circulation</i> <b>100</b>: 1462, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1161%2F01.CIR.100.13.1462">10.1161/01.CIR.100.13.1462</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorsades+de+pointes&amp;rft.atitle=As+Americans%2C+we+should+get+this+right+%5Bcorrespondence+and+response%5D&amp;rft.aulast=Moise+NS&amp;rft.au=Moise+NS&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcirc.ahajournals.org%2Fcontent%2F100%2F13%2F1462.1.full&amp;rft_id=info%3Adoi%2F10.1161%2F01.CIR.100.13.1462&amp;rft.jtitle=Circulation&amp;rft.pages=1462&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=100" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heart_diseases" title="Template:Heart diseases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heart_diseases" title="Template talk:Heart diseases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heart_diseases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Cardiovascular_disease" title="Cardiovascular disease">Cardiovascular disease</a> <a href="/wiki/ICD-10_Chapter_IX:_Diseases_of_the_circulatory_system" title="ICD-10 Chapter IX: Diseases of the circulatory system">I00–I52</a>, <a href="/wiki/List_of_ICD-9_codes_390%E2%80%93459:_diseases_of_the_circulatory_system" title="List of ICD-9 codes 390–459: diseases of the circulatory system">390–429</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ischaemic" title="Ischaemic" class="mw-redirect">Ischaemic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Coronary disease</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coronary_artery_disease" title="Coronary artery disease">Coronary artery disease (CAD)</a></li>
+<li><a href="/wiki/Coronary_artery_aneurysm" title="Coronary artery aneurysm">Coronary artery aneurysm</a></li>
+<li><a href="/wiki/Coronary_artery_dissection" title="Coronary artery dissection">Coronary artery dissection</a></li>
+<li><a href="/wiki/Coronary_thrombosis" title="Coronary thrombosis">Coronary thrombosis</a></li>
+<li><a href="/wiki/Coronary_vasospasm" title="Coronary vasospasm">Coronary vasospasm</a></li>
+<li><a href="/wiki/Myocardial_bridge" title="Myocardial bridge">Myocardial bridge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Active ischemia</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angina_pectoris" title="Angina pectoris">Angina pectoris</a>
+<ul>
+<li><a href="/wiki/Prinzmetal%27s_angina" title="Prinzmetal's angina">Prinzmetal's angina</a></li>
+<li><a href="/wiki/Stable_angina" title="Stable angina" class="mw-redirect">Stable angina</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Acute_coronary_syndrome" title="Acute coronary syndrome">Acute coronary syndrome</a>
+<ul>
+<li><a href="/wiki/Myocardial_infarction" title="Myocardial infarction">Myocardial infarction</a></li>
+<li><a href="/wiki/Unstable_angina" title="Unstable angina">Unstable angina</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Myocardial_infarction_complications" title="Myocardial infarction complications">Sequelae</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>hours</i>
+<ul>
+<li><a href="/wiki/Hibernating_myocardium" title="Hibernating myocardium">Hibernating myocardium</a></li>
+<li><a href="/wiki/Myocardial_stunning" title="Myocardial stunning">Myocardial stunning</a></li>
+</ul>
+</li>
+<li><i>days</i>
+<ul>
+<li><a href="/wiki/Myocardial_rupture" title="Myocardial rupture">Myocardial rupture</a></li>
+</ul>
+</li>
+<li><i>weeks</i>
+<ul>
+<li><a href="/wiki/Aneurysm_of_heart" title="Aneurysm of heart">Aneurysm of heart</a> / <a href="/wiki/Ventricular_aneurysm" title="Ventricular aneurysm">Ventricular aneurysm</a></li>
+<li><a href="/wiki/Dressler_syndrome" title="Dressler syndrome">Dressler syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Layers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pericardium" title="Pericardium">Pericardium</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pericarditis" title="Pericarditis">Pericarditis</a>
+<ul>
+<li><a href="/wiki/Acute_pericarditis" title="Acute pericarditis">Acute</a></li>
+<li><a href="/wiki/Pericarditis#Acute_vs._chronic" title="Pericarditis">Chronic</a> / <a href="/wiki/Constrictive_pericarditis" title="Constrictive pericarditis">Constrictive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pericardial_effusion" title="Pericardial effusion">Pericardial effusion</a>
+<ul>
+<li><a href="/wiki/Cardiac_tamponade" title="Cardiac tamponade">Cardiac tamponade</a></li>
+<li><a href="/wiki/Hemopericardium" title="Hemopericardium">Hemopericardium</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Myocardium" title="Myocardium" class="mw-redirect">Myocardium</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Myocarditis" title="Myocarditis">Myocarditis</a>
+<ul>
+<li><a href="/wiki/Chagas_disease" title="Chagas disease">Chagas disease</a></li>
+</ul>
+</li>
+<li><span class="wrap"><a href="/wiki/Cardiomyopathy" title="Cardiomyopathy">Cardiomyopathy</a>: <a href="/wiki/Dilated_cardiomyopathy" title="Dilated cardiomyopathy">Dilated</a> (<a href="/wiki/Alcoholic_cardiomyopathy" title="Alcoholic cardiomyopathy">Alcoholic</a>), <a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic</a>, <i>and</i> <a href="/wiki/Restrictive_cardiomyopathy" title="Restrictive cardiomyopathy">Restrictive</a></span>
+<ul>
+<li><span class="wrap"><a href="/wiki/Loeffler_endocarditis" title="Loeffler endocarditis">Loeffler endocarditis</a></span></li>
+<li><span class="wrap"><a href="/wiki/Amyloidosis" title="Amyloidosis">Cardiac amyloidosis</a></span></li>
+<li><span class="wrap"><a href="/wiki/Endocardial_fibroelastosis" title="Endocardial fibroelastosis">Endocardial fibroelastosis</a></span></li>
+</ul>
+</li>
+<li><a href="/wiki/Arrhythmogenic_right_ventricular_dysplasia" title="Arrhythmogenic right ventricular dysplasia">Arrhythmogenic right ventricular dysplasia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Endocardium" title="Endocardium">Endocardium</a> /<br />
+<a href="/wiki/Valvular_heart_disease" title="Valvular heart disease">valves</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Endocarditis" title="Endocarditis">Endocarditis</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Infective_endocarditis" title="Infective endocarditis">infective endocarditis</a></i>
+<ul>
+<li><a href="/wiki/Subacute_bacterial_endocarditis" title="Subacute bacterial endocarditis">Subacute bacterial endocarditis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Endocarditis#Non-infective_endocarditis" title="Endocarditis">non-infective endocarditis</a></i>
+<ul>
+<li><a href="/wiki/Libman%E2%80%93Sacks_endocarditis" title="Libman–Sacks endocarditis">Libman–Sacks endocarditis</a></li>
+<li><a href="/wiki/Nonbacterial_thrombotic_endocarditis" title="Nonbacterial thrombotic endocarditis">Nonbacterial thrombotic endocarditis</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Valves</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Mitral_valve" title="Mitral valve">mitral</a></i>
+<ul>
+<li><a href="/wiki/Mitral_regurgitation" title="Mitral regurgitation" class="mw-redirect">regurgitation</a></li>
+<li><a href="/wiki/Mitral_valve_prolapse" title="Mitral valve prolapse">prolapse</a></li>
+<li><a href="/wiki/Mitral_stenosis" title="Mitral stenosis" class="mw-redirect">stenosis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Aortic_valve" title="Aortic valve">aortic</a></i>
+<ul>
+<li><a href="/wiki/Aortic_valve_stenosis" title="Aortic valve stenosis" class="mw-redirect">stenosis</a></li>
+<li><a href="/wiki/Aortic_insufficiency" title="Aortic insufficiency">insufficiency</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Tricuspid_valve" title="Tricuspid valve">tricuspid</a></i>
+<ul>
+<li><a href="/wiki/Tricuspid_valve_stenosis" title="Tricuspid valve stenosis">stenosis</a></li>
+<li><a href="/wiki/Tricuspid_insufficiency" title="Tricuspid insufficiency">insufficiency</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Pulmonary_valve" title="Pulmonary valve">pulmonary</a></i>
+<ul>
+<li><a href="/wiki/Pulmonary_valve_stenosis" title="Pulmonary valve stenosis">stenosis</a></li>
+<li><a href="/wiki/Pulmonary_valve_insufficiency" title="Pulmonary valve insufficiency" class="mw-redirect">insufficiency</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Electrical_conduction_system_of_the_heart" title="Electrical conduction system of the heart">Conduction</a> /<br />
+<a href="/wiki/Cardiac_dysrhythmia" title="Cardiac dysrhythmia" class="mw-redirect">arrhythmia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Bradycardia" title="Bradycardia">Bradycardia</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sinus_bradycardia" title="Sinus bradycardia">Sinus bradycardia</a></li>
+<li><a href="/wiki/Sick_sinus_syndrome" title="Sick sinus syndrome">Sick sinus syndrome</a></li>
+<li><a href="/wiki/Heart_block" title="Heart block">Heart block</a>: <a href="/wiki/Sinoatrial_block" title="Sinoatrial block">Sinoatrial</a></li>
+<li><a href="/wiki/Atrioventricular_block" title="Atrioventricular block">AV</a>
+<ul>
+<li><a href="/wiki/First-degree_atrioventricular_block" title="First-degree atrioventricular block">1°</a></li>
+<li><a href="/wiki/Second-degree_atrioventricular_block" title="Second-degree atrioventricular block">2°</a></li>
+<li><a href="/wiki/Third-degree_atrioventricular_block" title="Third-degree atrioventricular block">3°</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intraventricular_block" title="Intraventricular block">Intraventricular</a></li>
+<li><a href="/wiki/Bundle_branch_block" title="Bundle branch block">Bundle branch block</a>
+<ul>
+<li><a href="/wiki/Right_bundle_branch_block" title="Right bundle branch block">Right</a></li>
+<li><a href="/wiki/Left_bundle_branch_block" title="Left bundle branch block">Left</a></li>
+<li><a href="/wiki/Left_anterior_fascicular_block" title="Left anterior fascicular block">Left anterior fascicle</a></li>
+<li><a href="/wiki/Left_posterior_fascicular_block" title="Left posterior fascicular block">Left posterior fascicle</a></li>
+<li><a href="/wiki/Bifascicular_block" title="Bifascicular block">Bifascicular</a></li>
+<li><a href="/wiki/Trifascicular_block" title="Trifascicular block">Trifascicular</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Adams%E2%80%93Stokes_syndrome" title="Adams–Stokes syndrome">Adams–Stokes syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Tachycardia" title="Tachycardia">Tachycardia</a><br />
+(<a href="/wiki/Paroxysmal_tachycardia" title="Paroxysmal tachycardia">paroxysmal</a> and <a href="/wiki/Sinus_tachycardia" title="Sinus tachycardia">sinus</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Supraventricular_tachycardia" title="Supraventricular tachycardia">Supraventricular</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atrial_tachycardia" title="Atrial tachycardia">Atrial</a>
+<ul>
+<li><a href="/wiki/Multifocal_atrial_tachycardia" title="Multifocal atrial tachycardia">Multifocal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Junctional_tachycardia" title="Junctional tachycardia">Junctional</a>
+<ul>
+<li><a href="/wiki/AV_nodal_reentrant_tachycardia" title="AV nodal reentrant tachycardia">AV nodal reentrant</a></li>
+<li><a href="/wiki/Junctional_ectopic_tachycardia" title="Junctional ectopic tachycardia">Junctional ectopic</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Ventricular_tachycardia" title="Ventricular tachycardia">Ventricular</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerated_idioventricular_rhythm" title="Accelerated idioventricular rhythm">Accelerated idioventricular rhythm</a></li>
+<li><a href="/wiki/Catecholaminergic_polymorphic_ventricular_tachycardia" title="Catecholaminergic polymorphic ventricular tachycardia">Catecholaminergic polymorphic</a></li>
+<li><strong class="selflink">Torsades de pointes</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Premature contraction</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Premature_atrial_contraction" title="Premature atrial contraction">Atrial</a></li>
+<li><a href="/wiki/Premature_junctional_contraction" title="Premature junctional contraction">Junctional</a></li>
+<li><a href="/wiki/Premature_ventricular_contraction" title="Premature ventricular contraction">Ventricular</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pre-excitation_syndrome" title="Pre-excitation syndrome">Pre-excitation syndrome</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lown%E2%80%93Ganong%E2%80%93Levine_syndrome" title="Lown–Ganong–Levine syndrome">Lown–Ganong–Levine</a></li>
+<li><a href="/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome" title="Wolff–Parkinson–White syndrome">Wolff–Parkinson–White</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Flutter / <a href="/wiki/Fibrillation" title="Fibrillation">fibrillation</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atrial_flutter" title="Atrial flutter">Atrial flutter</a></li>
+<li><a href="/wiki/Ventricular_flutter" title="Ventricular flutter">Ventricular flutter</a></li>
+<li><a href="/wiki/Atrial_fibrillation" title="Atrial fibrillation">Atrial fibrillation</a>
+<ul>
+<li><a href="/wiki/Familial_atrial_fibrillation" title="Familial atrial fibrillation">Familial</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">Ventricular fibrillation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Artificial_cardiac_pacemaker" title="Artificial cardiac pacemaker">Pacemaker</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ectopic_pacemaker" title="Ectopic pacemaker">Ectopic pacemaker</a> / <a href="/wiki/Ectopic_beat" title="Ectopic beat">Ectopic beat</a></li>
+<li><a href="/wiki/Multifocal_atrial_tachycardia" title="Multifocal atrial tachycardia">Multifocal atrial tachycardia</a></li>
+<li><a href="/wiki/Pacemaker_syndrome" title="Pacemaker syndrome">Pacemaker syndrome</a></li>
+<li><a href="/wiki/Parasystole" title="Parasystole">Parasystole</a></li>
+<li><a href="/wiki/Wandering_pacemaker" title="Wandering pacemaker">Wandering pacemaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andersen%E2%80%93Tawil_syndrome" title="Andersen–Tawil syndrome">Andersen–Tawil</a></li>
+<li><a href="/wiki/Jervell_and_Lange-Nielsen_syndrome" title="Jervell and Lange-Nielsen syndrome">Jervell and Lange-Nielsen</a></li>
+<li><a href="/wiki/Romano%E2%80%93Ward_syndrome" title="Romano–Ward syndrome">Romano–Ward</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Cardiac_arrest" title="Cardiac arrest">Cardiac arrest</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sudden_cardiac_death" title="Sudden cardiac death">Sudden cardiac death</a></li>
+<li><a href="/wiki/Asystole" title="Asystole">Asystole</a></li>
+<li><a href="/wiki/Pulseless_electrical_activity" title="Pulseless electrical activity">Pulseless electrical activity</a></li>
+<li><a href="/wiki/Sinoatrial_arrest" title="Sinoatrial arrest">Sinoatrial arrest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Other / ungrouped</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Hexaxial_reference_system" title="Hexaxial reference system">hexaxial reference system</a></i>
+<ul>
+<li><a href="/wiki/Right_axis_deviation" title="Right axis deviation">Right axis deviation</a></li>
+<li><a href="/wiki/Left_axis_deviation" title="Left axis deviation">Left axis deviation</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/QT_interval" title="QT interval">QT</a></i>
+<ul>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/T_wave" title="T wave">T</a></i>
+<ul>
+<li><a href="/wiki/T_wave_alternans" title="T wave alternans">T wave alternans</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/ST_segment" title="ST segment">ST</a></i>
+<ul>
+<li><a href="/wiki/Osborn_wave" title="Osborn wave">Osborn wave</a></li>
+<li><a href="/wiki/ST_elevation" title="ST elevation">ST elevation</a></li>
+<li><a href="/wiki/ST_depression" title="ST depression">ST depression</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cardiomegaly" title="Cardiomegaly">Cardiomegaly</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ventricular_hypertrophy" title="Ventricular hypertrophy">Ventricular hypertrophy</a>
+<ul>
+<li><a href="/wiki/Left_ventricular_hypertrophy" title="Left ventricular hypertrophy">Left</a></li>
+<li><a href="/wiki/Right_ventricular_hypertrophy" title="Right ventricular hypertrophy">Right</a> / <a href="/wiki/Pulmonary_heart_disease" title="Pulmonary heart disease">Cor pulmonale</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atrial_enlargement" title="Atrial enlargement">Atrial enlargement</a>
+<ul>
+<li><a href="/wiki/Left_atrial_enlargement" title="Left atrial enlargement">Left</a></li>
+<li><a href="/wiki/Right_atrial_enlargement" title="Right atrial enlargement">Right</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cardiac_fibrosis" title="Cardiac fibrosis">Cardiac fibrosis</a></li>
+<li><a href="/wiki/Heart_failure" title="Heart failure">Heart failure</a>
+<ul>
+<li><a href="/wiki/Diastolic_heart_failure" title="Diastolic heart failure">Diastolic heart failure</a></li>
+<li><a href="/wiki/Cardiac_asthma" title="Cardiac asthma">Cardiac asthma</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Rheumatic_fever" title="Rheumatic fever">Rheumatic fever</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heart_navs" title="Template:Heart navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heart_navs" title="Template talk:Heart navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heart_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Human_heart" title="Human heart" class="mw-redirect">heart</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Heart_anatomy" title="Template:Heart anatomy">Anatomy</a></li>
+<li><a href="/wiki/Template:Cardiovascular_physiology" title="Template:Cardiovascular physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Development_of_mammalian_circulatory_system" title="Template:Development of mammalian circulatory system">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Chest_trauma" title="Template:Chest trauma">Injury</a></li>
+<li><a href="/wiki/Template:Congenital_heart_defects" title="Template:Congenital heart defects">Congenital</a></li>
+<li><a href="/wiki/Template:Heart_neoplasia" title="Template:Heart neoplasia">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Heart_diseases" title="Template:Heart diseases">Other</a></li>
+<li><a href="/wiki/Template:Cardiovascular_system_symptoms_and_signs" title="Template:Cardiovascular system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_cardiovascular_system" title="Template:Eponymous medical signs for cardiovascular system">eponymous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Clinical_biochemistry_blood_tests" title="Template:Clinical biochemistry blood tests">Blood tests</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cardiac_procedures" title="Template:Cardiac procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Cardiac_glycosides" title="Template:Cardiac glycosides">glycosides</a></li>
+<li><a href="/wiki/Template:Cardiac_stimulants_excluding_cardiac_glycosides" title="Template:Cardiac stimulants excluding cardiac glycosides">other stimulants</a></li>
+<li><a href="/wiki/Template:Antiarrhythmic_agents" title="Template:Antiarrhythmic agents">antiarrhythmics</a></li>
+<li><a href="/wiki/Template:Vasodilators_used_in_cardiac_diseases" title="Template:Vasodilators used in cardiac diseases">vasodilators</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1233
+CPU time usage: 0.341 seconds
+Real time usage: 0.473 seconds
+Preprocessor visited node count: 3544/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 147413/2097152 bytes
+Template argument size: 9462/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.113/10.000 seconds
+Lua memory usage: 3.96 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  389.826      1 - -total
+ 37.46%  146.046      1 - Template:Reflist
+ 29.64%  115.541      7 - Template:Navbox
+ 21.13%   82.355      1 - Template:Infobox_disease
+ 18.26%   71.200      1 - Template:Infobox
+ 17.93%   69.905      1 - Template:Heart_diseases
+ 14.73%   57.419      1 - Template:Technical
+ 13.00%   50.673      5 - Template:Navbox_subgroup
+ 12.00%   46.789      7 - Template:Cite_journal
+ 10.68%   41.633      1 - Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:685936-0!*!0!!en!4!* and timestamp 20150711035554 and revision id 670135512
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Torsades_de_pointes&amp;oldid=670135512">https://en.wikipedia.org/w/index.php?title=Torsades_de_pointes&amp;oldid=670135512</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cardiac_dysrhythmia" title="Category:Cardiac dysrhythmia">Cardiac dysrhythmia</a></li><li><a href="/wiki/Category:French_medical_phrases" title="Category:French medical phrases">French medical phrases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_December_2013" title="Category:Wikipedia articles that are too technical from December 2013">Wikipedia articles that are too technical from December 2013</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_December_2013" title="Category:Articles needing expert attention from December 2013">Articles needing expert attention from December 2013</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2015" title="Category:Articles with unsourced statements from April 2015">Articles with unsourced statements from April 2015</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Torsades+de+pointes&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Torsades+de+pointes" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Torsades_de_pointes"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Torsades_de_pointes"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Torsades_de_pointes" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Torsades_de_pointes&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Torsades_de_pointes" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Torsades_de_pointes" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Torsades_de_pointes&amp;oldid=670135512" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Torsades_de_pointes&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1625433" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Torsades_de_pointes&amp;id=670135512" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Torsades+de+pointes">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Torsades+de+pointes&amp;oldid=670135512&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Torsades_de_pointes&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%D8%B3%D8%A7%D8%AF_%D8%AF%D9%8A_%D8%A8%D9%88%D8%A7%D9%86%D8%AA" title="تورساد دي بوانت – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Torsade_de_pointes" title="Torsade de pointes – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Torsades_de_pointes" title="Torsades de pointes – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Torsades_de_pointe" title="Torsades de pointe – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Torsione_di_punta" title="Torsione di punta – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%98%D7%95%D7%A8%D7%A1%D7%93_%D7%93%D7%94_%D7%A4%D7%95%D7%90%D7%A0%D7%98" title="טורסד דה פואנט – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Torsade_de_pointes" title="Torsade de pointes – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Torsades_de_pointes" title="Torsades de pointes – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Torsades_de_pointes" title="Torsades de pointes – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/Torsades_de_pointes" title="Torsades de pointes – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Xo%E1%BA%AFn_%C4%91%E1%BB%89nh" title="Xoắn đỉnh – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1625433#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 July 2015, at 02:19.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Torsades_de_pointes&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1218"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Lattice QCD - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lattice_QCD" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lattice_QCD&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lattice_QCD&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Lattice_QCD" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lattice_QCD" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lattice_QCD","wgTitle":"Lattice QCD","wgCurRevisionId":660010234,"wgRevisionId":660010234,"wgArticleId":977072,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","All articles with unsourced statements","Articles with unsourced statements from January 2015","Lattice models","Quantum chromodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lattice_QCD","wgRelevantArticleId":977072,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/100px-Feynmann_Diagram_Gluon_Radiation.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6166044"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lattice_QCD skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Lattice QCD</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">Quantum field theory</th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/Feynman_diagram" title="Feynman diagram"><img alt="Feynmann Diagram Gluon Radiation.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/211px-Feynmann_Diagram_Gluon_Radiation.svg.png" width="211" height="135" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/317px-Feynmann_Diagram_Gluon_Radiation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Feynmann_Diagram_Gluon_Radiation.svg/422px-Feynmann_Diagram_Gluon_Radiation.svg.png 2x" data-file-width="279" data-file-height="178" /></a>
+<div style="padding-top:0.2em;line-height:1.2em">Feynman diagram</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/History_of_quantum_field_theory" title="History of quantum field theory">History</a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Background</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Field_(physics)" title="Field (physics)">Field theory</a></li>
+<li><a href="/wiki/Gauge_theory" title="Gauge theory">Gauge theory</a></li>
+<li><a href="/wiki/Poincar%C3%A9_symmetry" title="Poincaré symmetry" class="mw-redirect">Poincaré symmetry</a></li>
+<li><a href="/wiki/Quantum_mechanics" title="Quantum mechanics">Quantum mechanics</a></li>
+<li><a href="/wiki/Spontaneous_symmetry_breaking" title="Spontaneous symmetry breaking">Spontaneous symmetry breaking</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Symmetry_(physics)" title="Symmetry (physics)">Symmetries</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Charge_conjugation" title="Charge conjugation" class="mw-redirect">Charge conjugation</a></li>
+<li><a href="/wiki/Crossing_(physics)" title="Crossing (physics)">Crossing</a></li>
+<li><a href="/wiki/Parity_(physics)" title="Parity (physics)">Parity</a></li>
+<li><a href="/wiki/T-symmetry" title="T-symmetry">Time reversal</a></li>
+<li><a href="/wiki/Symmetry_in_quantum_mechanics" title="Symmetry in quantum mechanics">Symmetry in quantum mechanics</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Tools</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Anomaly_(physics)" title="Anomaly (physics)">Anomaly</a></li>
+<li><a href="/wiki/Effective_field_theory" title="Effective field theory">Effective field theory</a></li>
+<li><a href="/wiki/Vacuum_expectation_value" title="Vacuum expectation value">Expectation value</a></li>
+<li><a href="/wiki/Faddeev%E2%80%93Popov_ghost" title="Faddeev–Popov ghost">Faddeev–Popov ghosts</a></li>
+<li><a href="/wiki/Feynman_diagram" title="Feynman diagram">Feynman diagram</a></li>
+<li><a href="/wiki/Lattice_gauge_theory" title="Lattice gauge theory">Lattice gauge theory</a></li>
+<li><a href="/wiki/LSZ_reduction_formula" title="LSZ reduction formula">LSZ reduction formula</a></li>
+<li><a href="/wiki/Partition_function_(quantum_field_theory)" title="Partition function (quantum field theory)">Partition function</a></li>
+<li><a href="/wiki/Propagator_(Quantum_Theory)" title="Propagator (Quantum Theory)" class="mw-redirect">Propagator</a></li>
+<li><a href="/wiki/Quantization_(physics)" title="Quantization (physics)">Quantization</a></li>
+<li><a href="/wiki/Regularization_(physics)" title="Regularization (physics)">Regularization</a></li>
+<li><a href="/wiki/Renormalization" title="Renormalization">Renormalization</a></li>
+<li><a href="/wiki/Vacuum_state" title="Vacuum state">Vacuum state</a></li>
+<li><a href="/wiki/Wick%27s_theorem" title="Wick's theorem">Wick's theorem</a></li>
+<li><a href="/wiki/Wightman_axioms" title="Wightman axioms">Wightman axioms</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Equations</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Dirac_equation" title="Dirac equation">Dirac equation</a></li>
+<li><a href="/wiki/Klein%E2%80%93Gordon_equation" title="Klein–Gordon equation">Klein–Gordon equation</a></li>
+<li><a href="/wiki/Proca_action" title="Proca action">Proca equations</a></li>
+<li><a href="/wiki/Wheeler%E2%80%93DeWitt_equation" title="Wheeler–DeWitt equation">Wheeler–DeWitt equation</a></li>
+<li><a href="/wiki/Bargmann%E2%80%93Wigner_equations" title="Bargmann–Wigner equations">Bargmann–Wigner equations</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Standard_Model" title="Standard Model">Standard Model</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Electroweak_interaction" title="Electroweak interaction">Electroweak interaction</a></li>
+<li><a href="/wiki/Higgs_mechanism" title="Higgs mechanism">Higgs mechanism</a></li>
+<li><a href="/wiki/Quantum_chromodynamics" title="Quantum chromodynamics">Quantum chromodynamics</a></li>
+<li><a href="/wiki/Quantum_electrodynamics" title="Quantum electrodynamics">Quantum electrodynamics</a></li>
+<li><a href="/wiki/Yang%E2%80%93Mills_theory" title="Yang–Mills theory">Yang–Mills theory</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Incomplete theories</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Quantum_gravity" title="Quantum gravity">Quantum gravity</a></li>
+<li><a href="/wiki/String_theory" title="String theory">String theory</a></li>
+<li><a href="/wiki/Supersymmetry" title="Supersymmetry">Supersymmetry</a></li>
+<li><a href="/wiki/Technicolor_(physics)" title="Technicolor (physics)">Technicolor</a></li>
+<li><a href="/wiki/Theory_of_everything" title="Theory of everything">Theory of everything</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carl_D._Anderson" title="Carl D. Anderson" class="mw-redirect">C. D. Anderson</a></li>
+<li><a href="/wiki/Philip_Warren_Anderson" title="Philip Warren Anderson">P. W. Anderson</a></li>
+<li><a href="/wiki/Hans_Bethe" title="Hans Bethe">Bethe</a></li>
+<li><a href="/wiki/James_Bjorken" title="James Bjorken">Bjorken</a></li>
+<li><a href="/wiki/Nikolay_Bogolyubov" title="Nikolay Bogolyubov">Bogoliubov</a></li>
+<li><a href="/wiki/Robert_Brout" title="Robert Brout">Brout</a></li>
+<li><a href="/wiki/Curtis_Callan" title="Curtis Callan">Callan</a></li>
+<li><a href="/wiki/Sidney_Coleman" title="Sidney Coleman">Coleman</a></li>
+<li><a href="/wiki/Bryce_DeWitt" title="Bryce DeWitt">DeWitt</a></li>
+<li><a href="/wiki/Paul_Dirac" title="Paul Dirac">Dirac</a></li>
+<li><a href="/wiki/Freeman_Dyson" title="Freeman Dyson">Dyson</a></li>
+<li><a href="/wiki/Fran%C3%A7ois_Englert" title="François Englert">Englert</a></li>
+<li><a href="/wiki/Enrico_Fermi" title="Enrico Fermi">Fermi</a></li>
+<li><a href="/wiki/Richard_Feynman" title="Richard Feynman">Feynman</a></li>
+<li><a href="/wiki/Markus_Fierz" title="Markus Fierz">Fierz</a></li>
+<li><a href="/wiki/Vladimir_Fock" title="Vladimir Fock">Fock</a></li>
+<li><a href="/wiki/J%C3%BCrg_Fr%C3%B6hlich" title="Jürg Fröhlich">Fröhlich</a></li>
+<li><a href="/wiki/Sheldon_Glashow" title="Sheldon Glashow" class="mw-redirect">Glashow</a></li>
+<li><a href="/wiki/Murray_Gell-Mann" title="Murray Gell-Mann">Gell-Mann</a></li>
+<li><a href="/wiki/David_Gross" title="David Gross">Gross</a></li>
+<li><a href="/wiki/Gerald_Guralnik" title="Gerald Guralnik">Guralnik</a></li>
+<li><a href="/wiki/Werner_Heisenberg" title="Werner Heisenberg">Heisenberg</a></li>
+<li><a href="/wiki/Peter_Higgs" title="Peter Higgs">Higgs</a></li>
+<li><a href="/wiki/Rudolf_Haag" title="Rudolf Haag">Haag</a></li>
+<li><a href="/wiki/C._R._Hagen" title="C. R. Hagen">Hagen</a></li>
+<li><a href="/wiki/Gerard_%27t_Hooft" title="Gerard 't Hooft">'t Hooft</a></li>
+<li><a href="/wiki/Pascual_Jordan" title="Pascual Jordan">Jordan</a></li>
+<li><a href="/wiki/Henry_Way_Kendall" title="Henry Way Kendall">Kendall</a></li>
+<li><a href="/wiki/Tom_W._B._Kibble" title="Tom W. B. Kibble" class="mw-redirect">Kibble</a></li>
+<li><a href="/wiki/Willis_Lamb" title="Willis Lamb">Lamb</a></li>
+<li><a href="/wiki/Lev_Landau" title="Lev Landau">Landau</a></li>
+<li><a href="/wiki/Tsung-Dao_Lee" title="Tsung-Dao Lee">Lee</a></li>
+<li><a href="/wiki/Ettore_Majorana" title="Ettore Majorana">Majorana</a></li>
+<li><a href="/wiki/Robert_Mills_(physicist)" title="Robert Mills (physicist)">Mills</a></li>
+<li><a href="/wiki/Yoichiro_Nambu" title="Yoichiro Nambu">Nambu</a></li>
+<li><a href="/wiki/Kazuhiko_Nishijima" title="Kazuhiko Nishijima">Nishijima</a></li>
+<li><a href="/wiki/Giorgio_Parisi" title="Giorgio Parisi">Parisi</a></li>
+<li><a href="/wiki/Alexander_Markovich_Polyakov" title="Alexander Markovich Polyakov">Polyakov</a></li>
+<li><a href="/wiki/Abdus_Salam" title="Abdus Salam">Salam</a></li>
+<li><a href="/wiki/Julian_Schwinger" title="Julian Schwinger">Schwinger</a></li>
+<li><a href="/wiki/Tony_Skyrme" title="Tony Skyrme">Skyrme</a></li>
+<li><a href="/wiki/George_Sudarshan" title="George Sudarshan" class="mw-redirect">Sudarshan</a></li>
+<li><a href="/wiki/Sin-Itiro_Tomonaga" title="Sin-Itiro Tomonaga">Tomonaga</a></li>
+<li><a href="/wiki/Martinus_Veltman" title="Martinus Veltman" class="mw-redirect">Veltman</a></li>
+<li><a href="/wiki/John_Clive_Ward" title="John Clive Ward">Ward</a></li>
+<li><a href="/wiki/Steven_Weinberg" title="Steven Weinberg">Weinberg</a></li>
+<li><a href="/wiki/Hermann_Weyl" title="Hermann Weyl">Weyl</a></li>
+<li><a href="/wiki/Frank_Wilczek" title="Frank Wilczek">Wilczek</a></li>
+<li><a href="/wiki/Kenneth_G._Wilson" title="Kenneth G. Wilson">Wilson</a></li>
+<li><a href="/wiki/Chen_Ning_Yang" title="Chen Ning Yang" class="mw-redirect">Yang</a></li>
+<li><a href="/wiki/Hideki_Yukawa" title="Hideki Yukawa">Yukawa</a></li>
+<li><a href="/wiki/Victor_Weisskopf" title="Victor Weisskopf">Weisskopf</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Quantum_field_theory" title="Template:Quantum field theory"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Quantum_field_theory" title="Template talk:Quantum field theory"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Quantum_field_theory&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Lattice QCD</b> is a well-established non-<a href="/wiki/Perturbation_theory_(quantum_mechanics)" title="Perturbation theory (quantum mechanics)">perturbative</a> approach to solving the <a href="/wiki/Quantum_chromodynamics" title="Quantum chromodynamics">quantum chromodynamics</a> (QCD) theory of <a href="/wiki/Quark" title="Quark">quarks</a> and <a href="/wiki/Gluon" title="Gluon">gluons</a>. It is a <a href="/wiki/Lattice_gauge_theory" title="Lattice gauge theory">lattice gauge theory</a> formulated on a grid or <a href="/wiki/Lattice_(group)" title="Lattice (group)">lattice</a> of points in space and time. When the size of the lattice is taken infinitely large and its sites infinitesimally close to each other, the continuum QCD is recovered.<sup id="cite_ref-wilson_1-0" class="reference"><a href="#cite_note-wilson-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>Analytic or perturbative solutions in low-energy QCD are hard or impossible due to the highly nonlinear nature of the <a href="/wiki/Strong_force" title="Strong force" class="mw-redirect">strong force</a> and the large <a href="/wiki/Coupling_constant#QCD_and_asymptotic_freedom" title="Coupling constant">coupling constant</a> at low energies. This formulation of QCD in discrete rather than continuous spacetime naturally introduces a momentum cut-off at the order 1/<i>a</i>, where <i>a</i> is the lattice spacing, which regularizes the theory. As a result, lattice QCD is mathematically well-defined. Most importantly, lattice QCD provides a framework for investigation of non-perturbative phenomena such as <a href="/wiki/Colour_confinement" title="Colour confinement" class="mw-redirect">confinement</a> and <a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">quark–gluon plasma</a> formation, which are intractable by means of analytic field theories.</p>
+<p>In lattice QCD, fields representing quarks are defined at lattice sites (which leads to <a href="/wiki/Fermion_doubling" title="Fermion doubling">fermion doubling</a>), while the gluon fields are defined on the links connecting neighboring sites. This approximation approaches continuum QCD as the spacing between lattice sites is reduced to zero. Because the computational cost of numerical simulations can increase dramatically as the lattice spacing decreases, results are often <a href="/wiki/Extrapolation" title="Extrapolation">extrapolated</a> to <i>a = 0</i> by repeated calculations at different lattice spacings <i>a</i> that are large enough to be tractable.</p>
+<p>Numerical lattice QCD calculations using <a href="/wiki/Monte_Carlo_method" title="Monte Carlo method">Monte Carlo methods</a> can be extremely computationally intensive, requiring the use of the largest available <a href="/wiki/Supercomputer" title="Supercomputer">supercomputers</a>. To reduce the computational burden, the so-called <a href="/wiki/Quenched_approximation" title="Quenched approximation">quenched approximation</a> can be used, in which the quark fields are treated as non-dynamic "frozen" variables. While this was common in early lattice QCD calculations, "dynamical" fermions are now standard.<sup id="cite_ref-Bazavov_2-0" class="reference"><a href="#cite_note-Bazavov-2"><span>[</span>2<span>]</span></a></sup> These simulations typically utilize algorithms based upon <a href="/wiki/Molecular_dynamics" title="Molecular dynamics">molecular dynamics</a> or <a href="/wiki/Microcanonical_ensemble" title="Microcanonical ensemble">microcanonical ensemble</a> algorithms.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>At present, lattice QCD is primarily applicable at low densities where the <a href="/wiki/Numerical_sign_problem" title="Numerical sign problem">numerical sign problem</a> does not interfere with calculations. Lattice QCD predicts that confined quarks will become released to quark-gluon plasma around energies of 150 MeV.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Monte_Carlo_method" title="Monte Carlo method">Monte Carlo methods</a> are free from the sign problem when applied to the case of QCD with gauge group SU(2) (QC<sub>2</sub>D).</p>
+<p>Lattice QCD has already made successful contact with many experiments. For example the mass of the <a href="/wiki/Proton" title="Proton">proton</a> has been determined theoretically with an error of less than 2 percent.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Lattice QCD has also been used as a benchmark for high-performance computing, an approach originally developed in the context of the IBM <a href="/wiki/Blue_Gene" title="Blue Gene">Blue Gene</a> supercomputer.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2015)">citation needed</span></a></i>]</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Techniques"><span class="tocnumber">1</span> <span class="toctext">Techniques</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Monte-Carlo_simulations"><span class="tocnumber">1.1</span> <span class="toctext">Monte-Carlo simulations</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Fermions_on_the_lattice"><span class="tocnumber">1.2</span> <span class="toctext">Fermions on the lattice</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Lattice_perturbation_theory"><span class="tocnumber">1.3</span> <span class="toctext">Lattice perturbation theory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Limitations"><span class="tocnumber">2</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Techniques">Techniques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=1" title="Edit section: Techniques">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Monte-Carlo_simulations">Monte-Carlo simulations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=2" title="Edit section: Monte-Carlo simulations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Monte_Carlo_method" title="Monte Carlo method">Monte-Carlo</a> is a method to pseudo-randomly sample a large space of variables. The importance sampling technique used to select the gauge configurations in the Monte-Carlo simulation imposes the use of <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean time</a>, by a <a href="/wiki/Wick_rotation" title="Wick rotation">Wick rotation</a> of <a href="/wiki/Spacetime" title="Spacetime">spacetime</a>.</p>
+<p>In lattice Monte-Carlo simulations the aim is to calculate <a href="/wiki/Correlation_function_(quantum_field_theory)" title="Correlation function (quantum field theory)">correlation functions</a>. This is done by explicitly calculating the <a href="/wiki/Action_(physics)" title="Action (physics)">action</a>, using field configurations which are chosen according to the <a href="/wiki/Distribution_function" title="Distribution function">distribution function</a>, which depends on the action and the fields. Usually one starts with the <a href="/wiki/Gauge_boson" title="Gauge boson">gauge bosons</a> part and gauge-<a href="/wiki/Fermion" title="Fermion">fermion</a> interaction part of the action to calculate the gauge configurations, and then uses the simulated gauge configurations to calculate <a href="/wiki/Hadron" title="Hadron">hadronic</a> <a href="/wiki/Propagator" title="Propagator">propagators</a> and correlation functions.</p>
+<h3><span class="mw-headline" id="Fermions_on_the_lattice">Fermions on the lattice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=3" title="Edit section: Fermions on the lattice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lattice QCD is a way to solve the theory exactly from first principles, without any assumptions, to the desired precision. However, in practice the calculation power is limited, which requires a smart use of the available resources. One needs to choose an action which gives the best physical description of the system, with minimum errors, using the available computational power. The limited computer resources force one to use physical constants which are different from their true physical values:</p>
+<ul>
+<li>The lattice discretization means a finite lattice spacing and size, which do not exist in the continuous and infinite space-time. In addition to the automatic error introduced by this, the limited resources force the use of smaller physical lattices and larger lattice spacing than wanted in order to minimize errors.</li>
+<li>Another unphysical quantity is the quark masses. Quark masses are steadily going down, and within the past few years a few collaborations have used physical values.<sup id="cite_ref-Bazavov_2-1" class="reference"><a href="#cite_note-Bazavov-2"><span>[</span>2<span>]</span></a></sup></li>
+</ul>
+<p>In order to compensate for the errors one improves the lattice action in various ways, to minimize mainly finite spacing errors.</p>
+<h3><span class="mw-headline" id="Lattice_perturbation_theory">Lattice perturbation theory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=4" title="Edit section: Lattice perturbation theory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In lattice perturbation theory the <a href="/wiki/Scattering_matrix" title="Scattering matrix" class="mw-redirect">scattering matrix</a> is <a href="/wiki/Taylor_expansion" title="Taylor expansion" class="mw-redirect">expanded</a> in powers of the lattice spacing, <i>a</i>. The results are used primarily to <a href="/wiki/Renormalization" title="Renormalization">renormalize</a> Lattice QCD Monte-Carlo calculations. In perturbative calculations both the operators of the action and the propagators are calculated on the lattice and expanded in powers of <i>a</i>. When renormalizing a calculation, the coefficients of the expansion need to be matched with a common continuum scheme, such as the <a href="/wiki/MS-bar_scheme" title="MS-bar scheme" class="mw-redirect">MS-bar scheme</a>, otherwise the results cannot be compared. The expansion has to be carried out to the same order in the continuum scheme and the lattice one.</p>
+<p>The lattice regularization was initially introduced by <a href="/wiki/Kenneth_G._Wilson" title="Kenneth G. Wilson">Wilson</a> as a framework for studying strongly coupled theories non-perturbatively. However, it was found to be a regularization suitable also for perturbative calculations. Perturbation theory involves an expansion in the coupling constant, and is well-justified in high-energy QCD where the coupling constant is small, while it fails completely when the coupling is large and higher order corrections are larger than lower orders in the perturbative series. In this region non-perturbative methods, such as Monte-Carlo sampling of the correlation function, are necessary.</p>
+<p>Lattice perturbation theory can also provide results for <a href="/wiki/Condensed_matter" title="Condensed matter" class="mw-redirect">condensed matter</a> theory. One can use the lattice to represent the real atomic <a href="/wiki/Crystal" title="Crystal">crystal</a>. In this case the lattice spacing is a real physical value, and not an artifact of the calculation which has to be removed, and a quantum field theory can be formulated and solved on the physical lattice.</p>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=5" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The method suffers from a few limitations:</p>
+<ul>
+<li>Currently there is no formulation of lattice QCD that allows us to simulate real-time dynamics of quark-gluon system such as quark-gluon plasma.</li>
+<li>It is computationally intensive, with the bottleneck not being flops but the bandwidth of memory access.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Lattice_model_(physics)" title="Lattice model (physics)">Lattice model (physics)</a></li>
+<li><a href="/wiki/Lattice_field_theory" title="Lattice field theory">Lattice field theory</a></li>
+<li><a href="/wiki/Lattice_gauge_theory" title="Lattice gauge theory">Lattice gauge theory</a></li>
+<li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/QCD_sum_rules" title="QCD sum rules">QCD sum rules</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-wilson-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-wilson_1-0">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Kenneth_G._Wilson" title="Kenneth G. Wilson">Wilson, K.</a> (1974). "Confinement of quarks". <i><a href="/wiki/Physical_Review_D" title="Physical Review D" class="mw-redirect">Physical Review D</a></i> <b>10</b> (8): 2445. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1974PhRvD..10.2445W">1974PhRvD..10.2445W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevD.10.2445">10.1103/PhysRevD.10.2445</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALattice+QCD&amp;rft.atitle=Confinement+of+quarks&amp;rft.aufirst=K.&amp;rft.aulast=Wilson&amp;rft.au=Wilson%2C+K.&amp;rft.date=1974&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1974PhRvD..10.2445W&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevD.10.2445&amp;rft.issue=8&amp;rft.jtitle=Physical+Review+D&amp;rft.pages=2445&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=10" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bazavov-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bazavov_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bazavov_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">A. Bazavov et al. (2010). "Nonperturbative QCD simulations with 2+1 flavors of improved staggered quarks". <i>Reviews of Modern Physics</i> <b>82</b> (2): 1349–1417. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0903.3598">0903.3598</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010RvMP...82.1349B">2010RvMP...82.1349B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FRevModPhys.82.1349">10.1103/RevModPhys.82.1349</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALattice+QCD&amp;rft.atitle=Nonperturbative+QCD+simulations+with+2%2B1+flavors+of+improved+staggered+quarks&amp;rft.au=A.+Bazavov&amp;rft.aulast=A.+Bazavov&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0903.3598&amp;rft_id=info%3Abibcode%2F2010RvMP...82.1349B&amp;rft_id=info%3Adoi%2F10.1103%2FRevModPhys.82.1349&amp;rft.issue=2&amp;rft.jtitle=Reviews+of+Modern+Physics&amp;rft.pages=1349-1417&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=82" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/David_Callaway" title="David Callaway">David J. E. Callaway</a> and <a href="/wiki/Aneesur_Rahman" title="Aneesur Rahman">Aneesur Rahman</a> (1982). "Microcanonical Ensemble Formulation of Lattice Gauge Theory". <i>Physical Review Letters</i> <b>49</b> (9): 613–616. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1982PhRvL..49..613C">1982PhRvL..49..613C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevLett.49.613">10.1103/PhysRevLett.49.613</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALattice+QCD&amp;rft.atitle=Microcanonical+Ensemble+Formulation+of+Lattice+Gauge+Theory&amp;rft.au=David+J.+E.+Callaway+and+Aneesur+Rahman&amp;rft.aulast=David+J.+E.+Callaway+and+Aneesur+Rahman&amp;rft.date=1982&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1982PhRvL..49..613C&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.49.613&amp;rft.issue=9&amp;rft.jtitle=Physical+Review+Letters&amp;rft.pages=613-616&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=49" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/David_Callaway" title="David Callaway">David J. E. Callaway</a> and <a href="/wiki/Aneesur_Rahman" title="Aneesur Rahman">Aneesur Rahman</a> (1983). "Lattice gauge theory in the microcanonical ensemble". <i>Physical Review</i> <b>D28</b> (6): 1506–1514. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1983PhRvD..28.1506C">1983PhRvD..28.1506C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1103%2FPhysRevD.28.1506">10.1103/PhysRevD.28.1506</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALattice+QCD&amp;rft.atitle=Lattice+gauge+theory+in+the+microcanonical+ensemble&amp;rft.au=David+J.+E.+Callaway+and+Aneesur+Rahman&amp;rft.aulast=David+J.+E.+Callaway+and+Aneesur+Rahman&amp;rft.date=1983&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1983PhRvD..28.1506C&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevD.28.1506&amp;rft.issue=6&amp;rft.jtitle=Physical+Review&amp;rft.pages=1506-1514&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=D28" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">P. Petreczky (2012). "Lattice QCD at non-zero temperature". <i>J.Phys. G</i> <b>39</b>: 093002. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/1203.5320">1203.5320</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2012JPhG...39i3002P">2012JPhG...39i3002P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F0954-3899%2F39%2F9%2F093002">10.1088/0954-3899/39/9/093002</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALattice+QCD&amp;rft.atitle=Lattice+QCD+at+non-zero+temperature&amp;rft.aulast=P.+Petreczky&amp;rft.au=P.+Petreczky&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1203.5320&amp;rft_id=info%3Abibcode%2F2012JPhG...39i3002P&amp;rft_id=info%3Adoi%2F10.1088%2F0954-3899%2F39%2F9%2F093002&amp;rft.jtitle=J.Phys.+G&amp;rft.pages=093002&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=39" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation journal">S. Dürr, Z. Fodor, J. Frison et al. (2008). "Ab Initio Determination of Light Hadron Masses". <i>Science</i> <b>322</b> (5905): 1224–7. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0906.3599">0906.3599</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2008Sci...322.1224D">2008Sci...322.1224D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1163233">10.1126/science.1163233</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19023076">19023076</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALattice+QCD&amp;rft.atitle=Ab+Initio+Determination+of+Light+Hadron+Masses&amp;rft.aulast=S.+D%C3%BCrr%2C+Z.+Fodor%2C+J.+Frison&amp;rft.au=S.+D%C3%BCrr%2C+Z.+Fodor%2C+J.+Frison&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0906.3599&amp;rft_id=info%3Abibcode%2F2008Sci...322.1224D&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1163233&amp;rft_id=info%3Apmid%2F19023076&amp;rft.issue=5905&amp;rft.jtitle=Science&amp;rft.pages=1224-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=322" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>M. Creutz, <i>Quarks, gluons and lattices</i>, Cambridge University Press 1985.</li>
+<li>I. Montvay and G. Münster, <i>Quantum Fields on a Lattice</i>, Cambridge University Press 1997.</li>
+<li><a href="/wiki/Jan_Smit_(physicist)" title="Jan Smit (physicist)">J. Smit</a>, <i>Introduction to Quantum Fields on a Lattice</i>, Cambridge University Press 2002.</li>
+<li>H. Rothe, <i>Lattice Gauge Theories, An Introduction</i>, World Scientific 2005.</li>
+<li>T. DeGrand and C. DeTar, <i>Lattice Methods for Quantum Chromodynamics</i>, World Scientific 2006.</li>
+<li>C. Gattringer and C. B. Lang, <i>Quantum Chromodynamics on the Lattice</i>, Springer 2010.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://arxiv.org/abs/hep-lat/9807028">Gupta - Introduction to Lattice QCD</a></li>
+<li><a rel="nofollow" class="external text" href="http://arxiv.org/abs/hep-lat/0509180">Lombardo - Lattice QCD at Finite Temperature and Density</a></li>
+<li><a rel="nofollow" class="external text" href="http://arxiv.org/abs/hep-lat/0405024">Chandrasekharan, Wiese - An Introduction to Chiral Symmetry on the Lattice</a></li>
+<li><a rel="nofollow" class="external text" href="http://pos.sissa.it/archive/conferences/020/001/LAT2005_001.pdf">Kuti, Julius - Lattice QCD and String Theory</a></li>
+<li><a rel="nofollow" class="external text" href="http://fermiqcd.net">The FermiQCD Library for Lattice Field theory</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1162
+CPU time usage: 0.184 seconds
+Real time usage: 0.222 seconds
+Preprocessor visited node count: 676/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33020/2097152 bytes
+Template argument size: 486/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 2.35 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  154.788      1 - -total
+ 39.33%   60.875      1 - Template:Reflist
+ 28.44%   44.016      1 - Template:Quantum_field_theory
+ 28.11%   43.507      6 - Template:Cite_journal
+ 26.56%   41.112      1 - Template:Citation_needed
+ 26.26%   40.640      1 - Template:Sidebar_with_collapsible_lists
+ 22.68%   35.099      1 - Template:Fix
+ 20.13%   31.166      2 - Template:Category_handler
+  3.05%    4.726      1 - Template:Fix/category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:977072-0!*!0!!en!4!* and timestamp 20150626235058 and revision id 660010234
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lattice_QCD&amp;oldid=660010234">https://en.wikipedia.org/w/index.php?title=Lattice_QCD&amp;oldid=660010234</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lattice_models" title="Category:Lattice models">Lattice models</a></li><li><a href="/wiki/Category:Quantum_chromodynamics" title="Category:Quantum chromodynamics">Quantum chromodynamics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2015" title="Category:Articles with unsourced statements from January 2015">Articles with unsourced statements from January 2015</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lattice+QCD&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lattice+QCD" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lattice_QCD"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Lattice_QCD"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Lattice_QCD" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Lattice_QCD&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lattice_QCD&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lattice_QCD" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lattice_QCD" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lattice_QCD&amp;oldid=660010234" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lattice_QCD&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q6166044" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lattice_QCD&amp;id=660010234" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lattice+QCD">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lattice+QCD&amp;oldid=660010234&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lattice_QCD&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chromodynamique_quantique_sur_r%C3%A9seau" title="Chromodynamique quantique sur réseau – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/QCD_su_reticolo" title="QCD su reticolo – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9B%D7%A8%D7%95%D7%9E%D7%95%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7%D7%94_%D7%A7%D7%95%D7%95%D7%A0%D7%98%D7%99%D7%AA_%D7%A2%D7%9C_%D7%A1%D7%A8%D7%99%D7%92" title="כרומודינמיקה קוונטית על סריג – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ret%C3%ADculo_QCD" title="Retículo QCD – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q6166044#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 April 2015, at 06:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lattice_QCD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1023"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Partition of a set - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Partition_of_a_set" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Partition_of_a_set&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Partition_of_a_set&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Partition_of_a_set" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Partition_of_a_set" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Partition_of_a_set","wgTitle":"Partition of a set","wgCurRevisionId":663746516,"wgRevisionId":663746516,"wgArticleId":340240,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Basic concepts in set theory","Combinatorics","Set families"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Partition_of_a_set","wgRelevantArticleId":340240,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Indiabundleware.jpg/100px-Indiabundleware.jpg","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q381060"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Partition_of_a_set skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Partition of a set</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For the partition calculus of sets, see <a href="/wiki/Infinitary_combinatorics" title="Infinitary combinatorics">infinitary combinatorics</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Indiabundleware.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Indiabundleware.jpg/220px-Indiabundleware.jpg" width="220" height="196" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Indiabundleware.jpg/330px-Indiabundleware.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Indiabundleware.jpg/440px-Indiabundleware.jpg 2x" data-file-width="477" data-file-height="424" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Indiabundleware.jpg" class="internal" title="Enlarge"></a></div>
+A set of stamps partitioned into bundles: No stamp is in two bundles, and no bundle is empty.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Set_partitions_5;_circles.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Set_partitions_5%3B_circles.svg/220px-Set_partitions_5%3B_circles.svg.png" width="220" height="530" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Set_partitions_5%3B_circles.svg/330px-Set_partitions_5%3B_circles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Set_partitions_5%3B_circles.svg/440px-Set_partitions_5%3B_circles.svg.png 2x" data-file-width="272" data-file-height="655" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Set_partitions_5;_circles.svg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Bell_number" title="Bell number">52</a> partitions of a set with 5 elements</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Genji_chapter_symbols_groupings_of_5_elements.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genji_chapter_symbols_groupings_of_5_elements.svg/220px-Genji_chapter_symbols_groupings_of_5_elements.svg.png" width="220" height="325" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genji_chapter_symbols_groupings_of_5_elements.svg/330px-Genji_chapter_symbols_groupings_of_5_elements.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Genji_chapter_symbols_groupings_of_5_elements.svg/440px-Genji_chapter_symbols_groupings_of_5_elements.svg.png 2x" data-file-width="428" data-file-height="632" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Genji_chapter_symbols_groupings_of_5_elements.svg" class="internal" title="Enlarge"></a></div>
+The traditional Japanese symbols for the chapters of the <i><a href="/wiki/Tale_of_Genji" title="Tale of Genji" class="mw-redirect">Tale of Genji</a></i> are based on the 52 ways of partitioning five elements.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <b>partition of a set</b> is a grouping of the set's elements into non-empty <a href="/wiki/Subset" title="Subset">subsets</a>, in such a way that every element is <a href="/wiki/Collectively_exhaustive_events" title="Collectively exhaustive events">included in one</a> and <a href="/wiki/Mutually_exclusive_events" title="Mutually exclusive events" class="mw-redirect">only one</a> of the subsets.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Partitions_and_equivalence_relations"><span class="tocnumber">3</span> <span class="toctext">Partitions and equivalence relations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Refinement_of_partitions"><span class="tocnumber">4</span> <span class="toctext">Refinement of partitions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Noncrossing_partitions"><span class="tocnumber">5</span> <span class="toctext">Noncrossing partitions</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Counting_partitions"><span class="tocnumber">6</span> <span class="toctext">Counting partitions</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A partition of a set <i>X</i> is a set of <a href="/wiki/Nonempty" title="Nonempty" class="mw-redirect">nonempty</a> <a href="/wiki/Subset" title="Subset">subsets</a> of <i>X</i> such that every element <i>x</i> in <i>X</i> is in exactly one of these subsets<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> (i.e., <i>X</i> is a <a href="/wiki/Disjoint_union" title="Disjoint union">disjoint union</a> of the subsets).</p>
+<p>Equivalently, a <a href="/wiki/Family_of_sets" title="Family of sets">family of sets</a> <i>P</i> is a partition of <i>X</i> if and only if all of the following conditions hold:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<ol>
+<li><i>P</i> does not contain the empty set.</li>
+<li>The <a href="/wiki/Union_(set_theory)" title="Union (set theory)">union</a> of the sets in <i>P</i> is equal to <i>X</i>. (The sets in <i>P</i> are said to <b>cover</b> <i>X</i>.)</li>
+<li>The <a href="/wiki/Intersection_(set_theory)" title="Intersection (set theory)">intersection</a> of any two distinct sets in <i>P</i> is empty. (We say the elements of <i>P</i> are <a href="/wiki/Pairwise_disjoint" title="Pairwise disjoint" class="mw-redirect">pairwise disjoint</a>.)</li>
+</ol>
+<p>In mathematical notation, these conditions can be represented as</p>
+<ol>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\emptyset \notin P" src="//upload.wikimedia.org/math/d/4/d/d4dca0b02e6476f4e39a3f3928a9bde2.png" /></li>
+<li><img class="mwe-math-fallback-image-inline tex" alt="\bigcup_{A\in P} A = X" src="//upload.wikimedia.org/math/5/a/5/5a598c76641ff19f7ed681992d0bea57.png" /></li>
+<li>if <img class="mwe-math-fallback-image-inline tex" alt="A,B \in P" src="//upload.wikimedia.org/math/b/f/8/bf8e660134910842ad22ccdf09de5d21.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="A\neq B" src="//upload.wikimedia.org/math/d/e/e/dee61ef25895ec8f5cc6d15b97fde797.png" /> then <img class="mwe-math-fallback-image-inline tex" alt="A \cap B = \emptyset" src="//upload.wikimedia.org/math/3/5/7/357172dce670dd7422031c6767bf800b.png" />,</li>
+</ol>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\emptyset" src="//upload.wikimedia.org/math/4/d/f/4df085f70a97244c977b6ff20b1952b4.png" /> is the <a href="/wiki/Empty_set" title="Empty set">empty set</a>.</p>
+<p>The sets in <i>P</i> are called the blocks, parts or cells of the partition.<sup id="cite_ref-brualdi44_45_3-0" class="reference"><a href="#cite_note-brualdi44_45-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The <b>rank</b> of <i>P</i> is |<i>X</i>| − |<i>P</i>|, if <i>X</i> is finite.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Every <a href="/wiki/Singleton_set" title="Singleton set" class="mw-redirect">singleton set</a> {<i>x</i>} has exactly one partition, namely { {<i>x</i>} }.</li>
+<li>For any nonempty set <i>X</i>, <i>P</i> = {<i>X</i>} is a partition of <i>X</i>, called the <b>trivial partition</b>.</li>
+<li>For any non-empty <a href="/wiki/Proper_subset" title="Proper subset" class="mw-redirect">proper subset</a> <i>A</i> of a set <i>U</i>, the set <i>A</i> together with its <a href="/wiki/Complement_(set_theory)" title="Complement (set theory)">complement</a> form a partition of <i>U</i>, namely, {<i>A</i>, <i>U</i>−<i>A</i>}.</li>
+<li>The set { 1, 2, 3 } has these five partitions:
+<ul>
+<li>{ {1}, {2}, {3} }, sometimes written 1|2|3.</li>
+<li>{ {1, 2}, {3} }, or 12|3.</li>
+<li>{ {1, 3}, {2} }, or 13|2.</li>
+<li>{ {1}, {2, 3} }, or 1|23.</li>
+<li>{ {1, 2, 3} }, or 123 (in contexts where there will be no confusion with the number).</li>
+</ul>
+</li>
+<li>The following are not partitions of { 1, 2, 3 }:
+<ul>
+<li>{ {}, {1, 3}, {2} } is not a partition (of any set) because one of its elements is the <a href="/wiki/Empty_set" title="Empty set">empty set</a>.</li>
+<li>{ {1, 2}, {2, 3} } is not a partition (of any set) because the element 2 is contained in more than one block.</li>
+<li>{ {1}, {2} } is not a partition of {1, 2, 3} because none of its blocks contains 3; however, it is a partition of {1, 2}.</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Partitions_and_equivalence_relations">Partitions and equivalence relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=3" title="Edit section: Partitions and equivalence relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For any <a href="/wiki/Equivalence_relation" title="Equivalence relation">equivalence relation</a> on a set <i>X</i>, the set of its <a href="/wiki/Equivalence_class" title="Equivalence class">equivalence classes</a> is a partition of <i>X</i>. Conversely, from any partition <i>P</i> of <i>X</i>, we can define an equivalence relation on <i>X</i> by setting <span class="nowrap"><i>x</i> ~ <i>y</i></span> precisely when <i>x</i> and <i>y</i> are in the same part in <i>P</i>. Thus the notions of equivalence relation and partition are essentially equivalent.<sup id="cite_ref-schechter54_4-0" class="reference"><a href="#cite_note-schechter54-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Axiom_of_choice" title="Axiom of choice">axiom of choice</a> guarantees for any partition of a set <i>X</i> the existence of a subset of <i>X</i> containing exactly one element from each part of the partition. This implies that given an equivalence relation on a set one can select a canonical representative element from every equivalence class.</p>
+<h2><span class="mw-headline" id="Refinement_of_partitions">Refinement of partitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=4" title="Edit section: Refinement of partitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Set_partitions_4;_Hasse;_circles.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Set_partitions_4%3B_Hasse%3B_circles.svg/300px-Set_partitions_4%3B_Hasse%3B_circles.svg.png" width="300" height="349" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Set_partitions_4%3B_Hasse%3B_circles.svg/450px-Set_partitions_4%3B_Hasse%3B_circles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Set_partitions_4%3B_Hasse%3B_circles.svg/600px-Set_partitions_4%3B_Hasse%3B_circles.svg.png 2x" data-file-width="630" data-file-height="732" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Set_partitions_4;_Hasse;_circles.svg" class="internal" title="Enlarge"></a></div>
+Partitions of a 4-set ordered by <a href="/wiki/Partition_refinement" title="Partition refinement">refinement</a></div>
+</div>
+</div>
+<p>A partition <i>α</i> of a set <i>X</i> is a <b>refinement</b> of a partition <i>ρ</i> of <i>X</i>—and we say that <i>α</i> is <i>finer</i> than <i>ρ</i> and that <i>ρ</i> is <i>coarser</i> than <i>α</i>—if every element of <i>α</i> is a subset of some element of <i>ρ</i>. Informally, this means that <i>α</i> is a further fragmentation of <i>ρ</i>. In that case, it is written that <i>α</i> ≤ <i>ρ</i>.</p>
+<p>This <i>finer-than</i> relation on the set of partitions of <i>X</i> is a <a href="/wiki/Partially_ordered_set" title="Partially ordered set">partial order</a> (so the notation "≤" is appropriate). Each set of elements has a <a href="/wiki/Least_upper_bound" title="Least upper bound" class="mw-redirect">least upper bound</a> and a <a href="/wiki/Greatest_lower_bound" title="Greatest lower bound" class="mw-redirect">greatest lower bound</a>, so that it forms a <a href="/wiki/Lattice_(order)" title="Lattice (order)">lattice</a>, and more specifically (for partitions of a finite set) it is a <a href="/wiki/Geometric_lattice" title="Geometric lattice">geometric lattice</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The <i>partition lattice</i> of a 4-element set has 15 elements and is depicted in the <a href="/wiki/Hasse_diagram" title="Hasse diagram">Hasse diagram</a> on the left.</p>
+<p>Based on the <a href="/wiki/Cryptomorphism" title="Cryptomorphism">cryptomorphism</a> between geometric lattices and <a href="/wiki/Matroid" title="Matroid">matroids</a>, this lattice of partitions of a finite set corresponds to a matroid in which the base set of the matroid consists of the <a href="/wiki/Atom_(order_theory)" title="Atom (order theory)">atoms</a> of the lattice, the partitions with <img class="mwe-math-fallback-image-inline tex" alt="n-2" src="//upload.wikimedia.org/math/b/a/8/ba81144e78f150a37fbe511667f9594b.png" /> singleton sets and one two-element set. These atomic partitions correspond one-for-one with the edges of a <a href="/wiki/Complete_graph" title="Complete graph">complete graph</a>. The <a href="/wiki/Matroid#Closure_operators" title="Matroid">matroid closure</a> of a set of atomic partitions is the finest common coarsening of them all; in graph-theoretic terms, it is the partition of the <a href="/wiki/Vertex_(graph_theory)" title="Vertex (graph theory)">vertices</a> of the complete graph into the <a href="/wiki/Connected_component_(graph_theory)" title="Connected component (graph theory)">connected components</a> of the subgraph formed by the given set of edges. In this way, the lattice of partitions corresponds to the <a href="/wiki/Graphic_matroid" title="Graphic matroid">graphic matroid</a> of the complete graph.</p>
+<p>Another example illustrates the refining of partitions from the perspective of equivalence relations. If <i>D</i> is the set of cards in a standard 52-card deck, the <i>same-color-as</i> relation on <i>D</i> – which can be denoted ~<sub>C</sub> – has two equivalence classes: the sets {red cards} and {black cards}. The 2-part partition corresponding to ~<sub>C</sub> has a refinement that yields the <i>same-suit-as</i> relation ~<sub>S</sub>, which has the four equivalence classes {spades}, {diamonds}, {hearts}, and {clubs}.</p>
+<h2><span class="mw-headline" id="Noncrossing_partitions">Noncrossing partitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=5" title="Edit section: Noncrossing partitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A partition of the set <i>N</i> = {1, 2, ..., <i>n</i>} with corresponding equivalence relation ~ is <b><a href="/wiki/Noncrossing_partition" title="Noncrossing partition">noncrossing</a></b> provided that for any two 'cells' C1 and C2, either all the elements in C1 are &lt; than all the elements in C2 or they are all &gt; than all the elements in C2. In other words: given distinct numbers <i>a</i>, <i>b</i>, <i>c</i> in <i>N</i>, with <i>a</i> &lt; <i>b</i> &lt; <i>c</i>, if <i>a</i> ~ <i>c</i> (they both are in a cell called C), it follows that also <i>a</i> ~ <i>b</i> and <i>b</i> ~ <i>c</i>, that is <i>b</i> is also in C. The lattice of noncrossing partitions of a finite set has recently taken on importance because of its role in <a href="/wiki/Free_probability" title="Free probability">free probability</a> theory. These form a subset of the lattice of all partitions, but not a sublattice, since the join operations of the two lattices do not agree.</p>
+<h2><span class="mw-headline" id="Counting_partitions">Counting partitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=6" title="Edit section: Counting partitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The total number of partitions of an <i>n</i>-element set is the <a href="/wiki/Bell_numbers" title="Bell numbers" class="mw-redirect">Bell number</a> <i>B<sub>n</sub></i>. The first several Bell numbers are <i>B</i><sub>0</sub> = 1, <i>B</i><sub>1</sub> = 1, <i>B</i><sub>2</sub> = 2, <i>B</i><sub>3</sub> = 5, <i>B</i><sub>4</sub> = 15, <i>B</i><sub>5</sub> = 52, and <i>B</i><sub>6</sub> = 203 (sequence <span class="nowrap"><a href="//oeis.org/A000110" class="extiw" title="oeis:A000110">A000110</a></span> in <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>). Bell numbers satisfy the <a href="/wiki/Recursion" title="Recursion">recursion</a> <img class="mwe-math-fallback-image-inline tex" alt="B_{n+1}=\sum_{k=0}^n {n\choose k}B_k" src="//upload.wikimedia.org/math/4/a/0/4a002686de49045f179f994f59bff61e.png" /></p>
+<p>and have the <a href="/wiki/Generating_function" title="Generating function">exponential generating function</a></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\sum_{n=0}^\infty\frac{B_n}{n!}z^n=e^{e^z-1}." src="//upload.wikimedia.org/math/8/e/c/8ec5076c41f057aaeb9c5324431a146a.png" /></dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:BellNumberAnimated.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/a/ab/BellNumberAnimated.gif" width="180" height="120" class="thumbimage" data-file-width="180" data-file-height="120" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BellNumberAnimated.gif" class="internal" title="Enlarge"></a></div>
+Construction of the <a href="/wiki/Bell_triangle" title="Bell triangle">Bell triangle</a></div>
+</div>
+</div>
+<p>The Bell numbers may also be computed using the <a href="/wiki/Bell_triangle" title="Bell triangle">Bell triangle</a> in which the first value in each row is copied from the end of the previous row, and subsequent values are computed by adding the two numbers to the left and above left of each position. The Bell numbers are repeated along both sides of this triangle. The numbers within the triangle count partitions in which a given element is the largest <a href="/wiki/Singleton_(mathematics)" title="Singleton (mathematics)">singleton</a>.</p>
+<p>The number of partitions of an <i>n</i>-element set into exactly <i>k</i> nonempty parts is the <a href="/wiki/Stirling_number_of_the_second_kind" title="Stirling number of the second kind" class="mw-redirect">Stirling number of the second kind</a> <i>S</i>(<i>n</i>, <i>k</i>).</p>
+<p>The number of <a href="/wiki/Noncrossing_partition" title="Noncrossing partition">noncrossing partitions</a> of an <i>n</i>-element set is the <a href="/wiki/Catalan_number" title="Catalan number">Catalan number</a> <i>C<sub>n</sub></i>, given by</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="C_n={1 \over n+1}{2n \choose n}." src="//upload.wikimedia.org/math/2/c/f/2cf4e5fd4b374571e4d4cd9fa0d34468.png" /></dd>
+</dl>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Set_partitions" class="extiw" title="commons:Category:Set partitions">Set partitions</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Exact_cover" title="Exact cover">Exact cover</a></li>
+<li><a href="/wiki/Cluster_analysis" title="Cluster analysis">Cluster analysis</a></li>
+<li><a href="/wiki/Weak_ordering" title="Weak ordering">Weak ordering</a> (ordered set partition)</li>
+<li><a href="/wiki/Equivalence_relation" title="Equivalence relation">Equivalence relation</a></li>
+<li><a href="/wiki/Partial_equivalence_relation" title="Partial equivalence relation">Partial equivalence relation</a></li>
+<li><a href="/wiki/Partition_refinement" title="Partition refinement">Partition refinement</a></li>
+<li><a href="/wiki/List_of_partition_topics" title="List of partition topics">List of partition topics</a></li>
+<li><a href="/wiki/Lamination_(topology)" title="Lamination (topology)">Lamination (topology)</a></li>
+<li><a href="/wiki/File:Wikiversity-logo-en.svg" class="image"><img alt="Wikiversity-logo-en.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/20px-Wikiversity-logo-en.svg.png" width="20" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/30px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/40px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></a> <a href="//en.wikiversity.org/wiki/Rhyme_schemes_by_set_partition" class="extiw" title="v:Rhyme schemes by set partition">Rhyme schemes by set partition</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Naive Set Theory (1960). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=x6cZBQ9qtgoC&amp;pg=PA28"><i>Halmos, Paul R.</i></a> Springer. p.&#160;28. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780387900926" title="Special:BookSources/9780387900926">9780387900926</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APartition+of+a+set&amp;rft.aulast=Naive+Set+Theory&amp;rft.au=Naive+Set+Theory&amp;rft.btitle=Halmos%2C+Paul+R.&amp;rft.date=1960&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dx6cZBQ9qtgoC%26pg%3DPA28&amp;rft.isbn=9780387900926&amp;rft.pages=28&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Lucas, John F. (1990). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=jklsb5JUgoQC&amp;pg=PA187"><i>Introduction to Abstract Mathematics</i></a>. Rowman &amp; Littlefield. p.&#160;187. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780912675732" title="Special:BookSources/9780912675732">9780912675732</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APartition+of+a+set&amp;rft.aulast=Lucas%2C+John+F.&amp;rft.au=Lucas%2C+John+F.&amp;rft.btitle=Introduction+to+Abstract+Mathematics&amp;rft.date=1990&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Djklsb5JUgoQC%26pg%3DPA187&amp;rft.isbn=9780912675732&amp;rft.pages=187&amp;rft.pub=Rowman+%26+Littlefield&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-brualdi44_45-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-brualdi44_45_3-0">^</a></b></span> <span class="reference-text">Brualdi, <i>pp</i>. 44–45</span></li>
+<li id="cite_note-schechter54-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-schechter54_4-0">^</a></b></span> <span class="reference-text">Schechter, <i>p</i>. 54</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span id="CITEREFBirkhoff1995" class="citation"><a href="/wiki/Garrett_Birkhoff" title="Garrett Birkhoff">Birkhoff, Garrett</a> (1995), <a rel="nofollow" class="external text" href="http://books.google.com/books?id=0Y8d-MdtVwkC&amp;pg=PA95"><i>Lattice Theory</i></a>, Colloquium Publications <b>25</b> (3rd ed.), American Mathematical Society, p.&#160;95, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780821810255" title="Special:BookSources/9780821810255">9780821810255</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APartition+of+a+set&amp;rft.au=Birkhoff%2C+Garrett&amp;rft.aufirst=Garrett&amp;rft.aulast=Birkhoff&amp;rft.btitle=Lattice+Theory&amp;rft.date=1995&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D0Y8d-MdtVwkC%26pg%3DPA95&amp;rft.isbn=9780821810255&amp;rft.pages=95&amp;rft.pub=American+Mathematical+Society&amp;rft.series=Colloquium+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Brualdi, Richard A. (2004). <i>Introductory Combinatorics</i> (4th edition ed.). Pearson Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-13-100119-1" title="Special:BookSources/0-13-100119-1">0-13-100119-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APartition+of+a+set&amp;rft.au=Brualdi%2C+Richard+A.&amp;rft.aufirst=Richard+A.&amp;rft.aulast=Brualdi&amp;rft.btitle=Introductory+Combinatorics&amp;rft.date=2004&amp;rft.edition=4th+edition&amp;rft.genre=book&amp;rft.isbn=0-13-100119-1&amp;rft.pub=Pearson+Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Schechter, Eric (1997). <i>Handbook of Analysis and Its Foundations</i>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-622760-8" title="Special:BookSources/0-12-622760-8">0-12-622760-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APartition+of+a+set&amp;rft.aufirst=Eric&amp;rft.aulast=Schechter&amp;rft.au=Schechter%2C+Eric&amp;rft.btitle=Handbook+of+Analysis+and+Its+Foundations&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-12-622760-8&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1001
+CPU time usage: 0.259 seconds
+Real time usage: 1.933 seconds
+Preprocessor visited node count: 590/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11022/2097152 bytes
+Template argument size: 349/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 1.63 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1824.298      1 - -total
+  3.73%   68.135      1 - Template:Reflist
+  2.66%   48.440      4 - Template:Cite_book
+  2.47%   44.981      1 - Template:Commons_category
+  2.16%   39.397      1 - Template:For
+  1.99%   36.315      1 - Template:Hatnote
+  1.13%   20.563      1 - Template:Commons
+  0.99%   17.989      1 - Template:Sister_project
+  0.66%   12.079      1 - Template:Citation
+  0.64%   11.682      1 - Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:340240-0!*!0!!en!4!*!math=0 and timestamp 20150628093139 and revision id 663746516
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Partition_of_a_set&amp;oldid=663746516">https://en.wikipedia.org/w/index.php?title=Partition_of_a_set&amp;oldid=663746516</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Basic_concepts_in_set_theory" title="Category:Basic concepts in set theory">Basic concepts in set theory</a></li><li><a href="/wiki/Category:Combinatorics" title="Category:Combinatorics">Combinatorics</a></li><li><a href="/wiki/Category:Set_families" title="Category:Set families">Set families</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Partition+of+a+set&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Partition+of+a+set" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Partition_of_a_set"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Partition_of_a_set"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Partition_of_a_set" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Partition_of_a_set&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Partition_of_a_set&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Partition_of_a_set" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Partition_of_a_set" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Partition_of_a_set&amp;oldid=663746516" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Partition_of_a_set&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q381060" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Partition_of_a_set&amp;id=663746516" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Partition+of+a+set">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Partition+of+a+set&amp;oldid=663746516&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Partition_of_a_set&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AA%D8%AC%D8%B2%D8%A6%D8%A9_%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9" title="تجزئة مجموعة – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%9F_%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%9C%E0%A6%A8" title="সেট বিভাজন – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Partici%C3%B3_(matem%C3%A0tiques)" title="Partició (matemàtiques) – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Partition_af_en_m%C3%A6ngde" title="Partition af en mængde – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Partition_(Mengenlehre)" title="Partition (Mengenlehre) – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CE%BC%CE%B5%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82_%CF%83%CF%85%CE%BD%CF%8C%CE%BB%CE%BF%CF%85" title="Διαμερισμός συνόλου – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Partici%C3%B3n_de_un_conjunto" title="Partición de un conjunto – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="//eu.wikipedia.org/wiki/Partiketa_(matematika)" title="Partiketa (matematika) – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%81%D8%B1%D8%A7%D8%B2_%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87" title="افراز مجموعه – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Partition_d%27un_ensemble" title="Partition d'un ensemble – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Partizione_(teoria_degli_insiemi)" title="Partizione (teoria degli insiemi) – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%97%D7%9C%D7%95%D7%A7%D7%94_(%D7%AA%D7%95%D7%A8%D7%AA_%D7%94%D7%A7%D7%91%D7%95%D7%A6%D7%95%D7%AA)" title="חלוקה (תורת הקבוצות) – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Oszt%C3%A1lyfelbont%C3%A1s" title="Osztályfelbontás – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Partitie_(verzamelingenleer)" title="Partitie (verzamelingenleer) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E3%81%AE%E5%88%86%E5%89%B2" title="集合の分割 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Partisjon_(mengdel%C3%A6re)" title="Partisjon (mengdelære) – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Particion_(matematicas)" title="Particion (matematicas) – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pms"><a href="//pms.wikipedia.org/wiki/Partission" title="Partission – Piedmontese" lang="pms" hreflang="pms">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Podzia%C5%82_zbioru" title="Podział zbioru – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Parti%C3%A7%C3%A3o_de_um_conjunto" title="Partição de um conjunto – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Parti%C8%9Bie_(matematic%C4%83)" title="Partiție (matematică) – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%B8%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Разбиение множества – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="//sq.wikipedia.org/wiki/Particioni_i_bashk%C3%ABsis%C3%AB" title="Particioni i bashkësisë – Albanian" lang="sq" hreflang="sq">Shqip</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ositus" title="Ositus – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Partition_av_en_m%C3%A4ngd" title="Partition av en mängd – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%92%E0%AE%B0%E0%AF%81_%E0%AE%95%E0%AE%A3%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AF%88" title="ஒரு கணத்தின் பிரிவினை – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B1%D0%B8%D1%82%D1%82%D1%8F_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D0%BD%D0%B8" title="Розбиття множини – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-fiu-vro"><a href="//fiu-vro.wikipedia.org/wiki/Hulga_t%C3%BCkeld%C3%BCs" title="Hulga tükeldüs – Võro" lang="fiu-vro" hreflang="fiu-vro">Võro</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E5%88%92%E5%88%86" title="集合划分 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q381060#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 May 2015, at 02:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Partition_of_a_set&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1236"});
+}</script>
+	</body>
+</html>

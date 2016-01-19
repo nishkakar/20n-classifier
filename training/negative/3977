@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Comparison of computer viruses - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Comparison_of_computer_viruses" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Comparison_of_computer_viruses" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Comparison_of_computer_viruses" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Comparison_of_computer_viruses","wgTitle":"Comparison of computer viruses","wgCurRevisionId":670379175,"wgRevisionId":670379175,"wgArticleId":445762,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Computer viruses","Computing-related lists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Comparison_of_computer_viruses","wgRelevantArticleId":445762,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1763936"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Comparison_of_computer_viruses skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Comparison of computer viruses</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>To aid the fight against computer viruses and other types of malicious software, many security advisory organizations and developers of <a href="/wiki/Anti-virus" title="Anti-virus" class="mw-redirect">anti-virus</a> software compile and publish lists of viruses. When a new virus appears, the rush begins to identify and understand it as well as develop appropriate counter-measures to stop its propagation. Along the way, a name is attached to the virus. As the developers of anti-virus software compete partly based on how quickly they react to the new threat, they usually study and name the viruses. By the time the virus is identified, many names denote the same virus.</p>
+<p>Another source of ambiguity in names is that sometimes a virus initially identified as a completely new virus is found to be a variation of an earlier known virus, in which cases, it is often renamed. For example, the second variation of the <a href="/wiki/Sobig" title="Sobig">Sobig</a> worm was initially called "Palyh" but later renamed "Sobig.b". Again, depending on how quickly this happens, the old name may persist.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Scope"><span class="tocnumber">1</span> <span class="toctext">Scope</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Comparison_of_viruses_and_related_programs"><span class="tocnumber">2</span> <span class="toctext">Comparison of viruses and related programs</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Related_lists"><span class="tocnumber">2.1</span> <span class="toctext">Related lists</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Unusual_subtypes"><span class="tocnumber">2.1.1</span> <span class="toctext">Unusual subtypes</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Notable_instances"><span class="tocnumber">2.1.2</span> <span class="toctext">Notable instances</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Similar_software"><span class="tocnumber">2.1.3</span> <span class="toctext">Similar software</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Security_topics"><span class="tocnumber">2.2</span> <span class="toctext">Security topics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Scope">Scope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=1" title="Edit section: Scope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In terms of scope, there are two major variants: the list of "in-the-wild" viruses, which list viruses in active circulation, and lists of all known viruses, which also contain viruses believed not to be in active c"). The sizes are vastly different, in-the-wild lists contain a hundred viruses but full lists contain tens of thousands.</p>
+<h2><span class="mw-headline" id="Comparison_of_viruses_and_related_programs">Comparison of viruses and related programs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=2" title="Edit section: Comparison of viruses and related programs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" border="1">
+<tr>
+<th>Virus</th>
+<th>Alias(es)</th>
+<th>Types</th>
+<th>Isolation Date</th>
+<th>Isolation</th>
+<th>Origin</th>
+<th>Author</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td><a href="/wiki/1260_(computer_virus)" title="1260 (computer virus)">1260</a></td>
+<td>V2Px</td>
+<td><a href="/wiki/DOS" title="DOS">DOS</a></td>
+<td><a href="/wiki/Polymorphic_code" title="Polymorphic code">Polymorphic</a></td>
+<td>1998</td>
+<td></td>
+<td></td>
+<td></td>
+<td>First virus to use polymorphic encryption</td>
+</tr>
+<tr>
+<td><a href="/wiki/4K_(computer_virus)" title="4K (computer virus)">4K</a></td>
+<td>4096</td>
+<td>DOS</td>
+<td></td>
+<td>1990-01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>The first virus to use stealth</td>
+</tr>
+<tr>
+<td><a href="/wiki/5lo" title="5lo">5lo</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1992-10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Infects .EXE files only</td>
+</tr>
+<tr>
+<td><a href="/wiki/A_and_A_(computer_virus)" title="A and A (computer virus)" class="mw-redirect">A and A</a></td>
+<td></td>
+<td>DOS,<br />
+<a href="/wiki/Microsoft_Windows#Windows_9x" title="Microsoft Windows">Windows 95, 98</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Abraxas_(computer_virus)" title="Abraxas (computer virus)">Abraxas</a></td>
+<td>Abraxas5</td>
+<td>DOS,<br />
+Windows 95, 98</td>
+<td></td>
+<td>1993-04</td>
+<td>Europe</td>
+<td></td>
+<td>ARCV group</td>
+<td>Infects <a href="/wiki/COM_file" title="COM file">COM file</a>. Disk directory listing will be set to the system date and time when infection occurred.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Acid_(computer_virus)" title="Acid (computer virus)">Acid</a></td>
+<td>Acid.670, Acid.670a, Avatar.Acid.670, Keeper.Acid.670</td>
+<td>DOS,<br />
+Windows 95, 98</td>
+<td></td>
+<td>1992</td>
+<td></td>
+<td></td>
+<td>Corp-$MZU</td>
+<td>Infects <a href="/wiki/COM_file" title="COM file">COM file</a>. Disk directory listing will not be altered.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Acme_(computer_virus)" title="Acme (computer virus)">Acme</a></td>
+<td></td>
+<td>DOS,<br />
+Windows 95 DOS</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Upon executing infected <a href="/wiki/EXE" title="EXE" class="mw-redirect">EXE</a>, this infects another EXE in current directory by making a hidden <a href="/wiki/COM_file" title="COM file">COM file</a> with same base name.</td>
+</tr>
+<tr>
+<td><a href="/wiki/ABC_(computer_virus)" title="ABC (computer virus)">ABC</a></td>
+<td>ABC-2378, ABC.2378, ABC.2905</td>
+<td>DOS</td>
+<td></td>
+<td>1992-10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>ABC causes keystrokes on the compromised machine to be repeated.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Actifed_(computer_virus)" title="Actifed (computer virus)">Actifed</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ada_(computer_virus)" title="Ada (computer virus)">Ada</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1991-10</td>
+<td></td>
+<td>Argentina</td>
+<td></td>
+<td>The Ada virus mainly targets .COM files, specifically COMMAND.COM.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Agena_(computer_virus)" title="Agena (computer virus)">Agena</a></td>
+<td>Agena.723</td>
+<td>DOS</td>
+<td></td>
+<td>1992-09</td>
+<td>Spain</td>
+<td></td>
+<td></td>
+<td>Infected programs will have a file length increase of 723 to 738 bytes</td>
+</tr>
+<tr>
+<td><a href="/wiki/AGI-Plan_(computer_virus)" title="AGI-Plan (computer virus)" class="mw-redirect">AGI-Plan</a></td>
+<td>Month 4-6</td>
+<td>DOS</td>
+<td></td>
+<td></td>
+<td>Mülheim an der Ruhr, Germany</td>
+<td></td>
+<td></td>
+<td>AGI-Plan is notable for reappearing in South Africa in what appeared to be an intentional re-release.</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Ah_(computer_virus)&amp;action=edit&amp;redlink=1" class="new" title="Ah (computer virus) (page does not exist)">Ah</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1991-05</td>
+<td>Italy</td>
+<td></td>
+<td></td>
+<td>Systems infected with Ah will experience frequent system hangs.</td>
+</tr>
+<tr>
+<td><a href="/wiki/AI_(computer_virus)" title="AI (computer virus)">AI</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/AIDS_(computer_virus)" title="AIDS (computer virus)">AIDS</a></td>
+<td>AIDSB,</td>
+<td>DOS</td>
+<td></td>
+<td>1990</td>
+<td></td>
+<td></td>
+<td>Dr. Joseph Popp and pcperformer</td>
+<td>AIDS is the first virus known to exploit the DOS "corresponding file" vulnerability.</td>
+</tr>
+<tr>
+<td><a href="/wiki/AIDS_II_(computer_virus)" title="AIDS II (computer virus)" class="mw-redirect">AIDS II</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=AirCop_(computer_virus)&amp;action=edit&amp;redlink=1" class="new" title="AirCop (computer virus) (page does not exist)">AirCop</a></td>
+<td>Air cop-B, Red State</td>
+<td>DOS</td>
+<td></td>
+<td>1990-01</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Infects the boot sector of floppy disks.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Alabama_(computer_virus)" title="Alabama (computer virus)">Alabama</a></td>
+<td>Alabama.B</td>
+<td>DOS</td>
+<td></td>
+<td>1989-10</td>
+<td></td>
+<td><a href="/wiki/Hebrew_University" title="Hebrew University" class="mw-redirect">Hebrew University</a>, Jerusalem</td>
+<td></td>
+<td>Files infected by Alabama increase in size by 1,560 bytes.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Alcon_(computer_virus)" title="Alcon (computer virus)">Alcon</a><sup id="cite_ref-AAA_1-0" class="reference"><a href="#cite_note-AAA-1"><span>[</span>1<span>]</span></a></sup></td>
+<td>RSY, Kendesm, Ken&amp;Desmond:disqus, Either</td>
+<td>DOS</td>
+<td></td>
+<td>1997-12</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Overwrites random information on disk causing damage over time.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ambulance_(computer_virus)" title="Ambulance (computer virus)">Ambulance</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Anna_Kournikova_(computer_virus)" title="Anna Kournikova (computer virus)">Anna Kournikova</a></td>
+<td></td>
+<td>Email<br />
+<a href="/wiki/VBScript" title="VBScript">VBScript</a></td>
+<td></td>
+<td>2001-02-11</td>
+<td></td>
+<td>Sneek, Netherlands</td>
+<td>Jan de Wit</td>
+<td>A Dutch court stated that US$166,000 in damages was caused by the worm.</td>
+</tr>
+<tr>
+<td><a href="/wiki/AntiCMOS_(computer_virus)" title="AntiCMOS (computer virus)" class="mw-redirect">AntiCMOS</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Due to a bug in the virus code, the virus fails to erase <a href="/wiki/CMOS" title="CMOS">CMOS</a> information as intended.</td>
+</tr>
+<tr>
+<td><a href="/wiki/ARCV-n_(computer_virus)" title="ARCV-n (computer virus)" class="mw-redirect">ARCV-n</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1992-10/1992-11</td>
+<td></td>
+<td>England, United Kingdom</td>
+<td>ARCV Group</td>
+<td>ARCV-n is a term for a large family of viruses written by the ARCV group.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Bomber_(computer_virus)" title="Bomber (computer virus)">Bomber</a></td>
+<td>CommanderBomber</td>
+<td>DOS</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Bulgaria</td>
+<td></td>
+<td>Polymorphic virus which infects systems by inserting fragments of its code randomly into executable files.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Brain_(computer_virus)" title="Brain (computer virus)">Brain</a></td>
+<td><a href="/wiki/Pakistani_flu" title="Pakistani flu" class="mw-redirect">Pakistani flu</a></td>
+<td></td>
+<td></td>
+<td>1986-01</td>
+<td></td>
+<td><a href="/wiki/Lahore" title="Lahore">Lahore</a>, <a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></td>
+<td><a href="/wiki/Basit_Farooq_Alvi" title="Basit Farooq Alvi" class="mw-redirect">Basit</a> and <a href="/wiki/Amjad_Farooq_Alvi" title="Amjad Farooq Alvi">Amjad Farooq Alvi</a></td>
+<td>Considered to be the first <a href="/wiki/Computer_virus" title="Computer virus">computer virus</a> for the <a href="/wiki/Personal_computer" title="Personal computer">PC</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Byte_Bandit" title="Byte Bandit">Byte Bandit</a></td>
+<td></td>
+<td>Amiga, bootsector virus</td>
+<td></td>
+<td>1988-01</td>
+<td></td>
+<td></td>
+<td><a href="/wiki/Swiss_Cracking_Association" title="Swiss Cracking Association" class="mw-redirect">Swiss Cracking Association</a></td>
+<td>It was one of the most feared Amiga viruses until the infamous Lamer Exterminator.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Christmas_Tree_(computer_virus)" title="Christmas Tree (computer virus)" class="mw-redirect">Christmas Tree</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/CIH_(computer_virus)" title="CIH (computer virus)">CIH</a></td>
+<td><a href="/wiki/Chernobyl_Nuclear_Power_Plant" title="Chernobyl Nuclear Power Plant">Chernobyl</a>, Spacefiller</td>
+<td><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows 95, 98, Me</a></td>
+<td></td>
+<td>1998-06</td>
+<td>Taiwan</td>
+<td>Taiwan</td>
+<td>Chen ing-Hau</td>
+<td>Activates on April 26, in which it destroys partition tables, and tries to overwrite the <a href="/wiki/BIOS" title="BIOS">BIOS</a>.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Commwarrior_(computer_virus)" title="Commwarrior (computer virus)">Commwarrior</a></td>
+<td></td>
+<td><a href="/wiki/Symbian" title="Symbian">Symbian</a> <a href="/wiki/Bluetooth" title="Bluetooth">Bluetooth</a> worm</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Famous for being the first worm to spread via <a href="/wiki/Multimedia_Messaging_Service" title="Multimedia Messaging Service">MMS</a> and Bluetooth.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Creeper_(program)" title="Creeper (program)">Creeper</a></td>
+<td></td>
+<td>TENEX operating system</td>
+<td></td>
+<td>1971</td>
+<td></td>
+<td></td>
+<td>Bob Thomas</td>
+<td>An experimental self-replicating program which gained access via the ARPANET and copied itself to the remote system.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Eliza_(computer_virus)" title="Eliza (computer virus)">Eliza</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1991-12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Elk_Cloner_(computer_virus)" title="Elk Cloner (computer virus)" class="mw-redirect">Elk Cloner</a></td>
+<td></td>
+<td><a href="/wiki/Apple_II" title="Apple II">Apple II</a></td>
+<td></td>
+<td>1982</td>
+<td>Mt. Lebanon, Pennsylvania, United States</td>
+<td>Mt. Lebanon, Pennsylvania, United States</td>
+<td>Rich Skrenta</td>
+<td>The first virus observed "in the wild"</td>
+</tr>
+<tr>
+<td><a href="/wiki/Form_(computer_virus)" title="Form (computer virus)">Form</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1990</td>
+<td>Switzerland</td>
+<td></td>
+<td></td>
+<td>A very common boot virus, triggers on the 18th of any month.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Graybird" title="Graybird">Graybird</a></td>
+<td>Graybird P</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hare_(computer_virus)" title="Hare (computer virus)">Hare</a></td>
+<td></td>
+<td>DOS,<br />
+<a href="/wiki/Windows_95" title="Windows 95">Windows 95</a>, <a href="/wiki/Windows_98" title="Windows 98">Windows 98</a></td>
+<td></td>
+<td>1996-08</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Famous for press coverage which blew its destructiveness out of proportion</td>
+</tr>
+<tr>
+<td><a href="/wiki/ILOVEYOU_(computer_virus)" title="ILOVEYOU (computer virus)" class="mw-redirect">ILOVEYOU</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2000-05-05</td>
+<td></td>
+<td><a href="/wiki/Manila" title="Manila">Manila</a>, <a href="/wiki/Philippines" title="Philippines">Philippines</a></td>
+<td>Michael Buen, Onel de Guzman</td>
+<td>Computer worm that attacked tens of millions of Windows personal computers</td>
+</tr>
+<tr>
+<td><a href="/wiki/INIT_1984_(computer_virus)" title="INIT 1984 (computer virus)" class="mw-redirect">INIT 1984</a></td>
+<td></td>
+<td>Mac OS</td>
+<td></td>
+<td>1992-03-13</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Malicious, triggered on Friday the 13th.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jerusalem_(computer_virus)" title="Jerusalem (computer virus)">Jerusalem</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1987-10</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Jerusalem was initially very common and spawned a large number of variants.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kama_Sutra_(computer_worm)" title="Kama Sutra (computer worm)">Kama Sutra</a></td>
+<td>Blackworm, Nyxem, and Blackmal</td>
+<td></td>
+<td></td>
+<td>2006-01-16</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Designed to destroy common files such as Microsoft Word, Excel, and PowerPoint documents.</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=KoKo_(computer_virus)&amp;action=edit&amp;redlink=1" class="new" title="KoKo (computer virus) (page does not exist)">Koko</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1991-03</td>
+<td></td>
+<td></td>
+<td></td>
+<td>The payload of this virus activates on July 29 and February 15 and may erase data on the users hard drive</td>
+</tr>
+<tr>
+<td><a href="/wiki/Lamer_Exterminator_(computer_virus)" title="Lamer Exterminator (computer virus)" class="mw-redirect">Lamer Exterminator</a></td>
+<td></td>
+<td>Amiga, Boot sector virus</td>
+<td></td>
+<td>1989-10</td>
+<td></td>
+<td><a href="/wiki/Germany" title="Germany">Germany</a></td>
+<td></td>
+<td>Random encryption, fills random sector with "LAMER"</td>
+</tr>
+<tr>
+<td><a href="/wiki/MacMag" title="MacMag">MacMag</a></td>
+<td>Drew, Bradow, Aldus, Peace</td>
+<td></td>
+<td></td>
+<td>1987-12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/MDEF_(computer_virus)" title="MDEF (computer virus)" class="mw-redirect">MDEF</a></td>
+<td>Garfield, Top Cat</td>
+<td></td>
+<td></td>
+<td>1990-05</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Melissa_(computer_worm)" title="Melissa (computer worm)" class="mw-redirect">Melissa</a></td>
+<td>Mailissa, Simpsons, Kwyjibo, Kwejeebo</td>
+<td><a href="/wiki/Microsoft_Word" title="Microsoft Word">Microsoft Word</a> macro virus</td>
+<td></td>
+<td>1999-03-26</td>
+<td></td>
+<td>New Jersey, United States</td>
+<td>David L. Smith</td>
+<td>Part macro virus and part worm. Melissa, a MS Word-based macro that replicates itself through e-mail.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Michelangelo_(computer_virus)" title="Michelangelo (computer virus)">Michelangelo</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1991-02-04</td>
+<td><a href="/wiki/Australia" title="Australia">Australia</a></td>
+<td></td>
+<td></td>
+<td>Ran March 6 (<a href="/wiki/Michelangelo" title="Michelangelo">Michelangelo</a>'s birthday)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Navidad_virus" title="Navidad virus">Navidad</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2000-12</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Natas_(computer_virus)" title="Natas (computer virus)">Natas</a></td>
+<td></td>
+<td>Multipartite, stealth, polymorphic</td>
+<td></td>
+<td>1994</td>
+<td></td>
+<td></td>
+<td>"Priest"</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/NVIR_(computer_virus)" title="NVIR (computer virus)" class="mw-redirect">nVIR</a></td>
+<td>MODM, nCAM, nFLU, kOOL, Hpat, Jude</td>
+<td>Mac OS</td>
+<td></td>
+<td>1987</td>
+<td></td>
+<td></td>
+<td></td>
+<td>nVIR has been known to 'hybridize' with different variants of nVIR on the same machine.</td>
+</tr>
+<tr>
+<td><a href="/wiki/OneHalf_(computer_virus)" title="OneHalf (computer virus)" class="mw-redirect">OneHalf</a></td>
+<td>Slovak Bomber, Freelove or Explosion-II</td>
+<td>DOS</td>
+<td></td>
+<td>1994</td>
+<td></td>
+<td>Slovakia</td>
+<td>Vyvojar</td>
+<td>It is also known as one of the first viruses to implement a technique of "patchy infection"</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ontario.1024_(computer_virus)" title="Ontario.1024 (computer virus)" class="mw-redirect">Ontario.1024</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ontario.2048_(computer_virus)" title="Ontario.2048 (computer virus)" class="mw-redirect">Ontario.2048</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ontario_(computer_virus)" title="Ontario (computer virus)">Ontario</a></td>
+<td>SBC</td>
+<td>DOS</td>
+<td></td>
+<td>1990-07</td>
+<td></td>
+<td>Ontario, Canada</td>
+<td></td>
+<td>Death Angel</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pikachu_virus" title="Pikachu virus">Pikachu virus</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>2000-06-28</td>
+<td></td>
+<td>Asia</td>
+<td></td>
+<td>The Pikachu virus is believed to be the first computer virus made for children.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ping-pong_virus" title="Ping-pong virus" class="mw-redirect">Ping-pong</a></td>
+<td>Boot, Bouncing Ball, Bouncing Dot, Italian, Italian-A, VeraCruz</td>
+<td>Boot sector virus</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Harmless to most computers</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/RavMonE.exe" title="RavMonE.exe">RavMonE.exe</a></td>
+<td>RJump.A, Rajump, Jisx</td>
+<td>Worm</td>
+<td></td>
+<td>2006-06-20</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Once distributed in <a href="/wiki/IPod" title="IPod">Apple iPods</a>, but a Windows-only virus</td>
+</tr>
+<tr>
+<td><a href="/wiki/SCA_(computer_virus)" title="SCA (computer virus)">SCA</a></td>
+<td></td>
+<td>Amiga, Boot sector virus</td>
+<td></td>
+<td>1987-11</td>
+<td></td>
+<td><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td>
+<td><a href="/wiki/Swiss_Cracking_Association" title="Swiss Cracking Association" class="mw-redirect">Swiss Cracking Association</a></td>
+<td>Puts a message on screen. Harmless except it might destroy a legitimate non-standard boot block.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Scores_(computer_virus)" title="Scores (computer virus)">Scores</a></td>
+<td>Eric, Vult, NASA, San Jose Flu</td>
+<td><a href="/wiki/Mac_OS" title="Mac OS">Mac OS</a></td>
+<td></td>
+<td>1988 Spring</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Designed to attack two specific applications which were never released.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Scott%27s_Valley_(computer_virus)" title="Scott's Valley (computer virus)" class="mw-redirect">Scott's Valley</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td>1990-09</td>
+<td>Scotts Valley, California, United States</td>
+<td></td>
+<td></td>
+<td>Infected files will contain the seemingly meaningless hex string 5E8BDE909081C63200B912082E.</td>
+</tr>
+<tr>
+<td><a href="/wiki/SevenDust_(computer_virus)" title="SevenDust (computer virus)">SevenDust</a></td>
+<td>666, MDEF, 9806, Graphics Accelerator, SevenD</td>
+<td>Mac OS</td>
+<td></td>
+<td>1998</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Shankar%27s_Virus" title="Shankar's Virus">Shankar's Virus</a></td>
+<td>W97M.Marker.o</td>
+<td>Polymorphic</td>
+<td></td>
+<td>1999-06-03</td>
+<td></td>
+<td></td>
+<td>Sam Rogers</td>
+<td>Infects Word Documents</td>
+</tr>
+<tr>
+<td><a href="/wiki/Simile_(computer_virus)" title="Simile (computer virus)">Simile</a></td>
+<td>Etap, MetaPHOR</td>
+<td>Windows</td>
+<td>Polymorphic</td>
+<td></td>
+<td></td>
+<td></td>
+<td>The Mental Driller</td>
+<td>The metamorphic code accounts for around 90% of the virus' code</td>
+</tr>
+<tr>
+<td><a href="/wiki/Smeg_Virus_Construction_Kit" title="Smeg Virus Construction Kit">SMEG engine</a></td>
+<td></td>
+<td>DOS</td>
+<td>Polymorphic</td>
+<td>1994</td>
+<td></td>
+<td>United Kingdom</td>
+<td>The Black Baron</td>
+<td>Two viruses were created using the engine: Pathogen and Queeg.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Stoned_(computer_virus)" title="Stoned (computer virus)">Stoned</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1987</td>
+<td>Wellington, New Zealand</td>
+<td></td>
+<td></td>
+<td>One of the earliest and most prevalent boot sector viruses</td>
+</tr>
+<tr>
+<td><a href="/wiki/Sunday_(computer_virus)" title="Sunday (computer virus)">Sunday</a></td>
+<td></td>
+<td>DOS</td>
+<td>Jerusalem.Sunday</td>
+<td>1989-11</td>
+<td>Seattle, Washington, United States</td>
+<td></td>
+<td></td>
+<td>Because of an error in coding, the virus fails to execute its payload.</td>
+</tr>
+<tr>
+<td><a href="/wiki/TDL-4" title="TDL-4">TDL-4</a></td>
+<td></td>
+<td><a href="/wiki/Botnet" title="Botnet">Botnet</a></td>
+<td></td>
+<td></td>
+<td>JD virus</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Techno_(computer_virus)" title="Techno (computer virus)">Techno</a></td>
+<td></td>
+<td>DOS</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>The virus plays a tune that was created by the author of the virus</td>
+</tr>
+<tr>
+<td><a href="/wiki/Whale_(computer_virus)" title="Whale (computer virus)">Whale</a></td>
+<td></td>
+<td>DOS</td>
+<td>Polymorphic</td>
+<td>1990-07-01</td>
+<td></td>
+<td>Hamburg, Germany</td>
+<td>R Homer</td>
+<td>At 9216 bytes, was for its time the largest virus ever discovered.</td>
+</tr>
+<tr>
+<td><a href="/wiki/ZMist_(computer_virus)" title="ZMist (computer virus)" class="mw-redirect">ZMist</a></td>
+<td>ZMistfall, Zombie.Mistfall</td>
+<td>Zombie.Mistfall</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="/w/index.php?title=Z0mbie.net_(virus_writer)&amp;action=edit&amp;redlink=1" class="new" title="Z0mbie.net (virus writer) (page does not exist)">Z0mbie</a></td>
+<td>It was the first virus to use a technique known as "code integration".</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Related_lists">Related lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=3" title="Edit section: Related lists">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/List_of_computer_worms" title="List of computer worms">List of computer worms</a></li>
+<li><a href="/wiki/Timeline_of_notable_computer_viruses_and_worms" title="Timeline of notable computer viruses and worms" class="mw-redirect">Timeline of notable computer viruses and worms</a></li>
+</ul>
+<h4><span class="mw-headline" id="Unusual_subtypes">Unusual subtypes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=4" title="Edit section: Unusual subtypes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Palm_OS_Viruses" title="Palm OS Viruses" class="mw-redirect">Palm OS Viruses</a></li>
+<li><a href="/wiki/Linux_malware" title="Linux malware">Linux malware</a></li>
+</ul>
+<h4><span class="mw-headline" id="Notable_instances">Notable instances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=5" title="Edit section: Notable instances">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Conficker" title="Conficker">Conficker</a></li>
+<li><a href="/wiki/Creeper_virus" title="Creeper virus" class="mw-redirect">Creeper virus</a> - The first malware that ran on ARPANET</li>
+<li><a href="/wiki/ILOVEYOU" title="ILOVEYOU">ILOVEYOU</a></li>
+<li><a href="/wiki/Leap_(computer_worm)" title="Leap (computer worm)">Leap</a> - Mac OS X Trojan horse</li>
+<li><a href="/wiki/Storm_Worm" title="Storm Worm">Storm Worm</a> - A Windows trojan horse that forms the <a href="/wiki/Storm_botnet" title="Storm botnet">Storm botnet</a></li>
+</ul>
+<h4><span class="mw-headline" id="Similar_software">Similar software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=6" title="Edit section: Similar software">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul>
+<li><a href="/wiki/Adware" title="Adware">Adware</a></li>
+</ul>
+<p>boot virus</p>
+<ul>
+<li><a href="/wiki/Malware" title="Malware">Malware</a></li>
+<li><a href="/wiki/Spamming" title="Spamming">Spamming</a></li>
+<li><a href="/wiki/Spyware" title="Spyware">Spyware</a></li>
+<li><a href="/wiki/Computer_worm" title="Computer worm">Computer worm</a></li>
+<li><a href="/wiki/Trojan_horse_(computing)" title="Trojan horse (computing)">Trojan horse</a></li>
+</ul>
+<h3><span class="mw-headline" id="Security_topics">Security topics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=7" title="Edit section: Security topics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Antivirus_software" title="Antivirus software">Antivirus software</a></li>
+<li><a href="/wiki/Computer_insecurity" title="Computer insecurity" class="mw-redirect">Computer insecurity</a></li>
+<li><a href="/wiki/Cryptovirology" title="Cryptovirology">Cryptovirology</a></li>
+<li><a href="/wiki/Security_through_obscurity" title="Security through obscurity">Security through obscurity</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Computer_worm" title="Computer worm">Computer worm</a></li>
+<li><a href="/wiki/Spyware" title="Spyware">Spyware</a></li>
+<li><a href="/wiki/Virus_hoax" title="Virus hoax">Virus hoax</a></li>
+<li><a href="/wiki/Zombie_computer" title="Zombie computer" class="mw-redirect">Zombie computer</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-AAA-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-AAA_1-0">^</a></b></span> <span class="reference-text"><span class="citation news">Vincentas (11 July 2013). <a rel="nofollow" class="external text" href="http://www.spywareloop.com/news/computer-viruses">"Computer Viruses in SpyWareLoop.com"</a>. Spyware Loop<span class="reference-accessdate">. Retrieved <span class="nowrap">28 July</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComparison+of+computer+viruses&amp;rft.atitle=Computer+Viruses+in+SpyWareLoop.com&amp;rft.aulast=Vincentas&amp;rft.au=Vincentas&amp;rft.date=11+July+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.spywareloop.com%2Fnews%2Fcomputer-viruses&amp;rft.jtitle=%27%27Spyware+Loop%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.wildlist.org/WildList/">The WildList</a>, by WildList Organization International</li>
+<li><a rel="nofollow" class="external text" href="http://www.symantec.com/enterprise/security_response/threatexplorer/threats.jsp">List of Computer Viruses</a> - listing of the Latest Viruses by Symantec.</li>
+<li><a rel="nofollow" class="external text" href="http://www.cloudantivirus.com/en/listofviruses/">List of all viruses</a> All viruses cataloged in Panda Security’s Collective Intelligence servers.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Malware" title="Template:Malware"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Malware" title="Template talk:Malware"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Malware&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Malware" title="Malware">Malware</a> topics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Infectious malware</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_virus" title="Computer virus">Computer virus</a></li>
+<li><strong class="selflink">Comparison of computer viruses</strong></li>
+<li><a href="/wiki/Computer_worm" title="Computer worm">Computer worm</a></li>
+<li><a href="/wiki/List_of_computer_worms" title="List of computer worms">List of computer worms</a></li>
+<li><a href="/wiki/Timeline_of_computer_viruses_and_worms" title="Timeline of computer viruses and worms">Timeline of computer viruses and worms</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concealment</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trojan_horse_(computing)" title="Trojan horse (computing)">Trojan horse</a></li>
+<li><a href="/wiki/Rootkit" title="Rootkit">Rootkit</a></li>
+<li><a href="/wiki/Backdoor_(computing)" title="Backdoor (computing)">Backdoor</a></li>
+<li><a href="/wiki/Zombie_(computer_science)" title="Zombie (computer science)">Zombie computer</a></li>
+<li><a href="/wiki/Man-in-the-middle_attack" title="Man-in-the-middle attack">Man-in-the-middle</a></li>
+<li><a href="/wiki/Man-in-the-browser" title="Man-in-the-browser">Man-in-the-browser</a></li>
+<li><a href="/wiki/Man-in-the-mobile" title="Man-in-the-mobile" class="mw-redirect">Man-in-the-mobile</a></li>
+<li><a href="/wiki/Clickjacking" title="Clickjacking">Clickjacking</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Malware for profit</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Privacy-invasive_software" title="Privacy-invasive software">Privacy-invasive software</a></li>
+<li><a href="/wiki/Adware" title="Adware">Adware</a></li>
+<li><a href="/wiki/Spyware" title="Spyware">Spyware</a></li>
+<li><a href="/wiki/Botnet" title="Botnet">Botnet</a></li>
+<li><a href="/wiki/Keystroke_logging" title="Keystroke logging">Keystroke logging</a></li>
+<li><a href="/wiki/Web_threat" title="Web threat">Web threats</a></li>
+<li><a href="/wiki/Dialer#Fraudulent_dialer" title="Dialer">Fraudulent dialer</a></li>
+<li><a href="/wiki/Internet_bot#Malicious_purposes" title="Internet bot">Malbot</a></li>
+<li><a href="/wiki/Scareware" title="Scareware">Scareware</a></li>
+<li><a href="/wiki/Rogue_security_software" title="Rogue security software">Rogue security software</a></li>
+<li><a href="/wiki/Ransomware_(malware)" title="Ransomware (malware)" class="mw-redirect">Ransomware</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By operating system</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Linux_malware" title="Linux malware">Linux malware</a></li>
+<li><a href="/wiki/Palm_OS_viruses" title="Palm OS viruses">Palm OS viruses</a></li>
+<li><a href="/wiki/Mobile_virus" title="Mobile virus">Mobile virus</a></li>
+<li><a href="/wiki/Macro_virus" title="Macro virus">Macro virus</a></li>
+<li><a href="/wiki/Category:Macintosh_viruses" title="Category:Macintosh viruses">Macintosh (old) viruses</a></li>
+<li><a href="/wiki/Category:OS_X_malware" title="Category:OS X malware">Mac OS X malware</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Protection</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anti-keylogger" title="Anti-keylogger">Anti-keylogger</a></li>
+<li><a href="/wiki/Antivirus_software" title="Antivirus software">Antivirus software</a></li>
+<li><a href="/wiki/Browser_security" title="Browser security">Browser security</a></li>
+<li><a href="/wiki/Internet_security" title="Internet security">Internet security</a></li>
+<li><a href="/wiki/Mobile_security" title="Mobile security">Mobile security</a></li>
+<li><a href="/wiki/Network_security" title="Network security">Network security</a></li>
+<li><a href="/wiki/Defensive_computing" title="Defensive computing">Defensive computing</a></li>
+<li><a href="/wiki/Firewall_(computing)" title="Firewall (computing)">Firewall</a></li>
+<li><a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a></li>
+<li><a href="/wiki/Data_loss_prevention_software" title="Data loss prevention software">Data loss prevention software</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Countermeasures</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_and_network_surveillance" title="Computer and network surveillance">Computer and network surveillance</a></li>
+<li><a href="/wiki/Operation:_Bot_Roast" title="Operation: Bot Roast">Operation: Bot Roast</a></li>
+<li><a href="/wiki/Honeypot_(computing)" title="Honeypot (computing)">Honeypot</a></li>
+<li><a href="/wiki/Anti-Spyware_Coalition" title="Anti-Spyware Coalition">Anti-Spyware Coalition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>}</p>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1116
+CPU time usage: 0.150 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 536/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13299/2097152 bytes
+Template argument size: 12/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.028/10.000 seconds
+Lua memory usage: 1.28 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   81.488      1 - -total
+ 66.30%   54.027      1 - Template:Reflist
+ 56.28%   45.864      1 - Template:Cite_news
+ 26.22%   21.365      1 - Template:Malware
+ 22.71%   18.506      1 - Template:Navbox
+  6.77%    5.519      3 - Template:Not_a_typo
+  3.66%    2.984      3 - Template:Sic
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:445762-0!*!0!!en!*!* and timestamp 20150707161228 and revision id 670379175
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Comparison_of_computer_viruses&amp;oldid=670379175">https://en.wikipedia.org/w/index.php?title=Comparison_of_computer_viruses&amp;oldid=670379175</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_viruses" title="Category:Computer viruses">Computer viruses</a></li><li><a href="/wiki/Category:Computing-related_lists" title="Category:Computing-related lists">Computing-related lists</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Comparison+of+computer+viruses&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Comparison+of+computer+viruses" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Comparison_of_computer_viruses"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Comparison_of_computer_viruses"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Comparison_of_computer_viruses" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Comparison_of_computer_viruses" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Comparison_of_computer_viruses" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;oldid=670379175" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1763936" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Comparison_of_computer_viruses&amp;id=670379175" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Comparison+of+computer+viruses">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Comparison+of+computer+viruses&amp;oldid=670379175&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Comparison_of_computer_viruses&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Lijst_van_malware" title="Lijst van malware – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%B2%D0%B8%D1%80%D1%83%D1%81%D0%B0" title="Списак рачунарских вируса – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="รายชื่อไวรัสคอมพิวเตอร์ – Thai" lang="th" hreflang="th">ไทย</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1763936#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 July 2015, at 16:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Comparison_of_computer_viruses&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1047"});
+}</script>
+	</body>
+</html>

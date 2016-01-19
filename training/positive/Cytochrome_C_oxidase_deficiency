@@ -1,0 +1,1633 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Cytochrome c oxidase - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cytochrome_c_oxidase" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Cytochrome_c_oxidase" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cytochrome_c_oxidase" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cytochrome_c_oxidase","wgTitle":"Cytochrome c oxidase","wgCurRevisionId":664995208,"wgRevisionId":664995208,"wgArticleId":96842,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that use a Medicine navs subtemplate","Cellular respiration","EC 1.9.3","Hemoproteins","Integral membrane proteins"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cytochrome_c_oxidase","wgRelevantArticleId":96842,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Cytochrome_C_oxidase_deficiency","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png/100px-Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Cytochrome_c_oxidase","wgWikibaseItemId":"Q306116"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Cytochrome_c_oxidase skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cytochrome c oxidase</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Cytochrome_C_oxidase_deficiency&amp;redirect=no" title="Cytochrome C oxidase deficiency">Cytochrome C oxidase deficiency</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Cytochrome c oxidase</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png" class="image"><img alt="Cytochrome C Oxidase 1OCC in Membrane 2.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png/296px-Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png" width="296" height="205" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png/444px-Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png/592px-Cytochrome_C_Oxidase_1OCC_in_Membrane_2.png 2x" data-file-width="1620" data-file-height="1122" /></a>
+<div>The crystal structure of bovine cytochrome <i>c</i> oxidase in a phospholipid bilayer. The intermembrane space lies to top of the image. Adapted from <span class="plainlinks"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a>: <a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?structureId=1OCC">1OCC</a></span>&#160; (It is a homo dimer in this structure)</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.chem.qmul.ac.uk/iubmb/enzyme/EC1/9/3/1.html">1.9.3.1</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/CAS_registry_number" title="CAS registry number" class="mw-redirect">CAS number</a></th>
+<td style="background-color: #eee"><a class="external text" href="//tools.wmflabs.org/magnustools/cas.php?language=en&amp;cas=9001-16-5&amp;title=">9001-16-5</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Databases</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/IntEnz" title="IntEnz">IntEnz</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/intenz/query?cmd=SearchEC&amp;ec=1.9.3.1">IntEnz view</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/BRENDA" title="BRENDA">BRENDA</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.brenda-enzymes.org/enzyme.php?ecno=1.9.3.1">BRENDA entry</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/ExPASy" title="ExPASy">ExPASy</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.expasy.org/enzyme/1.9.3.1">NiceZyme view</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/KEGG" title="KEGG">KEGG</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.genome.ad.jp/dbget-bin/www_bget?enzyme+1.9.3.1">KEGG entry</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/MetaCyc" title="MetaCyc">MetaCyc</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://biocyc.org/META/substring-search?type=NIL&amp;object=1.9.3.1">metabolic pathway</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/PRIAM_enzyme_specific_profiles" title="PRIAM enzyme specific profiles" class="mw-redirect">PRIAM</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=1.9.3.1">profile</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a> structures</th>
+<td style="background-color: #eee"><small style="font-size:85%;"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=EnzymeClassificationQuery&amp;Enzyme_Classification=1.9.3.1">RCSB PDB</a> <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:1.9.3.1">PDBe</a> <a rel="nofollow" class="external text" href="//www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=1.9.3.1">PDBsum</a></small></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Gene_Ontology" title="Gene Ontology" class="mw-redirect">Gene Ontology</a></th>
+<td style="background-color: #eee"><small style="font-size:85%;"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?query=0009485&amp;view=details">AmiGO</a> / <a rel="nofollow" class="external text" href="//www.ebi.ac.uk/ego/DisplayGoTerm?id=GO:0009485&amp;format=normal">EGO</a></small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%">
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Search</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=1.9.3.1%5BEC/RN%20Number%5D%20AND%20pubmed%20pmc%20local%5Bsb%5D">articles</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed" title="PubMed">PubMed</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=1.9.3.1%5BEC/RN%20Number%5D">articles</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/protein?term=1.9.3.1%5BEC/RN%20Number%5D">proteins</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> <b>cytochrome c oxidase</b>, or <b>Complex IV</b> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> <a rel="nofollow" class="external text" href="http://enzyme.expasy.org/EC/1.9.3.1">1.9.3.1</a>), is a large <a href="/wiki/Transmembrane_protein" title="Transmembrane protein">transmembrane protein</a> complex found in <a href="/wiki/Bacteria" title="Bacteria">bacteria</a> and the <a href="/wiki/Mitochondrion" title="Mitochondrion">mitochondrion</a> of <a href="/wiki/Eukaryotes" title="Eukaryotes" class="mw-redirect">eukaryotes</a>.</p>
+<p>It is the last enzyme in the respiratory <a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chain</a> of mitochondria or bacteria located in the mitochondrial or bacterial membrane. It receives an electron from each of four <a href="/wiki/Cytochrome_c" title="Cytochrome c">cytochrome c</a> molecules, and transfers them to one oxygen molecule, converting molecular <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> to two molecules of water. In the process, it binds four protons from the inner aqueous phase to make water, and in addition translocates four protons across the membrane, helping to establish a transmembrane difference of proton <a href="/wiki/Electrochemical_potential" title="Electrochemical potential">electrochemical potential</a> that the <a href="/wiki/ATP_synthase" title="ATP synthase">ATP synthase</a> then uses to synthesize <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Assembly"><span class="tocnumber">2</span> <span class="toctext">Assembly</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Complex_subunits"><span class="tocnumber">3</span> <span class="toctext">Complex subunits</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Biochemistry"><span class="tocnumber">4</span> <span class="toctext">Biochemistry</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Inhibition"><span class="tocnumber">5</span> <span class="toctext">Inhibition</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Subcellular_distribution"><span class="tocnumber">6</span> <span class="toctext">Subcellular distribution</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Clinical_significance"><span class="tocnumber">7</span> <span class="toctext">Clinical significance</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Histochemistry"><span class="tocnumber">8</span> <span class="toctext">Histochemistry</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Additional_images"><span class="tocnumber">9</span> <span class="toctext">Additional images</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Cmplx4.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cmplx4.PNG/300px-Cmplx4.PNG" width="300" height="238" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cmplx4.PNG/450px-Cmplx4.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cmplx4.PNG/600px-Cmplx4.PNG 2x" data-file-width="820" data-file-height="650" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cmplx4.PNG" class="internal" title="Enlarge"></a></div>
+Subunit I and II of Complex IV excluding all other subunits, <span class="plainlinks"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a>: <a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?structureId=2EIK">2EIK</a></span>&#160;</div>
+</div>
+</div>
+<p>The complex is a large <a href="/wiki/Integral_membrane_protein" title="Integral membrane protein">integral membrane protein</a> composed of several <a href="/wiki/Metal" title="Metal">metal</a> prosthetic sites and 14 <sup id="cite_ref-pmid22902835_3-0" class="reference"><a href="#cite_note-pmid22902835-3"><span>[</span>3<span>]</span></a></sup> protein subunits in mammals. In mammals, eleven subunits are nuclear in origin, and three are synthesized in the mitochondria. The complex contains two <a href="/wiki/Heme" title="Heme">hemes</a>, a <a href="/wiki/Cytochrome_a" title="Cytochrome a" class="mw-redirect">cytochrome a</a> and <a href="/wiki/Cytochrome_a" title="Cytochrome a" class="mw-redirect">cytochrome a<sub>3</sub></a>, and two <a href="/wiki/Copper" title="Copper">copper</a> centers, the Cu<sub>A</sub> and Cu<sub>B</sub> centers.<sup id="cite_ref-pmid7652554_4-0" class="reference"><a href="#cite_note-pmid7652554-4"><span>[</span>4<span>]</span></a></sup> In fact, the cytochrome a<sub>3</sub> and Cu<sub>B</sub> form a binuclear center that is the site of oxygen reduction. <a href="/wiki/Cytochrome_c" title="Cytochrome c">Cytochrome c</a>, which is reduced by the preceding component of the respiratory chain (cytochrome bc1 complex, complex III), docks near the Cu<sub>A</sub> binuclear center and passes an electron to it, being oxidized back to cytochrome c containing Fe<sup>3+</sup>. The reduced Cu<sub>A</sub> binuclear center now passes an electron on to cytochrome a, which in turn passes an electron on to the cytochrome a<sub>3</sub>-Cu<sub>B</sub> binuclear center. The two metal ions in this binuclear center are 4.5 Å apart and coordinate a <a href="/wiki/Hydroxide_ion" title="Hydroxide ion" class="mw-redirect">hydroxide ion</a> in the fully oxidized state.</p>
+<p><a href="/wiki/X-ray_crystallography" title="X-ray crystallography">Crystallographic studies</a> of cytochrome c oxidase show an unusual post-translational modification, linking C6 of Tyr(244) and the ε-N of His(240) (bovine enzyme numbering). It plays a vital role in enabling the cytochrome a<sub>3</sub>- Cu<sub>B</sub> binuclear center to accept four electrons in reducing molecular <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> to <a href="/wiki/Water" title="Water">water</a>. The mechanism of reduction was formerly thought to involve a <a href="/wiki/Peroxide" title="Peroxide">peroxide</a> intermediate, which was believed to lead to <a href="/wiki/Superoxide" title="Superoxide">superoxide</a> production. However, the currently accepted mechanism involves a rapid four-electron reduction involving immediate oxygen-oxygen bond cleavage, avoiding any intermediate likely to form superoxide.<sup id="cite_ref-isbn0-470-57095-4_5-0" class="reference"><a href="#cite_note-isbn0-470-57095-4-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Assembly">Assembly</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=2" title="Edit section: Assembly">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Site of assembly is believed to occur near <a href="/wiki/Mitochondrial_membrane_transport_protein" title="Mitochondrial membrane transport protein">TOM</a>/TIM, where complex intermediates are accessible to bind with subunits imported from <a href="/wiki/Cytosol" title="Cytosol">cytosol</a>. Hemes and cofactors are inserted into subunits I &amp; II. Subunits I and IV initiate assembly. Other subunits may form sub-complex intermediates that later bind to others to form COX complex. In post-assembly modifications, the enzyme is dimerized, which is required for active/efficient enzyme action. Dimers are connected by a <a href="/wiki/Cardiolipin" title="Cardiolipin">cardiolipin</a> molecule.<sup id="cite_ref-pmid16199211_6-0" class="reference"><a href="#cite_note-pmid16199211-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-pmid16760263_7-0" class="reference"><a href="#cite_note-pmid16760263-7"><span>[</span>7<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Complex_subunits">Complex subunits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=3" title="Edit section: Complex subunits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Conserved subunits of the cytochrome oxidase c complex:<sup id="cite_ref-pmid9565029_8-0" class="reference"><a href="#cite_note-pmid9565029-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-pmid21211513_9-0" class="reference"><a href="#cite_note-pmid21211513-9"><span>[</span>9<span>]</span></a></sup></p>
+<table border="1" class="wikitable" style="text-align:center">
+<tr>
+<th><b>No.</b></th>
+<th>Subunit name</th>
+<th><a href="/wiki/Human" title="Human">Human</a> protein</th>
+<th>Protein description from <a href="/wiki/UniProt" title="UniProt">UniProt</a></th>
+<th><a href="/wiki/Pfam" title="Pfam">Pfam</a> family with Human protein</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Cox1</td>
+<td><a href="/wiki/MT-CO1" title="MT-CO1" class="mw-redirect">COX1_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 1</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF00115">PF00115</a></i></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Cox2</td>
+<td><a href="/wiki/MT-CO2" title="MT-CO2" class="mw-redirect">COX2_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 2</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02790">PF02790</a></i>, <i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF00116">PF00116</a></i></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Cox3</td>
+<td><a href="/wiki/MT-CO3" title="MT-CO3" class="mw-redirect">COX3_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 3</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF00510">PF00510</a></i></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Cox4i1</td>
+<td><a href="/wiki/COX4I1" title="COX4I1">COX41_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 4 isoform 1, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02936">PF02936</a></i></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Cox4a2</td>
+<td><a href="/wiki/COX4I2" title="COX4I2">COX42_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 4 isoform 2, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02936">PF02936</a></i></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Cox5a</td>
+<td><a href="/wiki/COX5A" title="COX5A">COX5A_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 5A, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02284">PF02284</a></i></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Cox5b</td>
+<td><a href="/wiki/COX5B" title="COX5B">COX5B_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 5B, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF01215">PF01215</a></i></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Cox6a1</td>
+<td><a href="/wiki/COX6A1" title="COX6A1">CX6A1_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 6A1, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02046">PF02046</a></i></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Cox6a2</td>
+<td><a href="/wiki/COX6A2" title="COX6A2">CX6A2_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 6A2, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02046">PF02046</a></i></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Cox6b1</td>
+<td><a href="/wiki/COX6B1" title="COX6B1">CX6B1_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 6B1</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02297">PF02297</a></i></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Cox6b2</td>
+<td><a href="/wiki/COX6B2" title="COX6B2">CX6B2_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 6B2</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02297">PF02297</a></i></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Cox6c</td>
+<td><a href="/wiki/COX6C" title="COX6C">COX6C_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 6C</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02937">PF02937</a></i></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Cox7a1</td>
+<td><a href="/wiki/COX7A1" title="COX7A1">CX7A1_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 7A1, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02238">PF02238</a></i></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Cox7a2</td>
+<td><a href="/wiki/COX7A2" title="COX7A2">CX7A2_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 7A2, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02238">PF02238</a></i></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Cox7a3</td>
+<td><a href="/w/index.php?title=COX7A2P2&amp;action=edit&amp;redlink=1" class="new" title="COX7A2P2 (page does not exist)">COX7S_HUMAN</a></td>
+<td>Putative cytochrome c oxidase subunit 7A3, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02238">PF02238</a></i></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Cox7b</td>
+<td><a href="/wiki/COX7B" title="COX7B">COX7B_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 7B, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF05392">PF05392</a></i></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Cox7c</td>
+<td><a href="/wiki/COX7C" title="COX7C">COX7C_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 7C, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02935">PF02935</a></i></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Cox7r</td>
+<td><a href="/wiki/COX7A2L" title="COX7A2L">COX7R_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 7A-related protein, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02238">PF02238</a></i></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Cox8a</td>
+<td><a href="/wiki/COX8A" title="COX8A">COX8A_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 8A, mitochondrial P</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02285">PF02285</a></i></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Cox8c</td>
+<td><a href="/w/index.php?title=COX8C&amp;action=edit&amp;redlink=1" class="new" title="COX8C (page does not exist)">COX8C_HUMAN</a></td>
+<td>Cytochrome c oxidase subunit 8C, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02285">PF02285</a></i></td>
+</tr>
+<tr>
+<td><b>Assembly subunits</b><sup id="cite_ref-pmid22356826_10-0" class="reference"><a href="#cite_note-pmid22356826-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-pmid23260140_11-0" class="reference"><a href="#cite_note-pmid23260140-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-pmid24333015_12-0" class="reference"><a href="#cite_note-pmid24333015-12"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Coa1</td>
+<td><a href="/w/index.php?title=COA1&amp;action=edit&amp;redlink=1" class="new" title="COA1 (page does not exist)">COA1_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly factor 1 homolog</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF08695">PF08695</a></i></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Coa3</td>
+<td><a href="/w/index.php?title=COA3&amp;action=edit&amp;redlink=1" class="new" title="COA3 (page does not exist)">COA3_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly factor 3 homolog, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF09813">PF09813</a></i></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Coa4</td>
+<td><a href="/w/index.php?title=COA4&amp;action=edit&amp;redlink=1" class="new" title="COA4 (page does not exist)">COA4_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly factor 4 homolog, mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF06747">PF06747</a></i></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Coa5</td>
+<td><a href="/w/index.php?title=COA5&amp;action=edit&amp;redlink=1" class="new" title="COA5 (page does not exist)">COA5_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly factor 5</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF10203">PF10203</a></i></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Coa6</td>
+<td><a href="/w/index.php?title=COA6&amp;action=edit&amp;redlink=1" class="new" title="COA6 (page does not exist)">COA6_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly factor 6 homolog</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02297">PF02297</a></i></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Coa7</td>
+<td><a href="/w/index.php?title=COA7&amp;action=edit&amp;redlink=1" class="new" title="COA7 (page does not exist)">COA7_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly factor 7,</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF08238">PF08238</a></i></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Cox11</td>
+<td><a href="/w/index.php?title=COX11&amp;action=edit&amp;redlink=1" class="new" title="COX11 (page does not exist)">COX11_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly protein COX11 mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF04442">PF04442</a></i></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Cox14</td>
+<td><a href="/w/index.php?title=COX14&amp;action=edit&amp;redlink=1" class="new" title="COX14 (page does not exist)">COX14_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly protein</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF14880">PF14880</a></i></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Cox15</td>
+<td><a href="/wiki/COX15" title="COX15">COX15_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly protein COX15 homolog</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02628">PF02628</a></i></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Cox16</td>
+<td><a href="/w/index.php?title=COX16&amp;action=edit&amp;redlink=1" class="new" title="COX16 (page does not exist)">COX16_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly protein COX16 homolog mitochondrial</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF14138">PF14138</a></i></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Cox17</td>
+<td><a href="/wiki/COX17" title="COX17">COX17_HUMAN</a></td>
+<td>Cytochrome c oxidase copper chaperone</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF05051">PF05051</a></i></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Cox18<sup id="cite_ref-pmid16911509_13-0" class="reference"><a href="#cite_note-pmid16911509-13"><span>[</span>13<span>]</span></a></sup></td>
+<td><a href="/w/index.php?title=COX18&amp;action=edit&amp;redlink=1" class="new" title="COX18 (page does not exist)">COX18_HUMAN</a></td>
+<td>Mitochondrial inner membrane protein (Cytochrome c oxidase assembly protein 18)</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF02096">PF02096</a></i></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Cox19</td>
+<td><a href="/w/index.php?title=COX19&amp;action=edit&amp;redlink=1" class="new" title="COX19 (page does not exist)">COX19_HUMAN</a></td>
+<td>Cytochrome c oxidase assembly protein</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF06747">PF06747</a></i></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Cox20</td>
+<td><a href="/w/index.php?title=COX20&amp;action=edit&amp;redlink=1" class="new" title="COX20 (page does not exist)">COX20_HUMAN</a></td>
+<td>Cytochrome c oxidase protein 20 homolog</td>
+<td><i><a href="/wiki/Pfam" title="Pfam">Pfam</a> <a rel="nofollow" class="external text" href="http://pfam.xfam.org/family?acc=PF12597">PF12597</a></i></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Biochemistry">Biochemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=4" title="Edit section: Biochemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Summary reaction:</p>
+<dl>
+<dd>4 Fe<sup>2+</sup>-cytochrome <i>c</i> + 8 H<sup>+</sup><sub>in</sub> + O<sub>2</sub> → 4 Fe<sup>3+</sup>-cytochrome <i>c</i> + 2 H<sub>2</sub>O + 4 H<sup>+</sup><sub>out</sub></dd>
+</dl>
+<p>Two electrons are passed from two cytochrome c's, through the Cu<sub>A</sub> and cytochrome a sites to the cytochrome a<sub>3</sub>- Cu<sub>B</sub> binuclear center, reducing the metals to the Fe<sup>2+</sup> form and Cu<sup>+</sup>. The hydroxide ligand is protonated and lost as water, creating a void between the metals that is filled by O<sub>2</sub>. The oxygen is rapidly reduced, with two electrons coming from the Fe<sup>2+</sup>cytochrome a<sub>3</sub>, which is converted to the ferryl oxo form (Fe<sup>4+</sup>=O). The oxygen atom close to Cu<sub>B</sub> picks up one electron from Cu<sup>+</sup>, and a second electron and a proton from the <a href="/wiki/Hydroxyl" title="Hydroxyl">hydroxyl</a> of Tyr(244), which becomes a tyrosyl radical: The second oxygen is converted to a hydroxide ion by picking up two electrons and a proton. A third electron arising from another cytochrome c is passed through the first two electron carriers to the cytochrome a<sub>3</sub>- Cu<sub>B</sub> binuclear center, and this electron and two protons convert the tyrosyl radical back to Tyr, and the hydroxide bound to Cu<sub>B</sub><sup>2+</sup> to a water molecule. The fourth electron from another cytochrome c flows through Cu<sub>A</sub> and cytochrome a to the cytochrome a<sub>3</sub>- Cu<sub>B</sub> binuclear center, reducing the Fe<sup>4+</sup>=O to Fe<sup>3+</sup>, with the oxygen atom picking up a proton simultaneously, regenerating this oxygen as a hydroxide ion coordinated in the middle of the cytochrome a<sub>3</sub>- Cu<sub>B</sub> center as it was at the start of this cycle. The net process is that four reduced cytochrome c's are used, along with 4 protons, to reduce O<sub>2</sub> to two water molecules.</p>
+<h2><span class="mw-headline" id="Inhibition">Inhibition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=5" title="Edit section: Inhibition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Cyanide" title="Cyanide">Cyanide</a>, <a href="/wiki/Hydrogen_sulfide" title="Hydrogen sulfide">sulfide</a>, <a href="/wiki/Azide" title="Azide">azide</a>, and <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a><sup id="cite_ref-pmid12969439_14-0" class="reference"><a href="#cite_note-pmid12969439-14"><span>[</span>14<span>]</span></a></sup> all bind to cytochrome c oxidase, thus <a href="/wiki/Competitive_inhibition" title="Competitive inhibition">competitively</a> inhibiting the protein from functioning, which results in chemical <a href="/wiki/Asphyxiation" title="Asphyxiation" class="mw-redirect">asphyxiation</a> of cells. <a href="/wiki/Methanol" title="Methanol">Methanol</a> in <a href="/wiki/Denatured_alcohol" title="Denatured alcohol">methylated spirits</a> is converted into <a href="/wiki/Formic_acid" title="Formic acid">formic acid</a>, which also inhibits the same oxidase system. High levels of ATP can <a href="/wiki/Allosteric_inhibition" title="Allosteric inhibition" class="mw-redirect">allosterically</a> inhibit cytochrome c oxidase, binding from within the mitochondrial matrix.<sup id="cite_ref-pmid9363790_15-0" class="reference"><a href="#cite_note-pmid9363790-15"><span>[</span>15<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Subcellular_distribution">Subcellular distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=6" title="Edit section: Subcellular distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cytochrome c oxidase has 3 subunits which are encoded by <a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">mitochondrial DNA</a>. Of these 3 subunits encoded by mitochondrial DNA, two have been identified in extramitochondrial locations. In <a href="/wiki/Pancreatic" title="Pancreatic" class="mw-redirect">pancreatic</a> acinar tissue, these subunits were found in <a href="/wiki/Zymogen" title="Zymogen">zymogen</a> granules. Additionally, in the <a href="/wiki/Anterior_pituitary" title="Anterior pituitary">anterior pituitary</a>, relatively high amounts of these subunits were found in <a href="/wiki/Growth_hormone" title="Growth hormone">growth hormone</a> secretory granules.<sup id="cite_ref-Sadacharan_16-0" class="reference"><a href="#cite_note-Sadacharan-16"><span>[</span>16<span>]</span></a></sup> The extramitochondrial function of these cytochrome c oxidase subunits has not yet been characterized. Besides cytochrome c oxidase subunits, extramitochondrial localization has also been observed for large numbers of other mitochondrial proteins.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-Soltysb_18-0" class="reference"><a href="#cite_note-Soltysb-18"><span>[</span>18<span>]</span></a></sup> This raises the possibility about existence of yet unidentified specific mechanisms for protein translocation from mitochondria to other cellular destinations.<sup id="cite_ref-Sadacharan_16-1" class="reference"><a href="#cite_note-Sadacharan-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-Soltysb_18-1" class="reference"><a href="#cite_note-Soltysb-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Clinical_significance">Clinical significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=7" title="Edit section: Clinical significance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Defects involving genetic mutations altering cytochrome <i>c</i> oxidase (COX) functionality or structure can result in severe, often fatal <a href="/wiki/Metabolic_disorders" title="Metabolic disorders">metabolic disorders</a>. Such disorders usually manifest in early childhood and affect predominantly tissues with high energy demands (brain, heart, muscle). Among the many classified <a href="/wiki/Mitochondrial_diseases" title="Mitochondrial diseases" class="mw-redirect">mitochondrial diseases</a>, those involving dysfunctional COX assembly are thought to be the most severe.<sup id="cite_ref-pmid15119951_20-0" class="reference"><a href="#cite_note-pmid15119951-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>The vast majority of COX disorders are linked to mutations in nuclear-encoded proteins referred to as assembly factors, or assembly proteins. These assembly factors contribute to COX structure and functionality, and are involved in several essential processes, including transcription and translation of mitochondrion-encoded subunits, processing of preproteins and membrane insertion, and cofactor biosynthesis and incorporation.<sup id="cite_ref-pmid17215873_21-0" class="reference"><a href="#cite_note-pmid17215873-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>Currently, mutations have been identified in seven COX assembly factors: <a href="/wiki/SURF1" title="SURF1">SURF1</a>, <a href="/wiki/SCO1" title="SCO1">SCO1</a>, <a href="/wiki/SCO2" title="SCO2">SCO2</a>, <a href="/wiki/COX10" title="COX10">COX10</a>, <a href="/wiki/COX15" title="COX15">COX15</a>, <a href="/w/index.php?title=COX20&amp;action=edit&amp;redlink=1" class="new" title="COX20 (page does not exist)">COX20</a>, <a href="/w/index.php?title=COA5&amp;action=edit&amp;redlink=1" class="new" title="COA5 (page does not exist)">COA5</a> and <a href="/wiki/LRPPRC" title="LRPPRC">LRPPRC</a>. Mutations in these proteins can result in altered functionality of sub-complex assembly, copper transport, or translational regulation. Each gene mutation is associated with the etiology of a specific disease, with some having implications in multiple disorders. Disorders involving dysfunctional COX assembly via gene mutations include <a href="/wiki/Leigh_syndrome" title="Leigh syndrome" class="mw-redirect">Leigh syndrome</a>, <a href="/wiki/Cardiomyopathy" title="Cardiomyopathy">cardiomyopathy</a>, <a href="/wiki/Leukodystrophy" title="Leukodystrophy">leukodystrophy</a>, <a href="/wiki/Anemia" title="Anemia">anemia</a>, and <a href="/wiki/Sensorineural_deafness" title="Sensorineural deafness" class="mw-redirect">sensorineural deafness</a>.</p>
+<h2><span class="mw-headline" id="Histochemistry">Histochemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=8" title="Edit section: Histochemistry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>COX histochemistry is used for mapping regional brain metabolism in animals, since there is a direct relation between enzyme activity and neuronal activity.<sup id="cite_ref-pmid:2469224_22-0" class="reference"><a href="#cite_note-pmid:2469224-22"><span>[</span>22<span>]</span></a></sup> Such brain mapping has been accomplished in spontaneous mutant mice with cerebellar disease such as <a href="/wiki/Reeler" title="Reeler">reeler</a><sup id="cite_ref-pmid16511878_23-0" class="reference"><a href="#cite_note-pmid16511878-23"><span>[</span>23<span>]</span></a></sup> and a transgenic model of <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer's disease">Alzheimer's disease</a>.<sup id="cite_ref-pmid:12732258_24-0" class="reference"><a href="#cite_note-pmid:12732258-24"><span>[</span>24<span>]</span></a></sup> This technique has also been used to map learning activity in animal brain.<sup id="cite_ref-pmid:19969098_25-0" class="reference"><a href="#cite_note-pmid:19969098-25"><span>[</span>25<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Additional_images">Additional images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=9" title="Edit section: Additional images">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28.5px auto;"><a href="/wiki/File:Etc2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Etc2.svg/120px-Etc2.svg.png" width="120" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Etc2.svg/180px-Etc2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Etc2.svg/240px-Etc2.svg.png 2x" data-file-width="990" data-file-height="765" /></a></div>
+</div>
+<div class="gallerytext">
+<p>ETC</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:26.5px auto;"><a href="/wiki/File:Komplex_IV.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Komplex_IV.png/120px-Komplex_IV.png" width="120" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Komplex_IV.png/180px-Komplex_IV.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Komplex_IV.png/240px-Komplex_IV.png 2x" data-file-width="1329" data-file-height="1073" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Complex IV</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cytochrome_c_oxidase_subunit_I" title="Cytochrome c oxidase subunit I">Cytochrome c oxidase subunit I</a></li>
+<li><a href="/wiki/Cytochrome_c_oxidase_subunit_II" title="Cytochrome c oxidase subunit II">Cytochrome c oxidase subunit II</a></li>
+<li><a href="/wiki/Cytochrome_c_oxidase_subunit_III" title="Cytochrome c oxidase subunit III">Cytochrome c oxidase subunit III</a></li>
+<li><a href="/wiki/Heme_a" title="Heme a" class="mw-redirect">Heme a</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation book">Yoshikawa, Shinya; Shimada, Atsuhiro; Shinzawa-Itoh, Kyoko (2015). "Chapter 4 <i>Respiratory Conservation of Energy with Dioxygen: Cytochrome c Oxidase</i>". In Peter M.H. Kroneck and Martha E. Sosa Torres. <i>Sustaining Life on Planet Earth: Metalloenzymes Mastering Dioxygen and Other Chewy Gases</i>. Metal Ions in Life Sciences <b>15</b>. Springer. pp.&#160;89–130. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F978-3-319-12415-5_4">10.1007/978-3-319-12415-5_4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Chapter+4+Respiratory+Conservation+of+Energy+with+Dioxygen%3A+Cytochrome+c+Oxidase&amp;rft.aufirst=Shinya&amp;rft.aulast=Yoshikawa&amp;rft.au=Shimada%2C+Atsuhiro&amp;rft.au=Shinzawa-Itoh%2C+Kyoko&amp;rft.au=Yoshikawa%2C+Shinya&amp;rft.btitle=Sustaining+Life+on+Planet+Earth%3A+Metalloenzymes+Mastering+Dioxygen+and+Other+Chewy+Gases&amp;rft.date=2015&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-319-12415-5_4&amp;rft.pages=89-130&amp;rft.pub=Springer&amp;rft.series=Metal+Ions+in+Life+Sciences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation book">Yee, Gereon M.; Tolman, William B. (2015). "Chapter 5, Section 2.3 <i>Iron-Porphyrin/Copper Complexes as Cytochrome c Oxidase Models</i>". In Peter M.H. Kroneck and Martha E. Sosa Torres. <i>Sustaining Life on Planet Earth: Metalloenzymes Mastering Dioxygen and Other Chewy Gases</i>. Metal Ions in Life Sciences <b>15</b>. Springer. pp.&#160;153–157. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2F978-3-319-12415-5_5">10.1007/978-3-319-12415-5_5</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Chapter+5%2C+Section+2.3+Iron-Porphyrin%2FCopper+Complexes+as+Cytochrome+c+Oxidase+Models&amp;rft.aufirst=Gereon+M.&amp;rft.aulast=Yee&amp;rft.au=Tolman%2C+William+B.&amp;rft.au=Yee%2C+Gereon+M.&amp;rft.btitle=Sustaining+Life+on+Planet+Earth%3A+Metalloenzymes+Mastering+Dioxygen+and+Other+Chewy+Gases&amp;rft.date=2015&amp;rft.genre=bookitem&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-319-12415-5_5&amp;rft.pages=153-157&amp;rft.pub=Springer&amp;rft.series=Metal+Ions+in+Life+Sciences&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid22902835-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid22902835_3-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Balsa E, Marco R, Perales-Clemente E, Szklarczyk R, Calvo E, Landázuri MO et al. (September 2012). "NDUFA4 is a subunit of complex IV of the mammalian electron transport chain". <i>Cell Metab.</i> <b>16</b> (3): 378–86. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.cmet.2012.07.015">10.1016/j.cmet.2012.07.015</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22902835">22902835</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=NDUFA4+is+a+subunit+of+complex+IV+of+the+mammalian+electron+transport+chain&amp;rft.au=Balsa%2C+E&amp;rft.au=Calvo%2C+E&amp;rft.au=Enr%C3%ADquez%2C+JA&amp;rft.aufirst=E&amp;rft.au=Land%C3%A1zuri%2C+MO&amp;rft.aulast=Balsa&amp;rft.au=Marco%2C+R&amp;rft.au=Perales-Clemente%2C+E&amp;rft.au=Szklarczyk%2C+R&amp;rft.date=September+2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cmet.2012.07.015&amp;rft_id=info%3Apmid%2F22902835&amp;rft.issue=3&amp;rft.jtitle=Cell+Metab.&amp;rft.pages=378-86&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid7652554-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7652554_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Tsukihara T, Aoyama H, Yamashita E, Tomizaki T, Yamaguchi H, Shinzawa-Itoh K et al. (August 1995). "Structures of metal sites of oxidized bovine heart cytochrome c oxidase at 2.8 A". <i>Science</i> <b>269</b> (5227): 1069–74. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.7652554">10.1126/science.7652554</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7652554">7652554</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Structures+of+metal+sites+of+oxidized+bovine+heart+cytochrome+c+oxidase+at+2.8+A&amp;rft.au=Aoyama%2C+H&amp;rft.aufirst=T&amp;rft.aulast=Tsukihara&amp;rft.au=Nakashima%2C+R&amp;rft.au=Shinzawa-Itoh%2C+K&amp;rft.au=Tomizaki%2C+T&amp;rft.au=Tsukihara%2C+T&amp;rft.au=Yamaguchi%2C+H&amp;rft.au=Yamashita%2C+E&amp;rft.au=Yaono%2C+R&amp;rft.au=Yoshikawa%2C+S&amp;rft.date=August+1995&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.7652554&amp;rft_id=info%3Apmid%2F7652554&amp;rft.issue=5227&amp;rft.jtitle=Science&amp;rft.pages=1069-74&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=269" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-isbn0-470-57095-4-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-isbn0-470-57095-4_5-0">^</a></b></span> <span class="reference-text"><span class="citation book">Voet, Donald (2010). <i>Biochemistry</i>. New York: J. Wiley &amp; Sons. pp.&#160;865–866. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-470-57095-4" title="Special:BookSources/0-470-57095-4">0-470-57095-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.aulast=Voet%2C+Donald&amp;rft.au=Voet%2C+Donald&amp;rft.btitle=Biochemistry&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=0-470-57095-4&amp;rft.pages=865-866&amp;rft.place=New+York&amp;rft.pub=J.+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16199211-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16199211_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Khalimonchuk O, Rödel G (December 2005). "Biogenesis of cytochrome c oxidase". <i>Mitochondrion</i> <b>5</b> (6): 363–88. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.mito.2005.08.002">10.1016/j.mito.2005.08.002</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16199211">16199211</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Biogenesis+of+cytochrome+c+oxidase&amp;rft.aufirst=O&amp;rft.au=Khalimonchuk%2C+O&amp;rft.aulast=Khalimonchuk&amp;rft.au=R%C3%B6del%2C+G&amp;rft.date=December+2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.mito.2005.08.002&amp;rft_id=info%3Apmid%2F16199211&amp;rft.issue=6&amp;rft.jtitle=Mitochondrion&amp;rft.pages=363-88&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16760263-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16760263_7-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Fontanesi F, Soto IC, Horn D, Barrientos A (December 2006). "Assembly of mitochondrial cytochrome c-oxidase, a complicated and highly regulated cellular process". <i>Am. J. Physiol., Cell Physiol.</i> <b>291</b> (6): C1129–47. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1152%2Fajpcell.00233.2006">10.1152/ajpcell.00233.2006</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16760263">16760263</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Assembly+of+mitochondrial+cytochrome+c-oxidase%2C+a+complicated+and+highly+regulated+cellular+process&amp;rft.au=Barrientos%2C+A&amp;rft.aufirst=F&amp;rft.au=Fontanesi%2C+F&amp;rft.au=Horn%2C+D&amp;rft.aulast=Fontanesi&amp;rft.au=Soto%2C+IC&amp;rft.date=December+2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1152%2Fajpcell.00233.2006&amp;rft_id=info%3Apmid%2F16760263&amp;rft.issue=6&amp;rft.jtitle=Am.+J.+Physiol.%2C+Cell+Physiol.&amp;rft.pages=C1129-47&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=291" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid9565029-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9565029_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Zhang Z, Huang L, Shulmeister VM, Chi YI, Kim KK, Hung LW et al. (1998). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;tool=sumsearch.org/cite&amp;retmode=ref&amp;cmd=prlinks&amp;id=9565029">"Electron transfer by domain movement in cytochrome bc1."</a>. <i>Nature</i> <b>392</b> (6677): 677–84. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F33612">10.1038/33612</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9565029">9565029</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Electron+transfer+by+domain+movement+in+cytochrome+bc1.&amp;rft.au=Berry%2C+EA&amp;rft.au=Chi%2C+YI&amp;rft.au=Crofts%2C+AR&amp;rft.aufirst=Z&amp;rft.au=Huang%2C+L&amp;rft.au=Hung%2C+LW&amp;rft.au=Kim%2C+KK&amp;rft.au=Kim%2C+SH&amp;rft.aulast=Zhang&amp;rft.au=Shulmeister%2C+VM&amp;rft.au=Zhang%2C+Z&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Feutils%2Felink.fcgi%3Fdbfrom%3Dpubmed%26tool%3Dsumsearch.org%2Fcite%26retmode%3Dref%26cmd%3Dprlinks%26id%3D9565029&amp;rft_id=info%3Adoi%2F10.1038%2F33612&amp;rft_id=info%3Apmid%2F9565029&amp;rft.issue=6677&amp;rft.jtitle=Nature&amp;rft.pages=677-84&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=392" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid21211513-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid21211513_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Kaila VR, Oksanen E, Goldman A, Bloch DA, Verkhovsky MI, Sundholm D et al. (2011). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;tool=sumsearch.org/cite&amp;retmode=ref&amp;cmd=prlinks&amp;id=21211513">"A combined quantum chemical and crystallographic study on the oxidized binuclear center of cytochrome c oxidase."</a>. <i>Biochim Biophys Acta</i> <b>1807</b> (7): 769–78. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.bbabio.2010.12.016">10.1016/j.bbabio.2010.12.016</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21211513">21211513</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=A+combined+quantum+chemical+and+crystallographic+study+on+the+oxidized+binuclear+center+of+cytochrome+c+oxidase.&amp;rft.au=Bloch%2C+DA&amp;rft.aufirst=VR&amp;rft.au=Goldman%2C+A&amp;rft.au=Kaila%2C+VR&amp;rft.aulast=Kaila&amp;rft.au=Oksanen%2C+E&amp;rft.au=Sundholm%2C+D&amp;rft.au=Verkhovsky%2C+MI&amp;rft.au=Wikstr%C3%B6m%2C+M&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Feutils%2Felink.fcgi%3Fdbfrom%3Dpubmed%26tool%3Dsumsearch.org%2Fcite%26retmode%3Dref%26cmd%3Dprlinks%26id%3D21211513&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bbabio.2010.12.016&amp;rft_id=info%3Apmid%2F21211513&amp;rft.issue=7&amp;rft.jtitle=Biochim+Biophys+Acta&amp;rft.pages=769-78&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1807" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid22356826-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid22356826_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Szklarczyk R, Wanschers BF, Cuypers TD, Esseling JJ, Riemersma M, van den Brand MA et al. (2012). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;tool=sumsearch.org/cite&amp;retmode=ref&amp;cmd=prlinks&amp;id=22356826">"Iterative orthology prediction uncovers new mitochondrial proteins and identifies C12orf62 as the human ortholog of COX14, a protein involved in the assembly of cytochrome c oxidase."</a>. <i>Genome Biol</i> <b>13</b> (2): R12. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1186%2Fgb-2012-13-2-r12">10.1186/gb-2012-13-2-r12</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3334569">3334569</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22356826">22356826</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Iterative+orthology+prediction+uncovers+new+mitochondrial+proteins+and+identifies+C12orf62+as+the+human+ortholog+of+COX14%2C+a+protein+involved+in+the+assembly+of+cytochrome+c+oxidase.&amp;rft.au=Cuypers%2C+TD&amp;rft.au=Esseling%2C+JJ&amp;rft.aufirst=R&amp;rft.au=Gloerich%2C+J&amp;rft.au=Huynen%2C+MA&amp;rft.au=Lasonder%2C+E&amp;rft.aulast=Szklarczyk&amp;rft.au=Nijtmans%2C+LG&amp;rft.au=Riemersma%2C+M&amp;rft.au=Szklarczyk%2C+R&amp;rft.au=van+den+Brand%2C+MA&amp;rft.au=van+den+Heuvel%2C+LP&amp;rft.au=Wanschers%2C+BF&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Feutils%2Felink.fcgi%3Fdbfrom%3Dpubmed%26tool%3Dsumsearch.org%2Fcite%26retmode%3Dref%26cmd%3Dprlinks%26id%3D22356826&amp;rft_id=info%3Adoi%2F10.1186%2Fgb-2012-13-2-r12&amp;rft_id=info%3Apmc%2F3334569&amp;rft_id=info%3Apmid%2F22356826&amp;rft.issue=2&amp;rft.jtitle=Genome+Biol&amp;rft.pages=R12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid23260140-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid23260140_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Mick DU, Dennerlein S, Wiese H, Reinhold R, Pacheu-Grau D, Lorenzi I et al. (2012). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;tool=sumsearch.org/cite&amp;retmode=ref&amp;cmd=prlinks&amp;id=23260140">"MITRAC links mitochondrial protein translocation to respiratory-chain assembly and translational regulation."</a>. <i>Cell</i> <b>151</b> (7): 1528–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.cell.2012.11.053">10.1016/j.cell.2012.11.053</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23260140">23260140</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=MITRAC+links+mitochondrial+protein+translocation+to+respiratory-chain+assembly+and+translational+regulation.&amp;rft.au=Dennerlein%2C+S&amp;rft.aufirst=DU&amp;rft.aulast=Mick&amp;rft.au=Lorenzi%2C+I&amp;rft.au=Mick%2C+DU&amp;rft.au=Pacheu-Grau%2C+D&amp;rft.au=Rehling%2C+P&amp;rft.au=Reinhold%2C+R&amp;rft.au=Sasarman%2C+F&amp;rft.au=Shoubridge%2C+EA&amp;rft.au=Warscheid%2C+B&amp;rft.au=Weraarpachai%2C+W&amp;rft.au=Wiese%2C+H&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Feutils%2Felink.fcgi%3Fdbfrom%3Dpubmed%26tool%3Dsumsearch.org%2Fcite%26retmode%3Dref%26cmd%3Dprlinks%26id%3D23260140&amp;rft_id=info%3Adoi%2F10.1016%2Fj.cell.2012.11.053&amp;rft_id=info%3Apmid%2F23260140&amp;rft.issue=7&amp;rft.jtitle=Cell&amp;rft.pages=1528-41&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=151" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid24333015-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid24333015_12-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Kozjak-Pavlovic V, Prell F, Thiede B, Götz M, Wosiek D, Ott C et al. (2014). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;tool=sumsearch.org/cite&amp;retmode=ref&amp;cmd=prlinks&amp;id=24333015">"C1orf163/RESA1 is a novel mitochondrial intermembrane space protein connected to respiratory chain assembly."</a>. <i>J Mol Biol</i> <b>426</b> (4): 908–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jmb.2013.12.001">10.1016/j.jmb.2013.12.001</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24333015">24333015</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=C1orf163%2FRESA1+is+a+novel+mitochondrial+intermembrane+space+protein+connected+to+respiratory+chain+assembly.&amp;rft.aufirst=V&amp;rft.au=G%C3%B6tz%2C+M&amp;rft.au=Kozjak-Pavlovic%2C+V&amp;rft.aulast=Kozjak-Pavlovic&amp;rft.au=Ott%2C+C&amp;rft.au=Prell%2C+F&amp;rft.au=Rudel%2C+T&amp;rft.au=Thiede%2C+B&amp;rft.au=Wosiek%2C+D&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Feutils%2Felink.fcgi%3Fdbfrom%3Dpubmed%26tool%3Dsumsearch.org%2Fcite%26retmode%3Dref%26cmd%3Dprlinks%26id%3D24333015&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jmb.2013.12.001&amp;rft_id=info%3Apmid%2F24333015&amp;rft.issue=4&amp;rft.jtitle=J+Mol+Biol&amp;rft.pages=908-20&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=426" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16911509-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16911509_13-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Gaisne M, Bonnefoy N (2006). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&amp;tool=sumsearch.org/cite&amp;retmode=ref&amp;cmd=prlinks&amp;id=16911509">"The COX18 gene, involved in mitochondrial biogenesis, is functionally conserved and tightly regulated in humans and fission yeast."</a>. <i>FEMS Yeast Res</i> <b>6</b> (6): 869–82. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1567-1364.2006.00083.x">10.1111/j.1567-1364.2006.00083.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16911509">16911509</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=The+COX18+gene%2C+involved+in+mitochondrial+biogenesis%2C+is+functionally+conserved+and+tightly+regulated+in+humans+and+fission+yeast.&amp;rft.au=Bonnefoy%2C+N&amp;rft.aufirst=M&amp;rft.au=Gaisne%2C+M&amp;rft.aulast=Gaisne&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Feutils%2Felink.fcgi%3Fdbfrom%3Dpubmed%26tool%3Dsumsearch.org%2Fcite%26retmode%3Dref%26cmd%3Dprlinks%26id%3D16911509&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1567-1364.2006.00083.x&amp;rft_id=info%3Apmid%2F16911509&amp;rft.issue=6&amp;rft.jtitle=FEMS+Yeast+Res&amp;rft.pages=869-82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid12969439-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid12969439_14-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Alonso JR, Cardellach F, López S, Casademont J, Miró O (September 2003). "Carbon monoxide specifically inhibits cytochrome c oxidase of human mitochondrial respiratory chain". <i>Pharmacol. Toxicol.</i> <b>93</b> (3): 142–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1034%2Fj.1600-0773.2003.930306.x">10.1034/j.1600-0773.2003.930306.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12969439">12969439</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Carbon+monoxide+specifically+inhibits+cytochrome+c+oxidase+of+human+mitochondrial+respiratory+chain&amp;rft.au=Alonso%2C+JR&amp;rft.au=Cardellach%2C+F&amp;rft.au=Casademont%2C+J&amp;rft.aufirst=JR&amp;rft.aulast=Alonso&amp;rft.au=L%C3%B3pez%2C+S&amp;rft.au=Mir%C3%B3%2C+O&amp;rft.date=September+2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1034%2Fj.1600-0773.2003.930306.x&amp;rft_id=info%3Apmid%2F12969439&amp;rft.issue=3&amp;rft.jtitle=Pharmacol.+Toxicol.&amp;rft.pages=142-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid9363790-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid9363790_15-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Arnold S, Kadenbach B (October 1997). "Cell respiration s controlled by ATP, an allosteric inhibitor of cytochrome-c oxidase.". <i>Eur J Biochem</i> <b>249</b>: 350–254. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1432-1033.1997.t01-1-00350.x">10.1111/j.1432-1033.1997.t01-1-00350.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9363790">9363790</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Cell+respiration+s+controlled+by+ATP%2C+an+allosteric+inhibitor+of+cytochrome-c+oxidase.&amp;rft.au=Arnold%2C+S&amp;rft.aufirst=S&amp;rft.au=Kadenbach%2C+B&amp;rft.aulast=Arnold&amp;rft.date=October+1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1432-1033.1997.t01-1-00350.x&amp;rft_id=info%3Apmid%2F9363790&amp;rft.jtitle=Eur+J+Biochem&amp;rft.pages=350-254&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=249" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sadacharan-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sadacharan_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sadacharan_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Sadacharan SK, Singh B, Bowes T, Gupta RS (2005). "Localization of mitochondrial DNA encoded cytochrome c oxidase subunits I and II in rat pancreatic zymogen granules and pituitary growth hormone granules". <i>Histochem. Cell Biol.</i> <b>124</b> (5): 409–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs00418-005-0056-2">10.1007/s00418-005-0056-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16133117">16133117</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Localization+of+mitochondrial+DNA+encoded+cytochrome+c+oxidase+subunits+I+and+II+in+rat+pancreatic+zymogen+granules+and+pituitary+growth+hormone+granules&amp;rft.au=Bowes%2C+T&amp;rft.aufirst=SK&amp;rft.au=Gupta%2C+RS&amp;rft.aulast=Sadacharan&amp;rft.au=Sadacharan%2C+SK&amp;rft.au=Singh%2C+B&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs00418-005-0056-2&amp;rft_id=info%3Apmid%2F16133117&amp;rft.issue=5&amp;rft.jtitle=Histochem.+Cell+Biol.&amp;rft.pages=409-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=124" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation journal">Gupta RS, Ramachandra NB, Bowes T, Singh B (2008). "Unusual cellular disposition of the mitochondrial molecular chaperones Hsp60, Hsp70 and Hsp10". <i>Novartis Found. Symp.</i> <b>291</b>: 59–68; discussion 69–73, 137–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F9780470754030.ch5">10.1002/9780470754030.ch5</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18575266">18575266</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Unusual+cellular+disposition+of+the+mitochondrial+molecular+chaperones+Hsp60%2C+Hsp70+and+Hsp10&amp;rft.au=Bowes%2C+T&amp;rft.aufirst=RS&amp;rft.au=Gupta%2C+RS&amp;rft.aulast=Gupta&amp;rft.au=Ramachandra%2C+NB&amp;rft.au=Singh%2C+B&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F9780470754030.ch5&amp;rft_id=info%3Apmid%2F18575266&amp;rft.jtitle=Novartis+Found.+Symp.&amp;rft.pages=59-68%3B+discussion+69-73%2C+137-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=291" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Soltysb-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-Soltysb_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Soltysb_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Soltys BJ, Gupta RS (2000). "Mitochondrial proteins at unexpected cellular locations: export of proteins from mitochondria from an evolutionary perspective". <i>Int. Rev. Cytol.</i> <b>194</b>: 133–96. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fs0074-7696%2808%2962396-7">10.1016/s0074-7696(08)62396-7</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10494626">10494626</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Mitochondrial+proteins+at+unexpected+cellular+locations%3A+export+of+proteins+from+mitochondria+from+an+evolutionary+perspective&amp;rft.aufirst=BJ&amp;rft.au=Gupta%2C+RS&amp;rft.aulast=Soltys&amp;rft.au=Soltys%2C+BJ&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fs0074-7696%2808%2962396-7&amp;rft_id=info%3Apmid%2F10494626&amp;rft.jtitle=Int.+Rev.+Cytol.&amp;rft.pages=133-96&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=194" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation journal">Soltys BJ, Gupta RS (1999). "Mitochondrial-matrix proteins at unexpected locations: are they exported?". <i>Trends Biochem. Sci.</i> <b>24</b> (5): 174–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fs0968-0004%2899%2901390-0">10.1016/s0968-0004(99)01390-0</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10322429">10322429</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Mitochondrial-matrix+proteins+at+unexpected+locations%3A+are+they+exported%3F&amp;rft.aufirst=BJ&amp;rft.au=Gupta%2C+RS&amp;rft.aulast=Soltys&amp;rft.au=Soltys%2C+BJ&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fs0968-0004%2899%2901390-0&amp;rft_id=info%3Apmid%2F10322429&amp;rft.issue=5&amp;rft.jtitle=Trends+Biochem.+Sci.&amp;rft.pages=174-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid15119951-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid15119951_20-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Pecina P, Houstková H, Hansíková H, Zeman J, Houstek J (2004). <a rel="nofollow" class="external text" href="http://www.biomed.cas.cz/physiolres/pdf/53%20Suppl%201/53_S213.pdf">"Genetic defects of cytochrome c oxidase assembly"</a> <span style="font-size:85%;">(PDF)</span>. <i>Physiol Res</i>. 53 Suppl 1: S213–23. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15119951">15119951</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Genetic+defects+of+cytochrome+c+oxidase+assembly&amp;rft.aufirst=P&amp;rft.au=Hans%C3%ADkov%C3%A1%2C+H&amp;rft.au=Houstek%2C+J&amp;rft.au=Houstkov%C3%A1%2C+H&amp;rft.aulast=Pecina&amp;rft.au=Pecina%2C+P&amp;rft.au=Zeman%2C+J&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.biomed.cas.cz%2Fphysiolres%2Fpdf%2F53%2520Suppl%25201%2F53_S213.pdf&amp;rft_id=info%3Apmid%2F15119951&amp;rft.jtitle=Physiol+Res&amp;rft.pages=S213-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53+Suppl+1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid17215873-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid17215873_21-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Zee JM, Glerum DM (December 2006). "Defects in cytochrome oxidase assembly in humans: lessons from yeast". <i>Biochem. Cell Biol.</i> <b>84</b> (6): 859–69. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1139%2Fo06-201">10.1139/o06-201</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17215873">17215873</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Defects+in+cytochrome+oxidase+assembly+in+humans%3A+lessons+from+yeast&amp;rft.aufirst=JM&amp;rft.au=Glerum%2C+DM&amp;rft.aulast=Zee&amp;rft.au=Zee%2C+JM&amp;rft.date=December+2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1139%2Fo06-201&amp;rft_id=info%3Apmid%2F17215873&amp;rft.issue=6&amp;rft.jtitle=Biochem.+Cell+Biol.&amp;rft.pages=859-69&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=84" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid:2469224-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid:2469224_22-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Wong-Riley MT (1989). "Cytochrome oxidase: an endogenous metabolic marker for neuronal activity.". <i>Trends Neurosci.</i> <b>12</b> (3): 94–111. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0166-2236%2889%2990165-3">10.1016/0166-2236(89)90165-3</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2469224">2469224</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Cytochrome+oxidase%3A+an+endogenous+metabolic+marker+for+neuronal+activity.&amp;rft.aufirst=MT&amp;rft.aulast=Wong-Riley&amp;rft.au=Wong-Riley%2C+MT&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0166-2236%2889%2990165-3&amp;rft_id=info%3Apmid%2F2469224&amp;rft.issue=3&amp;rft.jtitle=Trends+Neurosci.&amp;rft.pages=94-111&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16511878-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16511878_23-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Strazielle C, Hayzoun K, Derer M, Mariani J, Lalonde R (April 2006). "Regional brain variations of cytochrome oxidase activity in Relnrl-orl mutant mice.". <i>J. Neurosci. Res.</i> <b>83</b> (5): 821–31. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fjnr.20772">10.1002/jnr.20772</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16511878">16511878</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Regional+brain+variations+of+cytochrome+oxidase+activity+in+Relnrl-orl+mutant+mice.&amp;rft.au=Derer%2C+M&amp;rft.aufirst=C&amp;rft.au=Hayzoun%2C+K&amp;rft.au=Lalonde%2C+R&amp;rft.aulast=Strazielle&amp;rft.au=Mariani%2C+J&amp;rft.au=Strazielle%2C+C&amp;rft.date=April+2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fjnr.20772&amp;rft_id=info%3Apmid%2F16511878&amp;rft.issue=5&amp;rft.jtitle=J.+Neurosci.+Res.&amp;rft.pages=821-31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=83" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid:12732258-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid:12732258_24-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Strazielle C, Sturchler-Pierrat C, Staufenbiel M, Lalonde R (2003). "Regional brain cytochrome oxidase activity in beta-amyloid precursor protein transgenic mice with the Swedish mutation.". <i>Neuroscience</i> <b>118</b> (4): 1151–63. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0306-4522%2803%2900037-X">10.1016/S0306-4522(03)00037-X</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12732258">12732258</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Regional+brain+cytochrome+oxidase+activity+in+beta-amyloid+precursor+protein+transgenic+mice+with+the+Swedish+mutation.&amp;rft.aufirst=C&amp;rft.au=Lalonde%2C+R&amp;rft.aulast=Strazielle&amp;rft.au=Staufenbiel%2C+M&amp;rft.au=Strazielle%2C+C&amp;rft.au=Sturchler-Pierrat%2C+C&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0306-4522%2803%2900037-X&amp;rft_id=info%3Apmid%2F12732258&amp;rft.issue=4&amp;rft.jtitle=Neuroscience&amp;rft.pages=1151-63&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=118" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid:19969098-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid:19969098_25-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Conejo NM, González-Pardo H, Gonzalez-Lima F, Arias JL (2010). "Spatial learning of the water maze: progression of brain circuits mapped with cytochrome oxidase histochemistry.". <i>Neurobiol. Learn. Mem.</i> <b>93</b> (3): 362–71. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.nlm.2009.12.002">10.1016/j.nlm.2009.12.002</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19969098">19969098</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACytochrome+c+oxidase&amp;rft.atitle=Spatial+learning+of+the+water+maze%3A+progression+of+brain+circuits+mapped+with+cytochrome+oxidase+histochemistry.&amp;rft.au=Arias%2C+JL&amp;rft.au=Conejo%2C+NM&amp;rft.aufirst=NM&amp;rft.au=Gonzalez-Lima%2C+F&amp;rft.au=Gonz%C3%A1lez-Pardo%2C+H&amp;rft.aulast=Conejo&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.nlm.2009.12.002&amp;rft_id=info%3Apmid%2F19969098&amp;rft.issue=3&amp;rft.jtitle=Neurobiol.+Learn.+Mem.&amp;rft.pages=362-71&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www-bioc.rice.edu/~graham/CcO.html">The Cytochrome Oxidase home page</a> at <a href="/wiki/Rice_University" title="Rice University">Rice University</a></li>
+<li><a rel="nofollow" class="external text" href="http://www2.ufp.pt/~pedros/anim/2frame-iven.htm">Interactive Molecular model of cytochrome c oxidase</a> (Requires <a rel="nofollow" class="external text" href="http://www.mdl.com/products/framework/chime/">MDL Chime</a>)</li>
+<li><a href="/wiki/Orientations_of_Proteins_in_Membranes_database" title="Orientations of Proteins in Membranes database">UMich Orientation of Proteins in Membranes</a> <i><a rel="nofollow" class="external text" href="http://opm.phar.umich.edu/families.php?superfamily=4">families/superfamily-4</a></i></li>
+<li><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&amp;term=Cytochrome-c+Oxidase">Cytochrome-c Oxidase</a> at the US National Library of Medicine <a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">Medical Subject Headings</a> (MeSH)</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Citric_acid_cycle_enzymes_and_ETC" title="Template:Citric acid cycle enzymes and ETC"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Citric_acid_cycle_enzymes_and_ETC&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Citric acid cycle enzymes and ETC (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Citric_acid_cycle_enzymes_and_ETC&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Metabolism" title="Metabolism">Metabolism</a>: <a href="/wiki/Citric_acid_cycle" title="Citric acid cycle">Citric acid cycle</a> <a href="/wiki/Enzyme" title="Enzyme">enzymes</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Cycle</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Citrate_synthase" title="Citrate synthase">Citrate synthase</a></li>
+<li><a href="/wiki/Aconitase" title="Aconitase">Aconitase</a></li>
+<li><a href="/wiki/Isocitrate_dehydrogenase" title="Isocitrate dehydrogenase">Isocitrate dehydrogenase</a></li>
+<li><a href="/wiki/Oxoglutarate_dehydrogenase" title="Oxoglutarate dehydrogenase" class="mw-redirect">Oxoglutarate dehydrogenase</a></li>
+<li><a href="/wiki/Succinyl_coenzyme_A_synthetase" title="Succinyl coenzyme A synthetase">Succinyl CoA synthetase</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Succinate_dehydrogenase" title="Succinate dehydrogenase">Succinate dehydrogenase</a> (<a href="/wiki/SDHA" title="SDHA">SDHA</a>)</li>
+<li><a href="/wiki/Fumarase" title="Fumarase">Fumarase</a></li>
+<li><a href="/wiki/Malate_dehydrogenase" title="Malate dehydrogenase">Malate dehydrogenase</a> and ETC</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Anaplerotic_reactions" title="Anaplerotic reactions">Anaplerotic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">to <a href="/wiki/Acetyl-CoA" title="Acetyl-CoA">acetyl-CoA</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyruvate_dehydrogenase_complex" title="Pyruvate dehydrogenase complex">Pyruvate dehydrogenase complex</a> (<a href="/wiki/Pyruvate_dehydrogenase" title="Pyruvate dehydrogenase">E1</a>, <a href="/wiki/Dihydrolipoyl_transacetylase" title="Dihydrolipoyl transacetylase">E2</a>, <a href="/wiki/Dihydrolipoamide_dehydrogenase" title="Dihydrolipoamide dehydrogenase">E3</a>)</li>
+</ul>
+<ul>
+<li>(regulated by <a href="/wiki/Pyruvate_dehydrogenase_kinase" title="Pyruvate dehydrogenase kinase">Pyruvate dehydrogenase kinase</a> and <a href="/wiki/Pyruvate_dehydrogenase_phosphatase" title="Pyruvate dehydrogenase phosphatase">Pyruvate dehydrogenase phosphatase</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">to <a href="/wiki/Alpha-Ketoglutaric_acid" title="Alpha-Ketoglutaric acid">α-ketoglutaric acid</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glutamate_dehydrogenase" title="Glutamate dehydrogenase">Glutamate dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">to <a href="/wiki/Succinyl-CoA" title="Succinyl-CoA">succinyl-CoA</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Methylmalonyl-CoA_mutase" title="Methylmalonyl-CoA mutase">Methylmalonyl-CoA mutase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">to <a href="/wiki/Oxaloacetate" title="Oxaloacetate" class="mw-redirect">oxaloacetate</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyruvate_carboxylase" title="Pyruvate carboxylase">Pyruvate carboxylase</a></li>
+<li><a href="/wiki/Aspartate_transaminase" title="Aspartate transaminase">Aspartate transaminase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mitochondrial<br />
+<a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chain</a>/<br />
+<a href="/wiki/Oxidative_phosphorylation" title="Oxidative phosphorylation">oxidative phosphorylation</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Primary</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/NADH_dehydrogenase" title="NADH dehydrogenase">Complex I/NADH dehydrogenase</a></li>
+<li><a href="/wiki/Succinate_dehydrogenase" title="Succinate dehydrogenase">Complex II/Succinate dehydrogenase</a></li>
+<li><a href="/wiki/Coenzyme_Q10" title="Coenzyme Q10">Coenzyme Q</a></li>
+<li><a href="/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase" title="Coenzyme Q – cytochrome c reductase">Complex III/Coenzyme Q - cytochrome c reductase</a></li>
+<li><a href="/wiki/Cytochrome_c" title="Cytochrome c">Cytochrome c</a></li>
+<li><strong class="selflink">Complex IV/Cytochrome c oxidase</strong></li>
+</ul>
+<ul>
+<li><a href="/wiki/Coenzyme_Q10" title="Coenzyme Q10">Coenzyme Q10</a> synthesis: <a href="/wiki/COQ2" title="COQ2">COQ2</a></li>
+<li><a href="/wiki/Hexaprenyldihydroxybenzoate_methyltransferase" title="Hexaprenyldihydroxybenzoate methyltransferase">COQ3</a></li>
+<li><a href="/wiki/COQ4" title="COQ4">COQ4</a></li>
+<li><a href="/w/index.php?title=COQ5&amp;action=edit&amp;redlink=1" class="new" title="COQ5 (page does not exist)">COQ5</a></li>
+<li><a href="/wiki/COQ6" title="COQ6">COQ6</a></li>
+<li><a href="/wiki/COQ7" title="COQ7">COQ7</a></li>
+<li><a href="/wiki/COQ9" title="COQ9">COQ9</a></li>
+<li><a href="/w/index.php?title=COQ10A&amp;action=edit&amp;redlink=1" class="new" title="COQ10A (page does not exist)">COQ10A</a></li>
+<li><a href="/w/index.php?title=COQ10B&amp;action=edit&amp;redlink=1" class="new" title="COQ10B (page does not exist)">COQ10B</a></li>
+<li><a href="/wiki/PDSS1" title="PDSS1">PDSS1</a></li>
+<li><a href="/wiki/PDSS2" title="PDSS2">PDSS2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Other</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alternative_oxidase" title="Alternative oxidase">Alternative oxidase</a></li>
+<li><a href="/wiki/Electron-transferring-flavoprotein_dehydrogenase" title="Electron-transferring-flavoprotein dehydrogenase">Electron-transferring-flavoprotein dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metabolic_navs" title="Template:Metabolic navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metabolic_navs" title="Template talk:Metabolic navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metabolic_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Inborn_error_of_metabolism" title="Inborn error of metabolism">inborn errors of metabolism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Metabolism" title="Template:Metabolism">Metabolism</a></li>
+<li>Enzymes and pathways: <a href="/wiki/Template:Citric_acid_cycle" title="Template:Citric acid cycle">citric acid cycle</a>
+<ul>
+<li><a href="/wiki/Template:Citric_acid_cycle_enzymes_and_ETC" title="Template:Citric acid cycle enzymes and ETC">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_enzymes" title="Template:Pentose phosphate pathway enzymes">pentose phosphate</a>
+<ul>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_intermediates" title="Template:Pentose phosphate pathway intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycoproteins" title="Template:Glycoproteins">glycoproteins</a>
+<ul>
+<li><a href="/wiki/Template:Glycoprotein_metabolism_enzymes" title="Template:Glycoprotein metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycosaminoglycans" title="Template:Glycosaminoglycans">glycosaminoglycans</a>
+<ul>
+<li><a href="/wiki/Template:Proteoglycan_metabolism_enzymes" title="Template:Proteoglycan metabolism enzymes">proteoglycan enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Phospholipids" title="Template:Phospholipids">phospholipid</a>
+<ul>
+<li><a href="/wiki/Template:Phospholipid_metabolism" title="Template:Phospholipid metabolism">metabolism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_metabolism_enzymes" title="Template:Cholesterol and steroid metabolism enzymes">cholesterol and steroid</a>
+<ul>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_intermediates" title="Template:Cholesterol and steroid intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sphingolipids" title="Template:Sphingolipids">sphingolipids</a>
+<ul>
+<li><a href="/wiki/Template:Glycolipid/sphingolipid_metabolism_enzymes" title="Template:Glycolipid/sphingolipid metabolism enzymes" class="mw-redirect">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Eicosanoids" title="Template:Eicosanoids">eicosanoids</a>
+<ul>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_enzymes" title="Template:Eicosanoid metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Amino_acid_metabolism_enzymes" title="Template:Amino acid metabolism enzymes">amino acid</a>
+<ul>
+<li><a href="/wiki/Template:Amino_acid_metabolism_intermediates" title="Template:Amino acid metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Urea_cycle" title="Template:Urea cycle">urea cycle</a>
+<ul>
+<li><a href="/wiki/Template:Urea_cycle_enzymes" title="Template:Urea cycle enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nucleotide_metabolism_enzymes" title="Template:Nucleotide metabolism enzymes">nucleotide</a>
+<ul>
+<li><a href="/wiki/Template:Nucleotide_metabolism_intermediates" title="Template:Nucleotide metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disorders</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Disorders_of_TCA_and_ETC" title="Template:Disorders of TCA and ETC">Citric acid cycle and electron transport chain</a></li>
+<li><a href="/wiki/Template:Glycoprotein_disorders" title="Template:Glycoprotein disorders">Glycoprotein</a></li>
+<li><a href="/wiki/Template:Proteoglycan_disorders" title="Template:Proteoglycan disorders">Proteoglycan</a></li>
+<li><a href="/wiki/Template:Fatty-acid_metabolism_disorders" title="Template:Fatty-acid metabolism disorders">Fatty-acid</a></li>
+<li><a href="/wiki/Template:Phospholipid_metabolism_disorders" title="Template:Phospholipid metabolism disorders">Phospholipid</a></li>
+<li><a href="/wiki/Template:Defects_of_cholesterol_and_steroid_metabolism" title="Template:Defects of cholesterol and steroid metabolism">Cholesterol and steroid</a></li>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_disorders" title="Template:Eicosanoid metabolism disorders">Eicosanoid</a></li>
+<li><a href="/wiki/Template:Amino_acid_metabolic_pathology" title="Template:Amino acid metabolic pathology">Amino acid</a></li>
+<li><a href="/wiki/Template:Inborn_errors_of_purine-pyrimidine_metabolism" title="Template:Inborn errors of purine-pyrimidine metabolism">Purine-pyrimidine</a></li>
+<li><a href="/wiki/Template:Heme_metabolism_disorders" title="Template:Heme metabolism disorders">Heme metabolism</a></li>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_endocrinology,_nutrition,_and_metabolism" title="Template:Eponymous medical signs for endocrinology, nutrition, and metabolism">Symptoms and signs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Other_alimentary_tract_and_metabolism_products" title="Template:Other alimentary tract and metabolism products">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#e7dcc3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters"><span title="View this template" style=";background:#e7dcc3;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Oxidoreduction-driven_transporters" title="Template talk:Oxidoreduction-driven transporters"><span title="Discuss this template" style=";background:#e7dcc3;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oxidoreduction-driven_transporters&amp;action=edit"><span title="Edit this template" style=";background:#e7dcc3;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Ion_transporter" title="Ion transporter">Ion pump</a>: <a href="/wiki/Proton_pump" title="Proton pump">proton pumps</a>: Oxidoreduction-driven transporters (<a href="/wiki/Transporter_Classification_database#3.D._Oxidoreduction-driven_transporters" title="Transporter Classification database" class="mw-redirect">TC 3D</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: AntiqueWhite">ETC</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/NADH_dehydrogenase" title="NADH dehydrogenase">ETC Complex I</a></li>
+<li><a href="/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase" title="Coenzyme Q – cytochrome c reductase">ETC Complex III</a></li>
+<li><strong class="selflink">ETC Complex IV</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background-color: AntiqueWhite">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cytochrome_b6f_complex" title="Cytochrome b6f complex">Cytochrome b6f complex</a></li>
+<li><a href="/wiki/Inorganic_pyrophosphatase" title="Inorganic pyrophosphatase">Inorganic pyrophosphatase</a></li>
+<li><a href="/wiki/V-ATPase" title="V-ATPase">V-ATPase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background-color: AntiqueWhite">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mitochondrial_proteins" title="Template talk:Mitochondrial proteins"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mitochondrial_proteins&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Mitochondrion" title="Mitochondrion">Mitochondrial</a> proteins</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Outer_mitochondrial_membrane" title="Outer mitochondrial membrane" class="mw-redirect">Outer membrane</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Fatty_acid_degradation" title="Fatty acid degradation">fatty acid degradation</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carnitine_palmitoyltransferase_I" title="Carnitine palmitoyltransferase I">Carnitine palmitoyltransferase I</a></li>
+<li><a href="/wiki/Long-chain-fatty-acid%E2%80%94CoA_ligase" title="Long-chain-fatty-acid—CoA ligase">Long-chain-fatty-acid—CoA ligase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Tryptophan" title="Tryptophan">tryptophan</a> metabolism</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kynureninase" title="Kynureninase">Kynureninase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Monoamine_neurotransmitter" title="Monoamine neurotransmitter">monoamine neurotransmitter</a><br />
+metabolism</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Monoamine_oxidase" title="Monoamine oxidase">Monoamine oxidase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mitochondrial_intermembrane_space" title="Mitochondrial intermembrane space">Intermembrane space</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adenylate_kinase" title="Adenylate kinase">Adenylate kinase</a></li>
+<li><a href="/wiki/Creatine_kinase" title="Creatine kinase">Creatine kinase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Inner_mitochondrial_membrane" title="Inner mitochondrial membrane">Inner membrane</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Oxidative_phosphorylation" title="Oxidative phosphorylation">oxidative phosphorylation</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase" title="Coenzyme Q – cytochrome c reductase">Coenzyme Q – cytochrome c reductase</a></li>
+<li><a href="/wiki/Cytochrome_c" title="Cytochrome c">Cytochrome c</a></li>
+<li><a href="/wiki/NADH_dehydrogenase" title="NADH dehydrogenase">NADH dehydrogenase</a></li>
+<li><a href="/wiki/Succinate_dehydrogenase" title="Succinate dehydrogenase">Succinate dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Pyrimidine_metabolism" title="Pyrimidine metabolism">pyrimidine metabolism</a></i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dihydroorotate_dehydrogenase" title="Dihydroorotate dehydrogenase">Dihydroorotate dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Mitochondrial_shuttle" title="Mitochondrial shuttle">mitochondrial shuttle</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Malate-aspartate_shuttle" title="Malate-aspartate shuttle">Malate-aspartate shuttle</a></li>
+<li><a href="/wiki/Glycerol_phosphate_shuttle" title="Glycerol phosphate shuttle">Glycerol phosphate shuttle</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i>other</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glutamate_aspartate_transporter" title="Glutamate aspartate transporter">Glutamate aspartate transporter</a></li>
+<li><a href="/wiki/Glycerol-3-phosphate_dehydrogenase" title="Glycerol-3-phosphate dehydrogenase">Glycerol-3-phosphate dehydrogenase</a></li>
+<li><a href="/wiki/ATP_synthase" title="ATP synthase">ATP synthase</a></li>
+<li><a href="/wiki/Carnitine_palmitoyltransferase_II" title="Carnitine palmitoyltransferase II">Carnitine palmitoyltransferase II</a></li>
+<li><a href="/wiki/Uncoupling_protein" title="Uncoupling protein">Uncoupling protein</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mitochondrial_matrix" title="Mitochondrial matrix">Matrix</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Citric_acid_cycle" title="Citric acid cycle">citric acid cycle</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Citrate_synthase" title="Citrate synthase">Citrate synthase</a></li>
+<li><a href="/wiki/Aconitase" title="Aconitase">Aconitase</a></li>
+<li><a href="/wiki/Isocitrate_dehydrogenase" title="Isocitrate dehydrogenase">Isocitrate dehydrogenase</a></li>
+<li><a href="/wiki/Oxoglutarate_dehydrogenase_complex" title="Oxoglutarate dehydrogenase complex">Oxoglutarate dehydrogenase complex</a></li>
+<li><a href="/wiki/Succinyl_coenzyme_A_synthetase" title="Succinyl coenzyme A synthetase">Succinyl coenzyme A synthetase</a></li>
+<li><a href="/wiki/Fumarase" title="Fumarase">Fumarase</a></li>
+<li><a href="/wiki/Malate_dehydrogenase" title="Malate dehydrogenase">Malate dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Anaplerotic_reactions" title="Anaplerotic reactions">anaplerotic reactions</a></i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aspartate_transaminase" title="Aspartate transaminase">Aspartate transaminase</a></li>
+<li><a href="/wiki/Glutamate_dehydrogenase" title="Glutamate dehydrogenase">Glutamate dehydrogenase</a></li>
+<li><a href="/wiki/Pyruvate_dehydrogenase_complex" title="Pyruvate dehydrogenase complex">Pyruvate dehydrogenase complex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Urea_cycle" title="Urea cycle">urea cycle</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbamoyl_phosphate_synthetase_I" title="Carbamoyl phosphate synthetase I">Carbamoyl phosphate synthetase I</a></li>
+<li><a href="/wiki/Ornithine_transcarbamylase" title="Ornithine transcarbamylase">Ornithine transcarbamylase</a></li>
+<li><a href="/wiki/N-Acetylglutamate_synthase" title="N-Acetylglutamate synthase">N-Acetylglutamate synthase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i>alcohol metabolism</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ALDH2" title="ALDH2">ALDH2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PMPCB" title="PMPCB">PMPCB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other/to be sorted</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Steroidogenesis" title="Steroidogenesis" class="mw-redirect">steroidogenesis</a></i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cholesterol_side-chain_cleavage_enzyme" title="Cholesterol side-chain cleavage enzyme">Cholesterol side-chain cleavage enzyme</a></li>
+<li><a href="/wiki/Steroid_11-beta-hydroxylase" title="Steroid 11-beta-hydroxylase">Steroid 11-beta-hydroxylase</a></li>
+<li><a href="/wiki/Aldosterone_synthase" title="Aldosterone synthase">Aldosterone synthase</a></li>
+<li><a href="/wiki/Frataxin" title="Frataxin">Frataxin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mitochondrial_membrane_transport_protein" title="Mitochondrial membrane transport protein">Mitochondrial membrane transport protein</a>
+<ul>
+<li><a href="/wiki/Mitochondrial_permeability_transition_pore" title="Mitochondrial permeability transition pore">Mitochondrial permeability transition pore</a></li>
+<li><a href="/wiki/Mitochondrial_carrier" title="Mitochondrial carrier">Mitochondrial carrier</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">Mitochondrial DNA</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><a href="/wiki/NADH_dehydrogenase" title="NADH dehydrogenase">Complex I</a></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MT-ND1" title="MT-ND1">MT-ND1</a></li>
+<li><a href="/wiki/MT-ND2" title="MT-ND2">MT-ND2</a></li>
+<li><a href="/wiki/MT-ND3" title="MT-ND3">MT-ND3</a></li>
+<li><a href="/wiki/MT-ND4" title="MT-ND4">MT-ND4</a></li>
+<li><a href="/wiki/MT-ND4L" title="MT-ND4L">MT-ND4L</a></li>
+<li><a href="/wiki/MT-ND5" title="MT-ND5">MT-ND5</a></li>
+<li><a href="/wiki/MT-ND6" title="MT-ND6">MT-ND6</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><a href="/wiki/Coenzyme_Q_%E2%80%93_cytochrome_c_reductase" title="Coenzyme Q – cytochrome c reductase">Complex III</a></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MT-CYB" title="MT-CYB">MT-CYB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><strong class="selflink">Complex IV</strong></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cytochrome_c_oxidase_subunit_I" title="Cytochrome c oxidase subunit I">MT-CO1</a></li>
+<li><a href="/wiki/Cytochrome_c_oxidase_subunit_II" title="Cytochrome c oxidase subunit II">MT-CO2</a></li>
+<li><a href="/wiki/Cytochrome_c_oxidase_subunit_III" title="Cytochrome c oxidase subunit III">MT-CO3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><a href="/wiki/ATP_synthase" title="ATP synthase">ATP synthase</a></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MT-ATP6" title="MT-ATP6">MT-ATP6</a></li>
+<li><a href="/wiki/MT-ATP8" title="MT-ATP8">MT-ATP8</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><a href="/wiki/Transfer_RNA" title="Transfer RNA">tRNA</a></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MT-TA" title="MT-TA">MT-TA</a></li>
+<li><a href="/wiki/MT-TC" title="MT-TC">MT-TC</a></li>
+<li><a href="/wiki/MT-TD" title="MT-TD">MT-TD</a></li>
+<li><a href="/wiki/MT-TE" title="MT-TE">MT-TE</a></li>
+<li><a href="/wiki/MT-TF" title="MT-TF">MT-TF</a></li>
+<li><a href="/wiki/MT-TG" title="MT-TG">MT-TG</a></li>
+<li><a href="/wiki/MT-TH" title="MT-TH">MT-TH</a></li>
+<li><a href="/wiki/MT-TI" title="MT-TI">MT-TI</a></li>
+<li><a href="/wiki/MT-TK" title="MT-TK">MT-TK</a></li>
+<li><a href="/wiki/MT-TL1" title="MT-TL1">MT-TL1</a></li>
+<li><a href="/wiki/MT-TL2" title="MT-TL2">MT-TL2</a></li>
+<li><a href="/wiki/MT-TM" title="MT-TM">MT-TM</a></li>
+<li><a href="/wiki/MT-TN" title="MT-TN">MT-TN</a></li>
+<li><a href="/wiki/MT-TP" title="MT-TP">MT-TP</a></li>
+<li><a href="/wiki/MT-TQ" title="MT-TQ">MT-TQ</a></li>
+<li><a href="/wiki/MT-TR" title="MT-TR">MT-TR</a></li>
+<li><a href="/wiki/MT-TS1" title="MT-TS1">MT-TS1</a></li>
+<li><a href="/wiki/MT-TS2" title="MT-TS2">MT-TS2</a></li>
+<li><a href="/wiki/MT-TT" title="MT-TT">MT-TT</a></li>
+<li><a href="/wiki/MT-TV_(mitochondrial)" title="MT-TV (mitochondrial)">MT-TV</a></li>
+<li><a href="/wiki/MT-TW" title="MT-TW">MT-TW</a></li>
+<li><a href="/wiki/MT-TY" title="MT-TY">MT-TY</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="padding:0;">
+<div><i>see also <a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondrial diseases</a></i><br /></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00575502">00575502</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1164
+CPU time usage: 0.616 seconds
+Real time usage: 0.714 seconds
+Preprocessor visited node count: 4410/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 253208/2097152 bytes
+Template argument size: 3432/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.269/10.000 seconds
+Lua memory usage: 3.11 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  570.612      1 - -total
+ 39.08%  222.995      1 - Template:Reflist
+ 31.46%  179.535     13 - Template:Navbox
+ 23.79%  135.775     22 - Template:Vcite2_journal
+ 16.64%   94.947      2 - Template:Infobox
+ 15.13%   86.344      1 - Template:Enzyme
+ 12.10%   69.027      1 - Template:Electron_transport_chain
+  8.40%   47.908      1 - Template:Mitochondrial_DNA
+  6.74%   38.473      3 - Template:Cite_book
+  5.99%   34.202      1 - Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:96842-0!*!0!!en!4!* and timestamp 20150628091347 and revision id 664995208
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cytochrome_c_oxidase&amp;oldid=664995208">https://en.wikipedia.org/w/index.php?title=Cytochrome_c_oxidase&amp;oldid=664995208</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cellular_respiration" title="Category:Cellular respiration">Cellular respiration</a></li><li><a href="/wiki/Category:EC_1.9.3" title="Category:EC 1.9.3">EC 1.9.3</a></li><li><a href="/wiki/Category:Hemoproteins" title="Category:Hemoproteins">Hemoproteins</a></li><li><a href="/wiki/Category:Integral_membrane_proteins" title="Category:Integral membrane proteins">Integral membrane proteins</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cytochrome+c+oxidase&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cytochrome+c+oxidase" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Cytochrome_c_oxidase"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Cytochrome_c_oxidase"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Cytochrome_c_oxidase" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cytochrome_c_oxidase" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cytochrome_c_oxidase" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;oldid=664995208" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q306116" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cytochrome_c_oxidase&amp;id=664995208" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cytochrome+c+oxidase">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Cytochrome+c+oxidase&amp;oldid=664995208&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cytochrome_c_oxidase&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B3%D9%8A%D8%AA%D9%88%D9%83%D8%B1%D9%88%D9%85_%D8%B3%D9%8A_%D8%A3%D9%83%D8%B3%D9%8A%D8%AF%D8%A7%D8%B2" title="سيتوكروم سي أكسيداز – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Citocrom_c_oxidasa" title="Citocrom c oxidasa – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Cytochrom_c_oxid%C3%A1za" title="Cytochrom c oxidáza – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Cytochrom-c-Oxidase" title="Cytochrom-c-Oxidase – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Citocromo_c_oxidasa" title="Citocromo c oxidasa – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AA%D9%88%DA%A9%D8%B1%D9%88%D9%85_%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF%D8%A7%D8%B2_%D8%B3%DB%8C" title="سیتوکروم اکسیداز سی – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Cytochrome_c_oxydase" title="Cytochrome c oxydase – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Citocromo_c_oxidase" title="Citocromo c oxidase – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Sitokrom_c_oksidase" title="Sitokrom c oksidase – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Citocromo-c_ossidasi" title="Citocromo-c ossidasi – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Cytochroom-c-oxidase" title="Cytochroom-c-oxidase – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B7%E3%83%88%E3%82%AF%E3%83%AD%E3%83%A0c%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%80%E3%83%BC%E3%82%BC" title="シトクロムcオキシダーゼ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Oksydaza_cytochromu_c" title="Oksydaza cytochromu c – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Citocromo_c_oxidase" title="Citocromo c oxidase – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%82%D0%BE%D1%85%D1%80%D0%BE%D0%BC_%D1%81-%D0%BE%D0%BA%D1%81%D0%B8%D0%B4%D0%B0%D0%B7%D0%B0" title="Цитохром с-оксидаза – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Citohrom_c_oksidaza" title="Citohrom c oksidaza – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Citohrom_c_oksidaza" title="Citohrom c oksidaza – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Cytokrom_c-oxidas" title="Cytokrom c-oxidas – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Sitokrom_c_oksidaz" title="Sitokrom c oksidaz – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BB%86%E8%83%9E%E8%89%B2%E7%B4%A0c%E6%B0%A7%E5%8C%96%E9%85%B6" title="细胞色素c氧化酶 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q306116#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 June 2015, at 09:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cytochrome_c_oxidase&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1240"});
+}</script>
+	</body>
+</html>

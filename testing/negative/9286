@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Gauge theory gravity - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gauge_theory_gravity" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Gauge_theory_gravity" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Gauge_theory_gravity" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gauge_theory_gravity","wgTitle":"Gauge theory gravity","wgCurRevisionId":639808633,"wgRevisionId":639808633,"wgArticleId":36904670,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Gauge theories","Geometric algebra","Theories of gravitation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gauge_theory_gravity","wgRelevantArticleId":36904670,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5527636"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Gauge_theory_gravity skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Gauge theory gravity</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Gauge theory gravity (GTG)</b> is a theory of <a href="/wiki/Gravitation" title="Gravitation" class="mw-redirect">gravitation</a> cast in the mathematical language of <a href="/wiki/Geometric_algebra" title="Geometric algebra">geometric algebra</a>. To those familiar with <a href="/wiki/General_relativity" title="General relativity">general relativity</a>, it is highly reminiscent of the <a href="/wiki/Tetrad_formalism" title="Tetrad formalism">tetrad formalism</a> although there are significant conceptual differences. Most notably, the background in GTG is flat, <a href="/wiki/Minkowski_spacetime" title="Minkowski spacetime" class="mw-redirect">Minkowski spacetime</a>. The <a href="/wiki/Equivalence_principle" title="Equivalence principle">equivalence principle</a> is not assumed, but instead follows from the fact that the <a href="/wiki/Gauge_covariant_derivative" title="Gauge covariant derivative">gauge covariant derivative</a> is <a href="/wiki/Minimal_coupling" title="Minimal coupling">minimally coupled</a>. As in general relativity, equations structurally identical to the <a href="/wiki/Einstein_field_equations" title="Einstein field equations">Einstein field equations</a> are derivable from a <a href="/wiki/Variational_principle" title="Variational principle">variational principle</a>. A <a href="/wiki/Spin_tensor" title="Spin tensor">spin tensor</a> can also be supported in a manner similar to <a href="/wiki/Einstein%E2%80%93Cartan%E2%80%93Sciama%E2%80%93Kibble_theory" title="Einstein–Cartan–Sciama–Kibble theory" class="mw-redirect">Einstein–Cartan–Sciama–Kibble theory</a>. GTG was first proposed by Lasenby, <a href="/wiki/Chris_J._L._Doran" title="Chris J. L. Doran">Doran</a>, and Gull in 1998<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> as a fulfillment of partial results presented in 1993.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The theory has not been widely adopted by the rest of the physics community, who have mostly opted for <a href="/wiki/Differential_geometry" title="Differential geometry">differential geometry</a> approaches like that of the related <a href="/wiki/Gauge_gravitation_theory" title="Gauge gravitation theory">gauge gravitation theory</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mathematical_foundation"><span class="tocnumber">1</span> <span class="toctext">Mathematical foundation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Field_equations"><span class="tocnumber">2</span> <span class="toctext">Field equations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Relation_to_general_relativity"><span class="tocnumber">3</span> <span class="toctext">Relation to general relativity</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mathematical_foundation">Mathematical foundation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit&amp;section=1" title="Edit section: Mathematical foundation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The foundation of GTG comes from two principles. First, <i>position-gauge invariance</i> demands that arbitrary local displacements of fields not affect the physical content of the field equations. Second, <i>rotation-gauge invariance</i> demands that arbitrary local rotations of fields not affect the physical content of the field equations. These principles lead to the introduction of a new pair of linear functions, the position-gauge field and the rotation-gauge field. A displacement by some arbitrary function <i>f</i></p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="x \mapsto x'=f(x)" src="//upload.wikimedia.org/math/a/5/b/a5b4746b83c288b44aa16676a7cd01e3.png" /></dd>
+</dl>
+<p>gives rise to the position-gauge field defined by the mapping on its adjoint,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\bar{\mathsf{h}}(a,x) \mapsto \bar{\mathsf{h}}'(a,x)=\bar{\mathsf{h}}(f^{-1}(a),f(x))," src="//upload.wikimedia.org/math/7/9/2/79293dfb51558a4515d9c3877eb94dd0.png" /></dd>
+</dl>
+<p>which is linear in its first argument and <i>a</i> is a constant vector. Similarly, a rotation by some arbitrary rotor <i>R</i> gives rise to the rotation-gauge field</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\bar{\mathsf{\Omega}}(a,x) \mapsto \bar{\mathsf{\Omega}}'(a,x)=R\bar{\mathsf{\Omega}}(a,x)R^{\dagger}-2a\cdot\nabla RR^{\dagger}." src="//upload.wikimedia.org/math/c/8/1/c81e5b828fb0e1f3a8575eb3c3222b0e.png" /></dd>
+</dl>
+<p>We can define two different covariant directional derivatives</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="a \cdot D = a \cdot \bar{\mathsf{h}}(\nabla)+\frac{1}{2}\mathsf{\Omega}(\mathsf{h}(a))" src="//upload.wikimedia.org/math/8/9/0/8905dd1f6e3bd948f30c6113b5870ad2.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="a \cdot \mathcal{D} = a \cdot \bar{\mathsf{h}}(\nabla)+\mathsf{\Omega}(\mathsf{h}(a))" src="//upload.wikimedia.org/math/d/3/1/d3153ff850183351dd3967881002e8c0.png" /></dd>
+</dl>
+<p>or with the specification of a coordinate system</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="D_{\mu} = \partial_{\mu}+\frac{1}{2}\Omega_{\mu}" src="//upload.wikimedia.org/math/b/7/3/b73a849f9a798004dd5c1e625a705781.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathcal{D}_{\mu} = \partial_{\mu}+\Omega_{\mu} \times ," src="//upload.wikimedia.org/math/b/f/b/bfb5ce2f1eeabaa1b671f83f166dddb8.png" /></dd>
+</dl>
+<p>where × denotes the commutator product.</p>
+<p>The first of these derivatives is better suited for dealing directly with <a href="/wiki/Spinor" title="Spinor">spinors</a> whereas the second is better suited for <a href="/wiki/Observable" title="Observable">observables</a>. The GTG analog of the <a href="/wiki/Riemann_tensor" title="Riemann tensor" class="mw-redirect">Riemann tensor</a> is built from the commutation rules of these derivatives.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="[D_{\mu},D_{\nu}]\psi=\frac{1}{2}\mathsf{R}_{\mu\nu}\psi" src="//upload.wikimedia.org/math/6/8/9/689fe47c5d1375d48b188fce608fdd44.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathcal{R}(a \wedge b)=\mathsf{R}(\mathsf{h}(a \wedge b))" src="//upload.wikimedia.org/math/1/9/d/19d78b940317ffbad9ed5036259318d5.png" /></dd>
+</dl>
+<h2><span class="mw-headline" id="Field_equations">Field equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit&amp;section=2" title="Edit section: Field equations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The field equations are derived by postulating the <a href="/wiki/Einstein%E2%80%93Hilbert_action" title="Einstein–Hilbert action">Einstein–Hilbert action</a> governs the evolution of the gauge fields, i.e.</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="S = \int  \left[ {1 \over 2\kappa} \left( \mathcal{R} - 2 \Lambda \right) + \mathcal{L}_\mathrm{M} \right] (\det\mathsf{h})^{-1} \, \mathrm{d}^4 x." src="//upload.wikimedia.org/math/d/9/2/d92e8e92289e4382cba6246892d96a03.png" /></dd>
+</dl>
+<p>Minimizing variation of the action with respect to the two gauge fields results in the field equations</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathcal{G}(a)-\Lambda a=\kappa \mathcal{T}(a)" src="//upload.wikimedia.org/math/9/b/a/9ba10000d6ec1a85c42713dea5371941.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\mathcal{D} \wedge \bar{\mathsf{h}}(a) = \kappa \mathcal{S} \cdot \bar{\mathsf{h}}(a)," src="//upload.wikimedia.org/math/d/1/0/d10bd741cc6b0e541beeb1f0278fc1df.png" /></dd>
+</dl>
+<p>where <img class="mwe-math-fallback-image-inline tex" alt="\mathcal{T}" src="//upload.wikimedia.org/math/9/d/3/9d3b226b86733462a55081e60ab20541.png" /> is the covariant <a href="/wiki/Energy%E2%80%93momentum_tensor" title="Energy–momentum tensor" class="mw-redirect">energy–momentum tensor</a> and <img class="mwe-math-fallback-image-inline tex" alt="\mathcal{S}" src="//upload.wikimedia.org/math/3/7/9/3791545a70a6e462451c97ad925d43a4.png" /> is the covariant <a href="/wiki/Spin_tensor" title="Spin tensor">spin tensor</a>. Importantly, these equations do not give an evolving curvature of spacetime but rather merely give the evolution of the gauge fields within the flat spacetime. Moreover, the existence of the spin tensor does <i>not</i> endow spacetime with <a href="/wiki/Torsion_tensor" title="Torsion tensor">torsion</a>.</p>
+<h2><span class="mw-headline" id="Relation_to_general_relativity">Relation to general relativity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit&amp;section=3" title="Edit section: Relation to general relativity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For those more familiar with general relativity, it is possible to define a <a href="/wiki/Metric_tensor_(general_relativity)" title="Metric tensor (general relativity)">metric tensor</a> from the position-gauge field in a manner similar to tetrads. In the tetrad formalism, a set of four vectors <img class="mwe-math-fallback-image-inline tex" alt="\{{e_{(a)}}^{\mu}\}" src="//upload.wikimedia.org/math/4/1/b/41b0b4a5c1715ca131e9db5d3e1cf30c.png" /> are introduced. The Greek index <i>μ</i> is <a href="/wiki/Raising_and_lowering_indices" title="Raising and lowering indices">raised or lowered</a> by multiplying and contracting with the spacetime's metric tensor. The parenthetical Latin index <i>(a)</i> is a label for each of the four tetrads, which is raised and lowered as if it were multiplied and contracted with a separate Minkowski metric tensor. GTG, roughly, reverses the roles of these indices. The metric is implicitly assumed to be Minkowski in the selection of the <a href="/wiki/Spacetime_algebra" title="Spacetime algebra">spacetime algebra</a>. The information contained in the other set of indices gets subsumed by the behavior of the gauge fields.</p>
+<p>We can make the associations</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="g_{\mu}=\mathsf{h}^{-1}(e_{\mu})" src="//upload.wikimedia.org/math/a/c/c/acc14301dcec7e9586e405dda8d2c4c7.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="g^{\mu}=\bar{\mathsf{h}}(e^{\mu})" src="//upload.wikimedia.org/math/7/7/0/7700196e066a047ce22324977296bd0c.png" /></dd>
+</dl>
+<p>for a covariant vector and contravariant vector in a curved spacetime, where now the unit vectors <img class="mwe-math-fallback-image-inline tex" alt="\{e_{\mu}\}" src="//upload.wikimedia.org/math/8/4/b/84bc15ae9152c91e9a1ab170dd3cc6b4.png" /> are the chosen coordinate basis. These can define the metric using the rule</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="g_{\mu \nu}=g_{\mu} \cdot g_{\nu}." src="//upload.wikimedia.org/math/3/9/4/3942876d92a0eeb6b6d44e833be047fa.png" /></dd>
+</dl>
+<p>Following this procedure, it is possible to show that for the most part the observable predictions of GTG agree with Einstein–Cartan–Sciama–Kibble theory for non-vanishing spin and reduce to general relativity for vanishing spin. GTG does, however, make different predictions about global solutions. For example, in the study of a point mass, the choice of a "Newtonian gauge" yields a solution similar to the <a href="/wiki/Schwarzschild_metric" title="Schwarzschild metric">Schwarzschild metric</a> in <a href="/wiki/Gullstrand%E2%80%93Painlev%C3%A9_coordinates" title="Gullstrand–Painlevé coordinates">Gullstrand–Painlevé coordinates</a>. General relativity permits an extension known as the <a href="/wiki/Kruskal%E2%80%93Szekeres_coordinates" title="Kruskal–Szekeres coordinates">Kruskal–Szekeres coordinates</a>. GTG, on the other hand, forbids any such extension.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span id="CITEREFLasenbyChris_DoranStephen_Gull1998" class="citation">Lasenby, Anthony; Chris Doran; Stephen Gull (1998), "Gravity, gauge theories and geometric algebra", <i><a href="/wiki/Philosophical_Transactions_of_the_Royal_Society_A" title="Philosophical Transactions of the Royal Society A">Philosophical Transactions of the Royal Society A</a></i> <b>356</b>: 487–582, <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/gr-qc/0405033">gr-qc/0405033</a>, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998RSPTA.356..487L">1998RSPTA.356..487L</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1098%2Frsta.1998.0178">10.1098/rsta.1998.0178</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGauge+theory+gravity&amp;rft.atitle=Gravity%2C+gauge+theories+and+geometric+algebra&amp;rft.au=Chris+Doran&amp;rft.aufirst=Anthony&amp;rft.au=Lasenby%2C+Anthony&amp;rft.aulast=Lasenby&amp;rft.au=Stephen+Gull&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fgr-qc%2F0405033&amp;rft_id=info%3Abibcode%2F1998RSPTA.356..487L&amp;rft_id=info%3Adoi%2F10.1098%2Frsta.1998.0178&amp;rft.jtitle=Philosophical+Transactions+of+the+Royal+Society+A&amp;rft.pages=487-582&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=356" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span id="CITEREFDoranAnthony_LasenbyStephen_Gull1993" class="citation">Doran, Chris; Anthony Lasenby; Stephen Gull (1993), F. Brackx, R. Delanghe, H. Serras, ed., "Gravity as a gauge theory in the spacetime algebra", <i>Third International Conference on Clifford Algebras and their Applications in Mathematical Physics</i></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGauge+theory+gravity&amp;rft.atitle=Gravity+as+a+gauge+theory+in+the+spacetime+algebra&amp;rft.au=Anthony+Lasenby&amp;rft.au=Doran%2C+Chris&amp;rft.aufirst=Chris&amp;rft.aulast=Doran&amp;rft.au=Stephen+Gull&amp;rft.date=1993&amp;rft.genre=article&amp;rft.jtitle=Third+International+Conference+on+Clifford+Algebras+and+their+Applications+in+Mathematical+Physics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>David Hestenes: <a rel="nofollow" class="external text" href="http://geocalc.clas.asu.edu/pdf/NEW_GRAVITY.pdf">Spacetime calculus for gravitation theory</a> – an account of the mathematical formalism explicitly directed to GTG</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Theories_of_gravitation" title="Template:Theories of gravitation"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Theories_of_gravitation" title="Template talk:Theories of gravitation"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Theories_of_gravitation&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Gravitation" title="Gravitation" class="mw-redirect">Theories of gravitation</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Standard</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Newtonian gravity (NG)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Newton%27s_law_of_universal_gravitation" title="Newton's law of universal gravitation">Newton's law of universal gravitation</a></li>
+<li><a href="/wiki/History_of_gravitational_theory" title="History of gravitational theory">History of gravitational theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;"><a href="/wiki/General_relativity" title="General relativity">General relativity (GR)</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Introduction_to_general_relativity" title="Introduction to general relativity">Introduction</a></li>
+<li><a href="/wiki/History_of_general_relativity" title="History of general relativity">History</a></li>
+<li><a href="/wiki/Mathematics_of_general_relativity" title="Mathematics of general relativity">Mathematics</a></li>
+<li><a href="/wiki/General_relativity_resources" title="General relativity resources" class="mw-redirect">Resources</a></li>
+<li><a href="/wiki/Tests_of_general_relativity" title="Tests of general relativity">Tests</a></li>
+<li><a href="/wiki/Parameterized_post-Newtonian_formalism" title="Parameterized post-Newtonian formalism">Post-Newtonian formalism</a></li>
+<li><a href="/wiki/Linearized_gravity" title="Linearized gravity">Linearized gravity</a></li>
+<li><a href="/wiki/ADM_formalism" title="ADM formalism">ADM formalism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="line-height:1.2em;"><a href="/wiki/Alternatives_to_general_relativity" title="Alternatives to general relativity">Alternatives to<br />
+general relativity</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Paradigms</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Classical_theories_of_gravitation" title="Classical theories of gravitation" class="mw-redirect">Classical theories of gravitation</a></li>
+<li><a href="/wiki/Quantum_gravity" title="Quantum gravity">Quantum gravity</a></li>
+<li><a href="/wiki/Theory_of_everything" title="Theory of everything">Theory of everything</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Classical</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div>
+<ul>
+<li><a href="/wiki/Einstein%E2%80%93Cartan_theory" title="Einstein–Cartan theory">Einstein–Cartan</a></li>
+<li><a href="/wiki/Bimetric_theory" title="Bimetric theory" class="mw-redirect">Bimetric theories</a></li>
+<li><strong class="selflink">Gauge theory gravity</strong></li>
+<li><a href="/wiki/Teleparallelism" title="Teleparallelism">Teleparallelism</a></li>
+<li><a href="/wiki/Composite_gravity" title="Composite gravity">Composite gravity</a></li>
+<li><a href="/wiki/F(R)_gravity" title="F(R) gravity">f(R) gravity</a></li>
+<li><a href="/wiki/Massive_gravity" title="Massive gravity">Massive gravity</a></li>
+<li><a href="/wiki/Modified_Newtonian_dynamics" title="Modified Newtonian dynamics">Modified Newtonian dynamics (MOND)</a></li>
+<li><a href="/wiki/Nonsymmetric_gravitational_theory" title="Nonsymmetric gravitational theory">Nonsymmetric gravitation</a></li>
+<li><a href="/wiki/Scalar-tensor_theory" title="Scalar-tensor theory" class="mw-redirect">Scalar–tensor theories</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Brans%E2%80%93Dicke_theory" title="Brans–Dicke theory">Brans–Dicke</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Scalar%E2%80%93tensor%E2%80%93vector_gravity" title="Scalar–tensor–vector gravity">Scalar–tensor–vector</a></li>
+<li><a href="/wiki/Conformal_gravity" title="Conformal gravity">Conformal gravity</a></li>
+<li><a href="/wiki/Scalar_theories_of_gravitation" title="Scalar theories of gravitation">Scalar theories</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Nordstr%C3%B6m%27s_theory_of_gravitation" title="Nordström's theory of gravitation">Nordström</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Whitehead%27s_theory_of_gravitation" title="Whitehead's theory of gravitation">Whitehead</a></li>
+<li><a href="/wiki/Geometrodynamics" title="Geometrodynamics">Geometrodynamics</a></li>
+<li><a href="/wiki/Induced_gravity" title="Induced gravity">Induced gravity</a></li>
+<li><a href="/wiki/Tensor%E2%80%93vector%E2%80%93scalar_gravity" title="Tensor–vector–scalar gravity">Tensor–vector–scalar</a></li>
+<li><a href="/wiki/Chameleon_particle" title="Chameleon particle">Chameleon</a></li>
+<li><a href="/wiki/Pressuron" title="Pressuron">Pressuron</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Quantisation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<div>
+<ul>
+<li><a href="/wiki/Euclidean_quantum_gravity" title="Euclidean quantum gravity">Euclidean quantum gravity</a></li>
+<li><a href="/wiki/Canonical_quantum_gravity" title="Canonical quantum gravity">Canonical quantum gravity</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Wheeler%E2%80%93DeWitt_equation" title="Wheeler–DeWitt equation">Wheeler–DeWitt equation</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Loop_quantum_gravity" title="Loop quantum gravity">Loop quantum gravity</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Spin_foam" title="Spin foam">Spin foam</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Causal_dynamical_triangulation" title="Causal dynamical triangulation">Causal dynamical triangulation</a></li>
+<li><a href="/wiki/Causal_sets" title="Causal sets">Causal sets</a></li>
+<li><a href="/wiki/DGP_model" title="DGP model">DGP model</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Unification</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kaluza%E2%80%93Klein_theory" title="Kaluza–Klein theory">Kaluza–Klein theory</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Dilaton" title="Dilaton">Dilaton</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Supergravity" title="Supergravity">Supergravity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Unification and<br />
+quantisation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Noncommutative_quantum_field_theory" title="Noncommutative quantum field theory">Noncommutative geometry</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Self-creation_cosmology" title="Self-creation cosmology">Self-creation cosmology</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Semiclassical_gravity" title="Semiclassical gravity">Semiclassical gravity</a></li>
+<li><a href="/wiki/Superfluid_vacuum_theory" title="Superfluid vacuum theory">Superfluid vacuum theory</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Logarithmic_BEC_vacuum" title="Logarithmic BEC vacuum" class="mw-redirect">Logarithmic BEC vacuum</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/String_theory" title="String theory">String theory</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/M-theory" title="M-theory">M-theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/F-theory" title="F-theory">F-theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Heterotic_string_theory" title="Heterotic string theory">Heterotic string theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Type_I_string_theory" title="Type I string theory">Type I string theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Type_0_string_theory" title="Type 0 string theory">Type 0 string theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Bosonic_string_theory" title="Bosonic string theory">Bosonic string theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Type_II_string_theory" title="Type II string theory">Type II string theory</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Little_string_theory" title="Little string theory">Little string theory</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Twistor_theory" title="Twistor theory">Twistor theory</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Twistor_string_theory" title="Twistor string theory">Twistor string theory</a></small></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="font-weight:normal;">Generalisations /<br />
+Extensions of GR</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scale_relativity" title="Scale relativity">Scale relativity</a></li>
+<li><a href="/wiki/Liouville_gravity" title="Liouville gravity">Liouville gravity</a></li>
+<li><a href="/wiki/Lovelock_theory_of_gravity" title="Lovelock theory of gravity">Lovelock theory</a></li>
+<li><a href="/wiki/(2%2B1)-dimensional_topological_gravity" title="(2+1)-dimensional topological gravity">(2+1)-dimensional topological gravity</a></li>
+<li><a href="/wiki/Gauss%E2%80%93Bonnet_gravity" title="Gauss–Bonnet gravity">Gauss–Bonnet gravity</a></li>
+<li><a href="/wiki/Jackiw%E2%80%93Teitelboim_gravity" title="Jackiw–Teitelboim gravity">Jackiw–Teitelboim gravity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Toy_model" title="Toy model">Pre-Newtonian theories<br />
+and Toy models</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aristotelian_physics" title="Aristotelian physics">Aristotelian physics</a></li>
+<li><a href="/wiki/CGHS_model" title="CGHS model">CGHS model</a></li>
+<li><a href="/wiki/RST_model" title="RST model">RST model</a></li>
+<li><a href="/wiki/Mechanical_explanations_of_gravitation" title="Mechanical explanations of gravitation">Mechanical explanations</a>
+<ul>
+<li><small style="font-size:85%;"><a href="/wiki/Le_Sage%27s_theory_of_gravitation" title="Le Sage's theory of gravitation">Fatio–Le Sage</a></small></li>
+<li><small style="font-size:85%;"><a href="/wiki/Entropic_gravity" title="Entropic gravity">Entropic gravity</a></small></li>
+</ul>
+</li>
+<li><a href="/wiki/Gravitational_interaction_of_antimatter" title="Gravitational interaction of antimatter">Gravitational interaction of antimatter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1209
+CPU time usage: 0.141 seconds
+Real time usage: 2.207 seconds
+Preprocessor visited node count: 528/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41966/2097152 bytes
+Template argument size: 486/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   83.514      1 - -total
+ 57.59%   48.093      2 - Template:Citation
+ 48.99%   40.915      3 - Template:Navbox
+ 38.14%   31.855      1 - Template:Theories_of_gravitation
+  2.86%    2.393     19 - Template:Small
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36904670-0!*!0!!en!*!*!math=0 and timestamp 20150627070056 and revision id 639808633
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gauge_theory_gravity&amp;oldid=639808633">https://en.wikipedia.org/w/index.php?title=Gauge_theory_gravity&amp;oldid=639808633</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gauge_theories" title="Category:Gauge theories">Gauge theories</a></li><li><a href="/wiki/Category:Geometric_algebra" title="Category:Geometric algebra">Geometric algebra</a></li><li><a href="/wiki/Category:Theories_of_gravitation" title="Category:Theories of gravitation">Theories of gravitation</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gauge+theory+gravity&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gauge+theory+gravity" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Gauge_theory_gravity"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Talk:Gauge_theory_gravity&amp;action=edit&amp;redlink=1"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Gauge_theory_gravity" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gauge_theory_gravity" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gauge_theory_gravity" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gauge_theory_gravity&amp;oldid=639808633" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gauge_theory_gravity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5527636" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gauge_theory_gravity&amp;id=639808633" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gauge+theory+gravity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Gauge+theory+gravity&amp;oldid=639808633&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gauge_theory_gravity&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BB%D1%8F%D1%82%D0%B8%D0%B2%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Релятивистская теория гравитации – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q5527636#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 December 2014, at 13:41.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gauge_theory_gravity&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1085"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>DNA origami - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/DNA_origami" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=DNA_origami&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=DNA_origami&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/DNA_origami" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/DNA_origami" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"DNA_origami","wgTitle":"DNA origami","wgCurRevisionId":663467583,"wgRevisionId":663467583,"wgArticleId":4415615,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["DNA nanotechnology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"DNA_origami","wgRelevantArticleId":4415615,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/7/73/DNA_Origami.png/57px-DNA_Origami.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1154606"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-DNA_origami skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">DNA origami</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:DNA_Origami.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/DNA_Origami.png/220px-DNA_Origami.png" width="220" height="384" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png 2x" data-file-width="240" data-file-height="419" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DNA_Origami.png" class="internal" title="Enlarge"></a></div>
+DNA origami object from viral DNA visualized by electron microscopy.<span class="citation journal">Bai, X. -C.; Martin, T. G.; Scheres, S. H. W.; Dietz, H. (2012). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3523823">"Cryo-EM structure of a 3D DNA-origami object"</a>. <i>Proceedings of the National Academy of Sciences</i> <b>109</b> (49): 20012–20017. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.1215713109">10.1073/pnas.1215713109</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3523823">3523823</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23169645">23169645</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Cryo-EM+structure+of+a+3D+DNA-origami+object&amp;rft.au=Bai%2C+X.+-C.&amp;rft.au=Dietz%2C+H.&amp;rft.aufirst=X.+-C.&amp;rft.aulast=Bai&amp;rft.au=Martin%2C+T.+G.&amp;rft.au=Scheres%2C+S.+H.+W.&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3523823&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.1215713109&amp;rft_id=info%3Apmc%2F3523823&amp;rft_id=info%3Apmid%2F23169645&amp;rft.issue=49&amp;rft.jtitle=Proceedings+of+the+National+Academy+of+Sciences&amp;rft.pages=20012-20017&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=109" class="Z3988"><span style="display:none;">&#160;</span></span><span class="plainlinks noprint" style="font-size:smaller">&#160;<a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_pmid/23169645&amp;action=edit&amp;editintro=Template:Cite_pmid/editintro2">edit</a></span>. The map is at the top and atomic model of the DNA colored below. Deposited in <a href="/wiki/EM_Data_Bank" title="EM Data Bank">EMDB</a> <a rel="nofollow" class="external text" href="http://www.pdbe.org/emd-2210">EMD-2210</a></div>
+</div>
+</div>
+<p><b>DNA origami</b> is the nanoscale folding of <a href="/wiki/DNA" title="DNA">DNA</a> to create non-arbitrary two- and three-dimensional shapes at the <a href="/wiki/Nanoscale" title="Nanoscale" class="mw-redirect">nanoscale</a>. The specificity of the interactions between <a href="/wiki/Complementarity_(molecular_biology)" title="Complementarity (molecular biology)">complementary base pairs</a> make DNA a useful construction material, through design of its base sequences.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> DNA is a well-understood material that is suitable for creating scaffolds that hold other molecules in place or to create structures all on its own.</p>
+<p>DNA origami was the cover story of <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i> on March 16, 2006.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Since then, DNA origami has progressed past an art form and has found a number of applications from drug delivery systems to uses as circuitry in plasmonic devices; however, most applications remain in a concept or testing phase.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Similar_approaches"><span class="tocnumber">3</span> <span class="toctext">Similar approaches</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_origami&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The idea of using DNA as a construction material was first introduced in the early 1980s by Nadrian Seeman.<sup id="cite_ref-nar.oxfordjournals.org_4-0" class="reference"><a href="#cite_note-nar.oxfordjournals.org-4"><span>[</span>4<span>]</span></a></sup> The current method of DNA origami was developed by <a href="/wiki/Paul_Rothemund" title="Paul Rothemund" class="mw-redirect">Paul Rothemund</a> at the <a href="/wiki/California_Institute_of_Technology" title="California Institute of Technology">California Institute of Technology</a>, the process involves the folding of a long single strand of <a href="/wiki/Virus" title="Virus">viral</a> <a href="/wiki/DNA" title="DNA">DNA</a> aided by multiple smaller "staple" strands.<sup id="cite_ref-rothemund_5-0" class="reference"><a href="#cite_note-rothemund-5"><span>[</span>5<span>]</span></a></sup> These shorter strands bind the longer in various places, resulting in various shapes, including a <a href="/wiki/Smiley" title="Smiley">smiley face</a> and a coarse map of China and the Americas, along with many three-dimensional structures such as cubes.<sup id="cite_ref-lin_6-0" class="reference"><a href="#cite_note-lin-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>To produce a desired shape, images are drawn with a <a href="/w/index.php?title=Raster_fill&amp;action=edit&amp;redlink=1" class="new" title="Raster fill (page does not exist)">raster fill</a> of a single long DNA <a href="/wiki/Molecule" title="Molecule">molecule</a>. This design is then fed into a computer program that calculates the placement of individual staple strands. Each staple binds to a specific region of the DNA template, and thus due to <a href="/wiki/Watson-Crick_base_pair" title="Watson-Crick base pair" class="mw-redirect">Watson-Crick base pairing</a>, the necessary sequences of all staple strands are known and displayed. The DNA is mixed, then heated and cooled. As the DNA cools, the various staples pull the long strand into the desired shape. Designs are directly observable via several methods, including <a href="/wiki/Electron_Microscopy" title="Electron Microscopy" class="mw-redirect">Electron Microscopy</a>, <a href="/wiki/Atomic_force_microscopy" title="Atomic force microscopy">atomic force microscopy</a>, or <a href="/wiki/Fluorescence_microscopy" title="Fluorescence microscopy" class="mw-redirect">fluorescence microscopy</a> when DNA is coupled to fluorescent materials.<sup id="cite_ref-rothemund_5-1" class="reference"><a href="#cite_note-rothemund-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Bottom-up self-assembly methods are considered promising alternatives that offer cheap, parallel synthesis of nanostructures under relatively mild conditions.</p>
+<p>Since the creation of this method, software was developed to assist the process using CAD software. This allows researchers to use a computer to determine the way to create the correct staples needed to form a certain shape. One such software called caDNAno is an open source software for creating such structures from DNA. The use of software has not only increased the ease of the process but has also drastically reduced the errors made by manual calculations.<sup id="cite_ref-nar.oxfordjournals.org_4-1" class="reference"><a href="#cite_note-nar.oxfordjournals.org-4"><span>[</span>4<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_origami&amp;action=edit&amp;section=2" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many potential applications have been suggested in literature, including enzyme immobilization, drug carry capsules, and nanotechnological self-assembly of materials. Though DNA is not the natural choice for building active structures for nanorobotic applications, due to its lack of structural and catalytic versatility, several papers have examined the possibility of molecular walkers on origami and switches for algorithmic computing.<sup id="cite_ref-lin_6-1" class="reference"><a href="#cite_note-lin-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> The followings list some of the reported applications conducted in the laboratories with clinical potential.</p>
+<ul>
+<li>Researchers at the <a href="/wiki/Harvard_University" title="Harvard University">Harvard University</a> <a href="/wiki/Wyss_Institute_for_Biologically_Inspired_Engineering" title="Wyss Institute for Biologically Inspired Engineering">Wyss Institute</a> reported the self-assembling and self-destructing drug delivery vessels using the DNA origami in the lab tests. The DNA nanorobot they created is an open DNA tube with a hinge on one side which can be clasped shut. The drug filled DNA tube is held shut by DNA <a href="/wiki/Aptamer" title="Aptamer">aptamer</a>, configured to identify and seek certain diseased related protein. Once the origami nanobots get to the infected cells, the aptamers break apart and release the drug. The first disease model the researchers used was <a href="/wiki/Leukemia" title="Leukemia">leukemia</a> and <a href="/wiki/Lymphoma" title="Lymphoma">lymphoma</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Researchers in the <a href="/wiki/National_Center_for_Nanoscience_and_Technology" title="National Center for Nanoscience and Technology">National Center for Nanoscience and Technology</a> in <a href="/wiki/Beijing" title="Beijing">Beijing</a> and <a href="/wiki/Arizona_State_University" title="Arizona State University">Arizona State University</a> reported a DNA origami delivery vehicle for <a href="/wiki/Doxorubicin" title="Doxorubicin">Doxorubicin</a>, a well-known anti-cancer drug. The drug was non-covalently attached to DNA origami nanostructures through intercalation and a high drug load was achieved. The DNA-Doxorubicin complex was taken up by human breast adenocarcinoma cancer cells (<a href="/wiki/MCF-7" title="MCF-7">MCF-7</a>) via cellular internalization with much higher efficiency than doxorubicin in free form. The enhancement of cell killing activity was observed not only in regular <a href="/wiki/MCF-7" title="MCF-7">MCF-7</a>, more importantly, also in doxorubicin-resistant cells. The scientists theorized that the doxorubicin-loaded DNA origami inhibits <a href="/wiki/Lysosome" title="Lysosome">lysosomal</a> acidification, resulting in cellular redistribution of the drug to action sites, thus increasing the <a href="/wiki/Cytotoxicity" title="Cytotoxicity">cytotoxicity</a> against the tumor cells.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>In a study conducted by a group of scientists from <a href="/w/index.php?title=INANO_center&amp;action=edit&amp;redlink=1" class="new" title="INANO center (page does not exist)">iNANO center</a> and <a href="/w/index.php?title=CDNA_Center&amp;action=edit&amp;redlink=1" class="new" title="CDNA Center (page does not exist)">CDNA Center</a> in <a href="/w/index.php?title=Aarhus_university&amp;action=edit&amp;redlink=1" class="new" title="Aarhus university (page does not exist)">Aarhus university</a> (<a href="/wiki/Aarhus" title="Aarhus">Aarhus</a>), researchers were able to construct a small multi-switchable 3D DNA Box Origami. The proposed nanoparticle was characterized by <a href="/wiki/Atomic_force_microscopy" title="Atomic force microscopy">AFM</a>, <a href="/wiki/Transmission_electron_microscopy" title="Transmission electron microscopy">TEM</a> and <a href="/wiki/F%C3%B6rster_resonance_energy_transfer" title="Förster resonance energy transfer">FRET</a>. The constructed box was shown to have a unique reclosing mechanism, which enabled it to repeatedly open and close in response to a unique set of DNA or RNA keys. The authors proposed that this "DNA device can potentially be used for a broad range of applications such as controlling the function of single molecules, controlled drug delivery, and molecular computing.".<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Nanorobots made of DNA origami demonstrated computing capacities and completed pre-programmed task inside the living organism was reported by a team of bioengineers at Wyss Institute at Harvard University and Institute of Nanotechnology and Advanced Materials at <a href="/wiki/Bar-Ilan_University" title="Bar-Ilan University">Bar-Ilan University</a>. As a proof of concept, the team injected various kinds of nanobots (the curled DNA encasing molecules with <a href="/wiki/Fluorescent" title="Fluorescent" class="mw-redirect">fluorescent</a> markers) into live cockroaches. By tracking the markers inside the cockroaches, the team found the accuracy of delivery of the molecules (released by the uncurled DNA) in target cells, the interactions among the nanobots and the control are equivalent to a computer system. The complexity of the logic operations, the decisions and actions, increases with the increased number of nanobots. The team estimated that the computing power in the cockroach can be scaled up to that of an 8-bit computer.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>DNA is folded into an <a href="/wiki/Octahedron" title="Octahedron">octahedron</a> and coated with a single bilayer of <a href="/wiki/Phospholipid" title="Phospholipid">phospholipid</a>, mimicking the envelope of a <a href="/wiki/Virus" title="Virus">virus</a> particle. The DNA nanoparticles, each at about the size of a virion, are able to remain in circulation for hours after injected into mice. It also elicits much lower immune response than the uncoated particles. It presents a potential use in drug delivery, reported by researchers in Wyss Institute at Harvard University.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Similar_approaches">Similar approaches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_origami&amp;action=edit&amp;section=3" title="Edit section: Similar approaches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The idea of using <a href="/wiki/Protein_design" title="Protein design">protein design</a> to accomplish the same goals as DNA origami has surfaced as well. Researchers at the National Institute of Chemistry in Slovenia are working on using <a href="/wiki/Rational_design" title="Rational design">rational design</a> of <a href="/wiki/Protein_folding" title="Protein folding">protein folding</a> to create structures much like those seen with DNA origami. The main focus of current research in protein folding design is in the drug delivery field, using antibodies attached to proteins as a way to create a targeted vehicle.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_origami&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/DNA_nanotechnology" title="DNA nanotechnology">DNA nanotechnology</a></li>
+<li><a href="/wiki/Molecular_self-assembly" title="Molecular self-assembly">Molecular self-assembly</a></li>
+<li><a href="/wiki/Folding@home" title="Folding@home">Folding@home</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=DNA_origami&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><b>Structural DNA nanotechnology: from design to applications</b> <span class="citation journal">Zadegan, R.M.; Norton, M.L (2012). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3397516">"Structural DNA Nanotechnology: From Design to Applications"</a>. <i>Int. J. Mol. Sci</i> <b>13</b>: 7149–7162. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fijms13067149">10.3390/ijms13067149</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3397516">3397516</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22837684">22837684</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Structural+DNA+Nanotechnology%3A+From+Design+to+Applications&amp;rft.aulast=Zadegan%2C+R.M.%3B+Norton%2C+M.L&amp;rft.au=Zadegan%2C+R.M.%3B+Norton%2C+M.L&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3397516&amp;rft_id=info%3Adoi%2F10.3390%2Fijms13067149&amp;rft_id=info%3Apmc%2F3397516&amp;rft_id=info%3Apmid%2F22837684&amp;rft.jtitle=Int.+J.+Mol.+Sci&amp;rft.pages=7149-7162&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v440/n7082/index.html#Editorial"><i>Nature, Volume 440 (7082) March 16, 2006</i></a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">{<a rel="nofollow" class="external free" href="http://www.nature.com/news/2010/100310/full/464158a.html">http://www.nature.com/news/2010/100310/full/464158a.html</a> 'Nature, Volume 464 March 10, 2010"}</span></li>
+<li id="cite_note-nar.oxfordjournals.org-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-nar.oxfordjournals.org_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nar.oxfordjournals.org_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nar.oxfordjournals.org/content/37/15/5001">"Rapid prototyping of 3D DNA-origami shapes with caDNAno"</a>, "Oxford Journal", May 11, 2009</span></li>
+<li id="cite_note-rothemund-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-rothemund_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rothemund_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal"><a href="/wiki/Paul_W._K._Rothemund" title="Paul W. K. Rothemund">Rothemund, Paul W. K.</a> (2006). "Folding DNA to create nanoscale shapes and patterns". <i><a href="/wiki/Nature_(Journal)" title="Nature (Journal)" class="mw-redirect">Nature</a></i> <b>440</b> (7082): 297–302. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature04586">10.1038/nature04586</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0028-0836">0028-0836</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16541064">16541064</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Folding+DNA+to+create+nanoscale+shapes+and+patterns&amp;rft.aufirst=Paul+W.+K.&amp;rft.aulast=Rothemund&amp;rft.au=Rothemund%2C+Paul+W.+K.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fnature04586&amp;rft_id=info%3Apmid%2F16541064&amp;rft.issn=0028-0836&amp;rft.issue=7082&amp;rft.jtitle=Nature&amp;rft.pages=297-302&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=440" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-lin-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-lin_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lin_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lin, Chenxiang; Liu, Yan; Rinker, Sherri; Yan, Hao (2006). "DNA Tile Based Self-Assembly: Building Complex Nanoarchitectures". <i>ChemPhysChem</i> <b>7</b> (8): 1641–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fcphc.200600260">10.1002/cphc.200600260</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16832805">16832805</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=DNA+Tile+Based+Self-Assembly%3A+Building+Complex+Nanoarchitectures&amp;rft.aufirst=Chenxiang&amp;rft.aulast=Lin&amp;rft.au=Lin%2C+Chenxiang&amp;rft.au=Liu%2C+Yan&amp;rft.au=Rinker%2C+Sherri&amp;rft.au=Yan%2C+Hao&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fcphc.200600260&amp;rft_id=info%3Apmid%2F16832805&amp;rft.issue=8&amp;rft.jtitle=ChemPhysChem&amp;rft.pages=1641-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/technology/8204906.stm"><i>DNA 'organises itself' on silicon</i></a>,<i>BBC News</i>, August 17, 2009</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">Garde, Damian (May 15, 2012). <a rel="nofollow" class="external text" href="http://www.fiercedrugdelivery.com/story/dna-origami-could-allow-autonomous-delivery/2012-05-15">"DNA origami could allow for ‘autonomous’ delivery"</a>. fiercedrugdelivery.com<span class="reference-accessdate">. Retrieved <span class="nowrap">May 25,</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.au=Garde%2C+Damian&amp;rft.aulast=Garde%2C+Damian&amp;rft.btitle=DNA+origami+could+allow+for+%E2%80%98autonomous%E2%80%99+delivery&amp;rft.date=May+15%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fiercedrugdelivery.com%2Fstory%2Fdna-origami-could-allow-autonomous-delivery%2F2012-05-15&amp;rft.pub=fiercedrugdelivery.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.newscientist.com/article/mg21528785.400-folded-dna-becomes-trojan-horse-to-attack-cancer.html">"Folded DNA becomes Trojan horse to attack cancer"</a>. NewScientist. 18 August 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.btitle=Folded+DNA+becomes+Trojan+horse+to+attack+cancer&amp;rft.date=18+August+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.newscientist.com%2Farticle%2Fmg21528785.400-folded-dna-becomes-trojan-horse-to-attack-cancer.html&amp;rft.pub=NewScientist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation journal">Jiang, Qiao; Song, Chen; Nangreave, Jeanette; Liu, Xiaowei; Lin, Lin; Qiu, Dengli; Wang, Zhen-Gang; Zou, Guozhang; Liang, Xingjie; Yan, Hao; Ding, Baoquan (2012). <a rel="nofollow" class="external text" href="http://pubs.acs.org/doi/abs/10.1021/ja304263n">"DNA Origami as a Carrier for Circumvention of Drug Resistance"</a>. <i><a href="/wiki/Journal_of_the_American_Chemical_Society" title="Journal of the American Chemical Society">Journal of the American Chemical Society</a></i> <b>134</b> (32): 13396–13403. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja304263n">10.1021/ja304263n</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=DNA+Origami+as+a+Carrier+for+Circumvention+of+Drug+Resistance&amp;rft.au=Ding%2C+Baoquan&amp;rft.aufirst=Qiao&amp;rft.au=Jiang%2C+Qiao&amp;rft.aulast=Jiang&amp;rft.au=Liang%2C+Xingjie&amp;rft.au=Lin%2C+Lin&amp;rft.au=Liu%2C+Xiaowei&amp;rft.au=Nangreave%2C+Jeanette&amp;rft.au=Qiu%2C+Dengli&amp;rft.au=Song%2C+Chen&amp;rft.au=Wang%2C+Zhen-Gang&amp;rft.au=Yan%2C+Hao&amp;rft.au=Zou%2C+Guozhang&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fja304263n&amp;rft_id=info%3Adoi%2F10.1021%2Fja304263n&amp;rft.issue=32&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.pages=13396-13403&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=134" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation journal">M. Zadegan, Reza; et, al. (2012). <a rel="nofollow" class="external text" href="http://pubs.acs.org/doi/abs/10.1021/nn303767b">"Construction of a 4 Zeptoliters Switchable 3D DNA Box Origami"</a>. <i><a href="/wiki/ACS_Nano" title="ACS Nano">ACS Nano</a></i> <b>6</b> (11): 10050–10053. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnn303767b">10.1021/nn303767b</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Construction+of+a+4+Zeptoliters+Switchable+3D+DNA+Box+Origami&amp;rft.au=et%2C+al.&amp;rft.aufirst=Reza&amp;rft.aulast=M.++Zadegan&amp;rft.au=M.++Zadegan%2C+Reza&amp;rft.date=2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fnn303767b&amp;rft_id=info%3Adoi%2F10.1021%2Fnn303767b&amp;rft.issue=11&amp;rft.jtitle=ACS+Nano&amp;rft.pages=10050-10053&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation web">Spickernell, Sarah (8 April 2014). <a rel="nofollow" class="external text" href="http://www.newscientist.com/article/dn25376-dna-nanobots-deliver-drugs-in-living-cockroaches.html#.U5YktZBOVEb">"DNA nanobots deliver drugs in living cockroaches"</a>. New Scientist<span class="reference-accessdate">. Retrieved <span class="nowrap">9 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.aulast=Spickernell%2C+Sarah&amp;rft.au=Spickernell%2C+Sarah&amp;rft.btitle=DNA+nanobots+deliver+drugs+in+living+cockroaches&amp;rft.date=8+April+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.newscientist.com%2Farticle%2Fdn25376-dna-nanobots-deliver-drugs-in-living-cockroaches.html%23.U5YktZBOVEb&amp;rft.pub=New+Scientist&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Amir, Y; Ben-Ishay, E; Levner, D; Ittah, S; Abu-Horowitz, A; Bachelet, I (2014). <a rel="nofollow" class="external text" href="http://www.nature.com/nnano/journal/v9/n5/full/nnano.2014.58.html#affil-auth">"Universal computing by DNA origami robots in a living animal"</a>. <i>Nature Nanotechnology</i> (Nature) <b>9</b> (5): 353–357. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnnano.2014.58">10.1038/nnano.2014.58</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Universal+computing+by+DNA+origami+robots+in+a+living+animal&amp;rft.au=Abu-Horowitz%2C+A&amp;rft.au=Amir%2C+Y&amp;rft.au=Bachelet%2C+I&amp;rft.au=Ben-Ishay%2C+E&amp;rft.aufirst=Y&amp;rft.au=Ittah%2C+S&amp;rft.aulast=Amir&amp;rft.au=Levner%2C+D&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnnano%2Fjournal%2Fv9%2Fn5%2Ffull%2Fnnano.2014.58.html%23affil-auth&amp;rft_id=info%3Adoi%2F10.1038%2Fnnano.2014.58&amp;rft.issue=5&amp;rft.jtitle=Nature+Nanotechnology&amp;rft.pages=353-357&amp;rft.pub=Nature&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web">Gibney, Michael (23 April 2014). <a rel="nofollow" class="external text" href="http://www.fiercedrugdelivery.com/story/dna-nanocages-act-viruses-bypass-immune-system-deliver-drugs/2014-04-22">"DNA nanocages that act like viruses bypass the immune system to deliver drugs"</a>. fiercedrugdelivery.com<span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.au=Gibney%2C+Michael&amp;rft.aulast=Gibney%2C+Michael&amp;rft.btitle=DNA+nanocages+that+act+like+viruses+bypass+the+immune+system+to+deliver+drugs&amp;rft.date=23+April+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fiercedrugdelivery.com%2Fstory%2Fdna-nanocages-act-viruses-bypass-immune-system-deliver-drugs%2F2014-04-22&amp;rft.pub=fiercedrugdelivery.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation journal">Perrault, S; Shih, W (2014). <a rel="nofollow" class="external text" href="http://pubs.acs.org/doi/abs/10.1021/nn5011914">"Virus-Inspired Membrane Encapsulation of DNA Nanostructures To Achieve <i>In Vivo</i> Stability"</a>. <i>ACS Nano</i> (ACS) <b>8</b> (5): 5132–5140. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fnn5011914">10.1021/nn5011914</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Virus-Inspired+Membrane+Encapsulation+of+DNA+Nanostructures+To+Achieve+In+Vivo+Stability&amp;rft.aufirst=S&amp;rft.aulast=Perrault&amp;rft.au=Perrault%2C+S&amp;rft.au=Shih%2C+W&amp;rft.date=2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Fnn5011914&amp;rft_id=info%3Adoi%2F10.1021%2Fnn5011914&amp;rft.issue=5&amp;rft.jtitle=ACS+Nano&amp;rft.pages=5132-5140&amp;rft.pub=ACS&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation journal">Peplow, Mark (28 April 2013). <a rel="nofollow" class="external text" href="http://www.nature.com/news/protein-gets-in-on-dna-s-origami-act-1.12882">"Protein gets in on DNA’s origami act"</a>. <i>Nature</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature.2013.12882">10.1038/nature.2013.12882</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Protein+gets+in+on+DNA%E2%80%99s+origami+act&amp;rft.aufirst=Mark&amp;rft.aulast=Peplow&amp;rft.au=Peplow%2C+Mark&amp;rft.date=28+April+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnews%2Fprotein-gets-in-on-dna-s-origami-act-1.12882&amp;rft_id=info%3Adoi%2F10.1038%2Fnature.2013.12882&amp;rft.jtitle=Nature&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation journal">Zadegan, Reza M.; Norton, Michael L. (June 2012). <a rel="nofollow" class="external text" href="http://www.mdpi.com/1422-0067/13/6/7149">"Structural DNA Nanotechnology: From Design to Applications"</a>. <i>Int. J. Mol. Sci.</i> <b>13</b> (6): 7149–7162. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.3390%2Fijms13067149">10.3390/ijms13067149</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3397516">3397516</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22837684">22837684</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADNA+origami&amp;rft.atitle=Structural+DNA+Nanotechnology%3A+From+Design+to+Applications&amp;rft.aufirst=Reza+M.&amp;rft.aulast=Zadegan&amp;rft.au=Norton%2C+Michael+L.&amp;rft.au=Zadegan%2C+Reza+M.&amp;rft.date=June+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.mdpi.com%2F1422-0067%2F13%2F6%2F7149&amp;rft_id=info%3Adoi%2F10.3390%2Fijms13067149&amp;rft_id=info%3Apmc%2F3397516&amp;rft_id=info%3Apmid%2F22837684&amp;rft.issue=6&amp;rft.jtitle=Int.+J.+Mol.+Sci.&amp;rft.pages=7149-7162&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1104
+CPU time usage: 0.215 seconds
+Real time usage: 0.246 seconds
+Preprocessor visited node count: 963/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33603/2097152 bytes
+Template argument size: 32/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 2.11 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  182.774      1 - -total
+ 54.63%   99.854      1 - Template:Reflist
+ 48.99%   89.538     10 - Template:Cite_journal
+ 33.59%   61.391      1 - Template:Cite_pmid
+ 31.16%   56.961      1 - Template:Cite_pmid/23169645
+ 10.23%   18.690      4 - Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4415615-0!*!0!!en!4!* and timestamp 20150708113320 and revision id 663467583
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=DNA_origami&amp;oldid=663467583">https://en.wikipedia.org/w/index.php?title=DNA_origami&amp;oldid=663467583</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:DNA_nanotechnology" title="Category:DNA nanotechnology">DNA nanotechnology</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DNA+origami&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=DNA+origami" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/DNA_origami"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:DNA_origami"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/DNA_origami" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=DNA_origami&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=DNA_origami&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/DNA_origami" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/DNA_origami" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=DNA_origami&amp;oldid=663467583" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=DNA_origami&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1154606" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=DNA_origami&amp;id=663467583" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=DNA+origami">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=DNA+origami&amp;oldid=663467583&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=DNA_origami&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A3%D9%88%D8%B1%D9%8A%D8%BA%D8%A7%D9%85%D9%8A_%D8%A7%D9%84%D8%AD%D9%85%D8%B6_%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A" title="أوريغامي الحمض النووي – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/DNA-Origami" title="DNA-Origami – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Origami_ADN" title="Origami ADN – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/ADN_origami" title="ADN origami – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/DNA_%D7%90%D7%95%D7%A8%D7%99%D7%92%D7%9E%D7%99" title="DNA אוריגמי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/DNA_Origami" title="DNA Origami – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/DNK_origami" title="DNK origami – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/DNK_origami" title="DNK origami – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1154606#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 21 May 2015, at 22:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=DNA_origami&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1092"});
+}</script>
+	</body>
+</html>

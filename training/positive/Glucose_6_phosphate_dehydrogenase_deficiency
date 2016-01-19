@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Glucose-6-phosphate dehydrogenase deficiency - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Glucose-6-phosphate_dehydrogenase_deficiency" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Glucose-6-phosphate_dehydrogenase_deficiency" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Glucose-6-phosphate_dehydrogenase_deficiency" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Glucose-6-phosphate_dehydrogenase_deficiency","wgTitle":"Glucose-6-phosphate dehydrogenase deficiency","wgCurRevisionId":670979760,"wgRevisionId":670979760,"wgArticleId":382801,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with contributors link","Articles that use a Medicine navs subtemplate","Hereditary hemolytic anemias"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Glucose-6-phosphate_dehydrogenase_deficiency","wgRelevantArticleId":382801,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Glucose_6_phosphate_dehydrogenase_deficiency","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/4/45/G6PD_-_3D_structure_-_PDB1qki.png/83px-G6PD_-_3D_structure_-_PDB1qki.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Glucose-6-phosphate_dehydrogenase_deficiency","wgWikibaseItemId":"Q848343"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Glucose-6-phosphate_dehydrogenase_deficiency skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Glucose-6-phosphate dehydrogenase deficiency</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Glucose_6_phosphate_dehydrogenase_deficiency&amp;redirect=no" title="Glucose 6 phosphate dehydrogenase deficiency">Glucose 6 phosphate dehydrogenase deficiency</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Glucose-6-phosphate dehydrogenase deficiency</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:G6PD_-_3D_structure_-_PDB1qki.png" class="image"><img alt="G6PD - 3D structure - PDB1qki.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/G6PD_-_3D_structure_-_PDB1qki.png/230px-G6PD_-_3D_structure_-_PDB1qki.png" width="230" height="277" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/G6PD_-_3D_structure_-_PDB1qki.png/345px-G6PD_-_3D_structure_-_PDB1qki.png 1.5x, //upload.wikimedia.org/wikipedia/commons/4/45/G6PD_-_3D_structure_-_PDB1qki.png 2x" data-file-width="354" data-file-height="426" /></a>
+<div><a href="/wiki/Glucose-6-phosphate_dehydrogenase" title="Glucose-6-phosphate dehydrogenase">Glucose-6-phosphate dehydrogenase</a></div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Specialty_(medicine)" title="Specialty (medicine)">Specialty</a></th>
+<td><a href="/wiki/Medical_genetics" title="Medical genetics">Medical genetics</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/D55.0">D55.0</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=282.2">282.2</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/305900">305900</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb5037.htm">5037</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/000528.htm">000528</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic900.htm">med/900</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/favism">Glucose-6-phosphate dehydrogenase deficiency</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D005955">D005955</a></td>
+</tr>
+</table>
+<p><b>Glucose-6-phosphate dehydrogenase deficiency</b> (<b>G6PD deficiency</b>) also known as <b>favism</b> (after the <a href="/wiki/Fava_bean" title="Fava bean" class="mw-redirect">fava bean</a>) is an <a href="/wiki/X-linked_recessive" title="X-linked recessive" class="mw-redirect">X-linked recessive</a> genetic condition that predisposes to <a href="/wiki/Hemolysis" title="Hemolysis">hemolysis</a> (spontaneous destruction of <a href="/wiki/Red_blood_cell" title="Red blood cell">red blood cells</a>) and resultant <a href="/wiki/Jaundice" title="Jaundice">jaundice</a> in response to a number of triggers, such as certain foods, illness, or medication. It is particularly common in people of Mediterranean and African origin. The condition is characterized by abnormally low levels of <a href="/wiki/Glucose-6-phosphate_dehydrogenase" title="Glucose-6-phosphate dehydrogenase">glucose-6-phosphate dehydrogenase</a>, an enzyme involved in the <a href="/wiki/Pentose_phosphate_pathway" title="Pentose phosphate pathway">pentose phosphate pathway</a> that is especially important in the <a href="/wiki/Red_blood_cell" title="Red blood cell">red blood cell</a>. G6PD deficiency is the most common human enzyme defect.<sup id="cite_ref-Frank_1-0" class="reference"><a href="#cite_note-Frank-1"><span>[</span>1<span>]</span></a></sup> There is no specific treatment, other than avoiding known triggers.</p>
+<p>Carriers of the G6PD allele appear to be protected to some extent against <a href="/wiki/Malaria" title="Malaria">malaria</a>, and in some cases dominant males have shown complete immunity to the disease. This accounts for the persistence of the allele in certain populations in that it confers a <a href="/wiki/Fitness_(biology)" title="Fitness (biology)">selective advantage</a>.<sup id="cite_ref-Lewis1997_2-0" class="reference"><a href="#cite_note-Lewis1997-2"><span>[</span>2<span>]</span></a></sup> G6PD deficiency resulted in 4,100 deaths in 2013 and 3,400 deaths in 1990.<sup id="cite_ref-GDB2013_3-0" class="reference"><a href="#cite_note-GDB2013-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cause"><span class="tocnumber">2</span> <span class="toctext">Cause</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Drugs"><span class="tocnumber">2.1</span> <span class="toctext">Drugs</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Genetics"><span class="tocnumber">2.2</span> <span class="toctext">Genetics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Pathophysiology"><span class="tocnumber">3</span> <span class="toctext">Pathophysiology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Diagnosis"><span class="tocnumber">4</span> <span class="toctext">Diagnosis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Classification"><span class="tocnumber">4.1</span> <span class="toctext">Classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Treatment"><span class="tocnumber">5</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Epidemiology"><span class="tocnumber">6</span> <span class="toctext">Epidemiology</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Prognosis"><span class="tocnumber">7</span> <span class="toctext">Prognosis</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#History"><span class="tocnumber">8</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most individuals with G6PD deficiency are <a href="/wiki/Asymptomatic" title="Asymptomatic">asymptomatic</a>.</p>
+<p>Symptomatic patients are almost exclusively male, due to the <a href="/wiki/X-linked" title="X-linked" class="mw-redirect">X-linked</a> pattern of inheritance, but female carriers can be clinically affected due to unfavorable <a href="/wiki/Lyonization" title="Lyonization" class="mw-redirect">lyonization</a>, where random inactivation of an X-chromosome in certain cells creates a population of G6PD-deficient <a href="/wiki/Red_blood_cell" title="Red blood cell">red blood cells</a> coexisting with normal red cells. A typical female with one affected X chromosome will show the deficiency in approximately half of her red blood cells. However, in rare cases, including double X deficiency, the ratio can be much more than half, making the individual almost as sensitive as a male.</p>
+<p>Abnormal red blood cell breakdown (<a href="/wiki/Hemolysis" title="Hemolysis">hemolysis</a>) in G6PD deficiency can manifest in a number of ways, including the following:</p>
+<ul>
+<li>Prolonged <a href="/wiki/Neonatal_jaundice" title="Neonatal jaundice">neonatal jaundice</a>, possibly leading to <a href="/wiki/Kernicterus" title="Kernicterus">kernicterus</a> (arguably the most serious complication of G6PD deficiency)</li>
+<li><a href="/wiki/Hemolysis" title="Hemolysis">Hemolytic crises</a> in response to:
+<ul>
+<li>Illness (especially infections)</li>
+<li>Certain <a href="/wiki/Medication" title="Medication" class="mw-redirect">drugs</a> (see below)</li>
+<li>Certain foods, most notably <a href="/wiki/Broad_bean" title="Broad bean" class="mw-redirect">broad beans</a></li>
+<li>Certain chemicals</li>
+</ul>
+</li>
+<li><a href="/wiki/Diabetic_ketoacidosis" title="Diabetic ketoacidosis">Diabetic ketoacidosis</a></li>
+<li>Very severe crises can cause <a href="/wiki/Acute_kidney_failure" title="Acute kidney failure" class="mw-redirect">acute kidney failure</a></li>
+</ul>
+<p><b>Favism</b> may be formally defined as a hemolytic response to the consumption of broad beans. All individuals with favism show G6PD deficiency. However, not all individuals with G6PD deficiency show favism. Favism is known to be more prevalent in infants and children, and G6PD genetic variant can influence chemical sensitivity.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Other than this, the specifics of the chemical relationship between favism and G6PD are not well understood.</p>
+<p><a href="/wiki/6-phosphogluconate_dehydrogenase_deficiency" title="6-phosphogluconate dehydrogenase deficiency">6-phosphogluconate dehydrogenase (6PGD) deficiency</a> has similar symptoms and is often mistaken for G6PD deficiency, as the affected enzyme is within the same pathway, however these diseases are not linked and can be found within the same patient.</p>
+<h2><span class="mw-headline" id="Cause">Cause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=2" title="Edit section: Cause">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Drugs">Drugs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=3" title="Edit section: Drugs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many substances are potentially harmful to people with G6PD deficiency. Variation in response to these substances makes individual predictions difficult. <a href="/wiki/Antimalarial_drug" title="Antimalarial drug" class="mw-redirect">Antimalarial drugs</a> that can cause acute hemolysis in people with G6PD deficiency include <a href="/wiki/Primaquine" title="Primaquine">primaquine</a>, <a href="/wiki/Pamaquine" title="Pamaquine">pamaquine</a>, and <a href="/wiki/Chloroquine" title="Chloroquine">chloroquine</a>. There is evidence that other antimalarials may also exacerbate G6PD deficiency, but only at higher doses. <a href="/wiki/Sulfonamide_(medicine)" title="Sulfonamide (medicine)">Sulfonamides</a> (such as <a href="/wiki/Sulfanilamide" title="Sulfanilamide">sulfanilamide</a>, <a href="/wiki/Sulfamethoxazole" title="Sulfamethoxazole">sulfamethoxazole</a>, and <a href="/wiki/Mafenide" title="Mafenide">mafenide</a>), thiazolesulfone, <a href="/wiki/Methylene_blue" title="Methylene blue">methylene blue</a>, and <a href="/wiki/Naphthalene" title="Naphthalene">naphthalene</a> should also be avoided by people with G6PD deficiency as they antagonize folate synthesis, as should certain <a href="/wiki/Analgesic" title="Analgesic">analgesics</a> (such as <a href="/wiki/Aspirin" title="Aspirin">aspirin</a>, <a href="/wiki/Phenazopyridine" title="Phenazopyridine">phenazopyridine</a>, and <a href="/wiki/Acetanilide" title="Acetanilide">acetanilide</a>) and a few non-sulfa antibiotics (<a href="/wiki/Nalidixic_acid" title="Nalidixic acid">nalidixic acid</a>, <a href="/wiki/Nitrofurantoin" title="Nitrofurantoin">nitrofurantoin</a>, <a href="/wiki/Isoniazid" title="Isoniazid">isoniazid</a>, <a href="/wiki/Dapsone" title="Dapsone">dapsone</a>, and <a href="/wiki/Furazolidone" title="Furazolidone">furazolidone</a>).<sup id="cite_ref-Frank_1-1" class="reference"><a href="#cite_note-Frank-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-OHM_5-0" class="reference"><a href="#cite_note-OHM-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/Henna" title="Henna">Henna</a> has been known to cause hemolytic crisis in G6PD-deficient infants.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> <a href="/wiki/Rasburicase" title="Rasburicase">Rasburicase</a> is also contraindicated in G6PD.</p>
+<h3><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=4" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Two variants (G6PD A− and G6PD Mediterranean) are the most common in human populations. G6PD A− has an occurrence of 10% of American blacks while G6PD Mediterranean is prevalent in the Middle East. The known distribution of the disease is largely limited to people of Mediterranean origins (Spaniards, Italians, Greeks, Armenians, and Jews).<sup id="cite_ref-britannica.com_8-0" class="reference"><a href="#cite_note-britannica.com-8"><span>[</span>8<span>]</span></a></sup> These variants are believed to stem from a protective effect against <i><a href="/wiki/Plasmodium_falciparum" title="Plasmodium falciparum">Plasmodium falciparum</a></i> and <i><a href="/wiki/Plasmodium_vivax" title="Plasmodium vivax">Plasmodium vivax</a></i> malaria.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>All mutations that cause G6PD deficiency are found on the long arm of the <a href="/wiki/X_chromosome" title="X chromosome">X chromosome</a>, on band Xq28. The G6PD gene spans some 18.5 <a href="/wiki/Kilobase" title="Kilobase" class="mw-redirect">kilobases</a>.<sup id="cite_ref-OHM_5-1" class="reference"><a href="#cite_note-OHM-5"><span>[</span>5<span>]</span></a></sup> The following variants and mutations are well-known and described:</p>
+<dl>
+<dd>
+<table width="95%" class="wikitable">
+<tr>
+<th colspan="10" align="center" bgcolor="#FACEDA">Table 1. Descriptive mutations and variants</th>
+</tr>
+<tr>
+<th colspan="4" align="center" bgcolor="#FACEDA">Variants or mutations</th>
+<th colspan="3" align="center" bgcolor="#FACEDA">Gene</th>
+<th colspan="3" align="center" bgcolor="#FACEDA">Protein</th>
+</tr>
+<tr>
+<th>Designation</th>
+<th>Short name</th>
+<th>Isoform<br />
+G6PD-Protein</th>
+<th>OMIM-Code</th>
+<th>Type</th>
+<th>Subtype</th>
+<th>Position</th>
+<th>Position</th>
+<th>Structure change</th>
+<th>Function change</th>
+</tr>
+<tr>
+<td valign="top">G6PD-A(+)</td>
+<td valign="top">Gd-A(+)</td>
+<td valign="top">G6PD A</td>
+<td valign="top">+305900.0001</td>
+<td valign="top">Polymorphism nucleotide</td>
+<td valign="top"><a href="/wiki/Adenine" title="Adenine">A</a>→<a href="/wiki/Guanine" title="Guanine">G</a></td>
+<td valign="top">376<br />
+(Exon 5)</td>
+<td valign="top">126</td>
+<td valign="top"><a href="/wiki/Asparagine" title="Asparagine">Asparagine</a>→<a href="/wiki/Aspartic_acid" title="Aspartic acid">Aspartic acid</a> (ASN126ASP)</td>
+<td valign="top">No enzyme defect (variant)</td>
+</tr>
+<tr>
+<td valign="top">G6PD-A(-)</td>
+<td valign="top">Gd-A(-)</td>
+<td valign="top">G6PD A</td>
+<td valign="top">+305900.0002</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Guanine" title="Guanine">G</a>→<a href="/wiki/Adenine" title="Adenine">A</a></td>
+<td valign="top">376<br />
+(Exon 5)<br />
+and<br />
+202</td>
+<td valign="top">68<br />
+and<br />
+126</td>
+<td valign="top"><a href="/wiki/Valine" title="Valine">Valine</a>→<a href="/wiki/Methionine" title="Methionine">Methionine</a> (VAL68MET)<br />
+<a href="/wiki/Asparagine" title="Asparagine">Asparagine</a>→<a href="/wiki/Aspartic_acid" title="Aspartic acid">Aspartic acid</a> (ASN126ASP)</td>
+<td valign="top"></td>
+</tr>
+<tr>
+<td valign="top">G6PD-Mediterran</td>
+<td valign="top">Gd-Med</td>
+<td valign="top">G6PD B</td>
+<td valign="top">+305900.0006</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Cytosine" title="Cytosine">C</a>→<a href="/wiki/Thymine" title="Thymine">T</a></td>
+<td valign="top">563<br />
+(Exon 6)</td>
+<td valign="top">188</td>
+<td valign="top"><a href="/wiki/Serine" title="Serine">Serine</a>→<a href="/wiki/Phenylalanine" title="Phenylalanine">Phenylalanine</a> (SER188PHE)</td>
+<td valign="top">Class II</td>
+</tr>
+<tr>
+<td valign="top">G6PD-Canton</td>
+<td valign="top">Gd-Canton</td>
+<td valign="top">G6PD B</td>
+<td valign="top">+305900.0021</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Guanine" title="Guanine">G</a>→<a href="/wiki/Thymine" title="Thymine">T</a></td>
+<td valign="top">1376</td>
+<td valign="top">459</td>
+<td valign="top"><a href="/wiki/Arginine" title="Arginine">Arginine</a>→<a href="/wiki/Leucine" title="Leucine">Leucine</a> (ARG459LEU)</td>
+<td valign="top">Class II</td>
+</tr>
+<tr>
+<td valign="top">G6PD-Chatham</td>
+<td valign="top">Gd-Chatham</td>
+<td valign="top">G6PD</td>
+<td valign="top">+305900.0003</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Guanine" title="Guanine">G</a>→<a href="/wiki/Adenine" title="Adenine">A</a></td>
+<td valign="top">1003</td>
+<td valign="top">335</td>
+<td valign="top"><a href="/wiki/Alanine" title="Alanine">Alanine</a>→<a href="/wiki/Threonine" title="Threonine">Threonine</a> (ALA335THR)</td>
+<td valign="top">Class II</td>
+</tr>
+<tr>
+<td valign="top">G6PD-Cosenza</td>
+<td valign="top">Gd-Cosenza</td>
+<td valign="top">G6PD B</td>
+<td valign="top">+305900.0059</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Guanine" title="Guanine">G</a>→<a href="/wiki/Cytosine" title="Cytosine">C</a></td>
+<td valign="top">1376</td>
+<td valign="top">459</td>
+<td valign="top"><a href="/wiki/Arginine" title="Arginine">Arginine</a>→<a href="/wiki/Proline" title="Proline">Proline</a> (ARG459PRO)</td>
+<td valign="top">G6PD-activity &lt;10%, thus high portion of patients.</td>
+</tr>
+<tr>
+<td valign="top">G6PD-Mahidol</td>
+<td valign="top">Gd-Mahidol</td>
+<td valign="top">G6PD</td>
+<td valign="top">+305900.0005</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Guanine" title="Guanine">G</a>→<a href="/wiki/Adenine" title="Adenine">A</a></td>
+<td valign="top">487<br />
+(Exon 6)</td>
+<td valign="top">163</td>
+<td valign="top"><a href="/wiki/Glycine" title="Glycine">Glycine</a>→<a href="/wiki/Serine" title="Serine">Serine</a> (GLY163SER)</td>
+<td valign="top">Class III</td>
+</tr>
+<tr>
+<td valign="top">G6PD-Orissa</td>
+<td valign="top">Gd-Orissa</td>
+<td valign="top">G6PD</td>
+<td valign="top">+305900.0047</td>
+<td valign="top">Substitution nucleotide</td>
+<td valign="top"><a href="/wiki/Cytosine" title="Cytosine">C</a>→<a href="/wiki/Guanine" title="Guanine">G</a></td>
+<td valign="top">131</td>
+<td valign="top">44</td>
+<td valign="top"><a href="/wiki/Alanine" title="Alanine">Alanine</a>→<a href="/wiki/Glycine" title="Glycine">Glycine</a> (ALA44GLY)</td>
+<td valign="top">NADP-binding place affected. Higher stability than other variants.</td>
+</tr>
+<tr>
+<td valign="top">G6PD-Asahi</td>
+<td valign="top">Gd-Asahi</td>
+<td valign="top">G6PD A-</td>
+<td valign="top">+305900.0054</td>
+<td valign="top">Substitution nucleotide (several)</td>
+<td valign="top"><a href="/wiki/Adenine" title="Adenine">A</a>→<a href="/wiki/Guanine" title="Guanine">G</a><br />
+±<br />
+<a href="/wiki/Guanine" title="Guanine">G</a>→<a href="/wiki/Adenine" title="Adenine">A</a></td>
+<td valign="top">376<br />
+(Exon 5)<br />
+202</td>
+<td valign="top">126<br />
+68</td>
+<td valign="top"><a href="/wiki/Asparagine" title="Asparagine">Asparagine</a>→<a href="/wiki/Aspartic_acid" title="Aspartic acid">Aspartic acid</a> (ASN126ASP)<br />
+<a href="/wiki/Valine" title="Valine">Valine</a>→<a href="/wiki/Methionine" title="Methionine">Methionine</a> (VAL68MET)</td>
+<td valign="top">Class III.</td>
+</tr>
+</table>
+</dd>
+</dl>
+<h2><span class="mw-headline" id="Pathophysiology">Pathophysiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=5" title="Edit section: Pathophysiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a href="/wiki/File:Pathology_of_G6PD_deficiency.png" class="image"><img alt="Pathology of G6PD deficiency.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pathology_of_G6PD_deficiency.png/500px-Pathology_of_G6PD_deficiency.png" width="500" height="786" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pathology_of_G6PD_deficiency.png/750px-Pathology_of_G6PD_deficiency.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Pathology_of_G6PD_deficiency.png/1000px-Pathology_of_G6PD_deficiency.png 2x" data-file-width="2215" data-file-height="3484" /></a></div>
+<p>Glucose-6-phosphate dehydrogenase (G6PD) is an <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> in the <a href="/wiki/Pentose_phosphate_pathway" title="Pentose phosphate pathway">pentose phosphate pathway</a> (see image, also known as the HMP shunt pathway). G6PD converts <a href="/wiki/Glucose-6-phosphate" title="Glucose-6-phosphate" class="mw-redirect">glucose-6-phosphate</a> into <a href="/wiki/6-phosphoglucono-%CE%B4-lactone" title="6-phosphoglucono-δ-lactone" class="mw-redirect">6-phosphoglucono-δ-lactone</a> and is the rate-limiting enzyme of this <a href="/wiki/Metabolic_pathway" title="Metabolic pathway">metabolic pathway</a> that supplies <a href="/wiki/Redox" title="Redox">reducing</a> energy to cells by maintaining the level of the reduced form of the <a href="/wiki/Co-enzyme" title="Co-enzyme" class="mw-redirect">co-enzyme</a> <a href="/wiki/Nicotinamide_adenine_dinucleotide_phosphate" title="Nicotinamide adenine dinucleotide phosphate">nicotinamide adenine dinucleotide phosphate</a> (NADPH). The NADPH in turn maintains the supply of reduced <a href="/wiki/Glutathione" title="Glutathione">glutathione</a> in the cells that is used to mop up free radicals that cause <a href="/wiki/Oxidation" title="Oxidation" class="mw-redirect">oxidative</a> damage.</p>
+<p>The G6PD / NADPH pathway is the <i>only</i> source of reduced glutathione in red blood cells (<a href="/wiki/Erythrocyte" title="Erythrocyte" class="mw-redirect">erythrocytes</a>). The role of red cells as oxygen carriers puts them at substantial risk of damage from oxidizing free radicals except for the protective effect of G6PD/NADPH/glutathione.</p>
+<p>People with G6PD deficiency are therefore at risk of <a href="/wiki/Hemolytic_anemia" title="Hemolytic anemia">hemolytic anemia</a> in states of <a href="/wiki/Oxidative_stress" title="Oxidative stress">oxidative stress</a>. Oxidative stress can result from infection and from chemical exposure to <a href="/wiki/Medication" title="Medication" class="mw-redirect">medication</a> and certain foods. <a href="/wiki/Broad_bean" title="Broad bean" class="mw-redirect">Broad beans</a>, e.g., fava beans, contain high levels of <a href="/wiki/Vicine" title="Vicine">vicine</a>, <a href="/wiki/Divicine" title="Divicine">divicine</a>, convicine and isouramil, all of which create <a href="/wiki/Oxidant" title="Oxidant" class="mw-redirect">oxidants</a> - Eur. J. Biochem. 127, 405-409 (1982). The molecules are reducing agents but reduce oxygen to hydrogen peroxide, itself a strong oxidising agent.</p>
+<p>When all remaining reduced <a href="/wiki/Glutathione" title="Glutathione">glutathione</a> is consumed, enzymes and other proteins (including <a href="/wiki/Hemoglobin" title="Hemoglobin">hemoglobin</a>) are subsequently damaged by the oxidants, leading to cross-bonding and protein deposition in the red <a href="/wiki/Cell_membranes" title="Cell membranes" class="mw-redirect">cell membranes</a>. Damaged red cells are <a href="/wiki/Phagocytosis" title="Phagocytosis">phagocytosed</a> and sequestered (taken out of circulation) in the <a href="/wiki/Spleen" title="Spleen">spleen</a>. The hemoglobin is metabolized to <a href="/wiki/Bilirubin" title="Bilirubin">bilirubin</a> (causing <a href="/wiki/Jaundice" title="Jaundice">jaundice</a> at high concentrations). The red cells rarely disintegrate in the circulation, so hemoglobin is rarely excreted directly by the <a href="/wiki/Kidney" title="Kidney">kidney</a>, but this can occur in severe cases, causing <a href="/wiki/Acute_renal_failure" title="Acute renal failure" class="mw-redirect">acute renal failure</a> .</p>
+<p>Deficiency of G6PD in the alternative pathway causes the buildup of glucose and thus there is an increase of <a href="/wiki/Advanced_glycation_endproduct" title="Advanced glycation endproduct" class="mw-redirect">advanced glycation endproducts</a> (AGE). The deficiency also reduces the amount of NADPH, which is required for the formation of nitric oxide (NO). The high prevalence of <a href="/wiki/Diabetes_mellitus_type_2" title="Diabetes mellitus type 2">diabetes mellitus type 2</a> and <a href="/wiki/Hypertension" title="Hypertension">hypertension</a> in Afro-Caribbeans in the West could be directly related to the incidence of G6PD deficiency in those populations.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Although female carriers can have a mild form of G6PD deficiency (dependent on the degree of inactivation of the unaffected X chromosome – see <i><a href="/wiki/Lyonization" title="Lyonization" class="mw-redirect">lyonization</a></i>), homozygous females have been described; in these females there is co-incidence of a <a href="/wiki/Rare_disease" title="Rare disease">rare</a> <a href="/wiki/Immunology" title="Immunology">immune disorder</a> termed <a href="/wiki/Chronic_granulomatous_disease" title="Chronic granulomatous disease">chronic granulomatous disease</a> (CGD).</p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=6" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The diagnosis is generally suspected when patients from certain ethnic groups (see epidemiology) develop <a href="/wiki/Anemia" title="Anemia">anemia</a>, <a href="/wiki/Jaundice" title="Jaundice">jaundice</a> and symptoms of <a href="/wiki/Hemolysis" title="Hemolysis">hemolysis</a> after challenges from any of the above causes, especially when there is a positive family history.</p>
+<p>Generally, tests will include:</p>
+<ul>
+<li><a href="/wiki/Complete_blood_count" title="Complete blood count">Complete blood count</a> and <a href="/wiki/Reticulocyte" title="Reticulocyte">reticulocyte</a> count; in active G6PD deficiency, <a href="/wiki/Heinz_body" title="Heinz body">Heinz bodies</a> can be seen in <a href="/wiki/Red_blood_cell" title="Red blood cell">red blood cells</a> on a <a href="/wiki/Blood_film" title="Blood film">blood film</a>;</li>
+<li><a href="/wiki/Liver_enzyme" title="Liver enzyme" class="mw-redirect">Liver enzymes</a> (to exclude other causes of <a href="/wiki/Jaundice" title="Jaundice">jaundice</a>);</li>
+<li><a href="/wiki/Lactate_dehydrogenase" title="Lactate dehydrogenase">Lactate dehydrogenase</a> (elevated in hemolysis and a marker of hemolytic severity)</li>
+<li><a href="/wiki/Haptoglobin" title="Haptoglobin">Haptoglobin</a> (decreased in hemolysis);</li>
+<li>A "<a href="/wiki/Coombs_test" title="Coombs test">direct antiglobulin test</a>" (Coombs' test) – this should be negative, as <a href="/wiki/Hemolysis" title="Hemolysis">hemolysis</a> in G6PD is not immune-mediated;</li>
+</ul>
+<p>When there are sufficient grounds to suspect G6PD, a direct test for G6PD is the "<a href="/wiki/Beutler_fluorescent_spot_test" title="Beutler fluorescent spot test" class="mw-redirect">Beutler fluorescent spot test</a>", which has largely replaced an older test (the Motulsky dye-decolouration test). Other possibilities are direct DNA testing and/or sequencing of the G6PD gene.</p>
+<p>The <i>Beutler fluorescent spot test</i> is a rapid and inexpensive test that visually identifies <a href="/wiki/Nicotinamide_adenine_dinucleotide_phosphate" title="Nicotinamide adenine dinucleotide phosphate">NADPH</a> produced by G6PD under <a href="/wiki/Ultraviolet_light" title="Ultraviolet light" class="mw-redirect">ultraviolet light</a>. When the blood spot does not fluoresce, the test is positive; it can be falsely negative in patients who are actively hemolysing. It can therefore only be done 2–3 weeks after a hemolytic episode.</p>
+<p>When a macrophage in the spleen identifies a RBC with a Heinz body, it removes the precipitate and a small piece of the membrane, leading to characteristic "<a href="/wiki/Bite_cells" title="Bite cells" class="mw-redirect">bite cells</a>". However, if a large number of Heinz bodies are produced, as in the case of G6PD deficiency, some Heinz bodies will nonetheless be visible when viewing RBCs that have been stained with crystal violet. This easy and inexpensive test can lead to an initial presumption of G6PD deficiency, which can be confirmed with the other tests.</p>
+<h3><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=7" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization</a> classifies G6PD genetic variants into five classes, the first three of which are deficiency states.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<ul>
+<li>Class I: Severe deficiency (&lt;10% activity) with chronic (nonspherocytic) hemolytic anemia</li>
+<li>Class II: Severe deficiency (&lt;10% activity), with intermittent hemolysis</li>
+<li>Class III: Mild deficiency (10-60% activity), hemolysis with stressors only</li>
+<li>Class IV: Non-deficient variant, no clinical sequelae</li>
+<li>Class V: Increased enzyme activity, no clinical sequelae</li>
+</ul>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=8" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most important measure is prevention – avoidance of the drugs and foods that cause hemolysis. <a href="/wiki/Vaccination" title="Vaccination">Vaccination</a> against some common pathogens (e.g. <a href="/wiki/Hepatitis_A" title="Hepatitis A">hepatitis A</a> and <a href="/wiki/Hepatitis_B" title="Hepatitis B">hepatitis B</a>) may prevent infection-induced attacks.<sup id="cite_ref-pmid18159462_12-0" class="reference"><a href="#cite_note-pmid18159462-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In the acute phase of hemolysis, <a href="/wiki/Blood_transfusion" title="Blood transfusion">blood transfusions</a> might be necessary, or even <a href="/wiki/Dialysis" title="Dialysis">dialysis</a> in <a href="/wiki/Acute_kidney_failure" title="Acute kidney failure" class="mw-redirect">acute kidney failure</a>. Blood transfusion is an important symptomatic measure, as the transfused red cells are generally not G6PD deficient and will live a normal lifespan in the recipient's circulation. Those affected should avoid drugs such as <a href="/wiki/Aspirin" title="Aspirin">aspirin</a>.</p>
+<p>Some patients may benefit from removal of the <a href="/wiki/Spleen" title="Spleen">spleen</a> (<a href="/wiki/Splenectomy" title="Splenectomy">splenectomy</a>),<sup id="cite_ref-pmid15621740_13-0" class="reference"><a href="#cite_note-pmid15621740-13"><span>[</span>13<span>]</span></a></sup> as this is an important site of red cell destruction. <a href="/wiki/Folic_acid" title="Folic acid">Folic acid</a> should be used in any disorder featuring a high red cell turnover. Although <a href="/wiki/Vitamin_E" title="Vitamin E">vitamin E</a> and <a href="/wiki/Selenium" title="Selenium">selenium</a> have antioxidant properties, their use does not decrease the severity of G6PD deficiency.</p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=9" title="Edit section: Epidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>G6PD deficiency is the most common human enzyme defect, being present in more than 400 million people worldwide.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> G6PD deficiency resulted in 4,100 deaths in 2013 and 3,400 deaths in 1990.<sup id="cite_ref-GDB2013_3-1" class="reference"><a href="#cite_note-GDB2013-3"><span>[</span>3<span>]</span></a></sup> African, Middle Eastern and South Asian people are affected the most, including those who have these ancestries.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> A side effect of this disease is that it confers protection against <a href="/wiki/Malaria" title="Malaria">malaria</a>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> in particular the form of malaria caused by <i><a href="/wiki/Plasmodium_falciparum" title="Plasmodium falciparum">Plasmodium falciparum</a></i>, the most deadly form of malaria. A similar relationship exists between malaria and <a href="/wiki/Sickle-cell_disease" title="Sickle-cell disease">sickle-cell disease</a>. One theory to explain this is that cells infected with the <i>Plasmodium</i> parasite are cleared more rapidly by the <a href="/wiki/Spleen" title="Spleen">spleen</a>. This phenomenon might give G6PD deficiency carriers an evolutionary advantage by increasing their fitness in malarial endemic environments.</p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=10" title="Edit section: Prognosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>G6PD-deficient individuals do not appear to acquire any illnesses more frequently than other people, and may have less risk than other people for acquiring <a href="/wiki/Ischemic_heart_disease" title="Ischemic heart disease" class="mw-redirect">ischemic heart disease</a> and <a href="/wiki/Cerebrovascular_disease" title="Cerebrovascular disease">cerebrovascular disease</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=11" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In both legend and mythology, Favism has been known since antiquity. The priests of various Greek-Roman era cults were forbade to eat or even mention beans, and <a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a> had a strict rule that to join the society of the <a href="/wiki/Pythagoreanism" title="Pythagoreanism">Pythagoreans'</a> they must swear off beans.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup> This ban was supposedly because beans somehow resembled the genitalia, but it is possible that this was a philosophical or scientific matter, being that the belief was that beans and humans were created from the same material.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></p>
+<p>The modern understanding of the condition began with the analysis of patients who exhibited sensitivity to <a href="/wiki/Primaquine" title="Primaquine">primaquine</a>.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup> The discovery of G6PD deficiency relied heavily upon the testing of prisoner volunteers at <a href="/wiki/Illinois_State_Penitentiary" title="Illinois State Penitentiary" class="mw-redirect">Illinois State Penitentiary</a>, although today such studies cannot be performed. When some prisoners were given the drug primaquine, some developed <a href="/wiki/Hemolytic_anemia" title="Hemolytic anemia">hemolytic anemia</a> but others did not. After studying the mechanism through <a href="/wiki/Chromium" title="Chromium">Cr<sup>51</sup></a> testing, it was conclusively shown that the hemolytic effect of primaquine was due to an intrinsic defect of erythrocytes.<sup id="cite_ref-beutler_21-0" class="reference"><a href="#cite_note-beutler-21"><span>[</span>21<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Frank-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Frank_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Frank_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Frank JE (October 2005). <a rel="nofollow" class="external text" href="http://www.aafp.org/afp/20051001/1277.html">"Diagnosis and management of G6PD deficiency"</a>. <i>Am Fam Physician</i> <b>72</b> (7): 1277–82. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16225031">16225031</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Diagnosis+and+management+of+G6PD+deficiency&amp;rft.au=Frank+JE&amp;rft.aulast=Frank+JE&amp;rft.date=October+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.aafp.org%2Fafp%2F20051001%2F1277.html&amp;rft_id=info%3Apmid%2F16225031&amp;rft.issue=7&amp;rft.jtitle=Am+Fam+Physician&amp;rft.pages=1277-82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=72" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lewis1997-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lewis1997_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">Lewis, Ricki (1997). <i>Human Genetics</i>. Chicago, IL: Wm. C. Brown. pp.&#160;247–248. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-697-24030-4" title="Special:BookSources/0-697-24030-4">0-697-24030-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.aufirst=Ricki&amp;rft.aulast=Lewis&amp;rft.au=Lewis%2C+Ricki&amp;rft.btitle=Human+Genetics&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-697-24030-4&amp;rft.pages=247-248&amp;rft.place=Chicago%2C+IL&amp;rft.pub=Wm.+C.+Brown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-GDB2013-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-GDB2013_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GDB2013_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">GBD 2013 Mortality and Causes of Death, Collaborators (17 December 2014). "Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990-2013: a systematic analysis for the Global Burden of Disease Study 2013.". <i>Lancet</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0140-6736%2814%2961682-2">10.1016/S0140-6736(14)61682-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25530442">25530442</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Global%2C+regional%2C+and+national+age-sex+specific+all-cause+and+cause-specific+mortality+for+240+causes+of+death%2C+1990-2013%3A+a+systematic+analysis+for+the+Global+Burden+of+Disease+Study+2013.&amp;rft.aufirst=Collaborators&amp;rft.au=GBD+2013+Mortality+and+Causes+of+Death%2C+Collaborators&amp;rft.aulast=GBD+2013+Mortality+and+Causes+of+Death&amp;rft.date=17+December+2014&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0140-6736%2814%2961682-2&amp;rft_id=info%3Apmid%2F25530442&amp;rft.jtitle=Lancet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Luzzatto, L. "GLUCOSE-6-PHOSPHATE DEHYDROGENASE DEFICIENCY." Advanced Medicine-Twelve: Proceedings of a Conference Held at the Royal College of Physicians of London, 11–14 February 1985. Vol. 21. Churchill Livingstone, 1986.</span></li>
+<li id="cite_note-OHM-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-OHM_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-OHM_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Warrell, David A.; Timothy M. Cox; John D. Firth; Edward J. Benz (2005). <i>Oxford Textbook of Medicine, Volume Three</i>. Oxford University Press. pp.&#160;720–725. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-857013-9" title="Special:BookSources/0-19-857013-9">0-19-857013-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.au=Edward+J.+Benz&amp;rft.aufirst=David+A.&amp;rft.au=John+D.+Firth&amp;rft.aulast=Warrell&amp;rft.au=Timothy+M.+Cox&amp;rft.au=Warrell%2C+David+A.&amp;rft.btitle=Oxford+Textbook+of+Medicine%2C+Volume+Three&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-19-857013-9&amp;rft.pages=720-725&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">A comprehensive list of drugs and chemicals that are potentially harmful in G6PD deficiency can be found in <span class="citation journal">Beutler E (December 1994). <a rel="nofollow" class="external text" href="http://www.bloodjournal.org/cgi/pmidlookup?view=long&amp;pmid=7949118">"G6PD deficiency"</a>. <i>Blood</i> <b>84</b> (11): 3613–36. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7949118">7949118</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=G6PD+deficiency&amp;rft.au=Beutler+E&amp;rft.aulast=Beutler+E&amp;rft.date=December+1994&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bloodjournal.org%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D7949118&amp;rft_id=info%3Apmid%2F7949118&amp;rft.issue=11&amp;rft.jtitle=Blood&amp;rft.pages=3613-36&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=84" class="Z3988"><span style="display:none;">&#160;</span></span>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">Raupp P, Hassan JA, Varughese M, Kristiansson B (2001). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1718961">"Henna causes life threatening haemolysis in glucose-6-phosphate dehydrogenase deficiency"</a>. <i>Arch. Dis. Child.</i> <b>85</b> (5): 411–2. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fadc.85.5.411">10.1136/adc.85.5.411</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1718961">1718961</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11668106">11668106</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Henna+causes+life+threatening+haemolysis+in+glucose-6-phosphate+dehydrogenase+deficiency&amp;rft.aulast=Raupp+P%2C+Hassan+JA%2C+Varughese+M%2C+Kristiansson+B&amp;rft.au=Raupp+P%2C+Hassan+JA%2C+Varughese+M%2C+Kristiansson+B&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1718961&amp;rft_id=info%3Adoi%2F10.1136%2Fadc.85.5.411&amp;rft_id=info%3Apmc%2F1718961&amp;rft_id=info%3Apmid%2F11668106&amp;rft.issue=5&amp;rft.jtitle=Arch.+Dis.+Child.&amp;rft.pages=411-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=85" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-britannica.com-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-britannica.com_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.britannica.com/EBchecked/topic/202897/favism">http://www.britannica.com/EBchecked/topic/202897/favism</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Kumar, Vinay; Abbas, Abul K.; Fausto, Nelson; Aster, Jon (2009-05-28). Robbins and Cotran Pathologic Basis of Disease, Professional Edition: Expert Consult - Online (Robbins Pathology) (Kindle Locations 33351-33354). Elsevier Health. Kindle Edition.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation journal">Gaskin RS, Estwick D, Peddi R (2001). "G6PD deficiency: its role in the high prevalence of hypertension and diabetes mellitus". <i>Ethnicity &amp; disease</i> <b>11</b> (4): 749–54. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11763298">11763298</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=G6PD+deficiency%3A+its+role+in+the+high+prevalence+of+hypertension+and+diabetes+mellitus&amp;rft.au=Gaskin+RS%2C+Estwick+D%2C+Peddi+R&amp;rft.aulast=Gaskin+RS%2C+Estwick+D%2C+Peddi+R&amp;rft.date=2001&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F11763298&amp;rft.issue=4&amp;rft.jtitle=Ethnicity+%26+disease&amp;rft.pages=749-54&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation journal">WHO Working Group (1989). "Glucose-6-phosphate dehydrogenase deficiency.". <i>Bulletin of the World Health Organization</i> <b>67</b> (6): 601–11. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2633878">2633878</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Glucose-6-phosphate+dehydrogenase+deficiency.&amp;rft.aulast=WHO+Working+Group&amp;rft.au=WHO+Working+Group&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F2633878&amp;rft.issue=6&amp;rft.jtitle=Bulletin+of+the+World+Health+Organization&amp;rft.pages=601-11&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=67" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid18159462-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid18159462_12-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Monga A, Makkar RP, Arora A, Mukhopadhyay S, Gupta AK (July 2003). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2094938">"Case report: Acute hepatitis E infection with coexistent glucose-6-phosphate dehydrogenase deficiency"</a>. <i>Can J Infect Dis</i> <b>14</b> (4): 230–1. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2094938">2094938</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18159462">18159462</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Case+report%3A+Acute+hepatitis+E+infection+with+coexistent+glucose-6-phosphate+dehydrogenase+deficiency&amp;rft.aulast=Monga+A%2C+Makkar+RP%2C+Arora+A%2C+Mukhopadhyay+S%2C+Gupta+AK&amp;rft.au=Monga+A%2C+Makkar+RP%2C+Arora+A%2C+Mukhopadhyay+S%2C+Gupta+AK&amp;rft.date=July+2003&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2094938&amp;rft_id=info%3Apmc%2F2094938&amp;rft_id=info%3Apmid%2F18159462&amp;rft.issue=4&amp;rft.jtitle=Can+J+Infect+Dis&amp;rft.pages=230-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid15621740-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid15621740_13-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Hamilton JW, Jones FG, McMullin MF (August 2004). <a rel="nofollow" class="external text" href="http://www.informaworld.com/openurl?genre=article&amp;doi=10.1080/10245330410001714211&amp;magic=pubmed">"Glucose-6-phosphate dehydrogenase Guadalajara – a case of chronic non-spherocytic haemolytic anaemia responding to splenectomy and the role of splenectomy in this disorder"</a>. <i>Hematology</i> <b>9</b> (4): 307–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F10245330410001714211">10.1080/10245330410001714211</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15621740">15621740</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Glucose-6-phosphate+dehydrogenase+Guadalajara+%E2%80%93+a+case+of+chronic+non-spherocytic+haemolytic+anaemia+responding+to+splenectomy+and+the+role+of+splenectomy+in+this+disorder&amp;rft.au=Hamilton+JW%2C+Jones+FG%2C+McMullin+MF&amp;rft.aulast=Hamilton+JW%2C+Jones+FG%2C+McMullin+MF&amp;rft.date=August+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.informaworld.com%2Fopenurl%3Fgenre%3Darticle%26doi%3D10.1080%2F10245330410001714211%26magic%3Dpubmed&amp;rft_id=info%3Adoi%2F10.1080%2F10245330410001714211&amp;rft_id=info%3Apmid%2F15621740&amp;rft.issue=4&amp;rft.jtitle=Hematology&amp;rft.pages=307-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation journal">Cappellini MD, Fiorelli G (January 2008). "Glucose-6-phosphate dehydrogenase deficiency". <i>Lancet</i> <b>371</b> (9606): 64–74. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0140-6736%2808%2960073-2">10.1016/S0140-6736(08)60073-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18177777">18177777</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Glucose-6-phosphate+dehydrogenase+deficiency&amp;rft.au=Cappellini+MD%2C+Fiorelli+G&amp;rft.aulast=Cappellini+MD%2C+Fiorelli+G&amp;rft.date=January+2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0140-6736%2808%2960073-2&amp;rft_id=info%3Apmid%2F18177777&amp;rft.issue=9606&amp;rft.jtitle=Lancet&amp;rft.pages=64-74&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=371" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rddiagnostics.com/g6pd_faq.htm">G-6-PD FAQ section</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation journal">Mehta A, Mason PJ, Vulliamy TJ (2000). "Glucose-6-phosphate dehydrogenase deficiency". <i>Baillieres Best Pract. Res. Clin. Haematol.</i> <b>13</b> (1): 21–38. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10916676">10916676</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Glucose-6-phosphate+dehydrogenase+deficiency&amp;rft.aulast=Mehta+A%2C+Mason+PJ%2C+Vulliamy+TJ&amp;rft.au=Mehta+A%2C+Mason+PJ%2C+Vulliamy+TJ&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F10916676&amp;rft.issue=1&amp;rft.jtitle=Baillieres+Best+Pract.+Res.+Clin.+Haematol.&amp;rft.pages=21-38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://medical-dictionary.thefreedictionary.com/G6PD+deficiency+anaemia">thefreedictionary.com &gt; glucose-6-phosphate dehydrogenase deficiency</a> citing: Gale Encyclopedia of Medicine. Copyright 2008</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation book">Simoons, F.J. (1996-08-30). "8:". <i>Plants of Life, Plants of Death</i>. University of Wisconsin Press. p.&#160;216. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0299159043" title="Special:BookSources/0299159043">0299159043</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=8%3A&amp;rft.aufirst=F.J.&amp;rft.aulast=Simoons&amp;rft.au=Simoons%2C+F.J.&amp;rft.btitle=Plants+of+Life%2C+Plants+of+Death&amp;rft.date=1996-08-30&amp;rft.genre=bookitem&amp;rft.isbn=0299159043&amp;rft.pages=216&amp;rft.pub=University+of+Wisconsin+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation book">Rendall, Steven; Riedweg, Christoph (2005). <i>Pythagoras: his life, teaching, and influence</i>. Ithaca, N.Y: Cornell University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8014-4240-0" title="Special:BookSources/0-8014-4240-0">0-8014-4240-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.aulast=Rendall%2C+Steven%3B+Riedweg%2C+Christoph&amp;rft.au=Rendall%2C+Steven%3B+Riedweg%2C+Christoph&amp;rft.btitle=Pythagoras%3A+his+life%2C+teaching%2C+and+influence&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-8014-4240-0&amp;rft.place=Ithaca%2C+N.Y&amp;rft.pub=Cornell+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation journal">Alving AS, Carson PE, Flanagan CL, Ickes CE (September 1956). <a rel="nofollow" class="external text" href="http://www.sciencemag.org/cgi/reprint/124/3220/484-a">"Enzymatic deficiency in primaquine-sensitive erythrocytes"</a> <span style="font-size:85%;">(PDF)</span>. <i>Science</i> <b>124</b> (3220): 484–5. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1956Sci...124..484C">1956Sci...124..484C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.124.3220.484-a">10.1126/science.124.3220.484-a</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13360274">13360274</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Enzymatic+deficiency+in+primaquine-sensitive+erythrocytes&amp;rft.au=Alving+AS%2C+Carson+PE%2C+Flanagan+CL%2C+Ickes+CE&amp;rft.aulast=Alving+AS%2C+Carson+PE%2C+Flanagan+CL%2C+Ickes+CE&amp;rft.date=September+1956&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencemag.org%2Fcgi%2Freprint%2F124%2F3220%2F484-a&amp;rft_id=info%3Abibcode%2F1956Sci...124..484C&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.124.3220.484-a&amp;rft_id=info%3Apmid%2F13360274&amp;rft.issue=3220&amp;rft.jtitle=Science&amp;rft.pages=484-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=124" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-beutler-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-beutler_21-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Beutler E (January 2008). <a rel="nofollow" class="external text" href="http://bloodjournal.hematologylibrary.org/cgi/content/full/111/1/16">"Glucose-6-phosphate dehydrogenase deficiency: a historical perspective"</a>. <i>Blood</i> <b>111</b> (1): 16–24. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1182%2Fblood-2007-04-077412">10.1182/blood-2007-04-077412</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18156501">18156501</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlucose-6-phosphate+dehydrogenase+deficiency&amp;rft.atitle=Glucose-6-phosphate+dehydrogenase+deficiency%3A+a+historical+perspective&amp;rft.au=Beutler+E&amp;rft.aulast=Beutler+E&amp;rft.date=January+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbloodjournal.hematologylibrary.org%2Fcgi%2Fcontent%2Ffull%2F111%2F1%2F16&amp;rft_id=info%3Adoi%2F10.1182%2Fblood-2007-04-077412&amp;rft_id=info%3Apmid%2F18156501&amp;rft.issue=1&amp;rft.jtitle=Blood&amp;rft.pages=16-24&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=111" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.g6pd.org/">G6PD Deficiency Association</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.g6pddeficiency.org/">G6PD Deficiency &amp; Favism Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rialto.com/g6pd/">The G6PD homepage</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bioinf.org.uk/g6pd/">The G6PDdb</a> – genetic and structural information database about glucose-6-phosphate dehydrogenase deficiency</li>
+<li><a rel="nofollow" class="external text" href="http://www.rddiagnostics.com/g6pd_faq.htm">A FAQ page on G6PD Deficiency by R&amp;D Diagnostics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fpnotebook.com/Hemeonc/Hemolysis/G6pdDfcncy.htm">Family Practice Notebook/G6PD Deficiency (Favism)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/randall-amster/the-most-common-disease-y_b_241635.html">The Most Common Disease You've Never Heard Of</a>, by <a href="/wiki/Randall_Amster" title="Randall Amster">Randall Amster</a>, <i>The Huffington Post</i>, July 22, 2009.</li>
+<li><a rel="nofollow" class="external text" href="http://www.rareanemias.webs.com">Rare Anemias Foundation</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Diseases_of_RBCs_and_megakaryocytes" title="Template:Diseases of RBCs and megakaryocytes"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Diseases_of_RBCs_and_megakaryocytes" title="Template talk:Diseases of RBCs and megakaryocytes"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Diseases_of_RBCs_and_megakaryocytes&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Hematologic_disease" title="Hematologic disease">Diseases</a> of <a href="/wiki/Red_blood_cell" title="Red blood cell">RBCs</a> and <a href="/wiki/Megakaryocyte" title="Megakaryocyte">megakaryocytes</a> / <a href="/wiki/Megakaryocyte%E2%80%93erythroid_progenitor_cell" title="Megakaryocyte–erythroid progenitor cell">MEP</a> (<a href="/wiki/ICD-10_Chapter_III:_Diseases_of_the_blood_and_blood-forming_organs,_and_certain_disorders_involving_the_immune_mechanism#D50-D89_-_Diseases_of_the_blood_and_blood-forming_organs_and_certain_disorders_involving_the_immune_mechanism" title="ICD-10 Chapter III: Diseases of the blood and blood-forming organs, and certain disorders involving the immune mechanism">D50–69,74</a>, <a href="/wiki/List_of_ICD-9_codes_280%E2%80%93289:_diseases_of_the_blood_and_blood-forming_organs" title="List of ICD-9 codes 280–289: diseases of the blood and blood-forming organs">280–287</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Red_blood_cell" title="Red blood cell">Red<br />
+blood cells</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">↑</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Polycythemia" title="Polycythemia">Polycythemia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polycythemia_vera" title="Polycythemia vera">Polycythemia vera</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">↓</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Anemia" title="Anemia">Anemia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nutritional_anemia" title="Nutritional anemia">Nutritional</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Microcytic_anemia" title="Microcytic anemia">Micro-</a>: <a href="/wiki/Iron-deficiency_anemia" title="Iron-deficiency anemia">Iron-deficiency anemia</a>
+<ul>
+<li><a href="/wiki/Plummer%E2%80%93Vinson_syndrome" title="Plummer–Vinson syndrome">Plummer–Vinson syndrome</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Macrocytic_anemia" title="Macrocytic anemia">Macro-</a>: <a href="/wiki/Megaloblastic_anemia" title="Megaloblastic anemia">Megaloblastic anemia</a>
+<ul>
+<li><a href="/wiki/Pernicious_anemia" title="Pernicious anemia">Pernicious anemia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hemolytic_anemia" title="Hemolytic anemia">Hemolytic</a><br />
+(mostly <a href="/wiki/Normocytic_anemia" title="Normocytic anemia">normo-</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Congenital_hemolytic_anemia" title="Congenital hemolytic anemia">Hereditary</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Enzymopathy" title="Enzymopathy" class="mw-redirect">enzymopathy</a>:</i> <strong class="selflink">G6PD</strong></li>
+<li><i><a href="/wiki/Glycolysis" title="Glycolysis">glycolysis</a></i>
+<ul>
+<li><a href="/wiki/Pyruvate_kinase_deficiency" title="Pyruvate kinase deficiency">PK</a></li>
+<li><a href="/wiki/Triosephosphate_isomerase_deficiency" title="Triosephosphate isomerase deficiency">TI</a></li>
+<li><a href="/wiki/Hexokinase_deficiency" title="Hexokinase deficiency">HK</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Hemoglobinopathy" title="Hemoglobinopathy">hemoglobinopathy</a>:</i> <a href="/wiki/Thalassemia" title="Thalassemia">Thalassemia</a>
+<ul>
+<li><a href="/wiki/Alpha-thalassemia" title="Alpha-thalassemia">alpha</a></li>
+<li><a href="/wiki/Beta-thalassemia" title="Beta-thalassemia" class="mw-redirect">beta</a></li>
+<li><a href="/wiki/Delta-thalassemia" title="Delta-thalassemia">delta</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sickle-cell_disease" title="Sickle-cell disease">Sickle-cell disease</a>/<a href="/wiki/Sickle_cell_trait" title="Sickle cell trait">trait</a></li>
+<li><a href="/wiki/Hereditary_persistence_of_fetal_hemoglobin" title="Hereditary persistence of fetal hemoglobin">HPFH</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Red_blood_cell#Membranes_and_surface_proteins" title="Red blood cell">membrane</a>:</i> <a href="/wiki/Hereditary_spherocytosis" title="Hereditary spherocytosis">Hereditary spherocytosis</a>
+<ul>
+<li><a href="/wiki/Minkowski%E2%80%93Chauffard_syndrome" title="Minkowski–Chauffard syndrome" class="mw-redirect">Minkowski–Chauffard syndrome</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hereditary_elliptocytosis" title="Hereditary elliptocytosis">Hereditary elliptocytosis</a>
+<ul>
+<li><a href="/wiki/Southeast_Asian_ovalocytosis" title="Southeast Asian ovalocytosis">Southeast Asian ovalocytosis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hereditary_stomatocytosis" title="Hereditary stomatocytosis">Hereditary stomatocytosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Acquired_hemolytic_anemia" title="Acquired hemolytic anemia">Acquired</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autoimmune_hemolytic_anemia" title="Autoimmune hemolytic anemia">Autoimmune</a>
+<ul>
+<li><a href="/wiki/Warm_autoimmune_hemolytic_anemia" title="Warm autoimmune hemolytic anemia">WAHA</a></li>
+<li><a href="/wiki/Cold_agglutinin_disease" title="Cold agglutinin disease">CAD</a></li>
+<li><a href="/wiki/Paroxysmal_cold_hemoglobinuria" title="Paroxysmal cold hemoglobinuria">PCH</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Red_blood_cell#Membranes_and_surface_proteins" title="Red blood cell">membrane</a></i>
+<ul>
+<li><a href="/wiki/Paroxysmal_nocturnal_hemoglobinuria" title="Paroxysmal nocturnal hemoglobinuria">PNH</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Microangiopathic_hemolytic_anemia" title="Microangiopathic hemolytic anemia">MAHA</a></li>
+<li><a href="/wiki/Thrombotic_microangiopathy" title="Thrombotic microangiopathy">TM</a>
+<ul>
+<li><a href="/wiki/Hemolytic-uremic_syndrome" title="Hemolytic-uremic syndrome">HUS</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Drug-induced_autoimmune_hemolytic_anemia" title="Drug-induced autoimmune hemolytic anemia">Drug-induced autoimmune</a></li>
+<li><a href="/wiki/Drug-induced_nonautoimmune_hemolytic_anemia" title="Drug-induced nonautoimmune hemolytic anemia">Drug-induced nonautoimmune</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Hemolytic_disease_of_the_newborn" title="Hemolytic disease of the newborn">Hemolytic disease of the newborn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Aplastic_anemia" title="Aplastic anemia">Aplastic</a><br />
+(mostly <a href="/wiki/Normocytic_anemia" title="Normocytic anemia">normo-</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Congenital_hypoplastic_anemia" title="Congenital hypoplastic anemia">Hereditary</a>: <a href="/wiki/Fanconi_anemia" title="Fanconi anemia">Fanconi anemia</a></li>
+<li><a href="/wiki/Diamond%E2%80%93Blackfan_anemia" title="Diamond–Blackfan anemia">Diamond–Blackfan anemia</a></li>
+</ul>
+<ul>
+<li>Acquired: <a href="/wiki/Pure_red_cell_aplasia" title="Pure red cell aplasia">PRCA</a></li>
+<li><a href="/wiki/Sideroblastic_anemia" title="Sideroblastic anemia">Sideroblastic anemia</a></li>
+<li><a href="/wiki/Myelophthisic_anemia" title="Myelophthisic anemia">Myelophthisic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Red_blood_cell_indices" title="Red blood cell indices">Blood tests</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Mean_corpuscular_volume" title="Mean corpuscular volume">MCV</a></i>
+<ul>
+<li><a href="/wiki/Normocytic_anemia" title="Normocytic anemia">Normocytic</a></li>
+<li><a href="/wiki/Microcytic_anemia" title="Microcytic anemia">Microcytic</a></li>
+<li><a href="/wiki/Macrocytic_anemia" title="Macrocytic anemia">Macrocytic</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Mean_corpuscular_hemoglobin_concentration" title="Mean corpuscular hemoglobin concentration">MCHC</a></i>
+<ul>
+<li><a href="/wiki/Normochromic_anemia" title="Normochromic anemia">Normochromic</a></li>
+<li><a href="/wiki/Hypochromic_anemia" title="Hypochromic anemia">Hypochromic</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Methemoglobinemia" title="Methemoglobinemia">Methemoglobinemia</a></li>
+<li><a href="/wiki/Sulfhemoglobinemia" title="Sulfhemoglobinemia">Sulfhemoglobinemia</a></li>
+<li><a href="/wiki/Reticulocytopenia" title="Reticulocytopenia">Reticulocytopenia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Coagulation" title="Coagulation">Coagulation</a>/<br />
+<a href="/wiki/Coagulopathy" title="Coagulopathy">coagulopathy</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">↑</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thrombophilia" title="Thrombophilia">Hyper-<br />
+coagulability</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>primary:</i> <a href="/wiki/Antithrombin_III_deficiency" title="Antithrombin III deficiency">Antithrombin III deficiency</a></li>
+<li><a href="/wiki/Protein_C_deficiency" title="Protein C deficiency">Protein C deficiency</a>/<a href="/wiki/Activated_protein_C_resistance" title="Activated protein C resistance">Activated protein C resistance</a>/<a href="/wiki/Protein_S_deficiency" title="Protein S deficiency">Protein S deficiency</a>/<a href="/wiki/Factor_V_Leiden" title="Factor V Leiden">Factor V Leiden</a></li>
+<li><a href="/wiki/Prothrombin_G20210A" title="Prothrombin G20210A">Prothrombin G20210A</a></li>
+<li><a href="/wiki/Sticky_platelet_syndrome" title="Sticky platelet syndrome">Sticky platelet syndrome</a></li>
+</ul>
+<ul>
+<li><i>acquired:</i><a href="/wiki/Thrombocytosis" title="Thrombocytosis">Thrombocytosis</a>
+<ul>
+<li><a href="/wiki/Essential_thrombocythaemia" title="Essential thrombocythaemia">essential</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Disseminated_intravascular_coagulation" title="Disseminated intravascular coagulation">DIC</a>
+<ul>
+<li><a href="/wiki/Congenital_afibrinogenemia" title="Congenital afibrinogenemia">Congenital afibrinogenemia</a></li>
+<li><a href="/wiki/Purpura_fulminans" title="Purpura fulminans">Purpura fulminans</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Autoimmune" title="Autoimmune" class="mw-redirect">autoimmune</a></i>
+<ul>
+<li><a href="/wiki/Antiphospholipid_syndrome" title="Antiphospholipid syndrome">Antiphospholipid</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">↓</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bleeding_diathesis" title="Bleeding diathesis">Hypo-<br />
+coagulability</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thrombocytopenia" title="Thrombocytopenia">Thrombocytopenia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thrombocytopenic_purpura" title="Thrombocytopenic purpura">Thrombocytopenic purpura</a>: <a href="/wiki/Idiopathic_thrombocytopenic_purpura" title="Idiopathic thrombocytopenic purpura">ITP</a>
+<ul>
+<li><a href="/wiki/Evans_syndrome" title="Evans syndrome">Evans syndrome</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Thrombotic_microangiopathy" title="Thrombotic microangiopathy">TM</a>
+<ul>
+<li><a href="/wiki/Thrombotic_thrombocytopenic_purpura" title="Thrombotic thrombocytopenic purpura">TTP</a></li>
+<li><a href="/wiki/Upshaw_Schulman_syndrome" title="Upshaw Schulman syndrome" class="mw-redirect">Upshaw Schulman syndrome</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><a href="/wiki/Heparin-induced_thrombocytopenia" title="Heparin-induced thrombocytopenia">Heparin-induced thrombocytopenia</a></li>
+<li><a href="/wiki/May%E2%80%93Hegglin_anomaly" title="May–Hegglin anomaly">May–Hegglin anomaly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Platelet#Diseases" title="Platelet">Platelet function</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>adhesion</i>
+<ul>
+<li><a href="/wiki/Bernard%E2%80%93Soulier_syndrome" title="Bernard–Soulier syndrome">Bernard–Soulier syndrome</a></li>
+</ul>
+</li>
+<li><i>aggregation</i>
+<ul>
+<li><a href="/wiki/Glanzmann%27s_thrombasthenia" title="Glanzmann's thrombasthenia">Glanzmann's thrombasthenia</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Platelet_storage_pool_deficiency" title="Platelet storage pool deficiency">platelet storage pool deficiency</a></i>
+<ul>
+<li><a href="/wiki/Hermansky%E2%80%93Pudlak_syndrome" title="Hermansky–Pudlak syndrome">Hermansky–Pudlak syndrome</a></li>
+<li><a href="/wiki/Gray_platelet_syndrome" title="Gray platelet syndrome">Gray platelet syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Clotting_factor" title="Clotting factor" class="mw-redirect">Clotting factor</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haemophilia" title="Haemophilia">Hemophilia</a>
+<ul>
+<li><a href="/wiki/Haemophilia_A" title="Haemophilia A">A/VIII</a></li>
+<li><a href="/wiki/Haemophilia_B" title="Haemophilia B">B/IX</a></li>
+<li><a href="/wiki/Haemophilia_C" title="Haemophilia C">C/XI</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Von_Willebrand_disease" title="Von Willebrand disease">von Willebrand disease</a></li>
+<li><a href="/wiki/Hypoprothrombinemia" title="Hypoprothrombinemia">Hypoprothrombinemia/II</a></li>
+<li><a href="/wiki/Factor_XIII_deficiency" title="Factor XIII deficiency">XIII</a></li>
+<li><a href="/wiki/Dysfibrinogenemia" title="Dysfibrinogenemia">Dysfibrinogenemia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Myeloid_navs" title="Template:Myeloid navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Myeloid_navs" title="Template talk:Myeloid navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Myeloid_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Myeloid" title="Myeloid">cells from bone marrow</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Myeloid_innate_immune_system" title="Template:Myeloid innate immune system">Immune system</a></li>
+<li><a href="/wiki/Template:Myeloid_blood_cells_and_plasma" title="Template:Myeloid blood cells and plasma">Cells</a></li>
+<li><a href="/wiki/Template:Myeloid_physiology" title="Template:Myeloid physiology">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Coagulation" title="Template:Coagulation">coagulation</a></li>
+<li><a href="/wiki/Template:Hemeproteins" title="Template:Hemeproteins">proteins</a></li>
+<li><a href="/wiki/Template:Granule_contents" title="Template:Granule contents">granule contents</a></li>
+<li><a href="/wiki/Template:Colony-stimulating_factors" title="Template:Colony-stimulating factors">colony-stimulating</a></li>
+<li>heme and porphyrin
+<ul>
+<li><i><a href="/wiki/Template:Porphyrin_metabolism_enzymes" title="Template:Porphyrin metabolism enzymes">metabolism</a></i></li>
+<li><i><a href="/wiki/Template:Heme_metabolism_intermediates" title="Template:Heme metabolism intermediates">intermediates</a></i></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Diseases_of_RBCs_and_megakaryocytes" title="Template:Diseases of RBCs and megakaryocytes">Red blood cell</a></li>
+<li><a href="/wiki/Template:Monocyte_and_granulocyte_disease" title="Template:Monocyte and granulocyte disease">Monocyte and granulocyte</a></li>
+<li><a href="/wiki/Template:Myeloid_malignancy" title="Template:Myeloid malignancy">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Histiocytosis" title="Template:Histiocytosis">Histiocytosis</a></li>
+<li><a href="/wiki/Template:Cardiovascular_system_symptoms_and_signs" title="Template:Cardiovascular system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_hematology" title="Template:Eponymous medical signs for hematology">eponymous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Myeloid_blood_tests" title="Template:Myeloid blood tests">Blood tests</a>
+<ul>
+<li><a href="/wiki/Template:Abnormal_clinical_and_laboratory_findings_for_blood" title="Template:Abnormal clinical and laboratory findings for blood">findings</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Transfusion_medicine" title="Template:Transfusion medicine">Transfusion</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antithrombotics" title="Template:Antithrombotics">thrombosis</a></li>
+<li><a href="/wiki/Template:Antihemorrhagics" title="Template:Antihemorrhagics">bleeding</a></li>
+<li><a href="/wiki/Template:B03,_B05,_B06" title="Template:B03, B05, B06">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Inborn_errors_of_carbohydrate_metabolism" title="Template:Inborn errors of carbohydrate metabolism"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Inborn_errors_of_carbohydrate_metabolism" title="Template talk:Inborn errors of carbohydrate metabolism"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Inborn_errors_of_carbohydrate_metabolism&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Inborn_error_of_metabolism" title="Inborn error of metabolism">Inborn error</a> of <a href="/wiki/Inborn_errors_of_carbohydrate_metabolism" title="Inborn errors of carbohydrate metabolism">carbohydrate metabolism</a>: <a href="/wiki/Monosaccharide" title="Monosaccharide">monosaccharide</a> metabolism disorders (including <a href="/wiki/Glycogen_storage_disease" title="Glycogen storage disease">glycogen storage diseases</a>) (<a href="/wiki/ICD-10_Chapter_IV:_Endocrine,_nutritional_and_metabolic_diseases#.28E73.E2.80.93E74.29_Carbohydrates" title="ICD-10 Chapter IV: Endocrine, nutritional and metabolic diseases">E73–E74</a>, <a href="/wiki/List_of_ICD-9_codes_240%E2%80%93279:_endocrine,_nutritional_and_metabolic_diseases,_and_immunity_disorders#Disorders_of_carbohydrate_transport_and_metabolism" title="List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders">271</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sucrose" title="Sucrose">Sucrose</a>, transport<br />
+(extracellular)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Disaccharide" title="Disaccharide">Disaccharide</a> catabolism</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lactose_intolerance" title="Lactose intolerance">Lactose intolerance</a></li>
+<li><a href="/wiki/Sucrose_intolerance" title="Sucrose intolerance">Sucrose intolerance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Monosaccharide" title="Monosaccharide">Monosaccharide</a> transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glucose-galactose_malabsorption" title="Glucose-galactose malabsorption">Glucose-galactose malabsorption</a></li>
+<li><a href="/wiki/Inborn_errors_of_renal_tubular_transport" title="Inborn errors of renal tubular transport">Inborn errors of renal tubular transport</a> (<a href="/wiki/Renal_glycosuria" title="Renal glycosuria">Renal glycosuria</a>)</li>
+<li><a href="/wiki/Fructose_malabsorption" title="Fructose malabsorption">Fructose malabsorption</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hexose" title="Hexose">Hexose</a> → <a href="/wiki/Glucose" title="Glucose">glucose</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Monosaccharide" title="Monosaccharide">Monosaccharide</a> catabolism</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><a href="/wiki/Fructose" title="Fructose">fructose</a>:</span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Essential_fructosuria" title="Essential fructosuria">Essential fructosuria</a></li>
+<li><a href="/wiki/Hereditary_fructose_intolerance" title="Hereditary fructose intolerance">Fructose intolerance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><a href="/wiki/Galactose" title="Galactose">galactose</a>/<a href="/wiki/Galactosemia" title="Galactosemia">galactosemia</a>:</span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Galactokinase_deficiency" title="Galactokinase deficiency">GALK deficiency</a></li>
+<li><a href="/wiki/Galactose-1-phosphate_uridylyltransferase_deficiency" title="Galactose-1-phosphate uridylyltransferase deficiency">GALT deficiency</a>/<a href="/wiki/Galactose_epimerase_deficiency" title="Galactose epimerase deficiency">GALE deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glucose" title="Glucose">Glucose</a> ⇄ <a href="/wiki/Glycogen" title="Glycogen">glycogen</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glycogenesis" title="Glycogenesis">Glycogenesis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glycogen_storage_disease_type_0" title="Glycogen storage disease type 0">GSD type 0, glycogen synthase</a></li>
+<li><a href="/wiki/Glycogen_storage_disease_type_IV" title="Glycogen storage disease type IV">GSD type IV, Andersen's, branching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glycogenolysis" title="Glycogenolysis">Glycogenolysis</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;">extralysosomal:</span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glycogen_storage_disease_type_V" title="Glycogen storage disease type V">GSD type V, McArdle, muscle glycogen phosphorylase</a>/<a href="/wiki/Glycogen_storage_disease_type_VI" title="Glycogen storage disease type VI">GSD type VI, Hers', liver glycogen phosphorylase</a></li>
+<li><a href="/wiki/Glycogen_storage_disease_type_III" title="Glycogen storage disease type III">GSD type III, Cori's, debranching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lysosome" title="Lysosome">lysosomal</a>/<a href="/wiki/Lysosomal_storage_disease" title="Lysosomal storage disease">LSD</a>: <a href="/wiki/Glycogen_storage_disease_type_II" title="Glycogen storage disease type II">GSD type II, Pompe's, glucosidase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glucose" title="Glucose">Glucose</a> ⇄ <a href="/wiki/Citric_acid_cycle" title="Citric acid cycle">CAC</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Glycolysis" title="Glycolysis">Glycolysis</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MODY_2" title="MODY 2">MODY 2</a>/<a href="/wiki/Hyperinsulinemic_hypoglycemia" title="Hyperinsulinemic hypoglycemia">HHF3</a></li>
+<li><a href="/wiki/Phosphofructokinase_deficiency" title="Phosphofructokinase deficiency">GSD type VII, Tarui's, phosphofructokinase</a></li>
+<li><a href="/wiki/Triosephosphate_isomerase_deficiency" title="Triosephosphate isomerase deficiency">Triosephosphate isomerase deficiency</a></li>
+<li><a href="/wiki/Pyruvate_kinase_deficiency" title="Pyruvate kinase deficiency">Pyruvate kinase deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Gluconeogenesis" title="Gluconeogenesis">Gluconeogenesis</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pyruvate_carboxylase_deficiency" title="Pyruvate carboxylase deficiency">PCD</a></li>
+<li><a href="/wiki/Fructose_bisphosphatase_deficiency" title="Fructose bisphosphatase deficiency">Fructose bisphosphatase deficiency</a></li>
+<li><a href="/wiki/Glycogen_storage_disease_type_I" title="Glycogen storage disease type I">GSD type I, von Gierke, glucose 6-phosphatase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pentose_phosphate_pathway" title="Pentose phosphate pathway">Pentose phosphate pathway</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Glucose-6-phosphate dehydrogenase deficiency</strong></li>
+<li><a href="/wiki/Transaldolase_deficiency" title="Transaldolase deficiency">Transaldolase deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hyperoxaluria" title="Hyperoxaluria">Hyperoxaluria</a>
+<ul>
+<li><a href="/wiki/Primary_hyperoxaluria" title="Primary hyperoxaluria">Primary hyperoxaluria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pentosuria" title="Pentosuria">Pentosuria</a></li>
+<li><a href="/wiki/Aldolase_A_deficiency" title="Aldolase A deficiency">Aldolase A deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metabolic_navs" title="Template:Metabolic navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metabolic_navs" title="Template talk:Metabolic navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metabolic_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Inborn_error_of_metabolism" title="Inborn error of metabolism">inborn errors of metabolism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Metabolism" title="Template:Metabolism">Metabolism</a></li>
+<li>Enzymes and pathways: <a href="/wiki/Template:Citric_acid_cycle" title="Template:Citric acid cycle">citric acid cycle</a>
+<ul>
+<li><a href="/wiki/Template:Citric_acid_cycle_enzymes_and_ETC" title="Template:Citric acid cycle enzymes and ETC">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_enzymes" title="Template:Pentose phosphate pathway enzymes">pentose phosphate</a>
+<ul>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_intermediates" title="Template:Pentose phosphate pathway intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycoproteins" title="Template:Glycoproteins">glycoproteins</a>
+<ul>
+<li><a href="/wiki/Template:Glycoprotein_metabolism_enzymes" title="Template:Glycoprotein metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycosaminoglycans" title="Template:Glycosaminoglycans">glycosaminoglycans</a>
+<ul>
+<li><a href="/wiki/Template:Proteoglycan_metabolism_enzymes" title="Template:Proteoglycan metabolism enzymes">proteoglycan enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Phospholipids" title="Template:Phospholipids">phospholipid</a>
+<ul>
+<li><a href="/wiki/Template:Phospholipid_metabolism" title="Template:Phospholipid metabolism">metabolism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_metabolism_enzymes" title="Template:Cholesterol and steroid metabolism enzymes">cholesterol and steroid</a>
+<ul>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_intermediates" title="Template:Cholesterol and steroid intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sphingolipids" title="Template:Sphingolipids">sphingolipids</a>
+<ul>
+<li><a href="/wiki/Template:Glycolipid/sphingolipid_metabolism_enzymes" title="Template:Glycolipid/sphingolipid metabolism enzymes" class="mw-redirect">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Eicosanoids" title="Template:Eicosanoids">eicosanoids</a>
+<ul>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_enzymes" title="Template:Eicosanoid metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Amino_acid_metabolism_enzymes" title="Template:Amino acid metabolism enzymes">amino acid</a>
+<ul>
+<li><a href="/wiki/Template:Amino_acid_metabolism_intermediates" title="Template:Amino acid metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Urea_cycle" title="Template:Urea cycle">urea cycle</a>
+<ul>
+<li><a href="/wiki/Template:Urea_cycle_enzymes" title="Template:Urea cycle enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nucleotide_metabolism_enzymes" title="Template:Nucleotide metabolism enzymes">nucleotide</a>
+<ul>
+<li><a href="/wiki/Template:Nucleotide_metabolism_intermediates" title="Template:Nucleotide metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disorders</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Disorders_of_TCA_and_ETC" title="Template:Disorders of TCA and ETC">Citric acid cycle and electron transport chain</a></li>
+<li><a href="/wiki/Template:Glycoprotein_disorders" title="Template:Glycoprotein disorders">Glycoprotein</a></li>
+<li><a href="/wiki/Template:Proteoglycan_disorders" title="Template:Proteoglycan disorders">Proteoglycan</a></li>
+<li><a href="/wiki/Template:Fatty-acid_metabolism_disorders" title="Template:Fatty-acid metabolism disorders">Fatty-acid</a></li>
+<li><a href="/wiki/Template:Phospholipid_metabolism_disorders" title="Template:Phospholipid metabolism disorders">Phospholipid</a></li>
+<li><a href="/wiki/Template:Defects_of_cholesterol_and_steroid_metabolism" title="Template:Defects of cholesterol and steroid metabolism">Cholesterol and steroid</a></li>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_disorders" title="Template:Eicosanoid metabolism disorders">Eicosanoid</a></li>
+<li><a href="/wiki/Template:Amino_acid_metabolic_pathology" title="Template:Amino acid metabolic pathology">Amino acid</a></li>
+<li><a href="/wiki/Template:Inborn_errors_of_purine-pyrimidine_metabolism" title="Template:Inborn errors of purine-pyrimidine metabolism">Purine-pyrimidine</a></li>
+<li><a href="/wiki/Template:Heme_metabolism_disorders" title="Template:Heme metabolism disorders">Heme metabolism</a></li>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_endocrinology,_nutrition,_and_metabolism" title="Template:Eponymous medical signs for endocrinology, nutrition, and metabolism">Symptoms and signs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Other_alimentary_tract_and_metabolism_products" title="Template:Other alimentary tract and metabolism products">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:X-linked_disorders" title="Template:X-linked disorders"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:X-linked_disorders" title="Template talk:X-linked disorders"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:X-linked_disorders&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Sex_linkage" title="Sex linkage">Sex linkage</a>: X-linked disorders</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div style="font-size:110%"><a href="/wiki/X-linked_recessive_inheritance" title="X-linked recessive inheritance">X-linked recessive</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Immune_disorder" title="Immune disorder">Immune</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronic_granulomatous_disease" title="Chronic granulomatous disease">Chronic granulomatous disease (CYBB)</a></li>
+<li><a href="/wiki/Wiskott%E2%80%93Aldrich_syndrome" title="Wiskott–Aldrich syndrome">Wiskott–Aldrich syndrome</a></li>
+<li><a href="/wiki/X-linked_severe_combined_immunodeficiency" title="X-linked severe combined immunodeficiency">X-linked severe combined immunodeficiency</a></li>
+<li><a href="/wiki/X-linked_agammaglobulinemia" title="X-linked agammaglobulinemia">X-linked agammaglobulinemia</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_1" title="Hyper-IgM syndrome type 1">Hyper-IgM syndrome type 1</a></li>
+<li><a href="/wiki/IPEX_(syndrome)" title="IPEX (syndrome)" class="mw-redirect">IPEX</a></li>
+<li><a href="/wiki/X-linked_lymphoproliferative_disease" title="X-linked lymphoproliferative disease">X-linked lymphoproliferative disease</a></li>
+<li><a href="/wiki/Properdin_deficiency" title="Properdin deficiency">Properdin deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hematologic_disease" title="Hematologic disease">Hematologic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haemophilia_A" title="Haemophilia A">Haemophilia A</a></li>
+<li><a href="/wiki/Haemophilia_B" title="Haemophilia B">Haemophilia B</a></li>
+<li><a href="/wiki/Sideroblastic_anemia" title="Sideroblastic anemia">X-linked sideroblastic anemia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Endocrine_disease" title="Endocrine disease">Endocrine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Androgen_insensitivity_syndrome" title="Androgen insensitivity syndrome">Androgen insensitivity syndrome</a>/<a href="/wiki/Spinal_and_bulbar_muscular_atrophy" title="Spinal and bulbar muscular atrophy">Spinal and bulbar muscular atrophy</a></li>
+<li><a href="/wiki/Kallmann_syndrome" title="Kallmann syndrome">KAL1 Kallmann syndrome</a></li>
+<li><a href="/wiki/X-linked_adrenal_hypoplasia_congenita" title="X-linked adrenal hypoplasia congenita">X-linked adrenal hypoplasia congenita</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Metabolic_disorder" title="Metabolic disorder" class="mw-redirect">Metabolic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Inborn_errors_of_amino_acid_metabolism" title="Inborn errors of amino acid metabolism" class="mw-redirect">Amino acid</a>:</i> <a href="/wiki/Ornithine_transcarbamylase_deficiency" title="Ornithine transcarbamylase deficiency">Ornithine transcarbamylase deficiency</a></li>
+<li><a href="/wiki/Oculocerebrorenal_syndrome" title="Oculocerebrorenal syndrome">Oculocerebrorenal syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Dyslipidemia" title="Dyslipidemia">Dyslipidemia</a>:</i> <a href="/wiki/Adrenoleukodystrophy" title="Adrenoleukodystrophy">Adrenoleukodystrophy</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Carbohydrate_metabolism" title="Carbohydrate metabolism">Carbohydrate metabolism</a>:</i> <strong class="selflink">Glucose-6-phosphate dehydrogenase deficiency</strong></li>
+<li><a href="/wiki/Pyruvate_dehydrogenase_deficiency" title="Pyruvate dehydrogenase deficiency">Pyruvate dehydrogenase deficiency</a></li>
+<li><a href="/wiki/Danon_disease" title="Danon disease">Danon disease/glycogen storage disease Type IIb</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Lipid_storage_disorder" title="Lipid storage disorder">Lipid storage disorder</a></i>: <a href="/wiki/Fabry%27s_disease" title="Fabry's disease" class="mw-redirect">Fabry's disease</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Mucopolysaccharidosis" title="Mucopolysaccharidosis">Mucopolysaccharidosis</a>:</i> <a href="/wiki/Hunter_syndrome" title="Hunter syndrome">Hunter syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Inborn_errors_of_purine-pyrimidine_metabolism" title="Inborn errors of purine-pyrimidine metabolism" class="mw-redirect">Purine-pyrimidine metabolism</a>:</i> <a href="/wiki/Lesch%E2%80%93Nyhan_syndrome" title="Lesch–Nyhan syndrome">Lesch–Nyhan syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Dietary_mineral" title="Dietary mineral" class="mw-redirect">Mineral</a>:</i> <a href="/wiki/Menkes_disease" title="Menkes disease">Menkes disease</a>/<a href="/wiki/Occipital_horn_syndrome" title="Occipital horn syndrome">Occipital horn syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nervous_system_disease" title="Nervous system disease">Nervous system</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/X-linked_mental_retardation" title="X-linked mental retardation" class="mw-redirect">X-linked mental retardation</a>:</i> <a href="/wiki/Coffin%E2%80%93Lowry_syndrome" title="Coffin–Lowry syndrome">Coffin–Lowry syndrome</a></li>
+<li><a href="/wiki/MASA_syndrome" title="MASA syndrome">MASA syndrome</a></li>
+<li><a href="/wiki/X-linked_alpha_thalassemia_mental_retardation_syndrome" title="X-linked alpha thalassemia mental retardation syndrome" class="mw-redirect">X-linked alpha thalassemia mental retardation syndrome</a></li>
+<li><a href="/wiki/Siderius_X-linked_mental_retardation_syndrome" title="Siderius X-linked mental retardation syndrome" class="mw-redirect">Siderius X-linked mental retardation syndrome</a></li>
+</ul>
+<ul>
+<li><i>Eye disorders:</i> <a href="/wiki/Color_blindness#Genetic_modes_of_inheritance" title="Color blindness">Color blindness (red and green, but not blue)</a></li>
+<li><a href="/wiki/Ocular_albinism" title="Ocular albinism">Ocular albinism</a> (<a href="/wiki/Ocular_albinism_type_1" title="Ocular albinism type 1">1</a>)</li>
+<li><a href="/wiki/Norrie_disease" title="Norrie disease">Norrie disease</a></li>
+<li><a href="/wiki/Choroideremia" title="Choroideremia">Choroideremia</a></li>
+</ul>
+<ul>
+<li><i>Other:</i> <a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease (CMTX2-3)</a></li>
+<li><a href="/wiki/Pelizaeus%E2%80%93Merzbacher_disease" title="Pelizaeus–Merzbacher disease">Pelizaeus–Merzbacher disease</a></li>
+<li><a href="/wiki/X-linked_spinal_muscular_atrophy_2" title="X-linked spinal muscular atrophy 2" class="mw-redirect">SMAX2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Skin_disease" title="Skin disease" class="mw-redirect">Skin</a> and related tissue</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dyskeratosis_congenita" title="Dyskeratosis congenita">Dyskeratosis congenita</a></li>
+<li><a href="/wiki/Hypohidrotic_ectodermal_dysplasia" title="Hypohidrotic ectodermal dysplasia">Hypohidrotic ectodermal dysplasia (EDA)</a></li>
+<li><a href="/wiki/X-linked_ichthyosis" title="X-linked ichthyosis">X-linked ichthyosis</a></li>
+<li><a href="/wiki/X-linked_endothelial_corneal_dystrophy" title="X-linked endothelial corneal dystrophy">X-linked endothelial corneal dystrophy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Neuromuscular_disease" title="Neuromuscular disease">Neuromuscular</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Becker%27s_muscular_dystrophy" title="Becker's muscular dystrophy">Becker's muscular dystrophy</a>/<a href="/wiki/Duchenne_muscular_dystrophy" title="Duchenne muscular dystrophy">Duchenne</a></li>
+<li><a href="/wiki/Centronuclear_myopathy" title="Centronuclear myopathy">Centronuclear myopathy (MTM1)</a></li>
+<li><a href="/wiki/Conradi%E2%80%93H%C3%BCnermann_syndrome" title="Conradi–Hünermann syndrome">Conradi–Hünermann syndrome</a></li>
+<li><a href="/wiki/Emery%E2%80%93Dreifuss_muscular_dystrophy" title="Emery–Dreifuss muscular dystrophy">Emery–Dreifuss muscular dystrophy 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Urologic_disease" title="Urologic disease">Urologic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alport_syndrome" title="Alport syndrome">Alport syndrome</a></li>
+<li><a href="/wiki/Dent%27s_disease" title="Dent's disease">Dent's disease</a></li>
+<li><a href="/wiki/Nephrogenic_diabetes_insipidus" title="Nephrogenic diabetes insipidus">X-linked nephrogenic diabetes insipidus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bone" title="Bone">Bone</a>/<a href="/wiki/Tooth" title="Tooth">tooth</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amelogenesis_imperfecta" title="Amelogenesis imperfecta">AMELX Amelogenesis imperfecta</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">No primary system</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barth_syndrome" title="Barth syndrome">Barth syndrome</a></li>
+<li><a href="/wiki/McLeod_syndrome" title="McLeod syndrome">McLeod syndrome</a></li>
+<li><a href="/wiki/Smith%E2%80%93Fineman%E2%80%93Myers_syndrome" title="Smith–Fineman–Myers syndrome">Smith–Fineman–Myers syndrome</a></li>
+<li><a href="/wiki/Simpson%E2%80%93Golabi%E2%80%93Behmel_syndrome" title="Simpson–Golabi–Behmel syndrome">Simpson–Golabi–Behmel syndrome</a></li>
+<li><a href="/wiki/Mohr%E2%80%93Tranebj%C3%A6rg_syndrome" title="Mohr–Tranebjærg syndrome">Mohr–Tranebjærg syndrome</a></li>
+<li><a href="/wiki/Nasodigitoacoustic_syndrome" title="Nasodigitoacoustic syndrome">Nasodigitoacoustic syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div style="font-size:110%"><a href="/wiki/X-linked_dominant_inheritance" title="X-linked dominant inheritance">X-linked dominant</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist&#160;;" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X-linked_hypophosphatemia" title="X-linked hypophosphatemia">X-linked hypophosphatemia</a></li>
+<li><a href="/wiki/Focal_dermal_hypoplasia" title="Focal dermal hypoplasia">Focal dermal hypoplasia</a></li>
+<li><a href="/wiki/Fragile_X_syndrome" title="Fragile X syndrome">Fragile X syndrome</a></li>
+<li><a href="/wiki/Aicardi_syndrome" title="Aicardi syndrome">Aicardi syndrome</a></li>
+<li><a href="/wiki/Incontinentia_pigmenti" title="Incontinentia pigmenti">Incontinentia pigmenti</a></li>
+<li><a href="/wiki/Rett_syndrome" title="Rett syndrome">Rett syndrome</a></li>
+<li><a href="/wiki/CHILD_syndrome" title="CHILD syndrome">CHILD syndrome</a></li>
+<li><a href="/wiki/Lujan%E2%80%93Fryns_syndrome" title="Lujan–Fryns syndrome">Lujan–Fryns syndrome</a></li>
+<li><a href="/wiki/Orofaciodigital_syndrome_1" title="Orofaciodigital syndrome 1">Orofaciodigital syndrome 1</a></li>
+<li><a href="/wiki/Craniofrontonasal_dysplasia" title="Craniofrontonasal dysplasia">Craniofrontonasal dysplasia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1195
+CPU time usage: 0.450 seconds
+Real time usage: 0.530 seconds
+Preprocessor visited node count: 2341/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 236179/2097152 bytes
+Template argument size: 494/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Lua time usage: 0.158/10.000 seconds
+Lua memory usage: 3.02 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  353.433      1 - -total
+ 67.00%  236.816     22 - Template:Navbox
+ 32.13%  113.567      1 - Template:Reflist
+ 25.21%   89.104      1 - Template:Infobox_disease
+ 22.21%   78.504      1 - Template:Infobox
+ 19.66%   69.476      1 - Template:Hematology
+ 18.24%   64.482     12 - Template:Cite_journal
+ 12.12%   42.840      1 - Template:Inborn_errors_of_carbohydrate_metabolism
+  6.21%   21.953      1 - Template:Myeloid_navs
+  5.29%   18.686      1 - Template:Comma_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:382801-0!*!0!!en!4!* and timestamp 20150711151036 and revision id 670979760
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;oldid=670979760">https://en.wikipedia.org/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;oldid=670979760</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hereditary_hemolytic_anemias" title="Category:Hereditary hemolytic anemias">Hereditary hemolytic anemias</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Glucose-6-phosphate+dehydrogenase+deficiency&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Glucose-6-phosphate+dehydrogenase+deficiency" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Glucose-6-phosphate_dehydrogenase_deficiency"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Glucose-6-phosphate_dehydrogenase_deficiency"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Glucose-6-phosphate_dehydrogenase_deficiency" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Glucose-6-phosphate_dehydrogenase_deficiency" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Glucose-6-phosphate_dehydrogenase_deficiency" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;oldid=670979760" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q848343" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Glucose-6-phosphate_dehydrogenase_deficiency&amp;id=670979760" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Glucose-6-phosphate+dehydrogenase+deficiency">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Glucose-6-phosphate+dehydrogenase+deficiency&amp;oldid=670979760&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%81%D9%88%D8%A7%D9%84" title="فوال – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%93%D0%BB%D1%8E%D0%BA%D0%BE%D0%B7%D0%BE-6-%D1%84%D0%BE%D1%81%D1%84%D0%B0%D1%82%D0%B4%D0%B5%D1%85%D0%B8%D0%B4%D1%80%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%D0%B7%D0%BD%D0%B0_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D1%8A%D1%87%D0%BD%D0%BE%D1%81%D1%82" title="Глюкозо-6-фосфатдехидрогеназна недостатъчност – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Nedostatak_glukozo-6-fosfat_dehidrogenaze" title="Nedostatak glukozo-6-fosfat dehidrogenaze – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Defici%C3%A8ncia_de_glucosa-6-fosfat-deshidrogenasa" title="Deficiència de glucosa-6-fosfat-deshidrogenasa – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Glucose-6-phosphat-Dehydrogenase-Mangel" title="Glucose-6-phosphat-Dehydrogenase-Mangel – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-dv"><a href="//dv.wikipedia.org/wiki/%DE%96%DE%A96%DE%95%DE%A9%DE%91%DE%A9_%DE%87%DE%AC%DE%82%DE%B0%DE%92%DE%A6%DE%87%DE%A8%DE%89%DE%B0_%DE%89%DE%A6%DE%8B%DE%AA%DE%88%DE%AA%DE%82%DE%B0" title="ޖީ6ޕީޑީ އެންޒައިމް މަދުވުން – Divehi" lang="dv" hreflang="dv">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Deficiencia_de_glucosa-6-fosfato_deshidrogenasa" title="Deficiencia de glucosa-6-fosfato deshidrogenasa – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%81%D8%A7%D9%88%DB%8C%D8%B3%D9%85" title="فاویسم – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/D%C3%A9ficit_en_glucose-6-phosphate_d%C3%A9shydrog%C3%A9nase" title="Déficit en glucose-6-phosphate déshydrogénase – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Manjak_enzima_glukoza-6-fosfat_dehidrogenaze" title="Manjak enzima glukoza-6-fosfat dehidrogenaze – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Carenza_di_glucosio-6-fosfato_deidrogenasi" title="Carenza di glucosio-6-fosfato deidrogenasi – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%97%D7%95%D7%A1%D7%A8_G6PD" title="חוסר G6PD – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Glucose-6-fosfaatdehydrogenase-defici%C3%ABntie" title="Glucose-6-fosfaatdehydrogenase-deficiëntie – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%B3%E3%83%BC%E3%82%B9-6-%E3%83%AA%E3%83%B3%E9%85%B8%E8%84%B1%E6%B0%B4%E7%B4%A0%E9%85%B5%E7%B4%A0%E6%AC%A0%E6%90%8D%E7%97%87" title="グルコース-6-リン酸脱水素酵素欠損症 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Niedob%C3%B3r_dehydrogenazy_glukozo-6-fosforanowej" title="Niedobór dehydrogenazy glukozo-6-fosforanowej – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Defici%C3%AAncia_em_glucose-6-fosfato_desidrogenase" title="Deficiência em glucose-6-fosfato desidrogenase – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Favism" title="Favism – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-ckb"><a href="//ckb.wikipedia.org/wiki/%DA%A9%DB%95%D9%85%DB%8C%DB%8C_%DA%AF%D9%84%D9%88%DA%A9%DB%86%D8%B2%DB%8C-%D9%A6-%D9%81%DB%86%D8%B3%D9%81%D8%A7%D8%AA%DB%8C%DB%8C_%DA%BE%D8%A7%DB%8C%D8%AF%D8%B1%DB%86%D8%AC%DB%8C%D9%86_%D9%84%DB%8E%DA%A9%DB%95%D8%B1%DB%95%D9%88%DB%95" title="کەمیی گلوکۆزی-٦-فۆسفاتیی ھایدرۆجین لێکەرەوە – Central Kurdish" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Manjak_enzima_glukoza-6-fosfat_dehidrogenaze" title="Manjak enzima glukoza-6-fosfat dehidrogenaze – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Glukoosi-6-fosfaattidehydrogenaasin_puutos" title="Glukoosi-6-fosfaattidehydrogenaasin puutos – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%9E%E0%B8%A3%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%8B%E0%B8%A1%E0%B9%8C_G-6-PD" title="โรคพร่องเอนไซม์ G-6-PD – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E8%91%A1%E8%90%84%E7%B3%96-6-%E7%A3%B7%E9%85%B8%E8%84%AB%E6%B0%AB%E9%85%B6%E7%BC%BA%E4%B9%8F%E7%97%87" title="葡萄糖-6-磷酸脫氫酶缺乏症 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q848343#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 July 2015, at 15:10.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Glucose-6-phosphate_dehydrogenase_deficiency&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1247"});
+}</script>
+	</body>
+</html>

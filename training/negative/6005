@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Sandcastle (software) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sandcastle_(software)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sandcastle_(software)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sandcastle_(software)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Sandcastle_(software)" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sandcastle_(software)" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sandcastle_(software)","wgTitle":"Sandcastle (software)","wgCurRevisionId":670864916,"wgRevisionId":670864916,"wgArticleId":6218046,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Free documentation generators","Microsoft Visual Studio"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sandcastle_(software)","wgRelevantArticleId":6218046,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4049040"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Sandcastle_software skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Sandcastle (software)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<caption class="summary">Sandcastle</caption>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td><a href="/wiki/Microsoft_Corporation" title="Microsoft Corporation" class="mw-redirect">Microsoft Corporation</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>2.6.10621.1 / June&#160;23,&#160;2010<span style="display:none">&#160;(<span class="bday dtstart published updated">2010-06-23</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="/wiki/Linux" title="Linux">Linux</a> (under <a href="/wiki/Mono_(software)" title="Mono (software)">Mono</a>)</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Documentation_generator" title="Documentation generator">Documentation generator</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Microsoft_Public_License" title="Microsoft Public License" class="mw-redirect">Microsoft Public License</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.codeplex.com/Sandcastle">www<wbr />.codeplex<wbr />.com<wbr />/Sandcastle</a></span></td>
+</tr>
+</table>
+<p><b>Sandcastle</b> is a <a href="/wiki/Documentation_generator" title="Documentation generator">documentation generator</a> from <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> that automatically produces <a href="/wiki/MSDN" title="MSDN" class="mw-redirect">MSDN</a> style reference documentation out of reflection information of <a href="/wiki/.NET_Framework" title=".NET Framework">.NET</a> <a href="/wiki/Assembly_(CLI)" title="Assembly (CLI)">assemblies</a> and <a href="/wiki/XML" title="XML">XML</a> documentation comments found in the <a href="/wiki/Source_code" title="Source code">source code</a> of these assemblies. It can also be used to produce <a href="/wiki/Compiled" title="Compiled" class="mw-redirect">compiled</a> <a href="/wiki/Software_documentation#User_documentation" title="Software documentation">user documentation</a> from <a href="/wiki/Microsoft_Assistance_Markup_Language" title="Microsoft Assistance Markup Language">Microsoft Assistance Markup Language (MAML)</a> with the same look and feel as reference documentation.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sandcastle_tools"><span class="tocnumber">2</span> <span class="toctext">Sandcastle tools</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Community_tools"><span class="tocnumber">3</span> <span class="toctext">Community tools</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Output"><span class="tocnumber">4</span> <span class="toctext">Output</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Compiled_help"><span class="tocnumber">5</span> <span class="toctext">Compiled help</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Background"><span class="tocnumber">6</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sandcastle is a set of <a href="/wiki/Command_line" title="Command line" class="mw-redirect">command line</a> programs, configuration files, build components and <a href="/wiki/XSLT" title="XSLT">XSLT</a> transformation files that work together to convert <a href="/wiki/Extensible_Markup_Language" title="Extensible Markup Language" class="mw-redirect">XML</a>-based documentation into help topics that are fit for viewing in a help system. Sandcastle is typically used to automatically generate web-ready, XML-compliant <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language" class="mw-redirect">HTML</a> documentation in one of three built-in presentation styles from .NET assemblies and XML documentation files that are generated by <a href="/wiki/Compiler" title="Compiler">code compilers</a>. The resulting HTML files are then used as input to tools such as the <a href="/w/index.php?title=HTML_Help_Workshop&amp;action=edit&amp;redlink=1" class="new" title="HTML Help Workshop (page does not exist)">HTML Help Workshop</a> to produce compiled help for distribution with a <a href="/wiki/Application_software" title="Application software">software application</a>.</p>
+<p>Sandcastle currently features a lightweight <a href="/wiki/Graphical_user_interface" title="Graphical user interface">graphical user interface</a> (GUI) as an alternative to the <a href="/wiki/MSBuild" title="MSBuild">MSBuild</a> project, <a href="/wiki/Batch_script" title="Batch script" class="mw-redirect">batch script</a> and <a href="/wiki/PowerShell" title="PowerShell" class="mw-redirect">Windows PowerShell</a> scripts that are also provided. Several community GUI tools are also available for Sandcastle, providing additional features and simplifying its usage.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The <a href="/wiki/Visual_Studio" title="Visual Studio" class="mw-redirect">Visual Studio</a> <a href="/wiki/Software_development_kit" title="Software development kit">SDKs</a> for 2005 and 2008 include older CTP versions of Sandcastle,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> although the latest release is available on <a href="/wiki/GitHub" title="GitHub">GitHub</a>.</p>
+<h2><span class="mw-headline" id="Sandcastle_tools">Sandcastle tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=2" title="Edit section: Sandcastle tools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sandcastle consists of several programs, not all of which are used in the typical help build process. Commonly used tools are listed below.</p>
+<ul>
+<li>MrefBuilder uses <a href="/w/index.php?title=Common_Compiler_Infrastructure&amp;action=edit&amp;redlink=1" class="new" title="Common Compiler Infrastructure (page does not exist)">Common Compiler Infrastructure (CCI)</a> to reflect against managed assemblies and generate an output file.</li>
+<li>XslTransform applies XSL transformations to an XML file. Typically, the specified input file is or derives from a file that is generated by MRefBuilder.</li>
+<li>BuildAssembler executes a build component stack, once for each topic defined in an XML manifest. A build component stack is defined in an XML file with a .config extension. Sandcastle provides several build components that are used in build component stacks to perform tasks such as generating in-memory data indexes, resolving links, including shared content, executing XSL transformations and saving the final output to a file.</li>
+</ul>
+<h2><span class="mw-headline" id="Community_tools">Community tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=3" title="Edit section: Community tools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because in its current state Sandcastle by itself is rather complex to use, people have come up with tools and scripts that can automate the task for them. This section contains a list of such tools and scripts.</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.codeplex.com/SHFB">Sandcastle Help File Builder</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.codeplex.com/DocProject">DocProject (Visual Studio 2005/2008)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dotnetjunkies.com/WebLog/mikaels/default.aspx">Sandcastle Helper</a></li>
+<li><a rel="nofollow" class="external text" href="http://ixnay2infinity.blogspot.com/2006/07/batch-file-for-microsoft-sandcastle.html">Batch file</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hanselman.com/blog/SandcastleMicrosoftCTPOfAHelpCHMFileGeneratorOnTheTailsOfTheDeathOfNDoc.aspx">PowerShell script</a></li>
+<li><a rel="nofollow" class="external text" href="http://msbuildsandcastle.codeplex.com/">MSBuild script</a></li>
+<li><a rel="nofollow" class="external text" href="http://dotnetpret.blogspot.com/2006/08/sandcastle-continued-documentation.html">Sandcastle Visual Studio Add-In</a></li>
+<li><a rel="nofollow" class="external text" href="http://xsddoc.codeplex.com/">XML Schema Documenter for Sandcastle Help File Builder</a></li>
+</ul>
+<h2><span class="mw-headline" id="Output">Output</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=4" title="Edit section: Output">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sandcastle produces XML-based HTML files in a chosen presentation style. (This does not mean, however, that the files are <a href="/wiki/XHTML" title="XHTML">XHTML</a> compliant.) The HTML is defined by XSL transformation files that are included in the particular presentation style being used. A build normally uses only one presentation style at a time.</p>
+<p>The HTML files that Sandcastle produces are either conceptual (user) documentation, being the result of a transformation from <a href="/wiki/Microsoft_Assistance_Markup_Language" title="Microsoft Assistance Markup Language">Microsoft Assistance Markup Language (MAML)</a> topics, or they are reference documentation, which is automatically generated from reflection data and XML documentation comments. These two different types of HTML output share the same presentation style and may be compiled together to produce mixed user/reference documentation.</p>
+<p>The processes for building conceptual documentation and reference documentation are similar, with one of the main differences being that conceptual documentation does not require the MRefBuilder program to be used.</p>
+<p>Conceptual documentation consists of topics written using a MAML document type schema such as how to, walk-through, troubleshooting and several others. Sandcastle provides a conceptual build component stack (conceptual.config) that resolves shared content and links, and uses XSL files to transform MAML elements into HTML.</p>
+<p>Reference documentation is generated automatically for managed <a href="/wiki/Application_Programming_Interface" title="Application Programming Interface" class="mw-redirect">Application Programming Interfaces (APIs)</a> from reflection data and XML documentation comments. A "doc model" XSL transformation, provided by the chosen presentation style, is applied to define the files that will be generated. Sandcastle provides a reference build component stack (sandcastle.config) that builds in-memory indexes of the data, resolves shared content and links, and uses XSL to generate the final HTML output.</p>
+<h2><span class="mw-headline" id="Compiled_help">Compiled help</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=5" title="Edit section: Compiled help">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sandcastle does not produce compiled help output itself; although, the HTML files that it produces can be used as input to HTML help compilers such as the <a href="/w/index.php?title=HTML_Help_Workshop&amp;action=edit&amp;redlink=1" class="new" title="HTML Help Workshop (page does not exist)">HTML Help Workshop</a> and <a href="/wiki/Microsoft_Help_2" title="Microsoft Help 2">Microsoft Help 2</a>.</p>
+<p>For example, the typical Help 1.x build process starts by running MrefBuilder.exe to produce an XML reflection file for one or more assemblies. The reflection file is then processed by the XslTransform.exe tool multiple times to apply various XSL transformations that add data such as a "doc model" and optional version information. Next, an XML-based topic manifest is generated and used by the BuildAssembler.exe program, which generates HTML topic files from the reflection data and XML documentation comments. An XML-based <a href="/wiki/Table_of_contents" title="Table of contents">table of contents (TOC)</a> file is generated and used by CHMBuilder.exe, along with the HTML files produced by BuildAssembler, to generate <a href="/w/index.php?title=HTML_Help_Workshop&amp;action=edit&amp;redlink=1" class="new" title="HTML Help Workshop (page does not exist)">HTML Help Workshop</a> project, index and TOC files. Finally, the HTML Help workshop is used to generate a compiled help file (.chm).</p>
+<p>Some tools are used multiple times during a single build, like XslTransform and BuildAssembler. Depending upon the requirements, other tools and XSL transformations may be used at various stages during the process to modify Sandcastle's output.</p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=6" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Sandcastle application was developed by <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> to create a scalable and performing <a href="/wiki/Documentation_generator" title="Documentation generator">documentation generator</a> for their <a href="/wiki/Application_Programming_Interface" title="Application Programming Interface" class="mw-redirect">API</a> documentation. Microsoft released Sandcastle as a Community Technology Preview (<a href="/wiki/Software_release_life_cycle#Beta" title="Software release life cycle">CTP</a>) version in July 2006, a few days before <a href="/wiki/NDoc" title="NDoc">NDoc</a> was declared dead <sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> The author of NDoc, Kevin Downs, cited in an email sent through his mailing list reasons for discontinuing development of his popular tool as a lack of community support, both financially and as development contributions, an automated <a href="/wiki/Email_bomb" title="Email bomb">mail-bomb</a> attack on his public email address and the NDoc2 mailing list address, and also his impression that Sandcastle "will become the de facto standard and that NDoc will slowly become a stagnant side-water."</p>
+<p>Sandcastle averaged 217 downloads per day <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> during the month of September 2010, making it one of the top 25 most downloaded projects on <a href="/wiki/CodePlex" title="CodePlex">CodePlex</a>.</p>
+<p>On June 6, 2008 the SandCastle project was removed from CodePlex website<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> after a discussion thread on the CodePlex site pointed out that source code was not available; despite CodePlex requiring this and the SandCastle project being touted as "open source".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup> On July 2 the project returned to CodePlex and the source code was published.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=7" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>July 29, 2006 the July 2006 CTP version was released, this version mainly focused on performance and scalability. No <a href="/wiki/GUI" title="GUI" class="mw-redirect">GUI</a> was present yet, the application did not contain a feature to resolve <a href="/wiki/Global_Assembly_Cache" title="Global Assembly Cache">GAC</a> DLLs yet.</li>
+<li>August 28, 2006 the August 2006 CTP version was released, the bugs fixed in this release seem to primarily for fixing crashes of the application. <a href="/wiki/HTML" title="HTML">HTML</a> output of the application is now compatible with <a href="/wiki/Firefox" title="Firefox">Firefox</a>. Some changes were made to the command line interface.</li>
+<li>October 1, 2006 the September 2006 CTP version was released, bug fixes primarily seem to focus on fixing bugs in the output, and adding better support for some <a href="/wiki/XML" title="XML">XML</a> comment tags.</li>
+<li>November 11, 2006 the November 2006 CTP version was released, along with bug fixes other items being supported are a few <a href="/wiki/NDoc" title="NDoc">nDoc</a> tags, and also transforms support <a href="/wiki/Firefox" title="Firefox">Firefox</a>.</li>
+<li>December 10, 2006 the December 2006 CTP version was released, providing a DXROOT environment variable used by configuration files, an API "ripping" feature, pass-through HTML, and presentation updates that included support for <a href="/wiki/Firefox" title="Firefox">Firefox</a> in the VS 2005 style.</li>
+<li>March 6, 2007 the March 2007 CTP version was released, adding 4 new and removing 3 XSL transformations, a batch build script and performance improvements.</li>
+<li>March 17, 2007 the March 2007 CTP Technical Refresh version was released, fixing the "ripping" feature and a utility bug, and including a file that was missing from the previously released installer.</li>
+<li>June 19, 2007 the June 2007 CTP version was released, providing an <a href="/wiki/MSBuild" title="MSBuild">MSBuild</a> project, a new version of the <a href="/w/index.php?title=Common_Compiler_Infrastructure&amp;action=edit&amp;redlink=1" class="new" title="Common Compiler Infrastructure (page does not exist)">Common Compiler Infrastructure (CCI)</a> reflection engine, a new presentation style named, "VS <a href="/wiki/Visual_Studio_2008" title="Visual Studio 2008" class="mw-redirect">ORCAS</a>", a new build component, new executable utilities, and several other enhancements.</li>
+<li>June 27, 2007 the June 2007 CTP Refresh version was released, renaming the previously released "VS <a href="/wiki/Visual_Studio_2008" title="Visual Studio 2008" class="mw-redirect">ORCAS</a>" presentation style to "Hana" to prevent confusion since the Orcas Beta 2 and RTM documentation shipping in <a href="/wiki/MSDN" title="MSDN" class="mw-redirect">MSDN</a> was going to continue to be built in the VS 2005 presentation style.</li>
+<li>October 1, 2007 the September 2007 CTP version was released, with the first appearance of the CHMBuilder, VersionBuilder and DBCSFix tools, a Windows <a href="/wiki/PowerShell" title="PowerShell" class="mw-redirect">PowerShell</a> build script, presentation style updates (most notably to the VS 2005 style), and without the <a href="/wiki/.NET_Framework" title=".NET Framework">.NET Framework</a> reflection files that were normally included in previous installers.</li>
+<li>October 30, 2007 the October 2007 CTP version was released, including the <a href="/wiki/.NET_Framework" title=".NET Framework">.NET Framework</a> files that were missing from the previous release, a new conceptual documentation build process requiring <a href="/wiki/Microsoft_Assistance_Markup_Language" title="Microsoft Assistance Markup Language">Microsoft Assistance Markup Language (MAML)</a> topics as input, and also improved <a href="/wiki/Firefox" title="Firefox">Firefox</a> support.</li>
+<li>January 16, 2008 the Sandcastle 2.4.10115 version was released, being the first official non-CTP version of Sandcastle released to the web (RTW). An example graphical user interface (GUI) was provided, including an XSL transformation for Script# and the option to output an <a href="/wiki/ASP.NET" title="ASP.NET">ASP.NET</a> website.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/NDoc" title="NDoc">NDoc</a></li>
+<li><a href="/w/index.php?title=Doc-O-Matic&amp;action=edit&amp;redlink=1" class="new" title="Doc-O-Matic (page does not exist)">Doc-O-Matic</a></li>
+<li><a href="/wiki/VSdocman" title="VSdocman">VSdocman</a></li>
+<li><a href="/wiki/MSBuild" title="MSBuild">MSBuild</a></li>
+<li><a href="/wiki/Windows_PowerShell" title="Windows PowerShell">Windows PowerShell</a></li>
+<li><a href="/wiki/Doxygen" title="Doxygen">Doxygen</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sandcastledocs.com/Wiki%20Pages/Sandcastle%20GUIs%20from%20Community.aspx">Sandcastle GUIs from Community</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.codeplex.com/DocProject/Wiki/View.aspx?title=Sandcastle%20Help">Sandcastle Help</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/archive/2006/07/27/680793.aspx">Announcing Sandcastle: Sandcastle blog</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hanselman.com/blog/SandcastleMicrosoftCTPOfAHelpCHMFileGeneratorOnTheTailsOfTheDeathOfNDoc.aspx">Sandcastle - Microsoft CTP of a Help CHM file generator on the tails of the death of NDoc</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.charliedigital.com/PermaLink,guid,95b2ab68-ba92-413a-b758-2783cde5df9c.aspx">NDoc 2 is Officially Dead</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.codeplex.com/Sandcastle/stats/view">Sandcastle stats</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/archive/2008/06/06/sandcastle-project-removed-from-codeplex.aspx">Sandcastle project removed from Codeplex</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/archive/2008/06/06/sandcastle-project-removed-from-codeplex.aspx">"Sandcastle 'open source'?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-02</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandcastle+%28software%29&amp;rft.btitle=Sandcastle+%27open+source%27%3F&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblogs.msdn.com%2Fsandcastle%2Farchive%2F2008%2F06%2F06%2Fsandcastle-project-removed-from-codeplex.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/archive/2008/07/02/sandcastle-source-code-published-in-codeplex.aspx">"Sandcastle Source Code published in Codeplex"</a>. 2008-07-02<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-02</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASandcastle+%28software%29&amp;rft.btitle=Sandcastle+Source+Code+published+in+Codeplex&amp;rft.date=2008-07-02&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fblogs.msdn.com%2Fsandcastle%2Farchive%2F2008%2F07%2F02%2Fsandcastle-source-code-published-in-codeplex.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<dl>
+<dt>Notes</dt>
+</dl>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/archive/2006/07/29/682830.aspx">Sandcastle blog</a>, the first public version announced.</li>
+<li><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/archive/2006/07/30/683352.aspx">Sandcastle blog</a>, A few FAQs about Sandcastle.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.codeplex.com/Sandcastle/Release/ProjectReleases.aspx">Official download page</a></li>
+<li><a rel="nofollow" class="external text" href="http://blogs.msdn.com/sandcastle/default.aspx">Official Sandcastle blog</a></li>
+<li><a rel="nofollow" class="external text" href="http://msdn2.microsoft.com/en-us/vstudio/bb608422.aspx">Sandcastle documentation on MSDN</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1146
+CPU time usage: 0.144 seconds
+Real time usage: 0.179 seconds
+Preprocessor visited node count: 685/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6893/2097152 bytes
+Template argument size: 654/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 1/500
+Lua time usage: 0.045/10.000 seconds
+Lua memory usage: 1.6 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.137      1 - -total
+ 58.23%   85.095      1 - Template:Infobox_software
+ 54.58%   79.759      1 - Template:Infobox
+ 34.71%   50.727      1 - Template:Reflist
+ 24.49%   35.786      2 - Template:Cite_web
+ 10.87%   15.888      1 - Template:Release_date
+  6.10%    8.916      1 - Template:Url
+  4.39%    6.409      1 - Template:MONTHNAME
+  2.51%    3.674      1 - Template:MONTHNUMBER
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6218046-0!*!0!!en!*!* and timestamp 20150710183319 and revision id 670864916
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sandcastle_(software)&amp;oldid=670864916">https://en.wikipedia.org/w/index.php?title=Sandcastle_(software)&amp;oldid=670864916</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Free_documentation_generators" title="Category:Free documentation generators">Free documentation generators</a></li><li><a href="/wiki/Category:Microsoft_Visual_Studio" title="Category:Microsoft Visual Studio">Microsoft Visual Studio</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sandcastle+%28software%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sandcastle+%28software%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sandcastle_(software)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Sandcastle_(software)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Sandcastle_(software)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sandcastle_(software)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sandcastle_(software)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sandcastle_(software)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sandcastle_(software)&amp;oldid=670864916" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sandcastle_(software)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4049040" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sandcastle_%28software%29&amp;id=670864916" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sandcastle+%28software%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sandcastle+%28software%29&amp;oldid=670864916&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sandcastle_(software)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Sandcastle" title="Sandcastle – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4049040#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 July 2015, at 18:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sandcastle_(software)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1209"});
+}</script>
+	</body>
+</html>

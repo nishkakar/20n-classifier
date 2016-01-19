@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Transformation optics - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Transformation_optics" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Transformation_optics&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Transformation_optics&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Transformation_optics" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Transformation_optics" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Transformation_optics","wgTitle":"Transformation optics","wgCurRevisionId":647726475,"wgRevisionId":647726475,"wgArticleId":27470863,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing cite templates with deprecated parameters","Electromagnetism","Materials science","Metamaterials","Nanomaterials","Optics","Theoretical physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Transformation_optics","wgRelevantArticleId":27470863,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/100px-VFPt_Solenoid_correct2.svg.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7834091"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Transformation_optics skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Transformation optics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Electromagnetism" title="Electromagnetism">Electromagnetism</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:VFPt_Solenoid_correct2.svg" class="image" title="Solenoid"><img alt="Solenoid" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/190px-VFPt_Solenoid_correct2.svg.png" width="190" height="78" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/285px-VFPt_Solenoid_correct2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/VFPt_Solenoid_correct2.svg/380px-VFPt_Solenoid_correct2.svg.png 2x" data-file-width="490" data-file-height="200" /></a></td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li>
+<li><a href="/wiki/Magnetism" title="Magnetism">Magnetism</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Electrostatics" title="Electrostatics">Electrostatics</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Electric_charge" title="Electric charge">Electric charge</a></li>
+<li><a href="/wiki/Static_electricity" title="Static electricity">Static electricity</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electric_field" title="Electric field">Electric field</a></li>
+<li><a href="/wiki/Electrical_conductor" title="Electrical conductor">Conductor</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Insulator_(electricity)" title="Insulator (electricity)">Insulator</a></li>
+<li><a href="/wiki/Triboelectric_effect" title="Triboelectric effect">Triboelectricity</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electrostatic_discharge" title="Electrostatic discharge">Electrostatic discharge</a></li>
+<li><a href="/wiki/Electrostatic_induction" title="Electrostatic induction">Induction</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Coulomb%27s_law" title="Coulomb's law">Coulomb's law</a></li>
+<li><a href="/wiki/Gauss%27s_law" title="Gauss's law">Gauss's law</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electric_flux" title="Electric flux">Electric flux</a>&#160;/ <a href="/wiki/Electric_potential_energy" title="Electric potential energy">potential energy</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electric_dipole_moment" title="Electric dipole moment">Electric dipole moment</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Polarization_density" title="Polarization density">Polarization density</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Magnetostatics" title="Magnetostatics">Magnetostatics</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Amp%C3%A8re%27s_circuital_law" title="Ampère's circuital law">Ampère's law</a></li>
+<li><a href="/wiki/Magnetic_field" title="Magnetic field">Magnetic field</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Magnetization" title="Magnetization">Magnetization</a></li>
+<li><a href="/wiki/Magnetic_flux" title="Magnetic flux">Magnetic flux</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Biot%E2%80%93Savart_law" title="Biot–Savart law">Biot–Savart law</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Magnetic_moment" title="Magnetic moment">Magnetic dipole moment</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Gauss%27s_law_for_magnetism" title="Gauss's law for magnetism">Gauss's law for magnetism</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Classical_electromagnetism" title="Classical electromagnetism">Electrodynamics</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Lorentz_force" title="Lorentz force">Lorentz force law</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electromagnetic_induction" title="Electromagnetic induction">Electromagnetic induction</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electromagnetic_induction" title="Electromagnetic induction">Faraday's law</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Lenz%27s_law" title="Lenz's law">Lenz's law</a></li>
+<li><a href="/wiki/Displacement_current" title="Displacement current">Displacement current</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electromagnetic_field" title="Electromagnetic field">Electromagnetic field</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">Electromagnetic radiation</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Maxwell_stress_tensor" title="Maxwell stress tensor">Maxwell tensor</a></li>
+<li><a href="/wiki/Poynting_vector" title="Poynting vector">Poynting vector</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Li%C3%A9nard%E2%80%93Wiechert_potential" title="Liénard–Wiechert potential">Liénard–Wiechert potential</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Jefimenko%27s_equations" title="Jefimenko's equations">Jefimenko's equations</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Eddy_current" title="Eddy current">Eddy current</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/London_equations" title="London equations">London equations</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Electrical_network" title="Electrical network">Electrical network</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Electric_current" title="Electric current">Electric current</a></li>
+<li><a href="/wiki/Electric_potential" title="Electric potential">Electric potential</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Voltage" title="Voltage">Voltage</a></li>
+<li><a href="/wiki/Electrical_resistance_and_conductance" title="Electrical resistance and conductance">Resistance</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Ohm%27s_law" title="Ohm's law">Ohm's law</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Series_and_parallel_circuits#Series_circuits" title="Series and parallel circuits">Series circuit</a></li>
+<li><a href="/wiki/Series_and_parallel_circuits#Parallel_circuits" title="Series and parallel circuits">Parallel circuit</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Direct_current" title="Direct current">Direct current</a></li>
+<li><a href="/wiki/Alternating_current" title="Alternating current">Alternating current</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Charged_current" title="Charged current">Charged current</a></li>
+<li><a href="/wiki/Neutral_current" title="Neutral current">Neutral current</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electromotive_force" title="Electromotive force">Electromotive force</a></li>
+<li><a href="/wiki/Capacitance" title="Capacitance">Capacitance</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Inductance" title="Inductance">Inductance</a></li>
+<li><a href="/wiki/Electrical_impedance" title="Electrical impedance">Impedance</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Resonator#Electromagnetic" title="Resonator">Resonant cavities</a></li>
+<li><a href="/wiki/Waveguide_(electromagnetism)" title="Waveguide (electromagnetism)">Waveguides</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Covariant_formulation_of_classical_electromagnetism" title="Covariant formulation of classical electromagnetism">Covariant formulation</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Electromagnetic_tensor" title="Electromagnetic tensor">Electromagnetic tensor</a><br />
+(<a href="/wiki/Electromagnetic_stress%E2%80%93energy_tensor" title="Electromagnetic stress–energy tensor">stress–energy tensor</a>)</div>
+<ul>
+<li><a href="/wiki/Four-current" title="Four-current">Four-current</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Electromagnetic_four-potential" title="Electromagnetic four-potential">Electromagnetic four-potential</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Scientists</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Andr%C3%A9-Marie_Amp%C3%A8re" title="André-Marie Ampère">Ampère</a></li>
+<li><a href="/wiki/Charles-Augustin_de_Coulomb" title="Charles-Augustin de Coulomb">Coulomb</a></li>
+<li><a href="/wiki/Michael_Faraday" title="Michael Faraday">Faraday</a></li>
+<li><a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a></li>
+<li><a href="/wiki/Oliver_Heaviside" title="Oliver Heaviside">Heaviside</a></li>
+<li><a href="/wiki/Joseph_Henry" title="Joseph Henry">Henry</a></li>
+<li><a href="/wiki/Heinrich_Hertz" title="Heinrich Hertz">Hertz</a></li>
+<li><a href="/wiki/Hendrik_Lorentz" title="Hendrik Lorentz">Lorentz</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Nikola_Tesla" title="Nikola Tesla">Tesla</a></li>
+<li><a href="/wiki/Alessandro_Volta" title="Alessandro Volta">Volta</a></li>
+<li><a href="/wiki/Wilhelm_Eduard_Weber" title="Wilhelm Eduard Weber">Weber</a></li>
+<li><a href="/wiki/Hans_Christian_%C3%98rsted" title="Hans Christian Ørsted">Ørsted</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electromagnetism" title="Template:Electromagnetism"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electromagnetism" title="Template talk:Electromagnetism"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electromagnetism&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Transformation optics</b> applies <a href="/wiki/Negative_index_metamaterials" title="Negative index metamaterials">metamaterials</a> to produce spatial variations, derived from <a href="/wiki/Coordinate_transformation" title="Coordinate transformation" class="mw-redirect">coordinate transformations</a>, which can direct chosen <a href="/wiki/Bandwidth_(signal_processing)" title="Bandwidth (signal processing)">bandwidths</a> of <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a>. This can allow for the construction of new <a href="/wiki/Metamaterial_cloaking" title="Metamaterial cloaking">composite artificial devices</a>, which probably could not exist without metamaterials and coordinate transformation. Computing power that became available in the late 1990s enables <a href="/wiki/Physical_quantity" title="Physical quantity">prescribed quantitative values</a> for the <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> and <a href="/wiki/Magnetic_permeability" title="Magnetic permeability" class="mw-redirect">permeability</a>, the <a href="/wiki/Constitutive_equation" title="Constitutive equation">constitutive parameters</a>, which produce localized spatial variations. The aggregate value of all the constitutive parameters produces an <a href="/wiki/Effective_medium_theory" title="Effective medium theory" class="mw-redirect">effective value</a>, which yields the intended or desired results.</p>
+<p>Hence, complex artificial materials, known as <a href="/wiki/Metamaterial" title="Metamaterial">metamaterials</a>, are used to produce transformations in optical space.</p>
+<p>The mathematics underpinning transformation optics is similar to the equations that describe how <a href="/wiki/Gravity" title="Gravity">gravity</a> warps space and time, in <a href="/wiki/General_relativity" title="General relativity">general relativity</a>. However, instead of <a href="/wiki/Space_and_time" title="Space and time" class="mw-redirect">space and time</a>, these equations show how light can be directed in a chosen manner, analogous to warping space. For example, one potential application is collecting <a href="/wiki/Sunlight" title="Sunlight">sunlight</a> with novel <a href="/wiki/Solar_cell" title="Solar cell">solar cells</a> by concentrating the light in one area. Hence, a wide array of conventional devices could be markedly enhanced by applying transformation optics.<sup id="cite_ref-AAAS4_1-0" class="reference"><a href="#cite_note-AAAS4-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-AAAS5_2-0" class="reference"><a href="#cite_note-AAAS5-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-dshuring_3-0" class="reference"><a href="#cite_note-dshuring-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-AAASflatplane_4-0" class="reference"><a href="#cite_note-AAASflatplane-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-nano-oct-2008_5-0" class="reference"><a href="#cite_note-nano-oct-2008-5"><span>[</span>5<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Coordinate_transformations"><span class="tocnumber">1</span> <span class="toctext">Coordinate transformations</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Developments_of_transformation_optics"><span class="tocnumber">2</span> <span class="toctext">Developments of transformation optics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Mimicking_celestial_mechanics"><span class="tocnumber">3</span> <span class="toctext">Mimicking celestial mechanics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Producing_black_holes_with_metamaterials"><span class="tocnumber">3.1</span> <span class="toctext">Producing black holes with metamaterials</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Multi-dimensional_universe"><span class="tocnumber">3.2</span> <span class="toctext">Multi-dimensional universe</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Gradient_index_lensing"><span class="tocnumber">4</span> <span class="toctext">Gradient index lensing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Conventional_optical_limitations"><span class="tocnumber">4.1</span> <span class="toctext">Conventional optical limitations</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#GRIN_lenses"><span class="tocnumber">4.2</span> <span class="toctext">GRIN lenses</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Recent_advances"><span class="tocnumber">4.3</span> <span class="toctext">Recent advances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Battlefield_applications"><span class="tocnumber">5</span> <span class="toctext">Battlefield applications</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading_and_general_references"><span class="tocnumber">7</span> <span class="toctext">Further reading and general references</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Coordinate_transformations">Coordinate transformations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=1" title="Edit section: Coordinate transformations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Transformation optics has its beginnings in two research endeavors, and their conclusions. They were published on May 25, 2006, in the same issue of the peer-reviewed journal <a href="/wiki/Science_(journal)" title="Science (journal)">Science</a>. The two papers describe tenable theories on bending or distorting <a href="/wiki/Light" title="Light">light</a> to <a href="/wiki/Electromagnetic_field" title="Electromagnetic field">electromagnetically</a> conceal an object. Both papers notably map the initial configuration of the <a href="/wiki/Electromagnetic_field" title="Electromagnetic field">electromagnetic fields</a> on to a <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">Cartesian</a> mesh. Twisting the Cartesian mesh, in essence, transforms the coordinates of the electromagnetic fields, which in turn conceal a given object. Hence, with these two papers, transformation optics is born.<sup id="cite_ref-nano-oct-2008_5-1" class="reference"><a href="#cite_note-nano-oct-2008-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Transformation optics subscribes to the capability of bending <a href="/wiki/Light" title="Light">light</a>, or <a href="/wiki/Electromagnetic_waves" title="Electromagnetic waves" class="mw-redirect">electromagnetic waves</a> and <a href="/wiki/Energy" title="Energy">energy</a>, in any preferred or desired fashion, for a desired application. <a href="/wiki/Maxwell%27s_equations" title="Maxwell's equations">Maxwell's equations</a> do not vary even though <a href="/wiki/Coordinate_system" title="Coordinate system">coordinates</a> transform. Instead values of chosen parameters of materials "transform", or alter, during a certain time period. Transformation optics developed from the capability to choose which parameters for a given material, known as a metamaterial. Hence, since Maxwell's equations retain the same form, it is the successive values of <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> and <a href="/wiki/Permeability_(electromagnetism)" title="Permeability (electromagnetism)">permeability</a> that change, over time. Permittivity and permeability are in a sense responses to the <a href="/wiki/Electric_field" title="Electric field">electric</a> and <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic fields</a> of a radiated light source respectively, among other descriptions. The precise degree of electric and magnetic response can be controlled in a metamaterial, point by point. Since so much control can be maintained over the responses of the material, this leads to an enhanced and highly flexible <a href="/wiki/Gradient-index_optics" title="Gradient-index optics">gradient-index</a> material. Conventionally predetermined <a href="/wiki/Refractive_index" title="Refractive index">refractive index</a> of ordinary materials become independent spatial gradients, that can be controlled at will. Therefore, transformation optics is a new method for creating novel and unique <a href="/wiki/Optical_device" title="Optical device" class="mw-redirect">optical devices</a>.<sup id="cite_ref-AAAS4_1-1" class="reference"><a href="#cite_note-AAAS4-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-AAAS5_2-1" class="reference"><a href="#cite_note-AAAS5-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Pendry-imperial-C_6-0" class="reference"><a href="#cite_note-Pendry-imperial-C-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Smith-Duke_7-0" class="reference"><a href="#cite_note-Smith-Duke-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Transformation optics can go beyond cloaking (mimic celestial mechanics) because its control of the trajectory and path of light is highly effective. Transformation optics is a field of <a href="/wiki/Optical" title="Optical" class="mw-redirect">optical</a> and <a href="/wiki/Material_engineering" title="Material engineering" class="mw-redirect">material engineering</a> and <a href="/wiki/Science" title="Science">science</a> embracing <a href="/wiki/Nanophotonics" title="Nanophotonics">nanophotonics</a>, <a href="/wiki/Plasmon" title="Plasmon">plasmonics</a>, and optical <a href="/wiki/Metamaterials" title="Metamaterials" class="mw-redirect">metamaterials</a>.</p>
+<h2><span class="mw-headline" id="Developments_of_transformation_optics">Developments of transformation optics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=2" title="Edit section: Developments of transformation optics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Developments in this field focus on advances in <a href="/wiki/Research" title="Research">research</a> of transformation optics. Transformation optics is the foundation for exploring a diverse set of <a href="/wiki/Theoretical" title="Theoretical" class="mw-redirect">theoretical</a>, <a href="/wiki/Numerical_simulation" title="Numerical simulation" class="mw-redirect">numerical</a>, and experimental developments, involving the perspectives of the <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Engineering" title="Engineering">engineering communities</a>. The multi-disciplinary perspectives for inquiry and designing of materials develop understanding of their behaviors, properties, and potential applications for this field.</p>
+<p>If a coordinate transformation can be derived or described, a ray of light (in the optical limit) will follow lines of a constant coordinate. There are constraints on the transformations, as listed in the references. In general, however, a particular goal can be accomplished using more than one transformation. The classic cylindrical cloak (first both simulated and demonstrated experimentally) can be created with many transformations. The simplest, and most often used, is a linear coordinate mapping in the radial coordinate. There is significant ongoing research into determining advantages and disadvantages of particular types of transformations, and what attributes are desirable for realistic transformations. One example of this is the broadband carpet cloak: the transformation used was quasi-conformal. Such a transformation can yield a cloak that uses non-extreme values of <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> and <a href="/wiki/Permeability_(electromagnetism)" title="Permeability (electromagnetism)">permeability</a>, unlike the classic cylindrical cloak, which required some parameters to vary towards infinity at the inner radius of the cloak.</p>
+<p>General coordinate transformations can be derived which compress or expand space, bend or twist space, or even change the topology (e.g. by mimicking a <a href="/wiki/Wormhole" title="Wormhole">wormhole</a>). Much current interest involves designing <a href="/wiki/Invisibility" title="Invisibility">invisibility</a> <a href="/wiki/Theories_of_cloaking" title="Theories of cloaking">cloaks</a>, <a href="/wiki/Theories_of_cloaking#Space-time_cloaking_.28Event_cloaking.29" title="Theories of cloaking">event cloaks</a>, field concentrators, or beam-bending <a href="/wiki/Waveguides" title="Waveguides" class="mw-redirect">waveguides</a>.</p>
+<h2><span class="mw-headline" id="Mimicking_celestial_mechanics">Mimicking celestial mechanics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=3" title="Edit section: Mimicking celestial mechanics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The interactions of <a href="/wiki/Light" title="Light">light</a> and <a href="/wiki/Matter" title="Matter">matter</a> with <a href="/wiki/Spacetime" title="Spacetime">spacetime</a>, as predicted by <a href="/wiki/General_relativity" title="General relativity">general relativity</a>, can be studied using the new type of <a href="/wiki/Metamaterial_cloaking" title="Metamaterial cloaking">artificial optical materials</a> that feature extraordinary abilities to bend light (which is actually <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a>). This research creates a link between the newly emerging field of artificial <a href="/wiki/Photonic_metamaterials" title="Photonic metamaterials" class="mw-redirect">optical metamaterials</a> to that of <a href="/wiki/Celestial_mechanics" title="Celestial mechanics">celestial mechanics</a>, thus opening a new possibility to investigate <a href="/wiki/Astrophysics" title="Astrophysics">astronomical phenomena</a> in a laboratory setting. The recently introduced, new class, of specially designed optical media can mimic the <a href="/wiki/Periodic_function" title="Periodic function">periodic</a>, <a href="/wiki/Quasi-periodic" title="Quasi-periodic" class="mw-redirect">quasi-periodic</a> and <a href="/wiki/Chaos_theory" title="Chaos theory">chaotic motions</a> observed in <a href="/wiki/Celestial_objects" title="Celestial objects" class="mw-redirect">celestial objects</a> that have been subjected to <a href="/wiki/Gravitational_field" title="Gravitational field">gravitational fields</a>.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-0" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-BerkleyJul09_9-0" class="reference"><a href="#cite_note-BerkleyJul09-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Leonhardt-GR_10-0" class="reference"><a href="#cite_note-Leonhardt-GR-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Hence, a new class of metamaterials introduced with the nomenclature “continuous-index photon traps” (CIPTs). CIPTz have applications as optical cavities. As such, CIPTs can control, slow and trap light in a manner similar to celestial phenomena such as <a href="/wiki/Black_hole" title="Black hole">black holes</a>, <a href="/wiki/Strange_attractor" title="Strange attractor" class="mw-redirect">strange attractors</a>, and <a href="/wiki/Gravitational_lense" title="Gravitational lense" class="mw-redirect">gravitational lenses</a>.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-1" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-BerkleyJul09_9-1" class="reference"><a href="#cite_note-BerkleyJul09-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>A composite of air and the dielectric Gallium Indium Arsenide Phosphide (<a href="/w/index.php?title=GaInAsP&amp;action=edit&amp;redlink=1" class="new" title="GaInAsP (page does not exist)">GaInAsP</a>), operated in the <a href="/wiki/Infrared" title="Infrared">infrared</a> spectral range and featured a high <a href="/wiki/Refractive_index" title="Refractive index">refractive index</a> with low absorptions.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-2" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-celestial-mm_11-0" class="reference"><a href="#cite_note-celestial-mm-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>This opens an avenue to investigate light phenomena that imitates <a href="/wiki/Orbital_motion" title="Orbital motion" class="mw-redirect">orbital motion</a>, strange attractors and <a href="/wiki/Chaos_theory" title="Chaos theory">chaos</a> in a controlled laboratory environment by merging the study of <a href="/wiki/Photonic_metamaterials" title="Photonic metamaterials" class="mw-redirect">optical metamaterials</a> with classical celestial mechanics.<sup id="cite_ref-BerkleyJul09_9-2" class="reference"><a href="#cite_note-BerkleyJul09-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>If a <a href="/wiki/Metamaterial" title="Metamaterial">metamaterial</a> could be produced that did not have high intrinsic loss and a narrow <a href="/wiki/Frequency" title="Frequency">frequency</a> range of operation then it could be employed as a type of <a href="/wiki/Transmission_media" title="Transmission media" class="mw-redirect">media</a> to simulate light motion in a curved spacetime <a href="/wiki/Vacuum" title="Vacuum">vacuum</a>. Such a proposal is brought forward, and metamaterials become prospective media in this type of study. The classical optical-mechanical analogy renders the possibility for the study of light propagation in <a href="/wiki/Homogeneity_(physics)" title="Homogeneity (physics)">homogeneous</a> media as an accurate analogy to the motion of massive bodies, and light, in gravitational potentials. A direct mapping of the celestial phenomena is accomplished by observing <a href="/wiki/Photon" title="Photon">photon</a> motion in a controlled laboratory environment. The materials could facilitate periodic, quasi-periodic and chaotic light motion inherent to celestial objects subjected to complex gravitational fields.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-3" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Twisting the <a href="/wiki/Photonic_metamaterials" title="Photonic metamaterials" class="mw-redirect">optical metamaterial</a> effects its "space" into new coordinates. The light that travels in real space will be curved in the twisted space, as applied in transformational optics. This effect is analogous to starlight when it moves through a closer <a href="/wiki/Gravitational_field" title="Gravitational field">gravitational field</a> and experiences curved spacetime or a <a href="/wiki/Gravitational_lensing" title="Gravitational lensing" class="mw-redirect">gravitational lensing</a> effect. This analogue between classic <a href="/wiki/Electromagnetism" title="Electromagnetism">electromagnetism</a> and general relativity, shows the potential of optical metamaterials to study relativity phenomena such as the gravitational lens.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-4" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-celestial-mm_11-1" class="reference"><a href="#cite_note-celestial-mm-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>Observations of such celestial phenomena by astronomers can sometimes take a century of waiting. Chaos in dynamic systems is observed in areas as diverse as molecular motion, population dynamics and optics. In particular, a planet around a star can undergo chaotic motion if a perturbation, such as another large planet, is present. However, owing to the large spatial distances between the celestial bodies, and the long periods involved in the study of their dynamics, the direct observation of chaotic planetary motion has been a challenge. The use of the optical-mechanical analogy may enable such studies to be accomplished in a bench-top laboratory setting at any prescribed time.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-5" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-celestial-mm_11-2" class="reference"><a href="#cite_note-celestial-mm-11"><span>[</span>11<span>]</span></a></sup></p>
+<p>The study also points toward the design of <i>novel optical cavities</i> and <i>photon traps</i> for application in microscopic devices and lasers systems.<sup id="cite_ref-Genov-Nat-Phys-5-2009_8-6" class="reference"><a href="#cite_note-Genov-Nat-Phys-5-2009-8"><span>[</span>8<span>]</span></a></sup></p>
+<ul>
+<li>For related information see:<a href="/wiki/Chaos_theory" title="Chaos theory">Chaos theory</a> and <a href="/wiki/General_relativity" title="General relativity">General relativity</a></li>
+</ul>
+<h3><span class="mw-headline" id="Producing_black_holes_with_metamaterials">Producing black holes with metamaterials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=4" title="Edit section: Producing black holes with metamaterials">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Matter" title="Matter">Matter</a> propagating in a curved <a href="/wiki/Spacetime" title="Spacetime">spacetime</a> is similar to the <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic</a> wave propagation in a <a href="/wiki/Curved_space" title="Curved space">curved space</a> and in an in <a href="/wiki/Homogeneity_(physics)" title="Homogeneity (physics)">homogeneous</a> metamaterial, as stated in the previous section. Hence a <a href="/wiki/Black_hole" title="Black hole">black hole</a> can possibly be simulated using electromagnetic fields and metamaterials. In July 2009 a <a href="/wiki/Metamaterial" title="Metamaterial">metamaterial</a> structure forming an effective black hole was theorized, and numerical simulations showed a highly efficient light <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorption</a>.<sup id="cite_ref-Leonhardt-GR_10-1" class="reference"><a href="#cite_note-Leonhardt-GR-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>The first experimental demonstration of electromagnetic black hole at <a href="/wiki/Microwave" title="Microwave">microwave</a> frequencies occurred in October 2009. The proposed black hole was composed of non-resonant, and resonant, metamaterial structures, which can absorb electromagnetic waves efficiently coming from all directions due to the local control of <a href="/wiki/Electromagnetic_field" title="Electromagnetic field">electromagnetic fields</a>. It was constructed of a thin <a href="/wiki/Cylinder_(geometry)" title="Cylinder (geometry)">cylinder</a> at 21.6 centimeters in <a href="/wiki/Diameter" title="Diameter">diameter</a> comprising 60 concentric rings of <a href="/wiki/Metamaterials" title="Metamaterials" class="mw-redirect">metamaterials</a>. This structure created a gradient <a href="/wiki/Index_of_refraction" title="Index of refraction" class="mw-redirect">index of refraction</a>, necessary for bending light in this way. However, it was characterized as being artificially inferior substitute for a real <a href="/wiki/Black_hole" title="Black hole">black hole</a>. The characterization was justified by an abosorption of only 80% in the microwave range, and that it has no internal <a href="/wiki/Source_of_energy" title="Source of energy" class="mw-redirect">source of energy</a>. It is singularly a light absorber. The light absorption capability could be beneficial if it could be adapted to technologies such as solar cells. However, the device is limited to the microwave range.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-Salad-plate_14-0" class="reference"><a href="#cite_note-Salad-plate-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>Also in 2009, transformation optics were employed to mimic a black hole of <a href="/wiki/Schwarzschild_metric" title="Schwarzschild metric">Schwarzschild form</a>. Similar properties of <a href="/wiki/Photon_sphere" title="Photon sphere">photon sphere</a> were also found numerically for the metamaterial black hole. Several reduced versions of the black hole systems were proposed for easier implementations.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>MIT computer simulations by Fung along with lab experiments are designing a metamaterial with a multilayer sawtooth structure that slows and absorbs light over a wide range of wavelength frequencies, and at a wide range of incident angles, at 95% efficiency. This has an extremely wide window for colors of light.</p>
+<h3><span class="mw-headline" id="Multi-dimensional_universe">Multi-dimensional universe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=5" title="Edit section: Multi-dimensional universe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Engineering optical space with metamaterials could be useful to reproduce an accurate laboratory model of the physical multiverse. "<i>This ‘metamaterial landscape’ may include regions in which one or two spatial dimensions are compactified.</i>" Metamaterial models appear to be useful for non-trivial models such as 3D de Sitter space with one compactified dimension, 2D de Sitter space with two compactified dimensions, 4D de Sitter dS4, and anti-de Sitter AdS4 spaces.<sup id="cite_ref-Leonhardt-GR_10-2" class="reference"><a href="#cite_note-Leonhardt-GR-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-Igor-multi_16-0" class="reference"><a href="#cite_note-Igor-multi-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Gradient_index_lensing">Gradient index lensing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=6" title="Edit section: Gradient index lensing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Transformation optics is employed to increase capabilities of gradient index lenses.</p>
+<h3><span class="mw-headline" id="Conventional_optical_limitations">Conventional optical limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=7" title="Edit section: Conventional optical limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Optical elements (lenses) perform a variety of functions, ranging from image formation, to light projection or light collection. The performance of these systems is frequently limited by their optical elements, which dominate system weight and cost, and force tradeoffs between system parameters such as focal length, field of view (or acceptance angle), resolution, and range.<sup id="cite_ref-STO-grin_17-0" class="reference"><a href="#cite_note-STO-grin-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>Conventional lenses are ultimately limited by geometry. Available design parameters are a single index of refraction (n) per lens element, variations in the element surface profile, including continuous surfaces (lens curvature) and/or discontinuous surfaces (diffractive optics). Light rays undergo refraction at the surfaces of each element, but travel in straight lines within the lens. Since the design space of conventional optics is limited to a combination of refractive index and surface structure, correcting for aberrations (for example through the use of achromatic or diffractive optics) leads to large, heavy, complex designs, and/or greater losses, lower image quality, and manufacturing difficulties.<sup id="cite_ref-STO-grin_17-1" class="reference"><a href="#cite_note-STO-grin-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="GRIN_lenses">GRIN lenses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=8" title="Edit section: GRIN lenses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Gradient index lenses (or GRIN lenses) as the name implies, are optical elements whose index of refraction varies within the lens. Control of the internal refraction allows the steering of light in curved trajectories through the lens. GRIN optics thus increase the design space to include the entire volume of the optical elements, providing the potential for dramatically reduced size, weight, element count, and assembly cost, as well as opening up new space to trade between performance parameters. However, past efforts to make large aperture GRIN lenses have had limited success due to restricted refractive index change, poor control over index profiles, and/or severe limitations in lens diameter.<sup id="cite_ref-STO-grin_17-2" class="reference"><a href="#cite_note-STO-grin-17"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Recent_advances">Recent advances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=9" title="Edit section: Recent advances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Recent steps forward in material science have led to at least one method for developing large (&gt;10&#160;mm) GRIN lenses with 3-dimensional gradient indexes. There is a possibility of adding expanded deformation capabilities to the GRIN lenses. This translates into controlled expansion, contraction, and shear (for variable focus lenses or asymmetric optical variations). These capabilities have been demonstrated. Additionally, recent advances in transformation optics and computational power provide a unique opportunity to design, assemble and fabricate elements in order to advance the utility and availability of GRIN lenses across a wide range of optics-dependent systems, defined by needs. A possible future capability could be to further advance lens design methods and tools, which are coupled to enlarged fabrication processes.<sup id="cite_ref-STO-grin_17-3" class="reference"><a href="#cite_note-STO-grin-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Battlefield_applications">Battlefield applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=10" title="Edit section: Battlefield applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Transformation optics has potential applications for the battlefield. The versatile properties of metamaterials can be tailored to fit almost any practical need, and transformation optics shows that space for light can be bent in almost any arbitrary way. This is perceived as providing new capabilities to soldiers in the battlefield. For battlefield scenarios benefits from metamaterials have both short term and long term impacts.<sup id="cite_ref-army-ro-to-kyzer_18-0" class="reference"><a href="#cite_note-army-ro-to-kyzer-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>For example, determining whether a cloud in the distance is harmless or an aerosol of enemy chemical or biological warfare is very difficult to assess quickly. However, with the new metamaterials being developed, the ability exists to see things smaller than the wavelength of light - something which has yet to be achieved in the <a href="/wiki/Far_field" title="Far field" class="mw-redirect">far field</a>. Utilizing metamaterials in the creation of a new lens may allow soldiers to be able to see pathogens and viruses that are impossible to detect with any visual device.<sup id="cite_ref-army-ro-to-kyzer_18-1" class="reference"><a href="#cite_note-army-ro-to-kyzer-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>Harnessing <a href="/wiki/Subwavelength" title="Subwavelength" class="mw-redirect">subwavelength</a> capabilities then allow for other advancements which appear to be beyond the battlefied. All kinds of materials could be manufactured with nano-manufacturing, which could go into electronic and optical devices from night vision goggles to distance sensors to other kinds of sensors. Longer term views include the possibility for cloaking materials, which would provide "invisibility" by redirecting light around a cylindrical shape.<sup id="cite_ref-army-ro-to-kyzer_18-2" class="reference"><a href="#cite_note-army-ro-to-kyzer-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Acoustic_metamaterials" title="Acoustic metamaterials">Acoustic metamaterials</a></li>
+<li><a href="/wiki/Chirality_(electromagnetism)" title="Chirality (electromagnetism)">Chirality (electromagnetism)</a></li>
+<li><a href="/wiki/Metamaterial" title="Metamaterial">Metamaterial</a></li>
+<li><a href="/wiki/Metamaterial_absorber" title="Metamaterial absorber">Metamaterial absorber</a></li>
+<li><a href="/wiki/Metamaterial_antennas" title="Metamaterial antennas" class="mw-redirect">Metamaterial antennas</a></li>
+<li><a href="/wiki/Metamaterial_cloaking" title="Metamaterial cloaking">Metamaterial cloaking</a></li>
+<li><a href="/wiki/Negative_index_metamaterials" title="Negative index metamaterials">Negative index metamaterials</a></li>
+<li><a href="/wiki/Nonlinear_metamaterials" title="Nonlinear metamaterials">Nonlinear metamaterials</a></li>
+<li><a href="/wiki/Photonic_metamaterials" title="Photonic metamaterials" class="mw-redirect">Photonic metamaterials</a></li>
+<li><a href="/wiki/Photonic_crystal" title="Photonic crystal">Photonic crystal</a></li>
+<li><a href="/wiki/Seismic_metamaterials" title="Seismic metamaterials">Seismic metamaterials</a></li>
+<li><a href="/wiki/Split-ring_resonator" title="Split-ring resonator">Split-ring resonator</a></li>
+<li><a href="/wiki/Superlens" title="Superlens">Superlens</a></li>
+<li><a href="/wiki/Tunable_metamaterials" title="Tunable metamaterials">Tunable metamaterials</a></li>
+<li><a href="/wiki/Theories_of_cloaking" title="Theories of cloaking">Theories of cloaking</a></li>
+</ul>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd>
+<dl>
+<dd><b>Books</b></dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li><a href="/wiki/Metamaterials_Handbook" title="Metamaterials Handbook">Metamaterials Handbook</a></li>
+<li><a href="/wiki/Metamaterials:_Physics_and_Engineering_Explorations" title="Metamaterials: Physics and Engineering Explorations">Metamaterials: Physics and Engineering Explorations</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Further_reading_and_general_references">Further reading and general references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=12" title="Edit section: Further reading and general references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://emlab.utep.edu/ee5390em21.htm">Transformation Electromagnetics</a> (see and listen to Lecture 16)</li>
+<li><span class="citation web">Hecht, Jeff; Opto IQ (Oct 1, 2009). <a rel="nofollow" class="external text" href="http://www.optoiq.com/index/photonics-technologies-applications/lfw-display/lfw-article-display/369695/articles/laser-focus-world/volume-45/issue-10/features/photonic-frontiers-metamaterials-and-transformation-optics-newest-metamaterials-promise-customized-optical-properties.html">"Photonic Frontiers: Metamaterials and Transformation Optics"</a>. PennWell Corporation<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-10</span></span>. <q>Newest metamaterials promise customized optical properties</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aufirst=Jeff&amp;rft.au=Hecht%2C+Jeff&amp;rft.aulast=Hecht&amp;rft.au=Opto+IQ&amp;rft.btitle=Photonic+Frontiers%3A+Metamaterials+and+Transformation+Optics&amp;rft.date=Oct+1%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.optoiq.com%2Findex%2Fphotonics-technologies-applications%2Flfw-display%2Flfw-article-display%2F369695%2Farticles%2Flaser-focus-world%2Fvolume-45%2Fissue-10%2Ffeatures%2Fphotonic-frontiers-metamaterials-and-transformation-optics-newest-metamaterials-promise-customized-optical-properties.html&amp;rft.pub=PennWell+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation web">BioScience Technology (Oct 1, 2009). <a rel="nofollow" class="external text" href="http://www.biosciencetechnology.com/News/Feeds/2010/11/products-chemicals-and-reagents-artificial-black-holes-made-with-metamaterials/">"Artificial black holes made with metamaterials"</a>. Advantage Business Media<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.au=BioScience+Technology&amp;rft.aulast=BioScience+Technology&amp;rft.btitle=Artificial+black+holes+made+with+metamaterials&amp;rft.date=Oct+1%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.biosciencetechnology.com%2FNews%2FFeeds%2F2010%2F11%2Fproducts-chemicals-and-reagents-artificial-black-holes-made-with-metamaterials%2F&amp;rft.pub=Advantage+Business+Media&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation web">Pendry, John (2009). <a rel="nofollow" class="external text" href="http://www.loa.espci.fr/cargese2009/Cargese2009_Pendry.pdf">"Metamaterials &amp; Transformation Optics"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Imperial_College" title="Imperial College" class="mw-redirect">Imperial College</a> - The Blackett Laboratory<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-03-10</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aufirst=John&amp;rft.aulast=Pendry&amp;rft.au=Pendry%2C+John&amp;rft.btitle=Metamaterials+%26+Transformation+Optics&amp;rft.date=2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.loa.espci.fr%2Fcargese2009%2FCargese2009_Pendry.pdf&amp;rft.pub=Imperial+College+-+The+Blackett+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Chen, Huanyang; Chan, C. T.; Sheng, Ping (2010). "Transformation optics and metamaterials". <i><a href="/wiki/Nature_Materials" title="Nature Materials">Nature Materials</a></i> <b>9</b> (5): 387–96. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010NatMa...9..387C">2010NatMa...9..387C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnmat2743">10.1038/nmat2743</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20414221">20414221</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Transformation+optics+and+metamaterials&amp;rft.au=Chan%2C+C.+T.&amp;rft.au=Chen%2C+Huanyang&amp;rft.aufirst=Huanyang&amp;rft.aulast=Chen&amp;rft.au=Sheng%2C+Ping&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2010NatMa...9..387C&amp;rft_id=info%3Adoi%2F10.1038%2Fnmat2743&amp;rft_id=info%3Apmid%2F20414221&amp;rft.issue=5&amp;rft.jtitle=Nature+Materials&amp;rft.pages=387-96&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation arxiv">Shyroki, Dzmitry M. (2003). "Note on transformation to general curvilinear coordinates for Maxwell's curl equations". <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/physics/0307029">physics/0307029</a> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/physics.optics">physics.optics</a>].</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Note+on+transformation+to+general+curvilinear+coordinates+for+Maxwell%27s+curl+equations&amp;rft.aufirst=Dzmitry+M.&amp;rft.aulast=Shyroki&amp;rft.au=Shyroki%2C+Dzmitry+M.&amp;rft.date=2003&amp;rft.genre=preprint&amp;rft_id=info%3Aarxiv%2Fphysics%2F0307029&amp;rft.jtitle=arXiv&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Ward, A. J.; Pendry, J. B. (1996). "Refraction and geometry in Maxwell's equations". <i><a href="/wiki/Journal_of_Modern_Optics" title="Journal of Modern Optics">Journal of Modern Optics</a></i> <b>43</b> (4): 773. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1996JMOp...43..773W">1996JMOp...43..773W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F09500349608232782">10.1080/09500349608232782</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Refraction+and+geometry+in+Maxwell%27s+equations&amp;rft.aufirst=A.+J.&amp;rft.aulast=Ward&amp;rft.au=Pendry%2C+J.+B.&amp;rft.au=Ward%2C+A.+J.&amp;rft.date=1996&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1996JMOp...43..773W&amp;rft_id=info%3Adoi%2F10.1080%2F09500349608232782&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Modern+Optics&amp;rft.pages=773&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=43" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Leonhardt, Ulf; Philbin, Thomas G. (2009). "Chapter 2 Transformation Optics and the Geometry of Light". <i><a href="/wiki/Progress_in_Optics" title="Progress in Optics">Progress in Optics</a></i>. Progress in Optics <b>53</b>: 69. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0805.4778">0805.4778</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0079-6638%2808%2900202-3">10.1016/S0079-6638(08)00202-3</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780444533609" title="Special:BookSources/9780444533609">9780444533609</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Chapter+2+Transformation+Optics+and+the+Geometry+of+Light&amp;rft.aufirst=Ulf&amp;rft.aulast=Leonhardt&amp;rft.au=Leonhardt%2C+Ulf&amp;rft.au=Philbin%2C+Thomas+G.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0805.4778&amp;rft_id=info%3Adoi%2F10.1016%2FS0079-6638%2808%2900202-3&amp;rft.isbn=9780444533609&amp;rft.jtitle=Progress+in+Optics&amp;rft.pages=69&amp;rft.series=Progress+in+Optics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=53" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Chen, Huanyang (2009). "Transformation optics in orthogonal coordinates". <i><a href="/wiki/Journal_of_Optics_A" title="Journal of Optics A" class="mw-redirect">Journal of Optics A</a></i> <b>11</b> (7): 075102. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0812.4008">0812.4008</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009JOptA..11g5102C">2009JOptA..11g5102C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F1464-4258%2F11%2F7%2F075102">10.1088/1464-4258/11/7/075102</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Transformation+optics+in+orthogonal+coordinates&amp;rft.au=Chen%2C+Huanyang&amp;rft.aufirst=Huanyang&amp;rft.aulast=Chen&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0812.4008&amp;rft_id=info%3Abibcode%2F2009JOptA..11g5102C&amp;rft_id=info%3Adoi%2F10.1088%2F1464-4258%2F11%2F7%2F075102&amp;rft.issue=7&amp;rft.jtitle=Journal+of+Optics+A&amp;rft.pages=075102&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Nicolet, André; Zolla, Frédéric; Geuzaine, Christophe (2010). "Transformation Optics, Generalized Cloaking and Superlenses". <i><a href="/wiki/IEEE_Transactions_on_Magnetics" title="IEEE Transactions on Magnetics">IEEE Transactions on Magnetics</a></i> <b>46</b> (8): 2975. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/1002.1644">1002.1644</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010ITM....46.2975N">2010ITM....46.2975N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1109%2FTMAG.2010.2043073">10.1109/TMAG.2010.2043073</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Transformation+Optics%2C+Generalized+Cloaking+and+Superlenses&amp;rft.aufirst=Andr%C3%A9&amp;rft.au=Geuzaine%2C+Christophe&amp;rft.aulast=Nicolet&amp;rft.au=Nicolet%2C+Andr%C3%A9&amp;rft.au=Zolla%2C+Fr%C3%A9d%C3%A9ric&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1002.1644&amp;rft_id=info%3Abibcode%2F2010ITM....46.2975N&amp;rft_id=info%3Adoi%2F10.1109%2FTMAG.2010.2043073&amp;rft.issue=8&amp;rft.jtitle=IEEE+Transactions+on+Magnetics&amp;rft.pages=2975&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=46" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Cai, Wenshan; <a href="/wiki/Vladimir_Shalaev" title="Vladimir Shalaev">Vladimir Shalaev</a> (November 2009). <a rel="nofollow" class="external text" href="http://books.google.com/?id=q8gDF2pbKXsC&amp;pg=PA159&amp;dq=Transformation+optics#v=onepage&amp;q=Transformation%20optics&amp;f=false"><i>Optical Metamaterials: Fundamentals and Applications</i></a>. New York: <a href="/wiki/Springer-Verlag" title="Springer-Verlag" class="mw-redirect">Springer-Verlag</a>. pp.&#160;Chapter 9. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4419-1150-6" title="Special:BookSources/978-1-4419-1150-6">978-1-4419-1150-6</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.au=Cai%2C+Wenshan&amp;rft.aufirst=Wenshan&amp;rft.aulast=Cai&amp;rft.au=Vladimir+Shalaev&amp;rft.btitle=Optical+Metamaterials%3A+Fundamentals+and+Applications&amp;rft.date=November+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3Dq8gDF2pbKXsC%26pg%3DPA159%26dq%3DTransformation%2Boptics%23v%3Donepage%26q%3DTransformation%2520optics%26f%3Dfalse&amp;rft.isbn=978-1-4419-1150-6&amp;rft.pages=Chapter+9&amp;rft.place=New+York&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Transformation_optics&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-AAAS4-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-AAAS4_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AAAS4_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Pendry, J.B.; Schurig, D.; Smith, D. R. (2006). "Controlling Electromagnetic Electromagnetic Fields". <i><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a></i> <b>312</b> (5514): 1780–1782. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006Sci...312.1780P">2006Sci...312.1780P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1125907">10.1126/science.1125907</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16728597">16728597</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Controlling+Electromagnetic+Electromagnetic+Fields&amp;rft.aufirst=J.B.&amp;rft.aulast=Pendry&amp;rft.au=Pendry%2C+J.B.&amp;rft.au=Schurig%2C+D.&amp;rft.au=Smith%2C+D.+R.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006Sci...312.1780P&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1125907&amp;rft_id=info%3Apmid%2F16728597&amp;rft.issue=5514&amp;rft.jtitle=Science&amp;rft.pages=1780-1782&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=312" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AAAS5-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-AAAS5_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AAAS5_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Leonhardt, Ulf (Jun 2006). "Optical Conformal Mapping". <i><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a></i> <b>312</b> (5781): 1777–1780. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006Sci...312.1777L">2006Sci...312.1777L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1126493">10.1126/science.1126493</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16728596">16728596</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Optical+Conformal+Mapping&amp;rft.aufirst=Ulf&amp;rft.aulast=Leonhardt&amp;rft.au=Leonhardt%2C+Ulf&amp;rft.date=Jun+2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006Sci...312.1777L&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1126493&amp;rft_id=info%3Apmid%2F16728596&amp;rft.issue=5781&amp;rft.jtitle=Science&amp;rft.pages=1777-1780&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=312" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dshuring-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dshuring_3-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Schurig,, D. et al. (2006). "Metamaterial Electromagnetic Cloak at Microwave Frequencies". <i>Science</i> <b>314</b> (5801): 977–980. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006Sci...314..977S">2006Sci...314..977S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1133628">10.1126/science.1133628</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17053110">17053110</a>. <q>A recently published theory has suggested that a cloak of invisibility is in principle possible, at least over a narrow frequency band. We describe here the first practical realization of such a cloak.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Metamaterial+Electromagnetic+Cloak+at+Microwave+Frequencies&amp;rft.au=Cummer%2C+S.+A.&amp;rft.aufirst=D.&amp;rft.au=Justice%2C+B.+J.&amp;rft.aulast=Schurig%2C&amp;rft.au=Mock%2C+J.+J.&amp;rft.au=Pendry%2C+J.+B.&amp;rft.au=Schurig%2C%2C+D.&amp;rft.au=Smith%2C+D.+R.&amp;rft.au=Starr%2C+A.+F.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2006Sci...314..977S&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1133628&amp;rft_id=info%3Apmid%2F17053110&amp;rft.issue=5801&amp;rft.jtitle=Science&amp;rft.pages=977-980&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=314" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AAASflatplane-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AAASflatplane_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">R. Liu, R.; C. Ji; J. J. Mock; J. Y. Chin; T. J. Cui; D. R. Smith (January 16, 2009). "Broadband Ground-Plane Cloak". <i><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a></i> <b>323</b> (5912): 366–369. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009Sci...323..366L">2009Sci...323..366L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1166949">10.1126/science.1166949</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19150842">19150842</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Broadband+Ground-Plane+Cloak&amp;rft.au=C.+Ji&amp;rft.au=D.+R.+Smith&amp;rft.aufirst=R.&amp;rft.au=J.+J.+Mock&amp;rft.au=J.+Y.+Chin&amp;rft.aulast=R.+Liu&amp;rft.au=R.+Liu%2C+R.&amp;rft.au=T.+J.+Cui&amp;rft.date=January+16%2C+2009&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2009Sci...323..366L&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1166949&amp;rft_id=info%3Apmid%2F19150842&amp;rft.issue=5912&amp;rft.jtitle=Science&amp;rft.pages=366-369&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=323" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nano-oct-2008-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nano-oct-2008_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nano-oct-2008_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.azonano.com/news.asp?newsID=8164">"Transformation Optics May Usher in a Host of Radical Advances"</a>. <i><a href="/w/index.php?title=Azonano_Nanotechnology&amp;action=edit&amp;redlink=1" class="new" title="Azonano Nanotechnology (page does not exist)">Azonano Nanotechnology</a></i>. October 17, 2008. pp.&#160;1 of 1<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-24</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Transformation+Optics+May+Usher+in+a+Host+of+Radical+Advances&amp;rft.date=October+17%2C+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.azonano.com%2Fnews.asp%3FnewsID%3D8164&amp;rft.jtitle=Azonano+Nanotechnology&amp;rft.pages=1+of+1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Pendry-imperial-C-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pendry-imperial-C_6-0">^</a></b></span> <span class="reference-text"><span class="citation web">Pendry, Sir John (2006). <a rel="nofollow" class="external text" href="http://www.cmth.ph.ic.ac.uk/photonics/Newphotonics/TransOptics.html">"Transformation Optics"</a>. Imperial College, London<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-24</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aufirst=Sir+John&amp;rft.aulast=Pendry&amp;rft.au=Pendry%2C+Sir+John&amp;rft.btitle=Transformation+Optics&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cmth.ph.ic.ac.uk%2Fphotonics%2FNewphotonics%2FTransOptics.html&amp;rft.pub=Imperial+College%2C+London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Smith-Duke-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Smith-Duke_7-0">^</a></b></span> <span class="reference-text"><span class="citation web">Schurig, David; David Smith and Steve Cummer (2008). <a rel="nofollow" class="external text" href="http://www.metamaterials.duke.edu/research/transformation-optics-and-cloaking">"Transformation Optics and Cloaking"</a>. Center for Metamaterials &amp; Integrated Plasmonics<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-24</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aufirst=David&amp;rft.aulast=Schurig&amp;rft.au=Schurig%2C+David&amp;rft.btitle=Transformation+Optics+and+Cloaking&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.metamaterials.duke.edu%2Fresearch%2Ftransformation-optics-and-cloaking&amp;rft.pub=Center+for+Metamaterials+%26+Integrated+Plasmonics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Genov-Nat-Phys-5-2009-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Genov-Nat-Phys-5-2009_8-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Genov, Dentcho A.; Zhang, Shuang; Zhang, Xiang (2009-07-20). <a rel="nofollow" class="external text" href="http://xlab.me.berkeley.edu/publications/pdfs/123.NaturePhyscis2009_Dentcho.pdf">"Mimicking celestial mechanics in metamaterials"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Nature_Physics" title="Nature Physics">Nature Physics</a></i> <b>5</b> (9): 687–692. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009NatPh...5..687G">2009NatPh...5..687G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnphys1338">10.1038/nphys1338</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Mimicking+celestial+mechanics+in+metamaterials&amp;rft.aufirst=Dentcho+A.&amp;rft.au=Genov%2C+Dentcho+A.&amp;rft.aulast=Genov&amp;rft.au=Zhang%2C+Shuang&amp;rft.au=Zhang%2C+Xiang&amp;rft.date=2009-07-20&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fxlab.me.berkeley.edu%2Fpublications%2Fpdfs%2F123.NaturePhyscis2009_Dentcho.pdf&amp;rft_id=info%3Abibcode%2F2009NatPh...5..687G&amp;rft_id=info%3Adoi%2F10.1038%2Fnphys1338&amp;rft.issue=9&amp;rft.jtitle=Nature+Physics&amp;rft.pages=687-692&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BerkleyJul09-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-BerkleyJul09_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BerkleyJul09_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BerkleyJul09_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Yarris, Lynn; Xiang Zhang (July 20, 2009). <a rel="nofollow" class="external text" href="http://newscenter.lbl.gov/press-releases/2009/07/20/testing-relativity-in-the-laboratory/">"Testing Relativity, Black Holes, and Strange attractors in the Laboratory"</a>. <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-05</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aufirst=Lynn&amp;rft.aulast=Yarris&amp;rft.au=Xiang+Zhang&amp;rft.au=Yarris%2C+Lynn&amp;rft.btitle=Testing+Relativity%2C+Black+Holes%2C+and+Strange+attractors+in+the+Laboratory&amp;rft.date=July+20%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnewscenter.lbl.gov%2Fpress-releases%2F2009%2F07%2F20%2Ftesting-relativity-in-the-laboratory%2F&amp;rft.pub=Lawrence+Berkeley+National+Laboratory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Leonhardt-GR-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leonhardt-GR_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leonhardt-GR_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Leonhardt-GR_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Leonhardt, Ulf; Philbin, Thomas G (2006). "General relativity in electrical engineering". <i><a href="/wiki/New_Journal_of_Physics" title="New Journal of Physics">New Journal of Physics</a></i> <b>8</b> (10): 247. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/cond-mat/0607418">cond-mat/0607418</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2006NJPh....8..247L">2006NJPh....8..247L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F1367-2630%2F8%2F10%2F247">10.1088/1367-2630/8/10/247</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=General+relativity+in+electrical+engineering&amp;rft.aufirst=Ulf&amp;rft.aulast=Leonhardt&amp;rft.au=Leonhardt%2C+Ulf&amp;rft.au=Philbin%2C+Thomas+G&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2Fcond-mat%2F0607418&amp;rft_id=info%3Abibcode%2F2006NJPh....8..247L&amp;rft_id=info%3Adoi%2F10.1088%2F1367-2630%2F8%2F10%2F247&amp;rft.issue=10&amp;rft.jtitle=New+Journal+of+Physics&amp;rft.pages=247&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-celestial-mm-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-celestial-mm_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-celestial-mm_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-celestial-mm_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Genov, Dentcho A.; Zhang, Shuang; Zhang, Xiang (2009). "Mimicking celestial mechanics in metamaterials". <i><a href="/wiki/Nature_Physics" title="Nature Physics">Nature Physics</a></i> <b>5</b> (9): 687–692. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009NatPh...5..687G">2009NatPh...5..687G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnphys1338">10.1038/nphys1338</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Mimicking+celestial+mechanics+in+metamaterials&amp;rft.aufirst=Dentcho+A.&amp;rft.au=Genov%2C+Dentcho+A.&amp;rft.aulast=Genov&amp;rft.au=Zhang%2C+Shuang&amp;rft.au=Zhang%2C+Xiang&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2009NatPh...5..687G&amp;rft_id=info%3Adoi%2F10.1038%2Fnphys1338&amp;rft.issue=9&amp;rft.jtitle=Nature+Physics&amp;rft.pages=687-692&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=5" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation journal">Narimanov, E. E., Kildishev, A. V. (2009). "Optical black hole: Broadband omnidirectional light absorber". <i><a href="/wiki/Applied_Physics_Letters" title="Applied Physics Letters">Applied Physics Letters</a></i> <b>95</b> (4): 041106. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2009ApPhL..95d1106N">2009ApPhL..95d1106N</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1063%2F1.3184594">10.1063/1.3184594</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Optical+black+hole%3A+Broadband+omnidirectional+light+absorber&amp;rft.aulast=Narimanov%2C+E.+E.%2C+Kildishev%2C+A.+V.&amp;rft.au=Narimanov%2C+E.+E.%2C+Kildishev%2C+A.+V.&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F2009ApPhL..95d1106N&amp;rft_id=info%3Adoi%2F10.1063%2F1.3184594&amp;rft.issue=4&amp;rft.jtitle=Applied+Physics+Letters&amp;rft.pages=041106&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=95" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation arxiv">Qiang Cheng; Tie Jun Cui; Wei Xiang Jiang; Ben Geng Cai (2009). "An electromagnetic black hole made of metamaterials". <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0910.2159">0910.2159</a> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/physics.optics">physics.optics</a>].</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=An+electromagnetic+black+hole+made+of+metamaterials&amp;rft.au=Ben+Geng+Cai&amp;rft.aulast=Qiang+Cheng&amp;rft.au=Qiang+Cheng&amp;rft.au=Tie+Jun+Cui&amp;rft.au=Wei+Xiang+Jiang&amp;rft.date=2009&amp;rft.genre=preprint&amp;rft_id=info%3Aarxiv%2F0910.2159&amp;rft.jtitle=arXiv&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Salad-plate-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Salad-plate_14-0">^</a></b></span> <span class="reference-text"><span class="citation news">Matson, John (2009-10-29). <a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article.cfm?id=electromagnetic-black-hole">"Researchers Create an Electromagnetic "Black Hole" the Size of a Salad Plate"</a>. <i><a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-20</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Researchers+Create+an+Electromagnetic+%22Black+Hole%22+the+Size+of+a+Salad+Plate&amp;rft.aufirst=John&amp;rft.aulast=Matson&amp;rft.au=Matson%2C+John&amp;rft.date=2009-10-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.scientificamerican.com%2Farticle.cfm%3Fid%3Delectromagnetic-black-hole&amp;rft.jtitle=Scientific+American&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation journal">Huanyang Chen; Rong-Xin Miao; Miao Li (2010). "Transformation optics that mimics the system outside a Schwarzschild black hole". <i>Optics Express, Vol. 18, Issue 14, pp. 15183-</i>. 15188 (14): 15183. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/0912.4856">0912.4856</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2010OExpr..1815183C">2010OExpr..1815183C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1364%2FOE.18.015183">10.1364/OE.18.015183</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Transformation+optics+that+mimics+the+system+outside+a+Schwarzschild+black+hole&amp;rft.au=Huanyang+Chen&amp;rft.aulast=Huanyang+Chen&amp;rft.au=Miao+Li&amp;rft.au=Rong-Xin+Miao&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F0912.4856&amp;rft_id=info%3Abibcode%2F2010OExpr..1815183C&amp;rft_id=info%3Adoi%2F10.1364%2FOE.18.015183&amp;rft.issue=14&amp;rft.jtitle=Optics+Express%2C+Vol.+18%2C+Issue+14%2C+pp.+15183-&amp;rft.pages=15183&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15188" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Igor-multi-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Igor-multi_16-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Smolyaninov, Igor I (2011). "Metamaterial 'multiverse<span style="padding-right:0.2em;">'</span>". <i><a href="/wiki/Journal_of_Optics_(IOP_Publishing)" title="Journal of Optics (IOP Publishing)">Journal of Optics</a></i> <b>13</b> (2): 024004. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<a rel="nofollow" class="external text" href="//arxiv.org/abs/1005.1002">1005.1002</a>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2011JOpt...13b4004S">2011JOpt...13b4004S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1088%2F2040-8978%2F13%2F2%2F024004">10.1088/2040-8978/13/2/024004</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.atitle=Metamaterial+%27multiverse%27&amp;rft.aufirst=Igor+I&amp;rft.aulast=Smolyaninov&amp;rft.au=Smolyaninov%2C+Igor+I&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Aarxiv%2F1005.1002&amp;rft_id=info%3Abibcode%2F2011JOpt...13b4004S&amp;rft_id=info%3Adoi%2F10.1088%2F2040-8978%2F13%2F2%2F024004&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Optics&amp;rft.pages=024004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-STO-grin-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-STO-grin_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-STO-grin_17-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-STO-grin_17-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-STO-grin_17-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Strategic Technology Office (February 1, 2010). <a rel="nofollow" class="external text" href="http://www.darpa.mil/sto/solicitations/BAA10-31/index.html">"Manufacturable Gradient Index Optics (M-GRIN)"</a>. DARPA<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aulast=Strategic+Technology+Office&amp;rft.au=Strategic+Technology+Office&amp;rft.btitle=Manufacturable+Gradient+Index+Optics+%28M-GRIN%29&amp;rft.date=February+1%2C+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.darpa.mil%2Fsto%2Fsolicitations%2FBAA10-31%2Findex.html&amp;rft.pub=DARPA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-army-ro-to-kyzer-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-army-ro-to-kyzer_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-army-ro-to-kyzer_18-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-army-ro-to-kyzer_18-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Kyzer, Lindy OCPA - Media Relations Division (Aug 21, 2008). <a rel="nofollow" class="external text" href="http://www.army.mil/-news/2008/08/21/11813-army-research-on-invisibility-not-science-fiction/">"Army research on invisibility not science fiction"</a>. U.S. Army<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATransformation+optics&amp;rft.aufirst=Lindy+OCPA+-+Media+Relations+Division&amp;rft.au=Kyzer%2C+Lindy+OCPA+-+Media+Relations+Division&amp;rft.aulast=Kyzer&amp;rft.btitle=Army+research+on+invisibility+not+science+fiction&amp;rft.date=Aug+21%2C+2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.army.mil%2F-news%2F2008%2F08%2F21%2F11813-army-research-on-invisibility-not-science-fiction%2F&amp;rft.pub=U.S.+Army&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Branches_of_physics" title="Template:Branches of physics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Branches_of_physics" title="Template talk:Branches of physics"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Branches_of_physics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Branches of <a href="/wiki/Physics" title="Physics">physics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Divisions</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Applied_physics" title="Applied physics">Applied</a></li>
+<li><a href="/wiki/Experimental_physics" title="Experimental physics">Experimental</a></li>
+<li><a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Energy" title="Energy">Energy</a></li>
+<li><a href="/wiki/Motion_(physics)" title="Motion (physics)">Motion</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Mechanics" title="Mechanics">Mechanics</a>
+<ul>
+<li><a href="/wiki/Classical_mechanics" title="Classical mechanics">Classical</a>
+<ul>
+<li><a href="/wiki/Lagrangian_mechanics" title="Lagrangian mechanics">Lagrangian</a></li>
+<li><a href="/wiki/Hamiltonian_mechanics" title="Hamiltonian mechanics">Hamiltonian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Continuum_mechanics" title="Continuum mechanics">Continuum</a></li>
+<li><a href="/wiki/Celestial_mechanics" title="Celestial mechanics">Celestial</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Fluid_mechanics" title="Fluid mechanics">Fluid</a></li>
+<li><a href="/wiki/Quantum_mechanics" title="Quantum mechanics">Quantum</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Wave" title="Wave">Waves</a></li>
+<li><a href="/wiki/Field_(physics)" title="Field (physics)">Fields</a></li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gravitation" title="Gravitation" class="mw-redirect">Gravitation</a></li>
+<li><a href="/wiki/Electromagnetism" title="Electromagnetism">Electromagnetism</a></li>
+<li><a href="/wiki/Quantum_field_theory" title="Quantum field theory">Quantum field theory</a></li>
+<li><a href="/wiki/Theory_of_relativity" title="Theory of relativity">Relativity</a>
+<ul>
+<li><a href="/wiki/Special_relativity" title="Special relativity">Special</a></li>
+<li><a href="/wiki/General_relativity" title="General relativity">General</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">By speciality</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerator_physics" title="Accelerator physics">Accelerator</a></li>
+<li><a href="/wiki/Acoustics" title="Acoustics">Acoustics</a></li>
+<li><a href="/wiki/Astrophysics" title="Astrophysics">Astrophysics</a>
+<ul>
+<li><a href="/wiki/Nuclear_astrophysics" title="Nuclear astrophysics">Nuclear</a></li>
+<li><a href="/wiki/Stellar_physics" title="Stellar physics">Stellar</a></li>
+<li><a href="/wiki/Heliophysics" title="Heliophysics">Heliophysics</a>
+<ul>
+<li><a href="/wiki/Solar_physics" title="Solar physics">Solar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Space_physics" title="Space physics">Space</a></li>
+<li><a href="/wiki/Astroparticle_physics" title="Astroparticle physics">Astroparticle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atomic,_molecular,_and_optical_physics" title="Atomic, molecular, and optical physics">Atomic–molecular–optical <span style="font-size:90%;">(AMO)</span></a></li>
+<li><a href="/wiki/Computational_physics" title="Computational physics">Computational</a></li>
+<li><a href="/wiki/Condensed_matter_physics" title="Condensed matter physics">Condensed matter</a>
+<ul>
+<li><a href="/wiki/Solid-state_physics" title="Solid-state physics">Solid-state</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Digital_physics" title="Digital physics">Digital</a></li>
+<li><a href="/wiki/Engineering_physics" title="Engineering physics">Engineering</a></li>
+<li><a href="/wiki/Material_physics" title="Material physics" class="mw-redirect">Material</a></li>
+<li><a href="/wiki/Mathematical_physics" title="Mathematical physics">Mathematical</a></li>
+<li><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear</a></li>
+<li><a href="/wiki/Optics" title="Optics">Optics</a>
+<ul>
+<li><a href="/wiki/Geometrical_optics" title="Geometrical optics">Geometrical</a></li>
+<li><a href="/wiki/Physical_optics" title="Physical optics">Physical</a></li>
+<li><a href="/wiki/Nonlinear_optics" title="Nonlinear optics">Nonlinear</a></li>
+<li><a href="/wiki/Quantum_optics" title="Quantum optics">Quantum</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Particle_physics" title="Particle physics">Particle</a>
+<ul>
+<li><a href="/wiki/Phenomenology_(particle_physics)" title="Phenomenology (particle physics)">Phenomenology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Plasma_physics" title="Plasma physics" class="mw-redirect">Plasma</a></li>
+<li><a href="/wiki/Polymer_physics" title="Polymer physics">Polymer</a></li>
+<li><a href="/wiki/Statistical_physics" title="Statistical physics">Statistical</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Physics with<br />
+other sciences</div>
+</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biophysics" title="Biophysics">Biophysics</a>
+<ul>
+<li><a href="/wiki/Cardiophysics" title="Cardiophysics">Cardiophysics</a></li>
+<li><a href="/wiki/Biomechanics" title="Biomechanics">Biomechanics</a></li>
+<li><a href="/wiki/Medical_physics" title="Medical physics">Medical</a></li>
+<li><a href="/wiki/Neurophysics" title="Neurophysics">Neurophysics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Agrophysics" title="Agrophysics">Agrophysics</a>
+<ul>
+<li><a href="/wiki/Soil_physics" title="Soil physics">Soil</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atmospheric_physics" title="Atmospheric physics">Atmospheric physics</a></li>
+<li><a href="/wiki/Chemical_physics" title="Chemical physics">Chemical</a></li>
+<li><a href="/wiki/Econophysics" title="Econophysics">Econophysics</a></li>
+<li><a href="/wiki/Geophysics" title="Geophysics">Geophysics</a></li>
+<li><a href="/wiki/Psychophysics" title="Psychophysics">Psychophysics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Electromagnetic_spectrum" title="Template:Electromagnetic spectrum"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Electromagnetic_spectrum" title="Template talk:Electromagnetic spectrum"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Electromagnetic_spectrum&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">Electromagnetic spectrum</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="padding:0.3em 0.5em 0.4em;line-height:1.25em;font-weight:bold;">
+<div><span style="font-weight:normal;"><i><span style="font-size: 120%;">←</span> higher <a href="/wiki/Frequency" title="Frequency">frequencies</a><span style="white-space:nowrap;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;</span>longer <a href="/wiki/Wavelength" title="Wavelength">wavelengths</a> <span style="font-size: 120%;">→</span></i></span>
+<ul>
+<li><a href="/wiki/Gamma_ray" title="Gamma ray">Gamma rays</a></li>
+<li><a href="/wiki/X-ray" title="X-ray">X-rays</a></li>
+<li><a href="/wiki/Ultraviolet" title="Ultraviolet">Ultraviolet</a></li>
+<li><a href="/wiki/Visible_spectrum" title="Visible spectrum">Visible</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a></li>
+<li><a href="/wiki/Terahertz_radiation" title="Terahertz radiation">Terahertz radiation</a></li>
+<li><a href="/wiki/Microwave" title="Microwave">Microwave</a></li>
+<li><a href="/wiki/Radio_waves" title="Radio waves" class="mw-redirect">Radio</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lavender;"><a href="/wiki/Visible_spectrum" title="Visible spectrum">Visible (optical)</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Violet_(color)" title="Violet (color)">Violet</a></li>
+<li><a href="/wiki/Blue" title="Blue">Blue</a></li>
+<li><a href="/wiki/Green" title="Green">Green</a></li>
+<li><a href="/wiki/Yellow" title="Yellow">Yellow</a></li>
+<li><a href="/wiki/Orange_(colour)" title="Orange (colour)">Orange</a></li>
+<li><a href="/wiki/Red" title="Red">Red</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lavender;"><a href="/wiki/Microwave" title="Microwave">Microwaves</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/W_band" title="W band">W band</a></li>
+<li><a href="/wiki/V_band" title="V band">V band</a></li>
+<li><a href="/wiki/Q_band" title="Q band">Q band</a></li>
+<li><a href="/wiki/Ka_band" title="Ka band">K<span style="position:relative; bottom:0.3em;"><span style="font-size:110%;"><sub>a</sub></span></span> band</a></li>
+<li><a href="/wiki/K_band" title="K band">K band</a></li>
+<li><a href="/wiki/Ku_band" title="Ku band">K<span style="position:relative; bottom:0.3em;"><span style="font-size:110%;"><sub>u</sub></span></span> band</a></li>
+<li><a href="/wiki/X_band" title="X band">X band</a></li>
+<li><a href="/wiki/S_band" title="S band">S band</a></li>
+<li><a href="/wiki/C_band" title="C band">C band</a></li>
+<li><a href="/wiki/L_band_(template)" title="L band (template)" class="mw-redirect">L band</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lavender;"><a href="/wiki/Radio_frequency" title="Radio frequency">Radio</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extremely_high_frequency" title="Extremely high frequency">EHF</a></li>
+<li><a href="/wiki/Super_high_frequency" title="Super high frequency">SHF</a></li>
+<li><a href="/wiki/Ultra_high_frequency" title="Ultra high frequency">UHF</a></li>
+<li><a href="/wiki/Very_high_frequency" title="Very high frequency">VHF</a></li>
+<li><a href="/wiki/High_frequency" title="High frequency">HF</a></li>
+<li><a href="/wiki/Medium_frequency" title="Medium frequency">MF</a></li>
+<li><a href="/wiki/Low_frequency" title="Low frequency">LF</a></li>
+<li><a href="/wiki/Very_low_frequency" title="Very low frequency">VLF</a></li>
+<li><a href="/wiki/Ultra_low_frequency" title="Ultra low frequency">ULF</a></li>
+<li><a href="/wiki/Super_low_frequency" title="Super low frequency">SLF</a></li>
+<li><a href="/wiki/Extremely_low_frequency" title="Extremely low frequency">ELF</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background:lavender;"><a href="/wiki/Wavelength" title="Wavelength">Wavelength types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Microwave" title="Microwave">Microwave</a></li>
+<li><a href="/wiki/Shortwave_radio" title="Shortwave radio">Shortwave</a></li>
+<li><a href="/wiki/Medium_wave" title="Medium wave">Medium wave</a></li>
+<li><a href="/wiki/Longwave" title="Longwave">Longwave</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1042
+CPU time usage: 0.461 seconds
+Real time usage: 0.524 seconds
+Preprocessor visited node count: 2192/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 99672/2097152 bytes
+Template argument size: 828/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Lua time usage: 0.156/10.000 seconds
+Lua memory usage: 2.62 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  372.329      1 - -total
+ 19.33%   71.957     15 - Template:Cite_journal
+ 16.58%   61.741      8 - Template:Cite_web
+ 15.53%   57.810      2 - Template:Navbox
+ 12.46%   46.400      1 - Template:Electromagnetism
+ 11.50%   42.802      1 - Template:Sidebar_with_collapsible_lists
+  9.57%   35.633      1 - Template:Physics-footer
+  8.80%   32.753      1 - Template:EMSpectrum
+  3.09%   11.496      2 - Template:Cite_news
+  2.97%   11.050      1 - Template:Nobold
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:27470863-0!*!0!!en!4!* and timestamp 20150704210507 and revision id 647726475
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Transformation_optics&amp;oldid=647726475">https://en.wikipedia.org/w/index.php?title=Transformation_optics&amp;oldid=647726475</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electromagnetism" title="Category:Electromagnetism">Electromagnetism</a></li><li><a href="/wiki/Category:Materials_science" title="Category:Materials science">Materials science</a></li><li><a href="/wiki/Category:Metamaterials" title="Category:Metamaterials">Metamaterials</a></li><li><a href="/wiki/Category:Nanomaterials" title="Category:Nanomaterials">Nanomaterials</a></li><li><a href="/wiki/Category:Optics" title="Category:Optics">Optics</a></li><li><a href="/wiki/Category:Theoretical_physics" title="Category:Theoretical physics">Theoretical physics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Transformation+optics&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Transformation+optics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Transformation_optics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Transformation_optics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Transformation_optics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Transformation_optics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Transformation_optics&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Transformation_optics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Transformation_optics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Transformation_optics&amp;oldid=647726475" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Transformation_optics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7834091" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Transformation_optics&amp;id=647726475" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Transformation+optics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Transformation+optics&amp;oldid=647726475&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Transformation_optics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7834091#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 February 2015, at 16:23.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Transformation_optics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1097"});
+}</script>
+	</body>
+</html>

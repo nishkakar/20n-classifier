@@ -1,0 +1,2574 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Arrhythmogenic right ventricular dysplasia - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arrhythmogenic_right_ventricular_dysplasia" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Arrhythmogenic_right_ventricular_dysplasia" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arrhythmogenic_right_ventricular_dysplasia" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arrhythmogenic_right_ventricular_dysplasia","wgTitle":"Arrhythmogenic right ventricular dysplasia","wgCurRevisionId":669672885,"wgRevisionId":669672885,"wgArticleId":604091,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2009","All articles needing additional references","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from January 2013","Commons category without a link on Wikidata","Articles that use a Medicine navs subtemplate","Cardiomyopathy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arrhythmogenic_right_ventricular_dysplasia","wgRelevantArticleId":604091,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg/84px-Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2555727"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Arrhythmogenic_right_ventricular_dysplasia skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Arrhythmogenic right ventricular dysplasia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(February 2009)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Arrhythmogenic right ventricular dysplasia</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg" class="image"><img alt="Arrhythmogenic right ventricular cardiomyopathy - histology.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg/230px-Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg" width="230" height="272" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg/345px-Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/15/Arrhythmogenic_right_ventricular_cardiomyopathy_-_histology.jpg 2x" data-file-width="398" data-file-height="471" /></a>
+<div>Photomicrograph of an ARVC heart.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/I42.8">I42.8</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/107970">107970</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb29750.htm">29750</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/arrhythmogenic-right-ventricular-cardiomyopathy">Arrhythmogenic right ventricular dysplasia</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D019571">D019571</a></td>
+</tr>
+</table>
+<p><b>Arrhythmogenic right ventricular dysplasia</b> (ARVD), also called <b>arrhythmogenic right ventricular cardiomyopathy</b> (ARVC) or <b>arrhythmogenic right ventricular dysplasia/cardiomyopathy</b> (ARVD/C), is an inherited <a href="/wiki/Heart_disease" title="Heart disease" class="mw-redirect">heart disease</a>.</p>
+<p>ARVD is caused by <a href="/wiki/Genetic_disorder" title="Genetic disorder">genetic defects</a> of the parts of <a href="/wiki/Heart_muscle" title="Heart muscle" class="mw-redirect">heart muscle</a> (also called <i>myocardium</i> or <i>cardiac muscle</i>) known as <a href="/wiki/Desmosome" title="Desmosome">desmosomes</a>, areas on the surface of heart muscle cells which link the cells together. The desmosomes are composed of several <a href="/wiki/Protein" title="Protein">proteins</a>, and many of those proteins can have harmful <a href="/wiki/Mutation" title="Mutation">mutations</a>.</p>
+<p>The disease is a type of nonischemic <a href="/wiki/Cardiomyopathy" title="Cardiomyopathy">cardiomyopathy</a> that involves primarily the <a href="/wiki/Right_ventricle" title="Right ventricle" class="mw-redirect">right ventricle</a>. It is characterized by <a href="/wiki/Hypokinesia" title="Hypokinesia">hypokinetic</a> areas involving the free wall of the right ventricle, with fibrofatty replacement of the right ventricular myocardium, with associated <a href="/wiki/Arrhythmia" title="Arrhythmia" class="mw-redirect">arrhythmias</a> originating in the right ventricle.</p>
+<p>ARVD is often found in association with <a href="/wiki/Diffuse_palmoplantar_keratoderma" title="Diffuse palmoplantar keratoderma" class="mw-redirect">diffuse palmoplantar keratoderma</a>, and <a href="/wiki/Woolly_hair" title="Woolly hair" class="mw-redirect">woolly hair</a>, because their genes are nearby and often inherited together <sup id="cite_ref-Fitz2_1-0" class="reference"><a href="#cite_note-Fitz2-1"><span>[</span>1<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:513</sup><sup id="cite_ref-Andrews_2-0" class="reference"><a href="#cite_note-Andrews-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>ARVC/D is an important cause of ventricular arrhythmias in children and young adults. It is seen predominantly in males, and 30-50% of cases have a familial distribution.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Genetics"><span class="tocnumber">1</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Incidence"><span class="tocnumber">2</span> <span class="toctext">Incidence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Presentation"><span class="tocnumber">3</span> <span class="toctext">Presentation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Pathogenesis"><span class="tocnumber">4</span> <span class="toctext">Pathogenesis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Fatty_infiltration"><span class="tocnumber">4.1</span> <span class="toctext">Fatty infiltration</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Fibro-fatty_infiltration"><span class="tocnumber">4.2</span> <span class="toctext">Fibro-fatty infiltration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Ventricular_arrhythmias"><span class="tocnumber">5</span> <span class="toctext">Ventricular arrhythmias</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Diagnosis"><span class="tocnumber">6</span> <span class="toctext">Diagnosis</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Clinical_testing"><span class="tocnumber">6.1</span> <span class="toctext">Clinical testing</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Electrocardiogram"><span class="tocnumber">6.1.1</span> <span class="toctext">Electrocardiogram</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Signal_averaged_ECG"><span class="tocnumber">6.1.2</span> <span class="toctext">Signal averaged ECG</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Echocardiography"><span class="tocnumber">6.1.3</span> <span class="toctext">Echocardiography</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Cardiac_MRI"><span class="tocnumber">6.1.4</span> <span class="toctext">Cardiac MRI</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Right_ventricular_angiography"><span class="tocnumber">6.1.5</span> <span class="toctext">Right ventricular angiography</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Right_ventricular_biopsy"><span class="tocnumber">6.1.6</span> <span class="toctext">Right ventricular biopsy</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Autopsy"><span class="tocnumber">6.1.7</span> <span class="toctext">Autopsy</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Genetic_Testing"><span class="tocnumber">6.1.8</span> <span class="toctext">Genetic Testing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-18"><a href="#Diagnostic_Criteria"><span class="tocnumber">6.2</span> <span class="toctext">Diagnostic Criteria</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Natural_history"><span class="tocnumber">7</span> <span class="toctext">Natural history</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Management"><span class="tocnumber">8</span> <span class="toctext">Management</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Pharmacologic_management"><span class="tocnumber">8.1</span> <span class="toctext">Pharmacologic management</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Catheter_ablation"><span class="tocnumber">8.2</span> <span class="toctext">Catheter ablation</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Implantable_cardioverter-defibrillator"><span class="tocnumber">8.3</span> <span class="toctext">Implantable cardioverter-defibrillator</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Cardiac_transplant_surgery"><span class="tocnumber">8.4</span> <span class="toctext">Cardiac transplant surgery</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Family_screening"><span class="tocnumber">8.5</span> <span class="toctext">Family screening</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Highly-publicised_deaths_from_arrhythmogenic_right_ventricular_dysplasia"><span class="tocnumber">9</span> <span class="toctext">Highly-publicised deaths from arrhythmogenic right ventricular dysplasia</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=1" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is usually inherited in an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> pattern, with variable expression. Novel studies showed that mutations (point mutations) in genes encoding for desmosomal proteins (see <a href="/wiki/Intercalated_disc" title="Intercalated disc">intercalated disc</a>) are the main causatives for the development of this disease. Recently it could be shown, that mutations in the <a href="/wiki/Desmin" title="Desmin"><i>DES</i></a> gene could cause ARVC.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Desmin is an intermediate filament protein, which is linked to the <a href="/wiki/Desmosomes" title="Desmosomes" class="mw-redirect">desmosomes</a>. Different <i>DES</i> muations cause an abnormal aggregation of desmin and associated proteins.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> The <a href="/wiki/Penetrance" title="Penetrance">penetrance</a> is 20–35% in general, but significantly higher in Italy. Seven gene loci have been implicated in ARVD. However, about 50% of families that express ARVD that undergo genetic screening do not show linkage with any of the known <a href="/wiki/Chromosome" title="Chromosome">chromosomal</a> <a href="/wiki/Allele" title="Allele">loci</a>. It is unclear whether the pathogenesis varies with the different loci involved. Standard genetic screening test are currently tested and evaluated in different state of the art cardiovascular research centres and hospitals. Types include:</p>
+<table class="wikitable">
+<tr>
+<th>Type</th>
+<th><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<th>Gene</th>
+<th>Locus</th>
+</tr>
+<tr>
+<td>ARVD1lpl</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/107970">107970</a></td>
+<td><i><a href="/wiki/TGFB3" title="TGFB3" class="mw-redirect">TGFB3</a></i></td>
+<td>14q23-q24</td>
+</tr>
+<tr>
+<td>ARVD2</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/600996">600996</a></td>
+<td><i><a href="/wiki/RYR2" title="RYR2" class="mw-redirect">RYR2</a></i></td>
+<td>1q42-q43</td>
+</tr>
+<tr>
+<td>ARVD3</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/602086">602086</a></td>
+<td>&#160;?</td>
+<td>14q12-q22</td>
+</tr>
+<tr>
+<td>ARVD4</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/602087">602087</a></td>
+<td>&#160;?</td>
+<td>2q32.1-q32.3</td>
+</tr>
+<tr>
+<td>ARVD5</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/604400">604400</a></td>
+<td><i><a href="/wiki/TMEM43" title="TMEM43">TMEM43</a></i></td>
+<td>3p23</td>
+</tr>
+<tr>
+<td>ARVD6</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/604401">604401</a></td>
+<td>&#160;?</td>
+<td>10p14-p12</td>
+</tr>
+<tr>
+<td>ARVD7</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/609160">609160</a></td>
+<td><i>DES</i></td>
+<td>10q22.3</td>
+</tr>
+<tr>
+<td>ARVD8</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/607450">607450</a></td>
+<td><i><a href="/wiki/Desmoplakin" title="Desmoplakin">DSP</a></i></td>
+<td>6p24</td>
+</tr>
+<tr>
+<td>ARVD9</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/609040">609040</a></td>
+<td><i><a href="/wiki/PKP2" title="PKP2">PKP2</a></i></td>
+<td>12p11</td>
+</tr>
+<tr>
+<td>ARVD10</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/610193">610193</a></td>
+<td><i><a href="/wiki/DSG2" title="DSG2" class="mw-redirect">DSG2</a></i></td>
+<td>18q12.1-q12</td>
+</tr>
+<tr>
+<td>ARVD11</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/610476">610476</a></td>
+<td><i><a href="/wiki/DSC2" title="DSC2">DSC2</a></i></td>
+<td>18q12.1</td>
+</tr>
+<tr>
+<td>ARVD12</td>
+<td><a rel="nofollow" class="external text" href="//omim.org/entry/611528">611528</a></td>
+<td><i><a href="/wiki/JUP_(gene)" title="JUP (gene)" class="mw-redirect">JUP</a></i></td>
+<td>17q21</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Incidence">Incidence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=2" title="Edit section: Incidence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The incidence of ARVD is about 1/10,000 in the general population in the <a href="/wiki/United_States" title="United States">United States</a>, although some studies have suggested that it may be as common as 1/1,000. Recently, 1/200 were found to be carriers of mutations that predispose to ARVC<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> It accounts for up to 17% of all sudden cardiac deaths in the young. In <a href="/wiki/Italy" title="Italy">Italy</a>, the incidence is 40/10,000, making it the most common cause of sudden cardiac death in the young population.</p>
+<h2><span class="mw-headline" id="Presentation">Presentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=3" title="Edit section: Presentation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Up to 80% of individuals with ARVD present with <a href="/wiki/Fainting" title="Fainting" class="mw-redirect">syncope</a> or sudden cardiac death<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup>. The remainder frequently present with palpitations or other symptoms due to right ventricular outflow tract (RVOT) tachycardia (a type of <a href="/wiki/Monomorphic_ventricular_tachycardia" title="Monomorphic ventricular tachycardia" class="mw-redirect">monomorphic ventricular tachycardia</a>).</p>
+<p>Symptoms are usually exercise-related. In populations where <a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">hypertrophic cardiomyopathy</a> is screened out prior to involvement in competitive athletics, it is a common cause of sudden cardiac death.</p>
+<p>The first clinical signs of ARVD are usually during <a href="/wiki/Adolescence" title="Adolescence">adolescence</a>. However, signs of ARVD have been demonstrated in infants.</p>
+<h2><span class="mw-headline" id="Pathogenesis">Pathogenesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=4" title="Edit section: Pathogenesis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The pathogenesis of ARVD is largely unknown. <a href="/wiki/Apoptosis" title="Apoptosis">Apoptosis</a> (programmed cell death) appears to play a large role. It is unclear why only the right ventricle is involved. The disease process starts in the subepicardial region and works its way towards the endocardial surface, leading to transmural involvement (possibly accounting for the aneurysmal dilatation of the RV). Residual myocardium is confined to the subendocardial region and the trabeculae of the RV. These trabeculae may become hypertrophied.</p>
+<p>Aneurysmal dilatation is seen in 50% of cases at autopsy. It usually occurs in the diaphragmatic, apical, and infundibular regions (known as the triangle of dysplasia). The left ventricle is involved in 50-67% of individuals. If the left ventricle is involved, it is usually late in the course of disease, and confers a poor prognosis.</p>
+<p>There are two pathological patterns seen in ARVD, Fatty infiltration and fibro-fatty infiltration.</p>
+<h3><span class="mw-headline" id="Fatty_infiltration">Fatty infiltration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=5" title="Edit section: Fatty infiltration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first, fatty infiltration, is confined to the right ventricle. This involves a partial or near-complete substitution of myocardium with fatty tissue <i>without</i> wall thinning. It involves predominantly the apical and infundibular regions of the RV. The left ventricle and ventricular septum are usually spared. No inflammatory infiltrates are seen in fatty infiltration. There is evidence of <a href="/wiki/Myocyte" title="Myocyte">myocyte</a> (myocardial cell) degeneration and death seen in 50% of cases of fatty infiltration.</p>
+<h3><span class="mw-headline" id="Fibro-fatty_infiltration">Fibro-fatty infiltration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=6" title="Edit section: Fibro-fatty infiltration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The second, fibro-fatty infiltration, involves replacement of myocytes with fibrofatty tissue. A patchy myocarditis is involved in up to 2/3 of cases, with inflammatory infiltrates (mostly <a href="/wiki/T_cell" title="T cell">T cells</a>) seen on microscopy. Myocardial atrophy is due to injury and <a href="/wiki/Apoptosis" title="Apoptosis">apoptosis</a>. This leads to thinning of the RV free wall (to &lt; 3&#160;mm thickness) Myocytes are replaced with fibrofatty tissue. The regions preferentially involved include the RV inflow tract, the RV outflow tract, and the RV apex. However, the LV free wall may be involved in some cases. Involvement of the ventricular septum is rare. The areas involved are prone to aneurysm formation.</p>
+<h2><span class="mw-headline" id="Ventricular_arrhythmias">Ventricular arrhythmias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=7" title="Edit section: Ventricular arrhythmias">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="1" cellpadding="2" cellspacing="0" width="300px" align="right">
+<tr>
+<td bgcolor="#FFFFFF" align="center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:RVOT_Tachycardia.png" class="image" title="Monomorphic ventricular tachycardia"><img alt="Monomorphic ventricular tachycardia" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/RVOT_Tachycardia.png/300px-RVOT_Tachycardia.png" width="300" height="119" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/RVOT_Tachycardia.png/450px-RVOT_Tachycardia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/RVOT_Tachycardia.png/600px-RVOT_Tachycardia.png 2x" data-file-width="704" data-file-height="279" /></a></div>
+</div>
+<p><small>Right ventricular outflow tract tachycardia</small></p>
+</td>
+</tr>
+<tr>
+<td align="center" style="border-bottom:3px solid gray;"><span style="font-size:100%;"><i>Monomorphic ventricular tachycardia originating from the right ventricular outflow tract.</i></span></td>
+</tr>
+</table>
+<p>Ventricular arrhythmias due to ARVD typically arise from the diseased right ventricle. The type of arrhythmia ranges from frequent <a href="/wiki/Premature_ventricular_contraction" title="Premature ventricular contraction">premature ventricular complexes</a> (PVCs) to <a href="/wiki/Ventricular_tachycardia" title="Ventricular tachycardia">ventricular tachycardia</a> (VT) to <a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">ventricular fibrillation</a> (VF).</p>
+<p>While the initiating factor of the ventricular arrhythmias is unclear, it may be due to triggered activity or reentry.</p>
+<p>Ventricular arrhythmias are usually exercise-related, suggesting that they are sensitive to catecholamines. The ventricular beats typically have a right axis deviation. Multiple morphologies of ventricular tachycardia may be present in the same individual, suggesting multiple <a href="/wiki/Arrhythmogenic" title="Arrhythmogenic" class="mw-redirect">arrhythmogenic</a> foci or pathways.</p>
+<p>Right ventricular outflow tract (RVOT) tachycardia is the most common VT seen in individuals with ARVD. In this case, the EKG shows a <a href="/wiki/Left_bundle_branch_block" title="Left bundle branch block">left bundle branch block</a> (LBBB) morphology with an inferior axis.</p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=8" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The differential diagnosis for the ventricular tachycardia due to ARVD include:</p>
+<ul>
+<li>Congenital heart disease
+<ul>
+<li>Repaired <a href="/wiki/Tetralogy_of_Fallot" title="Tetralogy of Fallot">tetralogy of Fallot</a></li>
+<li><a href="/wiki/Ebstein%27s_anomaly" title="Ebstein's anomaly">Ebstein's anomaly</a></li>
+<li><a href="/w/index.php?title=Uhl%27s_anomaly&amp;action=edit&amp;redlink=1" class="new" title="Uhl's anomaly (page does not exist)">Uhl's anomaly</a></li>
+<li><a href="/wiki/Atrial_septal_defect" title="Atrial septal defect">Atrial septal defect</a></li>
+<li>Partial anomalous venous return</li>
+</ul>
+</li>
+<li>Acquired heart disease
+<ul>
+<li>Tricuspid valve disease</li>
+<li>Pulmonary hypertension</li>
+<li>Right ventricular infarction</li>
+<li>Bundle-branch re-entrant tachycardia</li>
+</ul>
+</li>
+<li>Miscellaneous
+<ul>
+<li>Pre-excited AV re-entry tachycardia</li>
+<li>Idiopathic RVOT tachycardia</li>
+<li>Sarcoidosis</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Clinical_testing">Clinical testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=9" title="Edit section: Clinical testing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In order to make the diagnosis of ARVD, a number of clinical tests are employed, including the <a href="/wiki/Electrocardiogram" title="Electrocardiogram" class="mw-redirect">electrocardiogram</a> (EKG), <a href="/wiki/Echocardiography" title="Echocardiography">echocardiography</a>, right ventricular angiography, cardiac MRI, and <a href="/wiki/Genetic_testing" title="Genetic testing">genetic testing</a>.</p>
+<h4><span class="mw-headline" id="Electrocardiogram">Electrocardiogram</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=10" title="Edit section: Electrocardiogram">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>90% of individuals with ARVD have some EKG abnormality. The most common EKG abnormality seen in ARVD is T wave inversion in leads V<sub>1</sub> to V<sub>3</sub>. However, this is a non-specific finding, and may be considered a normal variant in <a href="/wiki/Right_bundle_branch_block" title="Right bundle branch block">right bundle branch block</a> (RBBB), women, and children under 12 years old.</p>
+<p>RBBB itself is seen frequently in individuals with ARVD. This may be due to delayed activation of the right ventricle, rather than any intrinsic abnormality in the right bundle branch.</p>
+<table border="1" cellpadding="2" cellspacing="0" width="300px" align="right">
+<tr>
+<td bgcolor="#FFFFFF" align="center" colspan="2">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:ARVD-Epsilon_wave.png" class="image" title="EKG lead demonstrating the epsilon wave"><img alt="EKG lead demonstrating the epsilon wave" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ARVD-Epsilon_wave.png/300px-ARVD-Epsilon_wave.png" width="300" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ARVD-Epsilon_wave.png/450px-ARVD-Epsilon_wave.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/ARVD-Epsilon_wave.png/600px-ARVD-Epsilon_wave.png 2x" data-file-width="826" data-file-height="248" /></a></div>
+</div>
+<p><small>The epsilon wave</small></p>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2" style="border-bottom:3px solid gray;"><span style="font-size:100%;"><i>The epsilon wave (marked by red triangle), seen in ARVD.</i></span></td>
+</tr>
+</table>
+<p>The <b>epsilon wave</b> is found in about 50% of those with ARVD. This is described as a terminal notch in the QRS complex. It is due to slowed intraventricular conduction. The epsilon wave may be seen on a surface EKG; however, it is more commonly seen on signal averaged EKGs.</p>
+<p>Ventricular <a href="/wiki/Cardiac_ectopy" title="Cardiac ectopy" class="mw-redirect">ectopy</a> seen on a surface EKG in the setting of ARVD is typically of <a href="/wiki/Left_bundle_branch_block" title="Left bundle branch block">left bundle branch block</a> (LBBB) morphology, with a QRS axis of -90 to +110 degrees. The origin of the ectopic beats is usually from one of the three regions of fatty degeneration (the "triangle of dysplasia"): the RV outflow tract, the RV inflow tract, and the RV apex.</p>
+<h4><span class="mw-headline" id="Signal_averaged_ECG">Signal averaged ECG</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=11" title="Edit section: Signal averaged ECG">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Signal averaged ECG (<a href="/wiki/Signal-averaged_electrocardiogram" title="Signal-averaged electrocardiogram">SAECG</a>) is used to detect late potentials and epsilon waves in individuals with ARVD.</p>
+<h4><span class="mw-headline" id="Echocardiography">Echocardiography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=12" title="Edit section: Echocardiography">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Echocardiography may reveal an enlarged, hypokinetic right ventricle with a paper-thin RV free wall. The dilatation of the RV will cause dilatation of the tricuspid valve annulus, with subsequent <a href="/wiki/Tricuspid_regurgitation" title="Tricuspid regurgitation" class="mw-redirect">tricuspid regurgitation</a>. Paradoxical septal motion may also be present.</p>
+<h4><span class="mw-headline" id="Cardiac_MRI">Cardiac MRI</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=13" title="Edit section: Cardiac MRI">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arvd_MRI.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Arvd_MRI.jpg/220px-Arvd_MRI.jpg" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Arvd_MRI.jpg/330px-Arvd_MRI.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Arvd_MRI.jpg/440px-Arvd_MRI.jpg 2x" data-file-width="630" data-file-height="438" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arvd_MRI.jpg" class="internal" title="Enlarge"></a></div>
+MRI in a patient affected by ARVC/D (long axis view of the right ventricle): note the transmural diffuse bright signal in the RV free wall on spin echo T1 (a) due to massive myocardial atrophy with fatty replacement (b).</div>
+</div>
+</div>
+<p>Fatty infiltration of the RV free wall can be visible on cardiac MRI. Fat has increased intensity in T1-weighted images. However, it may be difficult to differentiate intramyocardial fat and the epicardial fat that is commonly seen adjacent to the normal heart. Also, the sub-tricuspid region may be difficult to distinguish from the atrioventricular sulcus, which is rich in fat.</p>
+<p>Cardiac MRI can visualize the extreme thinning and akinesis of the RV free wall. However, the normal RV free wall may be about 3&#160;mm thick, making the test less sensitive.</p>
+<h4><span class="mw-headline" id="Right_ventricular_angiography">Right ventricular angiography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=14" title="Edit section: Right ventricular angiography">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Right ventricular angiography is considered the <a href="/wiki/Gold_standard_(test)" title="Gold standard (test)">gold standard</a> for the diagnosis of ARVD. Findings consistent with ARVD are an akinetic or dyskinetic bulging localized to the infundibular, apical, and subtricuspid regions of the RV. The specificity is 90%; however, the test is observer dependent.</p>
+<h4><span class="mw-headline" id="Right_ventricular_biopsy">Right ventricular biopsy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=15" title="Edit section: Right ventricular biopsy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Transvenous biopsy of the right ventricle can be highly specific for ARVD, but it has low sensitivity. False positives include other conditions with fatty infiltration of the ventricle, such as chronic alcohol abuse and Duchenne/Becker muscular dystrophy.</p>
+<p>False negatives are common, however, because the disease progresses typically from the epicardium to the endocardium (with the biopsy sample coming from the endocardium), and the segmental nature of the disease. Also, due to the paper-thin right ventricular free wall that is common in this disease process, most biopsy samples are taken from the ventricular septum, which is commonly <i>not</i> involved in the disease process.</p>
+<p>A biopsy sample that is consistent with ARVD would have &gt; 3% fat, &gt;40% fibrous tissue, and &lt;45% myocytes.</p>
+<h4><span class="mw-headline" id="Autopsy">Autopsy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=16" title="Edit section: Autopsy">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arrhythmogenic_right_ventricular_cardiomyopathy.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Arrhythmogenic_right_ventricular_cardiomyopathy.jpg/220px-Arrhythmogenic_right_ventricular_cardiomyopathy.jpg" width="220" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/e6/Arrhythmogenic_right_ventricular_cardiomyopathy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e6/Arrhythmogenic_right_ventricular_cardiomyopathy.jpg 2x" data-file-width="315" data-file-height="429" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Arrhythmogenic_right_ventricular_cardiomyopathy.jpg" class="internal" title="Enlarge"></a></div>
+In vitro MRI and corresponding cross section of the heart in ARVD show RV dilatation with anterior and posterior aneurysms (17-year-old asymptomatic male athlete who died suddenly during a soccer game).</div>
+</div>
+</div>
+<p>A post mortem histological demonstration of full thickness substitution of the RV myocardium by fatty or fibro-fatty tissue is consistent with ARVD.</p>
+<h4><span class="mw-headline" id="Genetic_Testing">Genetic Testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=17" title="Edit section: Genetic Testing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>ARVD is an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> trait with reduced <a href="/wiki/Penetrance" title="Penetrance">penetrance</a>. Approximately 40-50% of ARVD patients have a mutation identified in one of several genes encoding components of the <a href="/wiki/Desmosome" title="Desmosome">desmosome</a>, which can help confirm a diagnosis of ARVD.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> Since ARVD is an autosomal dominant trait, children of an ARVD patient have a 50% chance of inheriting the disease causing mutation. Whenever a mutation is identified by genetic testing, family-specific genetic testing can be used to differentiate between relatives who are at-risk for the disease and those who are not. ARVD genetic testing is clinically available.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Diagnostic_Criteria">Diagnostic Criteria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=18" title="Edit section: Diagnostic Criteria">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There is no pathognomonic feature of ARVD. The diagnosis of ARVD is based on a combination of major and minor criteria. To make a diagnosis of ARVD requires either 2 major criteria <i>or</i> 1 major and 2 minor criteria <i>or</i> 4 minor criteria.</p>
+<p>Major Criteria</p>
+<ul>
+<li>Right ventricular dysfunction
+<ul>
+<li>Severe dilatation and reduction of RV <a href="/wiki/Ejection_fraction" title="Ejection fraction">ejection fraction</a> with little or no LV impairment</li>
+<li>Localized RV aneurysms</li>
+<li>Severe segmental dilatation of the RV</li>
+</ul>
+</li>
+<li>Tissue characterization
+<ul>
+<li>Fibrofatty replacement of myocardium on endomyocardial biopsy</li>
+</ul>
+</li>
+<li>Conduction abnormalities
+<ul>
+<li>Epsilon waves in V<sub>1</sub> - V<sub>3</sub></li>
+<li>Localized prolongation (&gt;110 ms) of QRS in V<sub>1</sub> - V<sub>3</sub></li>
+</ul>
+</li>
+<li>Family history
+<ul>
+<li>Familial disease confirmed on autopsy or surgery</li>
+</ul>
+</li>
+</ul>
+<p>Minor Criteria</p>
+<ul>
+<li>Right ventricular dysfunction
+<ul>
+<li>Mild global RV dilatation and/or reduced ejection fraction with normal LV.</li>
+<li>Mild segmental dilatation of the RV</li>
+<li>Regional RV hypokinesis</li>
+</ul>
+</li>
+<li>Tissue characterization</li>
+<li>Conduction abnormalities
+<ul>
+<li>Inverted T waves in V<sub>2</sub> and V<sub>3</sub> in an individual over 12 years old, in the absence of a <a href="/wiki/Right_bundle_branch_block" title="Right bundle branch block">right bundle branch block</a> (RBBB)</li>
+<li>Late potentials on signal averaged EKG.</li>
+<li>Ventricular tachycardia with a <a href="/wiki/Left_bundle_branch_block" title="Left bundle branch block">left bundle branch block</a> (LBBB) morphology</li>
+<li>Frequent PVCs (&gt; 1000 PVCs / 24 hours)</li>
+</ul>
+</li>
+<li>Family history
+<ul>
+<li>Family history of sudden cardiac death before age 35</li>
+<li>Family history of ARVD</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Natural_history">Natural history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=19" title="Edit section: Natural history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is a long asymptomatic lead-time in individuals with ARVD. While this is a genetically transmitted disease, individuals in their teens may not have any characteristics of ARVD on screening tests.</p>
+<p>Many individuals have symptoms associated with ventricular tachycardia, such as palpitations, light-headedness, or syncope. Others may have symptoms and signs related to right ventricular failure, such as lower extremity edema, or liver congestion with elevated hepatic enzymes. Unfortunately, sudden death may be the first manifestation of disease.</p>
+<p>ARVD is a progressive disease. Over time, the right ventricle becomes more involved, leading to right ventricular failure. The right ventricle will fail before there is left ventricular dysfunction. However, by the time the individual has signs of overt right ventricular failure, there will be histological involvement of the left ventricle. Eventually, the left ventricle will also become involved, leading to bi-ventricular failure. Signs and symptoms of left ventricular failure may become evident, including congestive heart failure, atrial fibrillation, and an increased incidence of thromboembolic events.</p>
+<h2><span class="mw-headline" id="Management">Management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=20" title="Edit section: Management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The goal of management of ARVD is to decrease the incidence of sudden cardiac death. This raises a clinical dilemma: How to prophylactically treat the asymptomatic patient who was diagnosed during family screening.</p>
+<p>A certain subgroup of individuals with ARVD are considered at high risk for sudden cardiac death. Characteristics associated with high risk of sudden cardiac death include:</p>
+<ul>
+<li>Young age</li>
+<li>Competitive sports activity</li>
+<li>Malignant familial history</li>
+<li>Extensive RV disease with decreased right ventricular ejection fraction.</li>
+<li>Left ventricular involvement</li>
+<li>Syncope</li>
+<li>Episode of ventricular arrhythmia</li>
+</ul>
+<p>Management options include pharmacological, surgical, catheter ablation, and placement of an <a href="/wiki/Implantable_cardioverter-defibrillator" title="Implantable cardioverter-defibrillator">implantable cardioverter-defibrillator</a>.</p>
+<p>Prior to the decision of the treatment option, <a href="/wiki/Programmed_electrical_stimulation" title="Programmed electrical stimulation" class="mw-redirect">programmed electrical stimulation</a> in the <a href="/wiki/Cardiac_electrophysiology" title="Cardiac electrophysiology">electrophysiology</a> laboratory may be performed for additional prognostic information. Goals of programmed stimulation include:</p>
+<ul>
+<li>Assessment of the disease's arrhythmogenic potential</li>
+<li>Evaluate the hemodynamic consequences of sustained VT</li>
+<li>Determine whether the VT can be interrupted via antitachycardia pacing.</li>
+</ul>
+<p>Regardless of the management option chosen, the individual is typically suggested to undergo lifestyle modification, including avoidance of strenuous exercise, cardiac stimulants (i.e.: caffeine, nicotine, pseudoephedrine) and alcohol. If the individual wishes to begin an exercise regimen, an exercise stress test may have added benefit.</p>
+<h3><span class="mw-headline" id="Pharmacologic_management">Pharmacologic management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=21" title="Edit section: Pharmacologic management">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pharmacologic management of ARVD involves arrhythmia suppression and prevention of thrombus formation.</p>
+<p><a href="/wiki/Sotalol" title="Sotalol">Sotalol</a>, a <a href="/wiki/Beta_blocker" title="Beta blocker">beta blocker</a> and a class III <a href="/wiki/Antiarrhythmic_agent" title="Antiarrhythmic agent">antiarrhythmic agent</a>, is the most effective antiarrhythmic agent in ARVD. Other antiarrhythmic agents used include <a href="/wiki/Amiodarone" title="Amiodarone">amiodarone</a> and conventional beta blockers (i.e.: metoprolol). If antiarrhythmic agents are used, their efficacy should be guided by series ambulatory holter monitoring, to show a reduction in arrhythmic events.</p>
+<p>While <a href="/wiki/Angiotensin_converting_enzyme_inhibitor" title="Angiotensin converting enzyme inhibitor" class="mw-redirect">angiotensin converting enzyme inhibitors</a> (ACE Inhibitors) are well known for slowing progression in other cardiomyopathies, they have not been proven to be helpful in ARVD.</p>
+<p>Individuals with decreased RV ejection fraction with dyskinetic portions of the right ventricle may benefit from long term anticoagulation with <a href="/wiki/Warfarin" title="Warfarin">warfarin</a> to prevent thrombus formation and subsequent <a href="/wiki/Pulmonary_embolism" title="Pulmonary embolism">pulmonary embolism</a>.</p>
+<h3><span class="mw-headline" id="Catheter_ablation">Catheter ablation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=22" title="Edit section: Catheter ablation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Catheter ablation may be used to treat intractable ventricular tachycardia. It has a 60-90% success rate.<sup id="cite_ref-Fontaine-2000_8-0" class="reference"><a href="#cite_note-Fontaine-2000-8"><span>[</span>8<span>]</span></a></sup> Unfortunately, due to the progressive nature of the disease, recurrence is common (60% recurrence rate), with the creation of new arrhythmogenic foci. Indications for catheter ablation include drug-refractory VT and frequent recurrence of VT after <a href="/wiki/Implantable_cardioverter-defibrillator" title="Implantable cardioverter-defibrillator">ICD</a> placement, causing frequent discharges of the ICD.</p>
+<h3><span class="mw-headline" id="Implantable_cardioverter-defibrillator">Implantable cardioverter-defibrillator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=23" title="Edit section: Implantable cardioverter-defibrillator">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An <a href="/wiki/Implantable_cardioverter-defibrillator" title="Implantable cardioverter-defibrillator">ICD</a> is the most effective prevention against sudden cardiac death. Due to the prohibitive cost of ICDs, they are not routinely placed in all individuals with ARVD.</p>
+<p>Indications for ICD placement in the setting of ARVD include:</p>
+<ul>
+<li>Cardiac arrest due to VT or VF</li>
+<li>Symptomatic VT that is not inducible during <a href="/w/index.php?title=Programmed_stimulation&amp;action=edit&amp;redlink=1" class="new" title="Programmed stimulation (page does not exist)">programmed stimulation</a></li>
+<li>Failed programmed stimulation-guided drug therapy</li>
+<li>Severe RV involvement with poor tolerance of VT</li>
+<li>Sudden death of immediate family member</li>
+</ul>
+<p>Since ICDs are typically placed via a transvenous approach into the right ventricle, there are complications associated with ICD placement and follow-up.</p>
+<p>Due to the extreme thinning of the RV free wall, it is possible to perforate the RV during implantation, potentially causing <a href="/wiki/Cardiac_tamponade" title="Cardiac tamponade">pericardial tamponade</a>. Because of this, every attempt is made at placing the defibrillator lead on the ventricular septum.</p>
+<p>After a successful implantation, the progressive nature of the disease may lead to fibro-fatty replacement of the myocardium at the site of lead placement. This may lead to undersensing of the individual's electrical activity (potentially causing inability to sense VT or VF), and inability to pace the ventricle.</p>
+<h3><span class="mw-headline" id="Cardiac_transplant_surgery">Cardiac transplant surgery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=24" title="Edit section: Cardiac transplant surgery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cardiac transplant surgery may be performed in ARVD. It may be indicated if the arrhythmias associated with the disease are uncontrollable or if there is severe bi-ventricular heart failure that is not manageable with pharmacological therapy.</p>
+<h3><span class="mw-headline" id="Family_screening">Family screening</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=25" title="Edit section: Family screening">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All first degree family members of the affected individual should be screened for ARVD. This is used to establish the pattern of inheritance. Screening should begin during the teenage years unless otherwise indicated. Screening tests include:</p>
+<ul>
+<li><a href="/wiki/Echocardiogram" title="Echocardiogram" class="mw-redirect">Echocardiogram</a></li>
+<li><a href="/wiki/EKG" title="EKG" class="mw-redirect">EKG</a></li>
+<li><a href="/wiki/Signal-averaged_electrocardiogram" title="Signal-averaged electrocardiogram">Signal averaged EKG</a></li>
+<li><a href="/wiki/Holter_monitor" title="Holter monitor">Holter monitoring</a></li>
+<li><a href="/wiki/Cardiovascular_Magnetic_Resonance" title="Cardiovascular Magnetic Resonance" class="mw-redirect">Cardiac MRI</a></li>
+<li><a href="/wiki/Exercise_stress_test" title="Exercise stress test" class="mw-redirect">Exercise stress test</a></li>
+</ul>
+<h2><span class="mw-headline" id="Highly-publicised_deaths_from_arrhythmogenic_right_ventricular_dysplasia">Highly-publicised deaths from arrhythmogenic right ventricular dysplasia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=26" title="Edit section: Highly-publicised deaths from arrhythmogenic right ventricular dysplasia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Columbus_Crew" title="Columbus Crew" class="mw-redirect">Columbus Crew</a> midfielder <a href="/wiki/Kirk_Urso" title="Kirk Urso">Kirk Urso</a> collapsed out with friends on August 5, 2012 and was pronounced dead an hour later. An autopsy later revealed the disease to be the likely culprit.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+<li><a href="/wiki/Sevilla_FC" title="Sevilla FC">Sevilla FC</a> and Spanish international left wing-back <a href="/wiki/Antonio_Puerta" title="Antonio Puerta">Antonio Puerta</a> died from the condition, at the age of 22, on 28 August 2007, three days after suffering several cardiac arrests, while disputing a <a href="/wiki/La_Liga" title="La Liga">La Liga</a> game against <a href="/wiki/Getafe_CF" title="Getafe CF">Getafe CF</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+<li>Englishman <a href="/wiki/Matt_Gadsby" title="Matt Gadsby">Matt Gadsby</a> also died from the condition after collapsing on the pitch on 9 September 2006, while playing with his team <a href="/wiki/Hinckley_United" title="Hinckley United" class="mw-redirect">Hinckley United</a> in a <a href="/wiki/Conference_North" title="Conference North" class="mw-redirect">Conference North</a> game against <a href="/wiki/Harrogate_Town" title="Harrogate Town" class="mw-redirect">Harrogate Town</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></li>
+<li>Model <a href="/wiki/Krissy_Taylor" title="Krissy Taylor">Krissy Taylor</a>, sister of <a href="/wiki/Niki_Taylor" title="Niki Taylor">Niki Taylor</a>, died from the disease at age 17 in 1995.</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=27" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Woolly_hair_nevus" title="Woolly hair nevus">Woolly hair nevus</a></li>
+<li><a href="/wiki/List_of_conditions_caused_by_problems_with_junctional_proteins" title="List of conditions caused by problems with junctional proteins" class="mw-redirect">List of conditions caused by problems with junctional proteins</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=28" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Fitz2-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fitz2_1-0">^</a></b></span> <span class="reference-text">Freedberg, et al. (2003). <i>Fitzpatrick's Dermatology in General Medicine</i>. (6th ed.). McGraw-Hill. <a href="/wiki/Special:BookSources/0071380760" class="internal mw-magiclink-isbn">ISBN 0-07-138076-0</a>.</span></li>
+<li id="cite_note-Andrews-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andrews_2-0">^</a></b></span> <span class="reference-text">James, William; Berger, Timothy; Elston, Dirk (2005). <i>Andrews' Diseases of the Skin: Clinical Dermatology</i>. (10th ed.). Saunders. <a href="/wiki/Special:BookSources/0721629210" class="internal mw-magiclink-isbn">ISBN 0-7216-2921-0</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation journal">Klauke B, Kossmann S, Gaertner A, Brand K, Stork I, Brodehl A, Dieding M, Walhorn V, Anselmetti D, Gerdes D, Bohms B, Schulz U, Zu Knyphausen E, Vorgerd M, Gummert J, Milting H (Dec 2010). "De novo desmin-mutation N116S is associated with arrhythmogenic right ventricular cardiomyopathy". <i>Hum Mol Genet</i> <b>19</b> (23): 4595–607. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1093%2Fhmg%2Fddq387">10.1093/hmg/ddq387</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=De+novo+desmin-mutation+N116S+is+associated+with+arrhythmogenic+right+ventricular+cardiomyopathy&amp;rft.au=Klauke+B%2C+Kossmann+S%2C+Gaertner+A%2C+Brand+K%2C+Stork+I%2C+Brodehl+A%2C+Dieding+M%2C+Walhorn+V%2C+Anselmetti+D%2C+Gerdes+D%2C+Bohms+B%2C+Schulz+U%2C+Zu+Knyphausen+E%2C+Vorgerd+M%2C+Gummert+J%2C+Milting+H&amp;rft.aulast=Klauke+B%2C+Kossmann+S%2C+Gaertner+A%2C+Brand+K%2C+Stork+I%2C+Brodehl+A%2C+Dieding+M%2C+Walhorn+V%2C+Anselmetti+D%2C+Gerdes+D%2C+Bohms+B%2C+Schulz+U%2C+Zu+Knyphausen+E%2C+Vorgerd+M%2C+Gummert+J%2C+Milting+H&amp;rft.date=Dec+2010&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1093%2Fhmg%2Fddq387&amp;rft.issue=23&amp;rft.jtitle=Hum+Mol+Genet&amp;rft.pages=4595-607&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=19" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Brodehl A, Hedde PN, Dieding M, Fatima A, Walhorn V, Gayda S, Šarić T, Klauke B, Gummert J, Anselmetti D, Heilemann M, Nienhaus GU, Milting H (May 2012). "Dual color photoactivation localization microscopy of cardiomyopathy-associated desmin mutants". <i>J Biol Chem.</i> <b>287</b> (19): 16047–57. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1074%2Fjbc.M111.313841">10.1074/jbc.M111.313841</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22403400">22403400</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=Dual+color+photoactivation+localization+microscopy+of+cardiomyopathy-associated+desmin+mutants&amp;rft.au=Brodehl+A%2C+Hedde+PN%2C+Dieding+M%2C+Fatima+A%2C+Walhorn+V%2C+Gayda+S%2C+%C5%A0ari%C4%87+T%2C+Klauke+B%2C+Gummert+J%2C+Anselmetti+D%2C+Heilemann+M%2C+Nienhaus+GU%2C+Milting+H&amp;rft.aulast=Brodehl+A%2C+Hedde+PN%2C+Dieding+M%2C+Fatima+A%2C+Walhorn+V%2C+Gayda+S%2C+%C5%A0ari%C4%87+T%2C+Klauke+B%2C+Gummert+J%2C+Anselmetti+D%2C+Heilemann+M%2C+Nienhaus+GU%2C+Milting+H&amp;rft.date=May+2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M111.313841&amp;rft_id=info%3Apmid%2F22403400&amp;rft.issue=19&amp;rft.jtitle=J+Biol+Chem.&amp;rft.pages=16047-57&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=287" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">Lahtinen, AM; Lehtonen, E; Marjamaa, A; Kaartinen, M; Heliö, T; Porthan, K; Oikarinen, L; Toivonen, L; Swan, H; Jula, A; Peltonen, L; Palotie, A; Salomaa, V; Kontula, K (2011). "Population-prevalent desmosomal mutations predisposing to arrhythmogenic right ventricular cardiomyopathy". <i>Heart rhythm&#160;: the official journal of the Heart Rhythm Society</i> <b>8</b> (8): 1214–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.hrthm.2011.03.015">10.1016/j.hrthm.2011.03.015</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21397041">21397041</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=Population-prevalent+desmosomal+mutations+predisposing+to+arrhythmogenic+right+ventricular+cardiomyopathy&amp;rft.aufirst=AM&amp;rft.au=Heli%C3%B6%2C+T&amp;rft.au=Jula%2C+A&amp;rft.au=Kaartinen%2C+M&amp;rft.au=Kontula%2C+K&amp;rft.au=Lahtinen%2C+AM&amp;rft.aulast=Lahtinen&amp;rft.au=Lehtonen%2C+E&amp;rft.au=Marjamaa%2C+A&amp;rft.au=Oikarinen%2C+L&amp;rft.au=Palotie%2C+A&amp;rft.au=Peltonen%2C+L&amp;rft.au=Porthan%2C+K&amp;rft.au=Salomaa%2C+V&amp;rft.au=Swan%2C+H&amp;rft.au=Toivonen%2C+L&amp;rft.date=2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.hrthm.2011.03.015&amp;rft_id=info%3Apmid%2F21397041&amp;rft.issue=8&amp;rft.jtitle=Heart+rhythm+%3A+the+official+journal+of+the+Heart+Rhythm+Society&amp;rft.pages=1214-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation journal">Sen-Chowdhry S, Syrris P, McKenna WJ (November 2007). "Role of genetic analysis in the management of patients with arrhythmogenic right ventricular dysplasia/cardiomyopathy". <i>J. Am. Coll. Cardiol.</i> <b>50</b> (19): 1813–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jacc.2007.08.008">10.1016/j.jacc.2007.08.008</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17980246">17980246</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=Role+of+genetic+analysis+in+the+management+of+patients+with+arrhythmogenic+right+ventricular+dysplasia%2Fcardiomyopathy&amp;rft.aulast=Sen-Chowdhry+S%2C+Syrris+P%2C+McKenna+WJ&amp;rft.au=Sen-Chowdhry+S%2C+Syrris+P%2C+McKenna+WJ&amp;rft.date=November+2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jacc.2007.08.008&amp;rft_id=info%3Apmid%2F17980246&amp;rft.issue=19&amp;rft.jtitle=J.+Am.+Coll.+Cardiol.&amp;rft.pages=1813-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=50" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&amp;partid=1131#arvd">Overview of ARVD/C Genetic Testing</a></span></li>
+<li id="cite_note-Fontaine-2000-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fontaine-2000_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Fontaine G, Tonet J, Gallais Y, Lascault G, Hidden-Lucet F, Aouate P, Halimi F, Poulain F, Johnson N, Charfeddine H, Frank R. (2000). "Ventricular tachycardia catheter ablation in arrhythmogenic right ventricular dysplasia: a 16-year experience". <i>Curr Cardiol Rep</i> <b>2</b> (6): 498–506. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs11886-000-0034-1">10.1007/s11886-000-0034-1</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11203287">11203287</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=Ventricular+tachycardia+catheter+ablation+in+arrhythmogenic+right+ventricular+dysplasia%3A+a+16-year+experience&amp;rft.au=Fontaine+G%2C+Tonet+J%2C+Gallais+Y%2C+Lascault+G%2C+Hidden-Lucet+F%2C+Aouate+P%2C+Halimi+F%2C+Poulain+F%2C+Johnson+N%2C+Charfeddine+H%2C+Frank+R.&amp;rft.aulast=Fontaine+G%2C+Tonet+J%2C+Gallais+Y%2C+Lascault+G%2C+Hidden-Lucet+F%2C+Aouate+P%2C+Halimi+F%2C+Poulain+F%2C+Johnson+N%2C+Charfeddine+H%2C+Frank+R.&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs11886-000-0034-1&amp;rft_id=info%3Apmid%2F11203287&amp;rft.issue=6&amp;rft.jtitle=Curr+Cardiol+Rep&amp;rft.pages=498-506&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=2" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Jardy, Adam. <a rel="nofollow" class="external text" href="http://www.dispatch.com/content/stories/sports/2012/08/05/05-urso-obit.html">"Crew midfielder Kirk Urso, 22, dies after being rushed to hospital from bar"</a>. <i>The Columbus Dispatch</i>. The Dispatch Printing Company<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=Crew+midfielder+Kirk+Urso%2C+22%2C+dies+after+being+rushed+to+hospital+from+bar&amp;rft.aufirst=Adam&amp;rft.au=Jardy%2C+Adam&amp;rft.aulast=Jardy&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.dispatch.com%2Fcontent%2Fstories%2Fsports%2F2012%2F08%2F05%2F05-urso-obit.html&amp;rft.jtitle=The+Columbus+Dispatch&amp;rft.pub=The+Dispatch+Printing+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Jardy, Adam. <a rel="nofollow" class="external text" href="http://www.dispatch.com/content/stories/sports/2012/09/21/crews-urso-died-of-preexisting-heart-condition.html">"Coroner: Crew's Urso died of a preexisting heart condition"</a>. <i>The Columbus Dispatch</i>. The Dispatch Printing Company<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.atitle=Coroner%3A+Crew%27s+Urso+died+of+a+preexisting+heart+condition&amp;rft.aufirst=Adam&amp;rft.au=Jardy%2C+Adam&amp;rft.aulast=Jardy&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.dispatch.com%2Fcontent%2Fstories%2Fsports%2F2012%2F09%2F21%2Fcrews-urso-died-of-preexisting-heart-condition.html&amp;rft.jtitle=The+Columbus+Dispatch&amp;rft.pub=The+Dispatch+Printing+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/europe/6964586.stm">"Sevilla star suffers heart attack"</a>. BBC Sport. 2007-08-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-08-25</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.btitle=Sevilla+star+suffers+heart+attack&amp;rft.date=2007-08-25&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Feurope%2F6964586.stm&amp;rft.pub=BBC+Sport&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://edition.cnn.com/2007/SPORT/football/08/28/spain.critical/index.html">Sevilla star dies after collapse</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070930080147/http://www.cidg.org/webcontent/default.aspx?tabid=173">"Cause of Death"</a>. Cardiac Inherited Disease Group. Archived from <a rel="nofollow" class="external text" href="http://www.cidg.org/webcontent/default.aspx?tabid=173">the original</a> on 2007-09-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-31</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.btitle=Cause+of+Death&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.cidg.org%2Fwebcontent%2Fdefault.aspx%3Ftabid%3D173&amp;rft.pub=Cardiac+Inherited+Disease+Group&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://icbirmingham.icnetwork.co.uk/0100news/0100localnews/tm_objectid=17723437&amp;method=full&amp;siteid=50002&amp;headline=shock-at-star-player-s-death-name_page.html">"Shock at star player's death"</a>. icBirmingham.co.uk. 11 September 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-26</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArrhythmogenic+right+ventricular+dysplasia&amp;rft.btitle=Shock+at+star+player%27s+death&amp;rft.date=11+September+2006&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Ficbirmingham.icnetwork.co.uk%2F0100news%2F0100localnews%2Ftm_objectid%3D17723437%26method%3Dfull%26siteid%3D50002%26headline%3Dshock-at-star-player-s-death-name_page.html&amp;rft.pub=icBirmingham.co.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit&amp;section=29" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Arrhythmogenic_right_ventricular_cardiomyopathy" class="extiw" title="commons:Category:Arrhythmogenic right ventricular cardiomyopathy">Arrhythmogenic right ventricular dysplasia</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/books/NBK1131/">GeneReviews/NCBI/NIH/UW entry on Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy, Autosomal Dominant</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/omim/604772,605676,601214,107970,125645,125647,125671,173325,180902,190230,600996,602086,602087,602861,604400,604401,607450,609040,609160,610193,610476,611528,612048,107970,125645,125647,125671,173325,180902,190230,600996,602086,602087,602861,604400,604401,607450,609040,609160,610193,610476,611528,612048">OMIM entries on Arrhythmogenic Right Ventricular Dysplasia/Cardiomyopathy, Autosomal Dominant</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.arvd.com">http://www.arvd.com</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.arvd.org">http://www.arvd.org</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.arvd-arvc-info.com">http://www.arvd-arvc-info.com</a></li>
+<li><a rel="nofollow" class="external free" href="http://ourworld.compuserve.com/homepages/drmarknorman/">http://ourworld.compuserve.com/homepages/drmarknorman/</a></li>
+<li><a rel="nofollow" class="external free" href="http://telethon.bio.unipd.it/ARVDnet/">http://telethon.bio.unipd.it/ARVDnet/</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.cardiomyopathy.org/html/which_card_arvc.htm">http://www.cardiomyopathy.org/html/which_card_arvc.htm</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heart_diseases" title="Template:Heart diseases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heart_diseases" title="Template talk:Heart diseases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heart_diseases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Cardiovascular_disease" title="Cardiovascular disease">Cardiovascular disease</a> <a href="/wiki/ICD-10_Chapter_IX:_Diseases_of_the_circulatory_system" title="ICD-10 Chapter IX: Diseases of the circulatory system">I00–I52</a>, <a href="/wiki/List_of_ICD-9_codes_390%E2%80%93459:_diseases_of_the_circulatory_system" title="List of ICD-9 codes 390–459: diseases of the circulatory system">390–429</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ischaemic" title="Ischaemic" class="mw-redirect">Ischaemic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Coronary disease</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coronary_artery_disease" title="Coronary artery disease">Coronary artery disease (CAD)</a></li>
+<li><a href="/wiki/Coronary_artery_aneurysm" title="Coronary artery aneurysm">Coronary artery aneurysm</a></li>
+<li><a href="/wiki/Coronary_artery_dissection" title="Coronary artery dissection">Coronary artery dissection</a></li>
+<li><a href="/wiki/Coronary_thrombosis" title="Coronary thrombosis">Coronary thrombosis</a></li>
+<li><a href="/wiki/Coronary_vasospasm" title="Coronary vasospasm">Coronary vasospasm</a></li>
+<li><a href="/wiki/Myocardial_bridge" title="Myocardial bridge">Myocardial bridge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Active ischemia</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angina_pectoris" title="Angina pectoris">Angina pectoris</a>
+<ul>
+<li><a href="/wiki/Prinzmetal%27s_angina" title="Prinzmetal's angina">Prinzmetal's angina</a></li>
+<li><a href="/wiki/Stable_angina" title="Stable angina" class="mw-redirect">Stable angina</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Acute_coronary_syndrome" title="Acute coronary syndrome">Acute coronary syndrome</a>
+<ul>
+<li><a href="/wiki/Myocardial_infarction" title="Myocardial infarction">Myocardial infarction</a></li>
+<li><a href="/wiki/Unstable_angina" title="Unstable angina">Unstable angina</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Myocardial_infarction_complications" title="Myocardial infarction complications">Sequelae</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>hours</i>
+<ul>
+<li><a href="/wiki/Hibernating_myocardium" title="Hibernating myocardium">Hibernating myocardium</a></li>
+<li><a href="/wiki/Myocardial_stunning" title="Myocardial stunning">Myocardial stunning</a></li>
+</ul>
+</li>
+<li><i>days</i>
+<ul>
+<li><a href="/wiki/Myocardial_rupture" title="Myocardial rupture">Myocardial rupture</a></li>
+</ul>
+</li>
+<li><i>weeks</i>
+<ul>
+<li><a href="/wiki/Aneurysm_of_heart" title="Aneurysm of heart">Aneurysm of heart</a> / <a href="/wiki/Ventricular_aneurysm" title="Ventricular aneurysm">Ventricular aneurysm</a></li>
+<li><a href="/wiki/Dressler_syndrome" title="Dressler syndrome">Dressler syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Layers</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pericardium" title="Pericardium">Pericardium</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pericarditis" title="Pericarditis">Pericarditis</a>
+<ul>
+<li><a href="/wiki/Acute_pericarditis" title="Acute pericarditis">Acute</a></li>
+<li><a href="/wiki/Pericarditis#Acute_vs._chronic" title="Pericarditis">Chronic</a> / <a href="/wiki/Constrictive_pericarditis" title="Constrictive pericarditis">Constrictive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pericardial_effusion" title="Pericardial effusion">Pericardial effusion</a>
+<ul>
+<li><a href="/wiki/Cardiac_tamponade" title="Cardiac tamponade">Cardiac tamponade</a></li>
+<li><a href="/wiki/Hemopericardium" title="Hemopericardium">Hemopericardium</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Myocardium" title="Myocardium" class="mw-redirect">Myocardium</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Myocarditis" title="Myocarditis">Myocarditis</a>
+<ul>
+<li><a href="/wiki/Chagas_disease" title="Chagas disease">Chagas disease</a></li>
+</ul>
+</li>
+<li><span class="wrap"><a href="/wiki/Cardiomyopathy" title="Cardiomyopathy">Cardiomyopathy</a>: <a href="/wiki/Dilated_cardiomyopathy" title="Dilated cardiomyopathy">Dilated</a> (<a href="/wiki/Alcoholic_cardiomyopathy" title="Alcoholic cardiomyopathy">Alcoholic</a>), <a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic</a>, <i>and</i> <a href="/wiki/Restrictive_cardiomyopathy" title="Restrictive cardiomyopathy">Restrictive</a></span>
+<ul>
+<li><span class="wrap"><a href="/wiki/Loeffler_endocarditis" title="Loeffler endocarditis">Loeffler endocarditis</a></span></li>
+<li><span class="wrap"><a href="/wiki/Amyloidosis" title="Amyloidosis">Cardiac amyloidosis</a></span></li>
+<li><span class="wrap"><a href="/wiki/Endocardial_fibroelastosis" title="Endocardial fibroelastosis">Endocardial fibroelastosis</a></span></li>
+</ul>
+</li>
+<li><strong class="selflink">Arrhythmogenic right ventricular dysplasia</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Endocardium" title="Endocardium">Endocardium</a> /<br />
+<a href="/wiki/Valvular_heart_disease" title="Valvular heart disease">valves</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Endocarditis" title="Endocarditis">Endocarditis</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Infective_endocarditis" title="Infective endocarditis">infective endocarditis</a></i>
+<ul>
+<li><a href="/wiki/Subacute_bacterial_endocarditis" title="Subacute bacterial endocarditis">Subacute bacterial endocarditis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Endocarditis#Non-infective_endocarditis" title="Endocarditis">non-infective endocarditis</a></i>
+<ul>
+<li><a href="/wiki/Libman%E2%80%93Sacks_endocarditis" title="Libman–Sacks endocarditis">Libman–Sacks endocarditis</a></li>
+<li><a href="/wiki/Nonbacterial_thrombotic_endocarditis" title="Nonbacterial thrombotic endocarditis">Nonbacterial thrombotic endocarditis</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Valves</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Mitral_valve" title="Mitral valve">mitral</a></i>
+<ul>
+<li><a href="/wiki/Mitral_regurgitation" title="Mitral regurgitation" class="mw-redirect">regurgitation</a></li>
+<li><a href="/wiki/Mitral_valve_prolapse" title="Mitral valve prolapse">prolapse</a></li>
+<li><a href="/wiki/Mitral_stenosis" title="Mitral stenosis" class="mw-redirect">stenosis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Aortic_valve" title="Aortic valve">aortic</a></i>
+<ul>
+<li><a href="/wiki/Aortic_valve_stenosis" title="Aortic valve stenosis" class="mw-redirect">stenosis</a></li>
+<li><a href="/wiki/Aortic_insufficiency" title="Aortic insufficiency">insufficiency</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Tricuspid_valve" title="Tricuspid valve">tricuspid</a></i>
+<ul>
+<li><a href="/wiki/Tricuspid_valve_stenosis" title="Tricuspid valve stenosis">stenosis</a></li>
+<li><a href="/wiki/Tricuspid_insufficiency" title="Tricuspid insufficiency">insufficiency</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Pulmonary_valve" title="Pulmonary valve">pulmonary</a></i>
+<ul>
+<li><a href="/wiki/Pulmonary_valve_stenosis" title="Pulmonary valve stenosis">stenosis</a></li>
+<li><a href="/wiki/Pulmonary_valve_insufficiency" title="Pulmonary valve insufficiency" class="mw-redirect">insufficiency</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Electrical_conduction_system_of_the_heart" title="Electrical conduction system of the heart">Conduction</a> /<br />
+<a href="/wiki/Cardiac_dysrhythmia" title="Cardiac dysrhythmia" class="mw-redirect">arrhythmia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Bradycardia" title="Bradycardia">Bradycardia</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sinus_bradycardia" title="Sinus bradycardia">Sinus bradycardia</a></li>
+<li><a href="/wiki/Sick_sinus_syndrome" title="Sick sinus syndrome">Sick sinus syndrome</a></li>
+<li><a href="/wiki/Heart_block" title="Heart block">Heart block</a>: <a href="/wiki/Sinoatrial_block" title="Sinoatrial block">Sinoatrial</a></li>
+<li><a href="/wiki/Atrioventricular_block" title="Atrioventricular block">AV</a>
+<ul>
+<li><a href="/wiki/First-degree_atrioventricular_block" title="First-degree atrioventricular block">1°</a></li>
+<li><a href="/wiki/Second-degree_atrioventricular_block" title="Second-degree atrioventricular block">2°</a></li>
+<li><a href="/wiki/Third-degree_atrioventricular_block" title="Third-degree atrioventricular block">3°</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Intraventricular_block" title="Intraventricular block">Intraventricular</a></li>
+<li><a href="/wiki/Bundle_branch_block" title="Bundle branch block">Bundle branch block</a>
+<ul>
+<li><a href="/wiki/Right_bundle_branch_block" title="Right bundle branch block">Right</a></li>
+<li><a href="/wiki/Left_bundle_branch_block" title="Left bundle branch block">Left</a></li>
+<li><a href="/wiki/Left_anterior_fascicular_block" title="Left anterior fascicular block">Left anterior fascicle</a></li>
+<li><a href="/wiki/Left_posterior_fascicular_block" title="Left posterior fascicular block">Left posterior fascicle</a></li>
+<li><a href="/wiki/Bifascicular_block" title="Bifascicular block">Bifascicular</a></li>
+<li><a href="/wiki/Trifascicular_block" title="Trifascicular block">Trifascicular</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Adams%E2%80%93Stokes_syndrome" title="Adams–Stokes syndrome">Adams–Stokes syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Tachycardia" title="Tachycardia">Tachycardia</a><br />
+(<a href="/wiki/Paroxysmal_tachycardia" title="Paroxysmal tachycardia">paroxysmal</a> and <a href="/wiki/Sinus_tachycardia" title="Sinus tachycardia">sinus</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Supraventricular_tachycardia" title="Supraventricular tachycardia">Supraventricular</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atrial_tachycardia" title="Atrial tachycardia">Atrial</a>
+<ul>
+<li><a href="/wiki/Multifocal_atrial_tachycardia" title="Multifocal atrial tachycardia">Multifocal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Junctional_tachycardia" title="Junctional tachycardia">Junctional</a>
+<ul>
+<li><a href="/wiki/AV_nodal_reentrant_tachycardia" title="AV nodal reentrant tachycardia">AV nodal reentrant</a></li>
+<li><a href="/wiki/Junctional_ectopic_tachycardia" title="Junctional ectopic tachycardia">Junctional ectopic</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Ventricular_tachycardia" title="Ventricular tachycardia">Ventricular</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerated_idioventricular_rhythm" title="Accelerated idioventricular rhythm">Accelerated idioventricular rhythm</a></li>
+<li><a href="/wiki/Catecholaminergic_polymorphic_ventricular_tachycardia" title="Catecholaminergic polymorphic ventricular tachycardia">Catecholaminergic polymorphic</a></li>
+<li><a href="/wiki/Torsades_de_pointes" title="Torsades de pointes">Torsades de pointes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Premature contraction</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Premature_atrial_contraction" title="Premature atrial contraction">Atrial</a></li>
+<li><a href="/wiki/Premature_junctional_contraction" title="Premature junctional contraction">Junctional</a></li>
+<li><a href="/wiki/Premature_ventricular_contraction" title="Premature ventricular contraction">Ventricular</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Pre-excitation_syndrome" title="Pre-excitation syndrome">Pre-excitation syndrome</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lown%E2%80%93Ganong%E2%80%93Levine_syndrome" title="Lown–Ganong–Levine syndrome">Lown–Ganong–Levine</a></li>
+<li><a href="/wiki/Wolff%E2%80%93Parkinson%E2%80%93White_syndrome" title="Wolff–Parkinson–White syndrome">Wolff–Parkinson–White</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Flutter / <a href="/wiki/Fibrillation" title="Fibrillation">fibrillation</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atrial_flutter" title="Atrial flutter">Atrial flutter</a></li>
+<li><a href="/wiki/Ventricular_flutter" title="Ventricular flutter">Ventricular flutter</a></li>
+<li><a href="/wiki/Atrial_fibrillation" title="Atrial fibrillation">Atrial fibrillation</a>
+<ul>
+<li><a href="/wiki/Familial_atrial_fibrillation" title="Familial atrial fibrillation">Familial</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ventricular_fibrillation" title="Ventricular fibrillation">Ventricular fibrillation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Artificial_cardiac_pacemaker" title="Artificial cardiac pacemaker">Pacemaker</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ectopic_pacemaker" title="Ectopic pacemaker">Ectopic pacemaker</a> / <a href="/wiki/Ectopic_beat" title="Ectopic beat">Ectopic beat</a></li>
+<li><a href="/wiki/Multifocal_atrial_tachycardia" title="Multifocal atrial tachycardia">Multifocal atrial tachycardia</a></li>
+<li><a href="/wiki/Pacemaker_syndrome" title="Pacemaker syndrome">Pacemaker syndrome</a></li>
+<li><a href="/wiki/Parasystole" title="Parasystole">Parasystole</a></li>
+<li><a href="/wiki/Wandering_pacemaker" title="Wandering pacemaker">Wandering pacemaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Andersen%E2%80%93Tawil_syndrome" title="Andersen–Tawil syndrome">Andersen–Tawil</a></li>
+<li><a href="/wiki/Jervell_and_Lange-Nielsen_syndrome" title="Jervell and Lange-Nielsen syndrome">Jervell and Lange-Nielsen</a></li>
+<li><a href="/wiki/Romano%E2%80%93Ward_syndrome" title="Romano–Ward syndrome">Romano–Ward</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Cardiac_arrest" title="Cardiac arrest">Cardiac arrest</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sudden_cardiac_death" title="Sudden cardiac death">Sudden cardiac death</a></li>
+<li><a href="/wiki/Asystole" title="Asystole">Asystole</a></li>
+<li><a href="/wiki/Pulseless_electrical_activity" title="Pulseless electrical activity">Pulseless electrical activity</a></li>
+<li><a href="/wiki/Sinoatrial_arrest" title="Sinoatrial arrest">Sinoatrial arrest</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Other / ungrouped</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Hexaxial_reference_system" title="Hexaxial reference system">hexaxial reference system</a></i>
+<ul>
+<li><a href="/wiki/Right_axis_deviation" title="Right axis deviation">Right axis deviation</a></li>
+<li><a href="/wiki/Left_axis_deviation" title="Left axis deviation">Left axis deviation</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/QT_interval" title="QT interval">QT</a></i>
+<ul>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/T_wave" title="T wave">T</a></i>
+<ul>
+<li><a href="/wiki/T_wave_alternans" title="T wave alternans">T wave alternans</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/ST_segment" title="ST segment">ST</a></i>
+<ul>
+<li><a href="/wiki/Osborn_wave" title="Osborn wave">Osborn wave</a></li>
+<li><a href="/wiki/ST_elevation" title="ST elevation">ST elevation</a></li>
+<li><a href="/wiki/ST_depression" title="ST depression">ST depression</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cardiomegaly" title="Cardiomegaly">Cardiomegaly</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ventricular_hypertrophy" title="Ventricular hypertrophy">Ventricular hypertrophy</a>
+<ul>
+<li><a href="/wiki/Left_ventricular_hypertrophy" title="Left ventricular hypertrophy">Left</a></li>
+<li><a href="/wiki/Right_ventricular_hypertrophy" title="Right ventricular hypertrophy">Right</a> / <a href="/wiki/Pulmonary_heart_disease" title="Pulmonary heart disease">Cor pulmonale</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Atrial_enlargement" title="Atrial enlargement">Atrial enlargement</a>
+<ul>
+<li><a href="/wiki/Left_atrial_enlargement" title="Left atrial enlargement">Left</a></li>
+<li><a href="/wiki/Right_atrial_enlargement" title="Right atrial enlargement">Right</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cardiac_fibrosis" title="Cardiac fibrosis">Cardiac fibrosis</a></li>
+<li><a href="/wiki/Heart_failure" title="Heart failure">Heart failure</a>
+<ul>
+<li><a href="/wiki/Diastolic_heart_failure" title="Diastolic heart failure">Diastolic heart failure</a></li>
+<li><a href="/wiki/Cardiac_asthma" title="Cardiac asthma">Cardiac asthma</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Rheumatic_fever" title="Rheumatic fever">Rheumatic fever</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heart_navs" title="Template:Heart navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heart_navs" title="Template talk:Heart navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heart_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Human_heart" title="Human heart" class="mw-redirect">heart</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Heart_anatomy" title="Template:Heart anatomy">Anatomy</a></li>
+<li><a href="/wiki/Template:Cardiovascular_physiology" title="Template:Cardiovascular physiology">Physiology</a></li>
+<li><a href="/wiki/Template:Development_of_mammalian_circulatory_system" title="Template:Development of mammalian circulatory system">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Chest_trauma" title="Template:Chest trauma">Injury</a></li>
+<li><a href="/wiki/Template:Congenital_heart_defects" title="Template:Congenital heart defects">Congenital</a></li>
+<li><a href="/wiki/Template:Heart_neoplasia" title="Template:Heart neoplasia">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Heart_diseases" title="Template:Heart diseases">Other</a></li>
+<li><a href="/wiki/Template:Cardiovascular_system_symptoms_and_signs" title="Template:Cardiovascular system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_cardiovascular_system" title="Template:Eponymous medical signs for cardiovascular system">eponymous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Clinical_biochemistry_blood_tests" title="Template:Clinical biochemistry blood tests">Blood tests</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cardiac_procedures" title="Template:Cardiac procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Cardiac_glycosides" title="Template:Cardiac glycosides">glycosides</a></li>
+<li><a href="/wiki/Template:Cardiac_stimulants_excluding_cardiac_glycosides" title="Template:Cardiac stimulants excluding cardiac glycosides">other stimulants</a></li>
+<li><a href="/wiki/Template:Antiarrhythmic_agents" title="Template:Antiarrhythmic agents">antiarrhythmics</a></li>
+<li><a href="/wiki/Template:Vasodilators_used_in_cardiac_diseases" title="Template:Vasodilators used in cardiac diseases">vasodilators</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cytoskeletal_defects" title="Template talk:Cytoskeletal defects"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cytoskeletal_defects&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Cytoskeleton" title="Cytoskeleton">Cytoskeletal</a> defects</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Microfilament" title="Microfilament">Microfilaments</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Myofilament" title="Myofilament">Myofilament</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Actin" title="Actin">Actin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 11</a></li>
+<li><a href="/wiki/Dilated_cardiomyopathy" title="Dilated cardiomyopathy">Dilated cardiomyopathy 1AA</a></li>
+<li><a href="/wiki/Nonsyndromic_deafness" title="Nonsyndromic deafness">DFNA20</a></li>
+<li><a href="/wiki/Nemaline_myopathy" title="Nemaline myopathy">Nemaline myopathy 3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Myosin" title="Myosin">Myosin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elejalde_syndrome" title="Elejalde syndrome">Elejalde syndrome</a></li>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 1, 8, 10</a></li>
+<li><a href="/wiki/Usher_syndrome" title="Usher syndrome">Usher syndrome 1B</a></li>
+<li><a href="/wiki/Freeman%E2%80%93Sheldon_syndrome" title="Freeman–Sheldon syndrome">Freeman–Sheldon syndrome</a></li>
+<li><a href="/wiki/Nonsyndromic_deafness" title="Nonsyndromic deafness">DFN A3, 4, 11, 17, 22; B2, 30, 37, 48</a></li>
+<li><a href="/wiki/May-Hegglin_anomaly" title="May-Hegglin anomaly" class="mw-redirect">May-Hegglin anomaly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Troponin" title="Troponin">Troponin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 7, 2</a></li>
+<li><a href="/wiki/Nemaline_myopathy" title="Nemaline myopathy">Nemaline myopathy 4, 5</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Tropomyosin" title="Tropomyosin">Tropomyosin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 3</a></li>
+<li><a href="/wiki/Nemaline_myopathy" title="Nemaline myopathy">Nemaline myopathy 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Titin" title="Titin">Titin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 9</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fibrillin" title="Fibrillin">Fibrillin</a>
+<ul>
+<li><a href="/wiki/Marfan_syndrome" title="Marfan syndrome">Marfan syndrome</a></li>
+<li><a href="/wiki/Weill-Marchesani_syndrome" title="Weill-Marchesani syndrome" class="mw-redirect">Weill-Marchesani syndrome</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Filamin" title="Filamin">Filamin</a>
+<ul>
+<li><a href="/wiki/FG_syndrome" title="FG syndrome">FG syndrome 2</a></li>
+<li><a href="/wiki/Boomerang_dysplasia" title="Boomerang dysplasia">Boomerang dysplasia</a></li>
+<li><a href="/wiki/Larsen_syndrome" title="Larsen syndrome">Larsen syndrome</a></li>
+<li><a href="/wiki/Terminal_osseous_dysplasia_with_pigmentary_defects" title="Terminal osseous dysplasia with pigmentary defects">Terminal osseous dysplasia with pigmentary defects</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Intermediate_filament" title="Intermediate filament">IF</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">1/2</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Keratin_disease" title="Keratin disease">Keratinopathy</a> (<a href="/wiki/Keratosis" title="Keratosis">keratosis</a>, <a href="/wiki/Keratoderma" title="Keratoderma">keratoderma</a>, <a href="/wiki/Hyperkeratosis" title="Hyperkeratosis">hyperkeratosis</a>): <a href="/wiki/Keratin_1" title="Keratin 1">KRT1</a>
+<ul>
+<li><a href="/wiki/Striate_palmoplantar_keratoderma" title="Striate palmoplantar keratoderma" class="mw-redirect">Striate palmoplantar keratoderma 3</a></li>
+<li><a href="/wiki/Epidermolytic_hyperkeratosis" title="Epidermolytic hyperkeratosis">Epidermolytic hyperkeratosis</a></li>
+<li><a href="/wiki/Ichthyosis_hystrix" title="Ichthyosis hystrix">IHCM</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Keratin_2A" title="Keratin 2A">KRT2E</a> (<a href="/wiki/Ichthyosis_bullosa_of_Siemens" title="Ichthyosis bullosa of Siemens">Ichthyosis bullosa of Siemens</a>)</li>
+<li><a href="/wiki/Keratin_3" title="Keratin 3">KRT3</a> (<a href="/wiki/Meesmann_juvenile_epithelial_corneal_dystrophy" title="Meesmann juvenile epithelial corneal dystrophy" class="mw-redirect">Meesmann juvenile epithelial corneal dystrophy</a>)</li>
+<li><a href="/wiki/Keratin_4" title="Keratin 4">KRT4</a> (<a href="/wiki/White_sponge_nevus" title="White sponge nevus">White sponge nevus</a>)</li>
+<li><a href="/wiki/Keratin_5" title="Keratin 5">KRT5</a> (<a href="/wiki/Epidermolysis_bullosa_simplex" title="Epidermolysis bullosa simplex">Epidermolysis bullosa simplex</a>)</li>
+<li><a href="/wiki/Keratin_8" title="Keratin 8">KRT8</a> (<a href="/wiki/Familial_cirrhosis" title="Familial cirrhosis">Familial cirrhosis</a>)</li>
+<li><a href="/wiki/Keratin_10" title="Keratin 10">KRT10</a> (<a href="/wiki/Epidermolytic_hyperkeratosis" title="Epidermolytic hyperkeratosis">Epidermolytic hyperkeratosis</a>)</li>
+<li><a href="/wiki/Keratin_12" title="Keratin 12">KRT12</a> (<a href="/wiki/Meesmann_juvenile_epithelial_corneal_dystrophy" title="Meesmann juvenile epithelial corneal dystrophy" class="mw-redirect">Meesmann juvenile epithelial corneal dystrophy</a>)</li>
+<li><a href="/wiki/Keratin_13" title="Keratin 13">KRT13</a> (<a href="/wiki/White_sponge_nevus" title="White sponge nevus">White sponge nevus</a>)</li>
+<li><a href="/wiki/Keratin_14" title="Keratin 14">KRT14</a> (<a href="/wiki/Epidermolysis_bullosa_simplex" title="Epidermolysis bullosa simplex">Epidermolysis bullosa simplex</a>)</li>
+<li><a href="/wiki/Keratin_17" title="Keratin 17">KRT17</a> (<a href="/wiki/Steatocystoma_multiplex" title="Steatocystoma multiplex">Steatocystoma multiplex</a>)</li>
+<li><a href="/wiki/Keratin_18" title="Keratin 18">KRT18</a> (<a href="/wiki/Familial_cirrhosis" title="Familial cirrhosis">Familial cirrhosis</a>)</li>
+<li><a href="/wiki/KRT81" title="KRT81">KRT81</a>/<a href="/wiki/KRT83" title="KRT83">KRT83</a>/<a href="/wiki/KRT86" title="KRT86">KRT86</a> (<a href="/wiki/Monilethrix" title="Monilethrix">Monilethrix</a>)</li>
+<li><a href="/wiki/Naegeli%E2%80%93Franceschetti%E2%80%93Jadassohn_syndrome" title="Naegeli–Franceschetti–Jadassohn syndrome">Naegeli–Franceschetti–Jadassohn syndrome</a></li>
+<li><a href="/wiki/Reticular_pigmented_anomaly_of_the_flexures" title="Reticular pigmented anomaly of the flexures">Reticular pigmented anomaly of the flexures</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Desmin" title="Desmin">Desmin</a>: <a href="/wiki/Desmin-related_myofibrillar_myopathy" title="Desmin-related myofibrillar myopathy">Desmin-related myofibrillar myopathy</a></li>
+<li><a href="/wiki/Dilated_cardiomyopathy" title="Dilated cardiomyopathy">Dilated cardiomyopathy 1I</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Glial_fibrillary_acidic_protein" title="Glial fibrillary acidic protein">GFAP</a>: <a href="/wiki/Alexander_disease" title="Alexander disease">Alexander disease</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Peripherin" title="Peripherin">Peripherin</a>: <a href="/wiki/Amyotrophic_lateral_sclerosis" title="Amyotrophic lateral sclerosis">Amyotrophic lateral sclerosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">4</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neurofilament" title="Neurofilament">Neurofilament</a>: <a href="/wiki/Parkinson%27s_disease" title="Parkinson's disease">Parkinson's disease</a></li>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 1F, 2E</a></li>
+<li><a href="/wiki/Amyotrophic_lateral_sclerosis" title="Amyotrophic lateral sclerosis">Amyotrophic lateral sclerosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">5</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Laminopathy" title="Laminopathy">Laminopathy</a>: LMNA
+<ul>
+<li><a href="/wiki/Mandibuloacral_dysplasia" title="Mandibuloacral dysplasia">Mandibuloacral dysplasia</a></li>
+<li><a href="/wiki/Dunnigan_familial_partial_lipodystrophy" title="Dunnigan familial partial lipodystrophy">Dunnigan</a> <a href="/wiki/Familial_partial_lipodystrophy" title="Familial partial lipodystrophy">Familial partial lipodystrophy</a></li>
+<li><a href="/wiki/Emery-Dreifuss_muscular_dystrophy" title="Emery-Dreifuss muscular dystrophy" class="mw-redirect">Emery-Dreifuss muscular dystrophy 2</a></li>
+<li><a href="/wiki/Limb-girdle_muscular_dystrophy" title="Limb-girdle muscular dystrophy">Limb-girdle muscular dystrophy 1B</a></li>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 2B1</a></li>
+</ul>
+</li>
+<li>LMNB
+<ul>
+<li><a href="/wiki/Barraquer%E2%80%93Simons_syndrome" title="Barraquer–Simons syndrome">Barraquer–Simons syndrome</a></li>
+</ul>
+</li>
+<li>LEMD3
+<ul>
+<li><a href="/wiki/Buschke%E2%80%93Ollendorff_syndrome" title="Buschke–Ollendorff syndrome">Buschke–Ollendorff syndrome</a></li>
+<li><a href="/wiki/Osteopoikilosis" title="Osteopoikilosis">Osteopoikilosis</a></li>
+</ul>
+</li>
+<li>LBR
+<ul>
+<li><a href="/wiki/Pelger-Huet_anomaly" title="Pelger-Huet anomaly" class="mw-redirect">Pelger-Huet anomaly</a></li>
+<li><a href="/wiki/Hydrops-ectopic_calcification-moth-eaten_skeletal_dysplasia" title="Hydrops-ectopic calcification-moth-eaten skeletal dysplasia">Hydrops-ectopic calcification-moth-eaten skeletal dysplasia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Microtubule" title="Microtubule">Microtubules</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Kinesin" title="Kinesin">Kinesin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 2A</a></li>
+<li><a href="/wiki/Hereditary_spastic_paraplegia" title="Hereditary spastic paraplegia">Hereditary spastic paraplegia 10</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dynein" title="Dynein">Dynein</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Primary_ciliary_dyskinesia" title="Primary ciliary dyskinesia">Primary ciliary dyskinesia</a></li>
+<li><a href="/wiki/Short_rib-polydactyly_syndrome" title="Short rib-polydactyly syndrome" class="mw-redirect">Short rib-polydactyly syndrome 3</a></li>
+<li><a href="/wiki/Asphyxiating_thoracic_dysplasia" title="Asphyxiating thoracic dysplasia">Asphyxiating thoracic dysplasia 3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tauopathy" title="Tauopathy">Tauopathy</a></li>
+<li><a href="/wiki/Cavernous_venous_malformation" title="Cavernous venous malformation">Cavernous venous malformation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Membrane_protein" title="Membrane protein">Membrane</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spectrin" title="Spectrin">Spectrin</a>: <a href="/wiki/Spinocerebellar_ataxia" title="Spinocerebellar ataxia">Spinocerebellar ataxia 5</a></li>
+<li><a href="/wiki/Hereditary_spherocytosis" title="Hereditary spherocytosis">Hereditary spherocytosis 2, 3</a></li>
+<li><a href="/wiki/Hereditary_elliptocytosis" title="Hereditary elliptocytosis">Hereditary elliptocytosis 2, 3</a></li>
+</ul>
+<p><a href="/wiki/Ankyrin" title="Ankyrin">Ankyrin</a>: <a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 4</a></p>
+<ul>
+<li><a href="/wiki/Hereditary_spherocytosis" title="Hereditary spherocytosis">Hereditary spherocytosis 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Catenin" title="Catenin">Catenin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Adenomatous_polyposis_coli" title="Adenomatous polyposis coli">APC</a></i>
+<ul>
+<li><a href="/wiki/Gardner%27s_syndrome" title="Gardner's syndrome">Gardner's syndrome</a></li>
+<li><a href="/wiki/Familial_adenomatous_polyposis" title="Familial adenomatous polyposis">Familial adenomatous polyposis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Plakoglobin" title="Plakoglobin">plakoglobin</a></i> (<a href="/wiki/Naxos_syndrome" title="Naxos syndrome">Naxos syndrome</a>)</li>
+<li><i><a href="/wiki/Gigaxonin" title="Gigaxonin">GAN</a></i> (<a href="/wiki/Giant_axonal_neuropathy" title="Giant axonal neuropathy">Giant axonal neuropathy</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Desmoplakin" title="Desmoplakin">desmoplakin</a>: <a href="/wiki/Striate_palmoplantar_keratoderma" title="Striate palmoplantar keratoderma" class="mw-redirect">Striate palmoplantar keratoderma 2</a></li>
+<li><a href="/wiki/Carvajal_syndrome" title="Carvajal syndrome" class="mw-redirect">Carvajal syndrome</a></li>
+<li><strong class="selflink">Arrhythmogenic right ventricular dysplasia 8</strong></li>
+</ul>
+<ul>
+<li><a href="/wiki/Plectin" title="Plectin">plectin</a>: <a href="/wiki/Epidermolysis_bullosa_simplex_with_muscular_dystrophy" title="Epidermolysis bullosa simplex with muscular dystrophy" class="mw-redirect">Epidermolysis bullosa simplex with muscular dystrophy</a></li>
+<li><a href="/wiki/Epidermolysis_bullosa_simplex_of_Ogna" title="Epidermolysis bullosa simplex of Ogna" class="mw-redirect">Epidermolysis bullosa simplex of Ogna</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Plakophilin" title="Plakophilin">plakophilin</a>: <a href="/wiki/Skin_fragility_syndrome" title="Skin fragility syndrome">Skin fragility syndrome</a></li>
+<li><strong class="selflink">Arrhythmogenic right ventricular dysplasia 9</strong></li>
+</ul>
+<ul>
+<li><a href="/wiki/Centrosome" title="Centrosome">centrosome</a>: <i><a href="/wiki/PCNT" title="PCNT">PCNT</a></i> (<a href="/wiki/Microcephalic_osteodysplastic_primordial_dwarfism_type_II" title="Microcephalic osteodysplastic primordial dwarfism type II">Microcephalic osteodysplastic primordial dwarfism type II</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>See also: <a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeletal proteins</a></i></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Other_cell_membrane_protein_disorders" title="Template talk:Other cell membrane protein disorders"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Other_cell_membrane_protein_disorders&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Cell_membrane" title="Cell membrane">Cell membrane</a> protein disorders (other than <a href="/wiki/Cell_surface_receptor" title="Cell surface receptor">Cell surface receptor</a>, <a href="/wiki/Enzyme" title="Enzyme">enzymes</a>, and <a href="/wiki/Cytoskeleton" title="Cytoskeleton">cytoskeleton</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Arrestin" title="Arrestin">Arrestin</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Oguchi_disease" title="Oguchi disease">Oguchi disease 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Myelin" title="Myelin">Myelin</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pelizaeus%E2%80%93Merzbacher_disease" title="Pelizaeus–Merzbacher disease">Pelizaeus–Merzbacher disease</a></li>
+<li><a href="/wiki/Dejerine%E2%80%93Sottas_disease" title="Dejerine–Sottas disease">Dejerine–Sottas disease</a></li>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 1B, 2J</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pulmonary_surfactant" title="Pulmonary surfactant">Pulmonary surfactant</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Surfactant_metabolism_dysfunction" title="Surfactant metabolism dysfunction">Surfactant metabolism dysfunction 1, 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cell_adhesion_molecule" title="Cell adhesion molecule">Cell adhesion molecule</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><span style="font-weight:normal;"><a href="/wiki/IgSF_CAM" title="IgSF CAM">IgSF CAM</a>:</span></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cleft_lip_and_palate" title="Cleft lip and palate">OFC7</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><span style="font-weight:normal;"><a href="/wiki/Cadherin" title="Cadherin">Cadherin</a>:</span></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Desmoglein-1" title="Desmoglein-1">DSG1</a></i>
+<ul>
+<li><a href="/wiki/Palmoplantar_keratoderma" title="Palmoplantar keratoderma">Striate palmoplantar keratoderma 1</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Desmoglein-2" title="Desmoglein-2">DSG2</a></i>
+<ul>
+<li><strong class="selflink">Arrhythmogenic right ventricular dysplasia 10</strong></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Desmoglein-4" title="Desmoglein-4">DSG4</a></i>
+<ul>
+<li><a href="/wiki/Hypotrichosis" title="Hypotrichosis">LAH1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/DSC2" title="DSC2">DSC2</a></i>
+<ul>
+<li><strong class="selflink">Arrhythmogenic right ventricular dysplasia 11</strong></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Integrin" title="Integrin">Integrin</a>:</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptor deficiencies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Tetraspanin" title="Tetraspanin">Tetraspanin</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/TSPAN7" title="TSPAN7">TSPAN7</a></i>
+<ul>
+<li><a href="/wiki/X-linked_intellectual_disability" title="X-linked intellectual disability">X-Linked mental retardation 58</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/TSPAN12" title="TSPAN12">TSPAN12</a></i>
+<ul>
+<li><a href="/wiki/Familial_exudative_vitreoretinopathy" title="Familial exudative vitreoretinopathy">Familial exudative vitreoretinopathy 5</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/C20orf42" title="C20orf42">KIND1</a></i>
+<ul>
+<li><a href="/wiki/Kindler_syndrome" title="Kindler syndrome">Kindler syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/HFE_(gene)" title="HFE (gene)">HFE</a></i>
+<ul>
+<li><a href="/wiki/HFE_hereditary_haemochromatosis" title="HFE hereditary haemochromatosis">HFE hereditary haemochromatosis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Dysferlin" title="Dysferlin">DYSF</a></i>
+<ul>
+<li><a href="/wiki/Distal_muscular_dystrophy" title="Distal muscular dystrophy">Distal muscular dystrophy</a></li>
+<li><a href="/wiki/Limb-girdle_muscular_dystrophy" title="Limb-girdle muscular dystrophy">Limb-girdle muscular dystrophy 2B</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>See also <a href="/wiki/Template:Other_cell_membrane_proteins" title="Template:Other cell membrane proteins">other cell membrane proteins</a></i><br /></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Channelopathy" title="Template talk:Channelopathy"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Channelopathy&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Channelopathy" title="Channelopathy">Diseases of ion channels</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Calcium_channel" title="Calcium channel">Calcium channel</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Voltage-dependent_calcium_channel" title="Voltage-dependent calcium channel">Voltage-gated</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cav2.1" title="Cav2.1">CACNA1A</a></i>
+<ul>
+<li><a href="/wiki/Familial_hemiplegic_migraine" title="Familial hemiplegic migraine">Familial hemiplegic migraine 1</a></li>
+<li><a href="/wiki/Episodic_ataxia" title="Episodic ataxia">Episodic ataxia 2</a></li>
+<li><a href="/wiki/Spinocerebellar_ataxia_type-6" title="Spinocerebellar ataxia type-6" class="mw-redirect">Spinocerebellar ataxia type-6</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Cav1.2" title="Cav1.2">CACNA1C</a></i>
+<ul>
+<li><a href="/wiki/Timothy_syndrome" title="Timothy syndrome">Timothy syndrome</a></li>
+<li><a href="/wiki/Brugada_syndrome" title="Brugada syndrome">Brugada syndrome 3</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 8</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Cav1.4" title="Cav1.4">CACNA1F</a></i>
+<ul>
+<li><a href="/wiki/Ocular_albinism" title="Ocular albinism">Ocular albinism 2</a></li>
+<li><a href="/wiki/X-linked_congenital_stationary_night_blindness" title="X-linked congenital stationary night blindness">CSNB2A</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Cav1.1" title="Cav1.1">CACNA1S</a></i>
+<ul>
+<li><a href="/wiki/Hypokalemic_periodic_paralysis" title="Hypokalemic periodic paralysis">Hypokalemic periodic paralysis 1</a></li>
+<li><a href="/wiki/Thyrotoxic_periodic_paralysis" title="Thyrotoxic periodic paralysis">Thyrotoxic periodic paralysis 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CACNB2" title="CACNB2">CACNB2</a></i>
+<ul>
+<li><a href="/wiki/Brugada_syndrome" title="Brugada syndrome">Brugada syndrome 4</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ligand gated</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/RYR1" title="RYR1">RYR1</a></i>
+<ul>
+<li><a href="/wiki/Malignant_hyperthermia" title="Malignant hyperthermia">Malignant hyperthermia</a></li>
+<li><a href="/wiki/Central_core_disease" title="Central core disease">Central core disease</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/RYR2" title="RYR2" class="mw-redirect">RYR2</a></i>
+<ul>
+<li><a href="/wiki/Catecholaminergic_polymorphic_ventricular_tachycardia" title="Catecholaminergic polymorphic ventricular tachycardia">CPVT1</a></li>
+<li><strong class="selflink">ARVD2</strong></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sodium_channel" title="Sodium channel">Sodium channel</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Voltage-gated</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/SCN1A" title="SCN1A" class="mw-redirect">SCN1A</a></i>
+<ul>
+<li><a href="/wiki/Familial_hemiplegic_migraine" title="Familial hemiplegic migraine">Familial hemiplegic migraine 3</a></li>
+<li><a href="/wiki/Generalized_epilepsy_with_febrile_seizures_plus" title="Generalized epilepsy with febrile seizures plus">GEFS+ 2</a></li>
+<li><a href="/wiki/Febrile_seizure" title="Febrile seizure">Febrile seizure 3A</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN1B" title="SCN1B">SCN1B</a></i>
+<ul>
+<li><a href="/wiki/Brugada_syndrome" title="Brugada syndrome">Brugada syndrome 6</a></li>
+<li><a href="/wiki/Generalized_epilepsy_with_febrile_seizures_plus" title="Generalized epilepsy with febrile seizures plus">GEFS+ 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN4A" title="SCN4A" class="mw-redirect">SCN4A</a></i>
+<ul>
+<li><a href="/wiki/Hypokalemic_periodic_paralysis" title="Hypokalemic periodic paralysis">Hypokalemic periodic paralysis 2</a></li>
+<li><a href="/wiki/Hyperkalemic_periodic_paralysis" title="Hyperkalemic periodic paralysis">Hyperkalemic periodic paralysis</a></li>
+<li><a href="/wiki/Paramyotonia_congenita" title="Paramyotonia congenita">Paramyotonia congenita</a></li>
+<li><a href="/wiki/Potassium-aggravated_myotonia" title="Potassium-aggravated myotonia">Potassium-aggravated myotonia</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN4B" title="SCN4B">SCN4B</a></i>
+<ul>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 10</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN5A" title="SCN5A" class="mw-redirect">SCN5A</a></i>
+<ul>
+<li><a href="/wiki/Brugada_syndrome" title="Brugada syndrome">Brugada syndrome 1</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCN9A" title="SCN9A" class="mw-redirect">SCN9A</a></i>
+<ul>
+<li><a href="/wiki/Erythromelalgia" title="Erythromelalgia">Erythromelalgia</a></li>
+<li><a href="/wiki/Febrile_seizure" title="Febrile seizure">Febrile seizure 3B</a></li>
+<li><a href="/wiki/Paroxysmal_extreme_pain_disorder" title="Paroxysmal extreme pain disorder">Paroxysmal extreme pain disorder</a></li>
+<li><a href="/wiki/Congenital_insensitivity_to_pain" title="Congenital insensitivity to pain">Congenital insensitivity to pain</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Epithelial_sodium_channel" title="Epithelial sodium channel">Constitutively active</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/SCNN1B" title="SCNN1B">SCNN1B</a></i>/<i><a href="/wiki/SCNN1G" title="SCNN1G">SCNN1G</a></i>
+<ul>
+<li><a href="/wiki/Liddle%27s_syndrome" title="Liddle's syndrome">Liddle's syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SCNN1A" title="SCNN1A">SCNN1A</a></i>/<i><a href="/wiki/SCNN1B" title="SCNN1B">SCNN1B</a></i>/<i><a href="/wiki/SCNN1G" title="SCNN1G">SCNN1G</a></i>
+<ul>
+<li><a href="/wiki/Pseudohypoaldosteronism" title="Pseudohypoaldosteronism">Pseudohypoaldosteronism 1AR</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Potassium_channel" title="Potassium channel">Potassium channel</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Voltage-gated_potassium_channel" title="Voltage-gated potassium channel">Voltage-gated</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/KCNA1" title="KCNA1" class="mw-redirect">KCNA1</a></i>
+<ul>
+<li><a href="/wiki/Episodic_ataxia" title="Episodic ataxia">Episodic ataxia 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNA5" title="KCNA5">KCNA5</a></i>
+<ul>
+<li><a href="/wiki/Familial_atrial_fibrillation" title="Familial atrial fibrillation">Familial atrial fibrillation 7</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNC3" title="KCNC3">KCNC3</a></i>
+<ul>
+<li><a href="/wiki/Spinocerebellar_ataxia_type-13" title="Spinocerebellar ataxia type-13">Spinocerebellar ataxia type-13</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNE1" title="KCNE1">KCNE1</a></i>
+<ul>
+<li><a href="/wiki/Jervell_and_Lange-Nielsen_syndrome" title="Jervell and Lange-Nielsen syndrome">Jervell and Lange-Nielsen syndrome</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 5</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNE2" title="KCNE2">KCNE2</a></i>
+<ul>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 6</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNE3" title="KCNE3">KCNE3</a></i>
+<ul>
+<li><a href="/wiki/Brugada_syndrome" title="Brugada syndrome">Brugada syndrome 5</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNH2" title="KCNH2" class="mw-redirect">KCNH2</a></i>
+<ul>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNQ1" title="KCNQ1" class="mw-redirect">KCNQ1</a></i>
+<ul>
+<li><a href="/wiki/Jervell_and_Lange-Nielsen_syndrome" title="Jervell and Lange-Nielsen syndrome">Jervell and Lange-Nielsen syndrome</a></li>
+<li><a href="/wiki/Romano%E2%80%93Ward_syndrome" title="Romano–Ward syndrome">Romano–Ward syndrome</a></li>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 1</a></li>
+<li><a href="/wiki/Familial_atrial_fibrillation" title="Familial atrial fibrillation">Familial atrial fibrillation 3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNQ2" title="KCNQ2" class="mw-redirect">KCNQ2</a></i>
+<ul>
+<li><a href="/wiki/Benign_familial_neonatal_epilepsy" title="Benign familial neonatal epilepsy" class="mw-redirect">BFNS1</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Inward-rectifier_potassium_ion_channel" title="Inward-rectifier potassium ion channel">Inward-rectifier</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/ROMK" title="ROMK">KCNJ1</a></i>
+<ul>
+<li><a href="/wiki/Bartter_syndrome" title="Bartter syndrome">Bartter syndrome 2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNJ2" title="KCNJ2" class="mw-redirect">KCNJ2</a></i>
+<ul>
+<li><a href="/wiki/Andersen%E2%80%93Tawil_syndrome" title="Andersen–Tawil syndrome">Andersen–Tawil syndrome</a></li>
+<li><a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 7</a></li>
+<li><a href="/wiki/Short_QT_syndrome" title="Short QT syndrome">Short QT syndrome</a>)</li>
+</ul>
+</li>
+<li><i><a href="/wiki/Kir6.2" title="Kir6.2">KCNJ11</a></i>
+<ul>
+<li><a href="/wiki/Transient_neonatal_diabetes_mellitus" title="Transient neonatal diabetes mellitus">TNDM3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/KCNJ18" title="KCNJ18" class="mw-redirect">KCNJ18</a></i>
+<ul>
+<li><a href="/wiki/Thyrotoxic_periodic_paralysis" title="Thyrotoxic periodic paralysis">Thyrotoxic periodic paralysis 2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chloride_channel" title="Chloride channel">Chloride channel</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Cystic_fibrosis_transmembrane_conductance_regulator" title="Cystic fibrosis transmembrane conductance regulator">CFTR</a></i>
+<ul>
+<li><a href="/wiki/Cystic_fibrosis" title="Cystic fibrosis">Cystic fibrosis</a></li>
+<li><a href="/wiki/Congenital_absence_of_the_vas_deferens" title="Congenital absence of the vas deferens">Congenital absence of the vas deferens</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCN1" title="CLCN1">CLCN1</a></i>
+<ul>
+<li><a href="/wiki/Thomsen_disease" title="Thomsen disease" class="mw-redirect">Thomsen disease</a></li>
+<li><a href="/wiki/Myotonia_congenita" title="Myotonia congenita">Myotonia congenita</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCN5" title="CLCN5">CLCN5</a></i>
+<ul>
+<li><a href="/wiki/Dent%27s_disease" title="Dent's disease">Dent's disease</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCN7" title="CLCN7">CLCN7</a></i>
+<ul>
+<li><a href="/wiki/Osteopetrosis" title="Osteopetrosis">Osteopetrosis A2, B4</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Bestrophin_1" title="Bestrophin 1">BEST1</a></i>
+<ul>
+<li><a href="/wiki/Vitelliform_macular_dystrophy" title="Vitelliform macular dystrophy">Vitelliform macular dystrophy</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/CLCNKB" title="CLCNKB">CLCNKB</a></i>
+<ul>
+<li><a href="/wiki/Bartter_syndrome" title="Bartter syndrome">Bartter syndrome 3</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Transient_receptor_potential_channel" title="Transient receptor potential channel">TRP channel</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/TRPC6" title="TRPC6">TRPC6</a></i>
+<ul>
+<li><a href="/wiki/Focal_segmental_glomerulosclerosis" title="Focal segmental glomerulosclerosis">FSGS2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/MCOLN1" title="MCOLN1">TRPML1</a></i>
+<ul>
+<li><a href="/wiki/Mucolipidosis_type_IV" title="Mucolipidosis type IV">Mucolipidosis type IV</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Connexin" title="Connexin">Connexin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Gap_junction_protein,_alpha_1" title="Gap junction protein, alpha 1" class="mw-redirect">GJA1</a></i>
+<ul>
+<li><a href="/wiki/Oculodentodigital_dysplasia" title="Oculodentodigital dysplasia">Oculodentodigital dysplasia</a></li>
+<li><a href="/wiki/Hallermann%E2%80%93Streiff_syndrome" title="Hallermann–Streiff syndrome">Hallermann–Streiff syndrome</a></li>
+<li><a href="/wiki/Hypoplastic_left_heart_syndrome" title="Hypoplastic left heart syndrome">Hypoplastic left heart syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB1" title="GJB1">GJB1</a></i>
+<ul>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease X1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB2" title="GJB2">GJB2</a></i>
+<ul>
+<li><a href="/wiki/Keratitis%E2%80%93ichthyosis%E2%80%93deafness_syndrome" title="Keratitis–ichthyosis–deafness syndrome">Keratitis–ichthyosis–deafness syndrome</a></li>
+<li><a href="/wiki/Ichthyosis_hystrix" title="Ichthyosis hystrix">Ichthyosis hystrix</a></li>
+<li><a href="/wiki/Bart%E2%80%93Pumphrey_syndrome" title="Bart–Pumphrey syndrome">Bart–Pumphrey syndrome</a></li>
+<li><a href="/wiki/Vohwinkel_syndrome" title="Vohwinkel syndrome" class="mw-redirect">Vohwinkel syndrome</a>)</li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB3" title="GJB3">GJB3</a>/<a href="/wiki/GJB4" title="GJB4">GJB4</a></i>
+<ul>
+<li><a href="/wiki/Erythrokeratodermia_variabilis" title="Erythrokeratodermia variabilis">Erythrokeratodermia variabilis</a></li>
+<li><a href="/wiki/Progressive_symmetric_erythrokeratodermia" title="Progressive symmetric erythrokeratodermia">Progressive symmetric erythrokeratodermia</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/GJB6" title="GJB6">GJB6</a></i>
+<ul>
+<li><a href="/wiki/Clouston%27s_hidrotic_ectodermal_dysplasia" title="Clouston's hidrotic ectodermal dysplasia">Clouston's hidrotic ectodermal dysplasia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Porin_(protein)" title="Porin (protein)">Porin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Aquaporin_2" title="Aquaporin 2">AQP2</a></i>
+<ul>
+<li><a href="/wiki/Nephrogenic_diabetes_insipidus" title="Nephrogenic diabetes insipidus">Nephrogenic diabetes insipidus 2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>See also: <a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></i></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1252
+CPU time usage: 0.519 seconds
+Real time usage: 0.644 seconds
+Preprocessor visited node count: 5095/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 315454/2097152 bytes
+Template argument size: 11340/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Lua time usage: 0.168/10.000 seconds
+Lua memory usage: 4.19 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  417.673      1 - -total
+ 67.22%  280.770     22 - Template:Navbox
+ 21.43%   89.491      1 - Template:Reflist
+ 19.20%   80.189      7 - Template:Navbox_subgroup
+ 17.20%   71.831      1 - Template:Circulatory_system_pathology
+ 13.76%   57.477      1 - Template:Infobox_disease
+ 11.94%   49.855      1 - Template:Refimprove
+ 11.77%   49.143      1 - Template:Infobox
+ 10.30%   43.029      5 - Template:Cite_journal
+ 10.29%   42.986      1 - Template:Cytoskeletal_defects
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:604091-0!*!0!!en!4!* and timestamp 20150712020945 and revision id 669672885
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;oldid=669672885">https://en.wikipedia.org/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;oldid=669672885</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cardiomyopathy" title="Category:Cardiomyopathy">Cardiomyopathy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2009" title="Category:Articles needing additional references from February 2009">Articles needing additional references from February 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arrhythmogenic+right+ventricular+dysplasia&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arrhythmogenic+right+ventricular+dysplasia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Arrhythmogenic_right_ventricular_dysplasia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Arrhythmogenic_right_ventricular_dysplasia"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Arrhythmogenic_right_ventricular_dysplasia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arrhythmogenic_right_ventricular_dysplasia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arrhythmogenic_right_ventricular_dysplasia" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;oldid=669672885" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2555727" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arrhythmogenic_right_ventricular_dysplasia&amp;id=669672885" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arrhythmogenic+right+ventricular+dysplasia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Arrhythmogenic+right+ventricular+dysplasia&amp;oldid=669672885&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%B9%D8%B3%D8%B1_%D8%AA%D8%B5%D9%86%D8%B9_%D8%A7%D9%84%D9%82%D9%84%D8%A8_%D8%A7%D9%84%D8%A3%D9%8A%D9%85%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%A8%D8%A8_%D9%84%D9%84%D8%A7%D9%86%D8%B8%D9%85%D9%8A%D8%A7%D8%AA" title="عسر تصنع القلب الأيمن المسبب للانظميات – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Displasia_arritmog%C3%A9nica" title="Displasia arritmogénica – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Maladie_de_Naxos" title="Maladie de Naxos – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Displasia_ventricolare_destra_aritmogena" title="Displasia ventricolare destra aritmogena – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Arytmogenna_kardiomiopatia_prawej_komory" title="Arytmogenna kardiomiopatia prawej komory – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B8%D1%81%D0%BF%D0%BB%D0%B0%D0%B7%D0%B8%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B6%D0%B5%D0%BB%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0" title="Аритмогенная дисплазия правого желудочка – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2555727#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 July 2015, at 19:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arrhythmogenic_right_ventricular_dysplasia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1187"});
+}</script>
+	</body>
+</html>

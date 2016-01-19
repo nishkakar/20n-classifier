@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Source Code Control System - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Source_Code_Control_System" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Source_Code_Control_System&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Source_Code_Control_System&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Source_Code_Control_System" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Source_Code_Control_System" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Source_Code_Control_System","wgTitle":"Source Code Control System","wgCurRevisionId":667643350,"wgRevisionId":667643350,"wgArticleId":1332019,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from March 2010","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from July 2011","Articles with unsourced statements from November 2011","Articles with unsourced statements from July 2012","1972 software","Revision control systems","Free revision control software","Unix archivers and compression-related utilities","Software using the CDDL license"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Source_Code_Control_System","wgRelevantArticleId":1332019,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2141501"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Source_Code_Control_System skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Source Code Control System</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Source_Code_Control_System&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2010)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">Source Code Control System</caption>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_design" title="Software design">Original author(s)</a></th>
+<td>Marc J. Rochkind</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>1972<span class="noprint">; 43&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1972</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/C_(programming_language)" title="C (programming language)">C</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/Unix-like" title="Unix-like">Unix-like</a>, <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Revision_control" title="Revision control">Revision control</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td>proprietary licenses, <a href="/wiki/Common_Development_and_Distribution_License" title="Common Development and Distribution License">Common Development and Distribution License</a></td>
+</tr>
+</table>
+<p><b>Source Code Control System</b> (<b>SCCS</b>) is an early <a href="/wiki/Revision_control" title="Revision control">revision control</a> system, geared toward program <a href="/wiki/Source_code" title="Source code">source code</a> and other text files. It was originally developed in <a href="/wiki/SNOBOL" title="SNOBOL">SNOBOL</a> at <a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a> in 1972 by <a href="/wiki/Marc_Rochkind" title="Marc Rochkind">Marc Rochkind</a> for an <a href="/wiki/IBM_System/370" title="IBM System/370">IBM System/370</a> computer running <a href="/wiki/OS/360" title="OS/360" class="mw-redirect">OS/360</a> <a href="/wiki/Multiprogramming_with_a_Variable_number_of_Tasks" title="Multiprogramming with a Variable number of Tasks" class="mw-redirect">MVT</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It was later rewritten by him in <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> for <a href="/wiki/UNIX" title="UNIX" class="mw-redirect">UNIX</a>, then running on a <a href="/wiki/PDP-11" title="PDP-11">PDP-11</a>, and released with the <a href="/wiki/PWB/UNIX" title="PWB/UNIX">Programmer's Workbench</a> (PWB) edition of that operating system.</p>
+<p>Subsequently, SCCS was included in AT&amp;T's commercial <a href="/wiki/UNIX_System_III" title="UNIX System III">System III</a> and <a href="/wiki/UNIX_System_V" title="UNIX System V">System V</a> distributions. It was not licensed with <a href="/wiki/UNIX/32V" title="UNIX/32V">32V</a>, the ancestor to <a href="/wiki/Berkeley_Software_Distribution" title="Berkeley Software Distribution">Berkeley Unix</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The SCCS command set is now part of the <a href="/wiki/Single_UNIX_Specification" title="Single UNIX Specification">Single UNIX Specification</a>.</p>
+<p>SCCS was the dominant version control system for Unix until later version control systems, notably the <a href="/wiki/Revision_Control_System" title="Revision Control System">Revision Control System (RCS)</a> and later <a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">CVS</a>, gained more widespread adoption. Today, these early version control systems are generally considered obsolete, particularly in the <a href="/wiki/Open_source" title="Open source">open source</a> community, which has largely embraced <a href="/wiki/Distributed_revision_control" title="Distributed revision control">distributed revision control</a> systems. However, the SCCS file format is still used internally by a few newer revision control programs, including <i><a href="/wiki/BitKeeper" title="BitKeeper">BitKeeper</a></i> and <i><a href="/wiki/TeamWare" title="TeamWare" class="mw-redirect">TeamWare</a></i>. The latter is a frontend to SCCS. <i><a href="/w/index.php?title=Sablime&amp;action=edit&amp;redlink=1" class="new" title="Sablime (page does not exist)">Sablime</a></i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> has been developed from a modified version of SCCS<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> but uses a history file format that is incompatible with SCCS. The SCCS file format uses a storage technique called <a href="/wiki/Interleaved_deltas" title="Interleaved deltas">interleaved deltas</a> (or the weave<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup>). This storage technique is now considered by many <a href="/wiki/Revision_control" title="Revision control">revision control</a> system developers as foundational to advanced <a href="/wiki/Merge_(revision_control)" title="Merge (revision control)">merging</a> and versioning techniques,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> such as the "Precise <a href="/wiki/Codeville" title="Codeville">Codeville</a>" ("pcdv") merge.</p>
+<p>Apart from fixing some <a href="/wiki/Year_2000_problem" title="Year 2000 problem">Year 2000 problems</a> in 1999, there is no active development on the various UNIX vendor specific SCCS versions.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup> In 2006, <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> (today part of <a href="/wiki/Oracle_Corporation" title="Oracle Corporation">Oracle Corporation</a>) released their <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a> version of SCCS as <a href="/wiki/Open_source" title="Open source">open source</a> under the <a href="/wiki/Common_Development_and_Distribution_License" title="Common Development and Distribution License">Common Development and Distribution License</a> as part of their efforts to open-source Solaris.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>SCCS is also known for the <code>sccsid</code> string, for example:</p>
+<pre>
+static char sccsid[] = "@(#)ls.c        8.1 (Berkeley) 6/11/93";
+</pre>
+<p>This string contains the file name, date, and can also contain a comment. After compilation, this string can be found in binary and object files by looking for the pattern "@(#)" and can be used determine which source code files were used during compilation.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Alternatives"><span class="tocnumber">1</span> <span class="toctext">Alternatives</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#UNIX_SCCS_versions"><span class="tocnumber">1.1</span> <span class="toctext">UNIX SCCS versions</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#J.C3.B6rg_Schilling.27s_fork"><span class="tocnumber">1.2</span> <span class="toctext">Jörg Schilling's fork</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Heirloom_project"><span class="tocnumber">1.3</span> <span class="toctext">Heirloom project</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#GNU_conversion_utility"><span class="tocnumber">1.4</span> <span class="toctext">GNU conversion utility</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_revision_control_systems"><span class="tocnumber">1.5</span> <span class="toctext">Other revision control systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Alternatives">Alternatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=1" title="Edit section: Alternatives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="UNIX_SCCS_versions">UNIX SCCS versions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=2" title="Edit section: UNIX SCCS versions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most <a href="/wiki/UNIX" title="UNIX" class="mw-redirect">UNIX</a> versions include a version of SCCS, which, however, is often no longer actively developed.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2011)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="J.C3.B6rg_Schilling.27s_fork">Jörg Schilling's fork</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=3" title="Edit section: Jörg Schilling's fork">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/J%C3%B6rg_Schilling" title="Jörg Schilling">Jörg Schilling</a> (who requested the release of SCCS in the early days of the OpenSolaris project)<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>]</sup> maintains a <a href="/wiki/Fork_(software_development)" title="Fork (software development)">fork</a> of SCCS<sup id="cite_ref-schily-sccs_8-0" class="reference"><a href="#cite_note-schily-sccs-8"><span>[</span>8<span>]</span></a></sup> that is based on the OpenSolaris source code. It has received major feature enhancements but remains compatible with the original SCCS versions unless using the "new project" mode.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Heirloom_project">Heirloom project</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=4" title="Edit section: Heirloom project">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Heirloom_Project" title="Heirloom Project">Heirloom Project</a> includes a version of SCCS derived from the <a href="/wiki/Open_Solaris" title="Open Solaris" class="mw-redirect">Open Solaris</a> source code.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="GNU_conversion_utility">GNU conversion utility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=5" title="Edit section: GNU conversion utility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/GNU" title="GNU">GNU</a> offers the SCCS compatible program <a rel="nofollow" class="external text" href="http://www.gnu.org/software/cssc/">GNU CSSC</a> ("Compatibly Stupid Source Control"), which is occasionally used to convert SCCS archives to newer systems like <a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">CVS</a> or <a href="/wiki/Subversion_(software)" title="Subversion (software)" class="mw-redirect">Subversion</a>;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> it is not a complete<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> SCCS implementation and not recommended for use in new projects, but mostly meant for converting to a modern revision control system.</p>
+<h3><span class="mw-headline" id="Other_revision_control_systems">Other revision control systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=6" title="Edit section: Other revision control systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Since the 1990s, <a href="/wiki/List_of_revision_control_software" title="List of revision control software">many new revision control systems</a> have been developed and become popular that are designed for managing projects with a large number of files and that offer advanced functionality such as multi-user operation, access control, automatic building, network support, release management and <a href="/wiki/Distributed_revision_control" title="Distributed revision control">distributed revision control</a>. Bitkeeper and TeamWare use the SCCS file format internally and can be considered successors to SCCS.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span id="CITEREFRochkind1975" class="citation">Rochkind, Marc J. (December 1975), <a rel="nofollow" class="external text" href="http://basepath.com/aup/talks/SCCS-Slideshow.pdf">"The Source Code Control System"</a> <span style="font-size:85%;">(PDF)</span>, <i><a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> Transactions on <a href="/wiki/Software_Engineering" title="Software Engineering" class="mw-redirect">Software Engineering</a></i> <b>SE–1</b> (4): 364–370</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASource+Code+Control+System&amp;rft.atitle=The+Source+Code+Control+System&amp;rft.aufirst=Marc+J.&amp;rft.aulast=Rochkind&amp;rft.au=Rochkind%2C+Marc+J.&amp;rft.date=December+1975&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fbasepath.com%2Faup%2Ftalks%2FSCCS-Slideshow.pdf&amp;rft.issue=4&amp;rft.jtitle=IEEE+Transactions+on+Software+Engineering&amp;rft.pages=364-370&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=SE-1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">SCCS <a rel="nofollow" class="external text" href="http://minnie.tuhs.org/cgi-bin/utree.pl?file=4BSD/usr/man/cat1/what.1">what(1)</a> manpage from 4BSD, 1980, on the website of <a href="/w/index.php?title=The_Unix_Heritage_Society&amp;action=edit&amp;redlink=1" class="new" title="The Unix Heritage Society (page does not exist)">The Unix Heritage Society</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bell-labs.com/project/sablime/">Sablime Homepage</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Estublier, Jacky, David Leblang, André van der Hoek, Reidar Conradi, Geoffrey Clemm, Walter Tichy, and Darcy Wiborg-Weber. “Impact of software engineering research on the practice of software configuration management.” ACM Transactions on Software Engineering and Methodology (TOSEM) 14 (October 2005): 383–430.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span id="CITEREFHudson2002" class="citation">Hudson, Greg (2002-10-03), <a rel="nofollow" class="external text" href="http://web.mit.edu/ghudson/thoughts/file-versioning"><i>Notes on keeping version histories of files</i></a>, Unpublished personal notes</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASource+Code+Control+System&amp;rft.aufirst=Greg&amp;rft.au=Hudson%2C+Greg&amp;rft.aulast=Hudson&amp;rft.btitle=Notes+on+keeping+version+histories+of+files&amp;rft.date=2002-10-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fghudson%2Fthoughts%2Ffile-versioning&amp;rft.pub=Unpublished+personal+notes&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Estublier, Jacky, David Leblang, André van der Hoek, Reidar Conradi, Geoffrey Clemm, Walter Tichy, and Darcy Wiborg-Weber. “Impact of software engineering research on the practice of software configuration management.” ACM Transactions on Software Engineering and Methodology (TOSEM) 14 (October 2005): p.398.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web">Stephen Lau, <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a> (2006-12-19). <a rel="nofollow" class="external text" href="http://mail.opensolaris.org/pipermail/opensolaris-announce/2006-December/000364.html">"SCCS/make source available"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-11-14</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASource+Code+Control+System&amp;rft.aulast=Stephen+Lau%2C+Sun+Microsystems&amp;rft.au=Stephen+Lau%2C+Sun+Microsystems&amp;rft.btitle=SCCS%2Fmake+source+available&amp;rft.date=2006-12-19&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmail.opensolaris.org%2Fpipermail%2Fopensolaris-announce%2F2006-December%2F000364.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-schily-sccs-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-schily-sccs_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sccs.sourceforge.net/">Jörg Schilling's SCCS development website</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sccs.sourceforge.net/#compatibility">Schily SCCS web site</a>: "Will the upcoming SCCSv6 stay compatible with POSIX and with historic SCCS implementations?"</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web">Gunnar Ritter (20 June 2010). <a rel="nofollow" class="external text" href="http://heirloom.sourceforge.net/devtools.html">"The Heirloom Development Tools"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 November</span> 2011</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASource+Code+Control+System&amp;rft.au=Gunnar+Ritter&amp;rft.aulast=Gunnar+Ritter&amp;rft.btitle=The+Heirloom+Development+Tools&amp;rft.date=20+June+2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fheirloom.sourceforge.net%2Fdevtools.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sccs2svn.berlios.de/">SCCS2SVN conversion utility</a>, which works with both SCCS and CSSC</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gnu.org/s/cssc/manual/Incomplete.html#Incomplete">GNU CSSC list of limitations in its documentation</a></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Revision_control_software" title="Template:Revision control software"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Revision_control_software" title="Template talk:Revision control software"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Revision_control_software&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Revision_control" title="Revision control">Revision control software</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Years, where available, indicate the date of first stable release. Systems with names <i>in italics</i> are no longer maintained or have planned end-of-life dates.</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Local only</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Free_and_open-source_software" title="Free and open-source software">Free/open-source</a></div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">SCCS</strong> (1972)</li>
+<li><a href="/wiki/Revision_Control_System" title="Revision Control System">RCS</a> (1982)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;"><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PVCS" title="PVCS">PVCS</a> (1985)</li>
+<li><a href="/wiki/QVCS" title="QVCS">QVCS</a> (1991)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Revision_controlled_project_visualization-2010-24-02.svg" class="image"><img alt="Revision controlled project visualization-2010-24-02.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/80px-Revision_controlled_project_visualization-2010-24-02.svg.png" width="80" height="196" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/120px-Revision_controlled_project_visualization-2010-24-02.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/160px-Revision_controlled_project_visualization-2010-24-02.svg.png 2x" data-file-width="220" data-file-height="540" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Client–server</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Free/open-source</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concurrent_Versions_System" title="Concurrent Versions System">CVS</a> (1986, 1990 in C)</li>
+<li><a href="/wiki/CVSNT" title="CVSNT">CVSNT</a> (1998)</li>
+<li><a href="/wiki/QVCS" title="QVCS">QVCS Enterprise</a> (1998)</li>
+<li><a href="/wiki/Apache_Subversion" title="Apache Subversion">Subversion</a> (2000)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Proprietary</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CA_Software_Change_Manager" title="CA Software Change Manager">Software Change Manager</a> (1970s)</li>
+<li><a href="/wiki/Panvalet" title="Panvalet">Panvalet</a> (1970s)</li>
+<li><a href="/wiki/Endevor" title="Endevor">Endevor</a> (1980s)</li>
+<li><a href="/wiki/Dimensions_CM" title="Dimensions CM">Dimensions CM</a> (1980s)</li>
+<li><i><a href="/wiki/DSEE" title="DSEE" class="mw-redirect">DSEE</a></i> (1984)</li>
+<li><a href="/wiki/Rational_Synergy" title="Rational Synergy">Synergy</a> (1990)</li>
+<li><a href="/wiki/Rational_ClearCase" title="Rational ClearCase">ClearCase</a> (1992)</li>
+<li><i><a href="/wiki/IBM_Configuration_Management_Version_Control_(CMVC)" title="IBM Configuration Management Version Control (CMVC)">CMVC</a></i> (1994)</li>
+<li><i><a href="/wiki/Microsoft_Visual_SourceSafe" title="Microsoft Visual SourceSafe">Visual SourceSafe</a></i> (1994)</li>
+<li><a href="/wiki/Perforce" title="Perforce">Perforce</a> (1995)</li>
+<li><a href="/wiki/StarTeam" title="StarTeam">StarTeam</a> (1995)</li>
+<li><a href="/wiki/MKS_Integrity" title="MKS Integrity" class="mw-redirect">Integrity</a> (2001)</li>
+<li><a href="/wiki/Surround_SCM" title="Surround SCM">Surround SCM</a> (2002)</li>
+<li><a href="/wiki/AccuRev_SCM" title="AccuRev SCM">AccuRev SCM</a> (2002)</li>
+<li><a href="/wiki/SourceAnywhere" title="SourceAnywhere">SourceAnywhere</a> (2003)</li>
+<li><a href="/wiki/Vault_(revision_control_system)" title="Vault (revision control system)">Vault</a> (2003)</li>
+<li><a href="/wiki/Team_Foundation_Server" title="Team Foundation Server">Team Foundation Server</a> (2005)</li>
+<li><a href="/wiki/Rational_Team_Concert" title="Rational Team Concert">Team Concert</a> (2008)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Distributed_revision_control" title="Distributed revision control">Distributed</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Free/open-source</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/GNU_arch" title="GNU arch">GNU arch</a></i> (2001)</li>
+<li><a href="/wiki/Darcs" title="Darcs">Darcs</a> (2002)</li>
+<li><i><a href="/wiki/Distributed_Concurrent_Versions_System" title="Distributed Concurrent Versions System">DCVS</a></i> (2002)</li>
+<li><i><a href="/wiki/ArX_(revision_control)" title="ArX (revision control)">ArX</a></i> (2003)</li>
+<li><a href="/wiki/Monotone_(software)" title="Monotone (software)">Monotone</a> (2003)</li>
+<li><i><a href="/wiki/SVK" title="SVK">SVK</a></i> (2003)</li>
+<li><i><a href="/wiki/Codeville" title="Codeville">Codeville</a></i> (2005)</li>
+<li><a href="/wiki/GNU_Bazaar" title="GNU Bazaar">Bazaar</a> (2005)</li>
+<li><a href="/wiki/Git_(software)" title="Git (software)">Git</a> (2005)</li>
+<li><a href="/wiki/Mercurial" title="Mercurial">Mercurial</a> (2005)</li>
+<li><a href="/wiki/Fossil_(software)" title="Fossil (software)">Fossil</a> (2007)</li>
+<li><a href="/wiki/Veracity_(software)" title="Veracity (software)">Veracity</a> (2010)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Proprietary</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Sun_WorkShop_TeamWare" title="Sun WorkShop TeamWare">TeamWare</a></i> (1990s?)</li>
+<li><a href="/wiki/Code_Co-op" title="Code Co-op">Code Co-op</a> (1997)</li>
+<li><a href="/wiki/BitKeeper" title="BitKeeper">BitKeeper</a> (1998)</li>
+<li><a href="/wiki/Plastic_SCM" title="Plastic SCM">Plastic SCM</a> (2006)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Branching_(revision_control)" title="Branching (revision control)">Branch</a></li>
+<li><a href="/wiki/Fork_(software_development)" title="Fork (software development)">Fork</a></li>
+<li><a href="/wiki/Changeset" title="Changeset">Changeset</a></li>
+<li><a href="/wiki/Commit_(revision_control)" title="Commit (revision control)">Commit</a></li>
+<li><a href="/wiki/Interleaved_deltas" title="Interleaved deltas">Interleaved deltas</a></li>
+<li><a href="/wiki/Delta_encoding" title="Delta encoding">Delta compression</a></li>
+<li><a href="/wiki/Data_comparison" title="Data comparison">Data comparison</a></li>
+<li><a href="/wiki/Merge_(revision_control)" title="Merge (revision control)">Merge</a></li>
+<li><a href="/wiki/Repository_(revision_control)" title="Repository (revision control)">Repository</a></li>
+<li><a href="/wiki/Revision_tag" title="Revision tag">Tag</a></li>
+<li><a href="/wiki/Trunk_(software)" title="Trunk (software)">Trunk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="3">
+<div>
+<ul>
+<li><b><a href="/wiki/Category:Revision_control_systems" title="Category:Revision control systems">Category</a></b></li>
+<li><b><a href="/wiki/Comparison_of_revision_control_software" title="Comparison of revision control software">Comparison</a></b></li>
+<li><b><a href="/wiki/List_of_revision_control_software" title="List of revision control software">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1241
+CPU time usage: 0.233 seconds
+Real time usage: 0.287 seconds
+Preprocessor visited node count: 2565/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54573/2097152 bytes
+Template argument size: 4143/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.66 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  230.481      1 - -total
+ 26.82%   61.814      1 - Template:Refimprove
+ 22.39%   51.595      1 - Template:Reflist
+ 21.24%   48.958      4 - Template:Navbox
+ 18.31%   42.207      1 - Template:Infobox_software
+ 17.14%   39.498      1 - Template:Ambox
+ 15.79%   36.398      1 - Template:Infobox
+ 15.26%   35.168      1 - Template:Revision_control_software
+ 13.08%   30.143      2 - Template:Citation
+ 12.90%   29.724      4 - Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1332019-0!*!0!!en!4!* and timestamp 20150711061024 and revision id 667643350
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Source_Code_Control_System&amp;oldid=667643350">https://en.wikipedia.org/w/index.php?title=Source_Code_Control_System&amp;oldid=667643350</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1972_software" title="Category:1972 software">1972 software</a></li><li><a href="/wiki/Category:Revision_control_systems" title="Category:Revision control systems">Revision control systems</a></li><li><a href="/wiki/Category:Free_revision_control_software" title="Category:Free revision control software">Free revision control software</a></li><li><a href="/wiki/Category:Unix_archivers_and_compression-related_utilities" title="Category:Unix archivers and compression-related utilities">Unix archivers and compression-related utilities</a></li><li><a href="/wiki/Category:Software_using_the_CDDL_license" title="Category:Software using the CDDL license">Software using the CDDL license</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2010" title="Category:Articles needing additional references from March 2010">Articles needing additional references from March 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2011" title="Category:Articles with unsourced statements from November 2011">Articles with unsourced statements from November 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2012" title="Category:Articles with unsourced statements from July 2012">Articles with unsourced statements from July 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Source+Code+Control+System&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Source+Code+Control+System" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Source_Code_Control_System"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Source_Code_Control_System"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Source_Code_Control_System" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Source_Code_Control_System&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Source_Code_Control_System" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Source_Code_Control_System" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Source_Code_Control_System&amp;oldid=667643350" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Source_Code_Control_System&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2141501" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Source_Code_Control_System&amp;id=667643350" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Source+Code+Control+System">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Source+Code+Control+System&amp;oldid=667643350&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Source_Code_Control_System&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Source_Code_Control_System" title="Source Code Control System – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Source_Code_Control_System" title="Source Code Control System – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Source_Code_Control_System" title="Source Code Control System – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/Source_Code_Control_System" title="Source Code Control System – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/Source_Code_Control_System" title="Source Code Control System – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Source_Code_Control_System" title="Source Code Control System – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/SCCS" title="SCCS – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2141501#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 19 June 2015, at 15:36.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Source_Code_Control_System&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1029"});
+}</script>
+	</body>
+</html>

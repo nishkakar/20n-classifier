@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Google Chrome Apps - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Google_Chrome_Apps" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Google_Chrome_Apps" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Google_Chrome_Apps" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Google_Chrome_Apps","wgTitle":"Google Chrome Apps","wgCurRevisionId":664777740,"wgRevisionId":664777740,"wgArticleId":42842996,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Software add-ons","Google Chrome","Google Chrome apps"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Google_Chrome_Apps","wgRelevantArticleId":42842996,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Chrome_icon_%282011%29.svg/100px-Google_Chrome_icon_%282011%29.svg.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q16972647"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Google_Chrome_Apps skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Google Chrome Apps</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Google Chrome Extensions</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Google_Chrome_icon_(2011).svg" class="image"><img alt="Google Chrome icon (2011).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Chrome_icon_%282011%29.svg/128px-Google_Chrome_icon_%282011%29.svg.png" width="128" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Chrome_icon_%282011%29.svg/192px-Google_Chrome_icon_%282011%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Chrome_icon_%282011%29.svg/256px-Google_Chrome_icon_%282011%29.svg.png 2x" data-file-width="512" data-file-height="512" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;"><a href="/wiki/Uniform_resource_locator" title="Uniform resource locator">Web&#160;address</a></th>
+<td><a rel="nofollow" class="external text" href="//chrome.google.com/webstore/category/apps">https://chrome.google.com/webstore/category/apps</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Commercial?</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Available&#160;in</th>
+<td>English</td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Owner</th>
+<td><a href="/wiki/Google" title="Google">Google</a></td>
+</tr>
+<tr>
+<th scope="row" style="padding-right:0.65em;">Created&#160;by</th>
+<td>Google and app developers</td>
+</tr>
+</table>
+<p><b>Google Chrome Apps</b> are <a href="/wiki/Web_applications" title="Web applications" class="mw-redirect">web applications</a> that run on the <a href="/wiki/Google_Chrome" title="Google Chrome">Google Chrome</a> web browser. Chrome apps can be obtained from the <a href="/wiki/Chrome_Web_Store" title="Chrome Web Store">Chrome Web Store</a> where apps, <a href="/wiki/Google_Chrome_Extension" title="Google Chrome Extension" class="mw-redirect">extensions</a>, and themes can be installed or bought. There are two types of apps, hosted and packaged, which have different locations of their executable and are targeted at different use cases.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_apps"><span class="tocnumber">1</span> <span class="toctext">Types of apps</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Packaged_apps"><span class="tocnumber">1.1</span> <span class="toctext">Packaged apps</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Hosted_apps"><span class="tocnumber">1.2</span> <span class="toctext">Hosted apps</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Types_of_apps">Types of apps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit&amp;section=1" title="Edit section: Types of apps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chrome apps can be hosted or packaged. Hosted apps have their background web pages on a remote server and the app acts like a <a href="/wiki/Bookmark_(World_Wide_Web)" title="Bookmark (World Wide Web)">bookmark</a> or shortcut.<sup id="cite_ref-choosing-an-app-type_1-0" class="reference"><a href="#cite_note-choosing-an-app-type-1"><span>[</span>1<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Packaged_apps">Packaged apps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit&amp;section=2" title="Edit section: Packaged apps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Packaged apps were launched on September 5, 2013.<sup id="cite_ref-packaged-apps_launch_2-0" class="reference"><a href="#cite_note-packaged-apps_launch-2"><span>[</span>2<span>]</span></a></sup> They have features very similar to a native desktop app, namely offline capable (by default), can interact with hardware devices, and can access local storage.<sup id="cite_ref-packaged-apps-dev_info_3-0" class="reference"><a href="#cite_note-packaged-apps-dev_info-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-packaged-apps-techcrunch_launch_4-0" class="reference"><a href="#cite_note-packaged-apps-techcrunch_launch-4"><span>[</span>4<span>]</span></a></sup> Packaged apps are not confined to the regular Chrome interface and can display without a classic window menu and <a href="/wiki/Operating_system" title="Operating system">operating system</a> <a href="/wiki/User_interface" title="User interface">user interface</a> elements.<sup id="cite_ref-packaged-apps-dev_info_3-1" class="reference"><a href="#cite_note-packaged-apps-dev_info-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-packaged-apps-techcrunch_launch_4-1" class="reference"><a href="#cite_note-packaged-apps-techcrunch_launch-4"><span>[</span>4<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Hosted_apps">Hosted apps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit&amp;section=3" title="Edit section: Hosted apps">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hosted apps are the first developed types of Chrome apps. They contain a single <a href="/wiki/Manifest_file" title="Manifest file">manifest file</a> that contains the URL and additional information about the app. Hosted apps are usually offline and are subject to regular web page security restrictions.<sup id="cite_ref-hosted-app-dev_info_5-0" class="reference"><a href="#cite_note-hosted-app-dev_info-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Google_Chrome_Extensions" title="Google Chrome Extensions" class="mw-redirect">Google Chrome Extensions</a></li>
+<li><a href="/wiki/Firefox_add-ons" title="Firefox add-ons" class="mw-redirect">Firefox add-ons</a></li>
+<li><a href="/wiki/Web_application" title="Web application">Web application</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-choosing-an-app-type-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-choosing-an-app-type_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://developer.chrome.com/webstore/choosing">"Choosing an App Type"</a>. <i>Google</i>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGoogle+Chrome+Apps&amp;rft.atitle=Choosing+an+App+Type&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fdeveloper.chrome.com%2Fwebstore%2Fchoosing&amp;rft.jtitle=Google&amp;rft.pub=Google&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-packaged-apps_launch-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-packaged-apps_launch_2-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://chrome.blogspot.com/2013/09/a-new-breed-of-chrome-apps.html">"A new breed of Chrome Apps"</a>. <i>Google Chrome Blog</i>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGoogle+Chrome+Apps&amp;rft.atitle=A+new+breed+of+Chrome+Apps&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fchrome.blogspot.com%2F2013%2F09%2Fa-new-breed-of-chrome-apps.html&amp;rft.jtitle=Google+Chrome+Blog&amp;rft.pub=Google&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-packaged-apps-dev_info-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-packaged-apps-dev_info_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-packaged-apps-dev_info_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://developer.chrome.com/apps/about_apps">"What Are Chrome Apps?"</a>. <i>Google</i>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGoogle+Chrome+Apps&amp;rft.atitle=What+Are+Chrome+Apps%3F&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fdeveloper.chrome.com%2Fapps%2Fabout_apps&amp;rft.jtitle=Google&amp;rft.pub=Google&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-packaged-apps-techcrunch_launch-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-packaged-apps-techcrunch_launch_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-packaged-apps-techcrunch_launch_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Lardinois, Frederic. <a rel="nofollow" class="external text" href="http://techcrunch.com/2013/09/05/chromes-native-like-packaged-apps-come-out-of-dev-preview-and-head-to-desktop-now-called-chrome-apps/">"Chrome’s Native-Like Packaged Apps Come Out Of Dev Preview And Head To The Desktop, Now Called “Chrome Apps”"</a>. <i>TechCrunch</i>. TechCrunch<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGoogle+Chrome+Apps&amp;rft.atitle=Chrome%E2%80%99s+Native-Like+Packaged+Apps+Come+Out+Of+Dev+Preview+And+Head+To+The+Desktop%2C+Now+Called+%E2%80%9CChrome+Apps%E2%80%9D&amp;rft.aufirst=Frederic&amp;rft.au=Lardinois%2C+Frederic&amp;rft.aulast=Lardinois&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ftechcrunch.com%2F2013%2F09%2F05%2Fchromes-native-like-packaged-apps-come-out-of-dev-preview-and-head-to-desktop-now-called-chrome-apps%2F&amp;rft.jtitle=TechCrunch&amp;rft.pub=TechCrunch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hosted-app-dev_info-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-hosted-app-dev_info_5-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="https://developers.google.com/chrome/apps/docs/developers_guide">"Hosted Apps"</a>. <i>Google</i>. Google<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGoogle+Chrome+Apps&amp;rft.atitle=Hosted+Apps&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fdevelopers.google.com%2Fchrome%2Fapps%2Fdocs%2Fdevelopers_guide&amp;rft.jtitle=Google&amp;rft.pub=Google&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official website"><span class="url"><a rel="nofollow" class="external text" href="http://chrome.google.com/webstore/category/apps">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://developer.chrome.com/apps/about_apps">What Are Chrome Apps?</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Google_Inc." title="Template:Google Inc."><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Google_Inc." title="Template talk:Google Inc."><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Google_Inc.&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Google" title="Google">Google</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Outline_of_Google" title="Outline of Google">Overview</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_Google" title="History of Google">History</a></li>
+<li><a href="/wiki/List_of_mergers_and_acquisitions_by_Google" title="List of mergers and acquisitions by Google">List of mergers and acquisitions</a></li>
+<li><a href="/wiki/List_of_Google_products" title="List of Google products">Products</a></li>
+<li><a href="/wiki/Criticism_of_Google" title="Criticism of Google">Criticism</a></li>
+<li><a href="/wiki/Censorship_by_Google" title="Censorship by Google">Censorship</a></li>
+<li><a href="/wiki/List_of_Google_domains" title="List of Google domains">Domains</a></li>
+<li><a href="/wiki/List_of_Google_hoaxes_and_easter_eggs" title="List of Google hoaxes and easter eggs" class="mw-redirect">Hoaxes</a></li>
+<li><a href="/wiki/Don%27t_be_evil" title="Don't be evil">Don't be evil</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Advertising</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AdMob" title="AdMob">AdMob</a></li>
+<li><a href="/wiki/Adscape" title="Adscape">Adscape</a></li>
+<li><a href="/wiki/AdSense" title="AdSense">AdSense</a></li>
+<li><a href="/wiki/AdWords" title="AdWords">AdWords</a></li>
+<li><a href="/wiki/Google_Analytics" title="Google Analytics">Analytics</a></li>
+<li><a href="/wiki/Google_Partners" title="Google Partners">Partners</a></li>
+<li><a href="/wiki/DoubleClick" title="DoubleClick">DoubleClick</a></li>
+<li><a href="/wiki/DoubleClick_for_Publishers" title="DoubleClick for Publishers">DoubleClick for Publishers</a></li>
+<li><a href="/wiki/Google_Wallet" title="Google Wallet">Wallet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Communication</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Alerts" title="Google Alerts">Alerts</a></li>
+<li><a href="/wiki/Google_Apps_Script" title="Google Apps Script">Apps Script</a></li>
+<li><a href="/wiki/Google_Calendar" title="Google Calendar">Calendar</a></li>
+<li><a href="/wiki/Google_Contacts" title="Google Contacts">Contacts</a></li>
+<li><a href="/wiki/Google_Friend_Connect" title="Google Friend Connect">Friend Connect</a></li>
+<li><a href="/wiki/Gmail" title="Gmail">Gmail</a>
+<ul>
+<li><a href="/wiki/History_of_Gmail" title="History of Gmail">history</a></li>
+<li><a href="/wiki/Gmail_interface" title="Gmail interface">interface</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google%2B" title="Google+">Google+</a></li>
+<li><a href="/wiki/Google_Groups" title="Google Groups">Groups</a></li>
+<li><a href="/wiki/Google_Hangouts" title="Google Hangouts">Hangouts</a></li>
+<li><a href="/wiki/Google_Inbox" title="Google Inbox">Inbox</a></li>
+<li><a href="/wiki/Google_Sync" title="Google Sync">Sync</a></li>
+<li><a href="/wiki/Google_Text-to-Speech" title="Google Text-to-Speech">Text-to-Speech</a></li>
+<li><a href="/wiki/Google_Translate" title="Google Translate">Translate</a></li>
+<li><a href="/wiki/Google_transliteration" title="Google transliteration">Transliteration</a></li>
+<li><a href="/wiki/Google_Voice" title="Google Voice">Voice</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Software</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Chrome" title="Google Chrome">Chrome</a>
+<ul>
+<li><a href="/wiki/Google_Chrome_for_Android" title="Google Chrome for Android">for Android</a></li>
+<li><a href="/wiki/Google_Chrome_for_iOS" title="Google Chrome for iOS" class="mw-redirect">for iOS</a></li>
+<li><a href="/wiki/Chrome_Web_Store" title="Chrome Web Store">Chrome Web Store</a></li>
+<li><strong class="selflink">Apps</strong></li>
+<li><a href="/wiki/Google_Chrome_extension" title="Google Chrome extension">Extensions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Cloud_Print" title="Google Cloud Print">Cloud Print</a></li>
+<li><a href="/wiki/Google_Earth" title="Google Earth">Earth</a>
+<ul>
+<li><a href="/wiki/Google_Sky" title="Google Sky">Sky</a></li>
+<li><a href="/wiki/Google_Moon" title="Google Moon">Moon</a></li>
+<li><a href="/wiki/Google_Mars" title="Google Mars">Mars</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Gadgets" title="Google Gadgets">Gadgets</a></li>
+<li><a href="/wiki/Google_Goggles" title="Google Goggles">Goggles</a></li>
+<li><a href="/wiki/Google_IME" title="Google IME">IME</a>
+<ul>
+<li><a href="/wiki/Google_Pinyin" title="Google Pinyin">Pinyin</a></li>
+<li><a href="/wiki/Google_Japanese_Input" title="Google Japanese Input">Japanese</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Photos" title="Google Photos">Photos</a></li>
+<li><a href="/wiki/Google_Keep" title="Google Keep">Keep</a></li>
+<li><a href="/wiki/Google_News_%26_Weather" title="Google News &amp; Weather">News &amp; Weather</a></li>
+<li><a href="/wiki/Google_Now" title="Google Now">Now</a></li>
+<li><a href="/wiki/Picasa" title="Picasa">Picasa</a></li>
+<li><a href="/wiki/OpenRefine" title="OpenRefine">OpenRefine</a></li>
+<li><a href="/wiki/Google_Toolbar" title="Google Toolbar">Toolbar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Google_platform" title="Google platform">Platforms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Account" title="Google Account">Account</a></li>
+<li><a href="/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>
+<ul>
+<li><a href="/wiki/Android_version_history" title="Android version history">version history</a></li>
+<li><a href="/wiki/Android_software_development" title="Android software development">software development</a></li>
+<li><a href="/wiki/Android_Auto" title="Android Auto">Android Auto</a></li>
+<li><a href="/wiki/Android_TV" title="Android TV">Android TV</a></li>
+<li><a href="/wiki/Android_Wear" title="Android Wear">Android Wear</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_App_Engine" title="Google App Engine">App Engine</a></li>
+<li><a href="/wiki/Google_Apps_for_Work" title="Google Apps for Work">Apps for Work</a>
+<ul>
+<li><a href="/wiki/Google_Classroom" title="Google Classroom">Classroom</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Authenticator" title="Google Authenticator">Authenticator</a></li>
+<li><a href="/wiki/BigTable" title="BigTable">BigTable</a></li>
+<li><a href="/wiki/Zygote_Body" title="Zygote Body" class="mw-redirect">Body</a></li>
+<li><a href="/wiki/Google_Books" title="Google Books">Books</a>
+<ul>
+<li><a href="/wiki/Google_Books_Library_Project" title="Google Books Library Project">Library Project</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Caja_project" title="Caja project">Caja</a></li>
+<li><a href="/wiki/Google_Cardboard" title="Google Cardboard">Cardboard</a></li>
+<li><a href="/wiki/Chromecast" title="Chromecast">Chromecast</a></li>
+<li><a href="/wiki/Chrome_OS" title="Chrome OS">Chrome OS</a>
+<ul>
+<li><a href="/wiki/Chromebit" title="Chromebit">Chromebit</a></li>
+<li><a href="/wiki/Chromebook" title="Chromebook">Chromebook</a></li>
+<li><a href="/wiki/Chromebox" title="Chromebox">Chromebox</a></li>
+<li><a href="/wiki/Chrome_Zone" title="Chrome Zone">Chrome Zone</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Compute_Engine" title="Google Compute Engine">Compute Engine</a></li>
+<li><a href="/wiki/Google_Contact_Lens" title="Google Contact Lens">Contact Lens</a></li>
+<li><a href="/wiki/Google_Custom_Search" title="Google Custom Search">Custom Search</a></li>
+<li><a href="/wiki/Dart_(programming_language)" title="Dart (programming language)">Dart</a></li>
+<li><a href="/wiki/Google_Earth_Engine" title="Google Earth Engine">Earth Engine</a></li>
+<li><a href="/wiki/Google_Fit" title="Google Fit">Fit</a></li>
+<li><a href="/wiki/Google_Glass" title="Google Glass">Glass</a></li>
+<li><a href="/wiki/Go_(programming_language)" title="Go (programming language)">Go</a></li>
+<li><a href="/wiki/Google_File_System" title="Google File System">GFS</a></li>
+<li><a href="/wiki/Google_Apps_Marketplace" title="Google Apps Marketplace">Marketplace</a></li>
+<li><a href="/wiki/Google_Native_Client" title="Google Native Client">Native Client</a></li>
+<li><a href="/wiki/Google_Nexus" title="Google Nexus">Nexus</a></li>
+<li><a href="/wiki/OpenSocial" title="OpenSocial">OpenSocial</a></li>
+<li><a href="/wiki/Google_Play" title="Google Play">Play</a>
+<ul>
+<li><a href="/wiki/Google_Play_Books" title="Google Play Books">Books</a></li>
+<li><a href="/wiki/Google_Play_Games" title="Google Play Games">Games</a></li>
+<li><a href="/wiki/Google_Play_Music" title="Google Play Music">Music</a></li>
+<li><a href="/wiki/Google_Play_Newsstand" title="Google Play Newsstand">Newsstand</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Public_DNS" title="Google Public DNS">Public DNS</a></li>
+<li><a href="/wiki/Google_Questions_and_Answers" title="Google Questions and Answers">Q &amp; A</a></li>
+<li><a href="/wiki/Google_Wallet" title="Google Wallet">Wallet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Development tools</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_APIs" title="Google APIs">AJAX APIs</a></li>
+<li><a href="/wiki/App_Inventor_for_Android" title="App Inventor for Android">App Inventor</a></li>
+<li><a href="/wiki/Google_Closure_Tools" title="Google Closure Tools">Closure Tools</a></li>
+<li><a href="/wiki/Google_Developers" title="Google Developers">Developers</a></li>
+<li><a href="/wiki/Google_Gadgets_API" title="Google Gadgets API">Gadgets API</a></li>
+<li><a href="/wiki/GData" title="GData">GData</a></li>
+<li><a href="/wiki/Googlebot" title="Googlebot">Googlebot</a></li>
+<li><a href="/wiki/Google_Guava" title="Google Guava">Guava</a></li>
+<li><a href="/wiki/Google_Guice" title="Google Guice">Guice</a></li>
+<li><a href="/wiki/Google_platform#Software" title="Google platform">GWS</a></li>
+<li><a href="/wiki/Keyhole_Markup_Language" title="Keyhole Markup Language">KML</a></li>
+<li><a href="/wiki/Google_Kythe" title="Google Kythe">Kythe</a></li>
+<li><a href="/wiki/MapReduce" title="MapReduce">MapReduce</a></li>
+<li><a href="/wiki/Sitemaps" title="Sitemaps">Sitemaps</a></li>
+<li><a href="/wiki/Google_Storage" title="Google Storage">Storage</a></li>
+<li><a href="/wiki/Google_Summer_of_Code" title="Google Summer of Code">Summer of Code</a></li>
+<li><a href="/wiki/Google_Web_Toolkit" title="Google Web Toolkit">Web Toolkit</a></li>
+<li><a href="/wiki/Google_Webmaster_Tools" title="Google Webmaster Tools">Webmaster Tools</a></li>
+<li><a href="/wiki/Google_Website_Optimizer" title="Google Website Optimizer">Website Optimizer</a></li>
+<li><a href="/wiki/Google_Swiffy" title="Google Swiffy">Swiffy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Publishing</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blogger_(service)" title="Blogger (service)">Blogger</a></li>
+<li><a href="/wiki/Google_Bookmarks" title="Google Bookmarks">Bookmarks</a></li>
+<li><a href="/wiki/Google_Drive" title="Google Drive">Drive</a>
+<ul>
+<li><a href="/wiki/Google_Docs,_Sheets,_and_Slides" title="Google Docs, Sheets, and Slides">Docs, Sheets, Slides</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Domains" title="Google Domains">Domains</a></li>
+<li><a href="/wiki/FeedBurner" title="FeedBurner">FeedBurner</a></li>
+<li><a href="/wiki/Google_Map_Maker" title="Google Map Maker">Map Maker</a></li>
+<li><a href="/wiki/Google_My_Maps" title="Google My Maps">My Maps</a></li>
+<li><a href="/wiki/Panoramio" title="Panoramio">Panoramio</a></li>
+<li><a href="/wiki/Picasa#Picasa_Web_Albums" title="Picasa">Picasa Web Albums</a></li>
+<li><a href="/wiki/Google_Sites" title="Google Sites">Sites (JotSpot)</a></li>
+<li><a href="/wiki/YouTube" title="YouTube">YouTube</a>
+<ul>
+<li><a href="/wiki/Vevo" title="Vevo">Vevo</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Zagat" title="Zagat">Zagat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Google_Search" title="Google Search">Search</a> (<a href="/wiki/Timeline_of_Google_Search" title="Timeline of Google Search">timeline</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Search_Appliance" title="Google Search Appliance">Appliance</a></li>
+<li><a href="/wiki/Google_Audio_Indexing" title="Google Audio Indexing">Audio</a></li>
+<li><a href="/wiki/Google_Blog_Search" title="Google Blog Search">Blog Search</a></li>
+<li><a href="/wiki/Google_Books" title="Google Books">Books</a></li>
+<li><a href="/wiki/Google_Finance" title="Google Finance">Finance</a></li>
+<li><a href="/wiki/Google_Flights" title="Google Flights">Flights</a></li>
+<li><a href="/wiki/Google_Images" title="Google Images">Images</a></li>
+<li><a href="/wiki/Google_Maps" title="Google Maps">Maps</a>
+<ul>
+<li><a href="/wiki/Google_Street_View" title="Google Street View">Street View</a>
+<ul>
+<li><a href="/wiki/Competition_of_Google_Street_View" title="Competition of Google Street View" class="mw-redirect">Competition</a></li>
+<li><a href="/wiki/Locations_of_Google_Street_View" title="Locations of Google Street View" class="mw-redirect">Locations</a></li>
+<li><a href="/wiki/Google_Street_View_privacy_concerns" title="Google Street View privacy concerns">Privacy concerns</a></li>
+<li><a href="/wiki/Timeline_of_Google_Street_View" title="Timeline of Google Street View" class="mw-redirect">Timeline</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Google_News" title="Google News">News</a>
+<ul>
+<li><a href="/wiki/Google_News_Archive" title="Google News Archive">Archive</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Patents" title="Google Patents">Patents</a></li>
+<li><a href="/wiki/Google_Scholar" title="Google Scholar">Scholar</a></li>
+<li><a href="/wiki/Google_Shopping" title="Google Shopping">Shopping</a></li>
+<li><a href="/wiki/Google_Groups" title="Google Groups">Usenet</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Algorithms</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/PageRank" title="PageRank">PageRank</a></li>
+<li><a href="/wiki/Google_Panda" title="Google Panda">Panda</a></li>
+<li><a href="/wiki/Google_Penguin" title="Google Penguin">Penguin</a></li>
+<li><a href="/wiki/Google_Hummingbird" title="Google Hummingbird">Hummingbird</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Features</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Web_History" title="Google Web History">Web History</a></li>
+<li><a href="/wiki/Google_Personalized_Search" title="Google Personalized Search">Personalized</a></li>
+<li><a href="/wiki/Google_Real-Time_Search" title="Google Real-Time Search">Real-Time</a></li>
+<li><a href="/wiki/Google_Search#Instant_Search" title="Google Search">Instant Search</a></li>
+<li><a href="/wiki/SafeSearch" title="SafeSearch">SafeSearch</a></li>
+<li><a href="/wiki/Google_Voice_Search" title="Google Voice Search">Voice Search</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Analysis</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Insights_for_Search" title="Google Insights for Search">Insights for Search</a></li>
+<li><a href="/wiki/Google_Trends" title="Google Trends">Trends</a></li>
+<li><a href="/wiki/Knowledge_Graph" title="Knowledge Graph">Knowledge Graph</a></li>
+<li><a href="/wiki/Knowledge_Vault" title="Knowledge Vault">Knowledge Vault</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_Google_products#Discontinued_products_and_services" title="List of Google products">Discontinued</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aardvark_(search_engine)" title="Aardvark (search engine)">Aardvark</a></li>
+<li><a href="/wiki/Google_Answers" title="Google Answers">Answers</a></li>
+<li><a href="/wiki/Google_Browser_Sync" title="Google Browser Sync">Browser Sync</a></li>
+<li><a href="/wiki/Google_Base" title="Google Base">Base</a></li>
+<li><a href="/wiki/Google_Buzz" title="Google Buzz">Buzz</a></li>
+<li><a href="/wiki/Google_Checkout" title="Google Checkout">Checkout</a></li>
+<li><a href="/wiki/Google_Chrome_Frame" title="Google Chrome Frame">Chrome Frame</a></li>
+<li><a href="/wiki/AdWords#Google_Click-to-Call" title="AdWords">Click-to-Call</a></li>
+<li><a href="/wiki/Google_Cloud_Connect" title="Google Cloud Connect">Cloud Connect</a></li>
+<li><a href="/wiki/Google_Code_Search" title="Google Code Search">Code Search</a></li>
+<li><a href="/wiki/Google_Currents" title="Google Currents">Currents</a></li>
+<li><a href="/wiki/Google_Desktop" title="Google Desktop">Desktop</a></li>
+<li><a href="/wiki/Google_Dictionary" title="Google Dictionary">Dictionary</a></li>
+<li><a href="/wiki/Dodgeball_(service)" title="Dodgeball (service)">Dodgeball</a></li>
+<li><a href="/wiki/Google_Fast_Flip" title="Google Fast Flip">Fast Flip</a></li>
+<li><a href="/wiki/Gears_(software)" title="Gears (software)">Gears</a></li>
+<li><a href="/wiki/GOOG-411" title="GOOG-411">GOOG-411</a></li>
+<li><a href="/wiki/Google_TV" title="Google TV">Google TV</a></li>
+<li><a href="/wiki/Jaiku" title="Jaiku">Jaiku</a></li>
+<li><a href="/wiki/Knol" title="Knol">Knol</a></li>
+<li><a href="/wiki/Google_Health" title="Google Health">Health</a></li>
+<li><a href="/wiki/IGoogle" title="IGoogle">iGoogle</a></li>
+<li><a href="/wiki/Google_Image_Labeler" title="Google Image Labeler">Image Labeler</a></li>
+<li><a href="/wiki/Google_Labs" title="Google Labs">Labs</a></li>
+<li><a href="/wiki/Google_Latitude" title="Google Latitude">Latitude</a></li>
+<li><a href="/wiki/Google_Lively" title="Google Lively">Lively</a></li>
+<li><a href="/wiki/Google_Mashup_Editor" title="Google Mashup Editor">Mashup Editor</a></li>
+<li><a href="/wiki/Google_Notebook" title="Google Notebook">Notebook</a></li>
+<li><a href="/wiki/Google_Offers" title="Google Offers">Offers</a></li>
+<li><a href="/wiki/Orkut" title="Orkut">Orkut</a></li>
+<li><a href="/wiki/Google_Pack" title="Google Pack">Pack</a></li>
+<li><a href="/wiki/Google_Page_Creator" title="Google Page Creator">Page Creator</a></li>
+<li><a href="/wiki/Picnik" title="Picnik">Picnik</a></li>
+<li><a href="/wiki/Google_PowerMeter" title="Google PowerMeter">PowerMeter</a></li>
+<li><a href="/wiki/Google_Reader" title="Google Reader">Reader</a></li>
+<li><a href="/wiki/Google_Script_Converter" title="Google Script Converter">Script Converter</a></li>
+<li><a href="/wiki/Google_SearchWiki" title="Google SearchWiki">SearchWiki</a></li>
+<li><a href="/wiki/Google_Sidewiki" title="Google Sidewiki">Sidewiki</a></li>
+<li><a href="/wiki/Slide.com" title="Slide.com">Slide</a></li>
+<li><a href="/wiki/Google_Squared" title="Google Squared">Squared</a></li>
+<li><a href="/wiki/Google_Talk" title="Google Talk">Talk</a></li>
+<li><a href="/wiki/Google_Pack#Google_Updater" title="Google Pack">Updater</a></li>
+<li><a href="/wiki/Urchin_(software)" title="Urchin (software)">Urchin</a></li>
+<li><a href="/wiki/Google_Videos" title="Google Videos">Videos</a></li>
+<li><a href="/wiki/Google_Video_Marketplace" title="Google Video Marketplace">Video Marketplace</a></li>
+<li><a href="/wiki/Apache_Wave" title="Apache Wave">Wave</a></li>
+<li><a href="/wiki/Google_Web_Accelerator" title="Google Web Accelerator">Web Accelerator</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eric_Schmidt" title="Eric Schmidt">Eric Schmidt</a></li>
+<li><a href="/wiki/Alan_Eustace" title="Alan Eustace">Alan Eustace</a></li>
+<li><a href="/wiki/John_Doerr" title="John Doerr">John Doerr</a></li>
+<li><a href="/wiki/John_L._Hennessy" title="John L. Hennessy">John L. Hennessy</a></li>
+<li><a href="/wiki/Ray_Kurzweil" title="Ray Kurzweil">Raymond Kurzweil</a></li>
+<li><a href="/wiki/Ann_Mather" title="Ann Mather">Ann Mather</a></li>
+<li><a href="/wiki/Paul_Otellini" title="Paul Otellini">Paul Otellini</a></li>
+<li><a href="/wiki/Ram_Shriram" title="Ram Shriram">Ram Shriram</a></li>
+<li><a href="/wiki/Shirley_M._Tilghman" title="Shirley M. Tilghman">Shirley M. Tilghman</a></li>
+<li><a href="/wiki/Matt_Cutts" title="Matt Cutts">Matt Cutts</a></li>
+<li><a href="/wiki/Al_Gore" title="Al Gore">Al Gore</a></li>
+<li><a href="/wiki/Rajen_Sheth" title="Rajen Sheth">Rajen Sheth</a></li>
+<li><a href="/wiki/Vint_Cerf" title="Vint Cerf">Vint Cerf</a></li>
+<li><a href="/wiki/Alan_Mulally" title="Alan Mulally">Alan Mulally</a></li>
+<li><a href="/wiki/David_Drummond_(Google)" title="David Drummond (Google)">David Drummond</a></li>
+<li><a href="/wiki/Patrick_Pichette" title="Patrick Pichette">Patrick Pichette</a></li>
+<li><a href="/wiki/Amit_Singhal" title="Amit Singhal">Amit Singhal</a></li>
+<li><a href="/wiki/Jeff_Dean_(computer_scientist)" title="Jeff Dean (computer scientist)">Jeff Dean</a></li>
+<li><a href="/wiki/Omid_Kordestani" title="Omid Kordestani">Omid Kordestani</a></li>
+<li><a href="/wiki/Rachel_Whetstone" title="Rachel Whetstone">Rachel Whetstone</a></li>
+<li><a href="/wiki/Salar_Kamangar" title="Salar Kamangar">Salar Kamangar</a></li>
+<li><a href="/wiki/Sundar_Pichai" title="Sundar Pichai">Sundar Pichai</a></li>
+<li><a href="/wiki/Susan_Wojcicki" title="Susan Wojcicki">Susan Wojcicki</a></li>
+<li><a href="/wiki/Urs_H%C3%B6lzle" title="Urs Hölzle">Urs Hölzle</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Founders</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Larry_Page" title="Larry Page">Larry Page</a></li>
+<li><a href="/wiki/Sergey_Brin" title="Sergey Brin">Sergey Brin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Google" title="Category:Google">Other</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Art_Project" title="Google Art Project">Art Project</a></li>
+<li><a href="/wiki/Calico_(company)" title="Calico (company)">Calico (company)</a></li>
+<li><a href="/wiki/Google_Current" title="Google Current">Current</a></li>
+<li><a href="/wiki/Google_Chrome_Experiments" title="Google Chrome Experiments">Chrome Experiments</a></li>
+<li><a href="/wiki/Google_Code-In" title="Google Code-In" class="mw-redirect">Code-In</a></li>
+<li><a href="/wiki/Google_Code_Jam" title="Google Code Jam">Code Jam</a></li>
+<li><a href="/wiki/Google_Developer_Day" title="Google Developer Day">Developer Day</a></li>
+<li><a href="/wiki/Google_Business_Groups" title="Google Business Groups">Google Business Groups</a></li>
+<li><a href="/wiki/Google_Data_Liberation_Front" title="Google Data Liberation Front">Data Liberation</a>
+<ul>
+<li><a href="/wiki/Google_Takeout" title="Google Takeout">Takeout</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Developer_Expert" title="Google Developer Expert">Google Developer Expert</a></li>
+<li><a href="/wiki/Google_Enterprise" title="Google Enterprise" class="mw-redirect">Google Enterprise</a></li>
+<li><a href="/wiki/Google_driverless_car" title="Google driverless car">Driverless car</a></li>
+<li><a href="/wiki/Google_Fiber" title="Google Fiber">Fiber</a></li>
+<li><a href="/wiki/Google_China" title="Google China">Google China</a></li>
+<li><a href="/wiki/Google_Express" title="Google Express">Google Express</a></li>
+<li><a href="/wiki/Googlization" title="Googlization">Googlization</a></li>
+<li><a href="/wiki/Google_Grants" title="Google Grants">Grants</a></li>
+<li><a href="/wiki/Google.org" title="Google.org">Google.org</a></li>
+<li><a href="/wiki/Google_logo" title="Google logo">Logo</a></li>
+<li><a href="/wiki/Google_Doodle" title="Google Doodle">Google Doodles</a>
+<ul>
+<li><a href="/wiki/List_of_Google_Doodles_(1998%E2%80%932009)" title="List of Google Doodles (1998–2009)">1998–2009</a></li>
+<li><a href="/wiki/List_of_Google_Doodles_in_2010" title="List of Google Doodles in 2010">2010</a></li>
+<li><a href="/wiki/List_of_Google_Doodles_in_2011" title="List of Google Doodles in 2011">2011</a></li>
+<li><a href="/wiki/List_of_Google_Doodles_in_2012" title="List of Google Doodles in 2012">2012</a></li>
+<li><a href="/wiki/List_of_Google_Doodles_in_2013" title="List of Google Doodles in 2013">2013</a></li>
+<li><a href="/wiki/List_of_Google_Doodles_in_2014" title="List of Google Doodles in 2014">2014</a></li>
+<li><a href="/wiki/List_of_Google_Doodles_in_2015" title="List of Google Doodles in 2015">2015</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Google_Lunar_X_Prize" title="Google Lunar X Prize">Lunar X Prize</a></li>
+<li><a href="/wiki/Material_Design" title="Material Design">Material Design</a></li>
+<li><a href="/wiki/Motorola_Mobility" title="Motorola Mobility">Motorola Mobility</a></li>
+<li><a href="/wiki/Google_Ventures" title="Google Ventures">Ventures</a></li>
+<li><a href="/wiki/Google_WiFi" title="Google WiFi">WiFi</a></li>
+<li><a href="/wiki/Google_X" title="Google X">X</a></li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Google_events" title="Category:Google events">Events</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Google_Science_Fair" title="Google Science Fair">Science Fair</a></li>
+<li><a href="/wiki/Google_Searchology" title="Google Searchology">Searchology</a></li>
+<li><a href="/wiki/Google_I/O" title="Google I/O">I/O</a></li>
+<li><a href="/wiki/Google_Developer_Day" title="Google Developer Day">Developer Day</a></li>
+<li><a href="/wiki/AtGoogleTalks" title="AtGoogleTalks">AtGoogleTalks</a></li>
+<li><a href="/wiki/Google_Code_Jam" title="Google Code Jam">Code Jam</a></li>
+<li><a href="/wiki/Google_Highly_Open_Participation_Contest" title="Google Highly Open Participation Contest">Highly Open Participation Contest</a></li>
+<li><a href="/wiki/Google_Code-in" title="Google Code-in">Code-in</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Project_Ara" title="Project Ara">Ara</a></li>
+<li><a href="/wiki/Project_Loon" title="Project Loon">Loon</a></li>
+<li><a href="/wiki/Project_Tango" title="Project Tango">Tango</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Real estate</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/111_Eighth_Avenue" title="111 Eighth Avenue">111 Eighth Avenue</a></li>
+<li><a href="/wiki/Googleplex" title="Googleplex">Googleplex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AI_Challenge" title="AI Challenge">AI Challenge</a></li>
+<li><a href="/wiki/Google_bomb" title="Google bomb">Bomb</a></li>
+<li><a href="/wiki/Goojje" title="Goojje">Goojje</a></li>
+<li><a href="/wiki/Monopoly_City_Streets" title="Monopoly City Streets">Monopoly City Streets</a></li>
+<li><a href="/wiki/Unity_(cable_system)" title="Unity (cable system)">Unity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Google" title="Category:Google">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="//commons.wikimedia.org/wiki/Google" class="extiw" title="commons:Google">Commons</a></b></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <b><a href="/wiki/Portal:Google" title="Portal:Google">Portal</a></b></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <b><a href="/wiki/Wikipedia:WikiProject_Google" title="Wikipedia:WikiProject Google">WikiProject</a></b></li>
+<li><img alt="Wikiversity page" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/16px-Wikiversity-logo.svg.png" title="Wikiversity page" width="16" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/24px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/32px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /> <b><a href="//en.wikiversity.org/wiki/Google" class="extiw" title="v:Google">Wikiversity</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1092
+CPU time usage: 0.295 seconds
+Real time usage: 0.354 seconds
+Preprocessor visited node count: 815/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 65241/2097152 bytes
+Template argument size: 302/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  223.733      1 - -total
+ 29.72%   66.488      1 - Template:Reflist
+ 28.43%   63.613      4 - Template:Navbox
+ 26.21%   58.634      1 - Template:Google_navbox
+ 25.36%   56.732      1 - Template:Infobox_website
+ 22.84%   51.097      1 - Template:Infobox
+ 20.80%   46.536      5 - Template:Cite_web
+ 14.68%   32.839      1 - Template:Official
+ 10.27%   22.970      1 - Template:URL
+  7.18%   16.056      5 - Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42842996-0!*!0!!en!4!* and timestamp 20150705041410 and revision id 664777740
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Google_Chrome_Apps&amp;oldid=664777740">https://en.wikipedia.org/w/index.php?title=Google_Chrome_Apps&amp;oldid=664777740</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Software_add-ons" title="Category:Software add-ons">Software add-ons</a></li><li><a href="/wiki/Category:Google_Chrome" title="Category:Google Chrome">Google Chrome</a></li><li><a href="/wiki/Category:Google_Chrome_apps" title="Category:Google Chrome apps">Google Chrome apps</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Google+Chrome+Apps&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Google+Chrome+Apps" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Google_Chrome_Apps"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Google_Chrome_Apps"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Google_Chrome_Apps" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Google_Chrome_Apps" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Google_Chrome_Apps" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Google_Chrome_Apps&amp;oldid=664777740" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Google_Chrome_Apps&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q16972647" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Google_Chrome_Apps&amp;id=664777740" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Google+Chrome+Apps">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Google+Chrome+Apps&amp;oldid=664777740&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Google_Chrome_Apps&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q16972647#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 30 May 2015, at 23:46.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Google_Chrome_Apps&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1083"});
+}</script>
+	</body>
+</html>

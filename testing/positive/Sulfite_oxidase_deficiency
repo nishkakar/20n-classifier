@@ -1,0 +1,753 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Sulfite oxidase - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sulfite_oxidase" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sulfite_oxidase&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sulfite_oxidase&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Sulfite_oxidase" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sulfite_oxidase" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sulfite_oxidase","wgTitle":"Sulfite oxidase","wgCurRevisionId":646717340,"wgRevisionId":646717340,"wgArticleId":4811381,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Human proteins","All articles with unsourced statements","Articles with unsourced statements from September 2014","CS1 maint: Explicit use of et al.","Articles that use a Medicine navs subtemplate","EC 1.8.3","Metalloproteins","Molybdenum compounds"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sulfite_oxidase","wgRelevantArticleId":4811381,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Sulfite_oxidase_deficiency","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDB_1mj4_EBI.jpg/100px-PDB_1mj4_EBI.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Sulfite_oxidase","wgWikibaseItemId":"Q408551"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Sulfite_oxidase skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Sulfite oxidase</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Sulfite_oxidase_deficiency&amp;redirect=no" title="Sulfite oxidase deficiency">Sulfite oxidase deficiency</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">sulfite oxidase</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Sulfite-oxidase-reaction.png" class="image"><img alt="Sulfite-oxidase-reaction.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sulfite-oxidase-reaction.png/292px-Sulfite-oxidase-reaction.png" width="292" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sulfite-oxidase-reaction.png/438px-Sulfite-oxidase-reaction.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sulfite-oxidase-reaction.png/584px-Sulfite-oxidase-reaction.png 2x" data-file-width="597" data-file-height="102" /></a>
+<div>Sulfite oxidase catalyses the oxidation-reduction reaction of sulfite and water, yielding sulfate.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.chem.qmul.ac.uk/iubmb/enzyme/EC1/8/3/1.html">1.8.3.1</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/CAS_registry_number" title="CAS registry number" class="mw-redirect">CAS number</a></th>
+<td style="background-color: #eee"><a class="external text" href="//tools.wmflabs.org/magnustools/cas.php?language=en&amp;cas=9029-38-3&amp;title=">9029-38-3</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Databases</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/IntEnz" title="IntEnz">IntEnz</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/intenz/query?cmd=SearchEC&amp;ec=1.8.3.1">IntEnz view</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/BRENDA" title="BRENDA">BRENDA</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.brenda-enzymes.org/enzyme.php?ecno=1.8.3.1">BRENDA entry</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/ExPASy" title="ExPASy">ExPASy</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.expasy.org/enzyme/1.8.3.1">NiceZyme view</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/KEGG" title="KEGG">KEGG</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://www.genome.ad.jp/dbget-bin/www_bget?enzyme+1.8.3.1">KEGG entry</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/MetaCyc" title="MetaCyc">MetaCyc</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://biocyc.org/META/substring-search?type=NIL&amp;object=1.8.3.1">metabolic pathway</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/PRIAM_enzyme_specific_profiles" title="PRIAM enzyme specific profiles" class="mw-redirect">PRIAM</a></th>
+<td style="background-color: #eee"><a rel="nofollow" class="external text" href="http://priam.prabi.fr/cgi-bin/PRIAM_profiles_CurrentRelease.pl?EC=1.8.3.1">profile</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a> structures</th>
+<td style="background-color: #eee"><small style="font-size:85%;"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=EnzymeClassificationQuery&amp;Enzyme_Classification=1.8.3.1">RCSB PDB</a> <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/pdbe/entry/search/index?ec_number:1.8.3.1">PDBe</a> <a rel="nofollow" class="external text" href="//www.ebi.ac.uk/thornton-srv/databases/cgi-bin/enzymes/GetPage.pl?ec_number=1.8.3.1">PDBsum</a></small></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3"><a href="/wiki/Gene_Ontology" title="Gene Ontology" class="mw-redirect">Gene Ontology</a></th>
+<td style="background-color: #eee"><small style="font-size:85%;"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/cgi-bin/amigo/go.cgi?query=0008482&amp;view=details">AmiGO</a> / <a rel="nofollow" class="external text" href="//www.ebi.ac.uk/ego/DisplayGoTerm?id=GO:0008482&amp;format=normal">EGO</a></small></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color: #eee">
+<table class="infobox collapsible collapsed" style="width:22em;float:none; clear:none; margin:0; border-width:0; border-collapse:collapse; text-align:left; width:100%">
+<tr>
+<th colspan="2" style="text-align:center;background-color: #ddd">Search</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=1.8.3.1%5BEC/RN%20Number%5D%20AND%20pubmed%20pmc%20local%5Bsb%5D">articles</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/PubMed" title="PubMed">PubMed</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&amp;term=1.8.3.1%5BEC/RN%20Number%5D">articles</a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #e7dcc3; border:#fafafa 2px solid; border-width:3px 2px 0 0;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a></th>
+<td style="background-color: #eee; border:#fafafa 2px solid; border-width:3px 0 0 2px;"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/protein?term=1.8.3.1%5BEC/RN%20Number%5D">proteins</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="4" style="text-align:center;font-size:125%;font-weight:bold">Sulfite oxidase</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center"><a href="/wiki/File:PDB_1mj4_EBI.jpg" class="image"><img alt="PDB 1mj4 EBI.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDB_1mj4_EBI.jpg/250px-PDB_1mj4_EBI.jpg" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDB_1mj4_EBI.jpg/375px-PDB_1mj4_EBI.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PDB_1mj4_EBI.jpg/500px-PDB_1mj4_EBI.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a> rendering based on 1mj4.</div>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color: #eee">
+<table style="border: none; padding: 0; margin: 0; width: 100%; text-align: left">
+<tr style="background-color: #ddd; text-align: center">
+<th colspan="2">Available structures</th>
+</tr>
+<tr>
+<th rowspan="2" style="background-color: #c3fdb8; width:43px"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td colspan="2" style="background-color: #eee">Ortholog search: <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/pdbe/searchResults.html?display=both&amp;term=P51687%20or%20Q3MHX0%20or%20Q8R086%20or%20G3V6R5%20or%20Q07116%20or%20Q9VWP4%20or%20Q7QGS7%20or%20Q9XTQ8%20or%20G4N4L5%20or%20Q7S3C2%20or%20Q9S850%20or%20Q0WWA1%20or%20Q8LP96">PDBe</a>, <a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=UpAccessionIdQuery&amp;accessionIdList=P51687,Q3MHX0,Q8R086,G3V6R5,Q07116,Q9VWP4,Q7QGS7,Q9XTQ8,G4N4L5,Q7S3C2,Q9S850,Q0WWA1,Q8LP96">RCSB</a></td>
+</tr>
+<tr>
+<td>
+<table class="collapsible collapsed" style="border: none; padding: 0; margin: 0; width: 100%; text-align: left">
+<tr style="background-color: #ddd; text-align: center">
+<th colspan="2">List of PDB id codes</th>
+</tr>
+<tr>
+<td colspan="2" style="background-color: #eee">
+<p><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.rcsb.org/pdb/cgi/explore.cgi?pdbId=1MJ4">1MJ4</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color: #ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8"><a href="/wiki/Human_Genome_Organisation" title="Human Genome Organisation">Symbol</a></th>
+<td colspan="3" style="background-color: #eee"><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=11460">SUOX</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8">External IDs</th>
+<td colspan="3" style="background-color: #eee"><span class="plainlinks"><a href="/wiki/Mendelian_Inheritance_in_Man" title="Mendelian Inheritance in Man" class="mw-redirect">OMIM</a>:&#160;<a rel="nofollow" class="external text" href="//omim.org/entry/606887">606887</a></span> <span class="plainlinks"><a href="/wiki/Mouse_Genome_Informatics" title="Mouse Genome Informatics">MGI</a>:&#160;<a rel="nofollow" class="external text" href="http://www.informatics.jax.org/marker/MGI:2446117">2446117</a></span> <span class="plainlinks"><a href="/wiki/HomoloGene" title="HomoloGene">HomoloGene</a>:&#160;<a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=394">394</a></span> <a href="/wiki/GeneCards" title="GeneCards">GeneCards</a>: <span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.genecards.org/cgi-bin/carddisp.pl?id_type=entrezgene&amp;id=6821">SUOX Gene</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8"><a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a></th>
+<td colspan="3" style="background-color: #eee"><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.genome.jp/dbget-bin/www_bget?enzyme+1.8.3.1">1.8.3.1</a></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color: #eee">
+<table class="collapsible collapsed" style="border: none; padding: 0; margin: 0; width: 100%; text-align: left">
+<tr style="background-color: #ddd; text-align: center">
+<th colspan="2"><a href="/wiki/Gene_ontology" title="Gene ontology">Gene ontology</a></th>
+</tr>
+<tr>
+<th style="background-color: #c3fdb8">Molecular function</th>
+<td style="background-color: #eee"><big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008482">sulfite oxidase activity</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0020037">heme binding</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030151">molybdenum ion binding</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043546">molybdopterin cofactor binding</a></span><br /></td>
+</tr>
+<tr>
+<th style="background-color: #c3fdb8">Cellular component</th>
+<td style="background-color: #eee"><big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005758">mitochondrial intermembrane space</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005759">mitochondrial matrix</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005829">cytosol</a></span><br /></td>
+</tr>
+<tr>
+<th style="background-color: #c3fdb8">Biological process</th>
+<td style="background-color: #eee"><big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000096">sulfur amino acid metabolic process</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000098">sulfur amino acid catabolic process</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007584">response to nutrient</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0034641">cellular nitrogen compound metabolic process</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042128">nitrate assimilation</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0044281">small molecule metabolic process</a></span><br />
+<big>•</big> <span class="plainlinks"><a rel="nofollow" class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0070221">sulfide oxidation, using sulfide:quinone oxidoreductase</a></span><br /></td>
+</tr>
+<tr>
+<td style="background-color: #eee;text-align:center;" colspan="2">Sources: <a rel="nofollow" class="external text" href="http://amigo.geneontology.org/cgi-bin/amigo/gp-assoc.cgi?gp=UniProtKB:P51687">Amigo</a> / <a rel="nofollow" class="external text" href="http://www.ebi.ac.uk/QuickGO/GProtein?ac=P51687">QuickGO</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color: #ddd">Orthologs</th>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8">Species</th>
+<td><b>Human</b></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8"><a href="/wiki/Entrez" title="Entrez">Entrez</a></th>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=6821&amp;rn=1">6821</a></span></td>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=211389&amp;rn=1">211389</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8"><a href="/wiki/Ensembl" title="Ensembl">Ensembl</a></th>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000139531;db=core">ENSG00000139531</a></span></td>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000049858;db=core">ENSMUSG00000049858</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8"><a href="/wiki/UniProt" title="UniProt">UniProt</a></th>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.uniprot.org/uniprot/P51687">P51687</a></span></td>
+<td><span class="plainlinks"><a rel="nofollow" class="external text" href="http://www.uniprot.org/uniprot/Q8R086">Q8R086</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8">RefSeq (mRNA)</th>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_000456">NM_000456</a></span></td>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_173733">NM_173733</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8">RefSeq (protein)</th>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_000447">NP_000447</a></span></td>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_776094">NP_776094</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8">Location (UCSC)</th>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://genome.ucsc.edu/cgi-bin/hgTracks?org=Human&amp;db=hg38&amp;position=chr12:55997180-56006641">Chr 12:<br />
+56 – 56.01 Mb</a></span></td>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external text" href="http://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&amp;db=mm10&amp;position=chr10:128669887-128673918">Chr 10:<br />
+128.67 – 128.67 Mb</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color: #c3fdb8"><a href="/wiki/PubMed" title="PubMed">PubMed</a> search</th>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external autonumber" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&amp;cmd=Link&amp;LinkName=gene_pubmed&amp;from_uid=6821">[1]</a></span></td>
+<td><span class="plainlinks" style="white-space: nowrap"><a rel="nofollow" class="external autonumber" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&amp;cmd=Link&amp;LinkName=gene_pubmed&amp;from_uid=211389">[2]</a></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:right">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:PBB/6821" title="Template:PBB/6821"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:PBB/6821&amp;action=edit&amp;redlink=1" class="new" title="Template talk:PBB/6821 (page does not exist)"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PBB/6821&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Sulfite oxidase</b> (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> <a rel="nofollow" class="external text" href="http://enzyme.expasy.org/EC/1.8.3.1">1.8.3.1</a>) is an <a href="/wiki/Enzyme" title="Enzyme">enzyme</a> in the <a href="/wiki/Mitochondria" title="Mitochondria" class="mw-redirect">mitochondria</a> of all <a href="/wiki/Eukaryote" title="Eukaryote">eukaryotes</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2014)">citation needed</span></a></i>]</sup> It <a href="/wiki/Redox_reaction" title="Redox reaction" class="mw-redirect">oxidizes</a> <a href="/wiki/Sulfite" title="Sulfite">sulfite</a> to <a href="/wiki/Sulfate" title="Sulfate">sulfate</a> and, via <a href="/wiki/Cytochrome_c" title="Cytochrome c">cytochrome c</a>, transfers the electrons produced to the <a href="/wiki/Electron_transport_chain" title="Electron transport chain">electron transport chain</a>, allowing generation of <a href="/wiki/Adenosine_triphosphate" title="Adenosine triphosphate">ATP</a> in <a href="/wiki/Oxidative_phosphorylation" title="Oxidative phosphorylation">oxidative phosphorylation</a>.<sup id="cite_ref-pmid16385059_1-0" class="reference"><a href="#cite_note-pmid16385059-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-pmid16140720_2-0" class="reference"><a href="#cite_note-pmid16140720-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-pmid4344230_3-0" class="reference"><a href="#cite_note-pmid4344230-3"><span>[</span>3<span>]</span></a></sup> This is the last step in the metabolism of <a href="/wiki/Sulfur" title="Sulfur">sulfur</a>-containing compounds and the sulfate is excreted.</p>
+<p>Sulfite oxidase is a metallo-enzyme that utilizes a <a href="/wiki/Molybdopterin" title="Molybdopterin">molybdopterin</a> cofactor and a <a href="/wiki/Heme" title="Heme">heme</a> group. It is one of the <a href="/wiki/Cytochrome_b5" title="Cytochrome b5">cytochromes <i>b</i><sub>5</sub></a> and belongs to the enzyme super-family of <a href="/wiki/Molybdenum_oxotransferase" title="Molybdenum oxotransferase">molybdenum oxotransferases</a> that also includes <a href="/wiki/DMSO_reductase" title="DMSO reductase">DMSO reductase</a>, <a href="/wiki/Xanthine_oxidase" title="Xanthine oxidase">xanthine oxidase</a>, and <a href="/wiki/Nitrite_reductase" title="Nitrite reductase">nitrite reductase</a>.</p>
+<p>In mammals, the expression levels of sulfite oxidase is high in the liver, kidney, and heart, and very low in spleen, brain, skeletal muscle, and blood.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Structure"><span class="tocnumber">1</span> <span class="toctext">Structure</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Active_site_and_mechanism"><span class="tocnumber">2</span> <span class="toctext">Active site and mechanism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Deficiency"><span class="tocnumber">3</span> <span class="toctext">Deficiency</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Structure">Structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=1" title="Edit section: Structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a <a href="/wiki/Homodimer" title="Homodimer" class="mw-redirect">homodimer</a>, sulfite oxidase contains two identical subunits with an <a href="/wiki/N-terminus" title="N-terminus">N-terminal</a> domain and a <a href="/wiki/C-terminus" title="C-terminus">C-terminal</a> domain. These two domains are connected by ten <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a> forming a loop. The N-terminal domain has a <a href="/wiki/Heme" title="Heme">heme</a> cofactor with three adjacent antiparallel <a href="/wiki/Beta_sheet" title="Beta sheet">beta sheets</a> and five <a href="/wiki/Alpha_helix" title="Alpha helix">alpha helices</a>. The C-terminal domain hosts a molybdopterin cofactor that is surrounded by thirteen beta sheets and three alpha helices. The <a href="/wiki/Molybdopterin" title="Molybdopterin">molybdopterin</a> cofactor has a Mo(VI) center, which is bonded to a sulfur from <a href="/wiki/Cysteine" title="Cysteine">cysteine</a>, an ene-dithiolate from pyranopterin, and two terminal oxygens. It is at this molybdenum center that the catalytic oxidation of sulfite takes place.</p>
+<h2><span class="mw-headline" id="Active_site_and_mechanism">Active site and mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=2" title="Edit section: Active site and mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table>
+<tr>
+<td>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Sulfite-oxidase-mechanism.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sulfite-oxidase-mechanism.png/300px-Sulfite-oxidase-mechanism.png" width="300" height="222" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sulfite-oxidase-mechanism.png/450px-Sulfite-oxidase-mechanism.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sulfite-oxidase-mechanism.png/600px-Sulfite-oxidase-mechanism.png 2x" data-file-width="834" data-file-height="617" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sulfite-oxidase-mechanism.png" class="internal" title="Enlarge"></a></div>
+A proposed mechanism of the oxidation of sulfite to sulfate by sulfite oxidase.</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<p>The active site of sulfite oxidase contains the <a href="/wiki/Molybdopterin" title="Molybdopterin">molybdopterin</a> cofactor and supports molybdenum in its highest oxidation state, +6 (Mo<sup>VI</sup>). In the enzyme's oxidized state, molybdenum is coordinated by a cysteine thiolate, the <a href="/wiki/Dithiolene" title="Dithiolene" class="mw-redirect">dithiolene</a> group of molybdopterin, and two terminal oxygen atoms (<a href="/wiki/Oxo_ligand" title="Oxo ligand" class="mw-redirect">oxos</a>). Upon reacting with sulfite, one oxygen atom is transferred to sulfite to produce sulfate, and the molybdenum center is reduced by two electrons to Mo<sup>IV</sup>. Water then displaces sulfate, and the removal of two protons (H<sup>+</sup>) and two electrons (e<sup>−</sup>) returns the active site to its original state. A key feature of this oxygen atom transfer enzyme is that the oxygen atom being transferred arises from water, not from <a href="/wiki/Dioxygen" title="Dioxygen" class="mw-redirect">dioxygen</a> (O<sub>2</sub>).</p>
+<h2><span class="mw-headline" id="Deficiency">Deficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=3" title="Edit section: Deficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sulfite oxidase is required to metabolize the sulfur-containing amino acids cysteine and <a href="/wiki/Methionine" title="Methionine">methionine</a> in foods. Lack of functional sulfite oxidase causes a disease known as sulfite oxidase deficiency. This rare but fatal disease causes neurological disorders, mental retardation, physical deformities, the degradation of the brain, and death. Reasons for the lack of functional sulfite oxidase include a <a href="/wiki/Genetics" title="Genetics">genetic</a> defect that leads to the absence of a <a href="/wiki/Molybdopterin" title="Molybdopterin">molybdopterin</a> <a href="/wiki/Cofactor_(biochemistry)" title="Cofactor (biochemistry)">cofactor</a> and <a href="/wiki/Point_mutation" title="Point mutation">point mutations</a> in the enzyme.<sup id="cite_ref-pmid16234925_4-0" class="reference"><a href="#cite_note-pmid16234925-4"><span>[</span>4<span>]</span></a></sup> A G473D mutation impairs dimerization and catalysis in human sulfite oxidase.<sup id="cite_ref-pmid16475804_5-0" class="reference"><a href="#cite_note-pmid16475804-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-pmid17459792_6-0" class="reference"><a href="#cite_note-pmid17459792-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Sulfur_metabolism" title="Sulfur metabolism">Sulfur metabolism</a></li>
+<li><a href="/wiki/Bioinorganic_chemistry" title="Bioinorganic chemistry">Bioinorganic chemistry</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pmid16385059-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16385059_1-0">^</a></b></span> <span class="reference-text"><span class="citation journal">D'Errico G, Di Salle A, La Cara F, Rossi M, Cannio R (January 2006). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1347283">"Identification and characterization of a novel bacterial sulfite oxidase with no heme binding domain from Deinococcus radiodurans"</a>. <i>J. Bacteriol.</i> <b>188</b> (2): 694–701. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1128%2FJB.188.2.694-701.2006">10.1128/JB.188.2.694-701.2006</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1347283">1347283</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16385059">16385059</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Identification+and+characterization+of+a+novel+bacterial+sulfite+oxidase+with+no+heme+binding+domain+from+Deinococcus+radiodurans&amp;rft.au=D%27Errico+G%2C+Di+Salle+A%2C+La+Cara+F%2C+Rossi+M%2C+Cannio+R&amp;rft.aulast=D%27Errico+G%2C+Di+Salle+A%2C+La+Cara+F%2C+Rossi+M%2C+Cannio+R&amp;rft.date=January+2006&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1347283&amp;rft_id=info%3Adoi%2F10.1128%2FJB.188.2.694-701.2006&amp;rft_id=info%3Apmc%2F1347283&amp;rft_id=info%3Apmid%2F16385059&amp;rft.issue=2&amp;rft.jtitle=J.+Bacteriol.&amp;rft.pages=694-701&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=188" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16140720-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16140720_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Tan WH, Eichler FS, Hoda S, Lee MS, Baris H, Hanley CA, Grant PE, Krishnamoorthy KS, Shih VE (September 2005). "Isolated sulfite oxidase deficiency: a case report with a novel mutation and review of the literature". <i>Pediatrics</i> <b>116</b> (3): 757–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1542%2Fpeds.2004-1897">10.1542/peds.2004-1897</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16140720">16140720</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Isolated+sulfite+oxidase+deficiency%3A+a+case+report+with+a+novel+mutation+and+review+of+the+literature&amp;rft.aulast=Tan+WH%2C+Eichler+FS%2C+Hoda+S%2C+Lee+MS%2C+Baris+H%2C+Hanley+CA%2C+Grant+PE%2C+Krishnamoorthy+KS%2C+Shih+VE&amp;rft.au=Tan+WH%2C+Eichler+FS%2C+Hoda+S%2C+Lee+MS%2C+Baris+H%2C+Hanley+CA%2C+Grant+PE%2C+Krishnamoorthy+KS%2C+Shih+VE&amp;rft.date=September+2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1542%2Fpeds.2004-1897&amp;rft_id=info%3Apmid%2F16140720&amp;rft.issue=3&amp;rft.jtitle=Pediatrics&amp;rft.pages=757-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=116" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid4344230-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid4344230_3-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Cohen HJ, Betcher-Lange S, Kessler DL, Rajagopalan KV (December 1972). "Hepatic sulfite oxidase. Congruency in mitochondria of prosthetic groups and activity". <i>J. Biol. Chem.</i> <b>247</b> (23): 7759–66. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4344230">4344230</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Hepatic+sulfite+oxidase.+Congruency+in+mitochondria+of+prosthetic+groups+and+activity&amp;rft.au=Cohen+HJ%2C+Betcher-Lange+S%2C+Kessler+DL%2C+Rajagopalan+KV&amp;rft.aulast=Cohen+HJ%2C+Betcher-Lange+S%2C+Kessler+DL%2C+Rajagopalan+KV&amp;rft.date=December+1972&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F4344230&amp;rft.issue=23&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.pages=7759-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=247" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16234925-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16234925_4-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Karakas E, Kisker C (November 2005). "Structural analysis of missense mutations causing isolated sulfite oxidase deficiency". <i><a href="/wiki/Dalton_Transactions" title="Dalton Transactions">Dalton Transactions</a></i> (21): 3459–63. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1039%2Fb505789m">10.1039/b505789m</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16234925">16234925</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Structural+analysis+of+missense+mutations+causing+isolated+sulfite+oxidase+deficiency&amp;rft.au=Karakas+E%2C+Kisker+C&amp;rft.aulast=Karakas+E%2C+Kisker+C&amp;rft.date=November+2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1039%2Fb505789m&amp;rft_id=info%3Apmid%2F16234925&amp;rft.issue=21&amp;rft.jtitle=Dalton+Transactions&amp;rft.pages=3459-63&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid16475804-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid16475804_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Wilson HL, Wilkinson SR, Rajagopalan KV (February 2006). "The G473D mutation impairs dimerization and catalysis in human sulfite oxidase". <i>Biochemistry</i> <b>45</b> (7): 2149–60. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fbi051609l">10.1021/bi051609l</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16475804">16475804</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=The+G473D+mutation+impairs+dimerization+and+catalysis+in+human+sulfite+oxidase&amp;rft.aulast=Wilson+HL%2C+Wilkinson+SR%2C+Rajagopalan+KV&amp;rft.au=Wilson+HL%2C+Wilkinson+SR%2C+Rajagopalan+KV&amp;rft.date=February+2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fbi051609l&amp;rft_id=info%3Apmid%2F16475804&amp;rft.issue=7&amp;rft.jtitle=Biochemistry&amp;rft.pages=2149-60&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid17459792-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid17459792_6-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Feng C, Tollin G, Enemark JH (May 2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1993547">"Sulfite oxidizing enzymes"</a>. <i>Biochim. Biophys. Acta</i> <b>1774</b> (5): 527–39. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.bbapap.2007.03.006">10.1016/j.bbapap.2007.03.006</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1993547">1993547</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17459792">17459792</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Sulfite+oxidizing+enzymes&amp;rft.au=Feng+C%2C+Tollin+G%2C+Enemark+JH&amp;rft.aulast=Feng+C%2C+Tollin+G%2C+Enemark+JH&amp;rft.date=May+2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1993547&amp;rft_id=info%3Adoi%2F10.1016%2Fj.bbapap.2007.03.006&amp;rft_id=info%3Apmc%2F1993547&amp;rft_id=info%3Apmid%2F17459792&amp;rft.issue=5&amp;rft.jtitle=Biochim.+Biophys.+Acta&amp;rft.pages=527-39&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1774" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li>Kisker, C. “Sulfite oxidase”, Messerschimdt, A.; Huber, R.; Poulos, T.; Wieghardt, K.; eds. Handbook of Metalloproteins, vol 2; John Wiley and Sons, Ltd: New York, 2002</li>
+<li><span class="citation journal">Feng C, Wilson HL, Hurley JK et al. (2003). "Essential role of conserved arginine 160 in intramolecular electron transfer in human sulfite oxidase.". <i>Biochemistry</i> <b>42</b> (42): 12235–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fbi0350194">10.1021/bi0350194</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14567685">14567685</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Essential+role+of+conserved+arginine+160+in+intramolecular+electron+transfer+in+human+sulfite+oxidase.&amp;rft.au=Feng+C%2C+Wilson+HL%2C+Hurley+JK&amp;rft.aulast=Feng+C%2C+Wilson+HL%2C+Hurley+JK&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fbi0350194&amp;rft_id=info%3Apmid%2F14567685&amp;rft.issue=42&amp;rft.jtitle=Biochemistry&amp;rft.pages=12235-42&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=42" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Lee HF, Mak BS, Chi CS et al. (2002). "A novel mutation in neonatal isolated sulphite oxidase deficiency.". <i>Neuropediatrics</i> <b>33</b> (4): 174–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1055%2Fs-2002-34491">10.1055/s-2002-34491</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12368985">12368985</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=A+novel+mutation+in+neonatal+isolated+sulphite+oxidase+deficiency.&amp;rft.aulast=Lee+HF%2C+Mak+BS%2C+Chi+CS&amp;rft.au=Lee+HF%2C+Mak+BS%2C+Chi+CS&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1055%2Fs-2002-34491&amp;rft_id=info%3Apmid%2F12368985&amp;rft.issue=4&amp;rft.jtitle=Neuropediatrics&amp;rft.pages=174-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=33" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Steinberg KK, Relling MV, Gallagher ML et al. (2007). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1817665">"Genetic studies of a cluster of acute lymphoblastic leukemia cases in Churchill County, Nevada."</a>. <i>Environ. Health Perspect.</i> <b>115</b> (1): 158–64. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1289%2Fehp.9025">10.1289/ehp.9025</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1817665">1817665</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17366837">17366837</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Genetic+studies+of+a+cluster+of+acute+lymphoblastic+leukemia+cases+in+Churchill+County%2C+Nevada.&amp;rft.aulast=Steinberg+KK%2C+Relling+MV%2C+Gallagher+ML&amp;rft.au=Steinberg+KK%2C+Relling+MV%2C+Gallagher+ML&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1817665&amp;rft_id=info%3Adoi%2F10.1289%2Fehp.9025&amp;rft_id=info%3Apmc%2F1817665&amp;rft_id=info%3Apmid%2F17366837&amp;rft.issue=1&amp;rft.jtitle=Environ.+Health+Perspect.&amp;rft.pages=158-64&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=115" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Kimura K, Wakamatsu A, Suzuki Y et al. (2006). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1356129">"Diversification of transcriptional modulation: large-scale identification and characterization of putative alternative promoters of human genes."</a>. <i>Genome Res.</i> <b>16</b> (1): 55–65. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1101%2Fgr.4039406">10.1101/gr.4039406</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1356129">1356129</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16344560">16344560</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Diversification+of+transcriptional+modulation%3A+large-scale+identification+and+characterization+of+putative+alternative+promoters+of+human+genes.&amp;rft.au=Kimura+K%2C+Wakamatsu+A%2C+Suzuki+Y&amp;rft.aulast=Kimura+K%2C+Wakamatsu+A%2C+Suzuki+Y&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1356129&amp;rft_id=info%3Adoi%2F10.1101%2Fgr.4039406&amp;rft_id=info%3Apmc%2F1356129&amp;rft_id=info%3Apmid%2F16344560&amp;rft.issue=1&amp;rft.jtitle=Genome+Res.&amp;rft.pages=55-65&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Wilson HL, Wilkinson SR, Rajagopalan KV (2006). "The G473D mutation impairs dimerization and catalysis in human sulfite oxidase.". <i>Biochemistry</i> <b>45</b> (7): 2149–60. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fbi051609l">10.1021/bi051609l</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16475804">16475804</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=The+G473D+mutation+impairs+dimerization+and+catalysis+in+human+sulfite+oxidase.&amp;rft.aulast=Wilson+HL%2C+Wilkinson+SR%2C+Rajagopalan+KV&amp;rft.au=Wilson+HL%2C+Wilkinson+SR%2C+Rajagopalan+KV&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fbi051609l&amp;rft_id=info%3Apmid%2F16475804&amp;rft.issue=7&amp;rft.jtitle=Biochemistry&amp;rft.pages=2149-60&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Hoffmann C, Ben-Zeev B, Anikster Y et al. (2007). "Magnetic resonance imaging and magnetic resonance spectroscopy in isolated sulfite oxidase deficiency.". <i>J. Child Neurol.</i> <b>22</b> (10): 1214–21. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1177%2F0883073807306260">10.1177/0883073807306260</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17940249">17940249</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Magnetic+resonance+imaging+and+magnetic+resonance+spectroscopy+in+isolated+sulfite+oxidase+deficiency.&amp;rft.au=Hoffmann+C%2C+Ben-Zeev+B%2C+Anikster+Y&amp;rft.aulast=Hoffmann+C%2C+Ben-Zeev+B%2C+Anikster+Y&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1177%2F0883073807306260&amp;rft_id=info%3Apmid%2F17940249&amp;rft.issue=10&amp;rft.jtitle=J.+Child+Neurol.&amp;rft.pages=1214-21&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Johnson JL, Coyne KE, Garrett RM et al. (2002). "Isolated sulfite oxidase deficiency: identification of 12 novel SUOX mutations in 10 patients.". <i>Hum. Mutat.</i> <b>20</b> (1): 74. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fhumu.9038">10.1002/humu.9038</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12112661">12112661</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Isolated+sulfite+oxidase+deficiency%3A+identification+of+12+novel+SUOX+mutations+in+10+patients.&amp;rft.au=Johnson+JL%2C+Coyne+KE%2C+Garrett+RM&amp;rft.aulast=Johnson+JL%2C+Coyne+KE%2C+Garrett+RM&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fhumu.9038&amp;rft_id=info%3Apmid%2F12112661&amp;rft.issue=1&amp;rft.jtitle=Hum.+Mutat.&amp;rft.pages=74&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Woo WH, Yang H, Wong KP, Halliwell B (2003). "Sulphite oxidase gene expression in human brain and in other human and rat tissues.". <i>Biochem. Biophys. Res. Commun.</i> <b>305</b> (3): 619–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0006-291X%2803%2900833-7">10.1016/S0006-291X(03)00833-7</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12763039">12763039</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Sulphite+oxidase+gene+expression+in+human+brain+and+in+other+human+and+rat+tissues.&amp;rft.aulast=Woo+WH%2C+Yang+H%2C+Wong+KP%2C+Halliwell+B&amp;rft.au=Woo+WH%2C+Yang+H%2C+Wong+KP%2C+Halliwell+B&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0006-291X%2803%2900833-7&amp;rft_id=info%3Apmid%2F12763039&amp;rft.issue=3&amp;rft.jtitle=Biochem.+Biophys.+Res.+Commun.&amp;rft.pages=619-23&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=305" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Feng C, Wilson HL, Tollin G et al. (2005). "The pathogenic human sulfite oxidase mutants G473D and A208D are defective in intramolecular electron transfer.". <i>Biochemistry</i> <b>44</b> (42): 13734–43. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fbi050907f">10.1021/bi050907f</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16229463">16229463</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=The+pathogenic+human+sulfite+oxidase+mutants+G473D+and+A208D+are+defective+in+intramolecular+electron+transfer.&amp;rft.au=Feng+C%2C+Wilson+HL%2C+Tollin+G&amp;rft.aulast=Feng+C%2C+Wilson+HL%2C+Tollin+G&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fbi050907f&amp;rft_id=info%3Apmid%2F16229463&amp;rft.issue=42&amp;rft.jtitle=Biochemistry&amp;rft.pages=13734-43&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Tan WH, Eichler FS, Hoda S et al. (2005). "Isolated sulfite oxidase deficiency: a case report with a novel mutation and review of the literature.". <i>Pediatrics</i> <b>116</b> (3): 757–66. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1542%2Fpeds.2004-1897">10.1542/peds.2004-1897</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16140720">16140720</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Isolated+sulfite+oxidase+deficiency%3A+a+case+report+with+a+novel+mutation+and+review+of+the+literature.&amp;rft.aulast=Tan+WH%2C+Eichler+FS%2C+Hoda+S&amp;rft.au=Tan+WH%2C+Eichler+FS%2C+Hoda+S&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1542%2Fpeds.2004-1897&amp;rft_id=info%3Apmid%2F16140720&amp;rft.issue=3&amp;rft.jtitle=Pediatrics&amp;rft.pages=757-66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=116" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Astashkin AV, Johnson-Winters K, Klein EL et al. (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2779766">"Structural studies of the molybdenum center of the pathogenic R160Q mutant of human sulfite oxidase by pulsed EPR spectroscopy and 17O and 33S labeling."</a>. <i>J. Am. Chem. Soc.</i> <b>130</b> (26): 8471–80. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja801406f">10.1021/ja801406f</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2779766">2779766</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18529001">18529001</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Structural+studies+of+the+molybdenum+center+of+the+pathogenic+R160Q+mutant+of+human+sulfite+oxidase+by+pulsed+EPR+spectroscopy+and+17O+and+33S+labeling.&amp;rft.au=Astashkin+AV%2C+Johnson-Winters+K%2C+Klein+EL&amp;rft.aulast=Astashkin+AV%2C+Johnson-Winters+K%2C+Klein+EL&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2779766&amp;rft_id=info%3Adoi%2F10.1021%2Fja801406f&amp;rft_id=info%3Apmc%2F2779766&amp;rft_id=info%3Apmid%2F18529001&amp;rft.issue=26&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.pages=8471-80&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Dronov R, Kurth DG, Möhwald H et al. (2008). "Layer-by-layer arrangement by protein-protein interaction of sulfite oxidase and cytochrome c catalyzing oxidation of sulfite.". <i>J. Am. Chem. Soc.</i> <b>130</b> (4): 1122–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1021%2Fja0768690">10.1021/ja0768690</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18177044">18177044</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Layer-by-layer+arrangement+by+protein-protein+interaction+of+sulfite+oxidase+and+cytochrome+c+catalyzing+oxidation+of+sulfite.&amp;rft.au=Dronov+R%2C+Kurth+DG%2C+M%C3%B6hwald+H&amp;rft.aulast=Dronov+R%2C+Kurth+DG%2C+M%C3%B6hwald+H&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1021%2Fja0768690&amp;rft_id=info%3Apmid%2F18177044&amp;rft.issue=4&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.pages=1122-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=130" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Edwards MC, Johnson JL, Marriage B et al. (1999). "Isolated sulfite oxidase deficiency: review of two cases in one family.". <i>Ophthalmology</i> <b>106</b> (10): 1957–61. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0161-6420%2899%2990408-6">10.1016/S0161-6420(99)90408-6</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10519592">10519592</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Isolated+sulfite+oxidase+deficiency%3A+review+of+two+cases+in+one+family.&amp;rft.au=Edwards+MC%2C+Johnson+JL%2C+Marriage+B&amp;rft.aulast=Edwards+MC%2C+Johnson+JL%2C+Marriage+B&amp;rft.date=1999&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0161-6420%2899%2990408-6&amp;rft_id=info%3Apmid%2F10519592&amp;rft.issue=10&amp;rft.jtitle=Ophthalmology&amp;rft.pages=1957-61&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=106" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Gerhard DS, Wagner L, Feingold EA et al. (2004). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC528928">"The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC)."</a>. <i>Genome Res.</i> <b>14</b> (10B): 2121–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1101%2Fgr.2596504">10.1101/gr.2596504</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC528928">528928</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15489334">15489334</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=The+status%2C+quality%2C+and+expansion+of+the+NIH+full-length+cDNA+project%3A+the+Mammalian+Gene+Collection+%28MGC%29.&amp;rft.au=Gerhard+DS%2C+Wagner+L%2C+Feingold+EA&amp;rft.aulast=Gerhard+DS%2C+Wagner+L%2C+Feingold+EA&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC528928&amp;rft_id=info%3Adoi%2F10.1101%2Fgr.2596504&amp;rft_id=info%3Apmc%2F528928&amp;rft_id=info%3Apmid%2F15489334&amp;rft.issue=10B&amp;rft.jtitle=Genome+Res.&amp;rft.pages=2121-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Rudolph MJ, Johnson JL, Rajagopalan KV, Kisker C (2003). "The 1.2 A structure of the human sulfite oxidase cytochrome b(5) domain.". <i>Acta Crystallogr. D Biol. Crystallogr.</i> <b>59</b> (Pt 7): 1183–91. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1107%2FS0907444903009934">10.1107/S0907444903009934</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12832761">12832761</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=The+1.2+A+structure+of+the+human+sulfite+oxidase+cytochrome+b%285%29+domain.&amp;rft.aulast=Rudolph+MJ%2C+Johnson+JL%2C+Rajagopalan+KV%2C+Kisker+C&amp;rft.au=Rudolph+MJ%2C+Johnson+JL%2C+Rajagopalan+KV%2C+Kisker+C&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1107%2FS0907444903009934&amp;rft_id=info%3Apmid%2F12832761&amp;rft.issue=Pt+7&amp;rft.jtitle=Acta+Crystallogr.+D+Biol.+Crystallogr.&amp;rft.pages=1183-91&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=59" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Feng C, Wilson HL, Hurley JK et al. (2003). "Role of conserved tyrosine 343 in intramolecular electron transfer in human sulfite oxidase.". <i>J. Biol. Chem.</i> <b>278</b> (5): 2913–20. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1074%2Fjbc.M210374200">10.1074/jbc.M210374200</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12424234">12424234</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Role+of+conserved+tyrosine+343+in+intramolecular+electron+transfer+in+human+sulfite+oxidase.&amp;rft.au=Feng+C%2C+Wilson+HL%2C+Hurley+JK&amp;rft.aulast=Feng+C%2C+Wilson+HL%2C+Hurley+JK&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M210374200&amp;rft_id=info%3Apmid%2F12424234&amp;rft.issue=5&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.pages=2913-20&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=278" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Neumann M, Leimkühler S (2008). "Heavy metal ions inhibit molybdoenzyme activity by binding to the dithiolene moiety of molybdopterin in Escherichia coli.". <i>FEBS J.</i> <b>275</b> (22): 5678–89. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1742-4658.2008.06694.x">10.1111/j.1742-4658.2008.06694.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18959753">18959753</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Heavy+metal+ions+inhibit+molybdoenzyme+activity+by+binding+to+the+dithiolene+moiety+of+molybdopterin+in+Escherichia+coli.&amp;rft.aulast=Neumann+M%2C+Leimk%C3%BChler+S&amp;rft.au=Neumann+M%2C+Leimk%C3%BChler+S&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1742-4658.2008.06694.x&amp;rft_id=info%3Apmid%2F18959753&amp;rft.issue=22&amp;rft.jtitle=FEBS+J.&amp;rft.pages=5678-89&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=275" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Strausberg RL, Feingold EA, Grouse LH et al. (2002). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC139241">"Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences."</a>. <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>99</b> (26): 16899–903. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.242603899">10.1073/pnas.242603899</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC139241">139241</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12477932">12477932</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=Generation+and+initial+analysis+of+more+than+15%2C000+full-length+human+and+mouse+cDNA+sequences.&amp;rft.aulast=Strausberg+RL%2C+Feingold+EA%2C+Grouse+LH&amp;rft.au=Strausberg+RL%2C+Feingold+EA%2C+Grouse+LH&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC139241&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.242603899&amp;rft_id=info%3Apmc%2F139241&amp;rft_id=info%3Apmid%2F12477932&amp;rft.issue=26&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&amp;rft.pages=16899-903&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=99" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+<li><span class="citation journal">Wilson HL, Rajagopalan KV (2004). "The role of tyrosine 343 in substrate binding and catalysis by human sulfite oxidase.". <i>J. Biol. Chem.</i> <b>279</b> (15): 15105–13. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1074%2Fjbc.M314288200">10.1074/jbc.M314288200</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14729666">14729666</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=The+role+of+tyrosine+343+in+substrate+binding+and+catalysis+by+human+sulfite+oxidase.&amp;rft.aulast=Wilson+HL%2C+Rajagopalan+KV&amp;rft.au=Wilson+HL%2C+Rajagopalan+KV&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1074%2Fjbc.M314288200&amp;rft_id=info%3Apmid%2F14729666&amp;rft.issue=15&amp;rft.jtitle=J.+Biol.+Chem.&amp;rft.pages=15105-13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=279" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Hakonarson H, Qu HQ, Bradfield JP et al. (2008). "A novel susceptibility locus for type 1 diabetes on Chr12q13 identified by a genome-wide association study.". <i>Diabetes</i> <b>57</b> (4): 1143–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.2337%2Fdb07-1305">10.2337/db07-1305</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18198356">18198356</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASulfite+oxidase&amp;rft.atitle=A+novel+susceptibility+locus+for+type+1+diabetes+on+Chr12q13+identified+by+a+genome-wide+association+study.&amp;rft.au=Hakonarson+H%2C+Qu+HQ%2C+Bradfield+JP&amp;rft.aulast=Hakonarson+H%2C+Qu+HQ%2C+Bradfield+JP&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.2337%2Fdb07-1305&amp;rft_id=info%3Apmid%2F18198356&amp;rft.issue=4&amp;rft.jtitle=Diabetes&amp;rft.pages=1143-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=57" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2011/MB_cgi?mode=&amp;term=Sulfite+oxidase">Sulfite oxidase</a> at the US National Library of Medicine <a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">Medical Subject Headings</a> (MeSH)</li>
+<li><a rel="nofollow" class="external text" href="http://home.iitk.ac.in/~abya/Res_sabya.html">Research Activity of Sarkar Group</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sulfur_oxidoreductases" title="Template:Sulfur oxidoreductases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sulfur_oxidoreductases" title="Template talk:Sulfur oxidoreductases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sulfur_oxidoreductases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Oxidoreductase" title="Oxidoreductase">Oxidoreductases</a>: sulfur oxidoreductases (<a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC</a> 1.8)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.1_With_NAD_or_NADP_as_acceptor" title="List of EC numbers (EC 1)">1.8.1</a>: <a href="/wiki/Nicotinamide_adenine_dinucleotide" title="Nicotinamide adenine dinucleotide">NAD</a> or <a href="/wiki/Nicotinamide_adenine_dinucleotide_phosphate" title="Nicotinamide adenine dinucleotide phosphate">NADP</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dihydrolipoamide_dehydrogenase" title="Dihydrolipoamide dehydrogenase">Dihydrolipoamide dehydrogenase</a></li>
+<li><a href="/wiki/Glutathione_reductase" title="Glutathione reductase">Glutathione reductase</a></li>
+<li><a href="/wiki/Thioredoxin_reductase" title="Thioredoxin reductase">Thioredoxin reductase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.2_With_a_cytochrome_as_acceptor" title="List of EC numbers (EC 1)">1.8.2</a>: <a href="/wiki/Cytochrome" title="Cytochrome">cytochrome</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sulfite_dehydrogenase" title="Sulfite dehydrogenase">Sulfite dehydrogenase</a></li>
+<li><a href="/wiki/Thiosulfate_dehydrogenase" title="Thiosulfate dehydrogenase">Thiosulfate dehydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.3_With_oxygen_as_acceptor" title="List of EC numbers (EC 1)">1.8.3</a>: <a href="/wiki/Oxygen" title="Oxygen">oxygen</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Sulfite oxidase</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.4_With_a_disulfide_as_acceptor" title="List of EC numbers (EC 1)">1.8.4</a>: <a href="/wiki/Disulfide" title="Disulfide">disulfide</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glutathione%E2%80%94homocystine_transhydrogenase" title="Glutathione—homocystine transhydrogenase">Glutathione—homocystine transhydrogenase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.5_With_a_quinone_or_similar_compound_as_acceptor" title="List of EC numbers (EC 1)">1.8.5</a>: <a href="/wiki/Quinone" title="Quinone">quinone</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glutathione_dehydrogenase_(ascorbate)" title="Glutathione dehydrogenase (ascorbate)">Glutathione dehydrogenase (ascorbate)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.98_With_other.2C_known.2C_acceptors" title="List of EC numbers (EC 1)">1.8.98</a>: Other, known</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CoB%E2%80%94CoM_heterodisulfide_reductase" title="CoB—CoM heterodisulfide reductase">CoB—CoM heterodisulfide reductase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_EC_numbers_(EC_1)#EC_1.8.99_With_other_acceptors" title="List of EC numbers (EC 1)">1.8.99</a>: Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sulfite_reductase" title="Sulfite reductase">Sulfite reductase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="padding: 0px; background-color: AntiqueWhite">
+<div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Biochemistry_metanavs" title="Template:Biochemistry metanavs">Biochemistry overview</a></li>
+<li><a href="/wiki/Template:Enzymes" title="Template:Enzymes">Enzymes overview</a></li>
+<li>By <a href="/wiki/Enzyme_Commission_number" title="Enzyme Commission number">EC number</a>: <a href="/wiki/Template:Alcohol_oxidoreductases" title="Template:Alcohol oxidoreductases">1.1</a>
+<ul>
+<li><a href="/wiki/Template:Aldehyde/Oxo_oxidoreductases" title="Template:Aldehyde/Oxo oxidoreductases">2</a></li>
+<li><a href="/wiki/Template:CH-CH_oxidoreductases" title="Template:CH-CH oxidoreductases">3</a></li>
+<li><a href="/wiki/Template:CH-NH2_oxidoreductases" title="Template:CH-NH2 oxidoreductases">4</a></li>
+<li><a href="/wiki/Template:CH-NH_oxidoreductases" title="Template:CH-NH oxidoreductases">5</a></li>
+<li><a href="/wiki/Template:NADH_or_NADPH_oxidoreductases" title="Template:NADH or NADPH oxidoreductases">6</a></li>
+<li><a href="/wiki/Template:Nitrogenous_donor_oxidoreductases" title="Template:Nitrogenous donor oxidoreductases">7</a></li>
+<li><a href="/wiki/Template:Sulfur_oxidoreductases" title="Template:Sulfur oxidoreductases">8</a></li>
+<li><a href="/wiki/Template:Diphenol_family_oxidoreductases" title="Template:Diphenol family oxidoreductases">10</a></li>
+<li><a href="/wiki/Template:Peroxidases" title="Template:Peroxidases">11</a></li>
+<li><a href="/wiki/Template:Monooxygenases" title="Template:Monooxygenases">13</a></li>
+<li><a href="/wiki/Template:Dioxygenases" title="Template:Dioxygenases">14</a></li>
+<li><a href="/wiki/Template:Other_oxidoreductases" title="Template:Other oxidoreductases">15-18</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:One_carbon_transferases" title="Template:One carbon transferases">2.1</a>
+<ul>
+<li><a href="/wiki/Template:Aldehyde-ketone_transferases" title="Template:Aldehyde-ketone transferases">2</a></li>
+<li><a href="/wiki/Template:Acyltransferases" title="Template:Acyltransferases">3</a></li>
+<li><a href="/wiki/Template:Glycosyltransferases" title="Template:Glycosyltransferases">4</a></li>
+<li><a href="/wiki/Template:Alkyl_and_aryl_transferases" title="Template:Alkyl and aryl transferases">5</a></li>
+<li><a href="/wiki/Template:Nitrogenous_transferases" title="Template:Nitrogenous transferases">6</a></li>
+<li><a href="/wiki/Template:Kinases" title="Template:Kinases">7</a>
+<ul>
+<li><a href="/wiki/Template:Tyrosine_kinases" title="Template:Tyrosine kinases">2.7.10</a></li>
+<li><a href="/wiki/Template:Serine/threonine-specific_protein_kinases" title="Template:Serine/threonine-specific protein kinases">11-12</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sulfur-containing_group_transferases" title="Template:Sulfur-containing group transferases">8</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Esterases" title="Template:Esterases">3.1</a>
+<ul>
+<li>
+<ul>
+<li><a href="/wiki/Template:Protein_tyrosine_phosphatases" title="Template:Protein tyrosine phosphatases">3.1.3.48</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sugar_hydrolases" title="Template:Sugar hydrolases">2</a></li>
+<li><a href="/wiki/Template:Ether_bond_hydrolases" title="Template:Ether bond hydrolases">3</a></li>
+<li><a href="/wiki/Template:Proteases" title="Template:Proteases">4</a>
+<ul>
+<li><a href="/wiki/Template:Serine_endopeptidases" title="Template:Serine endopeptidases">3.4.21</a></li>
+<li><a href="/wiki/Template:Cysteine_proteases" title="Template:Cysteine proteases">22</a></li>
+<li><a href="/wiki/Template:Aspartic_acid_proteases" title="Template:Aspartic acid proteases">23</a></li>
+<li><a href="/wiki/Template:Metalloendopeptidases" title="Template:Metalloendopeptidases">24</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Carbon-nitrogen_non-peptide_hydrolases" title="Template:Carbon-nitrogen non-peptide hydrolases">5</a></li>
+<li><a href="/wiki/Template:Acid_anhydride_hydrolases" title="Template:Acid anhydride hydrolases">6</a></li>
+<li><a href="/wiki/Template:Carbon-carbon_hydrolases" title="Template:Carbon-carbon hydrolases">7</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Carbon-carbon_lyases" title="Template:Carbon-carbon lyases">4.1</a>
+<ul>
+<li><a href="/wiki/Template:Carbon-oxygen_lyases" title="Template:Carbon-oxygen lyases">2</a></li>
+<li><a href="/wiki/Template:Carbon-nitrogen_lyases" title="Template:Carbon-nitrogen lyases">3</a></li>
+<li><a href="/wiki/Template:Carbon-sulfur_lyases" title="Template:Carbon-sulfur lyases">4</a></li>
+<li><a href="/wiki/Template:Carbon-halide_lyases" title="Template:Carbon-halide lyases">5</a></li>
+<li><a href="/wiki/Template:Phosphorus-oxygen_lyases" title="Template:Phosphorus-oxygen lyases">6</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Racemases_and_epimerases" title="Template:Racemases and epimerases">5.1</a>
+<ul>
+<li><a href="/wiki/Template:Geometric_isomerases" title="Template:Geometric isomerases">2</a></li>
+<li><a href="/wiki/Template:Intramolecular_oxidoreductases" title="Template:Intramolecular oxidoreductases">3</a></li>
+<li><a href="/wiki/Template:Mutases" title="Template:Mutases">4</a></li>
+<li><a href="/wiki/Template:Topoisomerases" title="Template:Topoisomerases">99</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Ligases_CO_CS_and_CN" title="Template:Ligases CO CS and CN">6.1-3</a>
+<ul>
+<li><a href="/wiki/Template:Carbon-carbon_ligases" title="Template:Carbon-carbon ligases">4</a></li>
+<li><a href="/wiki/Template:Phosphoric_ester_and_nitrogen-metal_ligases" title="Template:Phosphoric ester and nitrogen-metal ligases">5-6</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1086
+CPU time usage: 0.607 seconds
+Real time usage: 0.711 seconds
+Preprocessor visited node count: 2940/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 166908/2097152 bytes
+Template argument size: 7097/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 4 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  552.179      1 - -total
+ 35.66%  196.926      1 - Template:PBB
+ 35.25%  194.652      1 - Template:PBB/6821
+ 34.55%  190.767      1 - Template:GNF_Protein_box
+ 32.68%  180.468      1 - Template:Infobox3cols
+ 25.91%  143.044     26 - Template:Cite_journal
+ 18.03%   99.550      2 - Template:Infobox
+ 15.84%   87.463      1 - Template:Enzyme
+ 12.71%   70.157      1 - Template:Reflist
+  9.35%   51.616      1 - Template:Homologene2PDBe
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4811381-0!*!0!!en!4!* and timestamp 20150710175611 and revision id 646717340
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sulfite_oxidase&amp;oldid=646717340">https://en.wikipedia.org/w/index.php?title=Sulfite_oxidase&amp;oldid=646717340</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Human_proteins" title="Category:Human proteins">Human proteins</a></li><li><a href="/wiki/Category:EC_1.8.3" title="Category:EC 1.8.3">EC 1.8.3</a></li><li><a href="/wiki/Category:Metalloproteins" title="Category:Metalloproteins">Metalloproteins</a></li><li><a href="/wiki/Category:Molybdenum_compounds" title="Category:Molybdenum compounds">Molybdenum compounds</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2014" title="Category:Articles with unsourced statements from September 2014">Articles with unsourced statements from September 2014</a></li><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sulfite+oxidase&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sulfite+oxidase" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Sulfite_oxidase"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Sulfite_oxidase"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Sulfite_oxidase" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sulfite_oxidase&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sulfite_oxidase" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sulfite_oxidase" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sulfite_oxidase&amp;oldid=646717340" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sulfite_oxidase&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q408551" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sulfite_oxidase&amp;id=646717340" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sulfite+oxidase">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Sulfite+oxidase&amp;oldid=646717340&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sulfite_oxidase&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Sulfit_oxidasa" title="Sulfit oxidasa – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Sulfitoxidase" title="Sulfitoxidase – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Sulfito_oxidasa" title="Sulfito oxidasa – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%B3%D9%88%D9%84%D9%81%DB%8C%D8%AA_%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF%D8%A7%D8%B2" title="سولفیت اکسیداز – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Sulfite_oxydase" title="Sulfite oxydase – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Solfito_ossidoreduttasi" title="Solfito ossidoreduttasi – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E4%BA%9C%E7%A1%AB%E9%85%B8%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%80%E3%83%BC%E3%82%BC" title="亜硫酸オキシダーゼ – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Sulfito_oxidase" title="Sulfito oxidase – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Sulfit_oksidaza" title="Sulfit oksidaza – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Sulfit_oksidaza" title="Sulfit oksidaza – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q408551#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 February 2015, at 23:18.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sulfite_oxidase&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1241"});
+}</script>
+	</body>
+</html>

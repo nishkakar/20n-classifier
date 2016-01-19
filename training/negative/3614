@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Greenhouse effect - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf12" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Greenhouse_effect" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Greenhouse_effect" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Greenhouse_effect" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Greenhouse_effect","wgTitle":"Greenhouse effect","wgCurRevisionId":669600626,"wgRevisionId":669600626,"wgArticleId":12395,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia semi-protected pages","Atmosphere","Atmospheric radiation","Climate change","Climate forcing"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Greenhouse_effect","wgRelevantArticleId":12395,"wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenhouse_Effect.svg/100px-Greenhouse_Effect.svg.png","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q41560"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf12/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Greenhouse_effect skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/20px-Padlock-silver.svg.png" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/30px-Padlock-silver.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Padlock-silver.svg/40px-Padlock-silver.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Greenhouse effect</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Greenhouse_Effect.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenhouse_Effect.svg/220px-Greenhouse_Effect.svg.png" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenhouse_Effect.svg/330px-Greenhouse_Effect.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/Greenhouse_Effect.svg/440px-Greenhouse_Effect.svg.png 2x" data-file-width="750" data-file-height="577" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Greenhouse_Effect.svg" class="internal" title="Enlarge"></a></div>
+A representation of the exchanges of energy between the source (the <a href="/wiki/Sun" title="Sun">Sun</a>), the Earth's surface, the <a href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere" class="mw-redirect">Earth's atmosphere</a>, and the ultimate sink <a href="/wiki/Outer_space" title="Outer space">outer space</a>. The ability of the atmosphere to capture and recycle energy emitted by the Earth surface is the defining characteristic of the greenhouse effect.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_green_house_effect.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_green_house_effect.svg/220px-The_green_house_effect.svg.png" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_green_house_effect.svg/330px-The_green_house_effect.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/The_green_house_effect.svg/440px-The_green_house_effect.svg.png 2x" data-file-width="1198" data-file-height="834" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_green_house_effect.svg" class="internal" title="Enlarge"></a></div>
+Another diagram of the greenhouse effect</div>
+</div>
+</div>
+<p>The <b>greenhouse effect</b> is the process by which a planetary surface is warmed by radiation from its atmosphere to a temperature above what it would be in the absence of its atmosphere.<sup id="cite_ref-ipccar4syr_1-0" class="reference"><a href="#cite_note-ipccar4syr-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-ipcc-AR4WG1_2-0" class="reference"><a href="#cite_note-ipcc-AR4WG1-2"><span>[</span>2<span>]</span></a></sup> If a planet's atmosphere contains radiatively active gases (i.e., <a href="/wiki/Greenhouse_gases" title="Greenhouse gases" class="mw-redirect">greenhouse gases</a>) the atmosphere radiates energy in all directions. Part of this radiation is directed towards the surface, warming it.</p>
+<p>On Earth, solar radiation at the frequencies of <a href="/wiki/Light" title="Light">visible light</a> largely passes through the atmosphere to warm the planetary surface. The surface itself emits energy at the lower frequencies of <a href="/wiki/Infrared" title="Infrared">infrared</a> thermal radiation. Infrared radiation is absorbed by greenhouse gases in the atmosphere. These gases also radiate energy, some of which is directed to the surface and lower atmosphere. The mechanism is named after the effect of solar radiation passing through glass and warming a <a href="/wiki/Greenhouse" title="Greenhouse">greenhouse</a>, but the way it retains heat is fundamentally different as a greenhouse works by reducing airflow, isolating the warm air inside the structure so that heat is not lost by <a href="/wiki/Convection" title="Convection">convection</a>.<sup id="cite_ref-ipcc-AR4WG1_2-1" class="reference"><a href="#cite_note-ipcc-AR4WG1-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Schroeder_3-0" class="reference"><a href="#cite_note-Schroeder-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-wood1909_4-0" class="reference"><a href="#cite_note-wood1909-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>If an ideal thermally conductive <a href="/wiki/Blackbody" title="Blackbody" class="mw-redirect">blackbody</a> were the same distance from the Sun as the Earth is, it would have a temperature of about 5.3&#160;°C. However, since the Earth reflects about 30%<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-harvard_6-0" class="reference"><a href="#cite_note-harvard-6"><span>[</span>6<span>]</span></a></sup> of the incoming sunlight, this idealized planet's <a href="/wiki/Effective_temperature" title="Effective temperature">effective temperature</a> (the temperature of a blackbody that would emit the same amount of radiation) would be about −18&#160;°C.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-IPCC4_ch01_8-0" class="reference"><a href="#cite_note-IPCC4_ch01-8"><span>[</span>8<span>]</span></a></sup> The surface temperature of this hypothetical planet is 33&#160;°C below Earth's actual surface temperature of approximately 14&#160;°C.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The mechanism that produces this difference between the actual surface temperature and the effective temperature is due to the atmosphere and is known as the greenhouse effect.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>Earth’s natural greenhouse effect is critical to supporting life. Human activities, primarily the burning of fossil fuels and clearing of forests, have intensified the natural greenhouse effect, causing <a href="/wiki/Global_warming" title="Global warming">global warming</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mechanism"><span class="tocnumber">2</span> <span class="toctext">Mechanism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Greenhouse_gases"><span class="tocnumber">3</span> <span class="toctext">Greenhouse gases</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Role_in_climate_change"><span class="tocnumber">4</span> <span class="toctext">Role in climate change</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Real_greenhouses"><span class="tocnumber">5</span> <span class="toctext">Real greenhouses</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Bodies_other_than_Earth"><span class="tocnumber">6</span> <span class="toctext">Bodies other than Earth</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></div>
+<p>The existence of the greenhouse effect was argued for by <a href="/wiki/Joseph_Fourier" title="Joseph Fourier">Joseph Fourier</a> in 1824. The argument and the evidence was further strengthened by <a href="/wiki/Claude_Pouillet" title="Claude Pouillet">Claude Pouillet</a> in 1827 and 1838, and reasoned from experimental observations by <a href="/wiki/John_Tyndall" title="John Tyndall">John Tyndall</a> in 1859. The effect was more fully quantified by <a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a> in 1896.<sup id="cite_ref-anrev_12-0" class="reference"><a href="#cite_note-anrev-12"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>In 1917 <a href="/wiki/Alexander_Graham_Bell" title="Alexander Graham Bell">Alexander Graham Bell</a> wrote "[The unchecked burning of fossil fuels] would have a sort of greenhouse effect", and "The net result is the greenhouse becomes a sort of hot-house."<sup id="cite_ref-DictionaryOfCanBiography_14-0" class="reference"><a href="#cite_note-DictionaryOfCanBiography-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-G.26W_15-0" class="reference"><a href="#cite_note-G.26W-15"><span>[</span>15<span>]</span></a></sup> Bell went on to also advocate the use of alternate energy sources, such as <a href="/wiki/Solar_energy" title="Solar energy">solar energy</a>.<sup id="cite_ref-G.26W3_16-0" class="reference"><a href="#cite_note-G.26W3-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span></h2>
+<p>The Earth receives energy from the Sun in the form <a href="/wiki/UV" title="UV" class="mw-redirect">UV</a>, <a href="/wiki/Visible_light" title="Visible light" class="mw-redirect">visible</a>, and <a href="/wiki/Near-infrared" title="Near-infrared" class="mw-redirect">near IR</a> radiation, most of which passes through the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a> without being absorbed or reflected. Of the total amount of energy available at the top of the atmosphere (TOA), about 26% is reflected back out to space by the atmosphere and clouds and 19% is absorbed by the atmosphere and clouds. Most of the remaining energy is absorbed at the Earth's surface. Because it is warm, the surface radiates far IR thermal radiation that consists of wavelengths that are much longer than the wavelengths that were absorbed (the overlap between the incident solar spectrum and the terrestrial thermal spectrum is small enough to be neglected for most purposes). Most of this thermal radiation is absorbed by the atmosphere, thereby warming it (in addition to sensible and latent heat fluxes from the surface). The atmosphere radiates energy both upwards and downwards; the part radiated downwards is absorbed by the Earth's surface. This leads to a higher equilibrium temperature than if the atmosphere were absent.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solar_Spectrum.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Solar_Spectrum.png/220px-Solar_Spectrum.png" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Solar_Spectrum.png/330px-Solar_Spectrum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Solar_Spectrum.png/440px-Solar_Spectrum.png 2x" data-file-width="800" data-file-height="595" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Solar_Spectrum.png" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Solar_radiation" title="Solar radiation" class="mw-redirect">solar radiation</a> spectrum for direct light at both the top of the Earth's atmosphere and at sea level</div>
+</div>
+</div>
+<p>The basic mechanism can be qualified in a number of ways, none of which affect the fundamental process. The atmosphere near the surface is largely opaque to thermal radiation (with important exceptions for "window" bands), and most heat loss from the surface is by <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a> and <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> transport. Radiative energy losses become increasingly important higher in the atmosphere, largely because of the decreasing concentration of water vapor, an important greenhouse gas. It is more realistic to think of the greenhouse effect as applying to a "surface" in the mid-<a href="/wiki/Troposphere" title="Troposphere">troposphere</a>, which is effectively coupled to the surface by a <a href="/wiki/Lapse_rate" title="Lapse rate">lapse rate</a>. The simple picture also assumes a steady state, but in the real world there are variations due to the <a href="/wiki/Diurnal_cycle" title="Diurnal cycle">diurnal cycle</a> as well as the seasonal cycle and weather disturbances. Solar heating only applies during daytime. During the night, the atmosphere cools somewhat, but not greatly, because its emissivity is low. <a href="/wiki/Diurnal_temperature_variation" title="Diurnal temperature variation">Diurnal temperature changes</a> decrease with height in the atmosphere.</p>
+<p>Within the region where radiative effects are important the description given by the idealized greenhouse model becomes realistic: The surface of the Earth, warmed to a temperature around 255&#160;K, radiates long-wavelength, <a href="/wiki/Infrared" title="Infrared">infrared</a> heat in the range 4–100&#160;μm.<sup id="cite_ref-Mitchell-1989_17-0" class="reference"><a href="#cite_note-Mitchell-1989-17"><span>[</span>17<span>]</span></a></sup> At these wavelengths, greenhouse gases that were largely transparent to incoming solar radiation are more absorbent.<sup id="cite_ref-Mitchell-1989_17-1" class="reference"><a href="#cite_note-Mitchell-1989-17"><span>[</span>17<span>]</span></a></sup> Each layer of atmosphere with greenhouses gases absorbs some of the heat being radiated upwards from lower layers. It re-radiates in all directions, both upwards and downwards; in equilibrium (by definition) the same amount as it has absorbed. This results in more warmth below. Increasing the concentration of the gases increases the amount of absorption and re-radiation, and thereby further warms the layers and ultimately the surface below.<sup id="cite_ref-IPCC4_ch01_8-1" class="reference"><a href="#cite_note-IPCC4_ch01-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>Greenhouse gases—including most diatomic gases with two different atoms (such as carbon monoxide, CO) and all gases with three or more atoms—are able to absorb and emit infrared radiation. Though more than 99% of the dry atmosphere is IR transparent (because the main constituents—N<sub>2</sub>, O<sub>2</sub>, and Ar—are not able to directly absorb or emit infrared radiation), intermolecular collisions cause the energy absorbed and emitted by the greenhouse gases to be shared with the other, non-IR-active, gases.</p>
+<h2><span class="mw-headline" id="Greenhouse_gases">Greenhouse gases</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gas</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a href="/wiki/File:CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png/500px-CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png" width="500" height="74" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/57/CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/57/CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png 2x" data-file-width="720" data-file-height="107" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:CO2_H2O_absorption_atmospheric_gases_unique_pattern_energy_wavelengths_of_energy_transparent_to_others.png" class="internal" title="Enlarge"></a></div>
+Atmospheric gases only absorb some wavelengths of energy but are transparent to others. The absorption patterns of water vapor (blue peaks) and carbon dioxide (pink peaks) overlap in some wavelengths. Carbon dioxide is not as strong a greenhouse gas as water vapor, but it absorbs energy in wavelengths (12-15 micrometers) that water vapor does not, partially closing the “window” through which heat radiated by the surface would normally escape to space. (Illustration NASA, Robert Rohde)<sup id="cite_ref-NASA_climate_forcings_18-0" class="reference"><a href="#cite_note-NASA_climate_forcings-18"><span>[</span>18<span>]</span></a></sup></div>
+</div>
+</div>
+<p>By their percentage contribution to the greenhouse effect on Earth the four major gases are:<sup id="cite_ref-realclimate.org_19-0" class="reference"><a href="#cite_note-realclimate.org-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-kiehl197_20-0" class="reference"><a href="#cite_note-kiehl197-20"><span>[</span>20<span>]</span></a></sup></p>
+<ul>
+<li><a href="/wiki/Water_vapor" title="Water vapor">water vapor</a>, 36–70%</li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, 9–26%</li>
+<li><a href="/wiki/Methane" title="Methane">methane</a>, 4–9%</li>
+<li><a href="/wiki/Ozone" title="Ozone">ozone</a>, 3–7%</li>
+</ul>
+<p>It is not physically realistic to assign a specific percentage to each gas because the absorption and emission bands of the gases overlap (hence the ranges given above). The major non-gas contributor to the Earth's greenhouse effect, <a href="/wiki/Cloud_forcing" title="Cloud forcing">clouds</a>, also absorb and emit infrared radiation and thus have an effect on radiative properties of the atmosphere.<sup id="cite_ref-kiehl197_20-1" class="reference"><a href="#cite_note-kiehl197-20"><span>[</span>20<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Role_in_climate_change">Role in climate change</span></h2>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Global_warming" title="Global warming">Global warming</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mauna_Loa_CO2_monthly_mean_concentration.svg/220px-Mauna_Loa_CO2_monthly_mean_concentration.svg.png" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mauna_Loa_CO2_monthly_mean_concentration.svg/330px-Mauna_Loa_CO2_monthly_mean_concentration.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mauna_Loa_CO2_monthly_mean_concentration.svg/440px-Mauna_Loa_CO2_monthly_mean_concentration.svg.png 2x" data-file-width="708" data-file-height="708" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mauna_Loa_CO2_monthly_mean_concentration.svg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Keeling_Curve" title="Keeling Curve">Keeling Curve</a> of atmospheric CO<sub>2</sub> concentrations measured at <a href="/wiki/Mauna_Loa_Observatory" title="Mauna Loa Observatory">Mauna Loa Observatory</a>.</div>
+</div>
+</div>
+<p>Strengthening of the greenhouse effect through human activities is known as the enhanced (or <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">anthropogenic</a>) greenhouse effect.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> This increase in <a href="/wiki/Radiative_forcing" title="Radiative forcing">radiative forcing</a> from human activity is attributable mainly to increased atmospheric carbon dioxide levels.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> According to the latest Assessment Report from the <a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change</a>, "<i>most of the observed increase in globally averaged temperatures since the mid-20th century is very likely due to the observed increase in anthropogenic greenhouse gas concentrations</i>".<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<p>CO<sub>2</sub> is produced by fossil fuel burning and other activities such as cement production and tropical deforestation.<sup id="cite_ref-IPCC_deforestation_24-0" class="reference"><a href="#cite_note-IPCC_deforestation-24"><span>[</span>24<span>]</span></a></sup> Measurements of CO<sub>2</sub> from the Mauna Loa observatory show that concentrations have increased from about 313 ppm<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup> in 1960 to about 389 ppm in 2010. It reached the 400ppm milestone on May 9, 2013.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup> The current observed amount of CO<sub>2</sub> exceeds the geological record maxima (~300 ppm) from ice core data.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>27<span>]</span></a></sup> The effect of combustion-produced carbon dioxide on the global climate, a special case of the greenhouse effect first described in 1896 by <a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a>, has also been called the <a href="/wiki/Callendar_effect" title="Callendar effect" class="mw-redirect">Callendar effect</a>.</p>
+<p>Over the past 800,000 years,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>28<span>]</span></a></sup> <a href="/wiki/Carbon_dioxide#Variation_in_the_past" title="Carbon dioxide">ice core data</a> shows that carbon dioxide has varied from values as low as 180 parts per million (ppm) to the pre-industrial level of 270ppm.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>29<span>]</span></a></sup> <a href="/wiki/Paleoclimatologists" title="Paleoclimatologists" class="mw-redirect">Paleoclimatologists</a> consider variations in carbon dioxide concentration to be a fundamental factor influencing climate variations over this time scale.<sup id="cite_ref-Bowen_.282005.29.2C_Thin_Ice_30-0" class="reference"><a href="#cite_note-Bowen_.282005.29.2C_Thin_Ice-30"><span>[</span>30<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>31<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Real_greenhouses">Real greenhouses</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:RHSGlasshouse.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/RHSGlasshouse.JPG/220px-RHSGlasshouse.JPG" width="220" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/RHSGlasshouse.JPG/330px-RHSGlasshouse.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/RHSGlasshouse.JPG/440px-RHSGlasshouse.JPG 2x" data-file-width="2628" data-file-height="1953" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:RHSGlasshouse.JPG" class="internal" title="Enlarge"></a></div>
+A modern <a href="/wiki/Greenhouse" title="Greenhouse">Greenhouse</a> in <a href="/wiki/Wisley_Garden" title="Wisley Garden" class="mw-redirect">RHS Wisley</a></div>
+</div>
+</div>
+<p>The "greenhouse effect" of the atmosphere is named by analogy to <a href="/wiki/Greenhouse" title="Greenhouse">greenhouses</a> which get warmer in sunlight, but the mechanism by which the atmosphere retains heat is different.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>32<span>]</span></a></sup> A greenhouse works primarily by allowing sunlight to warm surfaces inside the structure, but then preventing absorbed heat from leaving the structure through <a href="/wiki/Convection" title="Convection">convection</a>, i.e. <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a> transport. The "greenhouse effect" heats the Earth because greenhouse gases absorb outgoing radiative energy, heating the atmosphere which then emits radiative energy with some of it going back towards the Earth.</p>
+<p>A greenhouse is built of any material that passes sunlight, usually glass, or plastic. It mainly heats up because the Sun warms the ground inside, which then warms the air in the greenhouse. The air continues to heat because it is confined within the greenhouse, unlike the environment outside the greenhouse where warm air near the surface rises and mixes with cooler air aloft. This can be demonstrated by opening a small window near the roof of a greenhouse: the temperature will drop considerably. It has also been demonstrated experimentally (<a href="/wiki/Robert_W._Wood" title="Robert W. Wood">R. W. Wood</a>, 1909) that a "greenhouse" with a cover of <a href="/wiki/Halite" title="Halite">rock salt</a> (which is transparent to infra red) heats up an enclosure similarly to one with a glass cover.<sup id="cite_ref-wood1909_4-1" class="reference"><a href="#cite_note-wood1909-4"><span>[</span>4<span>]</span></a></sup> Thus greenhouses work primarily by preventing <a href="/wiki/Convection" title="Convection">convective</a> cooling.<sup id="cite_ref-Schroeder_3-1" class="reference"><a href="#cite_note-Schroeder-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>33<span>]</span></a></sup></p>
+<p>In contrast, the greenhouse effect heats the Earth because rather than retaining (sensible) heat by physically preventing movement of the air, greenhouse gases act to warm the Earth by re-radiating some of the energy back towards the surface. This process may exist in real greenhouses, but is comparatively unimportant there.</p>
+<h2><span class="mw-headline" id="Bodies_other_than_Earth">Bodies other than Earth</span></h2>
+<p>In the Solar System, there also greenhouse effects on <a href="/wiki/Mars" title="Mars">Mars</a>, <a href="/wiki/Venus#Atmosphere_and_climate" title="Venus">Venus</a>, and <a href="/wiki/Titan_(moon)" title="Titan (moon)">Titan</a>; that on Venus is particularly large, due to its atmosphere, which consists mainly of dense carbon dioxide.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span>[</span>34<span>]</span></a></sup> Titan has an <a href="/wiki/Anti-greenhouse_effect" title="Anti-greenhouse effect">anti-greenhouse effect</a>, in that its atmosphere absorbs solar radiation but is relatively transparent to infrared radiation.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span>[</span>35<span>]</span></a></sup> <a href="/wiki/Atmosphere_of_Pluto" title="Atmosphere of Pluto">Pluto</a> is also colder than would be expected, because evaporation of nitrogen cools it.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>36<span>]</span></a></sup></p>
+<p>A <a href="/wiki/Runaway_greenhouse_effect" title="Runaway greenhouse effect">runaway greenhouse effect</a> occurs if <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedbacks</a> lead to the evaporation of all greenhouse gases into the atmosphere.<sup id="cite_ref-Kasting_1991_37-0" class="reference"><a href="#cite_note-Kasting_1991-37"><span>[</span>37<span>]</span></a></sup> A runaway greenhouse effect involving carbon dioxide and water vapor is thought to have occurred on Venus.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>38<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<p><span class="metadata"><a href="/wiki/File:Global_Warming_Map.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/32px-Global_Warming_Map.jpg" width="32" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/48px-Global_Warming_Map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Global_Warming_Map.jpg/64px-Global_Warming_Map.jpg 2x" data-file-width="800" data-file-height="596" /></a></span> <a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Global warming portal</a> <span class="metadata"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/32px-Aegopodium_podagraria1_ies.jpg" width="32" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/64px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span> <a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></p>
+<ul>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ipccar4syr-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-ipccar4syr_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ipcc.ch/publications_and_data/ar4/syr/en/annexessglossary-e-i.html">"Annex II Glossary"</a>. Intergovernmental Panel on Climate Change<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Annex+II+Glossary&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ipcc.ch%2Fpublications_and_data%2Far4%2Fsyr%2Fen%2Fannexessglossary-e-i.html&amp;rft.pub=Intergovernmental+Panel+on+Climate+Change&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ipcc-AR4WG1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-ipcc-AR4WG1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ipcc-AR4WG1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">A concise description of the greenhouse effect is given in the <i>Intergovernmental Panel on Climate Change Fourth Assessment Report,</i> "What is the Greenhouse Effect?" <a rel="nofollow" class="external text" href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html">FAQ 1.3 - AR4 WGI Chapter 1: Historical Overview of Climate Change Science</a>, IIPCC Fourth Assessment Report, Chapter 1, page 115: "To balance the absorbed incoming [solar] energy, the Earth must, on average, radiate the same amount of energy back to space. Because the Earth is much colder than the Sun, it radiates at much longer wavelengths, primarily in the infrared part of the spectrum (see Figure 1). Much of this thermal radiation emitted by the land and ocean is absorbed by the atmosphere, including clouds, and reradiated back to Earth. This is called the greenhouse effect."<br />
+Stephen H. Schneider, in <i>Geosphere-biosphere Interactions and Climate,</i> Lennart O. Bengtsson and Claus U. Hammer, eds., Cambridge University Press, 2001, <a href="/wiki/Special:BookSources/0521782384" class="internal mw-magiclink-isbn">ISBN 0-521-78238-4</a>, pp. 90-91.<br />
+E. Claussen, V. A. Cochran, and D. P. Davis, <i>Climate Change: Science, Strategies, &amp; Solutions,</i> University of Michigan, 2001. p. 373.<br />
+A. Allaby and M. Allaby, <i>A Dictionary of Earth Sciences,</i> Oxford University Press, 1999, <a href="/wiki/Special:BookSources/0192800795" class="internal mw-magiclink-isbn">ISBN 0-19-280079-5</a>, p. 244.</span></li>
+<li id="cite_note-Schroeder-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Schroeder_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Schroeder_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Schroeder, Daniel V. (2000). <i>An introduction to thermal physics</i>. <a href="/wiki/San_Francisco,_California" title="San Francisco, California" class="mw-redirect">San Francisco, California</a>: <a href="/wiki/Addison-Wesley" title="Addison-Wesley">Addison-Wesley</a>. pp.&#160;305–7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-321-27779-1" title="Special:BookSources/0-321-27779-1">0-321-27779-1</a>. <q>... this mechanism is called the <i>greenhouse effect</i>, even though most greenhouses depend primarily on a different mechanism (namely, limiting convective cooling).</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.aulast=Schroeder%2C+Daniel+V.&amp;rft.au=Schroeder%2C+Daniel+V.&amp;rft.btitle=An+introduction+to+thermal+physics&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-321-27779-1&amp;rft.pages=305-7&amp;rft.place=San+Francisco%2C+California&amp;rft.pub=Addison-Wesley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-wood1909-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-wood1909_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wood1909_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Wood, R.W. (1909). <a rel="nofollow" class="external text" href="http://www.wmconnolley.org.uk/sci/wood_rw.1909.html">"Note on the Theory of the Greenhouse"</a>. <i>Philosophical Magazine</i> <b>17</b>: 319–320. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1080%2F14786440208636602">10.1080/14786440208636602</a>. <q>When exposed to sunlight the temperature rose gradually to 65&#160;°C., the enclosure covered with the salt plate keeping a little ahead of the other because it transmitted the longer waves from the Sun, which were stopped by the glass. In order to eliminate this action the sunlight was first passed through a glass plate." "it is clear that the rock-salt plate is capable of transmitting practically all of it, while the glass plate stops it entirely. This shows us that the loss of temperature of the ground by radiation is very small in comparison to the loss by convection, in other words that we gain very little from the circumstance that the radiation is trapped.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Note+on+the+Theory+of+the+Greenhouse&amp;rft.aulast=Wood%2C+R.W.&amp;rft.au=Wood%2C+R.W.&amp;rft.date=1909&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wmconnolley.org.uk%2Fsci%2Fwood_rw.1909.html&amp;rft_id=info%3Adoi%2F10.1080%2F14786440208636602&amp;rft.jtitle=Philosophical+Magazine&amp;rft.pages=319-320&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=17" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html">"NASA Earth Fact Sheet"</a>. Nssdc.gsfc.nasa.gov<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=NASA+Earth+Fact+Sheet&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fnssdc.gsfc.nasa.gov%2Fplanetary%2Ffactsheet%2Fearthfact.html&amp;rft.pub=Nssdc.gsfc.nasa.gov&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-harvard-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-harvard_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acmg.seas.harvard.edu/people/faculty/djj/book/bookchap7.html">"Introduction to Atmospheric Chemistry, by Daniel J. Jacob, Princeton University Press, 1999. Chapter 7, "The Greenhouse Effect<span style="padding-right:0.2em;">"</span>"</a>. Acmg.seas.harvard.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Introduction+to+Atmospheric+Chemistry%2C+by+Daniel+J.+Jacob%2C+Princeton+University+Press%2C+1999.+Chapter+7%2C+%22The+Greenhouse+Effect%22&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facmg.seas.harvard.edu%2Fpeople%2Ffaculty%2Fdjj%2Fbook%2Fbookchap7.html&amp;rft.pub=Acmg.seas.harvard.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://eesc.columbia.edu/courses/ees/climate/lectures/radiation/">"Solar Radiation and the Earth's Energy Balance"</a>. Eesc.columbia.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Solar+Radiation+and+the+Earth%27s+Energy+Balance&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Feesc.columbia.edu%2Fcourses%2Fees%2Fclimate%2Flectures%2Fradiation%2F&amp;rft.pub=Eesc.columbia.edu&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IPCC4_ch01-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-IPCC4_ch01_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IPCC4_ch01_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter1.pdf">Intergovernmental Panel on Climate Change Fourth Assessment Report. Chapter 1: Historical overview of climate change science</a> page 97</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The elusive "absolute surface air temperature," see <a rel="nofollow" class="external text" href="http://data.giss.nasa.gov/gistemp/abs_temp.html">GISS discussion</a></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation book">Vaclav Smil (2003). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=8ntHWPMUgpMC&amp;pg=PA107"><i>The Earth's Biosphere: Evolution, Dynamics, and Change</i></a>. MIT Press. p.&#160;107. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-262-69298-4" title="Special:BookSources/978-0-262-69298-4">978-0-262-69298-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.aulast=Vaclav+Smil&amp;rft.au=Vaclav+Smil&amp;rft.btitle=The+Earth%27s+Biosphere%3A+Evolution%2C+Dynamics%2C+and+Change&amp;rft.date=2003&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8ntHWPMUgpMC%26pg%3DPA107&amp;rft.isbn=978-0-262-69298-4&amp;rft.pages=107&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span id="CITEREFIPCC_AR4_WG12007" class="citation"><a href="/wiki/IPCC" title="IPCC" class="mw-redirect">IPCC AR4 WG1</a> (2007), Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K.B.; Tignor, M.; and Miller, H.L., ed., <a rel="nofollow" class="external text" href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html"><i>Climate Change 2007: The Physical Science Basis</i></a>, Contribution of Working Group I to the <a href="/wiki/IPCC_Fourth_Assessment_Report" title="IPCC Fourth Assessment Report">Fourth Assessment Report</a> of the Intergovernmental Panel on Climate Change, Cambridge University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-88009-1" title="Special:BookSources/978-0-521-88009-1">978-0-521-88009-1</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.au=IPCC+AR4+WG1&amp;rft.aulast=IPCC+AR4+WG1&amp;rft.btitle=Climate+Change+2007%3A+The+Physical+Science+Basis&amp;rft.date=2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ipcc.ch%2Fpublications_and_data%2Far4%2Fwg1%2Fen%2Ffaq-1-3.html&amp;rft.isbn=978-0-521-88009-1&amp;rft.pub=Cambridge+University+Press&amp;rft.series=Contribution+of+Working+Group+I+to+the+Fourth+Assessment+Report+of+the+Intergovernmental+Panel+on+Climate+Change&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> (pb: <a href="/wiki/Special:BookSources/978-0-521-70596-7" title="Special:BookSources/978-0-521-70596-7">978-0-521-70596-7</a>)</span></li>
+<li id="cite_note-anrev-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-anrev_12-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Isaac M. Held and Brian J. Soden (Nov 2000). <a rel="nofollow" class="external text" href="http://arjournals.annualreviews.org/doi/full/10.1146/annurev.energy.25.1.441">"Water Vapor Feedback and Global Warming"</a>. <i>Annual Review of Energy and the Environment</i> (Annual Reviews) <b>25</b>: 441–475. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1146%2Fannurev.energy.25.1.441">10.1146/annurev.energy.25.1.441</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Water+Vapor+Feedback+and+Global+Warming&amp;rft.au=Isaac+M.+Held+and+Brian+J.+Soden&amp;rft.aulast=Isaac+M.+Held+and+Brian+J.+Soden&amp;rft.date=Nov+2000&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farjournals.annualreviews.org%2Fdoi%2Ffull%2F10.1146%2Fannurev.energy.25.1.441&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.energy.25.1.441&amp;rft.jtitle=Annual+Review+of+Energy+and+the+Environment&amp;rft.pages=441-475&amp;rft.pub=Annual+Reviews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">John Tyndall, <i><a rel="nofollow" class="external text" href="http://www.archive.org/details/heatconsideredas00tynduoft">Heat considered as a Mode of Motion</a></i> (500 pages; year 1863, 1873).</span></li>
+<li id="cite_note-DictionaryOfCanBiography-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-DictionaryOfCanBiography_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biographi.ca/009004-119.01-e.php?&amp;id_nbr=7894">Bell, Alexander Graham</a>, <i><a href="/wiki/Dictionary_of_Canadian_Biography" title="Dictionary of Canadian Biography">Dictionary of Canadian Biography Online</a></i>, 1921–1930 (Volume XV), <a href="/wiki/University_of_Toronto" title="University of Toronto">University of Toronto</a> and <a href="/wiki/Universit%C3%A9_Laval" title="Université Laval" class="mw-redirect">Université Laval</a>, 2000. Retrieved March 1, 2013.</span></li>
+<li id="cite_note-G.26W-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-G.26W_15-0">^</a></b></span> <span class="reference-text">Grosvenor, Edwin S. and Morgan Wesson. <i>Alexander Graham Bell: The Life and Times of the Man Who Invented the Telephone</i>. New York: Harry N. Abrahms, Inc., 1997, p. 274, <a href="/wiki/Special:BookSources/0810940051" class="internal mw-magiclink-isbn">ISBN 0-8109-4005-1</a>.</span></li>
+<li id="cite_note-G.26W3-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-G.26W3_16-0">^</a></b></span> <span class="reference-text">Grosvenor and Wesson, 1997, p. 269.</span></li>
+<li id="cite_note-Mitchell-1989-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mitchell-1989_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mitchell-1989_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Mitchell, John F. B. (1989). <a rel="nofollow" class="external text" href="http://astrosun2.astro.cornell.edu/academics/courses/astro202/Mitchell_GRL89.pdf">"THE "GREENHOUSE" EFFECT AND CLIMATE CHANGE"</a> <span style="font-size:85%;">(PDF)</span>. <i>Reviews of Geophysics</i> (American Geophysical Union) <b>27</b> (1): 115–139. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1989RvGeo..27..115M">1989RvGeo..27..115M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1029%2FRG027i001p00115">10.1029/RG027i001p00115</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-23</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=THE+%22GREENHOUSE%22+EFFECT+AND+CLIMATE+CHANGE&amp;rft.aufirst=John+F.+B.&amp;rft.aulast=Mitchell&amp;rft.au=Mitchell%2C+John+F.+B.&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fastrosun2.astro.cornell.edu%2Facademics%2Fcourses%2Fastro202%2FMitchell_GRL89.pdf&amp;rft_id=info%3Abibcode%2F1989RvGeo..27..115M&amp;rft_id=info%3Adoi%2F10.1029%2FRG027i001p00115&amp;rft.issue=1&amp;rft.jtitle=Reviews+of+Geophysics&amp;rft.pages=115-139&amp;rft.pub=American+Geophysical+Union&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=27" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NASA_climate_forcings-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA_climate_forcings_18-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://earthobservatory.nasa.gov/Features/EnergyBalance/page7.php">"NASA: Climate Forcings and Global Warming"</a>. January 14, 2009.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=NASA%3A+Climate+Forcings+and+Global+Warming&amp;rft.date=January+14%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FEnergyBalance%2Fpage7.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-realclimate.org-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-realclimate.org_19-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.realclimate.org/index.php?p=142">"Water vapour: feedback or forcing?"</a>. RealClimate. 6 April 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-01</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Water+vapour%3A+feedback+or+forcing%3F&amp;rft.date=6+April+2005&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.realclimate.org%2Findex.php%3Fp%3D142&amp;rft.pub=RealClimate&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-kiehl197-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-kiehl197_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kiehl197_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Kiehl, J. T.; Kevin E. Trenberth (February 1997). <a rel="nofollow" class="external text" href="http://web.archive.org/web/20060330013311/http://www.atmo.arizona.edu/students/courselinks/spring04/atmo451b/pdf/RadiationBudget.pdf">"Earth's Annual Global Mean Energy Budget"</a> <span style="font-size:85%;">(PDF)</span>. <i>Bulletin of the American Meteorological Society</i> <b>78</b> (2): 197–208. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1997BAMS...78..197K">1997BAMS...78..197K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1175%2F1520-0477%281997%29078%3C0197%3AEAGMEB%3E2.0.CO%3B2">10.1175/1520-0477(1997)078&lt;0197:EAGMEB&gt;2.0.CO;2</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1520-0477">1520-0477</a>. Archived from <a rel="nofollow" class="external text" href="http://www.atmo.arizona.edu/students/courselinks/spring04/atmo451b/pdf/RadiationBudget.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2006-03-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-01</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Earth%27s+Annual+Global+Mean+Energy+Budget&amp;rft.aufirst=J.+T.&amp;rft.au=Kevin+E.+Trenberth&amp;rft.au=Kiehl%2C+J.+T.&amp;rft.aulast=Kiehl&amp;rft.date=February+1997&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.atmo.arizona.edu%2Fstudents%2Fcourselinks%2Fspring04%2Fatmo451b%2Fpdf%2FRadiationBudget.pdf&amp;rft_id=info%3Abibcode%2F1997BAMS...78..197K&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0477%281997%29078%3C0197%3AEAGMEB%3E2.0.CO%3B2&amp;rft.issn=1520-0477&amp;rft.issue=2&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=197-208&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=78" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.science.org.au/nova/016/016glo.htm">"Enhanced greenhouse effect — Glossary"</a>. <i>Nova</i>. Australian Academy of Scihuman impact on the environment. 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Enhanced+greenhouse+effect+%E2%80%94+Glossary&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.science.org.au%2Fnova%2F016%2F016glo.htm&amp;rft.jtitle=Nova&amp;rft.pub=Australian+Academy+of+Scihuman+impact+on+the+environment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.ace.mmu.ac.uk/eae/Global_Warming/Older/Enhanced_Greenhouse_Effect.html">"Enhanced Greenhouse Effect"</a>. Ace.mmu.ac.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Enhanced+Greenhouse+Effect&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.ace.mmu.ac.uk%2Feae%2FGlobal_Warming%2FOlder%2FEnhanced_Greenhouse_Effect.html&amp;rft.pub=Ace.mmu.ac.uk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">IPCC Fourth Assessment Report <a rel="nofollow" class="external text" href="http://www.ipcc.ch/pdf/assessment-report/ar4/syr/ar4_syr_spm.pdf">Synthesis Report: Summary for Policymakers</a> (p. 5)</span></li>
+<li id="cite_note-IPCC_deforestation-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-IPCC_deforestation_24-0">^</a></b></span> <span class="reference-text">IPCC <a rel="nofollow" class="external text" href="http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter7.pdf">Fourth Assessment Report, Working Group I Report "The Physical Science Basis"</a> Chapter 7</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.esrl.noaa.gov/gmd/ccgg/trends/co2_data_mlo.html">"Atmospheric Carbon Dioxide – Mauna Loa"</a>. <a href="/wiki/NOAA" title="NOAA" class="mw-redirect">NOAA</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Atmospheric+Carbon+Dioxide+%E2%80%93+Mauna+Loa&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.esrl.noaa.gov%2Fgmd%2Fccgg%2Ftrends%2Fco2_data_mlo.html&amp;rft.pub=NOAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://news.nationalgeographic.com/news/energy/2013/05/130510-earth-co2-milestone-400-ppm/">http://news.nationalgeographic.com/news/energy/2013/05/130510-earth-co2-milestone-400-ppm/</a></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation journal">Hansen J. (February 2005). "A slippery slope: How much global warming constitutes "dangerous anthropogenic interference"?". <i>Climatic Change</i> <b>68</b> (333): 269–279. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs10584-005-4135-0">10.1007/s10584-005-4135-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=A+slippery+slope%3A+How+much+global+warming+constitutes+%22dangerous+anthropogenic+interference%22%3F&amp;rft.au=Hansen+J.&amp;rft.aulast=Hansen+J.&amp;rft.date=February+2005&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs10584-005-4135-0&amp;rft.issue=333&amp;rft.jtitle=Climatic+Change&amp;rft.pages=269-279&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=68" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/science/nature/5314592.stm">"Deep ice tells long climate story"</a>. <i>BBC News</i>. 2006-09-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-04</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Deep+ice+tells+long+climate+story&amp;rft.date=2006-09-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fscience%2Fnature%2F5314592.stm&amp;rft.jtitle=BBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation journal">Hileman B (2005-11-28). <a rel="nofollow" class="external text" href="http://pubs.acs.org/cen/news/83/i48/8348notw1.html">"Ice Core Record Extended"</a>. <i>Chemical &amp; Engineering News</i> <b>83</b> (48): 7.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Ice+Core+Record+Extended&amp;rft.au=Hileman+B&amp;rft.aulast=Hileman+B&amp;rft.date=2005-11-28&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.acs.org%2Fcen%2Fnews%2F83%2Fi48%2F8348notw1.html&amp;rft.issue=48&amp;rft.jtitle=Chemical+%26+Engineering+News&amp;rft.pages=7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=83" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bowen_.282005.29.2C_Thin_Ice-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bowen_.282005.29.2C_Thin_Ice_30-0">^</a></b></span> <span class="reference-text">Bowen, Mark; Thin Ice: Unlocking the Secrets of Climate in the World's Highest Mountains; Owl Books, 2005.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ncdc.noaa.gov/paleo/globalwarming/temperature-change.html">Temperature change and carbon dioxide change</a>, U.S. National Oceanic and Atmospheric Administration</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><span class="citation book">Brian Shmaefsky (2004). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=L4jtv2mX0iQC&amp;pg=PA57"><i>Favorite demonstrations for college science: an NSTA Press journals collection</i></a>. NSTA Press. p.&#160;57. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-87355-242-4" title="Special:BookSources/978-0-87355-242-4">978-0-87355-242-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.au=Brian+Shmaefsky&amp;rft.aulast=Brian+Shmaefsky&amp;rft.btitle=Favorite+demonstrations+for+college+science%3A+an+NSTA+Press+journals+collection&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DL4jtv2mX0iQC%26pg%3DPA57&amp;rft.isbn=978-0-87355-242-4&amp;rft.pages=57&amp;rft.pub=NSTA+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><span class="citation book">Oort, Abraham H.; Peixoto, José Pinto (1992). <i>Physics of climate</i>. New York: American Institute of Physics. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-88318-711-6" title="Special:BookSources/0-88318-711-6">0-88318-711-6</a>. <q>...the name water vapor-greenhouse effect is actually a misnomer since heating in the usual greenhouse is due to the reduction of convection</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.aulast=Oort%2C+Abraham+H.%3B+Peixoto%2C+Jos%C3%A9+Pinto&amp;rft.au=Oort%2C+Abraham+H.%3B+Peixoto%2C+Jos%C3%A9+Pinto&amp;rft.btitle=Physics+of+climate&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-88318-711-6&amp;rft.place=New+York&amp;rft.pub=American+Institute+of+Physics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><span class="citation journal">McKay, C.; Pollack, J.; Courtin, R. (1991). "The greenhouse and antigreenhouse effects on Titan". <i>Science</i> <b>253</b> (5024): 1118–1121. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.11538492">10.1126/science.11538492</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11538492">11538492</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=The+greenhouse+and+antigreenhouse+effects+on+Titan&amp;rft.au=Courtin%2C+R.&amp;rft.aufirst=C.&amp;rft.aulast=McKay&amp;rft.au=McKay%2C+C.&amp;rft.au=Pollack%2C+J.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.11538492&amp;rft_id=info%3Apmid%2F11538492&amp;rft.issue=5024&amp;rft.jtitle=Science&amp;rft.pages=1118-1121&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=253" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1126.2Fscience.11538492&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.astrobio.net/news/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=1762&amp;mode=thread&amp;order=0&amp;thold=0">"Titan: Greenhouse and Anti-greenhouse&#160;:: Astrobiology Magazine - earth science - evolution distribution Origin of life universe - life beyond&#160;:: Astrobiology is study of earth"</a>. Astrobio.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Titan%3A+Greenhouse+and+Anti-greenhouse+%3A%3A+Astrobiology+Magazine+-+earth+science+-+evolution+distribution+Origin+of+life+universe+-+life+beyond+%3A%3A+Astrobiology+is+study+of+earth&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.astrobio.net%2Fnews%2Fmodules.php%3Fop%3Dmodload%26name%3DNews%26file%3Darticle%26sid%3D1762%26mode%3Dthread%26order%3D0%26thold%3D0&amp;rft.pub=Astrobio.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.space.com/scienceastronomy/060103_pluto_cold.html">"Pluto Colder Than Expected"</a>. SPACE.com. 2006-01-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-15</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.btitle=Pluto+Colder+Than+Expected&amp;rft.date=2006-01-03&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.space.com%2Fscienceastronomy%2F060103_pluto_cold.html&amp;rft.pub=SPACE.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kasting_1991-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kasting_1991_37-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Kasting, James F. (1991). <a rel="nofollow" class="external text" href="http://books.nap.edu/openbook.php?record_id=1790&amp;page=234">"Runaway and moist greenhouse atmospheres and the evolution of Earth and Venus."</a>. <i>Planetary Sciences: American and Soviet Research/Proceedings from the U.S.-U.S.S.R. Workshop on Planetary Sciences</i>. Commission on Engineering and Technical Systems (CETS). pp.&#160;234–245<span class="reference-accessdate">. Retrieved 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Runaway+and+moist+greenhouse+atmospheres+and+the+evolution+of+Earth+and+Venus.&amp;rft.aufirst=James+F.&amp;rft.au=Kasting%2C+James+F.&amp;rft.aulast=Kasting&amp;rft.btitle=Planetary+Sciences%3A+American+and+Soviet+Research%2FProceedings+from+the+U.S.-U.S.S.R.+Workshop+on+Planetary+Sciences&amp;rft.date=1991&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.nap.edu%2Fopenbook.php%3Frecord_id%3D1790%26page%3D234&amp;rft.pages=234-245&amp;rft.pub=Commission+on+Engineering+and+Technical+Systems+%28CETS%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><span class="citation journal">Rasool, I.; De Bergh, C. (Jun 1970). <a rel="nofollow" class="external text" href="http://pubs.giss.nasa.gov/docs/1970/1970_Rasool_DeBergh.pdf">"The Runaway Greenhouse and the Accumulation of CO<sub>2</sub> in the Venus Atmosphere"</a> <span style="font-size:85%;">(PDF)</span>. <i>Nature</i> <b>226</b> (5250): 1037–1039. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1970Natur.226.1037R">1970Natur.226.1037R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F2261037a0">10.1038/2261037a0</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0028-0836">0028-0836</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16057644">16057644</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=The+Runaway+Greenhouse+and+the+Accumulation+of+CO%3Csub%3E2%3C%2Fsub%3E+in+the+Venus+Atmosphere&amp;rft.au=De+Bergh%2C+C.&amp;rft.aufirst=I.&amp;rft.aulast=Rasool&amp;rft.au=Rasool%2C+I.&amp;rft.date=Jun+1970&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fpubs.giss.nasa.gov%2Fdocs%2F1970%2F1970_Rasool_DeBergh.pdf&amp;rft_id=info%3Abibcode%2F1970Natur.226.1037R&amp;rft_id=info%3Adoi%2F10.1038%2F2261037a0&amp;rft_id=info%3Apmid%2F16057644&amp;rft.issn=0028-0836&amp;rft.issue=5250&amp;rft.jtitle=Nature&amp;rft.pages=1037-1039&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=226" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1038.2F2261037a0&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span></h2>
+<ul>
+<li><span class="citation book">Businger, Joost Alois; Fleagle, Robert Guthrie (1980). <i>An introduction to atmospheric physics</i>. International geophysics series (2nd ed.). San Diego: Academic. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-12-260355-9" title="Special:BookSources/0-12-260355-9">0-12-260355-9</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.au=Businger%2C+Joost+Alois%3B+Fleagle%2C+Robert+Guthrie&amp;rft.aulast=Businger%2C+Joost+Alois%3B+Fleagle%2C+Robert+Guthrie&amp;rft.btitle=An+introduction+to+atmospheric+physics&amp;rft.date=1980&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-12-260355-9&amp;rft.place=San+Diego&amp;rft.pub=Academic&amp;rft.series=International+geophysics+series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book"><a href="/wiki/Ann_Henderson-Sellers" title="Ann Henderson-Sellers">Henderson-Sellers, Ann</a>; McGuffie, Kendal (2005). <i>A climate modelling primer</i> (3rd ed.). New York: Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-470-85750-1" title="Special:BookSources/0-470-85750-1">0-470-85750-1</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.au=Henderson-Sellers%2C+Ann&amp;rft.aulast=Henderson-Sellers%2C+Ann&amp;rft.au=McGuffie%2C+Kendal&amp;rft.btitle=A+climate+modelling+primer&amp;rft.date=2005&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-470-85750-1&amp;rft.place=New+York&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation encyclopaedia"><a href="/wiki/Thomas_Schelling" title="Thomas Schelling">Schelling, Thomas C.</a> (2002). <a rel="nofollow" class="external text" href="http://www.econlib.org/library/Enc1/GreenhouseEffect.html">"Greenhouse Effect"</a>. In <a href="/wiki/David_R._Henderson" title="David R. Henderson">David R. Henderson</a> (ed.). <i><a href="/wiki/Concise_Encyclopedia_of_Economics" title="Concise Encyclopedia of Economics" class="mw-redirect">Concise Encyclopedia of Economics</a></i> (1st ed.). <a href="/wiki/Library_of_Economics_and_Liberty" title="Library of Economics and Liberty">Library of Economics and Liberty</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGreenhouse+effect&amp;rft.atitle=Greenhouse+Effect&amp;rft.aufirst=Thomas+C.&amp;rft.aulast=Schelling&amp;rft.au=Schelling%2C+Thomas+C.&amp;rft.btitle=Concise+Encyclopedia+of+Economics&amp;rft.date=2002&amp;rft.edition=1st&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fwww.econlib.org%2Flibrary%2FEnc1%2FGreenhouseEffect.html&amp;rft.pub=Library+of+Economics+and+Liberty&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/317650570">317650570</a>, <a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/50016270">50016270</a> and <a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/163149563">163149563</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></td>
+<td class="mbox-text plainlist">Wikiversity has learning materials about <i><b><a href="//en.wikiversity.org/wiki/Topic:Climate_change" class="extiw" title="v:Topic:Climate change">Topic:Climate change</a></b></i></td>
+</tr>
+</table>
+<p><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/16px-Wikibooks-logo-en-noslogan.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/24px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/32px-Wikibooks-logo-en-noslogan.svg.png 2x" data-file-width="400" data-file-height="400" /> <a href="//en.wikibooks.org/wiki/Climate_Change" class="extiw" title="wikibooks:Climate Change">Climate Change</a> at Wikibooks <img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> Media related to <a href="//commons.wikimedia.org/wiki/Category:Greenhouse_effect" class="extiw" title="commons:Category:Greenhouse effect">Greenhouse effect</a> at Wikimedia Commons <img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/15px-Wiktionary-logo-en.svg.png" width="15" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/22px-Wiktionary-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/29px-Wiktionary-logo-en.svg.png 2x" data-file-width="1000" data-file-height="1089" /> The dictionary definition of <a href="//en.wiktionary.org/wiki/greenhouse_effect" class="extiw" title="wiktionary:greenhouse effect">greenhouse effect</a> at Wiktionary</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://marine.rutgers.edu/mrs/education/class/yuri/erb.html">Rutgers University: Earth Radiation Budget</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Temperatures</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Causes</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">Anthropogenic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a href="/wiki/Deforestation" title="Deforestation">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global-warming_potential" title="Global-warming potential">Global-warming potential</a></li>
+<li><strong class="selflink">Greenhouse effect</strong></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change_and_forestry" title="Land use, land-use change and forestry">Land use, land-use change and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul>
+<li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">AMO</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation" class="mw-redirect">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Solar_variation" title="Solar variation">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Global_climate_model" title="Global climate model" class="mw-redirect">Global climate model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">History</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Opinion and climate change</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_climate_change" title="Media coverage of climate change">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_climate_change" title="Public opinion on climate change">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Climate_change_in_popular_culture" title="Climate change in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_opposing_the_mainstream_scientific_assessment_of_global_warming" title="List of scientists opposing the mainstream scientific assessment of global warming">Scientists opposing the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li>
+<li><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></li>
+<li>(<a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic" class="mw-redirect">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a href="/wiki/Climate_change_in_Belgium" title="Climate change in Belgium" class="mw-redirect">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a href="/wiki/Climate_change_in_Luxembourg" title="Climate change in Luxembourg" class="mw-redirect">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a href="/wiki/Climate_change_in_Norway" title="Climate change in Norway" class="mw-redirect">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia" class="mw-redirect">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu" class="mw-redirect">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a href="/wiki/Arctic_methane_release" title="Arctic methane release">Arctic methane release</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a href="/wiki/Current_sea_level_rise" title="Current sea level rise" class="mw-redirect">Current sea level rise</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a href="/wiki/Effect_of_climate_change_on_plant_biodiversity" title="Effect of climate change on plant biodiversity">Effect on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_humans" title="Effects of climate change on humans" class="mw-redirect">Effects on humans</a></li>
+<li><a href="/wiki/Effects_of_climate_change_on_marine_mammals" title="Effects of climate change on marine mammals" class="mw-redirect">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">By country</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India" class="mw-redirect">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li>
+<li>(<a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>)</li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Governmental</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Emissions reduction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Carbon-free energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Personal</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Adaptation_to_global_warming" title="Adaptation to global warming">Proposed adaptations</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Strategies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:10.25em">Programmes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Avoiding_dangerous_climate_change" title="Avoiding dangerous climate change">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_Allocation_Decision_Support_System" title="Land Allocation Decision Support System">Land Allocation Decision Support System</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary of climate change</a></li>
+<li><a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index of climate change articles</a></li>
+<li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Category:Climate change</a></li>
+<li><a href="/wiki/Category:Global_warming" title="Category:Global warming">Category:Global warming</a></li>
+<li><a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal:Global warming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00576626">00576626</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1207
+CPU time usage: 0.538 seconds
+Real time usage: 0.652 seconds
+Preprocessor visited node count: 3114/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 166024/2097152 bytes
+Template argument size: 12041/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 5/500
+Lua time usage: 0.220/10.000 seconds
+Lua memory usage: 3.79 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  513.380      1 - -total
+ 40.25%  206.638      1 - Template:Reflist
+ 15.56%   79.901      1 - Template:Global_warming
+ 15.08%   77.417      1 - Template:Pp-semi
+ 14.78%   75.887      1 - Template:Navbox_with_collapsible_groups
+ 12.38%   63.542     11 - Template:Cite_web
+  6.34%   32.560      8 - Template:Cite_journal
+  5.93%   30.426      1 - Template:Authority_control
+  4.62%   23.725      6 - Template:Cite_book
+  4.10%   21.033      2 - Template:Cite_doi
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:12395-0!*!0!!en!4!* and timestamp 20150702073835 and revision id 669600626
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Greenhouse_effect&amp;oldid=669600626">https://en.wikipedia.org/w/index.php?title=Greenhouse_effect&amp;oldid=669600626</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmosphere" title="Category:Atmosphere">Atmosphere</a></li><li><a href="/wiki/Category:Atmospheric_radiation" title="Category:Atmospheric radiation">Atmospheric radiation</a></li><li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li><li><a href="/wiki/Category:Climate_forcing" title="Category:Climate forcing">Climate forcing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Greenhouse+effect&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Greenhouse+effect" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Greenhouse_effect"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Greenhouse_effect"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Greenhouse_effect" >Read</a></span></li>
+															<li id="ca-viewsource"><span><a href="/w/index.php?title=Greenhouse_effect&amp;action=edit"  title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Greenhouse_effect&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Greenhouse_effect" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Greenhouse_effect" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Greenhouse_effect&amp;oldid=669600626" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Greenhouse_effect&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q41560" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Greenhouse_effect&amp;id=669600626" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Greenhouse+effect">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Greenhouse+effect&amp;oldid=669600626&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Greenhouse_effect&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="//af.wikipedia.org/wiki/Kweekhuiseffek" title="Kweekhuiseffek – Afrikaans" lang="af" hreflang="af">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A7%D8%AD%D8%AA%D8%A8%D8%A7%D8%B3_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A" title="احتباس حراري – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="//an.wikipedia.org/wiki/Efecto_hibernadero" title="Efecto hibernadero – Aragonese" lang="an" hreflang="an">Aragonés</a></li><li class="interlanguage-link interwiki-as"><a href="//as.wikipedia.org/wiki/%E0%A6%B8%E0%A7%87%E0%A6%89%E0%A6%9C_%E0%A6%97%E0%A7%83%E0%A6%B9_%E0%A6%AA%E0%A7%8D%E0%A7%B0%E0%A6%AD%E0%A6%BE%E0%A7%B1" title="সেউজ গৃহ প্ৰভাৱ – Assamese" lang="as" hreflang="as">অসমীয়া</a></li><li class="interlanguage-link interwiki-ast"><a href="//ast.wikipedia.org/wiki/Efeutu_ivernaderu" title="Efeutu ivernaderu – Asturian" lang="ast" hreflang="ast">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="//az.wikipedia.org/wiki/Parnik_effekti" title="Parnik effekti – Azerbaijani" lang="az" hreflang="az">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%A8%E0%A6%B9%E0%A6%BE%E0%A6%89%E0%A6%9C_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="গ্রীনহাউজ প্রতিক্রিয়া – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="//zh-min-nan.wikipedia.org/wiki/Un-sek_h%C4%81u-%C3%A8ng" title="Un-sek hāu-èng – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="//be.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D1%96%D0%BA%D0%BE%D0%B2%D1%8B_%D1%8D%D1%84%D0%B5%D0%BA%D1%82" title="Парніковы эфект – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-bh"><a href="//bh.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5" title="ग्रीनहाउस प्रभाव – भोजपुरी" lang="bh" hreflang="bh">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B5%D1%84%D0%B5%D0%BA%D1%82" title="Парников ефект – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="//bs.wikipedia.org/wiki/Efekt_staklenika" title="Efekt staklenika – Bosnian" lang="bs" hreflang="bs">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Efecte_d%27hivernacle" title="Efecte d'hivernacle – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Sklen%C3%ADkov%C3%BD_efekt" title="Skleníkový efekt – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="//cy.wikipedia.org/wiki/Effaith_t%C5%B7_gwydr" title="Effaith tŷ gwydr – Welsh" lang="cy" hreflang="cy">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="//da.wikipedia.org/wiki/Drivhuseffekt" title="Drivhuseffekt – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="//de.wikipedia.org/wiki/Treibhauseffekt" title="Treibhauseffekt – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="//et.wikipedia.org/wiki/Kasvuhooneefekt" title="Kasvuhooneefekt – Estonian" lang="et" hreflang="et">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A6%CE%B1%CE%B9%CE%BD%CF%8C%CE%BC%CE%B5%CE%BD%CE%BF_%CF%84%CE%BF%CF%85_%CE%B8%CE%B5%CF%81%CE%BC%CE%BF%CE%BA%CE%B7%CF%80%CE%AF%CE%BF%CF%85" title="Φαινόμενο του θερμοκηπίου – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Efecto_invernadero" title="Efecto invernadero – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Forceja_efiko" title="Forceja efiko – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-eu badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//eu.wikipedia.org/wiki/Berotegi-efektua" title="Berotegi-efektua – Basque" lang="eu" hreflang="eu">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D8%AB%D8%B1_%DA%AF%D9%84%D8%AE%D8%A7%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C" title="اثر گلخانه‌ای – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Effet_de_serre" title="Effet de serre – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="//ga.wikipedia.org/wiki/Iarmhairt_cheaptha_teasa" title="Iarmhairt cheaptha teasa – Irish" lang="ga" hreflang="ga">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="//gd.wikipedia.org/wiki/Buaidh_an_taigh-ghloine" title="Buaidh an taigh-ghloine – Scottish Gaelic" lang="gd" hreflang="gd">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="//gl.wikipedia.org/wiki/Efecto_invernadoiro" title="Efecto invernadoiro – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%98%A8%EC%8B%A4_%ED%9A%A8%EA%B3%BC" title="온실 효과 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="//hy.wikipedia.org/wiki/%D5%8B%D5%A5%D6%80%D5%B4%D5%B8%D6%81%D5%A1%D5%B5%D5%AB%D5%B6_%D5%A7%D6%86%D5%A5%D5%AF%D5%BF" title="Ջերմոցային էֆեկտ – Armenian" lang="hy" hreflang="hy">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%A8_%E0%A4%B9%E0%A4%BE%E0%A4%89%E0%A4%B8_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5" title="ग्रीन हाउस प्रभाव – Hindi" lang="hi" hreflang="hi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Stakleni%C4%8Dki_efekt" title="Staklenički efekt – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="//id.wikipedia.org/wiki/Efek_rumah_kaca" title="Efek rumah kaca – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="//ia.wikipedia.org/wiki/Effecto_conservatorio" title="Effecto conservatorio – Interlingua" lang="ia" hreflang="ia">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Gr%C3%B3%C3%B0urh%C3%BAsa%C3%A1hrif" title="Gróðurhúsaáhrif – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Effetto_serra" title="Effetto serra – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%90%D7%A4%D7%A7%D7%98_%D7%94%D7%97%D7%9E%D7%9E%D7%94" title="אפקט החממה – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%B8%E0%B2%BF%E0%B2%B0%E0%B3%81%E0%B2%AE%E0%B2%A8%E0%B3%86_%E0%B2%AA%E0%B2%B0%E0%B2%BF%E0%B2%A3%E0%B2%BE%E0%B2%AE" title="ಹಸಿರುಮನೆ ಪರಿಣಾಮ – Kannada" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a href="//ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%97%E1%83%91%E1%83%A3%E1%83%A0%E1%83%98%E1%83%A1_%E1%83%94%E1%83%A4%E1%83%94%E1%83%A5%E1%83%A2%E1%83%98" title="სათბურის ეფექტი – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="//kk.wikipedia.org/wiki/%D0%9A%D3%A9%D1%88%D0%B5%D1%82%D1%85%D0%B0%D0%BD%D0%B0_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D1%96" title="Көшетхана эффекті – Kazakh" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a href="//ht.wikipedia.org/wiki/Ef%C3%A8_t%C3%A8mik" title="Efè tèmik – Haitian" lang="ht" hreflang="ht">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="//ky.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D1%81%D0%B8" title="Парник эффектиси – Kyrgyz" lang="ky" hreflang="ky">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="//la.wikipedia.org/wiki/Effectus_thermocepicus" title="Effectus thermocepicus – Latin" lang="la" hreflang="la">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Siltumn%C4%ABcas_efekts" title="Siltumnīcas efekts – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="//lb.wikipedia.org/wiki/Z%C3%A4reneffekt" title="Zäreneffekt – Luxembourgish" lang="lb" hreflang="lb">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="//lt.wikipedia.org/wiki/%C5%A0iltnamio_efektas" title="Šiltnamio efektas – Lithuanian" lang="lt" hreflang="lt">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/%C3%9Cvegh%C3%A1zhat%C3%A1s" title="Üvegházhatás – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="//mk.wikipedia.org/wiki/%D0%95%D1%84%D0%B5%D0%BA%D1%82_%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D0%BA%D0%BB%D0%B5%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%BD%D0%B0" title="Ефект на стаклена градина – Macedonian" lang="mk" hreflang="mk">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%B9%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B4%97%E0%B5%83%E0%B4%B9%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%AD%E0%B4%BE%E0%B4%B5%E0%B4%82" title="ഹരിതഗൃഹപ്രഭാവം – Malayalam" lang="ml" hreflang="ml">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="//ms.wikipedia.org/wiki/Kesan_rumah_hijau" title="Kesan rumah hijau – Malay" lang="ms" hreflang="ms">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Broeikaseffect" title="Broeikaseffect – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="//ne.wikipedia.org/wiki/%E0%A4%B9%E0%A4%B0%E0%A4%BF%E0%A4%A4%E0%A4%97%E0%A5%83%E0%A4%B9_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%AD%E0%A4%BE%E0%A4%B5" title="हरितगृह प्रभाव – Nepali" lang="ne" hreflang="ne">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E6%B8%A9%E5%AE%A4%E5%8A%B9%E6%9E%9C" title="温室効果 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Drivhuseffekt" title="Drivhuseffekt – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="//nn.wikipedia.org/wiki/Drivhuseffekt" title="Drivhuseffekt – Norwegian Nynorsk" lang="nn" hreflang="nn">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="//oc.wikipedia.org/wiki/Efi%C3%A8ch_de_s%C3%A8rra" title="Efièch de sèrra – Occitan" lang="oc" hreflang="oc">Occitan</a></li><li class="interlanguage-link interwiki-pl badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//pl.wikipedia.org/wiki/Efekt_cieplarniany" title="Efekt cieplarniany – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Efeito_estufa" title="Efeito estufa – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="//ro.wikipedia.org/wiki/Efect_de_ser%C4%83" title="Efect de seră – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-qu badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//qu.wikipedia.org/wiki/Pacha_q%27u%C3%B1ichiy" title="Pacha q'uñichiy – Quechua" lang="qu" hreflang="qu">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" title="Парниковый эффект – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="//sq.wikipedia.org/wiki/Efekti_serr%C3%AB" title="Efekti serrë – Albanian" lang="sq" hreflang="sq">Shqip</a></li><li class="interlanguage-link interwiki-si"><a href="//si.wikipedia.org/wiki/%E0%B7%84%E0%B6%BB%E0%B7%92%E0%B6%AD%E0%B7%8F%E0%B6%9C%E0%B7%8F%E0%B6%BB_%E0%B6%86%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B6%BA" title="හරිතාගාර ආචරණය – Sinhala" lang="si" hreflang="si">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="//simple.wikipedia.org/wiki/Greenhouse_effect" title="Greenhouse effect – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Sklen%C3%ADkov%C3%BD_efekt" title="Skleníkový efekt – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/U%C4%8Dinek_tople_grede" title="Učinek tople grede – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/Efekat_staklene_ba%C5%A1te" title="Efekat staklene bašte – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="//sh.wikipedia.org/wiki/Efekt_staklenika" title="Efekt staklenika – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kasvihuoneilmi%C3%B6" title="Kasvihuoneilmiö – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/V%C3%A4xthuseffekten" title="Växthuseffekten – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%88%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%B5%E0%AF%81" title="பைங்குடில் விளைவு – Tamil" lang="ta" hreflang="ta">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="//te.wikipedia.org/wiki/%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B1%80%E0%B0%A8%E0%B1%8D_%E0%B0%B9%E0%B1%8C%E0%B0%B8%E0%B1%8D_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AD%E0%B0%BE%E0%B0%B5%E0%B0%82" title="గ్రీన్ హౌస్ ప్రభావం – Telugu" lang="te" hreflang="te">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%8F%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%81" title="ปรากฏการณ์เรือนกระจก – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Sera_etkisi" title="Sera etkisi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B5%D1%84%D0%B5%D0%BA%D1%82" title="Парниковий ефект – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/Hi%E1%BB%87u_%E1%BB%A9ng_nh%C3%A0_k%C3%ADnh" title="Hiệu ứng nhà kính – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="//wuu.wikipedia.org/wiki/%E6%B8%A9%E5%AE%A4%E6%95%88%E5%BA%94" title="温室效应 – Wu Chinese" lang="wuu" hreflang="wuu">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="//zh-yue.wikipedia.org/wiki/%E6%BA%AB%E5%AE%A4%E6%95%88%E6%87%89" title="溫室效應 – Cantonese" lang="zh-yue" hreflang="zh-yue">粵語</a></li><li class="interlanguage-link interwiki-diq"><a href="//diq.wikipedia.org/wiki/Tesir%C3%AA_sera" title="Tesirê sera – Zazaki" lang="diq" hreflang="diq">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E6%B8%A9%E5%AE%A4%E6%95%88%E5%BA%94" title="温室效应 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q41560#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 2 July 2015, at 07:38.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Greenhouse_effect&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf12/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1218"});
+}</script>
+	</body>
+</html>

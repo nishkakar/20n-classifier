@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Ansible - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ansible" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ansible&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ansible&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Ansible" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ansible" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ansible","wgTitle":"Ansible","wgCurRevisionId":670608432,"wgRevisionId":670608432,"wgArticleId":2106,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that may contain original research from August 2013","All articles with unsourced statements","Articles with unsourced statements from March 2014","Articles with unsourced statements from November 2009","Articles with unsourced statements from February 2007","Articles with unsourced statements from October 2014","Faster-than-light communication","Fictional telecom protocols","Hugo Award winning works","Science fiction fanzines","Fictional technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ansible","wgRelevantArticleId":2106,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2333833"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ansible skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Ansible</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For the science fiction newsletter, see <a href="/wiki/David_Langford" title="David Langford">David Langford</a>.  For the software application, see <a href="/wiki/Ansible_(software)" title="Ansible (software)">Ansible (software)</a>.</div>
+<table class="metadata plainlinks ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Ambox_question.svg" class="image"><img alt="Ambox question.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/40px-Ambox_question.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/60px-Ambox_question.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ambox_question.svg/80px-Ambox_question.svg.png 2x" data-file-width="40" data-file-height="40" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article or section <b>possibly contains <a href="/wiki/Wikipedia:No_original_research#Synthesis_of_published_material_that_advances_a_position" title="Wikipedia:No original research">previously unpublished synthesis</a> of published material that conveys ideas not <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">attributable</a> to the original sources.</b> <span class="hide-when-compact">Relevant discussion may be found on the <a href="/wiki/Talk:Ansible#.23" title="Talk:Ansible">talk page</a>.</span> <small><i>(August 2013)</i></small></span></td>
+</tr>
+</table>
+<p>An <b>ansible</b> is a fictional machine capable of <a href="/wiki/Instantaneous" title="Instantaneous" class="mw-redirect">instantaneous</a> or <a href="/wiki/Superluminal_communication" title="Superluminal communication">superluminal communication</a>. Typically it is depicted as a <a href="/wiki/Lunch-box" title="Lunch-box" class="mw-redirect">lunch-box</a>-sized<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2014)">citation needed</span></a></i>]</sup> object with some combination of microphone, speaker, keyboard and display. It can send and receive messages to and from a corresponding device over any distance whatsoever with no delay. Ansibles occur as <a href="/wiki/Plot_device" title="Plot device">plot devices</a> in <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a> literature.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#In_reality"><span class="tocnumber">1.1</span> <span class="toctext">In reality</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#In_fiction"><span class="tocnumber">2</span> <span class="toctext">In fiction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Similar_devices"><span class="tocnumber">2.1</span> <span class="toctext">Similar devices</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#In_Le_Guin.27s_work"><span class="tocnumber">2.2</span> <span class="toctext">In Le Guin's work</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#In_Card.27s_work"><span class="tocnumber">2.3</span> <span class="toctext">In Card's work</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#In_Elizabeth_Moon.27s_work"><span class="tocnumber">2.4</span> <span class="toctext">In Elizabeth Moon's work</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Footnotes"><span class="tocnumber">4</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word <i>ansible</i> was <a href="/wiki/Neologism" title="Neologism">coined</a> by <a href="/wiki/Ursula_K._Le_Guin" title="Ursula K. Le Guin">Ursula K. Le Guin</a> in her 1966 novel <i><a href="/wiki/Rocannon%27s_World" title="Rocannon's World">Rocannon's World</a></i>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Le Guin states that she derived the name from "answerable," as the device would allow its users to receive answers to their messages in a reasonable amount of time, even over <a href="/wiki/Interstellar_communication" title="Interstellar communication">interstellar</a> distances.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> Her award-winning 1974 novel <i><a href="/wiki/The_Dispossessed" title="The Dispossessed">The Dispossessed</a></i>,<sup id="cite_ref-dispossessed_3-0" class="reference"><a href="#cite_note-dispossessed-3"><span>[</span>3<span>]</span></a></sup> a book in the <a href="/wiki/Hainish_Cycle" title="Hainish Cycle">Hainish Cycle</a>, tells of the invention of the ansible.</p>
+<h3><span class="mw-headline" id="In_reality">In reality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=2" title="Edit section: In reality">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Superluminal_communication" title="Superluminal communication">Superluminal communication</a></div>
+<p>There is no currently known way to build an ansible. The theory of <a href="/wiki/Special_relativity" title="Special relativity">special relativity</a> (and equally well the theory of <a href="/wiki/General_relativity" title="General relativity">general relativity</a>) predicts that any such device would allow communication from the future to the past – a form of <a href="/wiki/Time_travel" title="Time travel">time travel</a> which in general raises problems of <a href="/wiki/Causality" title="Causality">causality</a>.</p>
+<p><a href="/wiki/Quantum_nonlocality" title="Quantum nonlocality">Quantum nonlocality</a> (and in particular the phenomenon of <a href="/wiki/Quantum_entanglement" title="Quantum entanglement">quantum entanglement</a>) is often proposed as a mechanism for superluminal communication.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-amber_5-0" class="reference"><a href="#cite_note-amber-5"><span>[</span>5<span>]</span></a></sup> Indeed, both experiments and theory show that entangled particles at some distance exhibit statistical correlations that cannot be explained in classical terms except by some kind of instantaneous effect; that is what is meant by quantum nonlocality. However, it is generally (but not universally) accepted that this effect cannot be used to perform communication. Indeed, in <a href="/wiki/Quantum_field_theory" title="Quantum field theory">quantum field theory</a>, causality is respected, and quantum correlations cannot be used to transfer information faster than light. In the framework of quantum computation it is the <a href="/wiki/No-cloning_theorem" title="No-cloning theorem">no-cloning theorem</a> that excludes superluminal communication.</p>
+<h2><span class="mw-headline" id="In_fiction">In fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=3" title="Edit section: In fiction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name of the device has since been borrowed by authors such as <a href="/wiki/Orson_Scott_Card" title="Orson Scott Card">Orson Scott Card</a>,<sup id="cite_ref-egame_6-0" class="reference"><a href="#cite_note-egame-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/Vernor_Vinge" title="Vernor Vinge">Vernor Vinge</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> <a href="/wiki/Elizabeth_Moon" title="Elizabeth Moon">Elizabeth Moon</a>,<sup id="cite_ref-WinningColors_8-0" class="reference"><a href="#cite_note-WinningColors-8"><span>[</span>8<span>]</span></a></sup> <a href="/wiki/Jason_Jones_(programmer)" title="Jason Jones (programmer)">Jason Jones</a>,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> <a href="/wiki/Kim_Stanley_Robinson" title="Kim Stanley Robinson">Kim Stanley Robinson</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/L.A._Graf" title="L.A. Graf" class="mw-redirect">L.A. Graf</a>,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> and <a href="/wiki/Dan_Simmons" title="Dan Simmons">Dan Simmons</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Similar_devices">Similar devices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=4" title="Edit section: Similar devices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Similar devices are present in the works of numerous others, such as <a href="/wiki/Frank_Herbert" title="Frank Herbert">Frank Herbert</a><sup id="cite_ref-star_13-0" class="reference"><a href="#cite_note-star-13"><span>[</span>13<span>]</span></a></sup> and <a href="/wiki/Philip_Pullman" title="Philip Pullman">Philip Pullman</a>, who called his a <i>lodestone resonator</i>.<sup id="cite_ref-amber_5-1" class="reference"><a href="#cite_note-amber-5"><span>[</span>5<span>]</span></a></sup></p>
+<p><a href="/wiki/Anne_McCaffrey" title="Anne McCaffrey">Anne McCaffrey</a>'s <i><a href="/wiki/Crystal_Singer" title="Crystal Singer">Crystal Singer</a></i> series posited an instantaneous communication device powered by rare "Black Crystal" from the planet Ballybran. Black Crystals cut from the same mineral deposit could be "tuned" to sympathetically vibrate with each other instantly, even when separated by interstellar distances, allowing instantaneous telephone-like voice and data communication. Similarly, in <a href="/wiki/Gregory_Keyes" title="Gregory Keyes">Gregory Keyes</a>' series <i><a href="/wiki/The_Age_of_Unreason" title="The Age of Unreason">The Age of Unreason</a></i>, "aetherschreibers" use two halves of a single "chime" to communicate, aided by scientific alchemy.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> While the speed of communication is important, so is the fact that the messages cannot be overheard except by listeners with a piece of the same original crystal.</p>
+<p><a href="/wiki/Stephen_R._Donaldson" title="Stephen R. Donaldson">Stephen R. Donaldson</a>, in his <a href="/wiki/The_Gap_Cycle" title="The Gap Cycle">Gap cycle</a>, proposed a similar system, <i>Symbiotic Crystalline Resonance Transmission</i>, clearly ansible-type technology but very difficult to produce and limited to text messages.</p>
+<p>Some <a href="/wiki/Hard_science_fiction" title="Hard science fiction">hard science fiction</a> stories use small (possibly <a href="/wiki/Nanotechnology" title="Nanotechnology">nano-sized</a>) paired wormholes dedicated to communication by means of a laser which traverses the wormhole.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2009)">citation needed</span></a></i>]</sup> In <a href="/wiki/Robert_L._Forward" title="Robert L. Forward">Robert L. Forward</a>'s novel <i>Timemaster</i>, the wormhole is a living organism resembling a fourth-dimensional sea anemone, "stretched" to cover the distance between a spaceship and a satellite on the home planet.</p>
+<p><a href="/wiki/Charles_Stross" title="Charles Stross">Charles Stross</a>'s books <i><a href="/wiki/Singularity_Sky" title="Singularity Sky">Singularity Sky</a></i> and <i><a href="/wiki/Iron_Sunrise" title="Iron Sunrise">Iron Sunrise</a></i> make use of "causal channels" which use entangled particles for instantaneous two-way communication. The technique has drawbacks in that the entangled particles are expendable and the use of faster-than-light travel destroys the entanglement, so that one end of the channel must be transported below light speed. This makes them expensive and limits their usefulness somewhat.</p>
+<p>In <a href="/wiki/Richard_Morgan_(author)" title="Richard Morgan (author)" class="mw-redirect">Richard K. Morgan</a>'s <a href="/wiki/Takeshi_Kovacs" title="Takeshi Kovacs">Takeshi Kovacs</a> novels human colonies on distant planets maintain contact with earth and each other via <i>hyperspatial needlecast</i>, a technology which moves information "...so close to instantaneously that scientists are still arguing about the terminology".</p>
+<p>One ansible-like device which predates Le Guin's is the <i>Dirac communicator</i> that features in several of the works of <a href="/wiki/James_Blish" title="James Blish">James Blish</a>, notably his 1954 short story "Beep". As alluded to in the title, any active device received the sum of all transmitted messages in universal space-time, in a single pulse, so that demultiplexing yielded information about the past, present, and future.</p>
+<p>In the story <a href="/wiki/With_Folded_Hands" title="With Folded Hands">With Folded Hands</a> (1947), by <a href="/wiki/Jack_Williamson" title="Jack Williamson">Jack Williamson</a>, instant communication and power transfer through interstellar space is possible with something referred to as <i>rhodomagnetic waves</i>.</p>
+<p><a href="/wiki/Isaac_Asimov" title="Isaac Asimov">Isaac Asimov</a> solved the same communication problem with the <i>hyper-wave relay</i> in the <a href="/wiki/The_Foundation_Series" title="The Foundation Series" class="mw-redirect"><i>Foundation</i> series</a>. <a href="/wiki/Larry_Niven" title="Larry Niven">Larry Niven</a> later used the same term for the plot device used within his <a href="/wiki/Known_Space" title="Known Space">Known Space</a> series of novels and short stories, notably in the <i><a href="/wiki/Ringworld" title="Ringworld">Ringworld</a></i> and associated <a href="/wiki/Fleet_of_Worlds" title="Fleet of Worlds">Fleet of Worlds</a> series.</p>
+<p>In <a href="/wiki/Ivan_Yefremov" title="Ivan Yefremov">Ivan Yefremov</a>'s 1957 novel <a href="/wiki/Andromeda_(novel)" title="Andromeda (novel)"><i>Andromeda</i></a>, a device for instant transfer of information and matter is made real by using "bipolar mathematics" to explore use of anti-gravitational shadow vectors through a zero field and the antispace, which enables them to make contact with the planet of Epsilon Tucanae.</p>
+<p>Le Guin's ansible was said to communicate "instantaneously",<sup id="cite_ref-dispossessed_3-1" class="reference"><a href="#cite_note-dispossessed-3"><span>[</span>3<span>]</span></a></sup> but other authors have adopted the name for devices capable only of finite-speed communication, although still faster than light.</p>
+<p>The <i><a href="/wiki/Subspace_(Star_Trek)" title="Subspace (Star Trek)" class="mw-redirect">subspace radio</a></i>, best known today from <a href="/wiki/Star_Trek" title="Star Trek">Star Trek</a> and named for the method used in the series for achieving faster-than-light travel, was the most commonly used name for such a faster-than-light communicator in the science fiction of the 1930s to the 1950s.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2007)">citation needed</span></a></i>]</sup></p>
+<p>In the <i><a href="/wiki/Stargate" title="Stargate">Stargate</a></i> television series, characters are able to communicate instantaneously over long distances by transferring their consciousness into another person or being anywhere in the universe using "<a href="/wiki/Ancient_(Stargate)" title="Ancient (Stargate)">Ancient</a> communication stones". It is not known how these stones operate, but the technology explained in the show usually revolves around <a href="/wiki/Wormhole" title="Wormhole">wormholes</a> for instant teleportation, faster-than-light, space-warping travel, and sometimes around <a href="/wiki/Quantum_multiverse" title="Quantum multiverse" class="mw-redirect">quantum multiverses</a>.</p>
+<p><a href="/wiki/Jonathan_Rosenberg_(webcomic_artist)" title="Jonathan Rosenberg (webcomic artist)" class="mw-redirect">Jonathan Rosenberg</a>, author and artist of the humorous <a href="/wiki/Science_fiction" title="Science fiction">science fiction</a> <a href="/wiki/Webcomic" title="Webcomic">webcomic</a> <i>Scenes from a Multiverse</i>, references an ansible powered by a <a href="/wiki/Quantum_entanglement" title="Quantum entanglement">quantum-entangled</a> <a href="/wiki/Ferret" title="Ferret">ferret</a> in one of the comics.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>In <i><a href="/wiki/Avatar_(2009_film)" title="Avatar (2009 film)">Avatar</a></i> continuity, superluminal communication via a subtle control over the state of entangled particles is possible, but for practical purposes extremely slow and expensive: at a transmission rate of three bits of information per hour and a cost of $7,500 per bit, it is used for only the highest priority messages.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<p>In the <i><a href="/wiki/Doctor_Who" title="Doctor Who">Doctor Who</a></i> episode "<a href="/wiki/Nightmare_in_Silver" title="Nightmare in Silver">Nightmare in Silver</a>" a character references a broken Solid State Subether Ansible Class Communicator.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2014)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="In_Le_Guin.27s_work">In Le Guin's work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=5" title="Edit section: In Le Guin's work">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <i><a href="/wiki/The_Word_for_World_Is_Forest" title="The Word for World Is Forest">The Word for World Is Forest</a></i>, Le Guin explains that in order for communication to work with any pair of ansibles, at least one "must be on a large-mass body, the other can be anywhere in the cosmos."</p>
+<p>In <i><a href="/wiki/The_Left_Hand_of_Darkness" title="The Left Hand of Darkness">The Left Hand of Darkness</a></i>, the ansible</p>
+<blockquote class="templatequote">
+<p>doesn't involve <a href="/wiki/Radio" title="Radio">radio</a> waves, or any form of <a href="/wiki/Energy" title="Energy">energy</a>. The principle it works on, the constant of <a href="/wiki/Simultaneity" title="Simultaneity">simultaneity</a>, is analogous in some ways to <a href="/wiki/Gravity" title="Gravity">gravity</a> ... One point has to be fixed, on a planet of certain mass, but the other end is portable.</p>
+</blockquote>
+<p>Unlike McCaffrey's black crystal transceivers, Le Guin's ansibles are not mated pairs: it is possible for an ansible's coordinates to be set to any known location of a receiving ansible. Moreover, the ansibles Le Guin uses in her stories apparently have a very limited <a href="/wiki/Bandwidth_(computing)" title="Bandwidth (computing)">bandwidth</a> which only allows for at most a few hundred characters of text to be communicated in any transaction of a dialog session. Instead of a microphone and speaker, Le Guin's ansibles are attached to a keyboard and small display to perform <a href="/wiki/Text_messaging" title="Text messaging">text messaging</a>.</p>
+<h3><span class="mw-headline" id="In_Card.27s_work">In Card's work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=6" title="Edit section: In Card's work">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Orson_Scott_Card" title="Orson Scott Card">Orson Scott Card</a>'s <a href="/wiki/Ender%27s_Game_series" title="Ender's Game series" class="mw-redirect"><i>Ender's Game</i> series</a> uses the ansible as a plot device. "The official name is Philotic Parallax Instantaneous Communicator," explains <a href="/wiki/Hyrum_Graff" title="Hyrum Graff" class="mw-redirect">Colonel Graff</a> in <i><a href="/wiki/Ender%27s_Game" title="Ender's Game">Ender's Game</a></i>, "but somebody dredged the name <i>ansible</i> out of an old book somewhere."<sup id="cite_ref-egame_6-1" class="reference"><a href="#cite_note-egame-6"><span>[</span>6<span>]</span></a></sup></p>
+<p>Card's description of the ansible's functions in <i><a href="/wiki/Xenocide" title="Xenocide">Xenocide</a></i> involve a fictional subatomic particle, the <a href="/w/index.php?title=Concepts_in_the_Ender%27s_Game_series&amp;action=edit&amp;redlink=1" class="new" title="Concepts in the Ender's Game series (page does not exist)">philote</a>. In the "Enderverse", the two <a href="/wiki/Quark" title="Quark">quarks</a> inside a <a href="/wiki/Pion" title="Pion">pi meson</a> can be separated by an arbitrary distance while remaining connected by "philotic rays". This concept is similar to <a href="/wiki/Quantum_teleportation" title="Quantum teleportation">quantum teleportation</a> due to <a href="/wiki/Quantum_entanglement" title="Quantum entanglement">entanglement</a>. However, in reality, <a href="/wiki/Quark_confinement" title="Quark confinement" class="mw-redirect">quark confinement</a> prevents quarks from being separated by any observable distance.</p>
+<p>The ansible is also featured in the video game <i><a href="/wiki/Advent_Rising" title="Advent Rising">Advent Rising</a></i>, for which Card helped write the story.</p>
+<h3><span class="mw-headline" id="In_Elizabeth_Moon.27s_work">In Elizabeth Moon's work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=7" title="Edit section: In Elizabeth Moon's work">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There is a brief reference to the ansible in <i><a href="/wiki/Winning_Colors_(novel)" title="Winning Colors (novel)">Winning Colors</a></i>.<sup id="cite_ref-WinningColors_8-1" class="reference"><a href="#cite_note-WinningColors-8"><span>[</span>8<span>]</span></a></sup> The ansible itself is a major plot element, nearly a <a href="/wiki/MacGuffin" title="MacGuffin">MacGuffin</a> in Moon's <a href="/wiki/Vatta%27s_War" title="Vatta's War">Vatta's War</a> series. Much of the story line revolves around various parties attacking or repairing ansibles, and around the internal politics of ISC (InterStellar Communications), which holds a monopoly on the ansible technology.<sup id="cite_ref-vatta1_17-0" class="reference"><a href="#cite_note-vatta1-17"><span>[</span>17<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint portal tright" style="border:solid #aaa 1px;margin:0.5em 0 0.5em 1em">
+<table style="background:#f9f9f9;font-size:85%;line-height:110%;max-width:175px">
+<tr style="vertical-align:middle">
+<td style="text-align:center"><a href="/wiki/File:Book_collection.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_collection.jpg/32px-Book_collection.jpg" width="32" height="25" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_collection.jpg/48px-Book_collection.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Book_collection.jpg/64px-Book_collection.jpg 2x" data-file-width="299" data-file-height="238" /></a></td>
+<td style="padding:0 0.2em;vertical-align:middle;font-style:italic;font-weight:bold"><a href="/wiki/Portal:Novels" title="Portal:Novels">Novels portal</a></td>
+</tr>
+</table>
+</div>
+<ul>
+<li><a href="/wiki/Faster-than-light" title="Faster-than-light">Faster-than-light</a></li>
+<li><a href="/wiki/Interstellar_communication" title="Interstellar communication">Interstellar communication</a></li>
+<li><a href="/wiki/No-cloning_theorem" title="No-cloning theorem">No-cloning theorem</a></li>
+<li><a href="/wiki/Tachyon" title="Tachyon">Tachyon</a></li>
+<li><a href="/wiki/Tachyonic_antitelephone" title="Tachyonic antitelephone">Tachyonic antitelephone</a></li>
+</ul>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=9" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Bernardo, Susan M. &amp; Murphy, Graham J. <i>Ursula K. Le Guin: A Critical Companion</i> (Westport, CT: Greenwood Press, 2006), page 18.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation web">Quinion, Michael. <a rel="nofollow" class="external text" href="http://www.worldwidewords.org/weirdwords/ww-ans1.htm">"Ansible"</a>. <i>World Wide Words</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.atitle=Ansible&amp;rft.aufirst=Michael&amp;rft.aulast=Quinion&amp;rft.au=Quinion%2C+Michael&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.worldwidewords.org%2Fweirdwords%2Fww-ans1.htm&amp;rft.jtitle=World+Wide+Words&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-dispossessed-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-dispossessed_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dispossessed_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Ursula_K._Le_Guin" title="Ursula K. Le Guin">Le Guin, Ursula K.</a> (August 2001) [June 1974]. <i>The Dispossessed</i> (mass ppb. ed.). New York: Eos/<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>. p.&#160;276. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-105488-7" title="Special:BookSources/0-06-105488-7">0-06-105488-7</a>. <q>'They print Reumere's plans for the ansible.' 'What is the ansible?' 'It's what he's calling an instantaneous communication device.'</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Ursula+K.&amp;rft.aulast=Le+Guin&amp;rft.au=Le+Guin%2C+Ursula+K.&amp;rft.btitle=The+Dispossessed&amp;rft.date=August+2001&amp;rft.edition=mass+ppb.&amp;rft.genre=book&amp;rft.isbn=0-06-105488-7&amp;rft.pages=276&amp;rft.place=New+York&amp;rft.pub=Eos%2FHarperCollins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.scienceandnonduality.com/videos/brilliantly-simple-explanation-of-quantum-entanglement/">Brilliantly Simple Explanation of Quantum Entanglement</a>. Science and Nonduality. Retrieved on 2015-06-24.</span></li>
+<li id="cite_note-amber-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-amber_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-amber_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Philip_Pullman" title="Philip Pullman">Pullman, Philip</a> (2001-10-02) [2000]. <i>The Amber Spyglass</i> (His Dark Materials, 3. mass pbk. ed.). New York: <a href="/wiki/Del_Rey_Books" title="Del Rey Books">Del Rey</a>. p.&#160;156. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-345-41337-7" title="Special:BookSources/0-345-41337-7">0-345-41337-7</a>. <q>'Well, in our world there is a way of taking a common lodestone and entangling all its particles, and then splitting it in two so that both parts resonate together.'</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Philip&amp;rft.aulast=Pullman&amp;rft.au=Pullman%2C+Philip&amp;rft.btitle=The+Amber+Spyglass&amp;rft.date=2001-10-02&amp;rft.edition=His+Dark+Materials%2C+3.+mass+pbk.&amp;rft.genre=book&amp;rft.isbn=0-345-41337-7&amp;rft.pages=156&amp;rft.place=New+York&amp;rft.pub=Del+Rey&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-egame-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-egame_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-egame_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Orson_Scott_Card" title="Orson Scott Card">Card, Orson Scott</a> (July 1994) [August 1977]. <i><a href="/wiki/Ender%27s_Game" title="Ender's Game">Ender's Game</a></i> (mass ppb. ed.). New York: <a href="/wiki/Tor_Books" title="Tor Books">Tor Books</a>. p.&#160;249. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8125-5070-6" title="Special:BookSources/0-8125-5070-6">0-8125-5070-6</a>. <q>What matters is we built the ansible. The official name is <i>Philotic Parallax Instantaneous Communicator</i>, but somebody dredged the name ansible out of an old book somewhere and it caught on.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.au=Card%2C+Orson+Scott&amp;rft.aufirst=Orson+Scott&amp;rft.aulast=Card&amp;rft.btitle=Ender%27s+Game&amp;rft.date=July+1994&amp;rft.edition=mass+ppb.&amp;rft.genre=book&amp;rft.isbn=0-8125-5070-6&amp;rft.pages=249&amp;rft.place=New+York&amp;rft.pub=Tor+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Vernor_Vinge" title="Vernor Vinge">Vinge, Vernor</a> (1988-11-01). "<a href="/wiki/The_Blabber" title="The Blabber" class="mw-redirect">The Blabber</a>". <i>Threats &amp; Other Promises</i>. Riverdale, NY: Baen. p.&#160;254. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-671-69790-0" title="Special:BookSources/0-671-69790-0">0-671-69790-0</a>. <q>'It's an ansible.' 'Surely they don't call it that!' 'No. But that's what it is.'</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.atitle=The+Blabber&amp;rft.aufirst=Vernor&amp;rft.aulast=Vinge&amp;rft.au=Vinge%2C+Vernor&amp;rft.btitle=Threats+%26+Other+Promises&amp;rft.date=1988-11-01&amp;rft.genre=bookitem&amp;rft.isbn=0-671-69790-0&amp;rft.pages=254&amp;rft.place=Riverdale%2C+NY&amp;rft.pub=Baen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WinningColors-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-WinningColors_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WinningColors_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Elizabeth_Moon" title="Elizabeth Moon">Moon, Elizabeth</a> (1995-08-01). <i>Winning Colors</i> (mass ppb. ed.). Riverdale, NY: Baen. p.&#160;89. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-671-87677-5" title="Special:BookSources/0-671-87677-5">0-671-87677-5</a>. <q>...when I was commissioned, we didn't have FTL communications except from planetary platforms. I was on <i>Boarhound</i> when they mounted the first shipboard ansible, and at first it was only one-way, from the planet to us.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Elizabeth&amp;rft.aulast=Moon&amp;rft.au=Moon%2C+Elizabeth&amp;rft.btitle=Winning+Colors&amp;rft.date=1995-08-01&amp;rft.edition=mass+ppb.&amp;rft.genre=book&amp;rft.isbn=0-671-87677-5&amp;rft.pages=89&amp;rft.place=Riverdale%2C+NY&amp;rft.pub=Baen&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Jason_Jones_(programmer)" title="Jason Jones (programmer)">Jones, Jason</a> (with Greg Kirkpatrick) (1995-11-24) <i><a href="/wiki/Marathon_2:_Durandal" title="Marathon 2: Durandal">Marathon 2: Durandal</a></i>, computer game, Chicago, IL: <a href="/wiki/Bungie_Studios" title="Bungie Studios" class="mw-redirect">Bungie Software</a>. "A connection [?ansible] was left; awaiting the next quiet [?peace]; and though destroyed by the threes, it will scream over the void one time."</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">"Any device that uses this phenomenon is called an ansible, and these devices have been constructed." (<i>2312</i>)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Julia_Ecklar" title="Julia Ecklar">Graf, L.A. [Julia Ecklar]</a> (August 1996). <i>Time's Enemy</i> (Star Trek <i>Deep Space 9</i><sup>TM</sup>&#160;: Invasion, 3. mass pbk. ed.). New York: <a href="/wiki/Pocket_Books" title="Pocket Books">Pocket Books</a>. p.&#160;203. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-671-54150-1" title="Special:BookSources/0-671-54150-1">0-671-54150-1</a>. <q>'...The two Dax symbionts can communicate with each other across space, instantaneously, because they're composed of identical quantum particles. I've become a living ansible, Benjamin.'</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=L.A.+%5BJulia+Ecklar%5D&amp;rft.au=Graf%2C+L.A.+%5BJulia+Ecklar%5D&amp;rft.aulast=Graf&amp;rft.btitle=Time%27s+Enemy&amp;rft.date=August+1996&amp;rft.edition=Star+Trek+%27%27Deep+Space+9%27%27%3Csup%3ETM%3C%2Fsup%3E+%3A+Invasion%2C+3.+mass+pbk.&amp;rft.genre=book&amp;rft.isbn=0-671-54150-1&amp;rft.pages=203&amp;rft.place=New+York&amp;rft.pub=Pocket+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Dan_Simmons" title="Dan Simmons">Simmons, Dan</a> (2003-07-01). <i>Ilium</i> (hbk. ed.). New York: Eos/<a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a>. p.&#160;98. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-380-97893-8" title="Special:BookSources/0-380-97893-8">0-380-97893-8</a>. <q>I can see Nightenhelser madly taking notes on his recorder ansible.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Dan&amp;rft.aulast=Simmons&amp;rft.au=Simmons%2C+Dan&amp;rft.btitle=Ilium&amp;rft.date=2003-07-01&amp;rft.edition=hbk.&amp;rft.genre=book&amp;rft.isbn=0-380-97893-8&amp;rft.pages=98&amp;rft.place=New+York&amp;rft.pub=Eos%2FHarperCollins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-star-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-star_13-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Frank_Herbert" title="Frank Herbert">Herbert, Frank</a> (April 1970) [1970]. <i>The Whipping Star</i>. <i>Worlds of If</i> magazine.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Frank&amp;rft.au=Herbert%2C+Frank&amp;rft.aulast=Herbert&amp;rft.btitle=The+Whipping+Star&amp;rft.date=April+1970&amp;rft.genre=book&amp;rft.pub=%27%27Worlds+of+If%27%27+magazine&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation book">Keyes, J. Gregory (March 4, 2009). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=V7M0bI6HqdoC&amp;pg=PT192&amp;lpg=PT192&amp;dq=aetherschreiber&amp;source=bl&amp;ots=KGPMoAguGu&amp;sig=nrqzNM_NQHLmKH6bHNhb3BiX1pk&amp;hl=en&amp;sa=X&amp;ei=bN0jU7y-OsT6kQfB54D4Bw&amp;ved=0CLgBEOgBMBc#v=onepage&amp;q=aetherschreiber&amp;f=false"><i>The Shadows of God</i></a>. Random House LLC. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780307559609" title="Special:BookSources/9780307559609">9780307559609</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2014</span>. <q>My aetherschreiber was lost when the Coweta captured us.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=J.+Gregory&amp;rft.au=Keyes%2C+J.+Gregory&amp;rft.aulast=Keyes&amp;rft.btitle=The+Shadows+of+God&amp;rft.date=March+4%2C+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DV7M0bI6HqdoC%26pg%3DPT192%26lpg%3DPT192%26dq%3Daetherschreiber%26source%3Dbl%26ots%3DKGPMoAguGu%26sig%3DnrqzNM_NQHLmKH6bHNhb3BiX1pk%26hl%3Den%26sa%3DX%26ei%3DbN0jU7y-OsT6kQfB54D4Bw%26ved%3D0CLgBEOgBMBc%23v%3Donepage%26q%3Daetherschreiber%26f%3Dfalse&amp;rft.isbn=9780307559609&amp;rft.pub=Random+House+LLC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Rosenberg, Jonathan (June 25, 2012). <a rel="nofollow" class="external text" href="http://amultiverse.com/2012/06/25/the-ansible">"Scenes from a Multiverse: The Ansible"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Jonathan&amp;rft.aulast=Rosenberg&amp;rft.au=Rosenberg%2C+Jonathan&amp;rft.btitle=Scenes+from+a+Multiverse%3A+The+Ansible&amp;rft.date=June+25%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Famultiverse.com%2F2012%2F06%2F25%2Fthe-ansible&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><i>James Cameron's Avatar: An Activist Survival Guide</i> – pg 156-157</span></li>
+<li id="cite_note-vatta1-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-vatta1_17-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Elizabeth_Moon" title="Elizabeth Moon">Moon, Elizabeth</a> (September 2004). <i>Trading in Danger</i> (mass ppb. ed.). Del Rey. p.&#160;111. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-345-44761-1" title="Special:BookSources/0-345-44761-1">0-345-44761-1</a>. <q>Attack on instersystem ansibles is just...just unthinkable</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.aufirst=Elizabeth&amp;rft.aulast=Moon&amp;rft.au=Moon%2C+Elizabeth&amp;rft.btitle=Trading+in+Danger&amp;rft.date=September+2004&amp;rft.edition=mass+ppb.&amp;rft.genre=book&amp;rft.isbn=0-345-44761-1&amp;rft.pages=111&amp;rft.pub=Del+Rey&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ansible&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation book">Bernardo, Susan M.; Murphy, Graham J. (2006). <i>Ursula K. Le Guin: A Critical Companion</i> (1st ed.). Westport, CT: Greenwood Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-33225-8" title="Special:BookSources/0-313-33225-8">0-313-33225-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.au=Bernardo%2C+Susan+M.&amp;rft.aufirst=Susan+M.&amp;rft.aulast=Bernardo&amp;rft.au=Murphy%2C+Graham+J.&amp;rft.btitle=Ursula+K.+Le+Guin%3A+A+Critical+Companion&amp;rft.date=2006&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-313-33225-8&amp;rft.place=Westport%2C+CT&amp;rft.pub=Greenwood+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation book">Bloom, Harold, ed. (1986). <i>Ursula K. Le Guin</i> (1st ed.). New York, NY: Chelsea House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87754-659-2" title="Special:BookSources/0-87754-659-2">0-87754-659-2</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.btitle=Ursula+K.+Le+Guin&amp;rft.date=1986&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-87754-659-2&amp;rft.place=New+York%2C+NY&amp;rft.pub=Chelsea+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation web"><a href="/wiki/Jesse_Sheidlower" title="Jesse Sheidlower">Sheidlower, Jesse</a>, ed. (6 July 2008). <a rel="nofollow" class="external text" href="http://www.jessesword.com/sf/view/16">"ansible n."</a>. <i>Science Fiction Citations for the <a href="/wiki/OED" title="OED" class="mw-redirect">OED</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnsible&amp;rft.atitle=ansible+n.&amp;rft.date=6+July+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jessesword.com%2Fsf%2Fview%2F16&amp;rft.jtitle=Science+Fiction+Citations+for+the+OED&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ursula_K._Le_Guin" title="Template:Ursula K. Le Guin"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ursula_K._Le_Guin" title="Template talk:Ursula K. Le Guin"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ursula_K._Le_Guin&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Works by <a href="/wiki/Ursula_K._Le_Guin" title="Ursula K. Le Guin">Ursula K. Le Guin</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Ursula_K._Le_Guin_bibliography" title="Ursula K. Le Guin bibliography">Bibliography</a> — <a href="/wiki/Category:Works_by_Ursula_K._Le_Guin" title="Category:Works by Ursula K. Le Guin">All Works</a> — <a href="/wiki/Category:Adaptations_of_works_by_Ursula_K._Le_Guin" title="Category:Adaptations of works by Ursula K. Le Guin">Adaptations</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Earthsea_(book_series)" title="Earthsea (book series)" class="mw-redirect">Earthsea</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/The_Word_of_Unbinding" title="The Word of Unbinding">The Word of Unbinding</a>" (1964)</li>
+<li>"The Finder" (2001)</li>
+<li>"Darkrose and Diamond" (1999)</li>
+<li>"<a href="/wiki/The_Rule_of_Names" title="The Rule of Names">The Rule of Names</a>" (1964)</li>
+<li>"The Bones of the Earth" (2001)</li>
+<li><i><a href="/wiki/A_Wizard_of_Earthsea" title="A Wizard of Earthsea">A Wizard of Earthsea</a></i> (1968)</li>
+<li><i><a href="/wiki/The_Tombs_of_Atuan" title="The Tombs of Atuan">The Tombs of Atuan</a></i> (1971)</li>
+<li>"On the High Marsh" (2001)</li>
+<li><i><a href="/wiki/The_Farthest_Shore" title="The Farthest Shore">The Farthest Shore</a></i> (1972)</li>
+<li><i><a href="/wiki/Tehanu" title="Tehanu">Tehanu</a></i> (1990)</li>
+<li>"Dragonfly" (1997)</li>
+<li><i><a href="/wiki/Tales_from_Earthsea" title="Tales from Earthsea">Tales from Earthsea</a></i> (2001)</li>
+<li><i><a href="/wiki/The_Other_Wind" title="The Other Wind">The Other Wind</a></i> (2001)</li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Earthsea" title="Category:Earthsea">Category:Earthsea</a></li>
+<li><a href="/wiki/Earthsea_(universe)" title="Earthsea (universe)">Universe</a></li>
+<li><a href="/wiki/Earthsea_history" title="Earthsea history">History</a></li>
+<li><a href="/wiki/Characters_in_Earthsea" title="Characters in Earthsea">Characters</a></li>
+<li><i><a href="/wiki/Ursula_K._Le_Guin_bibliography#Earthsea_nonfiction" title="Ursula K. Le Guin bibliography">Earthsea Revisioned</a></i> (1993)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hainish_Cycle" title="Hainish Cycle">Hainish Cycle</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"Dowry of the Angyar" (1964)</li>
+<li><i><a href="/wiki/Rocannon%27s_World" title="Rocannon's World">Rocannon's World</a></i> (1966)</li>
+<li><i><a href="/wiki/Planet_of_Exile" title="Planet of Exile">Planet of Exile</a></i> (1966)</li>
+<li><i><a href="/wiki/City_of_Illusions" title="City of Illusions">City of Illusions</a></i> (1967)</li>
+<li><i><a href="/wiki/The_Left_Hand_of_Darkness" title="The Left Hand of Darkness">The Left Hand of Darkness</a></i> (1969)</li>
+<li>"<a href="/wiki/Winter%27s_King" title="Winter's King">Winter's King</a>" (1969)</li>
+<li>"Vaster Than Empires and More Slow" (1971)</li>
+<li><i><a href="/wiki/The_Dispossessed" title="The Dispossessed">The Dispossessed</a></i> (1974)</li>
+<li>"<a href="/wiki/The_Day_Before_the_Revolution" title="The Day Before the Revolution">The Day Before the Revolution</a>" (1974)</li>
+<li><i><a href="/wiki/The_Word_for_World_Is_Forest" title="The Word for World Is Forest">The Word for World Is Forest</a></i> (1976)</li>
+<li><i><a href="/wiki/The_Shobies%27_Story" title="The Shobies' Story">The Shobies' Story</a></i> (1990)</li>
+<li>"Dancing to Ganam" (1993)</li>
+<li>"Another Story or A Fisherman of the Inland Sea" (1994)</li>
+<li>"The Matter of Seggri" (1994)</li>
+<li>"Unchosen Love" (1994)</li>
+<li>"Solitude" (1994)</li>
+<li><i><a href="/wiki/Four_Ways_to_Forgiveness" title="Four Ways to Forgiveness">Four Ways to Forgiveness</a></i> (1995)</li>
+<li>"Coming of Age in Karhide" (1995)</li>
+<li>"Mountain Ways" (1996)</li>
+<li>"Old Music and the Slave Women" (1999)</li>
+<li><i><a href="/wiki/The_Telling" title="The Telling">The Telling</a></i> (2000)</li>
+</ul>
+</div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">related</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Category:Hainish_Cycle" title="Category:Hainish Cycle">Category:Hainish Cycle</a></li>
+<li><a href="/wiki/Planets_of_the_Hainish_Cycle" title="Planets of the Hainish Cycle">Planets</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other fiction</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Novels</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Lathe_of_Heaven" title="The Lathe of Heaven">The Lathe of Heaven</a></i> (1971)</li>
+<li><i><a href="/wiki/The_Eye_of_the_Heron" title="The Eye of the Heron">The Eye of the Heron</a></i> (1978)</li>
+<li><i><a href="/wiki/Malafrena" title="Malafrena">Malafrena</a></i> (1979)</li>
+<li><i><a href="/wiki/The_Beginning_Place" title="The Beginning Place">The Beginning Place</a></i> (1980)</li>
+<li><i><a href="/wiki/Always_Coming_Home" title="Always Coming Home">Always Coming Home</a></i> (1985)</li>
+<li><i><a href="/wiki/Annals_of_the_Western_Shore" title="Annals of the Western Shore">Annals of the Western Shore</a></i> series (2004–2007)</li>
+<li><i><a href="/wiki/Lavinia_(novel)" title="Lavinia (novel)">Lavinia</a></i> (2008)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Short stories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>"<a href="/wiki/The_Ones_Who_Walk_Away_from_Omelas" title="The Ones Who Walk Away from Omelas">The Ones Who Walk Away from Omelas</a>" (1973)</li>
+<li><i><a href="/wiki/The_Wind%27s_Twelve_Quarters" title="The Wind's Twelve Quarters">The Wind's Twelve Quarters</a></i> (1975)</li>
+<li><i><a href="/wiki/Orsinian_Tales" title="Orsinian Tales">Orsinian Tales</a></i> (1976)</li>
+<li><i><a href="/wiki/The_Compass_Rose" title="The Compass Rose">The Compass Rose</a></i> (1982)</li>
+<li><i>Buffalo Gals, and Other Animal Presences</i> (1987)</li>
+<li><i>Searoad</i> (1991)</li>
+<li><i><a href="/wiki/A_Fisherman_of_the_Inland_Sea" title="A Fisherman of the Inland Sea">A Fisherman of the Inland Sea</a></i> (1994)</li>
+<li><i><a href="/wiki/Unlocking_the_Air_and_Other_Stories" title="Unlocking the Air and Other Stories">Unlocking the Air and Other Stories</a></i> (1996)</li>
+<li><i><a href="/wiki/The_Birthday_of_the_World" title="The Birthday of the World">The Birthday of the World</a></i> (2002)</li>
+<li><i><a href="/wiki/Changing_Planes" title="Changing Planes">Changing Planes</a></i> (2003)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Picture books</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"><i><a href="/wiki/Catwings" title="Catwings">Catwings</a></i> (1988–1999)</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Nonfiction</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/The_Language_of_the_Night" title="The Language of the Night">The Language of the Night</a></i> (1979)</li>
+<li><i><a href="/wiki/Dancing_at_the_Edge_of_the_World" title="Dancing at the Edge of the World">Dancing at the Edge of the World</a></i> (1982)</li>
+<li><i>Lao Tzu: Tao Te Ching</i> (1997)</li>
+<li><i><a href="/wiki/Steering_the_Craft" title="Steering the Craft">Steering the Craft</a></i> (1998)</li>
+<li><i>The Wave in the Mind</i> (2004)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1071
+CPU time usage: 0.359 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 1797/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60466/2097152 bytes
+Template argument size: 2521/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 6/500
+Lua time usage: 0.132/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  317.147      1 - -total
+ 34.99%  110.956      1 - Template:Reflist
+ 16.17%   51.283     12 - Template:Cite_book
+ 13.32%   42.240      4 - Template:Citation_needed
+ 13.23%   41.945      1 - Template:Synthesis
+ 12.15%   38.548      3 - Template:Cite_web
+ 11.41%   36.172      4 - Template:Navbox
+ 11.30%   35.833      1 - Template:Ambox
+ 10.58%   33.548      4 - Template:Fix
+ 10.14%   32.143      1 - Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2106-0!*!0!!en!4!* and timestamp 20150709013331 and revision id 670608432
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ansible&amp;oldid=670608432">https://en.wikipedia.org/w/index.php?title=Ansible&amp;oldid=670608432</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Faster-than-light_communication" title="Category:Faster-than-light communication">Faster-than-light communication</a></li><li><a href="/wiki/Category:Fictional_telecom_protocols" title="Category:Fictional telecom protocols">Fictional telecom protocols</a></li><li><a href="/wiki/Category:Hugo_Award_winning_works" title="Category:Hugo Award winning works">Hugo Award winning works</a></li><li><a href="/wiki/Category:Science_fiction_fanzines" title="Category:Science fiction fanzines">Science fiction fanzines</a></li><li><a href="/wiki/Category:Fictional_technology" title="Category:Fictional technology">Fictional technology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_August_2013" title="Category:Articles that may contain original research from August 2013">Articles that may contain original research from August 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2014" title="Category:Articles with unsourced statements from March 2014">Articles with unsourced statements from March 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2009" title="Category:Articles with unsourced statements from November 2009">Articles with unsourced statements from November 2009</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2007" title="Category:Articles with unsourced statements from February 2007">Articles with unsourced statements from February 2007</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2014" title="Category:Articles with unsourced statements from October 2014">Articles with unsourced statements from October 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansible&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ansible" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ansible"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ansible"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ansible" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ansible&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ansible&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ansible" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ansible" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ansible&amp;oldid=670608432" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ansible&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2333833" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ansible&amp;id=670608432" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ansible">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ansible&amp;oldid=670608432&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ansible&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ansible" title="Ansible – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Ansible" title="Ansible – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Ansible" title="Ansible – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Weerwort" title="Weerwort – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%96%E3%83%AB" title="アンシブル – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Ansibl" title="Ansibl – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Ansible" title="Ansible – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%81%D0%B8%D0%B1%D0%BB" title="Ансибл – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Ansiibeli" title="Ansiibeli – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2333833#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 July 2015, at 01:33.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ansible&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":66,"wgHostname":"mw1249"});
+}</script>
+	</body>
+</html>

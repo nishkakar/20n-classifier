@@ -1,0 +1,1551 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Parry–Romberg syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Parry%E2%80%93Romberg_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Parry%E2%80%93Romberg_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Parry%E2%80%93Romberg_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Parry–Romberg_syndrome","wgTitle":"Parry–Romberg syndrome","wgCurRevisionId":670433136,"wgRevisionId":670433136,"wgArticleId":7793376,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Articles with contributors link","CS1 French-language sources (fr)","Articles that use a Medicine navs subtemplate","Connective tissue diseases","Genetic disorders with OMIM but no gene","Rare diseases","Neurocutaneous conditions","Syndromes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Parry–Romberg_syndrome","wgRelevantArticleId":7793376,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Parry-Romberg_syndrome","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Parry_Romberg_Syndrome_1.jpg/68px-Parry_Romberg_Syndrome_1.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Parry%E2%80%93Romberg_syndrome","wgWikibaseItemId":"Q250365"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Parry–Romberg_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Parry–Romberg syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Parry-Romberg_syndrome&amp;redirect=no" title="Parry-Romberg syndrome">Parry-Romberg syndrome</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Parry–Romberg syndrome</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Parry_Romberg_Syndrome_1.jpg" class="image"><img alt="Parry Romberg Syndrome 1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Parry_Romberg_Syndrome_1.jpg/230px-Parry_Romberg_Syndrome_1.jpg" width="230" height="337" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Parry_Romberg_Syndrome_1.jpg/345px-Parry_Romberg_Syndrome_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Parry_Romberg_Syndrome_1.jpg/460px-Parry_Romberg_Syndrome_1.jpg 2x" data-file-width="1769" data-file-height="2589" /></a>
+<div>a 17-year-old girl with Parry–Romberg syndrome. The <a href="/wiki/Subcutaneous_tissue" title="Subcutaneous tissue">subcutaneous tissue</a> and underlying <a href="/wiki/Facial_muscles" title="Facial muscles">facial muscles</a> on the right side of the face are severely <a href="/wiki/Atrophy" title="Atrophy">atrophic</a>, while the left side is unaffected.</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/G51.8">G51.8</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=349.89">349.89</a>, <a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=351.8">351.8</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/141300">141300</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb30151.htm">30151</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D005150">D005150</a></td>
+</tr>
+</table>
+<p><b>Parry–Romberg syndrome</b> (also known as <b>progressive hemifacial atrophy</b>) is a <a href="/wiki/Rare_disease" title="Rare disease">rare</a> <a href="/wiki/Phakomatosis" title="Phakomatosis">neurocutaneous syndrome</a> characterized by progressive <a href="/wiki/Atrophy" title="Atrophy">shrinkage and degeneration</a> of the <a href="/wiki/Subcutaneous_tissue" title="Subcutaneous tissue">tissues beneath the skin</a>, usually on only one side of the face (hemifacial atrophy) but occasionally extending to other parts of the body.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> An <a href="/wiki/Autoimmune_disease" title="Autoimmune disease">autoimmune</a> mechanism is suspected, and the syndrome may be a variant of <a href="/wiki/Morphea" title="Morphea">localized scleroderma</a>, but the precise <a href="/wiki/Etiology" title="Etiology">etiology</a> and <a href="/wiki/Pathogenesis" title="Pathogenesis">pathogenesis</a> of this <a href="/wiki/Acquired_disorder" title="Acquired disorder">acquired disorder</a> remains unknown. It has been reported in the literature as a consequence of <a href="/wiki/Sympathectomy" title="Sympathectomy">sympathectomy</a>. The syndrome has a higher <a href="/wiki/Prevalence" title="Prevalence">prevalence</a> in females and typically appears between 5&#160;– 15 years of age.</p>
+<p>In addition to the <a href="/wiki/Connective_tissue_disease" title="Connective tissue disease">connective tissue disease</a>, the condition is often accompanied by significant <a href="/wiki/Neurological_disorder" title="Neurological disorder">neurological</a>, ocular and oral <a href="/wiki/Medical_sign" title="Medical sign">signs</a> and <a href="/wiki/Symptom" title="Symptom">symptoms</a>. The range and severity of associated symptoms and findings are highly variable.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Skin_and_connective_tissues"><span class="tocnumber">1.1</span> <span class="toctext">Skin and connective tissues</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Neurological"><span class="tocnumber">1.2</span> <span class="toctext">Neurological</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Ocular"><span class="tocnumber">1.3</span> <span class="toctext">Ocular</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Oral"><span class="tocnumber">1.4</span> <span class="toctext">Oral</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Causes"><span class="tocnumber">2</span> <span class="toctext">Causes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Diagnosis"><span class="tocnumber">3</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Management"><span class="tocnumber">4</span> <span class="toctext">Management</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Medical"><span class="tocnumber">4.1</span> <span class="toctext">Medical</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Surgical"><span class="tocnumber">4.2</span> <span class="toctext">Surgical</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Epidemiology"><span class="tocnumber">5</span> <span class="toctext">Epidemiology</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#History"><span class="tocnumber">6</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#In_culture"><span class="tocnumber">7</span> <span class="toctext">In culture</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Additional_Images"><span class="tocnumber">8</span> <span class="toctext">Additional Images</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Skin_and_connective_tissues">Skin and connective tissues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=2" title="Edit section: Skin and connective tissues">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Parry_Romberg_Syndrome_CT_scan.jpg" class="image"><img alt="A CT image of the head of a 17-year-old girl with Parry–Romberg syndrome, showing atrophy of the subcutaneous tissue and underlying muscle, with no apparent involvement of the bone structure." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Parry_Romberg_Syndrome_CT_scan.jpg/220px-Parry_Romberg_Syndrome_CT_scan.jpg" width="220" height="208" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Parry_Romberg_Syndrome_CT_scan.jpg/330px-Parry_Romberg_Syndrome_CT_scan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Parry_Romberg_Syndrome_CT_scan.jpg/440px-Parry_Romberg_Syndrome_CT_scan.jpg 2x" data-file-width="623" data-file-height="588" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Parry_Romberg_Syndrome_CT_scan.jpg" class="internal" title="Enlarge"></a></div>
+An <a href="/wiki/Transverse_plane" title="Transverse plane">axial</a> <a href="/wiki/X-ray_computed_tomography" title="X-ray computed tomography" class="mw-redirect">CT scan</a> of a 17-year-old girl with Parry–Romberg syndrome, showing severe loss of subcutaneous tissue and muscle of the right side of the face, with no apparent involvement of the <a href="/wiki/Facial_skeleton" title="Facial skeleton">facial bones</a></div>
+</div>
+</div>
+<p>Initial facial changes usually involve the area of the face covered by the <a href="/wiki/Temporal_muscle" title="Temporal muscle">temporal</a> or <a href="/wiki/Buccinator_muscle" title="Buccinator muscle">buccinator muscles</a>. The disease progressively spreads from the initial location, resulting in atrophy of the skin and its <a href="/wiki/Skin_appendage" title="Skin appendage">adnexa</a>, as well as underlying subcutaneous structures such as <a href="/wiki/Connective_tissue" title="Connective tissue">connective tissue</a>, (<a href="/wiki/Adipose_tissue" title="Adipose tissue">fat</a>, <a href="/wiki/Fascia" title="Fascia">fascia</a>, <a href="/wiki/Cartilage" title="Cartilage">cartilage</a>, <a href="/wiki/Facial_skeleton" title="Facial skeleton">bones</a>) and/or <a href="/wiki/Facial_muscles" title="Facial muscles">muscles</a> of one side of the face.<sup id="cite_ref-Gorlin2001_2-0" class="reference"><a href="#cite_note-Gorlin2001-2"><span>[</span>2<span>]</span></a></sup> The mouth and nose are typically deviated towards the affected side of the face.<sup id="cite_ref-Saraf2006p74_3-0" class="reference"><a href="#cite_note-Saraf2006p74-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>The process may eventually extend to involve tissues <a href="/wiki/Nasolabial_fold" title="Nasolabial fold">between the nose and the upper corner of the lip</a>, the <a href="/wiki/Maxilla" title="Maxilla">upper jaw</a>, the <a href="/wiki/Labial_commissure_of_mouth" title="Labial commissure of mouth">angle of the mouth</a>, the area <a href="/wiki/Periorbita" title="Periorbita">around the eye and brow</a>, the ear, and/or the neck.<sup id="cite_ref-Gorlin2001_2-1" class="reference"><a href="#cite_note-Gorlin2001-2"><span>[</span>2<span>]</span></a></sup><sup id="cite_ref-Saraf2006p74_3-1" class="reference"><a href="#cite_note-Saraf2006p74-3"><span>[</span>3<span>]</span></a></sup> The syndrome often begins with a circumscribed patch of <a href="/wiki/Scleroderma" title="Scleroderma">scleroderma</a> in the frontal region of the scalp which is associated with a <a href="/wiki/Cicatricial_alopecia" title="Cicatricial alopecia">loss of hair</a> and the appearance of a depressed linear scar extending down through the midface on the affected side. This scar is referred to as a "coup de sabre" lesion because it resembles the scar of a wound made by a sabre, and is indistinguishable from the scar observed in <a href="/wiki/Frontal_linear_scleroderma" title="Frontal linear scleroderma" class="mw-redirect">frontal linear scleroderma</a>.<sup id="cite_ref-Saraf2006p548_4-0" class="reference"><a href="#cite_note-Saraf2006p548-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Wartenberg1945_5-0" class="reference"><a href="#cite_note-Wartenberg1945-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 20% of cases, the hair and skin overlying affected areas may become <a href="/wiki/Hyperpigmentation" title="Hyperpigmentation">hyperpigmented</a> or <a href="/wiki/Hypopigmentation" title="Hypopigmentation">hypopigmented</a> with patches of <a href="/wiki/Vitiligo" title="Vitiligo">unpigmented skin</a>. In up to 20% of cases the disease may involve the <a href="/wiki/Anatomical_terms_of_location#Other_directional_terms" title="Anatomical terms of location">ipsilateral</a> (on the same side) or contralateral (on the opposite side) neck, trunk, arm, or leg.<sup id="cite_ref-Stone2006_6-0" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup> The cartilage of the nose, ear and larynx can be involved. The disease has been reported to affect both sides of the face in 5-10% of the cases.<sup id="cite_ref-Saraf2006p548_4-1" class="reference"><a href="#cite_note-Saraf2006p548-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Symptoms and physical findings usually become apparent during the first or early during the second decade of life. The average age of onset is nine years of age,<sup id="cite_ref-Gorlin2001_2-2" class="reference"><a href="#cite_note-Gorlin2001-2"><span>[</span>2<span>]</span></a></sup> and the majority of individuals experience symptoms before 20 years of age. The disease may progress for several years before eventually going into <a href="/wiki/Cure#Remission" title="Cure">remission</a> (abruptly ceasing).<sup id="cite_ref-Gorlin2001_2-3" class="reference"><a href="#cite_note-Gorlin2001-2"><span>[</span>2<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Neurological">Neurological</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=3" title="Edit section: Neurological">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Neurological abnormalities are common. Roughly 45% of people with Parry–Romberg syndrome are also afflicted with <a href="/wiki/Trigeminal_neuralgia" title="Trigeminal neuralgia">trigeminal neuralgia</a> (severe pain in the tissues supplied by the ipsilateral <a href="/wiki/Trigeminal_nerve" title="Trigeminal nerve">trigeminal nerve</a>, including the forehead, eye, cheek, nose, mouth and jaw) and/or <a href="/wiki/Migraine" title="Migraine">migraine</a> (severe headaches that may be accompanied by visual abnormalities, nausea and vomiting).<sup id="cite_ref-Stone2006_6-1" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-NINDS_7-0" class="reference"><a href="#cite_note-NINDS-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>10% of affected individuals develop a seizure disorder as part of the disease.<sup id="cite_ref-Stone2006_6-2" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup> The seizures are typically <a href="/wiki/Jacksonian_seizure" title="Jacksonian seizure" class="mw-redirect">Jacksonian</a> in nature (characterized by rapid spasms of a muscle group that subsequently spread to adjacent muscles) and occur on the side contralateral to the affected side of the face.<sup id="cite_ref-Gorlin2001_2-4" class="reference"><a href="#cite_note-Gorlin2001-2"><span>[</span>2<span>]</span></a></sup> Half of these cases are associated with abnormalities in both the <a href="/wiki/Grey_matter" title="Grey matter">gray</a> and <a href="/wiki/White_matter" title="White matter">white matter</a> of the brain—usually ipsilateral but sometimes contralateral—that are detectable on <a href="/wiki/Magnetic_resonance_imaging" title="Magnetic resonance imaging">magnetic resonance imaging</a> (MRI) scan.<sup id="cite_ref-Stone2006_6-3" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Leao1994_8-0" class="reference"><a href="#cite_note-Leao1994-8"><span>[</span>8<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Ocular">Ocular</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=4" title="Edit section: Ocular">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Enophthalmos" title="Enophthalmos">Enophthalmos</a> (recession of the eyeball within the <a href="/wiki/Orbit_(anatomy)" title="Orbit (anatomy)">orbit</a>) is the most common eye abnormality observed in Parry–Romberg syndrome. It is caused by a loss of subcutaneous tissue around the orbit. Other common findings include <a href="/wiki/Ptosis_(eyelid)" title="Ptosis (eyelid)">drooping of the eyelid</a> (ptosis), <a href="/wiki/Miosis" title="Miosis">constriction of the pupil</a> (miosis), <a href="/wiki/Erythema" title="Erythema">redness</a> of the <a href="/wiki/Conjunctiva" title="Conjunctiva">conjunctiva</a>, and <a href="/wiki/Anhidrosis" title="Anhidrosis" class="mw-redirect">decreased sweating</a> (anhidrosis) of the affected side of the face. Collectively, these signs are referred to as <a href="/wiki/Horner%27s_syndrome" title="Horner's syndrome">Horner's syndrome</a>. Other ocular abnormalities include <a href="/wiki/Ophthalmoparesis" title="Ophthalmoparesis">ophthalmoplegia</a> (paralysis of one or more of the <a href="/wiki/Extraocular_muscles" title="Extraocular muscles">extraocular muscles</a>) and other types of <a href="/wiki/Strabismus" title="Strabismus">strabismus</a>, <a href="/wiki/Uveitis" title="Uveitis">uveitis</a>, and <a href="/wiki/Heterochromia_iridum" title="Heterochromia iridum">heterochromia</a> of the <a href="/wiki/Iris_(anatomy)" title="Iris (anatomy)">iris</a>.<sup id="cite_ref-Muchnik1979_9-0" class="reference"><a href="#cite_note-Muchnik1979-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Wolf1974_10-0" class="reference"><a href="#cite_note-Wolf1974-10"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Oral">Oral</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=5" title="Edit section: Oral">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The tissues of the mouth, including the tongue, <a href="/wiki/Gingiva" title="Gingiva">gingiva</a>, teeth and <a href="/wiki/Soft_palate" title="Soft palate">soft palate</a> are commonly involved in Parry–Romberg syndrome.<sup id="cite_ref-Saraf2006p74_3-2" class="reference"><a href="#cite_note-Saraf2006p74-3"><span>[</span>3<span>]</span></a></sup> 50% of affected individuals develop dental abnormalities such as delayed <a href="/wiki/Tooth_eruption" title="Tooth eruption">eruption</a>, dental <a href="/wiki/Receding_gums" title="Receding gums" class="mw-redirect">root exposure</a>, or resorption of the <a href="/wiki/Dental_anatomy" title="Dental anatomy">dental roots</a> on the affected side. 35% have <a href="/wiki/Trismus" title="Trismus">difficulty or inability to normally open the mouth</a> or other jaw symptoms, including <a href="/wiki/Temporomandibular_joint_disorder" title="Temporomandibular joint disorder" class="mw-redirect">temporomandibular joint disorder</a> and <a href="/wiki/Spasm" title="Spasm">spasm</a> of the <a href="/wiki/Muscles_of_mastication" title="Muscles of mastication">muscles of mastication</a> on the affected side. 25% experience atrophy of one side of the upper lip and tongue.<sup id="cite_ref-Stone2006_6-4" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Causes">Causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=6" title="Edit section: Causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The fact that some people affected with this disease have circulating <a href="/wiki/Anti-nuclear_antibody" title="Anti-nuclear antibody">antinuclear antibodies</a> in their <a href="/wiki/Blood_serum" title="Blood serum" class="mw-redirect">serum</a> supports the theory that Parry–Romberg syndrome may be an autoimmune disease, specifically a variant of localized scleroderma.<sup id="cite_ref-Lewkonia1983_11-0" class="reference"><a href="#cite_note-Lewkonia1983-11"><span>[</span>11<span>]</span></a></sup> Several instances have been reported where more than one member of a family has been affected, prompting speculation of an <a href="/wiki/Dominance_(genetics)#Autosomal_versus_sex-linked_dominance" title="Dominance (genetics)">autosomal dominant</a> <a href="/wiki/Heredity" title="Heredity">inheritance</a> pattern. However, there has also been at least one report of <a href="/wiki/Twin#Identical_.28monozygotic.29_twins" title="Twin">monozygotic twins</a> in which only one of the twins was affected, casting doubt on this theory. Various other theories about the etiology and pathogenesis have been suggested, including alterations in the peripheral <a href="/wiki/Sympathetic_nervous_system" title="Sympathetic nervous system">sympathetic nervous system</a> (perhaps as a result of trauma or infection involving the <a href="/wiki/Cervical_plexus" title="Cervical plexus">cervical plexus</a> and/or the <a href="/wiki/Sympathetic_trunk" title="Sympathetic trunk">sympathetic trunk</a>), as the literature reported it following <a href="/wiki/Sympathectomy" title="Sympathectomy">sympathectomy</a>, disorders in migration of <a href="/wiki/Cranial_neural_crest" title="Cranial neural crest">cranial neural crest</a> cells, or chronic <a href="/wiki/Inflammation#Cellular_component" title="Inflammation">cell-mediated inflammatory process</a> of the blood vessels. It is likely that the disease results from different mechanisms in different people, with all of these factors potentially being involved.<sup id="cite_ref-Gorlin2001_2-5" class="reference"><a href="#cite_note-Gorlin2001-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=7" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diagnosis can be made solely on the basis of <a href="/wiki/Medical_history" title="Medical history">history</a> and <a href="/wiki/Physical_examination" title="Physical examination">physical examination</a> in people who present with only facial asymmetry. For those who report neurological symptoms such as migraine or seizures, MRI scan of the brain is the imaging modality of choice. A diagnostic <a href="/wiki/Lumbar_puncture" title="Lumbar puncture">lumbar puncture</a> and <a href="/wiki/Blood_test" title="Blood test">serum test</a> for <a href="/wiki/Autoantibody" title="Autoantibody">autoantibodies</a> may also be indicated in people who present with a seizure disorder of recent onset.<sup id="cite_ref-Stone2006_6-5" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Management">Management</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=8" title="Edit section: Management">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Medical">Medical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=9" title="Edit section: Medical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Medical management may involve <a href="/wiki/Immunosuppressive_drug" title="Immunosuppressive drug">immunosuppressive drugs</a> such as <a href="/wiki/Methotrexate" title="Methotrexate">methotrexate</a>, <a href="/wiki/Corticosteroid" title="Corticosteroid">corticosteroids</a>, <a href="/wiki/Cyclophosphamide" title="Cyclophosphamide">cyclophosphamide</a>, and <a href="/wiki/Azathioprine" title="Azathioprine">azathioprine</a>. No <a href="/wiki/Randomized_controlled_trial" title="Randomized controlled trial">randomized controlled trials</a> have yet been conducted to evaluate such treatments, so the benefits have not been clearly established.<sup id="cite_ref-Stone2006_6-6" class="reference"><a href="#cite_note-Stone2006-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Surgical">Surgical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=10" title="Edit section: Surgical">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Affected individuals may benefit from autologous fat transfer or fat grafts to restore a more normal contour to the face. However, greater volume defects may require <a href="/wiki/Microsurgery" title="Microsurgery">microsurgical</a> <a href="/wiki/Reconstructive_surgery" title="Reconstructive surgery">reconstructive surgery</a> which may involve the transfer of an island parascapular fasciocutaneous flap or a <a href="/wiki/Free_flap" title="Free flap">free flap</a> from the groin, <a href="/wiki/Rectus_abdominis_muscle" title="Rectus abdominis muscle">rectus abdominis muscle</a> (Transverse Rectus Abdominis Myocutaneous or "TRAM" flap) or <a href="/wiki/Latissimus_dorsi_muscle" title="Latissimus dorsi muscle">latissimus dorsi muscle</a> to the face. Severe deformities may require additional procedures, such as pedicled <a href="/wiki/Temporal_fascia" title="Temporal fascia">temporal fascia</a> flaps, cartilage grafts, <a href="/wiki/Bone_grafting" title="Bone grafting">bone grafts</a>, <a href="/wiki/Orthognathic_surgery" title="Orthognathic surgery">orthognathic surgery</a>, and <a href="/wiki/Distraction_osteogenesis" title="Distraction osteogenesis">bone distraction</a>.<sup id="cite_ref-Inigo2000_12-0" class="reference"><a href="#cite_note-Inigo2000-12"><span>[</span>12<span>]</span></a></sup> The timing of surgical intervention is controversial; some surgeons prefer to wait until the disease has run its course<sup id="cite_ref-Saraf2006p74_3-3" class="reference"><a href="#cite_note-Saraf2006p74-3"><span>[</span>3<span>]</span></a></sup> while others recommend early intervention.<sup id="cite_ref-UWHCA2011_13-0" class="reference"><a href="#cite_note-UWHCA2011-13"><span>[</span>13<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=11" title="Edit section: Epidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Parry–Romberg syndrome appears to occur randomly and for unknown reasons. Prevalence is higher in females than males, with a ratio of roughly 3:2. The condition is observed on the left side of the face about as often as on the right side.<sup id="cite_ref-Rogers1963_14-0" class="reference"><a href="#cite_note-Rogers1963-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=12" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The disease was first described in 1825 by <a href="/wiki/Caleb_Hillier_Parry" title="Caleb Hillier Parry">Caleb Hillier Parry</a> (1755&#160;– 1822), in a collection of his medical writings which were published posthumously by his son <a href="/wiki/Charles_Henry_Parry" title="Charles Henry Parry">Charles Henry Parry</a> (1779&#160;– 1860).<sup id="cite_ref-Parry1825_15-0" class="reference"><a href="#cite_note-Parry1825-15"><span>[</span>15<span>]</span></a></sup> It was described a second time in 1846 by <a href="/wiki/Moritz_Heinrich_Romberg" title="Moritz Heinrich Romberg">Moritz Heinrich Romberg</a> (1795&#160;– 1873) and <a href="/wiki/Eduard_Heinrich_Henoch" title="Eduard Heinrich Henoch">Eduard Heinrich Henoch</a> (1820&#160;– 1910).<sup id="cite_ref-Romberg1846_16-0" class="reference"><a href="#cite_note-Romberg1846-16"><span>[</span>16<span>]</span></a></sup> German neurologist <a href="/wiki/Albert_Eulenburg" title="Albert Eulenburg">Albert Eulenburg</a> (1840&#160;– 1917) was the first to use the descriptive title "progressive hemifacial atrophy" in 1871.<sup id="cite_ref-Eulenburg1871_17-0" class="reference"><a href="#cite_note-Eulenburg1871-17"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-WhoNamedIt_18-0" class="reference"><a href="#cite_note-WhoNamedIt-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-Cory1997_19-0" class="reference"><a href="#cite_note-Cory1997-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="In_culture">In culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=13" title="Edit section: In culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The disease is also featured in an episode of Mystery Diagnosis on the Discovery Health channel, Nichole Beavers, who has Parry–Romberg syndrome, shared her true story of how she was diagnosed with it.</p>
+<h2><span class="mw-headline" id="Additional_Images">Additional Images</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=14" title="Edit section: Additional Images">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Parry_Romberg_syndrome_CT_reconstruction,_soft_tissues.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg/120px-Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg/180px-Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg/240px-Parry_Romberg_syndrome_CT_reconstruction%2C_soft_tissues.jpg 2x" data-file-width="1340" data-file-height="1340" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A 3D, soft tissue reconstruction of a CT scan of a 17-year-old girl with Parry Romberg syndrome.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Parry_Romberg_syndrome_CT_reconstruction,_bone.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg/120px-Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg/180px-Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg/240px-Parry_Romberg_syndrome_CT_reconstruction%2C_bone.jpg 2x" data-file-width="1336" data-file-height="1336" /></a></div>
+</div>
+<div class="gallerytext">
+<p>CT scan3D bone reconstruction of a 17-year-old girl with Parry Romberg syndrome.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Hemifacial_microsomia" title="Hemifacial microsomia">Hemifacial microsomia</a></li>
+<li><a href="/wiki/List_of_cutaneous_conditions" title="List of cutaneous conditions">List of cutaneous conditions</a></li>
+<li><a href="/wiki/Trigeminal_trophic_lesion" title="Trigeminal trophic lesion">Trigeminal trophic lesion</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Sharma M, Bharatha A, Antonyshyn O, Aviv RI, Symons SP (February 2012). "Case 178: Parry-Romberg syndrome". <i>Radiology</i> <b>262</b> (2): 721–725. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1148%2Fradiol.11092104">10.1148/radiol.11092104</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Case+178%3A+Parry-Romberg+syndrome&amp;rft.aulast=Sharma+M%2C+Bharatha+A%2C+Antonyshyn+O%2C+Aviv+RI%2C+Symons+SP&amp;rft.au=Sharma+M%2C+Bharatha+A%2C+Antonyshyn+O%2C+Aviv+RI%2C+Symons+SP&amp;rft.date=February+2012&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1148%2Fradiol.11092104&amp;rft.issue=2&amp;rft.jtitle=Radiology&amp;rft.pages=721-725&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=262" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Gorlin2001-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gorlin2001_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gorlin2001_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Gorlin2001_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Gorlin2001_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Gorlin2001_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Gorlin2001_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Gorlin, RJ; Cohen, MM; Hennekam, RCM (2001). "Chapter 24: Syndromes with unusual facies: well-known syndromes". <a rel="nofollow" class="external text" href="http://books.google.com/?id=mSUnOoCvQWAC&amp;pg=PA1020&amp;lpg=PA1020&amp;dq=%22Parry%E2%80%93Romberg+syndrome22#v=onepage&amp;q=%22Parry%E2%80%93Romberg%20syndrome%22&amp;f=false"><i>Syndromes of the head and neck</i></a> (4th ed.). New York: Oxford University Press. pp.&#160;977–1038. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-19-511861-8" title="Special:BookSources/0-19-511861-8">0-19-511861-8</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Chapter+24%3A+Syndromes+with+unusual+facies%3A+well-known+syndromes&amp;rft.au=Cohen%2C+MM&amp;rft.aufirst=RJ&amp;rft.au=Gorlin%2C+RJ&amp;rft.au=Hennekam%2C+RCM&amp;rft.aulast=Gorlin&amp;rft.btitle=Syndromes+of+the+head+and+neck&amp;rft.date=2001&amp;rft.edition=4th&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DmSUnOoCvQWAC%26pg%3DPA1020%26lpg%3DPA1020%26dq%3D%2522Parry%25E2%2580%2593Romberg%2Bsyndrome22%23v%3Donepage%26q%3D%2522Parry%25E2%2580%2593Romberg%2520syndrome%2522%26f%3Dfalse&amp;rft.isbn=0-19-511861-8&amp;rft.pages=977-1038&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Saraf2006p74-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Saraf2006p74_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Saraf2006p74_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Saraf2006p74_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Saraf2006p74_3-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Saraf, S (2006). "Chapter 3: Developmental disorders of oral and paraoral structures". <a rel="nofollow" class="external text" href="http://books.google.com/books?id=WnZ0Ek2nP4wC&amp;pg=PA548&amp;lpg=PA548&amp;dq=Parry#v=onepage&amp;q=Parry&amp;f=false"><i>Textbook of oral pathology</i></a>. New Delhi: Jaypee Brothers Medical Publishers Ltd. pp.&#160;31–76. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/81-8061-655-X" title="Special:BookSources/81-8061-655-X">81-8061-655-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Chapter+3%3A+Developmental+disorders+of+oral+and+paraoral+structures&amp;rft.aufirst=S&amp;rft.aulast=Saraf&amp;rft.au=Saraf%2C+S&amp;rft.btitle=Textbook+of+oral+pathology&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWnZ0Ek2nP4wC%26pg%3DPA548%26lpg%3DPA548%26dq%3DParry%23v%3Donepage%26q%3DParry%26f%3Dfalse&amp;rft.isbn=81-8061-655-X&amp;rft.pages=31-76&amp;rft.place=New+Delhi&amp;rft.pub=Jaypee+Brothers+Medical+Publishers+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Saraf2006p548-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Saraf2006p548_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Saraf2006p548_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book">Saraf, S (2006). "Features of syndromes and conditions affecting oral and extra oral structures". <a rel="nofollow" class="external text" href="http://books.google.com/books?id=WnZ0Ek2nP4wC&amp;pg=PA548&amp;lpg=PA548&amp;dq=Parry#v=onepage&amp;q=Parry&amp;f=false"><i>Textbook of oral pathology</i></a>. New Delhi: Jaypee Brothers Medical Publishers Ltd. pp.&#160;547–54. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/81-8061-655-X" title="Special:BookSources/81-8061-655-X">81-8061-655-X</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Features+of+syndromes+and+conditions+affecting+oral+and+extra+oral+structures&amp;rft.aufirst=S&amp;rft.aulast=Saraf&amp;rft.au=Saraf%2C+S&amp;rft.btitle=Textbook+of+oral+pathology&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DWnZ0Ek2nP4wC%26pg%3DPA548%26lpg%3DPA548%26dq%3DParry%23v%3Donepage%26q%3DParry%26f%3Dfalse&amp;rft.isbn=81-8061-655-X&amp;rft.pages=547-54&amp;rft.place=New+Delhi&amp;rft.pub=Jaypee+Brothers+Medical+Publishers+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wartenberg1945-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wartenberg1945_5-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Wartenberg, R (1945). <a rel="nofollow" class="external text" href="http://archneurpsyc.ama-assn.org/cgi/content/summary/54/2/75">"Progressive facial hemiatrophy (abstract)"</a>. <i>Archives of Neurology and Psychiatry</i> <b>54</b> (2): 75–97. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1001%2Farchneurpsyc.1945.02300080003001">10.1001/archneurpsyc.1945.02300080003001</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+facial+hemiatrophy+%28abstract%29&amp;rft.aufirst=R&amp;rft.aulast=Wartenberg&amp;rft.au=Wartenberg%2C+R&amp;rft.date=1945&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farchneurpsyc.ama-assn.org%2Fcgi%2Fcontent%2Fsummary%2F54%2F2%2F75&amp;rft_id=info%3Adoi%2F10.1001%2Farchneurpsyc.1945.02300080003001&amp;rft.issue=2&amp;rft.jtitle=Archives+of+Neurology+and+Psychiatry&amp;rft.pages=75-97&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=54" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Stone2006-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Stone2006_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Stone2006_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Stone2006_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Stone2006_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Stone2006_6-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Stone2006_6-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Stone2006_6-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Stone, J (2006). <a rel="nofollow" class="external text" href="http://www.therombergsconnection.com/dr_stone_survey/Stone_Parry_Romberg_Practical_Neurology.pdf">"Neurological rarity: Parry-Romberg syndrome"</a> <span style="font-size:85%;">(PDF)</span>. <i>Practical Neurology</i> <b>6</b> (3): 185–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjnnp.2006.089037">10.1136/jnnp.2006.089037</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Neurological+rarity%3A+Parry-Romberg+syndrome&amp;rft.aufirst=J&amp;rft.aulast=Stone&amp;rft.au=Stone%2C+J&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.therombergsconnection.com%2Fdr_stone_survey%2FStone_Parry_Romberg_Practical_Neurology.pdf&amp;rft_id=info%3Adoi%2F10.1136%2Fjnnp.2006.089037&amp;rft.issue=3&amp;rft.jtitle=Practical+Neurology&amp;rft.pages=185-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NINDS-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-NINDS_7-0">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.ninds.nih.gov/disorders/parry_romberg">parry_romberg</a></i> at <a href="/wiki/National_Institute_of_Neurological_Disorders_and_Stroke" title="National Institute of Neurological Disorders and Stroke">NINDS</a></span></li>
+<li id="cite_note-Leao1994-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Leao1994_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Leäo, M; da Silva, ML (1994). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1016702">"Progressive hemifacial atrophy with agenesis of the head of the caudate nucleus"</a>. <i>Journal of Medical Genetics</i> <b>31</b> (12): 969–71. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjmg.31.12.969">10.1136/jmg.31.12.969</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1016702">1016702</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7891383">7891383</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+hemifacial+atrophy+with+agenesis+of+the+head+of+the+caudate+nucleus&amp;rft.au=da+Silva%2C+ML&amp;rft.aufirst=M&amp;rft.aulast=Le%C3%A4o&amp;rft.au=Le%C3%A4o%2C+M&amp;rft.date=1994&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1016702&amp;rft_id=info%3Adoi%2F10.1136%2Fjmg.31.12.969&amp;rft_id=info%3Apmc%2F1016702&amp;rft_id=info%3Apmid%2F7891383&amp;rft.issue=12&amp;rft.jtitle=Journal+of+Medical+Genetics&amp;rft.pages=969-71&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Muchnik1979-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Muchnik1979_9-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Muchnik, RS; Aston SJ; Rees TD (1979). "Ocular manifestations and treatment of hemifacial atrophy". <i>American Journal of Ophthalmology</i> <b>88</b> (5): 889–97. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/507167">507167</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Ocular+manifestations+and+treatment+of+hemifacial+atrophy&amp;rft.au=Aston+SJ&amp;rft.aufirst=RS&amp;rft.aulast=Muchnik&amp;rft.au=Muchnik%2C+RS&amp;rft.au=Rees+TD&amp;rft.date=1979&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F507167&amp;rft.issue=5&amp;rft.jtitle=American+Journal+of+Ophthalmology&amp;rft.pages=889-97&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=88" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wolf1974-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wolf1974_10-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Wolf, SM; Verity, MA (1974). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC494830">"Neurological complications of progressive facial hemiatrophy"</a>. <i>Journal of Neurology, Neurosurgery and Psychiatry</i> <b>37</b> (9): 997–1004. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjnnp.37.9.997">10.1136/jnnp.37.9.997</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC494830">494830</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Neurological+complications+of+progressive+facial+hemiatrophy&amp;rft.aufirst=SM&amp;rft.aulast=Wolf&amp;rft.au=Verity%2C+MA&amp;rft.au=Wolf%2C+SM&amp;rft.date=1974&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC494830&amp;rft_id=info%3Adoi%2F10.1136%2Fjnnp.37.9.997&amp;rft_id=info%3Apmc%2F494830&amp;rft.issue=9&amp;rft.jtitle=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;rft.pages=997-1004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lewkonia1983-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lewkonia1983_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Lewkonia, RM; Lowry, RB; Opitz, JM (1983). "Progressive hemifacial atrophy (Parry-Romberg syndrome): report with review of genetics and nosology". <i>American Journal of Medical Genetics</i> <b>14</b> (2): 385–90. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fajmg.1320140220">10.1002/ajmg.1320140220</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/6601461">6601461</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+hemifacial+atrophy+%28Parry-Romberg+syndrome%29%3A+report+with+review+of+genetics+and+nosology&amp;rft.aufirst=RM&amp;rft.aulast=Lewkonia&amp;rft.au=Lewkonia%2C+RM&amp;rft.au=Lowry%2C+RB&amp;rft.au=Opitz%2C+JM&amp;rft.date=1983&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fajmg.1320140220&amp;rft_id=info%3Apmid%2F6601461&amp;rft.issue=2&amp;rft.jtitle=American+Journal+of+Medical+Genetics&amp;rft.pages=385-90&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=14" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Inigo2000-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Inigo2000_12-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Iñigo, F; Jimenez-Murat Y; Arroyo O; Fernandez M; Ysunza A (2000). "Restoration of facial contour in Romberg's disease and hemifacial microsomia: Experience with 118 cases". <i>Microsurgery</i> <b>20</b> (4): 167–72. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2F1098-2752%282000%29">10.1002/1098-2752(2000)</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10980515">10980515</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Restoration+of+facial+contour+in+Romberg%27s+disease+and+hemifacial+microsomia%3A+Experience+with+118+cases&amp;rft.au=Arroyo+O&amp;rft.au=Fernandez+M&amp;rft.aufirst=F&amp;rft.au=I%C3%B1igo%2C+F&amp;rft.au=Jimenez-Murat+Y&amp;rft.aulast=I%C3%B1igo&amp;rft.au=Ysunza+A&amp;rft.date=2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2F1098-2752%282000%29&amp;rft_id=info%3Apmid%2F10980515&amp;rft.issue=4&amp;rft.jtitle=Microsurgery&amp;rft.pages=167-72&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=20" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-UWHCA2011-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-UWHCA2011_13-0">^</a></b></span> <span class="reference-text"><span class="citation web">University of Wisconsin Hospitals and Clinics Authority (2011-05-17). <a rel="nofollow" class="external text" href="http://www.uwhealth.org/referring-physician-news/uw-health-surgeon-reconstructs-young-girls-face/31371">"UW health surgeon reconstructs young girl's face"</a>. <i>News for referring physicians</i>. Madison, Wisconsin: University of Wisconsin Hospitals and Clinics Authority<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-02</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=UW+health+surgeon+reconstructs+young+girl%27s+face&amp;rft.aulast=University+of+Wisconsin+Hospitals+and+Clinics+Authority&amp;rft.au=University+of+Wisconsin+Hospitals+and+Clinics+Authority&amp;rft.date=2011-05-17&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.uwhealth.org%2Freferring-physician-news%2Fuw-health-surgeon-reconstructs-young-girls-face%2F31371&amp;rft.jtitle=News+for+referring+physicians&amp;rft.place=Madison%2C+Wisconsin&amp;rft.pub=University+of+Wisconsin+Hospitals+and+Clinics+Authority&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Rogers1963-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rogers1963_14-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Rogers, BO (October 13–18, 1963). "Progressive facial hemiatrophy (Romberg's diseases): a review of 772 cases". In Broadbent TR, Anderson B. <i>Transactions of the third international congress of plastic surgery (International Congress Series No. 66)</i>. Third International Congress of Plastic Surgery. Amsterdam: Excerpta Medica. pp.&#160;681–9.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+facial+hemiatrophy+%28Romberg%27s+diseases%29%3A+a+review+of+772+cases&amp;rft.aufirst=BO&amp;rft.aulast=Rogers&amp;rft.au=Rogers%2C+BO&amp;rft.btitle=Transactions+of+the+third+international+congress+of+plastic+surgery+%28International+Congress+Series+No.+66%29&amp;rft.date=October+13-18%2C+1963&amp;rft.genre=bookitem&amp;rft.pages=681-9&amp;rft.place=Amsterdam&amp;rft.pub=Excerpta+Medica&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Parry1825-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Parry1825_15-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Caleb_Hillier_Parry" title="Caleb Hillier Parry">Parry, CH</a> (1825). <a href="/wiki/Charles_Henry_Parry" title="Charles Henry Parry">Parry, CH</a>, ed. <i>Collections from the unpublished medical writings of the late Caleb Hillier Parry, M.D., F.R.S.</i> <b>1</b>. London: Underwoods. pp.&#160;478–80.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.aufirst=CH&amp;rft.aulast=Parry&amp;rft.au=Parry%2C+CH&amp;rft.btitle=Collections+from+the+unpublished+medical+writings+of+the+late+Caleb+Hillier+Parry%2C+M.D.%2C+F.R.S.&amp;rft.date=1825&amp;rft.genre=book&amp;rft.pages=478-80&amp;rft.place=London&amp;rft.pub=Underwoods&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Romberg1846-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-Romberg1846_16-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Moritz_Heinrich_Romberg" title="Moritz Heinrich Romberg">Romberg, MH</a>; <a href="/wiki/Eduard_Heinrich_Henoch" title="Eduard Heinrich Henoch">Henoch, EH</a> (1846). "Krankheiten des nervensystems (IV: Trophoneurosen)". <a rel="nofollow" class="external text" href="http://books.google.com/?id=MfxaAAAAQAAJ&amp;pg=PR1&amp;lpg=PR1&amp;dq=%22Klinische+Ergebnisse%22+1846#v=onepage&amp;q&amp;f=false"><i>Klinische ergebnisse</i></a> (in German). Berlin: Albert Förstner. pp.&#160;75–81.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Krankheiten+des+nervensystems+%28IV%3A+Trophoneurosen%29&amp;rft.aufirst=MH&amp;rft.au=Henoch%2C+EH&amp;rft.aulast=Romberg&amp;rft.au=Romberg%2C+MH&amp;rft.btitle=Klinische+ergebnisse&amp;rft.date=1846&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3DMfxaAAAAQAAJ%26pg%3DPR1%26lpg%3DPR1%26dq%3D%2522Klinische%2BErgebnisse%2522%2B1846%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pages=75-81&amp;rft.place=Berlin&amp;rft.pub=Albert+F%C3%B6rstner&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Eulenburg1871-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Eulenburg1871_17-0">^</a></b></span> <span class="reference-text"><span class="citation book"><a href="/wiki/Albert_Eulenburg" title="Albert Eulenburg">Eulenburg, A</a> (1871). "Hemiatrophia facialis progressiva". <a rel="nofollow" class="external text" href="http://books.google.com/?id=_bdAAAAAYAAJ&amp;pg=PA422&amp;lpg=PA422&amp;dq=Lehrbuch+der+functionellen+Nervenkrankheiten+auf+Physiologischer+Basis#v=onepage&amp;q&amp;f=false"><i>Lehrbuch der functionellen nervenkrankheiten auf physiologischer basis</i></a> (in German). Berlin: Verlag von August Hirschwald. pp.&#160;712–26.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Hemiatrophia+facialis+progressiva&amp;rft.au=Eulenburg%2C+A&amp;rft.aufirst=A&amp;rft.aulast=Eulenburg&amp;rft.btitle=Lehrbuch+der+functionellen+nervenkrankheiten+auf+physiologischer+basis&amp;rft.date=1871&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fbooks.google.com%2F%3Fid%3D_bdAAAAAYAAJ%26pg%3DPA422%26lpg%3DPA422%26dq%3DLehrbuch%2Bder%2Bfunctionellen%2BNervenkrankheiten%2Bauf%2BPhysiologischer%2BBasis%23v%3Donepage%26q%26f%3Dfalse&amp;rft.pages=712-26&amp;rft.place=Berlin&amp;rft.pub=Verlag+von+August+Hirschwald&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-WhoNamedIt-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-WhoNamedIt_18-0">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/1285.html">synd/1285</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-Cory1997-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cory1997_19-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Cory RC, Clayman DA, Faillace WJ, McKee SW, Gama CH (1997). <a rel="nofollow" class="external text" href="http://www.ajnr.org/cgi/pmidlookup?view=long&amp;pmid=9127045">"Clinical and radiologic findings in progressive facial hemiatrophy (Parry-Romberg syndrome)"</a>. <i>AJNR Am J Neuroradiol</i> <b>18</b> (4): 751–7. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9127045">9127045</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Clinical+and+radiologic+findings+in+progressive+facial+hemiatrophy+%28Parry-Romberg+syndrome%29&amp;rft.au=Cory+RC%2C+Clayman+DA%2C+Faillace+WJ%2C+McKee+SW%2C+Gama+CH&amp;rft.aulast=Cory+RC%2C+Clayman+DA%2C+Faillace+WJ%2C+McKee+SW%2C+Gama+CH&amp;rft.date=1997&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ajnr.org%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D9127045&amp;rft_id=info%3Apmid%2F9127045&amp;rft.issue=4&amp;rft.jtitle=AJNR+Am+J+Neuroradiol&amp;rft.pages=751-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=18" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=17" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="citation journal">Karim, A; Laghmari M; Ibrahimy W; Essakali HN; Mohcine Z (2005). "Neuroretinitis, Parry-Romberg syndrome, and scleroderma". <i>Journal of French Ophthalmology</i> (in French) <b>28</b> (8): 866–70. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16249769">16249769</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Neuroretinitis%2C+Parry-Romberg+syndrome%2C+and+scleroderma&amp;rft.au=Essakali+HN&amp;rft.aufirst=A&amp;rft.au=Ibrahimy+W&amp;rft.au=Karim%2C+A&amp;rft.au=Laghmari+M&amp;rft.aulast=Karim&amp;rft.au=Mohcine+Z&amp;rft.date=2005&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F16249769&amp;rft.issue=8&amp;rft.jtitle=Journal+of+French+Ophthalmology&amp;rft.pages=866-70&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=28" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Lakhani, PK; David, TJ (1984). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1439690">"Progressive hemifacial atrophy with scleroderma and ipsilateral limb wasting (Parry-Romberg syndrome)"</a>. <i>Journal of the Royal Society of Medicine</i> <b>77</b> (2): 138–9. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1439690">1439690</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/6737396">6737396</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+hemifacial+atrophy+with+scleroderma+and+ipsilateral+limb+wasting+%28Parry-Romberg+syndrome%29&amp;rft.au=David%2C+TJ&amp;rft.aufirst=PK&amp;rft.au=Lakhani%2C+PK&amp;rft.aulast=Lakhani&amp;rft.date=1984&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1439690&amp;rft_id=info%3Apmc%2F1439690&amp;rft_id=info%3Apmid%2F6737396&amp;rft.issue=2&amp;rft.jtitle=Journal+of+the+Royal+Society+of+Medicine&amp;rft.pages=138-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=77" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Larner, AJ; Bennison, DP (1993). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC489747">"Some observations on the aetiology of progressive hemifacial atrophy ("Parry-Romberg syndrome")"</a>. <i>Journal of Neurology, Neurosurgery and Psychiatry</i> <b>56</b> (9): 1035–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fjnnp.56.9.1035-a">10.1136/jnnp.56.9.1035-a</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC489747">489747</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8410030">8410030</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Some+observations+on+the+aetiology+of+progressive+hemifacial+atrophy+%28%22Parry-Romberg+syndrome%22%29&amp;rft.au=Bennison%2C+DP&amp;rft.aufirst=AJ&amp;rft.au=Larner%2C+AJ&amp;rft.aulast=Larner&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC489747&amp;rft_id=info%3Adoi%2F10.1136%2Fjnnp.56.9.1035-a&amp;rft_id=info%3Apmc%2F489747&amp;rft_id=info%3Apmid%2F8410030&amp;rft.issue=9&amp;rft.jtitle=Journal+of+Neurology%2C+Neurosurgery+and+Psychiatry&amp;rft.pages=1035-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=56" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Miller, MT; Spencer, MA (1995). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1312058">"Progressive hemifacial atrophy. A natural history study"</a>. <i>Transactions of the American Ophthalmological Society</i> <b>93</b>: 203–15. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1312058">1312058</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8719679">8719679</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+hemifacial+atrophy.+A+natural+history+study&amp;rft.aufirst=MT&amp;rft.aulast=Miller&amp;rft.au=Miller%2C+MT&amp;rft.au=Spencer%2C+MA&amp;rft.date=1995&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1312058&amp;rft_id=info%3Apmc%2F1312058&amp;rft_id=info%3Apmid%2F8719679&amp;rft.jtitle=Transactions+of+the+American+Ophthalmological+Society&amp;rft.pages=203-15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=93" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Pinheiro, TP; Silva CC; Silveira CS; Botelho PC; Pinheiro MG; Pinheiro Jde J (2006). "Progressive Hemifacial Atrophy--case report". <i>Med Oral Patol Oral Cir Bucal</i> <b>11</b> (2): E112–4. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16505785">16505785</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+Hemifacial+Atrophy--case+report&amp;rft.au=Botelho+PC&amp;rft.aufirst=TP&amp;rft.aulast=Pinheiro&amp;rft.au=Pinheiro%2C+TP&amp;rft.au=Pinheiro+Jde+J&amp;rft.au=Pinheiro+MG&amp;rft.au=Silva+CC&amp;rft.au=Silveira+CS&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F16505785&amp;rft.issue=2&amp;rft.jtitle=Med+Oral+Patol+Oral+Cir+Bucal&amp;rft.pages=E112-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=11" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><span class="citation journal">Zafarulla, MY (1985). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1040666">"Progressive hemifacial atrophy: a case report"</a>. <i>British Journal of Ophthalmology</i> <b>69</b> (7): 545–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fbjo.69.7.545">10.1136/bjo.69.7.545</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1040666">1040666</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4016051">4016051</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AParry%E2%80%93Romberg+syndrome&amp;rft.atitle=Progressive+hemifacial+atrophy%3A+a+case+report&amp;rft.aufirst=MY&amp;rft.aulast=Zafarulla&amp;rft.au=Zafarulla%2C+MY&amp;rft.date=1985&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1040666&amp;rft_id=info%3Adoi%2F10.1136%2Fbjo.69.7.545&amp;rft_id=info%3Apmc%2F1040666&amp;rft_id=info%3Apmid%2F4016051&amp;rft.issue=7&amp;rft.jtitle=British+Journal+of+Ophthalmology&amp;rft.pages=545-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=69" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://rarediseases.info.nih.gov/GARD/Disease.aspx?PageID=4&amp;diseaseID=7338">Progressive hemifacial atrophy; Parry-Romberg syndrome</a> at <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">NIH</a>'s Office of <a href="/wiki/Rare_disease" title="Rare disease">Rare Diseases</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.therombergsconnection.com/index.html">The Romberg's Connection</a>: an international support group for individuals and families whose lives are affected by Parry–Romberg syndrome</li>
+<li><a rel="nofollow" class="external text" href="http://www.prsresource.com">Parry-Romberg Syndrome Resource</a>: a nonprofit organization dedicated to providing awareness of Parry-Romberg Disease</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:PNS_diseases_of_the_nervous_system" title="Template:PNS diseases of the nervous system"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:PNS_diseases_of_the_nervous_system" title="Template talk:PNS diseases of the nervous system"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:PNS_diseases_of_the_nervous_system&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Nervous_system" title="Nervous system">Nervous system</a> <a href="/wiki/Pathology" title="Pathology">pathology</a>, <a href="/wiki/Peripheral_neuropathy" title="Peripheral neuropathy">PNS</a>, <a href="/wiki/Somatic_nervous_system" title="Somatic nervous system">somatic</a> (<a href="/wiki/ICD-10_Chapter_VI:_Diseases_of_the_nervous_system#.28G50.E2.80.93G59.29_Nerve.2C_nerve_root_and_plexus_disorders" title="ICD-10 Chapter VI: Diseases of the nervous system">G50–G64</a>, <a href="/wiki/List_of_ICD-9_codes_320%E2%80%93359:_diseases_of_the_nervous_system#Disorders_of_the_peripheral_nervous_system_.28350.E2.80.93359.29" title="List of ICD-9 codes 320–359: diseases of the nervous system">350–357</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";padding-left: 0.5em; padding-right: 0.75em"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Nervous_system" title="Nervous system">Nerve</a>, nerve root, <a href="/wiki/Plexus" title="Plexus">plexus</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Cranial_nerve_disease" title="Cranial nerve disease">Cranial nerve<br />
+disease</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Trigeminal_nerve" title="Trigeminal nerve">V</a></i> <a href="/wiki/Trigeminal_neuralgia" title="Trigeminal neuralgia">Trigeminal neuralgia</a></li>
+<li><a href="/wiki/Anesthesia_dolorosa" title="Anesthesia dolorosa">Anesthesia dolorosa</a></li>
+<li><i><a href="/wiki/Facial_nerve" title="Facial nerve">VII</a></i> <a href="/wiki/Facial_nerve_paralysis" title="Facial nerve paralysis">Facial nerve paralysis</a></li>
+<li><a href="/wiki/Bell%27s_palsy" title="Bell's palsy">Bell's palsy</a></li>
+<li><a href="/wiki/Melkersson%E2%80%93Rosenthal_syndrome" title="Melkersson–Rosenthal syndrome">Melkersson–Rosenthal syndrome</a></li>
+<li><strong class="selflink">Parry–Romberg syndrome</strong></li>
+<li><a href="/wiki/Central_facial_palsy" title="Central facial palsy">Central seven</a></li>
+<li><i><a href="/wiki/Accessory_nerve" title="Accessory nerve">XI</a></i> <a href="/wiki/Accessory_nerve_disorder" title="Accessory nerve disorder">Accessory nerve disorder</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Radiculopathy" title="Radiculopathy">Radiculopathy</a>,<br />
+<a href="/wiki/Plexopathy" title="Plexopathy">plexopathy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Brachial_plexus" title="Brachial plexus">brachial plexus</a></i> <a href="/wiki/Brachial_plexus_injury" title="Brachial plexus injury">Brachial plexus lesion</a></li>
+<li><a href="/wiki/Thoracic_outlet_syndrome" title="Thoracic outlet syndrome">Thoracic outlet syndrome</a></li>
+<li><a href="/wiki/Phantom_limb" title="Phantom limb">Phantom limb</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mononeuropathy" title="Mononeuropathy" class="mw-redirect">Mono-</a><br />
+<a href="/wiki/Neuropathy" title="Neuropathy" class="mw-redirect">neuropathy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Upper_limb" title="Upper limb">Upper limb</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Median_nerve" title="Median nerve">median nerve</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carpal_tunnel_syndrome" title="Carpal tunnel syndrome">Carpal tunnel syndrome</a></li>
+<li><a href="/wiki/Ape_hand_deformity" title="Ape hand deformity">Ape hand deformity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Ulnar_nerve" title="Ulnar nerve">ulnar nerve</a>:</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ulnar_nerve_entrapment" title="Ulnar nerve entrapment">Ulnar nerve entrapment</a></li>
+<li><a href="/wiki/Froment%27s_sign" title="Froment's sign">Froment's sign</a></li>
+<li><a href="/wiki/Guyon%27s_canal_syndrome" title="Guyon's canal syndrome" class="mw-redirect">Guyon's canal syndrome</a></li>
+<li><a href="/wiki/Ulnar_claw" title="Ulnar claw">Ulnar claw</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Radial_nerve" title="Radial nerve">radial nerve</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Radial_neuropathy" title="Radial neuropathy">Radial neuropathy</a></li>
+<li><a href="/wiki/Wrist_drop" title="Wrist drop">Wrist drop</a></li>
+<li><a href="/wiki/Cheiralgia_paresthetica" title="Cheiralgia paresthetica">Cheiralgia paresthetica</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Long_thoracic_nerve" title="Long thoracic nerve">long thoracic nerve</a>:</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winged_scapula" title="Winged scapula">Winged scapula</a></li>
+<li><a href="/wiki/Backpack_palsy" title="Backpack palsy">Backpack palsy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Lower_limb" title="Lower limb" class="mw-redirect">Lower limb</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Lateral_cutaneous_nerve_of_thigh" title="Lateral cutaneous nerve of thigh">lateral cutaneous nerve of thigh</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Meralgia_paraesthetica" title="Meralgia paraesthetica">Meralgia paraesthetica</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Tibial_nerve" title="Tibial nerve">tibial nerve</a>:</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tarsal_tunnel_syndrome" title="Tarsal tunnel syndrome">Tarsal tunnel syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Plantar_nerve" title="Plantar nerve">plantar nerve</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Morton%27s_neuroma" title="Morton's neuroma">Morton's neuroma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Superior_gluteal_nerve" title="Superior gluteal nerve">superior gluteal nerve</a>:</i></span></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Trendelenburg%27s_sign" title="Trendelenburg's sign">Trendelenburg's sign</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><span style="font-weight:normal;"><i><a href="/wiki/Sciatic_nerve" title="Sciatic nerve">sciatic nerve</a>:</i></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Piriformis_syndrome" title="Piriformis syndrome">Piriformis syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Complex_regional_pain_syndrome" title="Complex regional pain syndrome">Causalgia</a></li>
+<li><a href="/wiki/Mononeuritis_multiplex" title="Mononeuritis multiplex" class="mw-redirect">Mononeuritis multiplex</a></li>
+<li><a href="/wiki/Peripheral_neuropathy" title="Peripheral neuropathy">Neuropathy</a> <a href="/wiki/Neuralgia" title="Neuralgia">Neuralgia</a>/<a href="/wiki/Peripheral_neuropathy" title="Peripheral neuropathy">Neuritis</a></li>
+<li><a href="/wiki/Nerve_compression_syndrome" title="Nerve compression syndrome">Nerve compression syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible uncollapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";padding-left: 0.5em; padding-right: 0.75em"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Polyneuropathy" title="Polyneuropathy">Polyneuropathies</a>/<a href="/wiki/Polyradiculoneuropathy" title="Polyradiculoneuropathy">Polyradiculoneuropathy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hereditary_motor_and_sensory_neuropathy" title="Hereditary motor and sensory neuropathy">HMSN</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease</a></li>
+<li><a href="/wiki/Dejerine%E2%80%93Sottas_disease" title="Dejerine–Sottas disease">Dejerine–Sottas disease</a></li>
+<li><a href="/wiki/Refsum_disease" title="Refsum disease">Refsum's disease</a></li>
+<li><a href="/wiki/Hereditary_spastic_paraplegia" title="Hereditary spastic paraplegia">Hereditary spastic paraplegia</a></li>
+<li><a href="/wiki/Hereditary_neuropathy_with_liability_to_pressure_palsy" title="Hereditary neuropathy with liability to pressure palsy">Hereditary neuropathy with liability to pressure palsy</a></li>
+<li><a href="/wiki/Familial_amyloid_neuropathy" title="Familial amyloid neuropathy">Familial amyloid neuropathy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Autoimmunity" title="Autoimmunity">Autoimmune</a>/<a href="/wiki/Demyelinating_disease" title="Demyelinating disease">demyelinating</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Guillain%E2%80%93Barr%C3%A9_syndrome" title="Guillain–Barré syndrome">Guillain–Barré syndrome</a></li>
+<li><a href="/wiki/Chronic_inflammatory_demyelinating_polyneuropathy" title="Chronic inflammatory demyelinating polyneuropathy">Chronic inflammatory demyelinating polyneuropathy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alcoholic_polyneuropathy" title="Alcoholic polyneuropathy">Alcoholic polyneuropathy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Peripheral_nervous_system_navs" title="Template:Peripheral nervous system navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Peripheral_nervous_system_navs" title="Template talk:Peripheral nervous system navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Peripheral_nervous_system_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Peripheral_nervous_system" title="Peripheral nervous system">peripheral nervous system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Nervous_system" title="Template:Nervous system">Anatomy</a></li>
+<li><a href="/wiki/Template:Nervous_tissue" title="Template:Nervous tissue">Nerves</a>
+<ul>
+<li><a href="/wiki/Template:Cranial_nerves" title="Template:Cranial nerves">cranial</a></li>
+<li><a href="/wiki/Template:Trigeminal_nerve" title="Template:Trigeminal nerve">trigeminal</a></li>
+<li><a href="/wiki/Template:Cervical_plexus" title="Template:Cervical plexus">cervical</a></li>
+<li><a href="/wiki/Template:Brachial_plexus" title="Template:Brachial plexus">brachial</a></li>
+<li><a href="/wiki/Template:Lumbosacral_plexus" title="Template:Lumbosacral plexus">lumbosacral plexus</a></li>
+<li><a href="/wiki/Template:Somatosensory_system" title="Template:Somatosensory system">somatosensory</a></li>
+<li><a href="/wiki/Template:Spinal_nerves" title="Template:Spinal nerves">spinal</a></li>
+<li><a href="/wiki/Template:Autonomic_nervous_system" title="Template:Autonomic nervous system">autonomic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nervous_system_physiology" title="Template:Nervous system physiology">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Reflex" title="Template:Reflex">reflexes</a></li>
+<li><a href="/wiki/Template:Nerve_tissue_protein" title="Template:Nerve tissue protein">proteins</a></li>
+<li><a href="/wiki/Template:Neurotransmitters" title="Template:Neurotransmitters">neurotransmitters</a></li>
+<li><a href="/wiki/Template:Neurotransmitter_transporters" title="Template:Neurotransmitter transporters">transporters</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Development_of_nervous_system" title="Template:Development of nervous system">Development</a>
+<ul>
+<li><a href="/wiki/Template:Neurotrophins" title="Template:Neurotrophins">neurotrophins</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Autonomic_diseases" title="Template:Autonomic diseases">Autonomic</a></li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_nervous_system" title="Template:Congenital malformations and deformations of nervous system">Congenital</a></li>
+<li><a href="/wiki/Template:Neurotrauma" title="Template:Neurotrauma">Injury</a></li>
+<li><a href="/wiki/Template:Nervous_system_tumors" title="Template:Nervous system tumors">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:PNS_diseases_of_the_nervous_system" title="Template:PNS diseases of the nervous system">Other</a></li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_nervous_system" title="Template:Eponymous medical signs for nervous system">eponymous</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Neuro_procedures" title="Template:Neuro procedures">Procedures</a></li>
+<li><a href="/wiki/Template:Local_anesthetics" title="Template:Local anesthetics">Local anesthetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autoexpand navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Oral_pathology" title="Template:Oral pathology"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Oral_pathology" title="Template talk:Oral pathology"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Oral_pathology&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Oral_and_maxillofacial_pathology" title="Oral and maxillofacial pathology">Oral and maxillofacial pathology</a> (<a href="/wiki/ICD-10_Chapter_XI:_Diseases_of_the_digestive_system#.28K00.E2.80.93K14.29_Diseases_of_oral_cavity.2C_salivary_glands_and_jaws" title="ICD-10 Chapter XI: Diseases of the digestive system">K00–K06, K11–K14</a>, <a href="/wiki/List_of_ICD-9_codes_520%E2%80%93579:_diseases_of_the_digestive_system#Diseases_of_oral_cavity.2C_salivary_glands.2C_and_jaws_.28520.E2.80.93529.29" title="List of ICD-9 codes 520–579: diseases of the digestive system">520–525, 527–529</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Lip" title="Lip">Lips</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cheilitis" title="Cheilitis">Cheilitis</a>
+<ul>
+<li><a href="/wiki/Actinic_cheilitis" title="Actinic cheilitis">Actinic</a></li>
+<li><a href="/wiki/Angular_cheilitis" title="Angular cheilitis">Angular</a></li>
+<li><a href="/wiki/Plasma_cell_gingivitis" title="Plasma cell gingivitis">Plasma cell</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cleft_lip" title="Cleft lip" class="mw-redirect">Cleft lip</a></li>
+<li><a href="/wiki/Congenital_lip_pit" title="Congenital lip pit">Congenital lip pit</a></li>
+<li><a href="/wiki/Eclabium" title="Eclabium">Eclabium</a></li>
+<li><a href="/wiki/Herpes_labialis" title="Herpes labialis">Herpes labialis</a></li>
+<li><a href="/wiki/Macrocheilia" title="Macrocheilia">Macrocheilia</a></li>
+<li><a href="/wiki/Microcheilia" title="Microcheilia">Microcheilia</a></li>
+<li><a href="/wiki/Nasolabial_cyst" title="Nasolabial cyst">Nasolabial cyst</a></li>
+<li><a href="/wiki/Sun_poisoning" title="Sun poisoning" class="mw-redirect">Sun poisoning</a></li>
+<li><a href="/wiki/Trumpeter%27s_wart" title="Trumpeter's wart">Trumpeter's wart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Tongue_disease" title="Tongue disease">Tongue</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ankyloglossia" title="Ankyloglossia">Ankyloglossia</a></li>
+<li><a href="/wiki/Black_hairy_tongue" title="Black hairy tongue">Black hairy tongue</a></li>
+<li><a href="/wiki/Caviar_tongue" title="Caviar tongue">Caviar tongue</a></li>
+<li><a href="/wiki/Crenated_tongue" title="Crenated tongue">Crenated tongue</a></li>
+<li><a href="/wiki/Cunnilingus_tongue" title="Cunnilingus tongue">Cunnilingus tongue</a></li>
+<li><a href="/wiki/Fissured_tongue" title="Fissured tongue">Fissured tongue</a></li>
+<li><a href="/wiki/Foliate_papillitis" title="Foliate papillitis" class="mw-redirect">Foliate papillitis</a></li>
+<li><a href="/wiki/Glossitis" title="Glossitis">Glossitis</a>
+<ul>
+<li><a href="/wiki/Geographic_tongue" title="Geographic tongue">Geographic tongue</a></li>
+<li><a href="/wiki/Median_rhomboid_glossitis" title="Median rhomboid glossitis">Median rhomboid glossitis</a></li>
+<li><a href="/wiki/Transient_lingual_papillitis" title="Transient lingual papillitis">Transient lingual papillitis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Glossoptosis" title="Glossoptosis">Glossoptosis</a></li>
+<li><a href="/wiki/Hypoglossia" title="Hypoglossia">Hypoglossia</a></li>
+<li><a href="/wiki/Thyroid_dysgenesis" title="Thyroid dysgenesis">Lingual thyroid</a></li>
+<li><a href="/wiki/Macroglossia" title="Macroglossia">Macroglossia</a></li>
+<li><a href="/w/index.php?title=Microglossia&amp;action=edit&amp;redlink=1" class="new" title="Microglossia (page does not exist)">Microglossia</a></li>
+<li><a href="/wiki/Rhabdomyoma" title="Rhabdomyoma">Rhabdomyoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Palate</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bednar%27s_aphthae" title="Bednar's aphthae">Bednar's aphthae</a></li>
+<li><a href="/wiki/Cleft_palate" title="Cleft palate" class="mw-redirect">Cleft palate</a></li>
+<li><a href="/wiki/High-arched_palate" title="High-arched palate">High-arched palate</a></li>
+<li><a href="/wiki/Palatal_cysts_of_the_newborn" title="Palatal cysts of the newborn">Palatal cysts of the newborn</a></li>
+<li><a href="/wiki/Inflammatory_papillary_hyperplasia" title="Inflammatory papillary hyperplasia">Inflammatory papillary hyperplasia</a></li>
+<li><a href="/wiki/Stomatitis_nicotina" title="Stomatitis nicotina">Stomatitis nicotina</a></li>
+<li><a href="/wiki/Torus_palatinus" title="Torus palatinus">Torus palatinus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Oral_mucosa" title="Oral mucosa">Oral mucosa</a> - <i>Lining of mouth</i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amalgam_tattoo" title="Amalgam tattoo">Amalgam tattoo</a></li>
+<li><a href="/wiki/Angina_bullosa_haemorrhagica" title="Angina bullosa haemorrhagica">Angina bullosa haemorrhagica</a></li>
+<li><a href="/wiki/Beh%C3%A7et%27s_disease" title="Behçet's disease">Behçet syndrome</a></li>
+<li><a href="/wiki/Bohn%27s_nodules" title="Bohn's nodules">Bohn's nodules</a></li>
+<li><a href="/wiki/Burning_mouth_syndrome" title="Burning mouth syndrome">Burning mouth syndrome</a></li>
+<li><a href="/wiki/Oral_candidiasis" title="Oral candidiasis">Candidiasis</a></li>
+<li><a href="/wiki/Condyloma_acuminatum" title="Condyloma acuminatum" class="mw-redirect">Condyloma acuminatum</a></li>
+<li><a href="/wiki/Darier%27s_disease" title="Darier's disease">Darier's disease</a></li>
+<li><a href="/wiki/Epulis_fissuratum" title="Epulis fissuratum">Epulis fissuratum</a></li>
+<li><a href="/wiki/Erythema_multiforme" title="Erythema multiforme">Erythema multiforme</a></li>
+<li><a href="/wiki/Erythroplakia" title="Erythroplakia">Erythroplakia</a></li>
+<li><a href="/wiki/Fibroma" title="Fibroma">Fibroma</a>
+<ul>
+<li><a href="/wiki/Giant-cell_fibroma" title="Giant-cell fibroma">Giant-cell</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Focal_epithelial_hyperplasia" title="Focal epithelial hyperplasia" class="mw-redirect">Focal epithelial hyperplasia</a></li>
+<li><a href="/wiki/Fordyce_spots" title="Fordyce spots">Fordyce spots</a></li>
+<li><a href="/wiki/Hairy_leukoplakia" title="Hairy leukoplakia">Hairy leukoplakia</a></li>
+<li><a href="/wiki/Hand,_foot_and_mouth_disease" title="Hand, foot and mouth disease">Hand, foot and mouth disease</a></li>
+<li><a href="/wiki/Hereditary_benign_intraepithelial_dyskeratosis" title="Hereditary benign intraepithelial dyskeratosis">Hereditary benign intraepithelial dyskeratosis</a></li>
+<li><a href="/wiki/Herpangina" title="Herpangina">Herpangina</a></li>
+<li><a href="/wiki/Herpes_zoster" title="Herpes zoster" class="mw-redirect">Herpes zoster</a></li>
+<li><a href="/wiki/Intraoral_dental_sinus" title="Intraoral dental sinus">Intraoral dental sinus</a></li>
+<li><a href="/wiki/Leukoedema" title="Leukoedema">Leukoedema</a></li>
+<li><a href="/wiki/Leukoplakia" title="Leukoplakia">Leukoplakia</a></li>
+<li><a href="/wiki/Lichen_planus" title="Lichen planus">Lichen planus</a></li>
+<li><a href="/wiki/Linea_alba_(cheek)" title="Linea alba (cheek)">Linea alba</a></li>
+<li><a href="/wiki/Lupus_erythematosus" title="Lupus erythematosus">Lupus erythematosus</a></li>
+<li><a href="/wiki/Melanocytic_nevus" title="Melanocytic nevus">Melanocytic nevus</a></li>
+<li><a href="/wiki/Melanocytic_oral_lesion" title="Melanocytic oral lesion">Melanocytic oral lesion</a></li>
+<li><a href="/wiki/Molluscum_contagiosum" title="Molluscum contagiosum">Molluscum contagiosum</a></li>
+<li><a href="/wiki/Morsicatio_buccarum" title="Morsicatio buccarum">Morsicatio buccarum</a></li>
+<li><a href="/wiki/Oral_cancer" title="Oral cancer">Oral cancer</a>
+<ul>
+<li><i>Benign:</i> <a href="/wiki/Squamous_cell_papilloma" title="Squamous cell papilloma">Squamous cell papilloma</a></li>
+<li><a href="/wiki/Keratoacanthoma" title="Keratoacanthoma">Keratoacanthoma</a></li>
+<li><i>Malignant:</i> <a href="/wiki/Adenosquamous_carcinoma" title="Adenosquamous carcinoma">Adenosquamous carcinoma</a></li>
+<li><a href="/w/index.php?title=Basaloid_squamous_carcinoma&amp;action=edit&amp;redlink=1" class="new" title="Basaloid squamous carcinoma (page does not exist)">Basaloid squamous carcinoma</a></li>
+<li><a href="/wiki/Mucosal_melanoma" title="Mucosal melanoma">Mucosal melanoma</a></li>
+<li><a href="/wiki/Spindle_cell_carcinoma" title="Spindle cell carcinoma">Spindle cell carcinoma</a></li>
+<li><a href="/wiki/Squamous_cell_carcinoma" title="Squamous cell carcinoma" class="mw-redirect">Squamous cell carcinoma</a></li>
+<li><a href="/wiki/Verrucous_carcinoma" title="Verrucous carcinoma">Verrucous carcinoma</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Oral_florid_papillomatosis" title="Oral florid papillomatosis">Oral florid papillomatosis</a></li>
+<li><a href="/wiki/Oral_melanosis" title="Oral melanosis">Oral melanosis</a></li>
+<li><a href="/wiki/Pemphigoid" title="Pemphigoid">Pemphigoid</a>
+<ul>
+<li><a href="/wiki/Benign_mucous_membrane_pemphigoid" title="Benign mucous membrane pemphigoid" class="mw-redirect">Benign mucous membrane</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pemphigus" title="Pemphigus">Pemphigus</a></li>
+<li><a href="/wiki/Plasmoacanthoma" title="Plasmoacanthoma">Plasmoacanthoma</a></li>
+<li><a href="/wiki/Stomatitis" title="Stomatitis">Stomatitis</a>
+<ul>
+<li><a href="/wiki/Aphthous_stomatitis" title="Aphthous stomatitis">Aphthous</a></li>
+<li><a href="/wiki/Denture-related_stomatitis" title="Denture-related stomatitis">Denture-related</a></li>
+<li><a href="/wiki/Herpetic_gingivostomatitis" title="Herpetic gingivostomatitis">Herpetic</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Smokeless_tobacco_keratosis&amp;action=edit&amp;redlink=1" class="new" title="Smokeless tobacco keratosis (page does not exist)">Smokeless tobacco keratosis</a></li>
+<li><a href="/wiki/Oral_submucous_fibrosis" title="Oral submucous fibrosis">Submucous fibrosis</a></li>
+<li><a href="/wiki/Mouth_ulcer" title="Mouth ulcer">Ulceration</a></li>
+<li><a href="/wiki/Verruca_vulgaris" title="Verruca vulgaris" class="mw-redirect">Verruca vulgaris</a></li>
+<li><a href="/wiki/Verruciform_xanthoma" title="Verruciform xanthoma">Verruciform xanthoma</a></li>
+<li><a href="/wiki/White_sponge_nevus" title="White sponge nevus">White sponge nevus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Tooth_pathology" title="Tooth pathology">Teeth</a> (<a href="/wiki/Pulp_(tooth)" title="Pulp (tooth)">pulp</a>, <a href="/wiki/Dentin" title="Dentin">dentin</a>, <a href="/wiki/Tooth_enamel" title="Tooth enamel">enamel</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amelogenesis_imperfecta" title="Amelogenesis imperfecta">Amelogenesis imperfecta</a></li>
+<li><a href="/wiki/Anodontia" title="Anodontia">Anodontia</a></li>
+<li><a href="/wiki/Dental_caries" title="Dental caries">Caries</a>
+<ul>
+<li><a href="/wiki/Early_childhood_caries" title="Early childhood caries">Early childhood caries</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Concrescence" title="Concrescence">Concrescence</a></li>
+<li><a href="/w/index.php?title=Delayed_eruption&amp;action=edit&amp;redlink=1" class="new" title="Delayed eruption (page does not exist)">Delayed eruption</a></li>
+<li><a href="/wiki/Dens_evaginatus" title="Dens evaginatus">Dens evaginatus</a>
+<ul>
+<li><a href="/wiki/Talon_cusp" title="Talon cusp">Talon cusp</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Dentin_dysplasia" title="Dentin dysplasia">Dentin dysplasia</a></li>
+<li><a href="/wiki/Dentin_hypersensitivity" title="Dentin hypersensitivity">Dentin hypersensitivity</a></li>
+<li><a href="/wiki/Dentinogenesis_imperfecta" title="Dentinogenesis imperfecta">Dentinogenesis imperfecta</a></li>
+<li><a href="/wiki/Dilaceration" title="Dilaceration">Dilaceration</a></li>
+<li><a href="/wiki/Ectopic_enamel" title="Ectopic enamel">Ectopic enamel</a></li>
+<li><a href="/wiki/Enamel_hypocalcification" title="Enamel hypocalcification">Enamel hypocalcification</a></li>
+<li><a href="/wiki/Enamel_hypoplasia" title="Enamel hypoplasia">Enamel hypoplasia</a>
+<ul>
+<li><a href="/wiki/Turner%27s_hypoplasia" title="Turner's hypoplasia">Turner's hypoplasia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Enamel_pearl" title="Enamel pearl">Enamel pearl</a></li>
+<li><a href="/wiki/Dental_fluorosis" title="Dental fluorosis">Fluorosis</a></li>
+<li><a href="/wiki/Tooth_fusion" title="Tooth fusion">Fusion</a></li>
+<li><a href="/wiki/Tooth_gemination" title="Tooth gemination">Gemination</a></li>
+<li><a href="/wiki/Hyperdontia" title="Hyperdontia">Hyperdontia</a></li>
+<li><a href="/wiki/Hypodontia" title="Hypodontia">Hypodontia</a></li>
+<li><a href="/wiki/Tooth_impaction" title="Tooth impaction">Impaction</a>
+<ul>
+<li><a href="/wiki/Impacted_wisdom_teeth" title="Impacted wisdom teeth">Wisdom tooth impaction</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Macrodontia_(tooth)" title="Macrodontia (tooth)">Macrodontia</a></li>
+<li><a href="/wiki/Meth_mouth" title="Meth mouth">Meth mouth</a></li>
+<li><a href="/wiki/Microdontia" title="Microdontia">Microdontia</a></li>
+<li><a href="/wiki/Odontogenic_tumor" title="Odontogenic tumor">Odontogenic tumors</a>
+<ul>
+<li><a href="/wiki/Keratocystic_odontogenic_tumour" title="Keratocystic odontogenic tumour">Keratocystic odontogenic tumour</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Odontoma" title="Odontoma">Odontoma</a>
+<ul>
+<li><a href="/wiki/Dens_invaginatus" title="Dens invaginatus">Dens in dente</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Open_contact" title="Open contact">Open contact</a></li>
+<li><a href="/w/index.php?title=Premature_eruption&amp;action=edit&amp;redlink=1" class="new" title="Premature eruption (page does not exist)">Premature eruption</a>
+<ul>
+<li><a href="/wiki/Neonatal_teeth" title="Neonatal teeth">Neonatal teeth</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Pulp_calcification&amp;action=edit&amp;redlink=1" class="new" title="Pulp calcification (page does not exist)">Pulp calcification</a>
+<ul>
+<li><a href="/wiki/Pulp_stone_(tooth)" title="Pulp stone (tooth)">Pulp stone</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pulp_necrosis" title="Pulp necrosis">Pulp necrosis</a></li>
+<li><a href="/wiki/Pulp_polyp" title="Pulp polyp">Pulp polyp</a></li>
+<li><a href="/wiki/Pulpitis" title="Pulpitis">Pulpitis</a></li>
+<li><a href="/wiki/Regional_odontodysplasia" title="Regional odontodysplasia">Regional odontodysplasia</a></li>
+<li><a href="/wiki/Tooth_resorption" title="Tooth resorption">Resorption</a></li>
+<li><a href="/wiki/Supernumerary_root" title="Supernumerary root">Supernumerary root</a></li>
+<li><a href="/wiki/Taurodontism" title="Taurodontism">Taurodontism</a></li>
+<li><a href="/wiki/Dental_trauma" title="Dental trauma">Trauma</a>
+<ul>
+<li><a href="/wiki/Dental_avulsion" title="Dental avulsion">Avulsion</a></li>
+<li><a href="/wiki/Cracked_tooth_syndrome" title="Cracked tooth syndrome">Cracked tooth syndrome</a></li>
+<li><a href="/wiki/Vertical_root_fracture" title="Vertical root fracture">Vertical root fracture</a></li>
+<li><a href="/wiki/Occlusal_trauma" title="Occlusal trauma">Occlusal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tooth_loss" title="Tooth loss">Tooth loss</a>
+<ul>
+<li><a href="/wiki/Edentulism" title="Edentulism">Edentulism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Tooth_wear" title="Tooth wear">Tooth wear</a>
+<ul>
+<li><a href="/wiki/Abrasion_(dental)" title="Abrasion (dental)">Abrasion</a></li>
+<li><a href="/wiki/Abfraction" title="Abfraction">Abfraction</a></li>
+<li><a href="/wiki/Acid_erosion" title="Acid erosion">Acid erosion</a></li>
+<li><a href="/wiki/Attrition_(dental)" title="Attrition (dental)">Attrition</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Periodontal_pathology" title="Periodontal pathology">Periodontium</a> (<a href="/wiki/Gingiva" title="Gingiva">gingiva</a>, <a href="/wiki/Periodontal_ligament" title="Periodontal ligament" class="mw-redirect">Periodontal ligament</a>, <a href="/wiki/Cementum" title="Cementum">cementum</a>, <a href="/wiki/Alveolus" title="Alveolus" class="mw-redirect">alveolus</a>) - <i>Gums and tooth supporting structures</i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cementoblastoma" title="Cementoblastoma">Cementoblastoma</a>
+<ul>
+<li><a href="/wiki/Gigantiform_cementoma" title="Gigantiform cementoma">Gigantiform</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Cementoma" title="Cementoma">Cementoma</a></li>
+<li><a href="/wiki/Eruption_cyst" title="Eruption cyst">Eruption cyst</a></li>
+<li><a href="/wiki/Epulis" title="Epulis">Epulis</a>
+<ul>
+<li><a href="/wiki/Pyogenic_granuloma" title="Pyogenic granuloma">Pyogenic granuloma</a></li>
+<li><a href="/wiki/Congenital_epulis" title="Congenital epulis">Congenital epulis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gingival_enlargement" title="Gingival enlargement">Gingival enlargement</a></li>
+<li><a href="/wiki/Gingival_cyst_of_the_adult" title="Gingival cyst of the adult">Gingival cyst of the adult</a></li>
+<li><a href="/wiki/Gingival_cyst_of_the_newborn" title="Gingival cyst of the newborn">Gingival cyst of the newborn</a></li>
+<li><a href="/wiki/Gingivitis" title="Gingivitis">Gingivitis</a>
+<ul>
+<li><a href="/wiki/Desquamative_gingivitis" title="Desquamative gingivitis">Desquamative</a></li>
+<li><a href="/w/index.php?title=Granulomatous_gingivitis&amp;action=edit&amp;redlink=1" class="new" title="Granulomatous gingivitis (page does not exist)">Granulomatous</a></li>
+<li><a href="/wiki/Plasma_cell_gingivitis" title="Plasma cell gingivitis">Plasma cell</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hereditary_gingival_fibromatosis" title="Hereditary gingival fibromatosis">Hereditary gingival fibromatosis</a></li>
+<li><a href="/wiki/Hypercementosis" title="Hypercementosis">Hypercementosis</a></li>
+<li><a href="/wiki/Hypocementosis" title="Hypocementosis">Hypocementosis</a></li>
+<li><a href="/wiki/Linear_gingival_erythema" title="Linear gingival erythema">Linear gingival erythema</a></li>
+<li><a href="/wiki/Necrotizing_periodontal_diseases" title="Necrotizing periodontal diseases">Necrotizing periodontal diseases</a>
+<ul>
+<li><a href="/wiki/Acute_necrotizing_ulcerative_gingivitis" title="Acute necrotizing ulcerative gingivitis">Acute necrotizing ulcerative gingivitis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pericoronitis" title="Pericoronitis">Pericoronitis</a></li>
+<li><a href="/wiki/Periodontal_abscess" title="Periodontal abscess">Periodontal abscess</a></li>
+<li><a href="/w/index.php?title=Periodontal_trauma&amp;action=edit&amp;redlink=1" class="new" title="Periodontal trauma (page does not exist)">Periodontal trauma</a></li>
+<li><a href="/wiki/Periodontitis" title="Periodontitis">Periodontitis</a>
+<ul>
+<li><a href="/wiki/Aggressive_periodontitis" title="Aggressive periodontitis">Aggressive</a></li>
+<li><a href="/wiki/Periodontitis_as_a_manifestation_of_systemic_disease" title="Periodontitis as a manifestation of systemic disease">As a manifestation of systemic disease</a></li>
+<li><a href="/wiki/Chronic_periodontitis" title="Chronic periodontitis">Chronic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Combined_periodontic-endodontic_lesions" title="Combined periodontic-endodontic lesions">Perio-endo lesion</a></li>
+<li><a href="/wiki/Teething" title="Teething">Teething</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Periapaical, <a href="/wiki/Mandible" title="Mandible">mandibular</a> and <a href="/wiki/Maxilla" title="Maxilla">maxillary</a> hard tissues - <i>Bones of jaws</i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agnathia" title="Agnathia">Agnathia</a></li>
+<li><a href="/wiki/Alveolar_osteitis" title="Alveolar osteitis">Alveolar osteitis</a></li>
+<li><a href="/wiki/Cherubism" title="Cherubism">Cherubism</a></li>
+<li><a href="/wiki/Idiopathic_osteosclerosis" title="Idiopathic osteosclerosis">Idiopathic osteosclerosis</a></li>
+<li><a href="/wiki/Mandibular_fracture" title="Mandibular fracture">Mandibular fracture</a></li>
+<li><a href="/wiki/Microgenia" title="Microgenia">Microgenia</a></li>
+<li><a href="/wiki/Micrognathia" title="Micrognathia" class="mw-redirect">Micrognathia</a></li>
+<li><a href="/wiki/Cysts_of_the_jaws" title="Cysts of the jaws">Intraosseous cysts</a>
+<ul>
+<li><i><a href="/wiki/Odontogenic_cyst" title="Odontogenic cyst">Odontogenic</a>:</i> <a href="/wiki/Periapical_cyst" title="Periapical cyst">periapical</a></li>
+<li><a href="/wiki/Dentigerous_cyst" title="Dentigerous cyst">Dentigerous</a></li>
+<li><a href="/wiki/Buccal_bifurcation_cyst" title="Buccal bifurcation cyst">Buccal bifurcation</a></li>
+<li><a href="/wiki/Lateral_periodontal_cyst" title="Lateral periodontal cyst">Lateral periodontal</a></li>
+<li><a href="/wiki/Globulomaxillary_cyst" title="Globulomaxillary cyst">Globulomaxillary</a></li>
+<li><a href="/wiki/Calcifying_odontogenic_cyst" title="Calcifying odontogenic cyst">Calcifying odontogenic</a></li>
+<li><a href="/wiki/Glandular_odontogenic_cyst" title="Glandular odontogenic cyst">Glandular odontogenic</a></li>
+<li><i>Non-odontogenic:</i> <a href="/wiki/Nasopalatine_duct_cyst" title="Nasopalatine duct cyst">Nasopalatine duct</a></li>
+<li><a href="/wiki/Median_mandibular_cyst" title="Median mandibular cyst">Median mandibular</a></li>
+<li><a href="/wiki/Median_palatal_cyst" title="Median palatal cyst">Median palatal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Osteomyelitis_of_the_jaws" title="Osteomyelitis of the jaws">Osteomyelitis</a></li>
+<li><a href="/wiki/Osteonecrosis_of_the_jaw" title="Osteonecrosis of the jaw">Osteonecrosis</a>
+<ul>
+<li><a href="/wiki/Bisphosphonate-associated_osteonecrosis_of_the_jaw" title="Bisphosphonate-associated osteonecrosis of the jaw">Bisphosphonate-associated</a></li>
+<li><a href="/wiki/Neuralgia-inducing_cavitational_osteonecrosis" title="Neuralgia-inducing cavitational osteonecrosis">Neuralgia-inducing cavitational osteonecrosis</a></li>
+<li><a href="/wiki/Osteoradionecrosis" title="Osteoradionecrosis">Osteoradionecrosis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Paget%27s_disease_of_bone" title="Paget's disease of bone">Paget's disease of bone</a></li>
+<li><a href="/wiki/Dental_abscess" title="Dental abscess">Periapical abscess</a>
+<ul>
+<li><a href="/wiki/Phoenix_abscess" title="Phoenix abscess">Phoenix abscess</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Periapical_periodontitis" title="Periapical periodontitis">Periapical periodontitis</a></li>
+<li><a href="/wiki/Stafne_defect" title="Stafne defect">Stafne defect</a></li>
+<li><a href="/wiki/Torus_mandibularis" title="Torus mandibularis">Torus mandibularis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Temporomandibular_joint_pathology" title="Temporomandibular joint pathology">Temporomandibular joints</a>, <a href="/wiki/Muscles_of_mastication" title="Muscles of mastication">muscles of mastication</a> and <a href="/wiki/Malocclusion" title="Malocclusion">malocclusions</a> - <i>Jaw joints, chewing muscles and bite abnormalities</i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bruxism" title="Bruxism">Bruxism</a></li>
+<li><a href="/wiki/Condylar_resorption" title="Condylar resorption">Condylar resorption</a></li>
+<li><a href="/wiki/Dislocation_of_jaw" title="Dislocation of jaw">Mandibular dislocation</a></li>
+<li><a href="/wiki/Malocclusion" title="Malocclusion">Malocclusion</a>
+<ul>
+<li><a href="/wiki/Crossbite" title="Crossbite">Crossbite</a></li>
+<li><a href="/wiki/Open_bite" title="Open bite" class="mw-redirect">Open bite</a></li>
+<li><a href="/wiki/Overbite" title="Overbite">Overbite</a></li>
+<li><a href="/wiki/Overjet" title="Overjet">Overjet</a></li>
+<li><a href="/wiki/Prognathia" title="Prognathia" class="mw-redirect">Prognathia</a></li>
+<li><a href="/wiki/Retrognathia" title="Retrognathia" class="mw-redirect">Retrognathia</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Temporomandibular_joint_dysfunction" title="Temporomandibular joint dysfunction">Temporomandibular joint dysfunction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Salivary_gland_disease" title="Salivary gland disease" class="mw-redirect">Salivary glands</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benign_lymphoepithelial_lesion" title="Benign lymphoepithelial lesion">Benign lymphoepithelial lesion</a></li>
+<li><a href="/wiki/Ectopic_salivary_gland_tissue" title="Ectopic salivary gland tissue">Ectopic salivary gland tissue</a></li>
+<li><a href="/wiki/Frey%27s_syndrome" title="Frey's syndrome">Frey's syndrome</a></li>
+<li><a href="/wiki/HIV_salivary_gland_disease" title="HIV salivary gland disease">HIV salivary gland disease</a></li>
+<li><a href="/wiki/Necrotizing_sialometaplasia" title="Necrotizing sialometaplasia">Necrotizing sialometaplasia</a></li>
+<li><a href="/wiki/Oral_mucocele" title="Oral mucocele">Mucocele</a>
+<ul>
+<li><a href="/wiki/Ranula" title="Ranula">Ranula</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pneumoparotitis" title="Pneumoparotitis">Pneumoparotitis</a></li>
+<li><a href="/wiki/Salivary_duct_stricture" title="Salivary duct stricture">Salivary duct stricture</a></li>
+<li><a href="/wiki/Salivary_gland_aplasia" title="Salivary gland aplasia">Salivary gland aplasia</a></li>
+<li><a href="/wiki/Salivary_gland_atresia" title="Salivary gland atresia">Salivary gland atresia</a></li>
+<li><a href="/wiki/Salivary_gland_diverticulum" title="Salivary gland diverticulum">Salivary gland diverticulum</a></li>
+<li><a href="/wiki/Salivary_gland_fistula" title="Salivary gland fistula">Salivary gland fistula</a></li>
+<li><a href="/wiki/Salivary_gland_hyperplasia" title="Salivary gland hyperplasia">Salivary gland hyperplasia</a></li>
+<li><a href="/wiki/Salivary_gland_hypoplasia" title="Salivary gland hypoplasia">Salivary gland hypoplasia</a></li>
+<li><a href="/wiki/Salivary_gland_neoplasm" title="Salivary gland neoplasm">Salivary gland neoplasms</a>
+<ul>
+<li><i>Benign:</i> <a href="/wiki/Basal_cell_adenoma" title="Basal cell adenoma">Basal cell adenoma</a></li>
+<li><a href="/wiki/Canalicular_adenoma" title="Canalicular adenoma">Canalicular adenoma</a></li>
+<li><a href="/wiki/Ductal_papilloma" title="Ductal papilloma">Ductal papilloma</a></li>
+<li><a href="/wiki/Monomorphic_adenoma" title="Monomorphic adenoma" class="mw-redirect">Monomorphic adenoma</a></li>
+<li><a href="/wiki/Myoepithelioma" title="Myoepithelioma" class="mw-redirect">Myoepithelioma</a></li>
+<li><a href="/wiki/Oncocytoma" title="Oncocytoma">Oncocytoma</a></li>
+<li><a href="/wiki/Papillary_cystadenoma_lymphomatosum" title="Papillary cystadenoma lymphomatosum" class="mw-redirect">Papillary cystadenoma lymphomatosum</a></li>
+<li><a href="/wiki/Pleomorphic_adenoma" title="Pleomorphic adenoma">Pleomorphic adenoma</a></li>
+<li><a href="/wiki/Sebaceous_adenoma" title="Sebaceous adenoma">Sebaceous adenoma</a></li>
+<li><i>Malignant:</i> <a href="/wiki/Acinic_cell_carcinoma" title="Acinic cell carcinoma">Acinic cell carcinoma</a></li>
+<li><a href="/wiki/Adenocarcinoma" title="Adenocarcinoma">Adenocarcinoma</a></li>
+<li><a href="/wiki/Adenoid_cystic_carcinoma" title="Adenoid cystic carcinoma">Adenoid cystic carcinoma</a></li>
+<li><a href="/wiki/Carcinoma_ex_pleomorphic_adenoma" title="Carcinoma ex pleomorphic adenoma">Carcinoma ex pleomorphic adenoma</a></li>
+<li><a href="/wiki/Lymphoma" title="Lymphoma">Lymphoma</a></li>
+<li><a href="/wiki/Mucoepidermoid_carcinoma" title="Mucoepidermoid carcinoma">Mucoepidermoid carcinoma</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sclerosing_polycystic_adenosis" title="Sclerosing polycystic adenosis">Sclerosing polycystic adenosis</a></li>
+<li><a href="/wiki/Sialadenitis" title="Sialadenitis">Sialadenitis</a>
+<ul>
+<li><a href="/wiki/Parotitis" title="Parotitis">Parotitis</a></li>
+<li><a href="/wiki/Chronic_sclerosing_sialadenitis" title="Chronic sclerosing sialadenitis">Chronic sclerosing sialadenitis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sialectasis" title="Sialectasis">Sialectasis</a></li>
+<li><a href="/wiki/Sialocele" title="Sialocele">Sialocele</a></li>
+<li><a href="/wiki/Sialodochitis" title="Sialodochitis">Sialodochitis</a></li>
+<li><a href="/wiki/Sialosis" title="Sialosis" class="mw-redirect">Sialosis</a></li>
+<li><a href="/wiki/Sialolithiasis" title="Sialolithiasis">Sialolithiasis</a></li>
+<li><a href="/wiki/Sj%C3%B6gren%27s_syndrome" title="Sjögren's syndrome">Sjögren's syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Orofacial soft tissues - <i>Soft tissues around the mouth</i></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actinomycosis" title="Actinomycosis">Actinomycosis</a></li>
+<li><a href="/wiki/Angioedema" title="Angioedema">Angioedema</a></li>
+<li><a href="/wiki/Basal_cell_carcinoma" title="Basal cell carcinoma" class="mw-redirect">Basal cell carcinoma</a></li>
+<li><a href="/wiki/Cutaneous_sinus_of_dental_origin" title="Cutaneous sinus of dental origin">Cutaneous sinus of dental origin</a></li>
+<li><a href="/wiki/Cystic_hygroma" title="Cystic hygroma">Cystic hygroma</a></li>
+<li><a href="/wiki/Gnathophyma" title="Gnathophyma">Gnathophyma</a></li>
+<li><a href="/wiki/Ludwig%27s_angina" title="Ludwig's angina">Ludwig's angina</a></li>
+<li><a href="/wiki/Macrostomia" title="Macrostomia">Macrostomia</a></li>
+<li><a href="/wiki/Melkersson%E2%80%93Rosenthal_syndrome" title="Melkersson–Rosenthal syndrome">Melkersson–Rosenthal syndrome</a></li>
+<li><a href="/wiki/Microstomia" title="Microstomia">Microstomia</a></li>
+<li><a href="/wiki/Noma_(disease)" title="Noma (disease)">Noma</a></li>
+<li><a href="/wiki/Crohn%27s_disease" title="Crohn's disease">Oral Crohn's disease</a></li>
+<li><a href="/wiki/Orofacial_granulomatosis" title="Orofacial granulomatosis">Orofacial granulomatosis</a></li>
+<li><a href="/wiki/Perioral_dermatitis" title="Perioral dermatitis">Perioral dermatitis</a></li>
+<li><a href="/wiki/Pyostomatitis_vegetans" title="Pyostomatitis vegetans">Pyostomatitis vegetans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div style="font-size:110%">Other</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Eagle_syndrome" title="Eagle syndrome">Eagle syndrome</a></li>
+<li><a href="/wiki/Hemifacial_hypertrophy" title="Hemifacial hypertrophy">Hemifacial hypertrophy</a></li>
+<li><a href="/wiki/Facial_hemiatrophy" title="Facial hemiatrophy" class="mw-redirect">Facial hemiatrophy</a></li>
+<li><a href="/w/index.php?title=Oral_manifestations_of_systemic_disease&amp;action=edit&amp;redlink=1" class="new" title="Oral manifestations of systemic disease (page does not exist)">Oral manifestations of systemic disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mouth_navs" title="Template:Mouth navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mouth_navs" title="Template talk:Mouth navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mouth_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Human_mouth" title="Human mouth">mouth</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Mouth_anatomy" title="Template:Mouth anatomy">Anatomy</a></li>
+<li><a href="/wiki/Template:Development_of_head_and_neck" title="Template:Development of head and neck">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Congenital
+<ul>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_face_and_neck" title="Template:Congenital malformations and deformations of face and neck">face and neck</a></li>
+<li><a href="/wiki/Template:Cleft_lip_and_palate" title="Template:Cleft lip and palate">cleft</a></li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_digestive_system" title="Template:Congenital malformations and deformations of digestive system">digestive system</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Tumors_of_lip,_oral_cavity_and_pharynx" title="Template:Tumors of lip, oral cavity and pharynx">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Oral_pathology" title="Template:Oral pathology">Other</a></li>
+<li><a href="/wiki/Template:Symptoms_involving_head_and_neck" title="Template:Symptoms involving head and neck">Symptoms and signs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Procedures_on_the_mouth_and_pharynx" title="Template:Procedures on the mouth and pharynx">Procedures</a>
+<ul>
+<li><a href="/wiki/Template:Periodontology" title="Template:Periodontology">periodontology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Stomatological_preparations" title="Template:Stomatological preparations">Drugs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1059
+CPU time usage: 0.701 seconds
+Real time usage: 0.822 seconds
+Preprocessor visited node count: 3842/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 243864/2097152 bytes
+Template argument size: 24699/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Lua time usage: 0.236/10.000 seconds
+Lua memory usage: 3.08 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  598.976      1 - -total
+ 32.23%  193.056      1 - Template:Reflist
+ 28.11%  168.361      2 - Template:Navbox_with_collapsible_groups
+ 16.97%  101.648      1 - Template:PNS_diseases_of_the_nervous_system
+ 16.46%   98.608     15 - Template:Cite_journal
+ 16.04%   96.051      1 - Template:Infobox_disease
+ 13.98%   83.718      1 - Template:Infobox
+ 13.17%   78.880      7 - Template:Navbox
+ 12.70%   76.058      1 - Template:Oral_pathology
+  5.98%   35.808      6 - Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7793376-0!*!0!!en!4!* and timestamp 20150711160918 and revision id 670433136
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Parry–Romberg_syndrome&amp;oldid=670433136">https://en.wikipedia.org/w/index.php?title=Parry–Romberg_syndrome&amp;oldid=670433136</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Connective_tissue_diseases" title="Category:Connective tissue diseases">Connective tissue diseases</a></li><li><a href="/wiki/Category:Genetic_disorders_with_OMIM_but_no_gene" title="Category:Genetic disorders with OMIM but no gene">Genetic disorders with OMIM but no gene</a></li><li><a href="/wiki/Category:Rare_diseases" title="Category:Rare diseases">Rare diseases</a></li><li><a href="/wiki/Category:Neurocutaneous_conditions" title="Category:Neurocutaneous conditions">Neurocutaneous conditions</a></li><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Parry%E2%80%93Romberg+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Parry%E2%80%93Romberg+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Parry%E2%80%93Romberg_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Parry%E2%80%93Romberg_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Parry%E2%80%93Romberg_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Parry%E2%80%93Romberg_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Parry%E2%80%93Romberg_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;oldid=670433136" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q250365" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Parry%E2%80%93Romberg_syndrome&amp;id=670433136" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Parry%E2%80%93Romberg+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Parry%E2%80%93Romberg+syndrome&amp;oldid=670433136&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D8%A8%D8%A7%D8%B1%D9%8A_%D8%B1%D9%88%D9%85%D8%A8%D8%B1%D8%AC" title="متلازمة باري رومبرج – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Parry-Romberg-Syndrom" title="Parry-Romberg-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Parry-Romberg" title="Sindrome di Parry-Romberg – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%9E%D7%95%D7%A0%D7%AA_%D7%A4%D7%90%D7%A8%D7%99-%D7%A8%D7%95%D7%9E%D7%91%D7%A8%D7%92" title="תסמונת פארי-רומברג – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Parry%27ego-Romberga" title="Zespół Parry'ego-Romberga – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q250365#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 July 2015, at 22:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Parry%E2%80%93Romberg_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1250"});
+}</script>
+	</body>
+</html>

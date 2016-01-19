@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Jacobi symbol - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Jacobi_symbol" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Jacobi_symbol&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Jacobi_symbol&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Jacobi_symbol" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Jacobi_symbol" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jacobi_symbol","wgTitle":"Jacobi symbol","wgCurRevisionId":663725812,"wgRevisionId":663725812,"wgArticleId":97313,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Modular arithmetic"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jacobi_symbol","wgRelevantArticleId":97313,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q241015"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Jacobi_symbol skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Jacobi symbol</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:500px;">
+<table class="wikitable" style="width:500px;">
+<tr>
+<th><span class="nowrap">n \ m</span></th>
+<th>0</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+</tr>
+<tr>
+<th>1</th>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>3</th>
+<td>0</td>
+<td>1</td>
+<td>-1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>5</th>
+<td>0</td>
+<td>1</td>
+<td>-1</td>
+<td>-1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>7</th>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>-1</td>
+<td>1</td>
+<td>-1</td>
+<td>-1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>9</th>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>11</th>
+<td>0</td>
+<td>1</td>
+<td>-1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td>1</td>
+<td>-1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>13</th>
+<td>0</td>
+<td>1</td>
+<td>-1</td>
+<td>1</td>
+<td>1</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td>1</td>
+<td>1</td>
+<td>-1</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>15</th>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>-1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>-1</td>
+<td>0</td>
+<td>-1</td>
+<td>-1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>17</th>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>-1</td>
+<td>1</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td>1</td>
+<td>1</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td>1</td>
+<td>-1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</table>
+<div class="thumbcaption">
+<p>Jacobi symbol (m/n) for various <i>m</i> (along top) and <i>n</i> (along left side). Only 0 ≤ <i>m</i> &lt; <i>n</i> are shown, since due to rule (2) below any other <i>m</i> can be reduced modulo <i>n</i>. <a href="/wiki/Quadratic_residue" title="Quadratic residue">Quadratic residues</a> are highlighted in yellow — note that no entry with a Jacobi symbol of -1 is a quadratic residue, and if m is a <a href="/wiki/Quadratic_residue" title="Quadratic residue">quadratic residue</a> (mod n) and gcd(m,n)=1, then (m|n)=1, but some entries with a Jacobi symbol of 1 (see the <i>n</i>=9 row) are not quadratic residues. Notice also that when either <i>n</i> or <i>m</i> is a square, all values are 0 or 1.</p>
+</div>
+</div>
+</div>
+<p>The <b>Jacobi symbol</b> is a generalization of the <a href="/wiki/Legendre_symbol" title="Legendre symbol">Legendre symbol</a>. Introduced by <a href="/wiki/Carl_Gustav_Jakob_Jacobi" title="Carl Gustav Jakob Jacobi" class="mw-redirect">Jacobi</a> in 1837,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> it is of theoretical interest in <a href="/wiki/Modular_arithmetic" title="Modular arithmetic">modular arithmetic</a> and other branches of <a href="/wiki/Number_theory" title="Number theory">number theory</a>, but its main use is in <a href="/wiki/Computational_number_theory" title="Computational number theory">computational number theory</a>, especially <a href="/wiki/Primality_testing" title="Primality testing" class="mw-redirect">primality testing</a> and <a href="/wiki/Integer_factorization" title="Integer factorization">integer factorization</a>; these in turn are important in <a href="/wiki/Cryptography" title="Cryptography">cryptography</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Properties"><span class="tocnumber">2</span> <span class="toctext">Properties</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Calculating_the_Jacobi_symbol"><span class="tocnumber">3</span> <span class="toctext">Calculating the Jacobi symbol</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Example_of_calculations"><span class="tocnumber">4</span> <span class="toctext">Example of calculations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Using_the_Legendre_symbol"><span class="tocnumber">4.1</span> <span class="toctext">Using the Legendre symbol</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Using_the_Jacobi_symbol"><span class="tocnumber">4.2</span> <span class="toctext">Using the Jacobi symbol</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Primality_testing"><span class="tocnumber">5</span> <span class="toctext">Primality testing</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For any integer <img class="mwe-math-fallback-image-inline tex" alt="a" src="//upload.wikimedia.org/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png" /> and any positive odd integer <img class="mwe-math-fallback-image-inline tex" alt="n" src="//upload.wikimedia.org/math/7/b/8/7b8b965ad4bca0e41ab51de7b31363a1.png" /> the Jacobi symbol is defined as the product of the <a href="/wiki/Legendre_symbol" title="Legendre symbol">Legendre symbols</a> corresponding to the prime factors of <img class="mwe-math-fallback-image-inline tex" alt="n" src="//upload.wikimedia.org/math/7/b/8/7b8b965ad4bca0e41ab51de7b31363a1.png" />:</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\Bigg(\frac{a}{n}\Bigg) = \left(\frac{a}{p_1}\right)^{\alpha_1}\left(\frac{a}{p_2}\right)^{\alpha_2}\cdots \left(\frac{a}{p_k}\right)^{\alpha_k}\mbox{ where } n=p_1^{\alpha_1}p_2^{\alpha_2}\cdots p_k^{\alpha_k}" src="//upload.wikimedia.org/math/d/a/3/da3ed925e382cf1e4c8de9284fda978d.png" /></dd>
+</dl>
+<p><br />
+<img class="mwe-math-fallback-image-inline tex" alt="\left(\tfrac{a}{p}\right)" src="//upload.wikimedia.org/math/d/4/c/d4cf7161b2dea1ddc81c6c3abe8ae09e.png" /> represents the Legendre symbol, defined for all integers <img class="mwe-math-fallback-image-inline tex" alt="a" src="//upload.wikimedia.org/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png" /> and all odd primes <img class="mwe-math-fallback-image-inline tex" alt="p" src="//upload.wikimedia.org/math/8/3/8/83878c91171338902e0fe0fb97a8c47a.png" /> by</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{a}{p}\right) = \begin{cases}
+\;\;\,0\mbox{ if } a \equiv 0 \pmod{p}
+\\+1\mbox{ if }a \not\equiv 0\pmod{p} \mbox{ and for some integer }x, \;a\equiv x^2\pmod{p}
+\\-1\mbox{ if there is no such } x. \end{cases}" src="//upload.wikimedia.org/math/8/3/b/83b4401b0882d78418b424b4205c8eeb.png" /></dd>
+</dl>
+<p>Following the normal convention for the empty product, <img class="mwe-math-fallback-image-inline tex" alt="\left(\tfrac{a}{1}\right) = 1." src="//upload.wikimedia.org/math/6/2/0/620e14732582194069c7e3b8857ce834.png" /> The Legendre and Jacobi symbols are indistinguishable exactly when the lower argument is an odd prime, in which case they have the same value.</p>
+<h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=2" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following facts, even the reciprocity laws, are straightforward deductions from the definition of the Jacobi symbol and the corresponding properties of the Legendre symbol.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p>The Jacobi symbol is defined only when the upper argument ("numerator") is an integer and the lower argument ("denominator") is a positive odd integer.</p>
+<dl>
+<dd>1) If <img class="mwe-math-fallback-image-inline tex" alt="n" src="//upload.wikimedia.org/math/7/b/8/7b8b965ad4bca0e41ab51de7b31363a1.png" /> is (an odd) prime, then the Jacobi symbol <img class="mwe-math-fallback-image-inline tex" alt="\Bigg(\frac{a}{n}\Bigg)" src="//upload.wikimedia.org/math/c/2/7/c27c2dcda5175b23fd4e5040a541a8c0.png" /> is equal to (and written the same as) the corresponding Legendre symbol.</dd>
+</dl>
+<dl>
+<dd>2) If <img class="mwe-math-fallback-image-inline tex" alt="a \equiv b \pmod{n}" src="//upload.wikimedia.org/math/4/1/3/413a2bbd806ba93bd61f44c477519a02.png" /> then <img class="mwe-math-fallback-image-inline tex" alt="\Bigg(\frac{a}{n}\Bigg) = \left(\frac{b}{n}\right)" src="//upload.wikimedia.org/math/0/0/1/001a75471c2a28c5e56e5f70b2ab8a59.png" /></dd>
+</dl>
+<dl>
+<dd>3) <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a}{n}\right) = 
+\begin{cases}
+\;\;\,0\mbox{ if } \gcd(a,n) \ne 1
+
+\\\pm1\mbox{ if  } \gcd(a,n) = 1\end{cases}
+" src="//upload.wikimedia.org/math/9/c/7/9c79f7f0ef95efd88304135e41c688d0.png" /></dd>
+</dl>
+<p>If either the top or bottom argument is fixed, the Jacobi symbol is a <a href="/wiki/Completely_multiplicative_function" title="Completely multiplicative function">completely multiplicative function</a> in the remaining argument:</p>
+<dl>
+<dd>4) <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{ab}{n}\right) = \Bigg(\frac{a}{n}\Bigg)\left(\frac{b}{n}\right)" src="//upload.wikimedia.org/math/a/d/3/ad3e3df86218adc8c00fba94b4bf43e7.png" />, so <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a^2}{n}\right) = 1 \text{ or } 0" src="//upload.wikimedia.org/math/a/b/2/ab25b3d1db6b81521dc32bf89b15fad6.png" /></dd>
+</dl>
+<dl>
+<dd>5) <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a}{mn}\right)=\left(\frac{a}{m}\right)\left(\frac{a}{n}\right)" src="//upload.wikimedia.org/math/b/7/4/b741fbca073153e99ceaa1d7d87e4040.png" />, so <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a}{n^2}\right) = 1 \text{ or } 0" src="//upload.wikimedia.org/math/5/a/a/5aa9a27b745a18e3970f8a1010a88016.png" /></dd>
+</dl>
+<p>The <a href="/wiki/Law_of_quadratic_reciprocity" title="Law of quadratic reciprocity" class="mw-redirect">law of quadratic reciprocity</a>: if <i>m</i> and <i>n</i> are odd positive coprime integers, then</p>
+<dl>
+<dd>6) <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{m}{n}\right) 
+ \left(\frac{n}{m}\right)=(-1)^{\tfrac{m-1}{2}\tfrac{n-1}{2}} =
+\begin{cases}
+  \;\;\;\left(\frac{n}{m}\right) &amp; \text{if }n \equiv 1 \pmod 4 \text{ or } m \equiv 1 \pmod 4 \\
+ -\left(\frac{n}{m}\right) &amp; \text{if }n\equiv m \equiv 3 \pmod 4
+\end{cases}
+" src="//upload.wikimedia.org/math/b/3/d/b3d0fb9d1fe99a0e1524a0671e79e25f.png" /></dd>
+</dl>
+<p>and its supplements</p>
+<dl>
+<dd>7) <img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{-1}{n}\right) 
+= (-1)^\tfrac{n-1}{2} 
+= \begin{cases} \;\;\,1 &amp; \text{if }n \equiv 1 \pmod 4\\ -1 &amp;\text{if }n \equiv 3 \pmod 4\end{cases}
+" src="//upload.wikimedia.org/math/1/3/9/13974d54109a8ffc31f869bb21a552e9.png" /></dd>
+</dl>
+<dl>
+<dd>8) <img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{2}{n}\right) 
+= (-1)^\tfrac{n^2-1}{8} 
+= \begin{cases} \;\;\,1 &amp; \text{if }n \equiv 1,7 \pmod 8\\ -1 &amp;\text{if }n \equiv 3,5\pmod 8\end{cases}
+" src="//upload.wikimedia.org/math/e/0/7/e07a05e52b78ea810e2a87094ccb5a00.png" /></dd>
+</dl>
+<p>Like the Legendre symbol,</p>
+<dl>
+<dd>If <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a}{n}\right) = -1" src="//upload.wikimedia.org/math/9/b/4/9b4efea22607b8ac8f781ce1351a1fa6.png" /> then <img class="mwe-math-fallback-image-inline tex" alt="a" src="//upload.wikimedia.org/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png" /> is a quadratic nonresidue <img class="mwe-math-fallback-image-inline tex" alt="\pmod{n}" src="//upload.wikimedia.org/math/a/3/f/a3f779d954cfb8726f36f66f8c009e46.png" /></dd>
+</dl>
+<dl>
+<dd>If <img class="mwe-math-fallback-image-inline tex" alt="a" src="//upload.wikimedia.org/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png" /> is a <a href="/wiki/Quadratic_residue" title="Quadratic residue">quadratic residue</a> <img class="mwe-math-fallback-image-inline tex" alt="\pmod{n}" src="//upload.wikimedia.org/math/a/3/f/a3f779d954cfb8726f36f66f8c009e46.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="\gcd(a,n)=1" src="//upload.wikimedia.org/math/3/a/d/3ad6ec54245f76c0479d955e4c0a0af6.png" />, then <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a}{n}\right) = 1" src="//upload.wikimedia.org/math/d/8/b/d8b74896f2726ccca6cf03c2acb57898.png" /></dd>
+</dl>
+<p>But, unlike the Legendre symbol</p>
+<dl>
+<dd>If <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{a}{n}\right) = 1" src="//upload.wikimedia.org/math/d/8/b/d8b74896f2726ccca6cf03c2acb57898.png" /> then <img class="mwe-math-fallback-image-inline tex" alt="a" src="//upload.wikimedia.org/math/0/c/c/0cc175b9c0f1b6a831c399e269772661.png" /> may or may not be a quadratic residue <img class="mwe-math-fallback-image-inline tex" alt="\pmod{n}" src="//upload.wikimedia.org/math/a/3/f/a3f779d954cfb8726f36f66f8c009e46.png" />.</dd>
+</dl>
+<p>This is because for <i>a</i> to be a residue (mod <i>n</i>) it has to be a residue modulo <i>every</i> prime that divides <i>n</i>, but the Jacobi symbol will equal one if for example <i>a</i> is a non-residue for exactly two of the primes which divide <i>n</i>.</p>
+<p>Although the Jacobi symbol can't be uniformly interpreted in terms of squares and non-squares, it can be uniformly interpreted as the sign of a permutation by <a href="/wiki/Zolotarev%27s_lemma" title="Zolotarev's lemma">Zolotarev's lemma</a>.</p>
+<p>The Jacobi symbol <img class="mwe-math-fallback-image-inline tex" alt="(\tfrac{a}{n})" src="//upload.wikimedia.org/math/8/7/1/87185e0de3999d10a93d493de92c6fe3.png" /> is a <a href="/wiki/Dirichlet_character" title="Dirichlet character">Dirichlet character</a> to the modulus <i>n</i>.</p>
+<h2><span class="mw-headline" id="Calculating_the_Jacobi_symbol">Calculating the Jacobi symbol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=3" title="Edit section: Calculating the Jacobi symbol">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The above formulas lead to an efficient O((log <i>a</i>)(log <i>b</i>))<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> algorithm for calculating the Jacobi symbol, analogous to the <a href="/wiki/Euclidean_algorithm" title="Euclidean algorithm">Euclidean algorithm</a> for finding the GCD of two numbers. (This should not be surprising in light of rule 3).</p>
+<ol>
+<li>Reduce the "numerator" modulo the "denominator" using rule 2.</li>
+<li>Extract any factors of 2 from the "numerator" using rule 4 and evaluate them using rule 8.</li>
+<li>If the "numerator" is 1, rules 3 and 4 give a result of 1. If the "numerator" and "denominator" are not coprime, rule 3 gives a result of 0.</li>
+<li>Otherwise, the "numerator" and "denominator" are now odd positive coprime integers, so we can flip the symbol using rule 6, then return to step 1.</li>
+</ol>
+<h2><span class="mw-headline" id="Example_of_calculations">Example of calculations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=4" title="Edit section: Example of calculations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Legendre symbol <img class="mwe-math-fallback-image-inline tex" alt="(\tfrac{a}{p})" src="//upload.wikimedia.org/math/d/0/b/d0be6448a3ea22541469866db4e62da2.png" /> is only defined for odd primes <i>p</i>. It obeys the same rules as the Jacobi symbol (i.e., reciprocity and the supplementary formulas for <img class="mwe-math-fallback-image-inline tex" alt="(\tfrac{-1}{p})" src="//upload.wikimedia.org/math/c/8/4/c84f508bc2057d7542ba40c9d64d4b94.png" /> and <img class="mwe-math-fallback-image-inline tex" alt="(\tfrac{2}{p})" src="//upload.wikimedia.org/math/a/8/5/a8517db32cda78cb872c3daef265f91a.png" /> and multiplicativity of the "numerator".)</p>
+<p>Problem: Given that 9907 is prime, calculate <img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{1001}{9907}\right)." src="//upload.wikimedia.org/math/b/0/b/b0b8d9cbe613960c3a8e4edcef54a3f0.png" /></p>
+<h3><span class="mw-headline" id="Using_the_Legendre_symbol">Using the Legendre symbol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=5" title="Edit section: Using the Legendre symbol">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{1001}{9907}\right) 
+=\left(\frac{7}{9907}\right) \left(\frac{11}{9907}\right) \left(\frac{13}{9907}\right). 
+" src="//upload.wikimedia.org/math/c/4/a/c4a1097cdc223ff5e7755cf590448536.png" /></dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{7}{9907}\right) 
+=-\left(\frac{9907}{7}\right) 
+=-\left(\frac{2}{7}\right) 
+=-1
+" src="//upload.wikimedia.org/math/e/9/d/e9d3bf83bd3ab2968cafc74741242f30.png" /></dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{11}{9907}\right) 
+=-\left(\frac{9907}{11}\right) 
+=-\left(\frac{7}{11}\right) 
+=\left(\frac{11}{7}\right) 
+=\left(\frac{4}{7}\right)
+=1 
+" src="//upload.wikimedia.org/math/5/6/d/56d2048982a76449cb3a944dc5fd70db.png" /></dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+\left(\frac{13}{9907}\right) 
+=\left(\frac{9907}{13}\right) 
+=\left(\frac{1}{13}\right)
+=1 
+" src="//upload.wikimedia.org/math/8/3/8/83815c5ac53c70fd99117085db5634db.png" /></dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{1001}{9907}\right) =-1" src="//upload.wikimedia.org/math/e/d/a/eda3c456d32cec90dff96b744bd2b863.png" /></dd>
+</dl>
+<h3><span class="mw-headline" id="Using_the_Jacobi_symbol">Using the Jacobi symbol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=6" title="Edit section: Using the Jacobi symbol">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="
+ \left(\frac{1001}{9907}\right) 
+=\left(\frac{9907}{1001}\right) 
+=\left(\frac{898}{1001}\right) 
+=\left(\frac{2}{1001}\right)\left(\frac{449}{1001}\right)
+=\left(\frac{449}{1001}\right)
+" src="//upload.wikimedia.org/math/9/6/f/96fa9527c15fdfcee2565ae9283166b6.png" /></dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 
+=\left(\frac{1001}{449}\right) 
+=\left(\frac{103}{449}\right) 
+=\left(\frac{449}{103}\right) 
+=\left(\frac{37}{103}\right) 
+=\left(\frac{103}{37}\right) 
+" src="//upload.wikimedia.org/math/c/8/3/c833e34f2c45d65d8436726fa7e97d61.png" /></dd>
+</dl>
+</dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt=" 
+=\left(\frac{29}{37}\right)  
+=\left(\frac{37}{29}\right) 
+=\left(\frac{8}{29}\right) 
+=\left(\frac{2}{29}\right)^3 
+=-1.
+" src="//upload.wikimedia.org/math/d/f/e/dfe929fdaadcbcf32be73a245b6d1a04.png" /></dd>
+</dl>
+</dd>
+</dl>
+<p>The difference between the two calculations is that when the Legendre symbol is used the "numerator" has to be factored into prime powers before the symbol is flipped. This makes the calculation using the Legendre symbol significantly slower than the one using the Jacobi symbol, as there is no known polynomial-time algorithm for factoring integers.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> In fact, this is why Jacobi introduced the symbol.</p>
+<h2><span class="mw-headline" id="Primality_testing">Primality testing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=7" title="Edit section: Primality testing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is another way the Jacobi and Legendre symbols differ. If the <a href="/wiki/Euler_criterion" title="Euler criterion" class="mw-redirect">Euler criterion</a> formula is used modulo a composite number, the result may or may not be the value of the Jacobi symbol, and in fact may not even be -1 or 1. For example,</p>
+<dl>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{19}{45}\right) = 1\quad\text{ and }\quad19^{(45-1)/2} \equiv 1\pmod{45}" src="//upload.wikimedia.org/math/4/7/5/475bbdec311e85e21e8239b49a903cf5.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{8}{21}\right) = -1\quad\text{ but }\quad8^{(21-1)/2} \equiv 1\pmod{21}" src="//upload.wikimedia.org/math/8/3/3/833bdc3f80a490c588b60ef0d29c0e04.png" /></dd>
+<dd><img class="mwe-math-fallback-image-inline tex" alt="\left(\frac{5}{21}\right) = 1\quad\text{ but }\quad5^{(21-1)/2} \equiv 16\pmod{21}" src="//upload.wikimedia.org/math/2/a/f/2af572911a88df7d023198890bf0b682.png" /></dd>
+</dl>
+<p>So if it is unknown whether a number <i>n</i> is prime or composite, we can pick a random number <i>a</i>, calculate the Jacobi symbol <img class="mwe-math-fallback-image-inline tex" alt="(\tfrac{a}{n})" src="//upload.wikimedia.org/math/8/7/1/87185e0de3999d10a93d493de92c6fe3.png" /> and compare it with Euler's formula; if they differ modulo <i>n</i>, then <i>n</i> is composite; if they have the same residue modulo <i>n</i> for many different values of <i>a</i>, then <i>n</i> is "probably prime".</p>
+<p>This is the basis for the probabilistic <a href="/wiki/Solovay%E2%80%93Strassen_primality_test" title="Solovay–Strassen primality test">Solovay–Strassen primality test</a> and refinements such as the <a href="/wiki/Baillie-PSW_primality_test" title="Baillie-PSW primality test" class="mw-redirect">Baillie-PSW primality test</a> and the <a href="/wiki/Miller%E2%80%93Rabin_primality_test" title="Miller–Rabin primality test">Miller–Rabin primality test</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>The <a href="/wiki/Kronecker_symbol" title="Kronecker symbol">Kronecker symbol</a> is a generalization of the Jacobi symbol to all integers.</li>
+<li>The <a href="/wiki/Power_residue_symbol" title="Power residue symbol">power residue symbol</a> is a generalization for third, fourth, and higher powers.</li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">C.G.J.Jacobi "Uber die Kreisteilung und ihre Anwendung auf die Zahlentheorie", <i>Bericht Ak. Wiss. Berlin</i> (1837) pp 127-136.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Almost any textbook on elementary or algebraic number theory, e.g. Ireland &amp; Rosen pp. 56–57 or Lemmermeyer p. 10</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Cohen, pp. 29–31</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">The <a href="/wiki/Number_field_sieve" title="Number field sieve" class="mw-redirect">number field sieve</a>, the fastest known algorithm, requires <img class="mwe-math-fallback-image-inline tex" alt="O\left(e^{(\ln N)^{1/3}(\ln\ln N)^{2/3}(C+o(1))}\right)" src="//upload.wikimedia.org/math/e/6/9/e6901e02ac5eed537c22acc79f2b71d4.png" /> operations to factor <i>N</i>. See Cohen, p. 495</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span id="CITEREFCohen1993" class="citation">Cohen, Henri (1993), <i>A Course in Computational Algebraic Number Theory</i>, Berlin: <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-55640-0" title="Special:BookSources/3-540-55640-0">3-540-55640-0</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJacobi+symbol&amp;rft.au=Cohen%2C+Henri&amp;rft.aufirst=Henri&amp;rft.aulast=Cohen&amp;rft.btitle=A+Course+in+Computational+Algebraic+Number+Theory&amp;rft.date=1993&amp;rft.genre=book&amp;rft.isbn=3-540-55640-0&amp;rft.place=Berlin&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><span id="CITEREFIrelandRosen1990" class="citation">Ireland, Kenneth; Rosen, Michael (1990), <i>A Classical Introduction to Modern Number Theory (Second edition)</i>, New York: <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-387-97329-X" title="Special:BookSources/0-387-97329-X">0-387-97329-X</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJacobi+symbol&amp;rft.aufirst=Kenneth&amp;rft.au=Ireland%2C+Kenneth&amp;rft.aulast=Ireland&amp;rft.au=Rosen%2C+Michael&amp;rft.btitle=A+Classical+Introduction+to+Modern+Number+Theory+%28Second+edition%29&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=0-387-97329-X&amp;rft.place=New+York&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<ul>
+<li><span id="CITEREFLemmermeyer2000" class="citation">Lemmermeyer, Franz (2000), <i>Reciprocity Laws: from Euler to Eisenstein</i>, Berlin: <a href="/wiki/Springer_Science%2BBusiness_Media" title="Springer Science+Business Media">Springer</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-540-66957-4" title="Special:BookSources/3-540-66957-4">3-540-66957-4</a></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJacobi+symbol&amp;rft.aufirst=Franz&amp;rft.aulast=Lemmermeyer&amp;rft.au=Lemmermeyer%2C+Franz&amp;rft.btitle=Reciprocity+Laws%3A+from+Euler+to+Eisenstein&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=3-540-66957-4&amp;rft.place=Berlin&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.math.fau.edu/richman/jacobi.htm">Calculate Jacobi symbol</a> shows the steps of the calculation.</li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1029
+CPU time usage: 0.176 seconds
+Real time usage: 2.416 seconds
+Preprocessor visited node count: 563/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 6648/2097152 bytes
+Template argument size: 5/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.025/10.000 seconds
+Lua memory usage: 1.41 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2382.978      1 - -total
+  3.00%   71.478      1 - Template:Reflist
+  2.45%   58.325      3 - Template:Citation
+  0.18%    4.187      1 - Template:Nobreak
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:97313-0!*!0!!en!*!*!math=0 and timestamp 20150623005547 and revision id 663725812
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Jacobi_symbol&amp;oldid=663725812">https://en.wikipedia.org/w/index.php?title=Jacobi_symbol&amp;oldid=663725812</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Modular_arithmetic" title="Category:Modular arithmetic">Modular arithmetic</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jacobi+symbol&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Jacobi+symbol" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Jacobi_symbol"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Jacobi_symbol"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Jacobi_symbol" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Jacobi_symbol&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Jacobi_symbol&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Jacobi_symbol" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Jacobi_symbol" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Jacobi_symbol&amp;oldid=663725812" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Jacobi_symbol&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q241015" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Jacobi_symbol&amp;id=663725812" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Jacobi+symbol">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Jacobi+symbol&amp;oldid=663725812&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Jacobi_symbol&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%AC%E0%A6%BF_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95" title="জ্যাকবি প্রতীক – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/S%C3%ADmbol_de_Jacobi" title="Símbol de Jacobi – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Jacobiho_symbol" title="Jacobiho symbol – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Jacobi-Symbol" title="Jacobi-Symbol – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADmbolo_de_Jacobi" title="Símbolo de Jacobi – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="//eo.wikipedia.org/wiki/Jakobia_simbolo" title="Jakobia simbolo – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Symbole_de_Jacobi" title="Symbole de Jacobi – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%BC%EC%BD%94%EB%B9%84_%EA%B8%B0%ED%98%B8" title="야코비 기호 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Simbolo_di_Jacobi" title="Simbolo di Jacobi – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A1%D7%99%D7%9E%D7%9F_%D7%99%D7%A2%D7%A7%D7%95%D7%91%D7%99" title="סימן יעקובי – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Jacobi-szimb%C3%B3lum" title="Jacobi-szimbólum – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Jacobi-symbool" title="Jacobi-symbool – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-km"><a href="//km.wikipedia.org/wiki/%E1%9E%9F%E1%9E%89%E1%9F%92%E1%9E%89%E1%9E%B6%E1%9E%99%E1%9F%89%E1%9E%B6%E1%9E%80%E1%9E%BC%E1%9E%94%E1%9F%8A%E1%9E%B8" title="សញ្ញាយ៉ាកូប៊ី – Khmer" lang="km" hreflang="km">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Symbol_Jacobiego" title="Symbol Jacobiego – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADmbolo_de_Jacobi" title="Símbolo de Jacobi – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B1%D0%B8" title="Символ Якоби – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Jacobi_sembol%C3%BC" title="Jacobi sembolü – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%AF%D0%BA%D0%BE%D0%B1%D1%96" title="Символ Якобі – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="//vi.wikipedia.org/wiki/K%C3%AD_hi%E1%BB%87u_Jacobi" title="Kí hiệu Jacobi – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%AC%A6%E5%8F%B7" title="雅可比符号 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q241015#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 May 2015, at 22:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Jacobi_symbol&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1253"});
+}</script>
+	</body>
+</html>

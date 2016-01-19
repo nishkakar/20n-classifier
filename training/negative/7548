@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Air gap (networking) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Air_gap_(networking)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Air_gap_(networking)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Air_gap_(networking)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Air_gap_(networking)" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Air_gap_(networking)" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Air_gap_(networking)","wgTitle":"Air gap (networking)","wgCurRevisionId":668277426,"wgRevisionId":668277426,"wgArticleId":3825008,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Network architecture","Data security"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Air_gap_(networking)","wgRelevantArticleId":3825008,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q407261"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Air_gap_networking skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Air gap (networking)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>An <b>air gap</b> or <b>air wall</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> is a <a href="/wiki/Network_security" title="Network security">network security</a> measure, also known as <b>air gapping</b>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> employed on one or more computers to ensure that a secure <a href="/wiki/Computer_network" title="Computer network">computer network</a> is physically isolated from unsecured networks, such as the public <a href="/wiki/Internet" title="Internet">Internet</a> or an unsecured <a href="/wiki/Local_area_network" title="Local area network">local area network</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> The name arises from the technique of creating a network that does not have, and often has never had, an active unsecured connection, by having the two physically separated, with air in between. The air gap may not be completely literal, as networks employing the use of dedicated cryptographic devices that can tunnel packets over untrusted networks while avoiding packet rate or size variation can be considered "air gapped", as there is no ability for computers on opposite sides of the "gap" to communicate.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Use_in_classified_settings"><span class="tocnumber">1</span> <span class="toctext">Use in classified settings</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Limitations"><span class="tocnumber">3</span> <span class="toctext">Limitations</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Use_in_classified_settings">Use in classified settings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=edit&amp;section=1" title="Edit section: Use in classified settings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In environments where networks or devices are rated to handle different levels of <a href="/wiki/Classified_information" title="Classified information">classified information</a>, the two disconnected devices/networks are referred to as "low side" and "high side", low being unclassified and high referring to classified, or classified at a higher level. This is also occasionally referred to as red (classified) and black (unclassified). To move data from the high side to the low side, it is necessary to write data to a physical medium, and <a href="/wiki/Sneakernet" title="Sneakernet">move it</a> to a device on the latter network. Traditionally based on the <a href="/wiki/Bell-La_Padula_model" title="Bell-La Padula model" class="mw-redirect">Bell-La Padula Confidentiality Model</a>, data can move low-to-high with minimal processes while high-to-low requires much more stringent procedures to ensure protection of the data at a higher level of classification.</p>
+<p>The concept represents nearly the maximum protection one network can have from another (save turning the device off). It is not possible for <a href="/wiki/Packet_(information_technology)" title="Packet (information technology)" class="mw-redirect">packets</a> or <a href="/wiki/Datagram" title="Datagram">datagrams</a> to "leap" across the air gap from one network to another, but <a href="/wiki/Computer_virus" title="Computer virus">computer viruses</a> such as <a href="/wiki/Stuxnet" title="Stuxnet">Stuxnet</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> and <a href="/wiki/2008_cyberattack_on_United_States" title="2008 cyberattack on United States">agent.btz</a> have been known to bridge the gap by <a href="/wiki/Exploit_(computer_security)" title="Exploit (computer security)">exploiting</a> <a href="/wiki/Security_hole" title="Security hole" class="mw-redirect">security holes</a> related to the handling of <a href="/wiki/Removable_media" title="Removable media">removable media</a>. The possibility of using <a href="/wiki/Acoustics" title="Acoustics">acoustic</a> communication has also been demonstrated by researchers.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Researchers have also demonstrated the feasibility of data exfiltration using FM frequency signals.<sup id="cite_ref-arxiv.org_6-0" class="reference"><a href="#cite_note-arxiv.org-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-cyber.bgu.ac.il_7-0" class="reference"><a href="#cite_note-cyber.bgu.ac.il-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>The upside to this is that such a network can generally be regarded as a closed system (in terms of information, signals, and emissions security) unable to be accessed from the outside world. The downside is that transferring information (from the outside world) to be analyzed by computers on the secure network is extraordinarily labor-intensive, often involving human security analysis of prospective programs or data to be entered onto air-gapped networks and possibly even human manual re-entry of the data following security analysis.<sup id="cite_ref-ZDNet-NSA_8-0" class="reference"><a href="#cite_note-ZDNet-NSA-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=edit&amp;section=2" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Examples of the types of networks or systems that may be air gapped include:</p>
+<ul>
+<li>Military/governmental computer networks/systems;<sup id="cite_ref-Infoworld-FedAirSneakernet_9-0" class="reference"><a href="#cite_note-Infoworld-FedAirSneakernet-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>Financial computer systems, such as stock exchanges;<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></li>
+<li>Industrial control systems, such as SCADA in Oil &amp; Gas fields;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+<li><a href="/wiki/Life-critical_system" title="Life-critical system">Life-critical systems</a>, such as:
+<ul>
+<li>Controls of <a href="/wiki/Nuclear_power_plants" title="Nuclear power plants" class="mw-redirect">nuclear power plants</a>;</li>
+<li>Computers used in <a href="/wiki/Aviation" title="Aviation">aviation</a>,<sup id="cite_ref-Wired-FAA_12-0" class="reference"><a href="#cite_note-Wired-FAA-12"><span>[</span>12<span>]</span></a></sup> such as <a href="/wiki/FADEC" title="FADEC">FADECs</a> and <a href="/wiki/Avionics" title="Avionics">avionics</a>;</li>
+<li>Computerized medical equipment;</li>
+</ul>
+</li>
+<li>Very simple systems, where there is no need to compromise security in the first place, such as:
+<ul>
+<li>The <a href="/wiki/Engine_control_unit" title="Engine control unit">engine control unit</a> in an <a href="/wiki/Automobile" title="Automobile" class="mw-redirect">automobile</a>;</li>
+<li>A digital <a href="/wiki/Thermostat" title="Thermostat">thermostat</a> for temperature and compressor regulation in home HVAC and refrigeration systems;</li>
+<li>Electronic <a href="/wiki/Irrigation_sprinkler" title="Irrigation sprinkler">sprinkler</a> controls for watering of lawns.</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Limitations">Limitations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=edit&amp;section=3" title="Edit section: Limitations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Limitations imposed on devices used in these environments may include a ban on wireless connections to or from the secure network, or similar restrictions on <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">EM</a> leakage from the secure network through the use of <a href="/wiki/TEMPEST" title="TEMPEST" class="mw-redirect">TEMPEST</a> or a <a href="/wiki/Faraday_cage" title="Faraday cage">Faraday cage</a>.</p>
+<p>Further, scientists in 2013 demonstrated the viability of <a href="/wiki/Air_gap_malware" title="Air gap malware">air gap malware</a> designed to defeat air gap isolation using acoustic signaling.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Shortly after that, <a href="/wiki/Network_security" title="Network security">network security</a> researcher <a href="/wiki/Dragos_Ruiu" title="Dragos Ruiu" class="mw-redirect">Dragos Ruiu</a>'s <a href="/wiki/BadBIOS" title="BadBIOS">BadBIOS</a> received press attention.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In 2014, researchers introduced "AirHopper", a bifurcated attack pattern showing the feasibility of data exfiltration from an isolated computer to a nearby mobile phone, using FM frequency signals.<sup id="cite_ref-arxiv.org_6-1" class="reference"><a href="#cite_note-arxiv.org-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-cyber.bgu.ac.il_7-1" class="reference"><a href="#cite_note-cyber.bgu.ac.il-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Later in 2015, "BitWhisper", a Covert Signaling Channel between Air-Gapped Computers using Thermal Manipulations was introduced. "BitWhisper" supports bidirectional communication and requires no additional dedicated peripheral hardware.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Tempest_(codename)" title="Tempest (codename)">Tempest (codename)</a></li>
+<li><a href="/wiki/SIPRNet" title="SIPRNet">SIPRNet</a></li>
+<li><a href="/wiki/NIPRNet" title="NIPRNet">NIPRNet</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://en.wiktionary.org/wiki/airwall"><i>Wiktionary: Airwall</i></a>, retrieved on 2010-05-13</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://whatis.techtarget.com/definition/air-gapping"><i>Whatis.com: Air gapping</i></a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external mw-magiclink-rfc" rel="nofollow" href="//tools.ietf.org/html/rfc4949">RFC 4949</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://news.cnet.com/8301-13772_3-57413329-52/stuxnet-delivered-to-iranian-nuclear-plant-on-thumb-drive/">"Stuxnet delivered to Iranian nuclear plant on thumb drive"</a>. <i>CNET</i>. 12 April 2012.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=Stuxnet+delivered+to+Iranian+nuclear+plant+on+thumb+drive&amp;rft.date=12+April+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.cnet.com%2F8301-13772_3-57413329-52%2Fstuxnet-delivered-to-iranian-nuclear-plant-on-thumb-drive%2F&amp;rft.jtitle=CNET&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">Hanspach, Michael; Goetz, Michael (November 2013). <a rel="nofollow" class="external text" href="http://www.jocm.us/index.php?m=content&amp;c=index&amp;a=show&amp;catid=124&amp;id=600">"On Covert Acoustical Mesh Networks in Air"</a>. <i>Journal of Communications</i> (Engineering and Technology Publishing) <b>8</b> (11): 758–767. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.12720%2Fjcm.8.11.758-767">10.12720/jcm.8.11.758-767</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 November</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=On+Covert+Acoustical+Mesh+Networks+in+Air&amp;rft.aufirst=Michael&amp;rft.au=Goetz%2C+Michael&amp;rft.au=Hanspach%2C+Michael&amp;rft.aulast=Hanspach&amp;rft.date=November+2013&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jocm.us%2Findex.php%3Fm%3Dcontent%26c%3Dindex%26a%3Dshow%26catid%3D124%26id%3D600&amp;rft_id=info%3Adoi%2F10.12720%2Fjcm.8.11.758-767&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Communications&amp;rft.pages=758-767&amp;rft.pub=Engineering+and+Technology+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-arxiv.org-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-arxiv.org_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-arxiv.org_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Guri, Mordechai; Kedma, Gabi; Kachlon, Assaf; Elovici, Yuval (November 2014). <a rel="nofollow" class="external text" href="http://arxiv.org/abs/1411.0237v1">"AirHopper: Bridging the Air-Gap between Isolated Networks and Mobile Phones using Radio Frequencies"</a>. <i>arXiv (C) IEEE</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=AirHopper%3A+Bridging+the+Air-Gap+between+Isolated+Networks+and+Mobile+Phones+using+Radio+Frequencies&amp;rft.au=Elovici%2C+Yuval&amp;rft.aufirst=Mordechai&amp;rft.au=Guri%2C+Mordechai&amp;rft.au=Kachlon%2C+Assaf&amp;rft.au=Kedma%2C+Gabi&amp;rft.aulast=Guri&amp;rft.date=November+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farxiv.org%2Fabs%2F1411.0237v1&amp;rft.jtitle=arXiv+%28C%29+IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cyber.bgu.ac.il-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-cyber.bgu.ac.il_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cyber.bgu.ac.il_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Guri, Mordechai; Kedma, Gabi; Kachlon, Assaf; Elovici, Yuval (November 2014). <a rel="nofollow" class="external text" href="http://cyber.bgu.ac.il/content/how-leak-sensitive-data-isolated-computer-air-gap-near-mobile-phone-airhopper">"How to leak sensitive data from an isolated computer (air-gap) to a near by mobile phone - AirHopper"</a>. <i>BGU Cyber Security Labs</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=How+to+leak+sensitive+data+from+an+isolated+computer+%28air-gap%29+to+a+near+by+mobile+phone+-+AirHopper&amp;rft.au=Elovici%2C+Yuval&amp;rft.aufirst=Mordechai&amp;rft.au=Guri%2C+Mordechai&amp;rft.au=Kachlon%2C+Assaf&amp;rft.au=Kedma%2C+Gabi&amp;rft.aulast=Guri&amp;rft.date=November+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcyber.bgu.ac.il%2Fcontent%2Fhow-leak-sensitive-data-isolated-computer-air-gap-near-mobile-phone-airhopper&amp;rft.jtitle=BGU+Cyber+Security+Labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ZDNet-NSA-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-ZDNet-NSA_8-0">^</a></b></span> <span class="reference-text"><span class="citation web">Lemos, Robert (2001-02-01). <a rel="nofollow" class="external text" href="http://www.zdnet.com/news/nsa-attempting-to-design-crack-proof-computer/114035">"NSA attempting to design crack-proof computer"</a>. <i>ZDNet News</i>. CBS Interactive, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-10-12</span></span>. <q>For example, top-secret data might be kept on a different computer than data classified merely as sensitive material. Sometimes, for a worker to access information, up to six different computers can be on a single desk. That type of security is called, in typical intelligence community jargon, an <b>air gap.</b></q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=NSA+attempting+to+design+crack-proof+computer&amp;rft.aufirst=Robert&amp;rft.aulast=Lemos&amp;rft.au=Lemos%2C+Robert&amp;rft.date=2001-02-01&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.zdnet.com%2Fnews%2Fnsa-attempting-to-design-crack-proof-computer%2F114035&amp;rft.jtitle=ZDNet+News&amp;rft.pub=CBS+Interactive%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Infoworld-FedAirSneakernet-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Infoworld-FedAirSneakernet_9-0">^</a></b></span> <span class="reference-text"><span class="citation web">Rist, Oliver (2006-05-29). <a rel="nofollow" class="external text" href="http://www.infoworld.com/article/06/05/29/78289_22FEenterhack1_1.html">"Hack Tales: <b>Air-gap</b> networking for the price of a pair of sneakers"</a>. <i>Infoworld</i>. IDG Network<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-16</span></span>. <q>In high-security situations, various forms of data often must be kept off production networks, due to possible contamination from nonsecure resources&#160;— such as, say, the Internet. So IT admins must build enclosed systems to house that data&#160;— stand-alone servers, for example, or small networks of servers that aren't connected to anything but one another. There's nothing but air between these and other networks, hence the term <b>air gap</b>, and transferring data between them is done the old-fashioned way: moving disks back and forth by hand, via '<a href="/wiki/Sneakernet" title="Sneakernet">sneakernet</a>'.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=Hack+Tales%3A+Air-gap+networking+for+the+price+of+a+pair+of+sneakers&amp;rft.aufirst=Oliver&amp;rft.aulast=Rist&amp;rft.au=Rist%2C+Oliver&amp;rft.date=2006-05-29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.infoworld.com%2Farticle%2F06%2F05%2F29%2F78289_22FEenterhack1_1.html&amp;rft.jtitle=Infoworld&amp;rft.pub=IDG+Network&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.insurancenewsnet.com/images/post/112612_Weber_complaint.pdf">"Weber vs SEC"</a> <span style="font-size:85%;">(PDF)</span>. insurancenewsnet.com. 2012-11-15. p.&#160;35. <q>Stock exchange internal network computer systems are so sensitive that they are “air gapped” and not attached to the internet, in order to protect them from attack, intrusion, or other malicious acts by third party adversaries.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.btitle=Weber+vs+SEC&amp;rft.date=2012-11-15&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.insurancenewsnet.com%2Fimages%2Fpost%2F112612_Weber_complaint.pdf&amp;rft.pages=35&amp;rft.pub=insurancenewsnet.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.insurancenewsnet.com/images/post/112612">"Weber vs SEC"</a>. <q>Industrial internal network computer systems are so sensitive that they are “air gapped” and neither attached to the internet nor insecurely connects to the corporate network, in order to protect them from attack, intrusion, or other malicious acts by third party adversaries.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.btitle=Weber+vs+SEC&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.insurancenewsnet.com%2Fimages%2Fpost%2F112612&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Wired-FAA-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Wired-FAA_12-0">^</a></b></span> <span class="reference-text"><span class="citation web">Zetter, Kim (2008-01-04). <a rel="nofollow" class="external text" href="http://www.wired.com/politics/security/news/2008/01/dreamliner_security">"FAA: Boeing's New 787 May Be Vulnerable to Hacker Attack"</a>. <i>Wired Magazine</i>. Condénet, Inc. <a rel="nofollow" class="external text" href="http://web.archive.org/web/20081223151833/http://www.wired.com/politics/security/news/2008/01/dreamliner_security">Archived</a> from the original on 23 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-16</span></span>. <q>(...<a href="/wiki/Boeing" title="Boeing">Boeing</a>...) wouldn't go into detail about how (...it...) is tackling the issue but says it is employing a combination of solutions that involves some physical separation of the networks, known as <b>air gaps</b>, and software firewalls.</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=FAA%3A+Boeing%27s+New+787+May+Be+Vulnerable+to+Hacker+Attack&amp;rft.aufirst=Kim&amp;rft.aulast=Zetter&amp;rft.au=Zetter%2C+Kim&amp;rft.date=2008-01-04&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wired.com%2Fpolitics%2Fsecurity%2Fnews%2F2008%2F01%2Fdreamliner_security&amp;rft.jtitle=Wired+Magazine&amp;rft.pub=Cond%C3%A9net%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Hanspach, Michael; Goetz, Michael (November 2013). "On Covert Acoustical Mesh Networks in Air". <i>Journal of Communications</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.12720%2Fjcm.8.11.758-767">10.12720/jcm.8.11.758-767</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=On+Covert+Acoustical+Mesh+Networks+in+Air&amp;rft.aufirst=Michael&amp;rft.au=Goetz%2C+Michael&amp;rft.au=Hanspach%2C+Michael&amp;rft.aulast=Hanspach&amp;rft.date=November+2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.12720%2Fjcm.8.11.758-767&amp;rft.jtitle=Journal+of+Communications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation news">Leyden, John (5 Dec 2013). <a rel="nofollow" class="external text" href="http://www.theregister.co.uk/2013/12/05/airgap_chatting_malware/">"Hear that? It's the sound of BadBIOS wannabe chatting over air gaps"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.aufirst=John&amp;rft.aulast=Leyden&amp;rft.au=Leyden%2C+John&amp;rft.btitle=Hear+that%3F+It%27s+the+sound+of+BadBIOS+wannabe+chatting+over+air+gaps&amp;rft.date=5+Dec+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theregister.co.uk%2F2013%2F12%2F05%2Fairgap_chatting_malware%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Guri, Mordechai; Monitz, Matan; Mirski, Yisroel; Elovici, Yuval (April 2015). <a rel="nofollow" class="external text" href="http://arxiv.org/abs/1503.07919">"BitWhisper: Covert Signaling Channel between Air-Gapped Computers using Thermal Manipulations"</a>. <i>arXiv (C) IEEE</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=BitWhisper%3A+Covert+Signaling+Channel+between+Air-Gapped+Computers+using+Thermal+Manipulations&amp;rft.au=Elovici%2C+Yuval&amp;rft.aufirst=Mordechai&amp;rft.au=Guri%2C+Mordechai&amp;rft.aulast=Guri&amp;rft.au=Mirski%2C+Yisroel&amp;rft.au=Monitz%2C+Matan&amp;rft.date=April+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Farxiv.org%2Fabs%2F1503.07919&amp;rft.jtitle=arXiv+%28C%29+IEEE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation web">Guri, Mordechai; Monitz, Matan; Mirski, Yisroel; Elovici, Yuval (March 2015). <a rel="nofollow" class="external text" href="http://cyber.bgu.ac.il/blog/bitwhisper-heat-air-gap">"BitWhisper: The Heat is on the Air-Gap"</a>. <i>BGU Cyber Security Labs</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAir+gap+%28networking%29&amp;rft.atitle=BitWhisper%3A+The+Heat+is+on+the+Air-Gap&amp;rft.au=Elovici%2C+Yuval&amp;rft.aufirst=Mordechai&amp;rft.au=Guri%2C+Mordechai&amp;rft.aulast=Guri&amp;rft.au=Mirski%2C+Yisroel&amp;rft.au=Monitz%2C+Matan&amp;rft.date=March+2015&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fcyber.bgu.ac.il%2Fblog%2Fbitwhisper-heat-air-gap&amp;rft.jtitle=BGU+Cyber+Security+Labs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1130
+CPU time usage: 0.233 seconds
+Real time usage: 0.253 seconds
+Preprocessor visited node count: 826/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25462/2097152 bytes
+Template argument size: 218/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 2.21 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.700      1 - -total
+ 95.60%  193.772      1 - Template:Reflist
+ 31.82%   64.498      2 - Template:Cite_news
+ 31.39%   63.628      9 - Template:Cite_web
+  7.68%   15.568      2 - Template:Cite_journal
+  4.33%    8.772      1 - Template:Columns-list
+  3.07%    6.218      1 - Template:Div_col
+  1.01%    2.052      1 - Template:Column-count
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3825008-0!*!0!!en!*!* and timestamp 20150623114941 and revision id 668277426
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Air_gap_(networking)&amp;oldid=668277426">https://en.wikipedia.org/w/index.php?title=Air_gap_(networking)&amp;oldid=668277426</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Network_architecture" title="Category:Network architecture">Network architecture</a></li><li><a href="/wiki/Category:Data_security" title="Category:Data security">Data security</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Air+gap+%28networking%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Air+gap+%28networking%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Air_gap_(networking)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Air_gap_(networking)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Air_gap_(networking)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Air_gap_(networking)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Air_gap_(networking)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Air_gap_(networking)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Air_gap_(networking)&amp;oldid=668277426" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Air_gap_(networking)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q407261" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Air_gap_%28networking%29&amp;id=668277426" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Air+gap+%28networking%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Air+gap+%28networking%29&amp;oldid=668277426&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Air_gap_(networking)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Air_Gap" title="Air Gap – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Air_gap_(informatique)" title="Air gap (informatique) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%B7%D0%BE%D1%80_(%D1%81%D0%B5%D1%82%D0%B8_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)" title="Воздушный зазор (сети передачи данных) – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E7%BD%91%E9%97%B8" title="网闸 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q407261#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 June 2015, at 11:49.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Air_gap_(networking)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1051"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Tide-predicting machine - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tide-predicting_machine" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tide-predicting_machine&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tide-predicting_machine&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Tide-predicting_machine" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tide-predicting_machine" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tide-predicting_machine","wgTitle":"Tide-predicting machine","wgCurRevisionId":664184384,"wgRevisionId":664184384,"wgArticleId":24474291,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category without a link on Wikidata","Analog computers","Navigation","Tides"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tide-predicting_machine","wgRelevantArticleId":24474291,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DSCN1739-thomson-tide-machine.jpg/86px-DSCN1739-thomson-tide-machine.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q387847"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Tide-predicting_machine skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Tide-predicting machine</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">See also: <a href="/wiki/Tide" title="Tide">Tide</a>, <a href="/wiki/Theory_of_tides" title="Theory of tides">Theory of tides</a> and <a href="/wiki/Tidal_force" title="Tidal force">Tidal force</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:DSCN1739-thomson-tide-machine.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DSCN1739-thomson-tide-machine.jpg/400px-DSCN1739-thomson-tide-machine.jpg" width="400" height="467" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/d/d7/DSCN1739-thomson-tide-machine.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d7/DSCN1739-thomson-tide-machine.jpg 2x" data-file-width="600" data-file-height="700" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:DSCN1739-thomson-tide-machine.jpg" class="internal" title="Enlarge"></a></div>
+10-component tide-predicting machine of 1872-3, conceived by Sir William Thomson (<a href="/wiki/Lord_Kelvin" title="Lord Kelvin" class="mw-redirect">Lord Kelvin</a>), and designed by Thomson and collaborators, at the <a href="/wiki/Science_Museum,_London" title="Science Museum, London">Science Museum</a>, South Kensington, London</div>
+</div>
+</div>
+<p>A <b>tide-predicting machine</b> was a special-purpose mechanical <a href="/wiki/Analog_computer" title="Analog computer">analog computer</a> of the late 19th and early 20th centuries, constructed and set up to predict the ebb and flow of sea tides and the irregular variations in their heights – which change in mixtures of rhythms, that never (in the aggregate) repeat themselves exactly.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Its purpose was to shorten the laborious and error-prone computations of tide-prediction. Such machines usually provided predictions valid from hour to hour and day to day for a year or more ahead.</p>
+<p>The first tide-predicting machine, designed and built in 1872-3, and followed by two larger machines on similar principles in 1876 and 1879, was conceived by Sir William Thomson (who later became <a href="/wiki/Lord_Kelvin" title="Lord Kelvin" class="mw-redirect">Lord Kelvin</a>). Thomson had introduced the method of <a href="/wiki/Theory_of_tides#Harmonic_analysis" title="Theory of tides">harmonic analysis</a> of tidal patterns in the 1860s and the first machine was designed by Thomson with the collaboration of Edward Roberts (assistant at the UK <a href="/wiki/HM_Nautical_Almanac_Office" title="HM Nautical Almanac Office">HM Nautical Almanac Office</a>), and of Alexander Légé, who constructed it.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:099-ferreltpm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/099-ferreltpm.jpg/400px-099-ferreltpm.jpg" width="400" height="516" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/099-ferreltpm.jpg/600px-099-ferreltpm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/099-ferreltpm.jpg/800px-099-ferreltpm.jpg 2x" data-file-width="2073" data-file-height="2673" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:099-ferreltpm.jpg" class="internal" title="Enlarge"></a></div>
+William Ferrel's tide-predicting machine of 1881-2, now at the Smithsonian National Museum of American History</div>
+</div>
+</div>
+<p>In the US, another tide-predicting machine on a different pattern (shown right) was designed by <a href="/wiki/William_Ferrel" title="William Ferrel">William Ferrel</a> and built in 1881-2.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup> Developments and improvements continued in the UK, US and Germany through the first half of the 20th century. The machines became widely used for constructing official tidal predictions for general marine navigation. They came to be regarded as of military strategic importance during <a href="/wiki/World_War_I" title="World War I">World War I</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> and again during the <a href="/wiki/World_War_II" title="World War II">second World War</a>, when the US No.2 Tide Predicting Machine, described below, was <a href="/wiki/Classified_information" title="Classified information">classified</a>, along with the data that it produced, and used to predict tides for the D-day <a href="/wiki/Normandy_landings" title="Normandy landings">Normandy landings</a> and all the island landings in the <a href="/wiki/Pacific_war" title="Pacific war" class="mw-redirect">Pacific war</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> Military interest in such machines continued even for some time afterwards.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> They were made obsolete by digital electronic computers that can be programmed to carry out similar computations, but the tide-predicting machines continued in use until the 1960s and 1970s.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Several examples of tide-predicting machines remain <a href="#Tide_predicting_machines_on_display">on display</a> as museum pieces, occasionally put into operation for demonstration purposes, monuments to the mathematical and mechanical ingenuity of their creators.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_to_the_problem_solved_by_the_machines"><span class="tocnumber">1</span> <span class="toctext">Background to the problem solved by the machines</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_they_worked_to_predict_the_tides"><span class="tocnumber">2</span> <span class="toctext">How they worked to predict the tides</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Online_demonstration_of_the_mechanism"><span class="tocnumber">3</span> <span class="toctext">Online demonstration of the mechanism</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History_of_their_building_and_use"><span class="tocnumber">4</span> <span class="toctext">History of their building and use</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#The_first_tide-predicting_machines_1872-1883"><span class="tocnumber">4.1</span> <span class="toctext">The first tide-predicting machines 1872-1883</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Tide_predicting_machines_on_display"><span class="tocnumber">5</span> <span class="toctext">Tide predicting machines on display</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_and_references"><span class="tocnumber">6</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_to_the_problem_solved_by_the_machines">Background to the problem solved by the machines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=1" title="Edit section: Background to the problem solved by the machines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Modern scientific study of tides dates back to Isaac Newton's 'Principia' of 1687, in which he applied the theory of gravitation to make a first approximation of the effects of the Moon and Sun on the Earth's tidal waters. The approximation developed by Newton and his successors of the next 90 years is known as the 'equilibrium theory' of tides.</p>
+<p>Beginning in the 1770s, <a href="/wiki/Pierre-Simon_Laplace" title="Pierre-Simon Laplace">Pierre-Simon Laplace</a> made a fundamental advance on the equilibrium approximation by bringing into consideration non-equilibrium dynamical aspects of the motion of tidal waters that occurs in response to the tide-generating forces due to the Moon and Sun.</p>
+<p>Laplace's improvements in theory were substantial, but they still left prediction in an approximate state. This position changed in the 1860s when the local circumstances of tidal phenomena were more fully brought into account by <a href="/wiki/Lord_Kelvin" title="Lord Kelvin" class="mw-redirect">William Thomson</a>'s application of <a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a> to the tidal motions. Thomson's work in this field was then further developed and extended by <a href="/wiki/George_Darwin" title="George Darwin">George Darwin</a>: Darwin's work was based on the <a href="/wiki/Lunar_theory" title="Lunar theory">lunar theory</a> current in his time. His symbols for the tidal harmonic constituents are still used. Darwin's harmonic developments of the tide-generating forces were later brought by <a href="/wiki/Arthur_Thomas_Doodson" title="Arthur Thomas Doodson">A T Doodson</a> up to date and extended in light of the new and more accurate lunar theory of <a href="/wiki/Ernest_William_Brown" title="Ernest William Brown">E W Brown</a> that remained current through most of the twentieth century.</p>
+<p>The state to which the science of tide-prediction had arrived by the 1870s can be summarized: Astronomical theories of the Moon and Sun had identified the frequencies and strengths of different components of the tide-generating force. But effective prediction at any given place called for measurement of an adequate sample of local tidal observations, to show the local tidal response at those different frequencies, in amplitude and phase. Those observations had then to be analyzed, to derive the coefficients and phase angles. Then, for purposes of prediction, those local tidal constants had to be recombined, each with a different component of the tide-generating forces to which it applied, and at each of a sequence of future dates and times, and then the different elements finally collected together to obtain their aggregate effects. In the age when calculations were done by hand and brain, with pencil and paper and tables, this was recognized as an immensely laborious and error-prone undertaking.</p>
+<p>Thomson recognized that what was needed was a convenient and preferably automated way to evaluate repeatedly the sum of tidal terms such as:</p>
+<p><img class="mwe-math-fallback-image-inline tex" alt="A_1 \cos(\omega_1 t+\phi_1)+A_2 \cos(\omega_2 t+\phi_2)+A_3 \cos(\omega_3 t+\phi_3)+\ldots" src="//upload.wikimedia.org/math/5/1/0/5100c869bd944f5844742b590d809544.png" /></p>
+<p>containing 10, 20 or even more trigonometrical terms, so that the computation could conveniently be repeated in full for each of a very large number of different chosen values of the date/time <img class="mwe-math-fallback-image-inline tex" alt="t" src="//upload.wikimedia.org/math/e/3/5/e358efa489f58062f10dd7316b65649e.png" />. This was the core of the problem solved by the tide-predicting machines.</p>
+<h2><span class="mw-headline" id="How_they_worked_to_predict_the_tides">How they worked to predict the tides</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=2" title="Edit section: How they worked to predict the tides">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thomson conceived his aim as to construct a mechanism that would evaluate this trigonometrical sum physically, e.g. as the vertical position of a pen that could then plot a curve on a moving band of paper.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:099-tmpshaft.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/099-tmpshaft.jpg/200px-099-tmpshaft.jpg" width="200" height="205" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/099-tmpshaft.jpg/300px-099-tmpshaft.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/099-tmpshaft.jpg/400px-099-tmpshaft.jpg 2x" data-file-width="691" data-file-height="709" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:099-tmpshaft.jpg" class="internal" title="Enlarge"></a></div>
+mechanism for generating sinusoidal motion component</div>
+</div>
+</div>
+<p>There were several mechanisms available to him for converting rotary motion into sinusoidal motion. One of them is shown in the schematic (right). A rotating drive-wheel is fitted with an off-center peg. A shaft with a horizontally-slotted section is free to move vertically up and down. The wheel's off-center peg is located in the slot. As a result, when the peg moves around with the wheel, it can make the shaft move up and down within limits. This arrangement shows that when the drive-wheel rotates uniformly, say clockwise, the shaft moves sinusoidally up and down. The vertical position of the center of the slot, at any time <img class="mwe-math-fallback-image-inline tex" alt="t" src="//upload.wikimedia.org/math/e/3/5/e358efa489f58062f10dd7316b65649e.png" />, can then be expressed as <img class="mwe-math-fallback-image-inline tex" alt="A_1 \cos(\omega_1 t+\phi_1)" src="//upload.wikimedia.org/math/b/8/c/b8c7a965eeaf1d353ef35b2b87e13b02.png" />, where <img class="mwe-math-fallback-image-inline tex" alt="A_1" src="//upload.wikimedia.org/math/e/2/8/e283f48f6f3d4077546b2b697c3eebad.png" /> is the radial distance from the wheel's center to the peg, <img class="mwe-math-fallback-image-inline tex" alt="\omega_1" src="//upload.wikimedia.org/math/7/a/f/7afeceb5c31669f4f13612b877d421b9.png" /> is the rate at which the wheel turns (in <a href="/wiki/Radian" title="Radian">radians</a> per unit of time), and <img class="mwe-math-fallback-image-inline tex" alt="\phi_1" src="//upload.wikimedia.org/math/a/f/a/afad4df65167d20f7c7037f3379c6798.png" /> is the starting phase angle of the peg, measured in radians from the 12 o'clock position to the angular position where the peg was at time zero.</p>
+<p>This arrangement makes a physical analog of just one trigonometrical term. Thomson needed to construct a physical sum of many such terms.</p>
+<p>At first he inclined to use gears. Then he discussed the problem with engineer <a href="/wiki/Beauchamp_Tower" title="Beauchamp Tower">Beauchamp Tower</a> before the British Association meeting in 1872, and Tower suggested the use of a device that (as he remembered) was once used by <a href="/wiki/Charles_Wheatstone" title="Charles Wheatstone">Wheatstone</a>. It was a chain running alternately over and under a sequence of pulleys on movable shafts. The chain was fixed at one end, and the other (free) end was weighted to keep it taut. As each shaft moved up or down it would take up or release a corresponding length of the chain. The movements in position of the free (movable) end of the chain represented the sum of the movements of the different shafts. The movable end was kept taut, and fitted with a pen and a moving band of paper on which the pen plotted a tidal curve. In some designs, the movable end of the line was connected instead to a dial and scale from which tidal heights could be read off.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a href="/wiki/File:099-tpm3-sk.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/099-tpm3-sk.jpg/400px-099-tpm3-sk.jpg" width="400" height="387" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/099-tpm3-sk.jpg/600px-099-tpm3-sk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/099-tpm3-sk.jpg/800px-099-tpm3-sk.jpg 2x" data-file-width="3921" data-file-height="3793" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:099-tpm3-sk.jpg" class="internal" title="Enlarge"></a></div>
+Thomson's design for the third tide-predicting machine, 1879-81</div>
+</div>
+</div>
+<p>One of Thomson's designs for the calculating part of a tide-predicting machine is shown in the figure (right), closely similar to the third machine of 1879-81. A long cord, with one end held fixed, passed vertically upwards and over a first upper pulley, then vertically downwards and under the next, and so on. These pulleys were all moved up and down by cranks, and each pulley took in or let out cord according to the direction in which it moved. These cranks were all moved by trains of wheels gearing into the wheels fixed on a drive shaft. The greatest number of teeth on any wheel was 802 engaging with another of 423. All the other wheels had comparatively small numbers of teeth. A flywheel of great inertia enabled the operator to turn the machine fast, without jerking the pulleys, and so to run off a year's curve in about twenty-five minutes. The machine shown in the figure was arranged for fifteen constituents in all.</p>
+<p>Thomson acknowledged that the use of an over-and-under arrangement of the flexible line that summed the motion components was suggested to him in August 1872 by engineer <a href="/wiki/Beauchamp_Tower" title="Beauchamp Tower">Beauchamp Tower</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Online_demonstration_of_the_mechanism">Online demonstration of the mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=3" title="Edit section: Online demonstration of the mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An online demonstration is available to show the principle of operation of a 7-component version of a tide-predicting machine otherwise like Thomson's (Kelvin's) original design.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> The animation shows part of the operation of the machine: the motions of several pulleys can be seen, each moving up and down to simulate one of the tidal frequencies; and the animation also shows how these sinusoidal motions were generated by wheel rotations and how they were combined to form the resulting tidal curve. Not shown in the animation is the way in which the individual motions were generated in the machine at the correct relative frequencies, by gearing in the correct ratios, or how the amplitudes and starting phase angles for each motion were set in an adjustable way. These amplitudes and starting phase angles represented the local tidal constants, separately reset, and different for each place for which predictions were to be made. Also, in the real Thomson machines, to save on motion and wear of the other parts, the shaft and pulley with the largest expected motion (for the M2 tide component at twice per lunar day) was mounted nearest to the pen, and the shaft and pulley representing the smallest component was at the other end, nearest to the point of fixing of the flexible cord or chain, to minimize unnecessary motion in the most part of the flexible cord.</p>
+<h2><span class="mw-headline" id="History_of_their_building_and_use">History of their building and use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=4" title="Edit section: History of their building and use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="The_first_tide-predicting_machines_1872-1883">The first tide-predicting machines 1872-1883</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=5" title="Edit section: The first tide-predicting machines 1872-1883">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first tide predicting machine, designed in 1872 and of which a model was exhibited at the British Association meeting in 1873<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> (for computing 8 tidal components), followed in 1875-6 by a machine on a slightly larger scale (for computing 10 tidal components), was designed by Sir William Thomson (who later became <a href="/wiki/Lord_Kelvin" title="Lord Kelvin" class="mw-redirect">Lord Kelvin</a>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The 10-component machine and results obtained from it were shown at the Paris Exhibition in 1878. An enlarged and improved version of the machine, for computing 20 tidal components, was built for the Government of India in 1879, and then modified in 1881 to extend it to compute 24 harmonic components.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>In these machines, the prediction was delivered in the form of a continuous graphical pen-plot of tidal height against time. The plot was marked with hour- and noon-marks, and was made by the machine on a moving band of paper as the mechanism was turned. A year's tidal predictions for a given place, usually a chosen seaport, could be plotted by the 1876 and 1879 machines in about four hours (but the drives had to be rewound during that time).</p>
+<p>In 1881-2, another tide predicting machine, operating quite differently, was designed by <a href="/wiki/William_Ferrel" title="William Ferrel">William Ferrel</a> and built in Washington under Ferrel's direction by E G Fischer (who later designed the successor machine described below, which was in operation at the US Coast and Geodetic Survey from 1912 until the 1960s).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> Ferrel's machine delivered predictions by telling the times and heights of successive high and low waters, shown by pointer-readings on dials and scales. These were read by an operator who copied the readings on to forms, to be sent to the printer of the US tide-tables.</p>
+<p>These machines had to be set with local tidal constants special to the place for which predictions were to be made. Such numbers express the local tidal response to individual components of the global tide-generating potential, at different frequencies. This local response, shown in the timing and the height of tidal contributions at different frequencies, is a result of local and regional features of the coasts and sea-bed. The tidal constants are usually evaluated from local histories of tide-gauge observations, by harmonic analysis based on the principal tide-generating frequencies as shown by the global <a href="/wiki/Theory_of_tides" title="Theory of tides">theory of tides</a> and the underlying <a href="/wiki/Lunar_theory" title="Lunar theory">lunar theory</a>.</p>
+<p>Thomson was also responsible for originating the method of harmonic tidal analysis, and for devising a harmonic analyzer machine, which partly mechanized the evaluation of the constants from the gauge readings.</p>
+<p>Development and improvement based on the experience of these early machines continued through the first half of the 20th century.</p>
+<p>British Tide Predictor No.2, after initial use to generate data for Indian ports, was used for tide prediction for the British empire beyond India, and transferred to the National Physical Laboratory in 1903. British Tide Predictor No.3 was sold to the French Government in 1900 and used to generate French tide tables.</p>
+<p>US Tide Predicting Machine No.2 ("Old Brass Brains")<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> was designed in the 1890s, completed and brought into service in 1912, used for several decades including during the second World War, and retired in the 1960s.</p>
+<p>Tide-predicting machines were built in Germany during World War I, and again in the period 1935-8.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></p>
+<p>Two of the last to be built were:</p>
+<ul>
+<li>a TPM built in 1947 for the Norwegian Hydrographic Service by Chadburn of Liverpool, and designed to compute 30 tidal harmonic constituents; used until 1975 to compute official Norwegian Tide Tables, before being superseded by digital computing.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></li>
+<li>the <a href="#refpoltpm">Doodson-Légé TPM</a> built in 1949,</li>
+<li>an East German TPM built 1953-5.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Tide_predicting_machines_on_display">Tide predicting machines on display</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=6" title="Edit section: Tide predicting machines on display">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>They can be seen in London,<sup id="cite_ref-scimustpm_18-0" class="reference"><a href="#cite_note-scimustpm-18"><span>[</span>18<span>]</span></a></sup> Washington,<sup id="cite_ref-us2obb_19-0" class="reference"><a href="#cite_note-us2obb-19"><span>[</span>19<span>]</span></a></sup> Liverpool,<sup id="cite_ref-poltpm_20-0" class="reference"><a href="#cite_note-poltpm-20"><span>[</span>20<span>]</span></a></sup> and elsewhere, including the Deutsches Museum in Munich.</p>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=7" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">See <a href="#refAMS-22">American Mathematical Society (2009) II.2</a>, showing how combinations of waves in non-commensurable frequencies cannot repeat their resultant patterns exactly.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The <a href="#refprocice"><i>Proceedings</i> of the Inst.C.E. (1881)</a> contains minutes of a somewhat disputatious discussion that took place in 1881 over who had contributed what details. Thomson acknowledged previous work of the 1840s relating to the general mechanical solution of equations, plus a specific suggestion he had from <a href="/wiki/Beauchamp_Tower" title="Beauchamp Tower">Beauchamp Tower</a> to use a device of pulleys and a chain once used by <a href="/wiki/Charles_Wheatstone" title="Charles Wheatstone">Wheatstone</a>; Thomson also credited Roberts with calculating the astronomical ratios embodied in the machine, and Légé with design of the drive gear details; Roberts claimed further credit for selecting other parts of the mechanical design.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#refferr1883">Ferrel (1883)</a>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">During World War I, Germany built its first tide-predicting machine in 1915-16 when it could no longer obtain British hydrographic data (see <a href="#reftpmde">Deutsches Museum exhibit, online</a>), and when it specially needed accurate and independently-sourced tide data for conducting the <a href="/wiki/U-boat_Campaign_(World_War_I)" title="U-boat Campaign (World War I)">U-boat campaign</a> (see <a href="#refdsm">German Maritime Museum exhibit, online</a>).</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">See <a href="#refobb">Ehret (2008)</a> at page 44).</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">During the '<a href="/wiki/Cold_war" title="Cold war" class="mw-redirect">cold war</a>', East Germany built its own tide-predicting machine in 1953-5 "at unbelievable expense", see <a href="#refdsm">German Maritime Museum (online exhibit)</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">The US No.2 machine was retired in the 1960s, see <a href="#refobb">Ehret (2008)</a>; the machine used in Norway continued in use until the 1970s (see <a href="#refnortpm">Norway online exhibit)</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Beauchamp Tower was initially referred to in Thomson's acknowledgements only as 'Mr Tower', but he was more fully identified in discussion between Thomson and E Roberts at the Institution of Civil Engineers (reported in the ICE minutes in the <a href="#refprocice"><i>Proceedings</i>, 1881</a>).</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">See American Mathematical Society/Bill Casselman (2009), <a rel="nofollow" class="external text" href="http://www.ams.org/featurecolumn/archive/tidesIII3.html">animated JAVA simulation based on Kelvin's Tide Predicting Machine</a> (the animation shows computing 7 harmonic components).</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">See <a href="#refprocice"><i>Proceedings</i> of the Inst.C.E. (1881)</a>, at page 31.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">see <a href="#refthom1881">W Thomson (1881)</a>, a paper of Thomson's presented to the Institution of Civil Engineers in January 1881. Subsequent discussion at the same meeting of the Institution of Civil Engineers covered questions of history and priority about aspects of the design since 1872, see <a href="#refprocice">Proceedings for January 1881</a> especially pages 30-31. The design had been described at the British Association Meeting of 1872 and a model for an 8-component prototype shown at the British Association meeting of 1873.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">The 20-component instrument was described by <a href="#refrob1879">E Roberts (1879)</a>.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#refferr1883">W Ferrel (1883)</a>; also <a href="#reffis-tpm2">E G Fischer (1912)</a>, at pages 273-275; also <a href="#refsci1884"><i>Science</i> (1884)</a>.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">See <a href="#refobb">Ehret, 2008</a> for its later history, and for its construction <a href="#reffis-tpm2">E G Fischer</a>, and <a href="#refustpm2">(1915) Description of the US Tide Predicting Machine No 2</a>, see also <a href="#refNOAA">NOAA</a>.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">See <a href="#refdsm">German Maritime Museum</a> online exhibit, and <a href="#reftpmde">Deutsches Museum</a> online exhibit.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://vannstand.statkart.no/Engelsk/hist_tilbake.php">Norwegian Hydrographic Service - history</a>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">See <a href="#refdsm">German Maritime Museum (online exhibit)</a>.</span></li>
+<li id="cite_note-scimustpm-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-scimustpm_18-0">^</a></b></span> <span class="reference-text">The first complete tide-predicting machine, from 1872-3, by Thomson with contributions from Tower, Roberts, and Légé, is at the Science Museum, South Kensington, London.</span></li>
+<li id="cite_note-us2obb-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-us2obb_19-0">^</a></b></span> <span class="reference-text">The first US tide-predicting machine by Ferrel, 1881-2, is exhibited at <a href="#refsmithferr">The Smithsonian National Museum of American History</a>; and the second US tide-predicting machine, which gained the nickname "Old Brass Brains" (see <a href="#refobb">Ehret, 2008</a>), is exhibited at the <a href="/wiki/NOAA" title="NOAA" class="mw-redirect">NOAA</a> offices in Silver Spring, MD (NOAA is the National Oceanographic and Atmospheric Administration).</span></li>
+<li id="cite_note-poltpm-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-poltpm_20-0">^</a></b></span> <span class="reference-text">The <a href="#refpoltpm">Doodson-Légé machine</a> is exhibited at the <a href="/wiki/Proudman_Oceanographic_Laboratory" title="Proudman Oceanographic Laboratory">Proudman Oceanographic Laboratory</a>, Liverpool, UK.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=8" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><cite id="dummy"></cite></p>
+<ul>
+<li><cite id="dummy"><cite id="refobb">T Ehret (2008), <a rel="nofollow" class="external text" href="http://www.webmazine.org/issues/bull233/documents/oldBrassBrains.pdf">"Old Brass Brains - Mechanical Prediction of Tides"</a>, ACSM Bulletin, June 2008, pages 41–44.</cite></cite></li>
+<li><cite id="dummy"><cite id="refferr1883">W Ferrel (1883), "A maxima and minima tide-predicting machine", in <i>U S Coast Survey</i> (1883), Appendix 10, pages 253-272.</cite></cite></li>
+<li><cite id="dummy"><cite id="reffis-tpm2">E G Fischer (1912), <a rel="nofollow" class="external text" href="http://articles.adsabs.harvard.edu/full/1912PA.....20..269F">"The Coast and Geodetic Survey Tide Predicting Machine No. 2"</a>, <i>Popular Astronomy</i>, vol.20 (1912), pages 269-285.</cite></cite></li>
+<li><cite id="dummy"><cite id="refprocice">Institution of Civil Engineers (London), <i>Proceedings</i> volume 65 (1881), giving discussion after presentation of tide machines, minuted at pages 25–64.</cite></cite></li>
+<li><cite id="dummy"><cite id="refrob1879">E Roberts (1879), "A new Tide-predicter", <i>Proceedings of the Royal Society</i>, xxix (1879), pages 198-201.</cite></cite></li>
+<li><cite id="dummy"><cite id="refsci1884"><i>Science</i> (1884) [no author cited], "The Maxima and Minima Tide-Predicting Machine", <i>Science</i>, Vol.3 (1884), Issue 61, pp. 408-410.</cite></cite></li>
+<li><cite id="dummy"><cite id="refthom1881">W Thomson (1881), "The tide gauge, tidal harmonic analyser, and tide predicter", <i>Proceedings of the Institution of Civil Engineers</i>, vol.65 (1881), pages 3–24.</cite></cite></li>
+<li><cite id="dummy"><cite id="refustpm2">US Department of Commerce, Special Publication No.32 (1915), "Description of the US Coast and Geodetic Survey Tide-Predicting Machine No.2".</cite></cite></li>
+</ul>
+<h2><cite id="dummy"><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></cite></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Tide-predicting_machines" class="extiw" title="commons:Category:Tide-predicting machines">Tide-predicting machines</a></b></i>.</td>
+</tr>
+</table>
+<p><cite id="dummy"><cite id="dummy2"></cite></cite></p>
+<ul>
+<li><cite id="dummy"><cite id="refAMS-22">American Mathematical Society (2009), <a rel="nofollow" class="external text" href="http://www.ams.org/featurecolumn/archive/tidesII2.html">Fourier Analysis of Ocean Tides, II.2, showing effect of components at incommensurable frequencies</a>.</cite></cite></li>
+<li><cite id="dummy"><cite id="refAMS-sim">American Mathematical Society/Bill Casselman (2009), <a rel="nofollow" class="external text" href="http://www.ams.org/featurecolumn/archive/tidesIII3.html">animated JAVA simulation based on Kelvin's Tide Predicting Machine</a> (the animation shows computing 7 harmonic components).</cite></cite></li>
+<li><cite id="dummy"><cite id="reftpmde">Deutsches Museum, Munich, online exhibit of <a rel="nofollow" class="external text" href="http://www.deutsches-museum.de/en/collections/transport/maritime-exhibition/tide-predicter/">2nd German tide-predicting machine (described in English)</a>.</cite></cite></li>
+<li><cite id="dummy"><cite id="refdsm">German Maritime Museum (<a rel="nofollow" class="external text" href="http://ww2.dsm.museum/gez/html/die_vorausberechnung.html">online exhibit of tide prediction and tide-predicting machines, in German</a>).</cite></cite></li>
+<li><cite id="dummy"><cite id="refNOAA">NOAA online exhibit of <a rel="nofollow" class="external text" href="http://tidesandcurrents.noaa.gov/predmach.html">US No 2 Tide Predicting Machine</a> with <a rel="nofollow" class="external text" href="http://tidesandcurrents.noaa.gov/predma2.html">additional images</a>.</cite></cite></li>
+<li><cite id="dummy"><cite id="refnortpm">Norway online exhibit of <a rel="nofollow" class="external text" href="http://vannstand.statkart.no/Engelsk/hist_tilbake.php">Norwegian tide-predicting history &amp; use of TPM (in English)</a>.</cite></cite></li>
+<li><cite id="dummy"><cite id="refpoltpm"><a href="/wiki/Proudman_Oceanographic_Laboratory" title="Proudman Oceanographic Laboratory">Proudman Oceanographic Laboratory</a>, Liverpool, online exhibit of <a rel="nofollow" class="external text" href="http://www.pol.ac.uk/home/insight/doodsonmachine.html">Doodson-Légé Tide Predicting Machine</a>.</cite></cite></li>
+<li><cite id="dummy"><cite id="refscimus">Science Museum, South Kensington, London: <a rel="nofollow" class="external text" href="http://www.sciencemuseum.org.uk/objects/oceanography/1876-1129.aspx">Kelvin Tide Predicting Machine (for computing 10 harmonic components)</a>, along with <a rel="nofollow" class="external text" href="http://www.ssplprints.com/image.php?id=92949">a closer view</a>.</cite></cite></li>
+<li><cite id="dummy"><cite id="refsmithferr">The Smithsonian National Museum of American History exhibits <a rel="nofollow" class="external text" href="http://americanhistory.si.edu/collections/object.cfm?key=35&amp;objkey=170">The Ferrel tide predicting machine of 1881-2</a>.</cite></cite></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1237
+CPU time usage: 0.127 seconds
+Real time usage: 0.451 seconds
+Preprocessor visited node count: 604/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 2378/2097152 bytes
+Template argument size: 256/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.010/10.000 seconds
+Lua memory usage: 565 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  387.015      1 - -total
+  6.36%   24.607      1 - Template:See_also
+  6.12%   23.667      1 - Template:Commons_category
+  4.03%   15.614      1 - Template:Reflist
+  3.27%   12.668      1 - Template:Commons
+  2.77%   10.717      1 - Template:Sister_project
+  2.03%    7.854      1 - Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24474291-0!*!0!!en!4!*!math=0 and timestamp 20150627035723 and revision id 664184384
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tide-predicting_machine&amp;oldid=664184384">https://en.wikipedia.org/w/index.php?title=Tide-predicting_machine&amp;oldid=664184384</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Analog_computers" title="Category:Analog computers">Analog computers</a></li><li><a href="/wiki/Category:Navigation" title="Category:Navigation">Navigation</a></li><li><a href="/wiki/Category:Tides" title="Category:Tides">Tides</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_without_a_link_on_Wikidata" title="Category:Commons category without a link on Wikidata">Commons category without a link on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tide-predicting+machine&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tide-predicting+machine" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tide-predicting_machine"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Tide-predicting_machine"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Tide-predicting_machine" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tide-predicting_machine&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tide-predicting_machine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tide-predicting_machine" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tide-predicting_machine&amp;oldid=664184384" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tide-predicting_machine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q387847" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tide-predicting_machine&amp;id=664184384" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tide-predicting+machine">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Tide-predicting+machine&amp;oldid=664184384&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tide-predicting_machine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Gezeitenrechenmaschine" title="Gezeitenrechenmaschine – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Machine_%C3%A0_pr%C3%A9voir_les_mar%C3%A9es" title="Machine à prévoir les marées – French" lang="fr" hreflang="fr">Français</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q387847#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 26 May 2015, at 22:06.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tide-predicting_machine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1172"});
+}</script>
+	</body>
+</html>

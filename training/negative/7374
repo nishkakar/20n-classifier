@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Aemulor - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Aemulor" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Aemulor&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Aemulor&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Aemulor" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Aemulor" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Aemulor","wgTitle":"Aemulor","wgCurRevisionId":646923244,"wgRevisionId":646923244,"wgArticleId":36205861,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2012","All articles containing potentially dated statements","Articles containing potentially dated statements from 2003","Incomplete lists from February 2012","RISC OS emulators","RISC OS emulation software","Proprietary software"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Aemulor","wgRelevantArticleId":36205861,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/en/thumb/9/98/Aemulor_logo.png/100px-Aemulor_logo.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4687756"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Aemulor skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Aemulor</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<caption class="summary">Aemulor</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Aemulor_logo.png" class="image"><img alt="Aemulor logo.png" src="//upload.wikimedia.org/wikipedia/en/9/98/Aemulor_logo.png" width="169" height="86" data-file-width="169" data-file-height="86" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_design" title="Software design">Original author(s)</a></th>
+<td>Adrian Lees</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>March&#160;2003<span style="display:none">&#160;(<span class="bday dtstart published updated">2003-03</span>)</span></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>2.32<sup id="cite_ref-spellings_manual_2007_1-0" class="reference"><a href="#cite_note-spellings_manual_2007-1"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Emulator" title="Emulator">Emulator</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/Proprietary_software" title="Proprietary software">Proprietary</a> <a href="/wiki/Commercial_software" title="Commercial software">commercial software</a></td>
+</tr>
+</table>
+<p>In <a href="/wiki/Computing" title="Computing">computing</a>, <b>Aemulor</b> is a <a href="/wiki/Emulator" title="Emulator">emulator</a> of the earlier <span class="nowrap"><a href="/wiki/26-bit" title="26-bit">26-bit</a></span> addressing-mode ARM <a href="/wiki/Microprocessor" title="Microprocessor">microprocessors</a> which runs on <a href="/wiki/ARM_architecture" title="ARM architecture">ARM</a> processors under <span class="nowrap">32-bit</span> addressing-mode versions of <span class="nowrap"><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a></span>. It was written by Adrian Lees and released in 2003. An enhanced version is available under the name <b>Aemulor Pro</b>.</p>
+<p>The software allows <a href="/wiki/Raspberry_Pi" title="Raspberry Pi">Raspberry Pi</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> <a href="/wiki/Iyonix_PC" title="Iyonix PC">Iyonix PC</a> and <a href="/wiki/A9home" title="A9home">A9home</a> computers running <span class="nowrap">RISC OS</span> to make use of some software written for older hardware. As of 2012<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Aemulor&amp;action=edit">[update]</a></sup>, compatibility with the <a href="/wiki/BeagleBoard" title="BeagleBoard">BeagleBoard</a> single-board computer was under development.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Development"><span class="tocnumber">1</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Features"><span class="tocnumber">2</span> <span class="toctext">Features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Compatible_software"><span class="tocnumber">2.1</span> <span class="toctext">Compatible software</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aemulor&amp;action=edit&amp;section=1" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The software's existence was first reported around the time of the announcement of the Iyonix in October 2002.<sup id="cite_ref-drobe_williams_indevelopment_2002_3-0" class="reference"><a href="#cite_note-drobe_williams_indevelopment_2002-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-iyonix_4-0" class="reference"><a href="#cite_note-iyonix-4"><span>[</span>4<span>]</span></a></sup> A demo version was released in February 2003,<sup id="cite_ref-drobe_williams_show_2003_5-0" class="reference"><a href="#cite_note-drobe_williams_show_2003-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-drobe_williams_softwarenews_2003_6-0" class="reference"><a href="#cite_note-drobe_williams_softwarenews_2003-6"><span>[</span>6<span>]</span></a></sup> with the commercial release in March of that year.<sup id="cite_ref-drobe_williams_lightofday_2003_7-0" class="reference"><a href="#cite_note-drobe_williams_lightofday_2003-7"><span>[</span>7<span>]</span></a></sup><sup id="cite_ref-acornarcade_hoare_2003_8-0" class="reference"><a href="#cite_note-acornarcade_hoare_2003-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-archive_peachey_2003_9-0" class="reference"><a href="#cite_note-archive_peachey_2003-9"><span>[</span>9<span>]</span></a></sup></p>
+<p><a href="#Pro">Aemulor Pro</a> was released in 2004. This added enhancements, including support for low colour modes, required by scorewriter <a href="/wiki/Sibelius_(software)" title="Sibelius (software)">Sibelius</a> and many games.<sup id="cite_ref-drobe_williams_2004_10-0" class="reference"><a href="#cite_note-drobe_williams_2004-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-acornarcade_mellor_2004_11-0" class="reference"><a href="#cite_note-acornarcade_mellor_2004-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-acornarcade_lee_2004_12-0" class="reference"><a href="#cite_note-acornarcade_lee_2004-12"><span>[</span>12<span>]</span></a></sup> A version for the A9home was released in 2005.<sup id="cite_ref-drobe_williams_2005_13-0" class="reference"><a href="#cite_note-drobe_williams_2005-13"><span>[</span>13<span>]</span></a></sup> The software was exhibited at the 2006 <a href="/w/index.php?title=Wakefield_Show&amp;action=edit&amp;redlink=1" class="new" title="Wakefield Show (page does not exist)">Wakefield Show</a>.<sup id="cite_ref-riscworld_2006_14-0" class="reference"><a href="#cite_note-riscworld_2006-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In 2009, author Adrian Lees<sup id="cite_ref-adrianl_15-0" class="reference"><a href="#cite_note-adrianl-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-riscos.info_naulls_2009_16-0" class="reference"><a href="#cite_note-riscos.info_naulls_2009-16"><span>[</span>16<span>]</span></a></sup> posted on <a href="/wiki/The_Icon_Bar" title="The Icon Bar">The Icon Bar</a>, showing an early prototype of the software running on the <a href="/wiki/BeagleBoard" title="BeagleBoard">BeagleBoard</a>.<sup id="cite_ref-riscos.info_naulls_2009_16-1" class="reference"><a href="#cite_note-riscos.info_naulls_2009-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-iconbar_lees_2009_17-0" class="reference"><a href="#cite_note-iconbar_lees_2009-17"><span>[</span>17<span>]</span></a></sup> Progress on further compatibility for the <a href="/wiki/Raspberry_Pi" title="Raspberry Pi">Raspberry Pi</a> single-board computer was announced by Lees on the <a href="/wiki/RISC_OS_Open" title="RISC OS Open">RISC OS Open</a> forum in 2012.<sup id="cite_ref-riscosopen_lees_2012_18-0" class="reference"><a href="#cite_note-riscosopen_lees_2012-18"><span>[</span>18<span>]</span></a></sup> Developer <a href="/w/index.php?title=R-Comp&amp;action=edit&amp;redlink=1" class="new" title="R-Comp (page does not exist)">R-Comp</a> was reported in May 2012 to be hoping to make Aemulor available for its <a href="/wiki/BeagleBoard-xM" title="BeagleBoard-xM" class="mw-redirect">BeagleBoard-xM</a>-based <i>ARMini</i> computer.<sup id="cite_ref-reghardware_proven_2012_19-0" class="reference"><a href="#cite_note-reghardware_proven_2012-19"><span>[</span>19<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Features"><span id="Pro"></span>Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aemulor&amp;action=edit&amp;section=2" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sibelius_on_Iyonix_under_Aemulor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Sibelius_on_Iyonix_under_Aemulor.png/220px-Sibelius_on_Iyonix_under_Aemulor.png" width="220" height="194" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/06/Sibelius_on_Iyonix_under_Aemulor.png/330px-Sibelius_on_Iyonix_under_Aemulor.png 1.5x, //upload.wikimedia.org/wikipedia/en/0/06/Sibelius_on_Iyonix_under_Aemulor.png 2x" data-file-width="363" data-file-height="320" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sibelius_on_Iyonix_under_Aemulor.png" class="internal" title="Enlarge"></a></div>
+Sibelius running on the Iyonix</div>
+</div>
+</div>
+<p>The software provides full 26-bit emulation<sup id="cite_ref-drobe_williams_lightofday_2003_7-1" class="reference"><a href="#cite_note-drobe_williams_lightofday_2003-7"><span>[</span>7<span>]</span></a></sup> for applications written in <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a> and ARM <a href="/wiki/Assembly_language" title="Assembly language">assembly language</a>. It employs an <a href="/wiki/XScale" title="XScale">XScale</a>-optimised ARM code interpreter, supports <a href="/wiki/Software_interrupt" title="Software interrupt" class="mw-redirect">SWI</a> emulation from <span class="nowrap">RISC OS 4</span> to 5, <a href="/wiki/Flag_(computing)" title="Flag (computing)" class="mw-redirect">flag</a> preservation and creation of dynamic areas in low memory.<sup id="cite_ref-spellings_professional_20-0" class="reference"><a href="#cite_note-spellings_professional-20"><span>[</span>20<span>]</span></a></sup> Support for running <a href="/w/index.php?title=A310Emu&amp;action=edit&amp;redlink=1" class="new" title="A310Emu (page does not exist)">A310Emu</a> is included, allowing users to further emulate earlier versions of the OS, going back to <a href="/wiki/Arthur_(OS)" title="Arthur (OS)" class="mw-redirect">Arthur</a>.<sup id="cite_ref-drobe_williams_ro2_2003_21-0" class="reference"><a href="#cite_note-drobe_williams_ro2_2003-21"><span>[</span>21<span>]</span></a></sup> As of 2003<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Aemulor&amp;action=edit">[update]</a></sup>, due to the memory remapping employed, native 32-bit applications are restricted to a maximum size of 28Mb while Aemulor is running.<sup id="cite_ref-fru_2003_22-0" class="reference"><a href="#cite_note-fru_2003-22"><span>[</span>22<span>]</span></a></sup></p>
+<p>The original release included an <a href="/wiki/Easter_egg_(media)" title="Easter egg (media)" class="mw-redirect">Easter egg</a>, with a prize of an upgrade to the <i>Pro</i> version for the person who found it.<sup id="cite_ref-drobe_williams_upgrade_2003_23-0" class="reference"><a href="#cite_note-drobe_williams_upgrade_2003-23"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-drobe_williams_windowsaffair_2003_24-0" class="reference"><a href="#cite_note-drobe_williams_windowsaffair_2003-24"><span>[</span>24<span>]</span></a></sup></p>
+<p><b>Aemulor Pro</b> adds support for low-bpp screen modes, sound, hardware emulation of <a href="/w/index.php?title=VIDC&amp;action=edit&amp;redlink=1" class="new" title="VIDC (page does not exist)">VIDC</a>/<a href="/w/index.php?title=IOC_(computing)&amp;action=edit&amp;redlink=1" class="new" title="IOC (computing) (page does not exist)">IOC</a>, an altered memory map and <span class="nowrap">26-bit</span> filing systems.<sup id="cite_ref-spellings_professional_20-1" class="reference"><a href="#cite_note-spellings_professional-20"><span>[</span>20<span>]</span></a></sup> Some software, such as Sibelius, can be run both in the desktop and in full screen.<sup id="cite_ref-drobe_williams_2004_10-1" class="reference"><a href="#cite_note-drobe_williams_2004-10"><span>[</span>10<span>]</span></a></sup></p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Compatible_software">Compatible software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aemulor&amp;action=edit&amp;section=3" title="Edit section: Compatible software">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>
+<div class="notice plainlinks"><i>This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Aemulor&amp;action=edit">expanding it</a></i>.</div>
+</dd>
+</dl>
+<table class="wikitable sortable" style="width: auto;">
+<tr>
+<th>Title</th>
+<th>Purpose</th>
+<th>Vendor/publisher</th>
+</tr>
+<tr>
+<td><a href="/wiki/ArtWorks" title="ArtWorks">ArtWorks</a><sup id="cite_ref-drobe_williams_appsworking_2002_25-0" class="reference"><a href="#cite_note-drobe_williams_appsworking_2002-25"><span>[</span>25<span>]</span></a></sup></td>
+<td><a href="/wiki/Vector_graphics" title="Vector graphics">vector graphics</a></td>
+<td>MW Software</td>
+</tr>
+<tr>
+<td><a href="/wiki/Impression_(software)" title="Impression (software)">Impression</a><sup id="cite_ref-drobe_williams_appsworking_2002_25-1" class="reference"><a href="#cite_note-drobe_williams_appsworking_2002-25"><span>[</span>25<span>]</span></a></sup></td>
+<td><a href="/wiki/Desktop_publishing" title="Desktop publishing">desktop publishing</a></td>
+<td><a href="/wiki/Computer_Concepts" title="Computer Concepts" class="mw-redirect">Computer Concepts</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Sibelius_(software)" title="Sibelius (software)">Sibelius</a><sup id="cite_ref-drobe_williams_2004_10-2" class="reference"><a href="#cite_note-drobe_williams_2004-10"><span>[</span>10<span>]</span></a></sup></td>
+<td><a href="/wiki/Scorewriter" title="Scorewriter">scorewriter</a></td>
+<td><a href="/wiki/Sibelius_Software" title="Sibelius Software">Sibelius Software</a></td>
+</tr>
+<tr>
+<td><i><a href="/wiki/Spheres_of_Chaos" title="Spheres of Chaos">Spheres of Chaos</a></i>.<sup id="cite_ref-riscworld_26-0" class="reference"><a href="#cite_note-riscworld-26"><span>[</span>26<span>]</span></a></sup></td>
+<td><a href="/wiki/Video_game" title="Video game">video game</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=StrongED&amp;action=edit&amp;redlink=1" class="new" title="StrongED (page does not exist)">StrongED</a><sup id="cite_ref-drobe_williams_appsworking_2002_25-2" class="reference"><a href="#cite_note-drobe_williams_appsworking_2002-25"><span>[</span>25<span>]</span></a></sup></td>
+<td><a href="/wiki/Text_editor" title="Text editor">text editor</a></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Zap_(software)&amp;action=edit&amp;redlink=1" class="new" title="Zap (software) (page does not exist)">Zap</a><sup id="cite_ref-drobe_williams_appsworking_2002_25-3" class="reference"><a href="#cite_note-drobe_williams_appsworking_2002-25"><span>[</span>25<span>]</span></a></sup></td>
+<td><a href="/wiki/Text_editor" title="Text editor">text editor</a></td>
+<td></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Aemulor&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-spellings_manual_2007-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-spellings_manual_2007_1-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://web.archive.org/web/20070212233825/http://buyit.spellings.net/manual/pro/manual.php">"Aemulor Pro online manual"</a>. Spellings Computer Services. Archived from <a rel="nofollow" class="external text" href="http://buyit.spellings.net/manual/pro/manual.php">the original</a> on 12 February 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.btitle=Aemulor+Pro+online+manual&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbuyit.spellings.net%2Fmanual%2Fpro%2Fmanual.php&amp;rft.pub=Spellings+Computer+Services&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.raspberrypi.org/phpBB3/viewtopic.php?f=55&amp;t=31593">http://www.raspberrypi.org/phpBB3/viewtopic.php?f=55&amp;t=31593</a></span></li>
+<li id="cite_note-drobe_williams_indevelopment_2002-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_indevelopment_2002_3-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (20 October 2002). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/riscos/artifact462.html">"Iyonix 26 bit emulator in development"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Iyonix+26+bit+emulator+in+development&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=20+October+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Friscos%2Fartifact462.html&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iyonix-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-iyonix_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.iyonix.com/32bit/32bit.shtml">"32-bit introduction"</a>. <i>IYONIX pc</i>. <a href="/wiki/Castle_Technology" title="Castle Technology">Castle Technology</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=32-bit+introduction&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.iyonix.com%2F32bit%2F32bit.shtml&amp;rft.jtitle=IYONIX+pc&amp;rft.pub=Castle+Technology&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_show_2003-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_show_2003_5-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (22 February 2003). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/riscos/artifact570.html">"South West show news"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=South+West+show+news&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=22+February+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Friscos%2Fartifact570.html&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_softwarenews_2003-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_softwarenews_2003_6-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (9 March 2003). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=588">"South West show news"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=South+West+show+news&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=9+March+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D588&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_lightofday_2003-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-drobe_williams_lightofday_2003_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-drobe_williams_lightofday_2003_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Williams, Chris (25 March 2003). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/riscos/artifact602.html">"Aemulor sees the light of day"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+sees+the+light+of+day&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=25+March+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Friscos%2Fartifact602.html&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acornarcade_hoare_2003-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-acornarcade_hoare_2003_8-0">^</a></b></span> <span class="reference-text"><span class="citation news">Hoare, John (25 March 2003). <a rel="nofollow" class="external text" href="http://www.acornarcade.com/articles/Aemulor_Released/index306.html">"Aemulor Released"</a>. <i><a href="/wiki/Acorn_Arcade" title="Acorn Arcade">Acorn Arcade</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+Released&amp;rft.aufirst=John&amp;rft.au=Hoare%2C+John&amp;rft.aulast=Hoare&amp;rft.date=25+March+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.acornarcade.com%2Farticles%2FAemulor_Released%2Findex306.html&amp;rft.jtitle=Acorn+Arcade&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-archive_peachey_2003-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-archive_peachey_2003_9-0">^</a></b></span> <span class="reference-text"><span class="citation news">Peachey, John (June 2003). <a rel="nofollow" class="external text" href="http://www.danceswithferrets.org/phpArcScan/view.php?pub=1&amp;vol=16&amp;issue=9">"Aemulor in Use"</a>. <i><a href="/wiki/Archive_(magazine)" title="Archive (magazine)">Archive</a></i> <b>16</b> (9)<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+in+Use&amp;rft.aufirst=John&amp;rft.aulast=Peachey&amp;rft.au=Peachey%2C+John&amp;rft.date=June+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.danceswithferrets.org%2FphpArcScan%2Fview.php%3Fpub%3D1%26vol%3D16%26issue%3D9&amp;rft.issue=9&amp;rft.jtitle=Archive&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=16" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_2004-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-drobe_williams_2004_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-drobe_williams_2004_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-drobe_williams_2004_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Williams, Chris (12 March 2004). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=1001">"Aemulor Pro embraces Sibelius"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+Pro+embraces+Sibelius&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=12+March+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D1001&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acornarcade_mellor_2004-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-acornarcade_mellor_2004_11-0">^</a></b></span> <span class="reference-text"><span class="citation news">Mellor, Phil (6 May 2004). <a rel="nofollow" class="external text" href="http://www.acornarcade.com/articles/Aemulor_Pro_is_out_now/index446.html">"Aemulor Pro is out now"</a>. <i><a href="/wiki/Acorn_Arcade" title="Acorn Arcade">Acorn Arcade</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+Pro+is+out+now&amp;rft.aufirst=Phil&amp;rft.aulast=Mellor&amp;rft.au=Mellor%2C+Phil&amp;rft.date=6+May+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.acornarcade.com%2Farticles%2FAemulor_Pro_is_out_now%2Findex446.html&amp;rft.jtitle=Acorn+Arcade&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-acornarcade_lee_2004-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-acornarcade_lee_2004_12-0">^</a></b></span> <span class="reference-text"><span class="citation news">Lee, Jeffrey (22 April 2004). <a rel="nofollow" class="external text" href="http://www.acornarcade.com/Aemulor_Pro-gress/news817.html">"Aemulor Pro-gress"</a>. <i><a href="/wiki/Acorn_Arcade" title="Acorn Arcade">Acorn Arcade</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+Pro-gress&amp;rft.aufirst=Jeffrey&amp;rft.aulast=Lee&amp;rft.au=Lee%2C+Jeffrey&amp;rft.date=22+April+2004&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.acornarcade.com%2FAemulor_Pro-gress%2Fnews817.html&amp;rft.jtitle=Acorn+Arcade&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_2005-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_2005_13-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (5 November 2005). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=1485">"Aemulor for the A9home released"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+for+the+A9home+released&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=5+November+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D1485&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-riscworld_2006-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-riscworld_2006_14-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.apdl.co.uk/riscworld/volume6/issue6/wake/index.htm">"Wakefield 2006"</a>. <i><a href="/w/index.php?title=RISC_World&amp;action=edit&amp;redlink=1" class="new" title="RISC World (page does not exist)">RISC World</a></i> <b>6</b> (6)<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Wakefield+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.apdl.co.uk%2Friscworld%2Fvolume6%2Fissue6%2Fwake%2Findex.htm&amp;rft.issue=6&amp;rft.jtitle=RISC+World&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=6" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-adrianl-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-adrianl_15-0">^</a></b></span> <span class="reference-text"><span class="citation web">Lees, Adrian. <a rel="nofollow" class="external text" href="http://adrianl.drobe.co.uk/">"The homepage of Adrian Lees"</a>. Adrian Lees<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.aufirst=Adrian&amp;rft.aulast=Lees&amp;rft.au=Lees%2C+Adrian&amp;rft.btitle=The+homepage+of+Adrian+Lees&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fadrianl.drobe.co.uk%2F&amp;rft.pub=Adrian+Lees&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-riscos.info_naulls_2009-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-riscos.info_naulls_2009_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-riscos.info_naulls_2009_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web">Naulls, Peter (20 December 2009). <a rel="nofollow" class="external text" href="http://www.riscos.info/index.php/Special:AWCforum/?action=st%2Fid106%2FAemulor_on_BeagleBoard/sw:aemulor">"Aemulor on BeagleBoard"</a>. <i><a href="/wiki/Riscos.info" title="Riscos.info">riscos.info</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+on+BeagleBoard&amp;rft.aufirst=Peter&amp;rft.aulast=Naulls&amp;rft.au=Naulls%2C+Peter&amp;rft.date=20+December+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.riscos.info%2Findex.php%2FSpecial%3AAWCforum%2F%3Faction%3Dst%252Fid106%252FAemulor_on_BeagleBoard%2Fsw%3Aaemulor&amp;rft.jtitle=riscos.info&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-iconbar_lees_2009-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-iconbar_lees_2009_17-0">^</a></b></span> <span class="reference-text"><span class="citation web">Lees, Adrian (20 December 2009). <a rel="nofollow" class="external text" href="http://iconbar.co.uk/forums/viewthread.php?threadid=11292">"Aemulor BeagleBoard"</a>. <i>TIB forum</i>. <a href="/wiki/The_Icon_Bar" title="The Icon Bar">The Icon Bar</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+BeagleBoard&amp;rft.aufirst=Adrian&amp;rft.aulast=Lees&amp;rft.au=Lees%2C+Adrian&amp;rft.date=20+December+2009&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Ficonbar.co.uk%2Fforums%2Fviewthread.php%3Fthreadid%3D11292&amp;rft.jtitle=TIB+forum&amp;rft.pub=The+Icon+Bar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-riscosopen_lees_2012-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-riscosopen_lees_2012_18-0">^</a></b></span> <span class="reference-text"><span class="citation web">Lees, Adrian (20 June 2012). <a rel="nofollow" class="external text" href="http://www.riscosopen.org/forum/forums/5/topics/1082#posts-12850">"Aemulor on the Beagle/Panda boards"</a>. <i>ROOL forum</i>. <a href="/wiki/RISC_OS_Open" title="RISC OS Open">RISC OS Open</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+on+the+Beagle%2FPanda+boards&amp;rft.aufirst=Adrian&amp;rft.aulast=Lees&amp;rft.au=Lees%2C+Adrian&amp;rft.date=20+June+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.riscosopen.org%2Fforum%2Fforums%2F5%2Ftopics%2F1082%23posts-12850&amp;rft.jtitle=ROOL+forum&amp;rft.pub=RISC+OS+Open&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-reghardware_proven_2012-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-reghardware_proven_2012_19-0">^</a></b></span> <span class="reference-text"><span class="citation news">Proven, Liam (10 May 2012). <a rel="nofollow" class="external text" href="http://www.reghardware.com/2012/05/10/product_round_up_arm_mini_computers_the_best_and_the_rest/page3.html">"Best and the Rest: ARM Mini PCs"</a>. <i><a href="/wiki/Reg_Hardware" title="Reg Hardware" class="mw-redirect">Reg Hardware</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Best+and+the+Rest%3A+ARM+Mini+PCs&amp;rft.aufirst=Liam&amp;rft.aulast=Proven&amp;rft.au=Proven%2C+Liam&amp;rft.date=10+May+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.reghardware.com%2F2012%2F05%2F10%2Fproduct_round_up_arm_mini_computers_the_best_and_the_rest%2Fpage3.html&amp;rft.jtitle=Reg+Hardware&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-spellings_professional-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-spellings_professional_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-spellings_professional_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://buyit.spellings.net/prod_info.php?id=2">"Aemulor Professional"</a>. Spellings Computer Services<span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.btitle=Aemulor+Professional&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbuyit.spellings.net%2Fprod_info.php%3Fid%3D2&amp;rft.pub=Spellings+Computer+Services&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_ro2_2003-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_ro2_2003_21-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (19 April 2003). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=642">"Aemulor turns to RISC OS 2"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+turns+to+RISC+OS+2&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=19+April+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D642&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-fru_2003-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-fru_2003_22-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.heyrick.co.uk/assembler/32bit.html">"Inside Aemulor"</a>. <i><a href="/w/index.php?title=Foundation_RISC_User&amp;action=edit&amp;redlink=1" class="new" title="Foundation RISC User (page does not exist)">Foundation RISC User</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Inside+Aemulor&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.heyrick.co.uk%2Fassembler%2F32bit.html&amp;rft.jtitle=Foundation+RISC+User&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_upgrade_2003-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_upgrade_2003_23-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (5 August 2003). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=774">"Aemulor 2.2 upgrade online"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor+2.2+upgrade+online&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=5+August+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D774&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_windowsaffair_2003-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-drobe_williams_windowsaffair_2003_24-0">^</a></b></span> <span class="reference-text"><span class="citation news">Williams, Chris (19 December 2003). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=910">"Aemulor's brief Windows affair discovered"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor%27s+brief+Windows+affair+discovered&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=19+December+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D910&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-drobe_williams_appsworking_2002-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-drobe_williams_appsworking_2002_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-drobe_williams_appsworking_2002_25-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-drobe_williams_appsworking_2002_25-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-drobe_williams_appsworking_2002_25-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation news">Williams, Chris (19 November 2002). <a rel="nofollow" class="external text" href="http://www.drobe.co.uk/article.php?id=488">"Aemulor: Number of apps working on Iyonix 'growing daily<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/Drobe" title="Drobe">Drobe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Aemulor%3A+Number+of+apps+working+on+Iyonix+%27growing+daily%27&amp;rft.aufirst=Chris&amp;rft.aulast=Williams&amp;rft.au=Williams%2C+Chris&amp;rft.date=19+November+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.drobe.co.uk%2Farticle.php%3Fid%3D488&amp;rft.jtitle=Drobe&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-riscworld-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-riscworld_26-0">^</a></b></span> <span class="reference-text"><span class="citation news">Brett, Paul. <a rel="nofollow" class="external text" href="http://www.apdl.co.uk/riscworld/volume8/issue4/games/index.htm">"Games World"</a>. <i><a href="/w/index.php?title=RISC_World&amp;action=edit&amp;redlink=1" class="new" title="RISC World (page does not exist)">RISC World</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 June</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAemulor&amp;rft.atitle=Games+World&amp;rft.au=Brett%2C+Paul&amp;rft.aufirst=Paul&amp;rft.aulast=Brett&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.apdl.co.uk%2Friscworld%2Fvolume8%2Fissue4%2Fgames%2Findex.htm&amp;rft.jtitle=RISC+World&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:RISC_OS" title="Template:RISC OS"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:RISC_OS" title="Template talk:RISC OS" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:RISC_OS&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/RISC_OS" title="RISC OS">RISC OS</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" />&#160;<a href="/wiki/Category:RISC_OS_software" title="Category:RISC OS software">Category: RISC OS software</a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Main companies<sup><small>a</small></sup></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Castle_Technology" title="Castle Technology">Castle Technology</a></li>
+<li><a href="/wiki/RISC_OS_Open" title="RISC OS Open">RISC OS Open</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hardware</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acorn_Archimedes" title="Acorn Archimedes">Archimedes series</a></li>
+<li><a href="/wiki/RiscPC" title="RiscPC">RiscPC series</a></li>
+<li><a href="/wiki/Iyonix_PC" title="Iyonix PC">Iyonix</a></li>
+<li><a href="/wiki/A9home" title="A9home">A9home</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Emulation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Aemulor</strong></li>
+<li><a href="/wiki/VirtualAcorn" title="VirtualAcorn">VirtualAcorn</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Key software<sup><small>b</small></sup></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ArtWorks" title="ArtWorks">ArtWorks</a></li>
+<li><a href="/wiki/Impression_(software)" title="Impression (software)">Impression</a></li>
+<li><a href="/wiki/NetSurf" title="NetSurf">NetSurf</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">OS components</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Advanced_Disc_Filing_System" title="Advanced Disc Filing System">ADFS</a></li>
+<li><a href="/wiki/Arm_Image_Format" title="Arm Image Format">AIF file</a></li>
+<li><a href="/wiki/BBC_BASIC" title="BBC BASIC">BBC BASIC</a></li>
+<li><a href="/wiki/List_of_RISC_OS_bundled_applications" title="List of RISC OS bundled applications">Bundled applications</a></li>
+<li><a href="/wiki/Drag_and_drop" title="Drag and drop">Drag and drop</a></li>
+<li><a href="/wiki/Icon_bar" title="Icon bar">Icon bar</a></li>
+<li><a href="/wiki/Object_Linking_and_Embedding" title="Object Linking and Embedding">OLE</a></li>
+<li><a href="/wiki/Ram_disk" title="Ram disk" class="mw-redirect">Ram disk</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">OS utilities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/MakeModes" title="MakeModes">MakeModes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Books</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/ARM_system-on-chip_architecture" title="ARM system-on-chip architecture" class="mw-redirect">ARM system-on-chip architecture</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related and historical</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acorn_Computers" title="Acorn Computers">Acorn Computers</a></li>
+<li><a href="/wiki/ARM_Holdings" title="ARM Holdings">ARM Holdings</a></li>
+<li><a href="/wiki/Element_14_(company)" title="Element 14 (company)">Element 14</a></li>
+<li><a href="/wiki/Galileo_(operating_system)" title="Galileo (operating system)">Galileo</a></li>
+<li><a href="/wiki/History_of_RISC_OS" title="History of RISC OS">History of RISC OS</a></li>
+<li><a href="/wiki/Phoebe_(computer)" title="Phoebe (computer)">Phoebe</a></li>
+<li><a href="/wiki/RISCOS_Ltd" title="RISCOS Ltd">RISCOS Ltd</a></li>
+<li><a href="/wiki/The_Electronic_Font_Foundry" title="The Electronic Font Foundry">The Electronic Font Foundry</a></li>
+<li><a href="/wiki/NCOS" title="NCOS">NCOS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><sup><small>a</small></sup> Current companies only</li>
+<li><sup><small>b</small></sup> Addition of major functionality</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1177
+CPU time usage: 0.354 seconds
+Real time usage: 0.435 seconds
+Preprocessor visited node count: 2071/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 55166/2097152 bytes
+Template argument size: 1287/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.121/10.000 seconds
+Lua memory usage: 3.04 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  348.582      1 - -total
+ 44.82%  156.245      1 - Template:Reflist
+ 18.89%   65.847      1 - Template:Infobox_software
+ 17.22%   60.013      1 - Template:Infobox
+ 16.83%   58.671     18 - Template:Cite_news
+ 15.28%   53.273      7 - Template:Cite_web
+  9.09%   31.700      1 - Template:RISC_OS
+  8.11%   28.280      1 - Template:Navbox
+  7.33%   25.559      2 - Template:As_of
+  7.24%   25.253      3 - Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36205861-0!*!0!!en!4!* and timestamp 20150627052400 and revision id 646923244
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Aemulor&amp;oldid=646923244">https://en.wikipedia.org/w/index.php?title=Aemulor&amp;oldid=646923244</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:RISC_OS_emulators" title="Category:RISC OS emulators">RISC OS emulators</a></li><li><a href="/wiki/Category:RISC_OS_emulation_software" title="Category:RISC OS emulation software">RISC OS emulation software</a></li><li><a href="/wiki/Category:Proprietary_software" title="Category:Proprietary software">Proprietary software</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2012" title="Category:Articles containing potentially dated statements from 2012">Articles containing potentially dated statements from 2012</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2003" title="Category:Articles containing potentially dated statements from 2003">Articles containing potentially dated statements from 2003</a></li><li><a href="/wiki/Category:Incomplete_lists_from_February_2012" title="Category:Incomplete lists from February 2012">Incomplete lists from February 2012</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aemulor&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Aemulor" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Aemulor"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Aemulor"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Aemulor" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Aemulor&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Aemulor&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Aemulor" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Aemulor" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Aemulor&amp;oldid=646923244" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Aemulor&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q4687756" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Aemulor&amp;id=646923244" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Aemulor">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Aemulor&amp;oldid=646923244&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Aemulor&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q4687756#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 February 2015, at 08:22.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Aemulor&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1255"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Haskell 98 features - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Haskell_98_features" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Haskell_98_features&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Haskell_98_features&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Haskell_98_features" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Haskell_98_features" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.pygments%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Haskell_98_features","wgTitle":"Haskell 98 features","wgCurRevisionId":634207987,"wgRevisionId":634207987,"wgArticleId":26134562,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from December 2009","All articles to be expanded","Haskell programming language family","Articles with example Haskell code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Haskell_98_features","wgRelevantArticleId":26134562,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5679197"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Haskell_98_features skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Haskell 98 features</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>This article describes the features in <b><a href="/wiki/Haskell_(programming_language)" title="Haskell (programming language)">Haskell98</a></b>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Factorial"><span class="tocnumber">1.1</span> <span class="toctext">Factorial</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#More_complex_examples"><span class="tocnumber">1.2</span> <span class="toctext">More complex examples</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Calculator"><span class="tocnumber">1.2.1</span> <span class="toctext">Calculator</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Fibonacci_sequence"><span class="tocnumber">1.2.2</span> <span class="toctext">Fibonacci sequence</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Factorial_2"><span class="tocnumber">1.2.3</span> <span class="toctext">Factorial</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#More_examples"><span class="tocnumber">1.3</span> <span class="toctext">More examples</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Hamming_numbers"><span class="tocnumber">1.3.1</span> <span class="toctext">Hamming numbers</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Mergesort"><span class="tocnumber">1.3.2</span> <span class="toctext">Mergesort</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Prime_numbers"><span class="tocnumber">1.3.3</span> <span class="toctext">Prime numbers</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Syntax"><span class="tocnumber">2</span> <span class="toctext">Syntax</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Layout"><span class="tocnumber">2.1</span> <span class="toctext">Layout</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Function_calls"><span class="tocnumber">2.2</span> <span class="toctext">Function calls</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#List_comprehensions"><span class="tocnumber">2.3</span> <span class="toctext">List comprehensions</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Pattern_matching"><span class="tocnumber">2.4</span> <span class="toctext">Pattern matching</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Tuples"><span class="tocnumber">2.5</span> <span class="toctext">Tuples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Namespaces"><span class="tocnumber">3</span> <span class="toctext">Namespaces</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Typeclasses_and_polymorphism"><span class="tocnumber">4</span> <span class="toctext">Typeclasses and polymorphism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Algebraic_data_types"><span class="tocnumber">4.1</span> <span class="toctext">Algebraic data types</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Type_system"><span class="tocnumber">4.2</span> <span class="toctext">Type system</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Monads_and_input.2Foutput"><span class="tocnumber">5</span> <span class="toctext">Monads and input/output</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#ST_monad"><span class="tocnumber">5.1</span> <span class="toctext">ST monad</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#STM_monad"><span class="tocnumber">5.2</span> <span class="toctext">STM monad</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Arrows"><span class="tocnumber">5.3</span> <span class="toctext">Arrows</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#Concurrency"><span class="tocnumber">6</span> <span class="toctext">Concurrency</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Factorial">Factorial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=2" title="Edit section: Factorial">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A simple example that is often used to demonstrate the syntax of <a href="/wiki/Functional_language" title="Functional language" class="mw-redirect">functional languages</a> is the <a href="/wiki/Factorial" title="Factorial">factorial</a> function for non-negative integers, shown in Haskell:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="ow">::</span> <span class="kt">Integer</span> <span class="ow">-&gt;</span> <span class="kt">Integer</span>
+<span class="nf">factorial</span> <span class="mi">0</span> <span class="ow">=</span> <span class="mi">1</span>
+<span class="nf">factorial</span> <span class="n">n</span> <span class="ow">=</span> <span class="n">n</span> <span class="o">*</span> <span class="n">factorial</span> <span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+</pre></div>
+<p>Or in one line:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="n">n</span> <span class="ow">=</span> <span class="kr">if</span> <span class="n">n</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="kr">then</span> <span class="n">n</span> <span class="o">*</span> <span class="n">factorial</span> <span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="kr">else</span> <span class="mi">1</span>
+</pre></div>
+<p>This describes the factorial as a recursive function, with one terminating base case. It is similar to the descriptions of factorials found in mathematics textbooks. Much of Haskell code is similar to standard <a href="/wiki/Mathematical_notation" title="Mathematical notation">mathematical notation</a> in facility and syntax.</p>
+<p>The first line of the factorial function describes the <i>type</i> of this function; while it is optional, it is considered to be good style<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> to include it. It can be read as <i>the function factorial</i> (<tt>factorial</tt>) <i>has type</i> (<tt>::</tt>) <i>from integer to integer</i> (<tt>Integer -&gt; Integer</tt>). That is, it takes an integer as an argument, and returns another integer. The type of a definition is inferred automatically if the programmer didn't supply a type annotation.</p>
+<p>The second line relies on <a href="/wiki/Pattern_matching" title="Pattern matching">pattern matching</a>, an important feature of Haskell. Note that parameters of a function are not in parentheses but separated by spaces. When the function's argument is 0 (zero) it will return the integer 1 (one). For all other cases the third line is tried. This is the <a href="/wiki/Recursion" title="Recursion">recursion</a>, and executes the function again until the base case is reached.</p>
+<p>Using the <tt>product</tt> function from the Prelude, a number of small functions analogous to <a href="/wiki/C_(programming_language)" title="C (programming language)">C</a>'s <a href="/wiki/C_standard_library" title="C standard library">standard library</a>, and using the Haskell syntax for arithmetic sequences, the factorial function can be expressed in Haskell as follows:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="n">n</span> <span class="ow">=</span> <span class="n">product</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="n">n</span><span class="p">]</span>
+</pre></div>
+<p>Here <tt>[1..n]</tt> denotes the arithmetic sequence <span class="nowrap">1, 2, …, <i>n</i></span> in list form. Using the Prelude function <tt>enumFromTo</tt>, the expression <tt>[1..n]</tt> can be written as <tt>enumFromTo 1 n</tt>, allowing the factorial function to be expressed as</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="n">n</span> <span class="ow">=</span> <span class="n">product</span> <span class="p">(</span><span class="n">enumFromTo</span> <span class="mi">1</span> <span class="n">n</span><span class="p">)</span>
+</pre></div>
+<p>which, using the <a href="/wiki/Function_composition_operator" title="Function composition operator" class="mw-redirect">function composition operator</a> (expressed as a dot in Haskell) to compose the product function with the <a href="/wiki/Currying" title="Currying">curried</a> enumeration function can be rewritten in <a href="/wiki/Point-free_programming" title="Point-free programming" class="mw-redirect">point-free style</a>:<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="ow">=</span> <span class="n">product</span> <span class="o">.</span> <span class="n">enumFromTo</span> <span class="mi">1</span>
+</pre></div>
+<p>In the Hugs interpreter, one often needs to define the function and use it on the same line separated by a <tt>where</tt> or <tt>let</tt>..<tt>in</tt>. For example, to test the above examples and see the output <tt>120</tt>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="kr">let</span> <span class="p">{</span> <span class="n">factorial</span> <span class="n">n</span> <span class="o">|</span> <span class="n">n</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="ow">=</span> <span class="n">n</span> <span class="o">*</span> <span class="n">factorial</span> <span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span> <span class="n">factorial</span> <span class="kr">_</span> <span class="ow">=</span> <span class="mi">1</span> <span class="p">}</span> <span class="kr">in</span> <span class="n">factorial</span> <span class="mi">5</span>
+</pre></div>
+<p>or</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="mi">5</span> <span class="kr">where</span> <span class="n">factorial</span> <span class="ow">=</span> <span class="n">product</span> <span class="o">.</span> <span class="n">enumFromTo</span> <span class="mi">1</span>
+</pre></div>
+<p>The GHCi interpreter doesn't have this restriction and function definitions can be entered on one line (with the <code><b>let</b></code> syntax without the <code><b>in</b></code> part), and referenced later.</p>
+<h3><span class="mw-headline" id="More_complex_examples">More complex examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=3" title="Edit section: More complex examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Calculator">Calculator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=4" title="Edit section: Calculator">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the Haskell source immediately below, "::" can be read as "has type"; "a —&gt; b" can be read as "is a function from a to b". (Thus the Haskell "calc&#160;:: String —&gt; [Float]" can be read as "<tt>calc</tt> has type of function from Strings to lists of Floats".) In the second line "calc = ... " the equals sign can be read as "can be"; thus multiple lines with "calc = ... " can be read as multiple possible values for <tt>calc</tt>, depending on the circumstance detailed in each line.</p>
+<p>A simple <a href="/wiki/Reverse_Polish_notation" title="Reverse Polish notation">Reverse Polish notation</a> calculator expressed with the <a href="/wiki/Higher-order_function" title="Higher-order function">higher-order function</a> <code><a href="/wiki/Foldl" title="Foldl" class="mw-redirect">foldl</a></code> whose argument <i>f</i> is defined in a <i>where</i> clause using <a href="/wiki/Pattern_matching" title="Pattern matching">pattern matching</a> and the <a href="/wiki/Type_class" title="Type class">type class</a> <i>Read</i>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">calc</span> <span class="ow">::</span> <span class="kt">String</span> <span class="ow">-&gt;</span> <span class="p">[</span><span class="kt">Float</span><span class="p">]</span>
+<span class="nf">calc</span> <span class="ow">=</span> <span class="n">foldl</span> <span class="n">f</span> <span class="kt">[]</span> <span class="o">.</span> <span class="n">words</span>
+  <span class="kr">where</span> 
+    <span class="n">f</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">y</span><span class="kt">:</span><span class="n">zs</span><span class="p">)</span> <span class="s">"+"</span> <span class="ow">=</span> <span class="p">(</span><span class="n">y</span> <span class="o">+</span> <span class="n">x</span><span class="p">)</span><span class="kt">:</span><span class="n">zs</span>
+    <span class="n">f</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">y</span><span class="kt">:</span><span class="n">zs</span><span class="p">)</span> <span class="s">"-"</span> <span class="ow">=</span> <span class="p">(</span><span class="n">y</span> <span class="o">-</span> <span class="n">x</span><span class="p">)</span><span class="kt">:</span><span class="n">zs</span>
+    <span class="n">f</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">y</span><span class="kt">:</span><span class="n">zs</span><span class="p">)</span> <span class="s">"*"</span> <span class="ow">=</span> <span class="p">(</span><span class="n">y</span> <span class="o">*</span> <span class="n">x</span><span class="p">)</span><span class="kt">:</span><span class="n">zs</span>
+    <span class="n">f</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">y</span><span class="kt">:</span><span class="n">zs</span><span class="p">)</span> <span class="s">"/"</span> <span class="ow">=</span> <span class="p">(</span><span class="n">y</span> <span class="o">/</span> <span class="n">x</span><span class="p">)</span><span class="kt">:</span><span class="n">zs</span>
+    <span class="n">f</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">y</span><span class="kt">:</span><span class="n">zs</span><span class="p">)</span> <span class="s">"FLIP"</span> <span class="ow">=</span>  <span class="n">y</span><span class="kt">:</span><span class="n">x</span><span class="kt">:</span><span class="n">zs</span>
+    <span class="n">f</span> <span class="n">xs</span> <span class="n">y</span> <span class="ow">=</span> <span class="n">read</span> <span class="n">y</span> <span class="kt">:</span> <span class="n">xs</span>
+</pre></div>
+<p>The empty list is the initial state, and <i>f</i> <a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">interprets</a> one word at a time, either as a function name, taking two numbers from the head of the list and pushing the result back in, or parsing the word as a <a href="/wiki/Floating-point_number" title="Floating-point number" class="mw-redirect">floating-point number</a> and prepending it to the list.</p>
+<h4><span class="mw-headline" id="Fibonacci_sequence">Fibonacci sequence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=5" title="Edit section: Fibonacci sequence">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The following definition produces the list of <a href="/wiki/Fibonacci_numbers" title="Fibonacci numbers" class="mw-redirect">Fibonacci numbers</a> in linear time:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="mi">0</span> <span class="kt">:</span> <span class="mi">1</span> <span class="kt">:</span> <span class="n">zipWith</span> <span class="p">(</span><span class="o">+</span><span class="p">)</span> <span class="n">fibs</span> <span class="p">(</span><span class="n">tail</span> <span class="n">fibs</span><span class="p">)</span>
+</pre></div>
+<p>The infinite list is produced by <a href="/wiki/Corecursion" title="Corecursion">corecursion</a> — the latter values of the list are computed on demand starting from the initial two items 0 and 1. This kind of a definition relies on <a href="/wiki/Lazy_evaluation" title="Lazy evaluation">lazy evaluation</a>, an important feature of Haskell programming. For an example of how the evaluation evolves, the following illustrates the values of <i>fibs</i> and <i>tail fibs</i> after the computation of six items and shows how <i>zipWith (+)</i> has produced four items and proceeds to produce the next item:</p>
+<pre>
+fibs         = 0 : 1 : 1 : 2 : 3 : 5 : ...
+               +   +   +   +   +   +
+tail fibs    = 1 : 1 : 2 : 3 : 5 : ...
+               =   =   =   =   =   =
+zipWith ...  = 1 : 2 : 3 : 5 : <i><b>8</b></i> : ...
+fibs = 0 : 1 : 1 : 2 : 3 : 5 : <i><b>8</b></i> : ...
+</pre>
+<p>The same function, written using GHC's <a href="/wiki/Parallel_list_comprehension" title="Parallel list comprehension" class="mw-redirect">parallel list comprehension</a> syntax (GHC extensions must be enabled using a special command-line flag, here <i>-XParallelListComp</i>, or by starting the source file with <code>{-#&#160;LANGUAGE ParallelListComp&#160;#-}</code>):</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="mi">0</span> <span class="kt">:</span> <span class="mi">1</span> <span class="kt">:</span> <span class="p">[</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span> <span class="o">|</span> <span class="n">a</span> <span class="ow">&lt;-</span> <span class="n">fibs</span> <span class="o">|</span> <span class="n">b</span> <span class="ow">&lt;-</span> <span class="n">tail</span> <span class="n">fibs</span> <span class="p">]</span>
+</pre></div>
+<p>or with regular <a href="/wiki/List_comprehension" title="List comprehension">list comprehensions</a>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="mi">0</span> <span class="kt">:</span> <span class="mi">1</span> <span class="kt">:</span> <span class="p">[</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span> <span class="o">|</span> <span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span> <span class="ow">&lt;-</span> <span class="n">zip</span> <span class="n">fibs</span> <span class="p">(</span><span class="n">tail</span> <span class="n">fibs</span><span class="p">)</span> <span class="p">]</span>
+</pre></div>
+<p>or directly self-referencing:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="mi">0</span> <span class="kt">:</span> <span class="mi">1</span> <span class="kt">:</span> <span class="n">next</span> <span class="n">fibs</span> <span class="kr">where</span> <span class="n">next</span> <span class="p">(</span><span class="n">a</span> <span class="kt">:</span> <span class="n">t</span><span class="o">@</span><span class="p">(</span><span class="n">b</span><span class="kt">:</span><span class="kr">_</span><span class="p">))</span> <span class="ow">=</span> <span class="p">(</span><span class="n">a</span><span class="o">+</span><span class="n">b</span><span class="p">)</span> <span class="kt">:</span> <span class="n">next</span> <span class="n">t</span>
+</pre></div>
+<p>With <a href="/wiki/State_(computer_science)" title="State (computer science)">stateful</a> <a href="/wiki/Generator_(computer_programming)" title="Generator (computer programming)">generating</a> function:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="n">next</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">)</span> <span class="kr">where</span> <span class="n">next</span> <span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span> <span class="ow">=</span> <span class="n">a</span> <span class="kt">:</span> <span class="n">next</span> <span class="p">(</span><span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span><span class="p">)</span>
+</pre></div>
+<p>or with <code>unfoldr</code>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="n">unfoldr</span> <span class="p">(</span><span class="nf">\</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">)</span> <span class="ow">-&gt;</span> <span class="kt">Just</span> <span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="p">(</span><span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span><span class="p">)))</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+</pre></div>
+<p>or <code>scanl</code>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="mi">0</span> <span class="kt">:</span> <span class="n">scanl</span> <span class="p">(</span><span class="o">+</span><span class="p">)</span> <span class="mi">1</span> <span class="n">fibs</span>
+</pre></div>
+<p>Using data recursion with Haskell's predefined <a href="/wiki/Fixpoint_combinator" title="Fixpoint combinator" class="mw-redirect">fixpoint combinator</a>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">fibs</span> <span class="ow">=</span> <span class="n">fix</span> <span class="p">(</span><span class="nf">\</span><span class="n">xs</span> <span class="ow">-&gt;</span> <span class="mi">0</span> <span class="kt">:</span> <span class="mi">1</span> <span class="kt">:</span> <span class="n">zipWith</span> <span class="p">(</span><span class="o">+</span><span class="p">)</span> <span class="n">xs</span> <span class="p">(</span><span class="n">tail</span> <span class="n">xs</span><span class="p">))</span>   <span class="c1">-- zipWith version</span>
+     <span class="ow">=</span> <span class="n">fix</span> <span class="p">((</span><span class="mi">0</span><span class="kt">:</span><span class="p">)</span> <span class="o">.</span> <span class="p">(</span><span class="mi">1</span><span class="kt">:</span><span class="p">)</span> <span class="o">.</span> <span class="p">(</span><span class="n">zipWith</span> <span class="p">(</span><span class="o">+</span><span class="p">)</span> <span class="o">&lt;*&gt;</span> <span class="n">tail</span><span class="p">))</span>      <span class="c1">-- same as above, pointfree</span>
+     <span class="ow">=</span> <span class="n">fix</span> <span class="p">((</span><span class="mi">0</span><span class="kt">:</span><span class="p">)</span> <span class="o">.</span> <span class="n">scanl</span> <span class="p">(</span><span class="o">+</span><span class="p">)</span> <span class="mi">1</span><span class="p">)</span>                        <span class="c1">-- scanl version</span>
+</pre></div>
+<h4><span class="mw-headline" id="Factorial_2">Factorial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=6" title="Edit section: Factorial">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The factorial we saw previously can be written as a sequence of functions:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">factorial</span> <span class="n">n</span> <span class="ow">=</span> <span class="n">foldr</span> <span class="p">((</span><span class="o">.</span><span class="p">)</span> <span class="o">.</span> <span class="p">(</span><span class="o">*</span><span class="p">))</span> <span class="n">id</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="n">n</span><span class="p">]</span> <span class="o">$</span> <span class="mi">1</span>
+<span class="c1">-- factorial 5 == ((1*) .) ( ((2*) .) ( ((3*) .) ( ((4*) .) ( ((5*) .) id )))) 1</span>
+<span class="c1">--             == (1*) . (2*) . (3*) . (4*) . (5*) . id $ 1</span>
+</pre></div>
+<h3><span class="mw-headline" id="More_examples">More examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=7" title="Edit section: More examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Hamming_numbers">Hamming numbers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=8" title="Edit section: Hamming numbers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A remarkably concise function that returns the list of <a href="/wiki/Hamming_numbers" title="Hamming numbers" class="mw-redirect">Hamming numbers</a> in order:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">hamming</span> <span class="ow">=</span> <span class="mi">1</span> <span class="kt">:</span> <span class="n">map</span> <span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="p">)</span> <span class="n">hamming</span> <span class="p">`</span><span class="n">union</span><span class="p">`</span> <span class="n">map</span> <span class="p">(</span><span class="mi">3</span><span class="o">*</span><span class="p">)</span> <span class="n">hamming</span> 
+                                 <span class="p">`</span><span class="n">union</span><span class="p">`</span> <span class="n">map</span> <span class="p">(</span><span class="mi">5</span><span class="o">*</span><span class="p">)</span> <span class="n">hamming</span>
+</pre></div>
+<p>Like the various <code>fibs</code> solutions displayed above, this uses corecursion to produce a list of numbers on demand, starting from the base case of 1 and building new items based on the preceding part of the list.</p>
+<p><span id="minus"></span> <span id="union"></span>Here the function <code>union</code> is used as an operator by enclosing it in back-quotes. Its <code>case</code> clauses define how it <a href="/wiki/Union_(set_theory)" title="Union (set theory)">merges</a> two ascending lists into one ascending list without duplicate items, representing <a href="/wiki/Set_(mathematics)" title="Set (mathematics)">sets</a> as ordered lists. Its companion function <code>minus</code> implements <a href="/wiki/Complement_(set_theory)#Relative_complement" title="Complement (set theory)">set difference</a>:</p>
+<table>
+<tr>
+<td>
+<div class="mw-highlight">
+<pre>
+<span class="nf">union</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span> <span class="ow">=</span> <span class="kr">case</span> <span class="n">compare</span> <span class="n">x</span> <span class="n">y</span> <span class="kr">of</span>
+    <span class="kt">LT</span> <span class="ow">-&gt;</span> <span class="n">x</span> <span class="kt">:</span> <span class="n">union</span>  <span class="n">xs</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span>  
+    <span class="kt">EQ</span> <span class="ow">-&gt;</span> <span class="n">x</span> <span class="kt">:</span> <span class="n">union</span>  <span class="n">xs</span>    <span class="n">ys</span>  
+    <span class="kt">GT</span> <span class="ow">-&gt;</span> <span class="n">y</span> <span class="kt">:</span> <span class="n">union</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="n">ys</span>  
+<span class="nf">union</span>  <span class="n">xs</span>  <span class="kt">[]</span>  <span class="ow">=</span> <span class="n">xs</span>  
+<span class="nf">union</span>  <span class="kt">[]</span>  <span class="n">ys</span>  <span class="ow">=</span> <span class="n">ys</span>
+</pre></div>
+</td>
+<td>
+<div class="mw-highlight">
+<pre>
+<span class="nf">minus</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span> <span class="ow">=</span> <span class="kr">case</span> <span class="n">compare</span> <span class="n">x</span> <span class="n">y</span> <span class="kr">of</span> 
+    <span class="kt">LT</span> <span class="ow">-&gt;</span> <span class="n">x</span> <span class="kt">:</span> <span class="n">minus</span>  <span class="n">xs</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span>
+    <span class="kt">EQ</span> <span class="ow">-&gt;</span>     <span class="n">minus</span>  <span class="n">xs</span>    <span class="n">ys</span> 
+    <span class="kt">GT</span> <span class="ow">-&gt;</span>     <span class="n">minus</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="n">ys</span>
+<span class="nf">minus</span>  <span class="n">xs</span>  <span class="kr">_</span>  <span class="ow">=</span> <span class="n">xs</span>
+<span class="c1">--</span>
+</pre></div>
+</td>
+</tr>
+</table>
+<p>It is possible to generate only the unique multiples, for more efficient operation. Since there are no duplicates, there's no need to remove them:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">smooth235</span> <span class="ow">=</span> <span class="mi">1</span> <span class="kt">:</span> <span class="n">foldr</span> <span class="p">(</span><span class="nf">\</span><span class="n">p</span> <span class="n">s</span><span class="ow">-&gt;</span> <span class="n">fix</span> <span class="o">$</span> <span class="n">mergeBy</span> <span class="p">(</span><span class="o">&lt;</span><span class="p">)</span> <span class="n">s</span> <span class="o">.</span> <span class="p">(</span><span class="n">p</span><span class="kt">:</span><span class="p">)</span> <span class="o">.</span> <span class="n">map</span> <span class="p">(</span><span class="n">p</span><span class="o">*</span><span class="p">))</span> <span class="kt">[]</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">5</span><span class="p">]</span>
+  <span class="kr">where</span>
+    <span class="n">fix</span> <span class="n">f</span> <span class="ow">=</span> <span class="n">x</span>  <span class="kr">where</span> <span class="n">x</span> <span class="ow">=</span> <span class="n">f</span> <span class="n">x</span>         <span class="c1">-- fixpoint combinator, with sharing</span>
+</pre></div>
+<p>This uses the more efficient function <code>merge</code> which doesn't concern itself with the duplicates (also used in the following next function, <code>mergesort</code> ):</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">mergeBy</span> <span class="n">less</span> <span class="n">xs</span> <span class="n">ys</span> <span class="ow">=</span> <span class="n">merge</span> <span class="n">xs</span> <span class="n">ys</span>  <span class="kr">where</span>
+  <span class="n">merge</span>  <span class="n">xs</span>     <span class="kt">[]</span>  <span class="ow">=</span> <span class="n">xs</span> 
+  <span class="n">merge</span>  <span class="kt">[]</span>     <span class="n">ys</span>  <span class="ow">=</span> <span class="n">ys</span>
+  <span class="n">merge</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span> <span class="o">|</span> <span class="n">less</span> <span class="n">y</span> <span class="n">x</span>  <span class="ow">=</span> <span class="n">y</span> <span class="kt">:</span> <span class="n">merge</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="n">ys</span>
+                      <span class="o">|</span> <span class="n">otherwise</span> <span class="ow">=</span> <span class="n">x</span> <span class="kt">:</span> <span class="n">merge</span> <span class="n">xs</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span>
+</pre></div>
+<p>Each vertical bar ( <code>|</code> ) starts a guard clause with a <i>guard expression</i> before the <code>=</code> sign and the corresponding definition after it, that is evaluated if the guard is true.</p>
+<h4><span class="mw-headline" id="Mergesort">Mergesort</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=9" title="Edit section: Mergesort">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Here is a bottom-up <a href="/wiki/Merge_sort" title="Merge sort">merge sort</a>, defined using the <a href="/wiki/Higher-order_function" title="Higher-order function">higher-order function</a> <code>until</code>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">mergesortBy</span> <span class="n">less</span> <span class="kt">[]</span> <span class="ow">=</span> <span class="kt">[]</span>
+<span class="nf">mergesortBy</span> <span class="n">less</span> <span class="n">xs</span> <span class="ow">=</span> <span class="n">head</span> <span class="o">$</span>
+      <span class="n">until</span> <span class="p">(</span><span class="n">null</span><span class="o">.</span><span class="n">tail</span><span class="p">)</span> <span class="p">(</span><span class="n">pairwise</span> <span class="o">$</span> <span class="n">mergeBy</span> <span class="n">less</span><span class="p">)</span> <span class="p">[[</span><span class="n">x</span><span class="p">]</span> <span class="o">|</span> <span class="n">x</span> <span class="ow">&lt;-</span> <span class="n">xs</span><span class="p">]</span>
+
+<span class="nf">pairwise</span> <span class="n">f</span> <span class="p">(</span><span class="n">xs</span><span class="kt">:</span><span class="n">ys</span><span class="kt">:</span><span class="n">t</span><span class="p">)</span> <span class="ow">=</span> <span class="n">f</span> <span class="n">xs</span> <span class="n">ys</span> <span class="kt">:</span> <span class="n">pairwise</span> <span class="n">f</span> <span class="n">t</span>
+<span class="nf">pairwise</span> <span class="n">f</span>  <span class="n">t</span>        <span class="ow">=</span> <span class="n">t</span>
+</pre></div>
+<h4><span class="mw-headline" id="Prime_numbers">Prime numbers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=10" title="Edit section: Prime numbers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The mathematical definition of <a href="/wiki/Prime_numbers" title="Prime numbers" class="mw-redirect">primes</a> can be translated pretty much word for word into Haskell:</p>
+<div class="mw-highlight">
+<pre>
+<span class="c1">-- "Integers above 1 that cannot be divided by a smaller integer above 1"</span>
+<span class="nf">primes</span> <span class="ow">=</span> <span class="p">[</span> <span class="n">n</span> <span class="o">|</span> <span class="n">n</span> <span class="ow">&lt;-</span> <span class="p">[</span><span class="mi">2</span><span class="o">..</span><span class="p">],</span> <span class="n">all</span> <span class="p">((</span><span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="o">.</span> <span class="n">rem</span> <span class="n">n</span><span class="p">)</span> <span class="p">[</span><span class="mi">2</span><span class="o">..</span><span class="p">(</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)]</span> <span class="p">]</span>
+</pre></div>
+<p>This finds primes by <a href="/wiki/Trial_division" title="Trial division">trial division</a>. Note that it is not optimized for efficiency and has very poor performance. Slightly faster (but still unreasonably slow<sup id="cite_ref-hawiki_3-0" class="reference"><a href="#cite_note-hawiki-3"><span>[</span>3<span>]</span></a></sup>) is the famous code by <a href="/wiki/David_Turner_(computer_scientist)" title="David Turner (computer scientist)">David Turner</a>:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">primes</span> <span class="ow">=</span> <span class="n">sieve</span> <span class="p">[</span><span class="mi">2</span><span class="o">..</span><span class="p">]</span>  <span class="kr">where</span> <span class="n">sieve</span> <span class="p">(</span><span class="n">p</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="ow">=</span> <span class="n">p</span> <span class="kt">:</span> <span class="n">sieve</span> <span class="p">[</span><span class="n">x</span> <span class="o">|</span> <span class="n">x</span> <span class="ow">&lt;-</span> <span class="n">xs</span><span class="p">,</span> <span class="n">rem</span> <span class="n">x</span> <span class="n">p</span> <span class="o">/=</span> <span class="mi">0</span><span class="p">]</span>
+</pre></div>
+<p><span id="Sieve_of_Eratosthenes"></span>Much faster is an unbounded <a href="/wiki/Sieve_of_Eratosthenes" title="Sieve of Eratosthenes">sieve of Eratosthenes</a> with postponed sieving in stages,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">primes</span> <span class="ow">=</span> <span class="mi">2</span> <span class="kt">:</span> <span class="n">sieve</span> <span class="p">[</span><span class="mi">3</span><span class="o">..</span><span class="p">]</span> <span class="n">primes</span>  <span class="kr">where</span>
+  <span class="n">sieve</span> <span class="n">xs</span> <span class="p">(</span><span class="n">p</span><span class="kt">:</span><span class="n">ps</span><span class="p">)</span> <span class="o">|</span> <span class="p">(</span><span class="n">h</span><span class="p">,</span><span class="n">t</span><span class="p">)</span> <span class="ow">&lt;-</span> <span class="n">span</span> <span class="p">(</span><span class="o">&lt;</span> <span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="p">)</span> <span class="n">xs</span> <span class="ow">=</span> <span class="n">h</span> <span class="o">++</span> <span class="n">sieve</span> <span class="p">(</span><span class="n">minus</span> <span class="n">t</span> <span class="p">[</span><span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="p">,</span> <span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="o">+</span><span class="n">p</span><span class="o">..</span><span class="p">])</span> <span class="n">ps</span>
+</pre></div>
+<p>or the combined sieve implementation by <a href="/wiki/Richard_Bird_(computer_scientist)" title="Richard Bird (computer scientist)">Richard Bird</a>,<sup id="cite_ref-ONeill_5-0" class="reference"><a href="#cite_note-ONeill-5"><span>[</span>5<span>]</span></a></sup></p>
+<div class="mw-highlight">
+<pre>
+<span class="c1">-- "Integers above 1 without any composite numbers, whereas the</span>
+<span class="c1">--  composite numbers are found by enumeration of each prime's multiples"</span>
+<span class="nf">primes</span> <span class="ow">=</span> <span class="mi">2</span> <span class="kt">:</span> <span class="n">minus</span> <span class="p">[</span><span class="mi">3</span><span class="o">..</span><span class="p">]</span> <span class="p">(</span><span class="n">foldr</span> <span class="p">(</span><span class="nf">\</span><span class="n">p</span> <span class="n">r</span><span class="ow">-&gt;</span> <span class="n">p</span><span class="o">*</span><span class="n">p</span> <span class="kt">:</span> <span class="n">union</span> <span class="p">[</span><span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="o">+</span><span class="n">p</span><span class="p">,</span> <span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">p</span><span class="o">..</span><span class="p">]</span> <span class="n">r</span><span class="p">)</span> <span class="kt">[]</span> <span class="n">primes</span><span class="p">)</span>
+</pre></div>
+<p>or an even faster <a href="/wiki/Fold_(higher-order_function)#Tree-like_folds" title="Fold (higher-order function)">tree-like folding</a> variant<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> with nearly optimal (for a list-based code) time complexity and very low space complexity achieved through telescoping multistage recursive production of primes:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">primes</span> <span class="ow">=</span> <span class="mi">2</span> <span class="kt">:</span> <span class="n">_Y</span> <span class="p">((</span><span class="mi">3</span> <span class="kt">:</span><span class="p">)</span> <span class="o">.</span> <span class="n">minus</span> <span class="p">[</span><span class="mi">5</span><span class="p">,</span><span class="mi">7</span><span class="o">..</span><span class="p">]</span> <span class="o">.</span> <span class="n">_U</span> <span class="o">.</span> <span class="n">map</span> <span class="p">(</span><span class="nf">\</span><span class="n">p</span><span class="ow">-&gt;</span> <span class="p">[</span><span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="p">,</span> <span class="n">p</span><span class="o">*</span><span class="n">p</span><span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">p</span><span class="o">..</span><span class="p">]))</span>
+  <span class="kr">where</span>
+    <span class="n">_Y</span> <span class="n">g</span> <span class="ow">=</span> <span class="n">g</span> <span class="p">(</span><span class="n">_Y</span> <span class="n">g</span><span class="p">)</span>   <span class="c1">-- (g . g . g . g . ...)            -- non-sharing Y combinator</span>
+    <span class="n">_U</span> <span class="p">((</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span><span class="kt">:</span><span class="n">t</span><span class="p">)</span> <span class="ow">=</span> <span class="n">x</span> <span class="kt">:</span> <span class="p">(</span><span class="n">union</span> <span class="n">xs</span> <span class="o">.</span> <span class="n">_U</span> <span class="o">.</span> <span class="n">pairwise</span> <span class="n">union</span><span class="p">)</span> <span class="n">t</span>   <span class="c1">-- ~= nub.sort.concat</span>
+</pre></div>
+<p>The shortest possible code is probably&#160; <code>nubBy (((&gt;1).).gcd) [2..]</code>. &#160;It is very slow.</p>
+<h2><span class="mw-headline" id="Syntax">Syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=11" title="Edit section: Syntax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Layout">Layout</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=12" title="Edit section: Layout">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Haskell allows <a href="/wiki/Indentation_style" title="Indentation style" class="mw-redirect">indentation</a> to be used to indicate the beginning of a new declaration. For example, in a <i>where</i> clause:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">product</span> <span class="n">xs</span> <span class="ow">=</span> <span class="n">prod</span> <span class="n">xs</span> <span class="mi">1</span>
+  <span class="kr">where</span>
+    <span class="n">prod</span> <span class="kt">[]</span>     <span class="n">a</span> <span class="ow">=</span> <span class="n">a</span>
+    <span class="n">prod</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="n">a</span> <span class="ow">=</span> <span class="n">prod</span> <span class="n">xs</span> <span class="p">(</span><span class="n">a</span><span class="o">*</span><span class="n">x</span><span class="p">)</span>
+</pre></div>
+<p>The two equations for the <a href="/wiki/Nested_function" title="Nested function">nested function</a> <tt>prod</tt> are aligned vertically, which allows the semi-colon separator to be omitted. In Haskell, indentation can be used in several syntactic constructs, including <tt>do</tt>, <tt>let</tt>, <tt>case</tt>, <tt>class</tt>, and <tt>instance</tt>.</p>
+<p>The use of indentation to indicate program structure originates in <a href="/wiki/Peter_J._Landin" title="Peter J. Landin" class="mw-redirect">Landin</a>'s <a href="/wiki/ISWIM" title="ISWIM">ISWIM</a> language, where it was called the <a href="/wiki/Off-side_rule" title="Off-side rule">off-side rule</a>. This was later adopted by <a href="/wiki/Miranda_(programming_language)" title="Miranda (programming language)">Miranda</a>, and Haskell adopted a similar (but rather more complicated) version of Miranda's off-side rule, which is called "layout". Other languages to adopt whitespace-sensitive syntax include <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> and <a href="/wiki/F_Sharp_(programming_language)" title="F Sharp (programming language)">F#</a>.</p>
+<p>The use of layout in Haskell is optional. For example, the function <tt>product</tt> above can also be written:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">product</span> <span class="n">xs</span> <span class="ow">=</span> <span class="n">prod</span> <span class="n">xs</span> <span class="mi">1</span>
+  <span class="kr">where</span> <span class="p">{</span> <span class="n">prod</span> <span class="kt">[]</span> <span class="n">a</span> <span class="ow">=</span> <span class="n">a</span><span class="p">;</span> <span class="n">prod</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="n">a</span> <span class="ow">=</span> <span class="n">prod</span> <span class="n">xs</span> <span class="p">(</span><span class="n">a</span><span class="o">*</span><span class="n">x</span><span class="p">)</span> <span class="p">}</span>
+</pre></div>
+<p>The explicit open brace after the <tt>where</tt> keyword indicates that the programmer has opted to use explicit semi-colons to separate declarations, and that the declaration-list will be terminated by an explicit closing brace. One reason for wanting support for explicit delimiters is that it makes automatic generation of Haskell source code easier.</p>
+<p>Haskell's layout rule has been criticised for its complexity. In particular, the definition states that if the parser encounters a parse error during processing of a layout section, then it should try inserting a close brace (the "parse error" rule). Implementing this rule in a traditional <a href="/wiki/Parsing" title="Parsing">parsing</a>/<a href="/wiki/Lexical_analysis" title="Lexical analysis">lexical-analysis</a> combination requires two-way cooperation between the parser and lexical analyser, whereas in most languages these two phases can be considered independently.</p>
+<h3><span class="mw-headline" id="Function_calls">Function calls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=13" title="Edit section: Function calls">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Applying a function <tt>f</tt> to a value <tt>x</tt> is expressed as simply <tt>f x</tt>.</p>
+<p>Haskell distinguishes function calls from infix operators syntactically, but not semantically. Function names which are composed of punctuation characters can be used as operators, as can other function names if surrounded with backticks; and operators can be used in prefix notation if surrounded with parentheses.</p>
+<p>This example shows the ways that functions can be called:</p>
+<div class="mw-highlight">
+<pre>
+  <span class="n">add</span> <span class="n">a</span> <span class="n">b</span> <span class="ow">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+
+  <span class="n">ten1</span> <span class="ow">=</span> <span class="mi">5</span> <span class="o">+</span> <span class="mi">5</span>
+  <span class="n">ten2</span> <span class="ow">=</span> <span class="p">(</span><span class="o">+</span><span class="p">)</span> <span class="mi">5</span> <span class="mi">5</span>
+  <span class="n">ten3</span> <span class="ow">=</span> <span class="n">add</span> <span class="mi">5</span> <span class="mi">5</span>
+  <span class="n">ten4</span> <span class="ow">=</span> <span class="mi">5</span> <span class="p">`</span><span class="n">add</span><span class="p">`</span> <span class="mi">5</span>
+</pre></div>
+<p>Functions which are defined as taking several parameters can always be partially applied. Binary operators can be partially applied using <i>section</i> notation:</p>
+<div class="mw-highlight">
+<pre>
+  <span class="n">ten5</span> <span class="ow">=</span> <span class="p">(</span><span class="o">+</span> <span class="mi">5</span><span class="p">)</span> <span class="mi">5</span>
+  <span class="n">ten6</span> <span class="ow">=</span> <span class="p">(</span><span class="mi">5</span> <span class="o">+</span><span class="p">)</span> <span class="mi">5</span>
+  
+  <span class="n">addfive</span> <span class="ow">=</span> <span class="p">(</span><span class="mi">5</span> <span class="o">+</span><span class="p">)</span>
+  <span class="n">ten7</span> <span class="ow">=</span> <span class="n">addfive</span> <span class="mi">5</span>
+</pre></div>
+<h3><span class="mw-headline" id="List_comprehensions">List comprehensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=14" title="Edit section: List comprehensions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>See <a href="/wiki/List_comprehension#Overview" title="List comprehension">List_comprehension#Overview</a> for the Haskell example.</p>
+<h3><span class="mw-headline" id="Pattern_matching">Pattern matching</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=15" title="Edit section: Pattern matching">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Pattern_matching" title="Pattern matching">Pattern matching</a> is used to match on the different constructors of algebraic data types. Here are some functions, each using pattern matching on each of the types above:</p>
+<div class="mw-highlight">
+<pre>
+<span class="c1">-- This type signature says that empty takes a list containing any type, and returns a Bool</span>
+<span class="nf">empty</span> <span class="ow">::</span> <span class="p">[</span><span class="n">a</span><span class="p">]</span> <span class="ow">-&gt;</span> <span class="kt">Bool</span>
+<span class="nf">empty</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="ow">=</span> <span class="kt">False</span>
+<span class="nf">empty</span> <span class="kt">[]</span> <span class="ow">=</span> <span class="kt">True</span>
+
+<span class="c1">-- Will return a value from a Maybe a, given a default value in case a Nothing is encountered</span>
+<span class="nf">fromMaybe</span> <span class="ow">::</span> <span class="n">a</span> <span class="ow">-&gt;</span> <span class="kt">Maybe</span> <span class="n">a</span> <span class="ow">-&gt;</span> <span class="n">a</span>
+<span class="nf">fromMaybe</span> <span class="n">x</span> <span class="p">(</span><span class="kt">Just</span> <span class="n">y</span><span class="p">)</span> <span class="ow">=</span> <span class="n">y</span>
+<span class="nf">fromMaybe</span> <span class="n">x</span> <span class="kt">Nothing</span>  <span class="ow">=</span> <span class="n">x</span>
+
+<span class="nf">isRight</span> <span class="ow">::</span> <span class="kt">Either</span> <span class="n">a</span> <span class="n">b</span> <span class="ow">-&gt;</span> <span class="kt">Bool</span>
+<span class="nf">isRight</span> <span class="p">(</span><span class="kt">Right</span> <span class="kr">_</span><span class="p">)</span> <span class="ow">=</span> <span class="kt">True</span>
+<span class="nf">isRight</span> <span class="p">(</span><span class="kt">Left</span> <span class="kr">_</span><span class="p">)</span>  <span class="ow">=</span> <span class="kt">False</span>
+
+<span class="nf">getName</span> <span class="ow">::</span> <span class="kt">Person</span> <span class="ow">-&gt;</span> <span class="kt">String</span>
+<span class="nf">getName</span> <span class="p">(</span><span class="kt">Person</span> <span class="n">name</span> <span class="kr">_</span> <span class="kr">_</span><span class="p">)</span> <span class="ow">=</span> <span class="n">name</span>
+
+<span class="nf">getSex</span> <span class="ow">::</span> <span class="kt">Person</span> <span class="ow">-&gt;</span> <span class="kt">Sex</span>
+<span class="nf">getSex</span> <span class="p">(</span><span class="kt">Person</span> <span class="kr">_</span> <span class="n">sex</span> <span class="kr">_</span><span class="p">)</span> <span class="ow">=</span> <span class="n">sex</span>
+
+<span class="nf">getAge</span> <span class="ow">::</span> <span class="kt">Person</span> <span class="ow">-&gt;</span> <span class="kt">Int</span>
+<span class="nf">getAge</span> <span class="p">(</span><span class="kt">Person</span> <span class="kr">_</span> <span class="kr">_</span> <span class="n">age</span><span class="p">)</span> <span class="ow">=</span> <span class="n">age</span>
+</pre></div>
+<p>Using the above functions, along with the <a href="/wiki/Map_(higher-order_function)" title="Map (higher-order function)"><code>map</code></a> function, we can apply them to each element of a list, to see their results:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">map</span> <span class="n">empty</span> <span class="p">[[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">]],</span><span class="kt">[]</span><span class="p">,[</span><span class="mi">2</span><span class="p">],[[</span><span class="mi">1</span><span class="o">..</span><span class="p">]]</span>
+<span class="c1">-- returns [False,True,False,False]</span>
+
+<span class="nf">map</span> <span class="p">(</span><span class="n">fromMaybe</span> <span class="mi">0</span><span class="p">)</span> <span class="p">[</span><span class="kt">Just</span> <span class="mi">2</span><span class="p">,</span><span class="kt">Nothing</span><span class="p">,</span><span class="kt">Just</span> <span class="mi">109238</span><span class="p">,</span> <span class="kt">Nothing</span><span class="p">]</span>
+<span class="c1">-- returns [2,0,109238,0]</span>
+
+<span class="nf">map</span> <span class="n">isRight</span> <span class="p">[</span><span class="kt">Left</span> <span class="s">"hello"</span><span class="p">,</span> <span class="kt">Right</span> <span class="mi">6</span><span class="p">,</span> <span class="kt">Right</span> <span class="mi">23</span><span class="p">,</span> <span class="kt">Left</span> <span class="s">"world"</span><span class="p">]</span>
+<span class="c1">-- returns [False, True, True, False]</span>
+
+<span class="nf">map</span> <span class="n">getName</span> <span class="p">[</span><span class="kt">Person</span> <span class="s">"Sarah"</span> <span class="kt">Female</span> <span class="mi">20</span><span class="p">,</span> <span class="kt">Person</span> <span class="s">"Alex"</span> <span class="kt">Male</span> <span class="mi">20</span><span class="p">,</span> <span class="n">tom</span><span class="p">]</span>
+<span class="c1">-- returns ["Sarah", "Alex", "Tom"], using the definition for tom above</span>
+</pre></div>
+<ul>
+<li>Abstract Types</li>
+</ul>
+<ul>
+<li>Lists</li>
+</ul>
+<h3><span class="mw-headline" id="Tuples">Tuples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=16" title="Edit section: Tuples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tuples in haskell can be used to hold a fixed number of elements. They are used to group pieces of data of differing types:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">account</span> <span class="ow">::</span> <span class="p">(</span><span class="kt">String</span><span class="p">,</span> <span class="kt">Integer</span><span class="p">,</span> <span class="kt">Double</span><span class="p">)</span> <span class="c1">-- The type of a three-tuple, representing </span>
+                                     <span class="c1">--   a name, balance, and interest rate</span>
+<span class="nf">account</span> <span class="ow">=</span> <span class="p">(</span><span class="s">"John Smith"</span><span class="p">,</span><span class="mi">102894</span><span class="p">,</span><span class="mf">5.25</span><span class="p">)</span>
+</pre></div>
+<p>Tuples are commonly used in the zip* functions to place adjacent elements in separate lists together in tuples (zip4 to zip7 are provided in the Data.List module):</p>
+<div class="mw-highlight">
+<pre>
+<span class="c1">-- The definition of the zip function. Other zip* functions are defined similarly</span>
+<span class="nf">zip</span> <span class="ow">::</span> <span class="p">[</span><span class="n">x</span><span class="p">]</span> <span class="ow">-&gt;</span> <span class="p">[</span><span class="n">y</span><span class="p">]</span> <span class="ow">-&gt;</span> <span class="p">[(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)]</span>
+<span class="nf">zip</span> <span class="p">(</span><span class="n">x</span><span class="kt">:</span><span class="n">xs</span><span class="p">)</span> <span class="p">(</span><span class="n">y</span><span class="kt">:</span><span class="n">ys</span><span class="p">)</span> <span class="ow">=</span> <span class="p">(</span><span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">)</span> <span class="kt">:</span> <span class="n">zip</span> <span class="n">xs</span> <span class="n">ys</span>
+<span class="nf">zip</span> <span class="kr">_</span>      <span class="kr">_</span>      <span class="ow">=</span> <span class="kt">[]</span>
+
+<span class="nf">zip</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="mi">5</span><span class="p">]</span> <span class="s">"hello"</span>
+<span class="c1">-- returns [(1,'h'),(2,'e'),(3,'l'),(4,'l'),(5,'o')]</span>
+<span class="c1">-- and has type [(Integer, Char)]</span>
+
+<span class="nf">zip3</span> <span class="p">[</span><span class="mi">1</span><span class="o">..</span><span class="mi">5</span><span class="p">]</span> <span class="s">"hello"</span> <span class="p">[</span><span class="kt">False</span><span class="p">,</span> <span class="kt">True</span><span class="p">,</span> <span class="kt">False</span><span class="p">,</span> <span class="kt">False</span><span class="p">,</span> <span class="kt">True</span><span class="p">]</span>
+<span class="c1">-- returns [(1,'h',False),(2,'e',True),(3,'l',False),(4,'l',False),(5,'o',True)]</span>
+<span class="c1">-- and has type [(Integer,Char,Bool)]</span>
+</pre></div>
+<p>In the GHC compiler, tuples are defined with sizes from 2 elements up to 62 elements.</p>
+<ul>
+<li>Records</li>
+</ul>
+<h2><span class="mw-headline" id="Namespaces">Namespaces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=17" title="Edit section: Namespaces">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="#More_complex_examples">#More_complex_examples</a> section above, <tt>calc</tt> is used in two senses, showing that there is a Haskell type class namespace and also a namespace for values:</p>
+<ol>
+<li>a Haskell <a href="/wiki/Type_class" title="Type class">type class</a> for <tt>calc</tt>. The <a href="/wiki/Domain_of_a_function" title="Domain of a function">domain</a> and <a href="/wiki/Range_(mathematics)" title="Range (mathematics)">range</a> can be explicitly denoted in a Haskell type class.</li>
+<li>a Haskell value, formula, or expression for <tt>calc</tt>.</li>
+</ol>
+<h2><span class="mw-headline" id="Typeclasses_and_polymorphism">Typeclasses and polymorphism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=18" title="Edit section: Typeclasses and polymorphism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Algebraic_data_types">Algebraic data types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=19" title="Edit section: Algebraic data types">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span">This section requires <a class="external text" href="//en.wikipedia.org/w/index.php?title=Haskell_98_features&amp;action=edit">expansion</a>. <small><i>(December 2009)</i></small></span></td>
+</tr>
+</table>
+<p><a href="/wiki/Algebraic_data_types" title="Algebraic data types" class="mw-redirect">Algebraic data types</a> are used extensively in Haskell. Some examples of these are the built in list, <code>Maybe</code> and <code>Either</code> types:</p>
+<div class="mw-highlight">
+<pre>
+<span class="c1">-- A list of a's ([a]) is either an a consed (:) onto another list of a's, or an empty list ([])</span>
+<span class="kr">data</span> <span class="p">[</span><span class="n">a</span><span class="p">]</span> <span class="ow">=</span> <span class="n">a</span> <span class="kt">:</span> <span class="p">[</span><span class="n">a</span><span class="p">]</span> <span class="o">|</span> <span class="kt">[]</span>
+<span class="c1">-- Something of type Maybe a is either Just something, or Nothing</span>
+<span class="kr">data</span> <span class="kt">Maybe</span> <span class="n">a</span> <span class="ow">=</span> <span class="kt">Just</span> <span class="n">a</span> <span class="o">|</span> <span class="kt">Nothing</span>
+<span class="c1">-- Something of type Either atype btype is either a Left atype, or a Right btype</span>
+<span class="kr">data</span> <span class="kt">Either</span> <span class="n">a</span> <span class="n">b</span> <span class="ow">=</span> <span class="kt">Left</span> <span class="n">a</span> <span class="o">|</span> <span class="kt">Right</span> <span class="n">b</span>
+</pre></div>
+<p>Users of the language can also define their own <a href="/wiki/Abstract_data_type" title="Abstract data type">abstract data types</a>. An example of an ADT used to represent a person's name, sex and age might look like:</p>
+<div class="mw-highlight">
+<pre>
+<span class="kr">data</span> <span class="kt">Sex</span> <span class="ow">=</span> <span class="kt">Male</span> <span class="o">|</span> <span class="kt">Female</span>
+<span class="kr">data</span> <span class="kt">Person</span> <span class="ow">=</span> <span class="kt">Person</span> <span class="kt">String</span> <span class="kt">Sex</span> <span class="kt">Int</span> <span class="c1">-- Notice that Person is both a constructor and a type</span>
+
+<span class="c1">-- An example of creating something of type Person</span>
+<span class="nf">tom</span> <span class="ow">::</span> <span class="kt">Person</span>
+<span class="nf">tom</span> <span class="ow">=</span> <span class="kt">Person</span> <span class="s">"Tom"</span> <span class="kt">Male</span> <span class="mi">27</span>
+</pre></div>
+<h3><span class="mw-headline" id="Type_system">Type system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=20" title="Edit section: Type system">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span">This section requires <a class="external text" href="//en.wikipedia.org/w/index.php?title=Haskell_98_features&amp;action=edit">expansion</a>. <small><i>(December 2009)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Type_class" title="Type class">Type classes</a></li>
+<li>Type defaulting</li>
+<li>Overloaded Literals</li>
+<li>Higher Kinded Polymorphism</li>
+<li>Multi-Parameter Type Classes</li>
+<li>Functional Dependencies</li>
+</ul>
+<h2><span class="mw-headline" id="Monads_and_input.2Foutput">Monads and input/output</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=21" title="Edit section: Monads and input/output">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td>
+<td class="mbox-text"><span class="mbox-text-span">This section requires <a class="external text" href="//en.wikipedia.org/w/index.php?title=Haskell_98_features&amp;action=edit">expansion</a>. <small><i>(December 2009)</i></small></span></td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/Monad_(functional_programming)" title="Monad (functional programming)">Overview of the monad framework</a></li>
+<li>Applications</li>
+</ul>
+<ul>
+<li>
+<ul>
+<li>Monadic IO</li>
+<li>Do-notation</li>
+<li>References</li>
+<li>Exceptions</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="ST_monad">ST monad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=22" title="Edit section: ST monad">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The ST monad allows programmers to write imperative algorithms in Haskell, using mutable variables (STRef's) and mutable arrays (STArrays and STUArrays). The advantage of the ST monad is that it allows programmers to write code that has internal side effects, such as destructively updating mutable variables and arrays, while containing these effects inside the monad. The result of this is that functions written using the ST monad appear completely pure to the rest of the program. This allows programmers to produce imperative code where it may be impractical to write functional code, while still keeping all the safety that pure code provides.</p>
+<p>Here is an example program (taken from the Haskell wiki page on the <a rel="nofollow" class="external text" href="http://haskell.org/haskellwiki/Monad/ST">ST monad</a>) that takes a list of numbers, and sums them, using a mutable variable:</p>
+<div class="mw-highlight">
+<pre>
+<span class="kr">import</span> <span class="nn">Control.Monad.ST</span>
+<span class="kr">import</span> <span class="nn">Data.STRef</span>
+<span class="kr">import</span> <span class="nn">Control.Monad</span>
+
+<span class="nf">sumST</span> <span class="ow">::</span> <span class="kt">Num</span> <span class="n">a</span> <span class="ow">=&gt;</span> <span class="p">[</span><span class="n">a</span><span class="p">]</span> <span class="ow">-&gt;</span> <span class="n">a</span>
+<span class="nf">sumST</span> <span class="n">xs</span> <span class="ow">=</span> <span class="n">runST</span> <span class="o">$</span> <span class="kr">do</span>            <span class="c1">-- runST takes stateful ST code and makes it pure.</span>
+    <span class="n">summed</span> <span class="ow">&lt;-</span> <span class="n">newSTRef</span> <span class="mi">0</span>         <span class="c1">-- Create an STRef (a mutable variable)</span>
+
+    <span class="n">forM_</span> <span class="n">xs</span> <span class="o">$</span> <span class="nf">\</span><span class="n">x</span> <span class="ow">-&gt;</span> <span class="kr">do</span>          <span class="c1">-- For each element of the argument list xs ..</span>
+        <span class="n">modifySTRef</span> <span class="n">summed</span> <span class="p">(</span><span class="o">+</span><span class="n">x</span><span class="p">)</span>  <span class="c1">-- add it to what we have in n.</span>
+
+    <span class="n">readSTRef</span> <span class="n">summed</span>             <span class="c1">-- read the value of n, which will be returned by the runST above.</span>
+</pre></div>
+<h3><span class="mw-headline" id="STM_monad">STM monad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=23" title="Edit section: STM monad">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Concurrent_Haskell" title="Concurrent Haskell">Concurrent Haskell</a></div>
+<p>The STM monad is an implementation of <a href="/wiki/Software_Transactional_Memory" title="Software Transactional Memory" class="mw-redirect">Software Transactional Memory</a> in Haskell. It is implemented in the GHC compiler, and allows for mutable variables to be modified in <a href="/wiki/Database_transaction" title="Database transaction">transactions</a>.</p>
+<h3><span class="mw-headline" id="Arrows">Arrows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=24" title="Edit section: Arrows">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Applicative Functors</li>
+<li>Arrows</li>
+</ul>
+<p>As Haskell is a pure functional language, functions cannot have side effects. Being non-strict, it also does not have a well-defined evaluation order. This is a challenge for real programs, which among other things need to interact with an environment. Haskell solves this with <i><a href="/wiki/Monad_(functional_programming)" title="Monad (functional programming)">monadic types</a></i> that leverage the type system to ensure the proper sequencing of imperative constructs. The typical example is I/O, but monads are useful for many other purposes, including mutable state, concurrency and transactional memory, exception handling, and error propagation.</p>
+<p>Haskell provides a special syntax for monadic expressions, so that side-effecting programs can be written in a style similar to current imperative programming languages; no knowledge of the <a href="/wiki/Monad_(category_theory)" title="Monad (category theory)">mathematics behind monadic I/O</a> is required for this. The following program reads a name from the command line and outputs a greeting message:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">main</span> <span class="ow">=</span> <span class="kr">do</span> <span class="n">putStrLn</span> <span class="s">"What's your name?"</span>
+          <span class="n">name</span> <span class="ow">&lt;-</span> <span class="n">getLine</span>
+          <span class="n">putStr</span> <span class="p">(</span><span class="s">"Hello, "</span> <span class="o">++</span> <span class="n">name</span> <span class="o">++</span> <span class="s">"!</span><span class="se">\n</span><span class="s">"</span><span class="p">)</span>
+</pre></div>
+<p>The do-notation eases working with monads. This do-expression is equivalent to, but (arguably) easier to write and understand than, the <a href="/wiki/Desugared" title="Desugared" class="mw-redirect">de-sugared</a> version employing the monadic operators directly:</p>
+<div class="mw-highlight">
+<pre>
+<span class="nf">main</span> <span class="ow">=</span> <span class="n">putStrLn</span> <span class="s">"What's your name?"</span> <span class="o">&gt;&gt;</span> <span class="n">getLine</span> <span class="o">&gt;&gt;=</span> <span class="nf">\</span> <span class="n">name</span> <span class="ow">-&gt;</span> <span class="n">putStr</span> <span class="p">(</span><span class="s">"Hello, "</span> <span class="o">++</span> <span class="n">name</span> <span class="o">++</span> <span class="s">"!</span><span class="se">\n</span><span class="s">"</span><span class="p">)</span>
+</pre></div>
+<dl>
+<dd><i>See also <a href="//en.wikibooks.org/wiki/Transwiki:List_of_hello_world_programs#Haskell" class="extiw" title="wikibooks:Transwiki:List of hello world programs">wikibooks:Transwiki:List of hello world programs#Haskell</a> for another example that prints text.</i></dd>
+</dl>
+<h2><span class="mw-headline" id="Concurrency">Concurrency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=25" title="Edit section: Concurrency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Haskell language definition itself does not include either <a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">concurrency</a> or <a href="/wiki/Parallel_computing" title="Parallel computing">parallelism</a>, although GHC supports both.</p>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Concurrent_Haskell" title="Concurrent Haskell">Concurrent Haskell</a></div>
+<p><a href="/wiki/Concurrent_Haskell" title="Concurrent Haskell">Concurrent Haskell</a> is an extension to Haskell that provides support for threads and synchronization.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> GHC's implementation of Concurrent Haskell is based on multiplexing lightweight Haskell threads onto a few heavyweight OS threads,<sup id="cite_ref-marlow2009_8-0" class="reference"><a href="#cite_note-marlow2009-8"><span>[</span>8<span>]</span></a></sup> so that Concurrent Haskell programs run in parallel on a <a href="/wiki/Symmetric_multiprocessing" title="Symmetric multiprocessing">multiprocessor</a>. The runtime can support millions of simultaneous threads.<sup id="cite_ref-dons-multicore_9-0" class="reference"><a href="#cite_note-dons-multicore-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The GHC implementation employs a dynamic pool of OS threads, allowing a Haskell thread to make a blocking system call without blocking other running Haskell threads.<sup id="cite_ref-marlow2004_10-0" class="reference"><a href="#cite_note-marlow2004-10"><span>[</span>10<span>]</span></a></sup> Hence the lightweight Haskell threads have the characteristics of heavyweight OS threads, and the programmer is unaware of the implementation details.</p>
+<p>Recently, Concurrent Haskell has been extended with support for <a href="/wiki/Software_transactional_memory" title="Software transactional memory">Software Transactional Memory</a> (STM), which is a concurrency abstraction in which compound operations on shared data are performed atomically, as transactions.<sup id="cite_ref-stm_11-0" class="reference"><a href="#cite_note-stm-11"><span>[</span>11<span>]</span></a></sup> GHC's STM implementation is the only STM implementation to date to provide a static compile-time guarantee preventing non-transactional operations from being performed within a transaction. The Haskell STM library also provides two operations not found in other STMs: <tt>retry</tt> and <tt>orElse</tt>, which together allow blocking operations to be defined in a <a href="/wiki/Software_transactional_memory#Composable_operations" title="Software transactional memory">modular and composable fashion</a>.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">HaskellWiki: <a rel="nofollow" class="external text" href="http://www.haskell.org/haskellwiki/Type_signatures_as_good_style">Type signatures as good style</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">HaskellWiki: <a rel="nofollow" class="external text" href="http://haskell.org/haskellwiki/Pointfree">Pointfree</a></span></li>
+<li id="cite_note-hawiki-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-hawiki_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haskell.org/haskellwiki/Prime_numbers#Turner.27s_sieve_-_Trial_division">Turner's sieve at haskellwiki prime numbers page</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haskell.org/haskellwiki/Prime_numbers#Postponed">Postponed sieve of Eratosthenes at haskellwiki prime numbers page</a></span></li>
+<li id="cite_note-ONeill-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-ONeill_5-0">^</a></b></span> <span class="reference-text">O'Neill, Melissa E., <a rel="nofollow" class="external text" href="http://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf">"The Genuine Sieve of Eratosthenes"</a>, Journal of Functional Programming, Published online by Cambridge University Press 9 October 2008 <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1017%2FS0956796808007004">10.1017/S0956796808007004</a>, pp. 10, 11.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haskell.org/haskellwiki/Prime_numbers#Tree_merging">treelike merging at haskellwiki prime numbers page</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Simon Peyton Jones, Andrew Gordon, and Sigbjorn Finne. <a rel="nofollow" class="external text" href="http://www.haskell.org/ghc/docs/papers/concurrent-haskell.ps.gz">Concurrent Haskell</a>. <i>ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (PoPL).</i> 1996. (Some sections are out of date with respect to the current implementation.)</span></li>
+<li id="cite_note-marlow2009-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-marlow2009_8-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haskell.org/~simonmar/papers/multicore-ghc.pdf">Runtime Support for Multicore Haskell</a> (Simon Marlow, Simon Peyton Jones, Satnam Singh) ICFP '09: Proceeding of the 14th ACM SIGPLAN international conference on Functional programming, Edinburgh, Scotland, August 2009</span></li>
+<li id="cite_note-dons-multicore-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-dons-multicore_9-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://donsbot.wordpress.com/2009/09/05/defun-2009-multicore-programming-in-haskell-now/">http://donsbot.wordpress.com/2009/09/05/defun-2009-multicore-programming-in-haskell-now/</a></span></li>
+<li id="cite_note-marlow2004-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-marlow2004_10-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haskell.org/~simonmar/papers/conc-ffi.pdf">Extending the Haskell Foreign Function Interface with Concurrency</a> (Simon Marlow, Simon Peyton Jones, Wolfgang Thaller) Proceedings of the ACM SIGPLAN workshop on Haskell, pages 57--68, Snowbird, Utah, USA, September 2004</span></li>
+<li id="cite_note-stm-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-stm_11-0">^</a></b></span> <span class="reference-text"><span class="citation conference">Harris, Tim; Marlow, Simon; Peyton-Jones, Simon; Herlihy, Maurice (2005). "Composable memory transactions". <i>Proceedings of the tenth ACM SIGPLAN symposium on Principles and practice of parallel programming</i>. <a href="/wiki/CiteSeer#CiteSeerX" title="CiteSeer">CiteSeerX</a>: <span class="url"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.67.3686">10<wbr />.1<wbr />.1<wbr />.67<wbr />.3686</a></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHaskell+98+features&amp;rft.atitle=Composable+memory+transactions&amp;rft.aufirst=Tim&amp;rft.au=Harris%2C+Tim&amp;rft.au=Herlihy%2C+Maurice&amp;rft.aulast=Harris&amp;rft.au=Marlow%2C+Simon&amp;rft.au=Peyton-Jones%2C+Simon&amp;rft.btitle=Proceedings+of+the+tenth+ACM+SIGPLAN+symposium+on+Principles+and+practice+of+parallel+programming&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1177
+CPU time usage: 0.201 seconds
+Real time usage: 0.596 seconds
+Preprocessor visited node count: 980/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 9387/2097152 bytes
+Template argument size: 360/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 1.61 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  502.979      1 - -total
+  9.43%   47.423      3 - Template:Expand_section
+  8.14%   40.920      1 - Template:Cite_conference
+  7.73%   38.872      3 - Template:Ambox
+  5.36%   26.971      3 - Template:Anchor
+  2.36%   11.882      1 - Template:Doi
+  2.17%   10.913      1 - Template:Citeseerx
+  2.04%   10.239      2 - Template:Main
+  1.59%    8.015      1 - Template:URL
+  1.17%    5.898      2 - Template:Hide_in_print
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26134562-0!*!0!!en!4!* and timestamp 20150627042054 and revision id 634207987
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Haskell_98_features&amp;oldid=634207987">https://en.wikipedia.org/w/index.php?title=Haskell_98_features&amp;oldid=634207987</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Haskell_programming_language_family" title="Category:Haskell programming language family">Haskell programming language family</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_December_2009" title="Category:Articles to be expanded from December 2009">Articles to be expanded from December 2009</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_with_example_Haskell_code" title="Category:Articles with example Haskell code">Articles with example Haskell code</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Haskell+98+features&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Haskell+98+features" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Haskell_98_features"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Haskell_98_features"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Haskell_98_features" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Haskell_98_features&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Haskell_98_features&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Haskell_98_features" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Haskell_98_features" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Haskell_98_features&amp;oldid=634207987" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Haskell_98_features&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q5679197" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Haskell_98_features&amp;id=634207987" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Haskell+98+features">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Haskell+98+features&amp;oldid=634207987&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Haskell_98_features&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q5679197#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 November 2014, at 11:16.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Haskell_98_features&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1101"});
+}</script>
+	</body>
+</html>

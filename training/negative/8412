@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>ns (simulator) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ns_(simulator)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ns_(simulator)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ns_(simulator)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Ns_(simulator)" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ns_(simulator)" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ns_(simulator)","wgTitle":"Ns (simulator)","wgCurRevisionId":667331087,"wgRevisionId":667331087,"wgArticleId":5868379,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2013","Articles with unsourced statements from March 2015","Articles with specifically marked weasel-worded phrases from October 2014","Articles with unsourced statements from October 2014","Computer networking","Computer network analysis","Simulation software","Telecommunications engineering","Free software programmed in C++","Software using the GPL license"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ns_(simulator)","wgRelevantArticleId":5868379,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q577400"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Ns_simulator skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">ns (simulator)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">"ns-2" redirects here. For the fictional robot from the works of Isaac Asimov, see <a href="/wiki/NS-2_(literary_character)" title="NS-2 (literary character)" class="mw-redirect">NS-2 (literary character)</a>. For the hepatitis C virus protein, see <a href="/wiki/NS2_(HCV)" title="NS2 (HCV)">NS2 (HCV)</a>.</div>
+<div class="hatnote">"ns-3" redirects here. For the hepatitis C virus protein, see <a href="/wiki/NS3_(HCV)" title="NS3 (HCV)">NS3 (HCV)</a>.</div>
+<div class="hatnote">For other uses of "NS", see <a href="/wiki/NS_(disambiguation)" title="NS (disambiguation)" class="mw-redirect">NS (disambiguation)</a>.</div>
+<table class="infobox vevent" style="width:22em">
+<caption class="summary">ns-3 Network Simulator</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Ns-3-logo.png" class="image" title="ns-3 logo"><img alt="ns-3 logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ns-3-logo.png/250px-Ns-3-logo.png" width="250" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ns-3-logo.png/375px-Ns-3-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5d/Ns-3-logo.png 2x" data-file-width="492" data-file-height="90" /></a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_developer" title="Software developer">Developer(s)</a></th>
+<td>ns-3 project<sup id="cite_ref-hackers_1-0" class="reference"><a href="#cite_note-hackers-1"><span>[</span>note 1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Initial release</th>
+<td>June&#160;30,&#160;2008<span style="display:none">&#160;(<span class="bday dtstart published updated">2008-06-30</span>)</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>1<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Stable release</a></th>
+<td>3.23 / May&#160;14, 2015<span class="noprint">; 56 days ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2015-05-14</span>)</span><sup id="cite_ref-news_3-0" class="reference"><a href="#cite_note-news-3"><span>[</span>2<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_release_life_cycle" title="Software release life cycle">Preview release</a></th>
+<td>Mercurial repository<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>3<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Development status</th>
+<td>Active</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Written in</th>
+<td><a href="/wiki/C%2B%2B" title="C++">C++</a> (core) <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (bindings)</td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Operating_system" title="Operating system">Operating system</a></th>
+<td><a href="/wiki/GNU/Linux" title="GNU/Linux" class="mw-redirect">GNU/Linux</a>, <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>, <a href="/wiki/Mac_OS_X" title="Mac OS X" class="mw-redirect">Mac OS X</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Computing_platform" title="Computing platform">Platform</a></th>
+<td><a href="/wiki/IA-32" title="IA-32">IA-32</a>, <a href="/wiki/X86-64" title="X86-64">x86-64</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/List_of_software_categories" title="List of software categories">Type</a></th>
+<td><a href="/wiki/Network_simulator" title="Network simulator" class="mw-redirect">Network simulator</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;"><a href="/wiki/Software_license" title="Software license">License</a></th>
+<td><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GPLv2</a></td>
+</tr>
+<tr>
+<th scope="row" style="white-space: nowrap;">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.nsnam.org/">www<wbr />.nsnam<wbr />.org</a></span></td>
+</tr>
+</table>
+<p><b>ns</b> (from <b>network simulator</b>) is a name for series of <a href="/wiki/Discrete_event_simulation" title="Discrete event simulation">discrete event</a> <a href="/wiki/Network_simulation" title="Network simulation">network simulators</a>, specifically <b>ns-1</b>, <b>ns-2</b> and <b>ns-3</b>. All of them are discrete-event network simulators, primarily used in research<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>4<span>]</span></a></sup> and teaching. ns-3 is <a href="/wiki/Free_software" title="Free software">free software</a>, publicly available under the GNU GPLv2 license for research, development, and use.</p>
+<p>The goal of the ns-3 project is to create an open simulation environment for networking research that will be preferred inside the research community:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<ul>
+<li>It should be aligned with the simulation needs of modern networking research.</li>
+<li>It should encourage community contribution, peer review, and validation of the software.</li>
+</ul>
+<p>Since the process of creation of a network simulator that contains a sufficient number of high-quality validated, tested and actively maintained models requires a lot of work, ns-3 project spreads this workload over a large community of users and developers.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#ns-1"><span class="tocnumber">1.1</span> <span class="toctext">ns-1</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#ns-2"><span class="tocnumber">1.2</span> <span class="toctext">ns-2</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#ns-3"><span class="tocnumber">1.3</span> <span class="toctext">ns-3</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Design"><span class="tocnumber">2</span> <span class="toctext">Design</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Components"><span class="tocnumber">3</span> <span class="toctext">Components</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Simulation_workflow"><span class="tocnumber">4</span> <span class="toctext">Simulation workflow</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Criticism"><span class="tocnumber">5</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="ns-1">ns-1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=2" title="Edit section: ns-1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first version of ns, known as ns-1, was developed at <a href="/wiki/Lawrence_Berkeley_National_Laboratory" title="Lawrence Berkeley National Laboratory">Lawrence Berkeley National Laboratory</a> (LBNL) in the 1995-97 timeframe by Steve McCanne, Sally Floyd, Kevin Fall, and other contributors. This was known as the LBNL Network Simulator, and derived from an earlier simulator known as REAL by S. Keshav. The core of the simulator was written in C++, with <a href="/wiki/Tcl" title="Tcl">Tcl</a>-based scripting of simulation scenarios.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>5<span>]</span></a></sup> Long-running contributions have also come from <a href="/wiki/Sun_Microsystems" title="Sun Microsystems">Sun Microsystems</a>, the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">UC Berkeley</a> Daedelus, and <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon</a> Monarch projects it used.</p>
+<h3><span class="mw-headline" id="ns-2">ns-2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=3" title="Edit section: ns-2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1996-97, ns version 2 (ns-2) was initiated based on a refactoring by Steve McCanne. Use of Tcl was replaced by MIT's <a href="/wiki/OTcl" title="OTcl">Object Tcl (OTcl)</a>, an <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented</a> dialect <a href="/wiki/Tcl" title="Tcl">Tcl</a>. The core of ns-2 is also written in C++, but the C++ simulation objects are linked to shadow objects in OTcl and variables can be linked between both language realms. Simulation scripts are written in the OTcl language, an extension of the Tcl scripting language.</p>
+<p>Presently, ns-2 consists of over 300,000 lines of source code, and there is probably a comparable amount of contributed code that is not integrated directly into the main distribution (many <a href="/wiki/Fork_(software_development)" title="Fork (software development)">forks</a> of ns-2 exist, both maintained and unmaintained). It runs on <a href="/wiki/GNU/Linux" title="GNU/Linux" class="mw-redirect">GNU/Linux</a>, <a href="/wiki/FreeBSD" title="FreeBSD">FreeBSD</a>, <a href="/wiki/Solaris_(operating_system)" title="Solaris (operating system)">Solaris</a>, <a href="/wiki/Mac_OS_X" title="Mac OS X" class="mw-redirect">Mac OS X</a> and Windows versions that support <a href="/wiki/Cygwin" title="Cygwin">Cygwin</a>. It is licensed for use under <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">version 2</a> of the <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a>.</p>
+<h3><span class="mw-headline" id="ns-3">ns-3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=4" title="Edit section: ns-3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A team led by Tom Henderson, George Riley, <a href="/wiki/Sally_Floyd" title="Sally Floyd">Sally Floyd</a>, and Sumit Roy, applied for and received funding from the U.S. National Science Foundation (NSF) to build a replacement for ns-2, called ns-3. This team collaborated with the <a rel="nofollow" class="external text" href="http://planete.inria.fr/">Planete</a> project of <a href="/wiki/French_Institute_for_Research_in_Computer_Science_and_Control" title="French Institute for Research in Computer Science and Control" class="mw-redirect">INRIA</a> at Sophia Antipolis, with Mathieu Lacage as the software lead, and formed a new open source project.</p>
+<p>In the process of developing ns-3, it was decided to completely abandon backward-compatibility with ns-2. The new simulator would be written from scratch, using the <a href="/wiki/C%2B%2B" title="C++">C++</a> programming language. Development of ns-3 began in July 2006. A framework for generating Python bindings (<a href="/w/index.php?title=Pybindgen&amp;action=edit&amp;redlink=1" class="new" title="Pybindgen (page does not exist)">pybindgen</a>) and use of the <a href="/wiki/Waf" title="Waf">Waf</a> build system were contributed by Gustavo Carneiro.</p>
+<p>The first release, ns-3.1 was made in June 2008, and afterwards the project continued making quarterly software releases, and more recently has moved to three releases per year. ns-3 made its twenty first release (ns-3.21) in September 2014.</p>
+<p>Current status of the three versions is:</p>
+<ul>
+<li>ns-1 is no longer developed nor maintained,</li>
+<li>ns-2 is not actively maintained and is not being accepted for journal publications<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs a reliable source. (March 2015)">citation needed</span></a></i>]</sup></li>
+<li>ns-3 is actively developed (but not compatible for work done on ns-2).</li>
+</ul>
+<h2><span class="mw-headline" id="Design">Design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=5" title="Edit section: Design">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ns-3 is built using <a href="/wiki/C%2B%2B" title="C++">C++</a> and <a href="/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> with scripting capability. The ns-3 library is wrapped to python thanks to the pybindgen library which delegates the parsing of the ns-3 C++ headers to gccxml and pygccxml to generate automatically the corresponding C++ binding glue. These automatically-generated C++ files are finally compiled into the ns-3 python module to allow users to interact with the C++ ns-3 models and core through python scripts. The ns-3 simulator features an integrated attribute-based system to manage default and per-instance values for simulation parameters. All of the configurable default values for parameters are managed by this system, integrated with command-line argument processing, Doxygen documentation, and an XML-based and optional GTK-based configuration subsystem.</p>
+<p>The large majority of its users focuses on wireless simulations which involve models for Wi-Fi, WiMAX, or LTE for layers 1 and 2 and routing protocols such as OLSR and AODV.</p>
+<h2><span class="mw-headline" id="Components">Components</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=6" title="Edit section: Components">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ns-3 is split over couple dozen <a href="/wiki/Modular_programming" title="Modular programming">modules</a> containing one or more models for real-world network devices and protocols.</p>
+<p>ns-3 has more recently integrated with related projects: the <a rel="nofollow" class="external text" href="http://www.nsnam.org/overview/projects/direct-code-execution/">Direct Code Execution</a> extensions allowing the use of C or C++-based applications and Linux kernel code in the simulations.</p>
+<h2><span class="mw-headline" id="Simulation_workflow">Simulation workflow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=7" title="Edit section: Simulation workflow">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The general process of creating a simulation can be divided into several steps:</p>
+<ol>
+<li><i>Topology definition</i>: to ease the creation of basic facilities and define their interrelationships, ns-3 has a system of containers and helpers that facilitates this process.</li>
+<li><i>Model development</i>: models are added to simulation (for example, UDP, IPv4, point-to-point devices and links, applications); most of the time this is done using helpers.</li>
+<li><i>Node and link configuration</i>: models set their default values (for example, the size of packets sent by an application or MTU of a point-to-point link); most of the time this is done using the attribute system.</li>
+<li><i>Execution</i>: simulation facilities generate events, data requested by the user is logged.</li>
+<li><i>Performance analysis</i>: after the simulation is finished and data is available as a time-stamped event trace. This data can then be statistically analysed with tools like <a href="/wiki/R_(programming_language)" title="R (programming language)">R</a> to draw conclusions.</li>
+<li><i>Graphical Visualization</i>: raw or processed data collected in a simulation can be graphed using tools like <a href="/wiki/Gnuplot" title="Gnuplot">Gnuplot</a>, <a href="/wiki/Matplotlib" title="Matplotlib">matplotlib</a> or <a href="/w/index.php?title=XGRAPH&amp;action=edit&amp;redlink=1" class="new" title="XGRAPH (page does not exist)">XGRAPH</a>.</li>
+</ol>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=8" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ns-2 is often criticized<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (October 2014)">by whom?</span></a></i>]</sup> because modelling is a very complex and time-consuming task, since it has no GUI and one needs to learn scripting language, queuing theory and modelling techniques. Also, of late, there have been complaints that results are not consistent (probably because of continuous changes in the code base) and that certain protocols have unacceptable bugs.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="What changes to the code base? Which bugs? (October 2014)">citation needed</span></a></i>]</sup></p>
+<p>ns-3 is often criticized<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (October 2014)">by whom?</span></a></i>]</sup> for its lack of support for protocols (like WSN, MANET etc.) which were supported in ns-2, as well as for the lack of backward compatibility with ns-2. As with ns-2, ns-3 is also time consuming to learn and use compared to GUI-based simulators.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/GloMoSim" title="GloMoSim">GloMoSim</a></li>
+<li><a href="/wiki/NetSim" title="NetSim">NetSim</a></li>
+<li><a href="/wiki/OMNeT%2B%2B" title="OMNeT++">OMNeT++</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-hackers-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-hackers_1-0">^</a></b></span> <span class="reference-text">Tom Henderson, Mathieu Lacage, George Riley, Mitch Watrous, Gustavo Carneiro, Tommaso Pecorella and others.</span></li>
+</ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation mailinglist">Henderson, Tom (2012-06-09). <a rel="nofollow" class="external text" href="http://mailman.isi.edu/pipermail/ns-developers/2008-June/004277.html">"upcoming ns-3.1 release"</a> (Mailing list). ns-3 GSoC 2015 students<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-31</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANs+%28simulator%29&amp;rft.aufirst=Tom&amp;rft.au=Henderson%2C+Tom&amp;rft.aulast=Henderson&amp;rft.btitle=upcoming+ns-3.1+release&amp;rft.date=2012-06-09&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmailman.isi.edu%2Fpipermail%2Fns-developers%2F2008-June%2F004277.html&amp;rft.pub=ns-3+GSoC+2015+students&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-news-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-news_3-0">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="https://www.nsnam.org/news/ns-3-23-released/">"ns-3.23 released"</a>. ns-announce.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANs+%28simulator%29&amp;rft.btitle=ns-3.23+released&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fwww.nsnam.org%2Fnews%2Fns-3-23-released%2F&amp;rft.pub=ns-announce&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://code.nsnam.org/ns-3-dev/">"ns-3-dev"</a>. ns-3 project<span class="reference-accessdate">. Retrieved <span class="nowrap">26 December</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANs+%28simulator%29&amp;rft.btitle=ns-3-dev&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcode.nsnam.org%2Fns-3-dev%2F&amp;rft.pub=ns-3+project&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.nsnam.org/overview/publications/">http://www.nsnam.org/overview/publications/</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ee.lbl.gov/ns/">http://ee.lbl.gov/ns/</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.isi.edu/nsnam/ns/">ns-2 home page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nsnam.org/">ns-3 home page</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1054
+CPU time usage: 0.276 seconds
+Real time usage: 0.346 seconds
+Preprocessor visited node count: 1479/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21294/2097152 bytes
+Template argument size: 3720/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 6/500
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 2.71 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  273.638      1 - -total
+ 35.40%   96.878      1 - Template:Infobox_software
+ 33.11%   90.596      1 - Template:Infobox
+ 20.00%   54.734      1 - Template:Reflist
+ 19.21%   52.563      3 - Template:Citation_needed
+ 18.44%   50.468      5 - Template:Fix
+ 15.98%   43.734      8 - Template:Category_handler
+ 14.38%   39.344      2 - Template:Redirect
+ 10.32%   28.250      1 - Template:Cite_mailing_list
+ 10.06%   27.539      1 - Template:Release_date_and_age
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5868379-0!*!0!!en!4!* and timestamp 20150709140958 and revision id 667331087
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ns_(simulator)&amp;oldid=667331087">https://en.wikipedia.org/w/index.php?title=Ns_(simulator)&amp;oldid=667331087</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computer_networking" title="Category:Computer networking">Computer networking</a></li><li><a href="/wiki/Category:Computer_network_analysis" title="Category:Computer network analysis">Computer network analysis</a></li><li><a href="/wiki/Category:Simulation_software" title="Category:Simulation software">Simulation software</a></li><li><a href="/wiki/Category:Telecommunications_engineering" title="Category:Telecommunications engineering">Telecommunications engineering</a></li><li><a href="/wiki/Category:Free_software_programmed_in_C%2B%2B" title="Category:Free software programmed in C++">Free software programmed in C++</a></li><li><a href="/wiki/Category:Software_using_the_GPL_license" title="Category:Software using the GPL license">Software using the GPL license</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2015" title="Category:Articles with unsourced statements from March 2015">Articles with unsourced statements from March 2015</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2014" title="Category:Articles with specifically marked weasel-worded phrases from October 2014">Articles with specifically marked weasel-worded phrases from October 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2014" title="Category:Articles with unsourced statements from October 2014">Articles with unsourced statements from October 2014</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ns+%28simulator%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ns+%28simulator%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ns_(simulator)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ns_(simulator)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ns_(simulator)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ns_(simulator)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ns_(simulator)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ns_(simulator)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ns_(simulator)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ns_(simulator)&amp;oldid=667331087" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ns_(simulator)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q577400" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ns_%28simulator%29&amp;id=667331087" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ns+%28simulator%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ns+%28simulator%29&amp;oldid=667331087&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ns_(simulator)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Ns_(simulador)" title="Ns (simulador) – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A7%D9%86_%D8%A7%D8%B3_(%D8%B4%D8%A8%DB%8C%D9%87%E2%80%8C%D8%B3%D8%A7%D8%B2)" title="ان اس (شبیه‌ساز) – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Network_Simulator" title="Network Simulator – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/Ns_(%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0)" title="Ns (시뮬레이터) – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="//hr.wikipedia.org/wiki/Ns_(simulator)" title="Ns (simulator) – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Network_simulator" title="Network simulator – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/Ns_(%E6%A8%A1%E6%8B%9F%E5%99%A8)" title="Ns (模拟器) – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q577400#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 17 June 2015, at 10:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ns_(simulator)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1172"});
+}</script>
+	</body>
+</html>

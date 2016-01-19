@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Pallister–Hall syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pallister%E2%80%93Hall_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Pallister%E2%80%93Hall_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Pallister%E2%80%93Hall_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pallister–Hall_syndrome","wgTitle":"Pallister–Hall syndrome","wgCurRevisionId":670001952,"wgRevisionId":670001952,"wgArticleId":4940873,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Articles needing additional references from August 2011","All articles needing additional references","Articles with contributors link","Articles that use a Medicine navs subtemplate","Syndromes","Autosomal dominant disorders","Transcription factor deficiencies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pallister–Hall_syndrome","wgRelevantArticleId":4940873,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/57px-Autosomal_dominant_-_en.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3085434"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Pallister–Hall_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Pallister–Hall syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(August 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Pallister–Hall syndrome</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/D33.0">D33.0</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/146510">146510</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb32013.htm">32013</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D054975">D054975</a></td>
+</tr>
+</table>
+<p><b>Pallister–Hall syndrome</b> is a disorder that affects the development of many parts of the body.</p>
+<p>It is named for <a href="/wiki/Judith_Hall" title="Judith Hall" class="mw-redirect">Judith Hall</a> and <a href="/w/index.php?title=Philip_Pallister&amp;action=edit&amp;redlink=1" class="new" title="Philip Pallister (page does not exist)">Philip Pallister</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup><sup id="cite_ref-pmid7211952_2-0" class="reference"><a href="#cite_note-pmid7211952-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Presentation"><span class="tocnumber">1</span> <span class="toctext">Presentation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Genetics"><span class="tocnumber">2</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Seizures"><span class="tocnumber">3</span> <span class="toctext">Seizures</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Presentation">Presentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit&amp;section=1" title="Edit section: Presentation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most people with this condition have extra fingers and/or toes (<a href="/wiki/Polydactyly" title="Polydactyly">polydactyly</a>), and the skin between some fingers or toes may be fused (<a href="/w/index.php?title=Cutaneous_syndactyly&amp;action=edit&amp;redlink=1" class="new" title="Cutaneous syndactyly (page does not exist)">cutaneous syndactyly</a>). An abnormal growth in the <a href="/wiki/Brain" title="Brain">brain</a> called a <a href="/wiki/Hypothalamic_hamartoma" title="Hypothalamic hamartoma" class="mw-redirect">hypothalamic hamartoma</a> is characteristic of this disorder. In many cases, these growths do not cause any medical problems; however, some hypothalamic hamartomas lead to seizures or hormone abnormalities that can be life-threatening in infancy. Other features of Pallister–Hall syndrome include a malformation of the airway called a <a href="/w/index.php?title=Bifid_epiglottis&amp;action=edit&amp;redlink=1" class="new" title="Bifid epiglottis (page does not exist)">bifid epiglottis</a>, <a href="/wiki/Laryngeal_cleft" title="Laryngeal cleft">laryngeal cleft</a>, an obstruction of the anal opening (<a href="/wiki/Imperforate_anus" title="Imperforate anus">imperforate anus</a>), and <a href="/wiki/Kidney" title="Kidney">kidney</a> abnormalities. Although the signs and symptoms of this disorder vary from mild to severe, only a small percentage of affected people have serious complications.</p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit&amp;section=2" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This condition is very rare; its prevalence is unknown. Mutations in the GLI3 gene cause Pallister–Hall syndrome. The <i><a href="/wiki/GLI3" title="GLI3">GLI3</a></i> gene provides instructions for making a protein that controls <a href="/wiki/Gene_expression" title="Gene expression">gene expression</a>, which is a process that regulates whether genes are turned on or off in particular cells. By interacting with certain genes at specific times during development, the GLI3 protein plays a role in the normal shaping (patterning) of many organs and tissues before birth. Defects in the same gene also cause <a href="/wiki/Greig_cephalopolysyndactyly_syndrome" title="Greig cephalopolysyndactyly syndrome">Greig cephalopolysyndactyly syndrome</a>.</p>
+<p>Mutations that cause Pallister–Hall syndrome typically lead to the production of an abnormally short version of the GLI3 protein. Unlike the normal GLI3 protein, which can turn target genes on or off, the short protein can only turn off (repress) target genes. Researchers are working to determine how this change in the protein's function affects early development. It remains uncertain how GLI3 mutations can cause polydactyly, hypothalamic hamartoma, and the other features of Pallister–Hall syndrome.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Autosomal_dominant_-_en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/220px-Autosomal_dominant_-_en.svg.png" width="220" height="382" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/330px-Autosomal_dominant_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Autosomal_dominant_-_en.svg/440px-Autosomal_dominant_-_en.svg.png 2x" data-file-width="738" data-file-height="1283" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Autosomal_dominant_-_en.svg" class="internal" title="Enlarge"></a></div>
+Pallister–Hall syndrome is inherited in an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> pattern.</div>
+</div>
+</div>
+<p>This condition is inherited in an <a href="/wiki/Autosomal_dominant" title="Autosomal dominant" class="mw-redirect">autosomal dominant</a> pattern, which means one copy of the altered gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits a mutation in the <i>GLI3</i> gene from one affected parent. Other cases result from new mutations in the gene and occur in people with no history of the disorder in their family.</p>
+<h2><span class="mw-headline" id="Seizures">Seizures</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit&amp;section=3" title="Edit section: Seizures">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As noted above, the hypothalamic hamartoma can cause seizures. The most common types of seizures that occur are known as <a href="/wiki/Gelastic_seizure" title="Gelastic seizure">gelastic epilepsy</a>. The term <i>gelastic</i> originates from the Greek word "<i>gelos</i> which means "laughter". Seizures may begin at any age but usually before three or four years of age. The seizures usually start with laughter and the laughter is often described as being "hollow" or "empty" and not very pleasant. The laughter occurs suddenly, comes on for no obvious reason and is usually completely out of place. The most common areas of the brain which give rise to gelastic seizures are the <a href="/wiki/Hypothalamus" title="Hypothalamus">hypothalamus</a> (a small but extremely important structure deep in the centre of the brain), the <a href="/wiki/Temporal_lobe" title="Temporal lobe">temporal lobes</a> and the <a href="/wiki/Frontal_lobe" title="Frontal lobe">frontal lobes</a>. If the child has gelastic seizures and <a href="/wiki/Precocious_puberty" title="Precocious puberty">precocious puberty</a>, then it is likely that the child will be found to have a hypothalamic hamartoma (a hamartoma in the hypothalamus part of the brain).</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&amp;part=phs">GeneReviews/NCBI/NIH/UW entry on Pallister–Hall Syndrome</a></li>
+<li><a rel="nofollow" class="external autonumber" href="http://ghr.nlm.nih.gov/condition/pallister-hall-syndrome">[1]</a></li>
+<li><a rel="nofollow" class="external autonumber" href="http://www.epilepsy.org.uk/info/gelastic.html">[2]</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/506.html">synd/506</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-pmid7211952-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid7211952_2-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Hall JG, Pallister PD, Clarren SK et al. (1980). "Congenital hypothalamic hamartoblastoma, hypopituitarism, imperforate anus and postaxial polydactyly--a new syndrome? Part I: clinical, causal, and pathogenetic considerations". <i>Am. J. Med. Genet.</i> <b>7</b> (1): 47–74. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fajmg.1320070110">10.1002/ajmg.1320070110</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/7211952">7211952</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APallister%E2%80%93Hall+syndrome&amp;rft.atitle=Congenital+hypothalamic+hamartoblastoma%2C+hypopituitarism%2C+imperforate+anus+and+postaxial+polydactyly--a+new+syndrome%3F+Part+I%3A+clinical%2C+causal%2C+and+pathogenetic+considerations&amp;rft.au=Hall+JG%2C+Pallister+PD%2C+Clarren+SK&amp;rft.aulast=Hall+JG%2C+Pallister+PD%2C+Clarren+SK&amp;rft.date=1980&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fajmg.1320070110&amp;rft_id=info%3Apmid%2F7211952&amp;rft.issue=1&amp;rft.jtitle=Am.+J.+Med.+Genet.&amp;rft.pages=47-74&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+</ol>
+</div>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://ghr.nlm.nih.gov/condition=pallisterhallsyndrome">Pallister–Hall syndrome</a></i> at <a href="/wiki/U.S._National_Library_of_Medicine" title="U.S. National Library of Medicine" class="mw-redirect">NLM</a> Genetics Home Reference</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Transcription_factor_and_coregulator_deficiencies" title="Template:Transcription factor and coregulator deficiencies"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Transcription_factor_and_coregulator_deficiencies" title="Template talk:Transcription factor and coregulator deficiencies"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Transcription_factor_and_coregulator_deficiencies&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Genetic_disorder" title="Genetic disorder">Genetic disorder</a>, protein biosynthesis: <a href="/wiki/Transcription_factor" title="Transcription factor">Transcription factor</a>/coregulator <a href="/wiki/Transcription_factor#Clinical_significance" title="Transcription factor">deficiencies</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">(1) Basic domains</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">1.2</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Feingold_syndrome" title="Feingold syndrome">Feingold syndrome</a></li>
+<li><a href="/wiki/Saethre%E2%80%93Chotzen_syndrome" title="Saethre–Chotzen syndrome">Saethre–Chotzen syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1.3</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tietz_syndrome" title="Tietz syndrome">Tietz syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">(2) Zinc finger<br />
+DNA-binding domains</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">2.1</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>(<a href="/wiki/Intracellular_receptor" title="Intracellular receptor">Intracellular receptor</a>): <a href="/wiki/Thyroid_hormone_resistance" title="Thyroid hormone resistance">Thyroid hormone resistance</a></li>
+<li><a href="/wiki/Androgen_insensitivity_syndrome" title="Androgen insensitivity syndrome">Androgen insensitivity syndrome</a>
+<ul>
+<li><a href="/wiki/Partial_androgen_insensitivity_syndrome" title="Partial androgen insensitivity syndrome">PAIS</a></li>
+<li><a href="/wiki/Mild_androgen_insensitivity_syndrome" title="Mild androgen insensitivity syndrome">MAIS</a></li>
+<li><a href="/wiki/Complete_androgen_insensitivity_syndrome" title="Complete androgen insensitivity syndrome">CAIS</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spinal_and_bulbar_muscular_atrophy" title="Spinal and bulbar muscular atrophy">Kennedy's disease</a></li>
+<li><a href="/wiki/Pseudohypoaldosteronism" title="Pseudohypoaldosteronism">PHA1AD pseudohypoaldosteronism</a></li>
+<li><a href="/wiki/Estrogen_insensitivity_syndrome" title="Estrogen insensitivity syndrome">Estrogen insensitivity syndrome</a></li>
+<li><a href="/wiki/X-linked_adrenal_hypoplasia_congenita" title="X-linked adrenal hypoplasia congenita">X-linked adrenal hypoplasia congenita</a></li>
+<li><a href="/wiki/MODY_1" title="MODY 1">MODY 1</a></li>
+<li><a href="/wiki/Familial_partial_lipodystrophy" title="Familial partial lipodystrophy">Familial partial lipodystrophy 3</a></li>
+<li><a href="/wiki/XY_gonadal_dysgenesis" title="XY gonadal dysgenesis">SF1 XY gonadal dysgenesis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2.2</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barakat_syndrome" title="Barakat syndrome">Barakat syndrome</a></li>
+<li><a href="/wiki/Tricho%E2%80%93rhino%E2%80%93phalangeal_syndrome" title="Tricho–rhino–phalangeal syndrome">Tricho–rhino–phalangeal syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2.3</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Greig_cephalopolysyndactyly_syndrome" title="Greig cephalopolysyndactyly syndrome">Greig cephalopolysyndactyly syndrome</a>/<strong class="selflink">Pallister–Hall syndrome</strong></li>
+<li><a href="/wiki/Denys%E2%80%93Drash_syndrome" title="Denys–Drash syndrome">Denys–Drash syndrome</a></li>
+<li><a href="/wiki/Duane-radial_ray_syndrome" title="Duane-radial ray syndrome">Duane-radial ray syndrome</a></li>
+<li><a href="/wiki/Maturity_onset_diabetes_of_the_young" title="Maturity onset diabetes of the young">MODY 7</a></li>
+<li><a href="/wiki/X-linked_intellectual_disability" title="X-linked intellectual disability">MRX 89</a></li>
+<li><a href="/wiki/Townes%E2%80%93Brocks_syndrome" title="Townes–Brocks syndrome">Townes–Brocks syndrome</a></li>
+<li><a href="/wiki/Acrocallosal_syndrome" title="Acrocallosal syndrome">Acrocallosal syndrome</a></li>
+<li><a href="/wiki/Myotonic_dystrophy" title="Myotonic dystrophy">Myotonic dystrophy 2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2.5</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autoimmune_polyendocrine_syndrome_type_1" title="Autoimmune polyendocrine syndrome type 1">Autoimmune polyendocrine syndrome type 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">(3) Helix-turn-helix domains</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">3.1</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Aristaless_related_homeobox" title="Aristaless related homeobox">ARX</a></i>
+<ul>
+<li><a href="/wiki/Ohtahara_syndrome" title="Ohtahara syndrome">Ohtahara syndrome</a></li>
+<li><a href="/wiki/Lissencephaly" title="Lissencephaly">Lissencephaly X2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/MNX1" title="MNX1">MNX1</a></i>
+<ul>
+<li><a href="/wiki/Currarino_syndrome" title="Currarino syndrome">Currarino syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/HOXD13" title="HOXD13">HOXD13</a></i>
+<ul>
+<li><a href="/wiki/Synpolydactyly" title="Synpolydactyly">SPD1 Synpolydactyly</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PDX1" title="PDX1">PDX1</a></i>
+<ul>
+<li><a href="/wiki/MODY_4" title="MODY 4">MODY 4</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/LMX1B" title="LMX1B">LMX1B</a></i>
+<ul>
+<li><a href="/wiki/Nail%E2%80%93patella_syndrome" title="Nail–patella syndrome">Nail–patella syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/MSX1" title="MSX1">MSX1</a></i>
+<ul>
+<li><a href="/wiki/Tooth_and_nail_syndrome" title="Tooth and nail syndrome">Tooth and nail syndrome</a></li>
+<li><a href="/wiki/Cleft_lip_and_palate" title="Cleft lip and palate">OFC5</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PITX2" title="PITX2">PITX2</a></i>
+<ul>
+<li><a href="/wiki/Axenfeld_syndrome" title="Axenfeld syndrome">Axenfeld syndrome 1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/POU4F3" title="POU4F3">POU4F3</a></i>
+<ul>
+<li><a href="/wiki/Nonsyndromic_deafness" title="Nonsyndromic deafness">DFNA15</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/POU3F4" title="POU3F4">POU3F4</a></i>
+<ul>
+<li><a href="/wiki/Nonsyndromic_deafness" title="Nonsyndromic deafness">DFNX2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/ZEB1" title="ZEB1">ZEB1</a></i>
+<ul>
+<li><a href="/wiki/Posterior_polymorphous_corneal_dystrophy" title="Posterior polymorphous corneal dystrophy">Posterior polymorphous corneal dystrophy</a></li>
+<li><a href="/wiki/Fuchs%27_dystrophy" title="Fuchs' dystrophy">Fuchs' dystrophy 3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/ZEB2" title="ZEB2">ZEB2</a></i>
+<ul>
+<li><a href="/wiki/Mowat%E2%80%93Wilson_syndrome" title="Mowat–Wilson syndrome">Mowat–Wilson syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3.2</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/PAX2" title="PAX2">PAX2</a></i>
+<ul>
+<li><a href="/wiki/Papillorenal_syndrome" title="Papillorenal syndrome">Papillorenal syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PAX3" title="PAX3">PAX3</a></i>
+<ul>
+<li><a href="/wiki/Waardenburg_syndrome" title="Waardenburg syndrome">Waardenburg syndrome 1&amp;3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PAX4" title="PAX4">PAX4</a></i>
+<ul>
+<li><a href="/wiki/Maturity_onset_diabetes_of_the_young" title="Maturity onset diabetes of the young">MODY 9</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PAX6" title="PAX6">PAX6</a></i>
+<ul>
+<li><a href="/wiki/Gillespie_syndrome" title="Gillespie syndrome">Gillespie syndrome</a></li>
+<li><a href="/wiki/Coloboma_of_optic_nerve" title="Coloboma of optic nerve">Coloboma of optic nerve</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PAX8" title="PAX8">PAX8</a></i>
+<ul>
+<li><a href="/wiki/Congenital_hypothyroidism" title="Congenital hypothyroidism">Congenital hypothyroidism 2</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/PAX9" title="PAX9">PAX9</a></i>
+<ul>
+<li><a href="/wiki/Hypodontia" title="Hypodontia">STHAG3</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3.3</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Forkhead_box_C1" title="Forkhead box C1">FOXC1</a></i>
+<ul>
+<li><a href="/wiki/Axenfeld_syndrome" title="Axenfeld syndrome">Axenfeld syndrome 3</a></li>
+<li><a href="/wiki/Iridogoniodysgenesis,_dominant_type" title="Iridogoniodysgenesis, dominant type">Iridogoniodysgenesis, dominant type</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/FOXC2" title="FOXC2">FOXC2</a></i>
+<ul>
+<li><a href="/wiki/Lymphedema%E2%80%93distichiasis_syndrome" title="Lymphedema–distichiasis syndrome">Lymphedema–distichiasis syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/FOXE1" title="FOXE1">FOXE1</a></i>
+<ul>
+<li><a href="/wiki/Bamforth%E2%80%93Lazarus_syndrome" title="Bamforth–Lazarus syndrome">Bamforth–Lazarus syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/FOXE3" title="FOXE3">FOXE3</a></i>
+<ul>
+<li><a href="/wiki/Anterior_segment_mesenchymal_dysgenesis" title="Anterior segment mesenchymal dysgenesis">Anterior segment mesenchymal dysgenesis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/FOXF1" title="FOXF1">FOXF1</a></i>
+<ul>
+<li><a href="/wiki/Alveolar_capillary_dysplasia" title="Alveolar capillary dysplasia">ACD/MPV</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/FOXI1" title="FOXI1">FOXI1</a></i>
+<ul>
+<li><a href="/wiki/Enlarged_vestibular_aqueduct" title="Enlarged vestibular aqueduct">Enlarged vestibular aqueduct</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Forkhead_box_L2" title="Forkhead box L2">FOXL2</a></i>
+<ul>
+<li><a href="/wiki/Premature_ovarian_failure" title="Premature ovarian failure">Premature ovarian failure 3</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/FOXP3" title="FOXP3">FOXP3</a></i>
+<ul>
+<li><a href="/wiki/IPEX_syndrome" title="IPEX syndrome">IPEX</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3.5</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/IRF6" title="IRF6">IRF6</a></i>
+<ul>
+<li><a href="/wiki/Van_der_Woude_syndrome" title="Van der Woude syndrome">Van der Woude syndrome</a></li>
+<li><a href="/wiki/Popliteal_pterygium_syndrome" title="Popliteal pterygium syndrome">Popliteal pterygium syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">(4) β-Scaffold factors<br />
+with minor groove contacts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">4.2</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hyperimmunoglobulin_E_syndrome" title="Hyperimmunoglobulin E syndrome">Hyperimmunoglobulin E syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">4.3</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Holt%E2%80%93Oram_syndrome" title="Holt–Oram syndrome">Holt–Oram syndrome</a></li>
+<li><a href="/wiki/Li%E2%80%93Fraumeni_syndrome" title="Li–Fraumeni syndrome">Li–Fraumeni syndrome</a></li>
+<li><a href="/wiki/Ulnar%E2%80%93mammary_syndrome" title="Ulnar–mammary syndrome">Ulnar–mammary syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">4.7</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Campomelic_dysplasia" title="Campomelic dysplasia">Campomelic dysplasia</a></li>
+<li><a href="/wiki/MODY_3" title="MODY 3">MODY 3</a></li>
+<li><a href="/wiki/MODY_5" title="MODY 5">MODY 5</a></li>
+<li><i><a href="/wiki/Steroidogenic_factor_1" title="Steroidogenic factor 1">SF1</a></i>
+<ul>
+<li><a href="/wiki/XY_gonadal_dysgenesis" title="XY gonadal dysgenesis">SRY XY gonadal dysgenesis</a></li>
+<li><a href="/wiki/Premature_ovarian_failure" title="Premature ovarian failure">Premature ovarian failure 7</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/SOX10" title="SOX10">SOX10</a></i>
+<ul>
+<li><a href="/wiki/Waardenburg_syndrome" title="Waardenburg syndrome">Waardenburg syndrome 4c</a></li>
+<li><a href="/wiki/Yemenite_deaf-blind_hypopigmentation_syndrome" title="Yemenite deaf-blind hypopigmentation syndrome">Yemenite deaf-blind hypopigmentation syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">4.11</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cleidocranial_dysostosis" title="Cleidocranial dysostosis">Cleidocranial dysostosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">(0) Other transcription factors</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">0.6</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kabuki_syndrome" title="Kabuki syndrome">Kabuki syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ungrouped</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/TCF4" title="TCF4">TCF4</a></i>
+<ul>
+<li><a href="/wiki/Pitt%E2%80%93Hopkins_syndrome" title="Pitt–Hopkins syndrome">Pitt–Hopkins syndrome</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/ZFP57" title="ZFP57">ZFP57</a></i>
+<ul>
+<li><a href="/wiki/Transient_neonatal_diabetes_mellitus" title="Transient neonatal diabetes mellitus">TNDM1</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/TP63" title="TP63">TP63</a></i>
+<ul>
+<li><a href="/wiki/Rapp%E2%80%93Hodgkin_syndrome" title="Rapp–Hodgkin syndrome">Rapp–Hodgkin syndrome</a>/<a href="/wiki/Hay%E2%80%93Wells_syndrome" title="Hay–Wells syndrome">Hay–Wells syndrome</a>/<a href="/wiki/Ectrodactyly%E2%80%93ectodermal_dysplasia%E2%80%93cleft_syndrome" title="Ectrodactyly–ectodermal dysplasia–cleft syndrome">Ectrodactyly–ectodermal dysplasia–cleft syndrome 3</a>/<a href="/wiki/Limb%E2%80%93mammary_syndrome" title="Limb–mammary syndrome">Limb–mammary syndrome</a>/<a href="/wiki/Cleft_lip_and_palate" title="Cleft lip and palate">OFC8</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Transcription_coregulator" title="Transcription coregulator">Transcription coregulators</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Coactivator:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/CREB-binding_protein" title="CREB-binding protein">CREBBP</a></i>
+<ul>
+<li><a href="/wiki/Rubinstein%E2%80%93Taybi_syndrome" title="Rubinstein–Taybi syndrome">Rubinstein–Taybi syndrome</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Corepressor:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/HR_(gene)" title="HR (gene)">HR</a></i> (<a href="/wiki/Atrichia_with_papular_lesions" title="Atrichia with papular lesions">Atrichia with papular lesions</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:DNA_and_protein_biosynthesis_navs" title="Template:DNA and protein biosynthesis navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:DNA_and_protein_biosynthesis_navs" title="Template talk:DNA and protein biosynthesis navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:DNA_and_protein_biosynthesis_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of genetics</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Gene_expression" title="Template:Gene expression">Gene expression</a></li>
+<li>DNA
+<ul>
+<li><a href="/wiki/Template:DNA_replication" title="Template:DNA replication">replication</a></li>
+<li><a href="/wiki/Template:Cell_cycle_proteins" title="Template:Cell cycle proteins">cycle</a></li>
+<li><a href="/wiki/Template:Genetic_recombination" title="Template:Genetic recombination">recombination</a></li>
+<li><a href="/wiki/Template:DNA_repair" title="Template:DNA repair">repair</a></li>
+<li><a href="/wiki/Template:DNA-binding_proteins" title="Template:DNA-binding proteins">binding proteins</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Transcription" title="Template:Transcription">Transcription</a>
+<ul>
+<li><a href="/wiki/Template:Transcription_factors_and_intracellular_receptors" title="Template:Transcription factors and intracellular receptors">factors</a></li>
+<li><a href="/wiki/Template:Transcription_coregulators" title="Template:Transcription coregulators">regulators</a></li>
+<li><a href="/wiki/Template:Nucleic_acids" title="Template:Nucleic acids">nucleic acids</a></li>
+<li><a href="/wiki/Template:Types_of_RNA" title="Template:Types of RNA">RNA</a></li>
+<li><a href="/wiki/Template:RNA-binding_proteins" title="Template:RNA-binding proteins">RNA binding proteins</a></li>
+<li><a href="/wiki/Template:Ribonucleoproteins" title="Template:Ribonucleoproteins">ribonucleoproteins</a></li>
+<li><a href="/wiki/Template:Repeated_sequence" title="Template:Repeated sequence">repeated sequence</a></li>
+<li><a href="/wiki/Template:Post_transcriptional_modification" title="Template:Post transcriptional modification">modification</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Genetic_translation" title="Template:Genetic translation">Translation</a>
+<ul>
+<li><a href="/wiki/Template:Ribosome_subunits" title="Template:Ribosome subunits">ribosome</a></li>
+<li><a href="/wiki/Template:Posttranslational_modification" title="Template:Posttranslational modification">modification</a></li>
+<li><a href="/wiki/Template:Sorting_nexins" title="Template:Sorting nexins">nexins</a></li>
+</ul>
+</li>
+<li>Proteins
+<ul>
+<li><a href="/wiki/Template:Protein_domains" title="Template:Protein domains">domains</a></li>
+<li>Structure
+<ul>
+<li><i><a href="/wiki/Template:Protein_primary_structure" title="Template:Protein primary structure">primary</a></i></li>
+<li><i><a href="/wiki/Template:Protein_secondary_structure" title="Template:Protein secondary structure">secondary</a></i></li>
+<li><i><a href="/wiki/Template:Protein_tertiary_structure" title="Template:Protein tertiary structure">tertiary</a></i></li>
+<li><i><a href="/wiki/Template:Protein_quaternary_structure" title="Template:Protein quaternary structure">quaternary</a></i></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:DNA_replication_and_repair-deficiency_disorder" title="Template:DNA replication and repair-deficiency disorder">Replication and repair</a></li>
+<li><a href="/wiki/Template:Transcription_factor_and_coregulator_deficiencies" title="Template:Transcription factor and coregulator deficiencies">Transcription factor</a></li>
+<li><a href="/wiki/Template:Disorders_of_transcription_and_post_transcriptional_modification" title="Template:Disorders of transcription and post transcriptional modification">Transcription</a></li>
+<li><a href="/wiki/Template:Disorders_of_translation_and_posttranslational_modification" title="Template:Disorders of translation and posttranslational modification">Translation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Phakomatoses" title="Template:Phakomatoses"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Phakomatoses" title="Template talk:Phakomatoses"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Phakomatoses&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Phakomatosis" title="Phakomatosis">Phakomatosis</a> (<a href="/wiki/ICD-10_Chapter_XVII:_Congenital_malformations,_deformations_and_chromosomal_abnormalities#.28Q80.E2.80.93Q89.29_Other" title="ICD-10 Chapter XVII: Congenital malformations, deformations and chromosomal abnormalities">Q85</a>, <a href="/wiki/List_of_ICD-9_codes_740%E2%80%93759:_congenital_anomalies#Other" title="List of ICD-9 codes 740–759: congenital anomalies">759.5–759.6</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Neurofibromatosis" title="Neurofibromatosis">Neurofibromatosis</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neurofibromatosis_type_I" title="Neurofibromatosis type I">Type I</a></li>
+<li><a href="/wiki/Neurofibromatosis_type_II" title="Neurofibromatosis type II">Type II</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Angiomatosis" title="Angiomatosis">Angiomatosis</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sturge%E2%80%93Weber_syndrome" title="Sturge–Weber syndrome">Sturge–Weber syndrome</a></li>
+<li><a href="/wiki/Von_Hippel%E2%80%93Lindau_disease" title="Von Hippel–Lindau disease">Von Hippel–Lindau disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hamartoma" title="Hamartoma">Hamartoma</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tuberous_sclerosis" title="Tuberous sclerosis">Tuberous sclerosis</a></li>
+<li><a href="/wiki/Hypothalamic_hamartoma" title="Hypothalamic hamartoma" class="mw-redirect">Hypothalamic hamartoma</a> (<strong class="selflink">Pallister–Hall syndrome</strong>)</li>
+<li><a href="/wiki/Multiple_hamartoma_syndrome" title="Multiple hamartoma syndrome">Multiple hamartoma syndrome</a>
+<ul>
+<li><a href="/wiki/Proteus_syndrome" title="Proteus syndrome">Proteus syndrome</a></li>
+<li><a href="/wiki/Cowden_syndrome" title="Cowden syndrome">Cowden syndrome</a></li>
+<li><a href="/wiki/Bannayan%E2%80%93Riley%E2%80%93Ruvalcaba_syndrome" title="Bannayan–Riley–Ruvalcaba syndrome">Bannayan–Riley–Ruvalcaba syndrome</a></li>
+<li><a href="/wiki/Lhermitte%E2%80%93Duclos_disease" title="Lhermitte–Duclos disease">Lhermitte–Duclos disease</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abdallat%E2%80%93Davis%E2%80%93Farrage_syndrome" title="Abdallat–Davis–Farrage syndrome">Abdallat–Davis–Farrage syndrome</a></li>
+<li><a href="/wiki/Ataxia_telangiectasia" title="Ataxia telangiectasia">Ataxia telangiectasia</a></li>
+<li><a href="/wiki/Incontinentia_pigmenti" title="Incontinentia pigmenti">Incontinentia pigmenti</a></li>
+<li><a href="/wiki/Peutz%E2%80%93Jeghers_syndrome" title="Peutz–Jeghers syndrome">Peutz–Jeghers syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1055
+CPU time usage: 0.350 seconds
+Real time usage: 0.419 seconds
+Preprocessor visited node count: 871/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 89410/2097152 bytes
+Template argument size: 258/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 2.84 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  286.431      1 - -total
+ 49.10%  140.648      9 - Template:Navbox
+ 31.64%   90.638      1 - Template:Transcription_factor_deficiencies
+ 28.33%   81.143      1 - Template:Infobox_disease
+ 24.85%   71.164      1 - Template:Infobox
+ 20.47%   58.636      1 - Template:Refimprove
+ 13.97%   40.010      1 - Template:Reflist
+ 12.88%   36.892      1 - Template:Ambox
+ 10.54%   30.180      1 - Template:Cite_journal
+  7.56%   21.647      1 - Template:DNA_and_protein_biosynthesis_navs
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4940873-0!*!0!!en!4!* and timestamp 20150711080220 and revision id 670001952
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pallister–Hall_syndrome&amp;oldid=670001952">https://en.wikipedia.org/w/index.php?title=Pallister–Hall_syndrome&amp;oldid=670001952</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li><li><a href="/wiki/Category:Autosomal_dominant_disorders" title="Category:Autosomal dominant disorders">Autosomal dominant disorders</a></li><li><a href="/wiki/Category:Transcription_factor_deficiencies" title="Category:Transcription factor deficiencies">Transcription factor deficiencies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2011" title="Category:Articles needing additional references from August 2011">Articles needing additional references from August 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pallister%E2%80%93Hall+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pallister%E2%80%93Hall+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Pallister%E2%80%93Hall_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Pallister%E2%80%93Hall_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Pallister%E2%80%93Hall_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pallister%E2%80%93Hall_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pallister%E2%80%93Hall_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;oldid=670001952" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q3085434" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pallister%E2%80%93Hall_syndrome&amp;id=670001952" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pallister%E2%80%93Hall+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Pallister%E2%80%93Hall+syndrome&amp;oldid=670001952&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Pallister_Hall" title="Síndrome de Pallister Hall – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Pallister-Hall" title="Syndrome de Pallister-Hall – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Pallistera-Hall" title="Zespół Pallistera-Hall – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pallister%E2%80%93Hallin_oireyhtym%C3%A4" title="Pallister–Hallin oireyhtymä – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q3085434#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 July 2015, at 03:31.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pallister%E2%80%93Hall_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1242"});
+}</script>
+	</body>
+</html>

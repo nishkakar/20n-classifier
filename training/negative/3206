@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Source–sink dynamics - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Source%E2%80%93sink_dynamics" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Source%E2%80%93sink_dynamics" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Source%E2%80%93sink_dynamics" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Source–sink_dynamics","wgTitle":"Source–sink dynamics","wgCurRevisionId":656240805,"wgRevisionId":656240805,"wgArticleId":10606078,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Landscape ecology","Ecological theories","Population","Conservation","Behavioral ecology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Source–sink_dynamics","wgRelevantArticleId":10606078,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/86px-FoodWeb.jpg","wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7565181"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Source–sink_dynamics skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Source–sink dynamics</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Source–sink dynamics</b> is a theoretical model used by ecologists to describe how variation in <a href="/wiki/Habitat" title="Habitat">habitat</a> quality may affect the <a href="/wiki/Population_dynamics" title="Population dynamics">population</a> growth or decline of <a href="/wiki/Organism" title="Organism">organisms</a>.</p>
+<p>Since quality is likely to vary among patches of habitat, it is important to consider how a low quality patch might affect a population. In this model, organisms occupy two patches of habitat. One patch, the source, is a high quality habitat that on average allows the population to increase. The second patch, the sink, is very low quality habitat that, on its own, would not be able to support a population. However, if the excess of <a href="/wiki/Individual" title="Individual">individuals</a> produced in the source frequently moves to the sink, the sink population can persist indefinitely. Organisms are generally assumed to be able to distinguish between high and low quality habitat, and to prefer high quality habitat. However, <a href="/wiki/Ecological_traps" title="Ecological traps" class="mw-redirect">ecological trap</a> theory describes the reasons why organisms may actually prefer sink patches over source <a href="/wiki/Landscape_ecology#Patch_and_mosaic" title="Landscape ecology">patches</a>. Finally, the source-sink model implies that some habitat patches may be more important to the long-term survival of the population, and considering the presence of source-sink dynamics will help inform <a href="/wiki/Conservation_ethic" title="Conservation ethic" class="mw-redirect">conservation</a> decisions.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Theory_development"><span class="tocnumber">1</span> <span class="toctext">Theory development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Modes_of_dispersal"><span class="tocnumber">2</span> <span class="toctext">Modes of dispersal</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Importance_in_ecology"><span class="tocnumber">3</span> <span class="toctext">Importance in ecology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Conservation"><span class="tocnumber">4</span> <span class="toctext">Conservation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Theory_development">Theory development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=1" title="Edit section: Theory development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the seeds of a source-sink model had been planted earlier,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> Pulliam<sup id="cite_ref-Pulliam-1988_2-0" class="reference"><a href="#cite_note-Pulliam-1988-2"><span>[</span>2<span>]</span></a></sup> is often recognized as the first to present a fully developed source-sink model. He defined source and sink patches in terms of their demographic parameters, or <a href="/wiki/Matrix_population_models" title="Matrix population models">BIDE rates</a> (<a href="/wiki/Birth" title="Birth">birth</a>, <a href="/wiki/Immigration" title="Immigration">immigration</a>, <a href="/wiki/Death" title="Death">death</a>, and <a href="/wiki/Emigration" title="Emigration">emigration</a> rates). In the source patch, birth rates were greater than death rates, causing the population to grow. The excess individuals were expected to leave the patch, so that emigration rates were greater than immigration rates. In other words, sources were a net exporter of individuals. In contrast, in a sink patch, death rates were greater than birth rates, resulting in a population decline toward extinction unless enough individuals emigrated from the source patch. Immigration rates were expected to be greater than emigration rates, so that sinks were a net importer of individuals. As a result, there would be a net flow of individuals from the source to the sink <a href="#table1">(see Table 1)</a>.</p>
+<p>Pulliam’s work was followed by many others who developed and tested the source-sink model. Watkinson and Sutherland<sup id="cite_ref-Watkinson-1995_3-0" class="reference"><a href="#cite_note-Watkinson-1995-3"><span>[</span>3<span>]</span></a></sup> presented a phenomenon in which high immigration rates could cause a patch to appear to be a sink by raising the patch’s population above its <a href="/wiki/Carrying_capacity" title="Carrying capacity">carrying capacity</a> (the number of individuals it can support). However, in the absence of immigration, the patches are able to support a smaller population. Since true sinks cannot support any population, the authors called these patches “pseudo-sinks.” Definitively distinguishing between true sinks and pseudo-sinks requires cutting off immigration to the patch in question and determining whether the patch is still able to maintain a population. Thomas et al.<sup id="cite_ref-Thomas-1996_4-0" class="reference"><a href="#cite_note-Thomas-1996-4"><span>[</span>4<span>]</span></a></sup> were able to do just that, taking advantage of an unseasonable frost that killed off the host plants for a source population of <a href="/wiki/List_of_subspecies_of_Euphydryas_editha" title="List of subspecies of Euphydryas editha">Edith’s checkerspot butterfly</a> <i>(Euphydryas editha)</i>. Without the host plants, the supply of immigrants to other nearby patches was cut off. Although these patches had appeared to be sinks, they did not become extinct without the constant supply of immigrants. They were capable of sustaining a smaller population, suggesting that they were in fact pseudo-sinks.</p>
+<p>Watkinson and Sutherland's<sup id="cite_ref-Watkinson-1995_3-1" class="reference"><a href="#cite_note-Watkinson-1995-3"><span>[</span>3<span>]</span></a></sup> caution about identifying pseudo-sinks was followed by Dias,<sup id="cite_ref-Dias-1996_5-0" class="reference"><a href="#cite_note-Dias-1996-5"><span>[</span>5<span>]</span></a></sup> who argued that differentiating between sources and sinks themselves may be difficult. She asserted that a long-term study of the demographic parameters of the populations in each patch is necessary. Otherwise, temporary variations in those parameters, perhaps due to climate fluctuations or natural disasters, may result in a misclassification of the patches. For example, Johnson<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> described periodic flooding of a river in <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a> which completely inundated patches of the host plant for a rolled-leaf beetle <i>(Cephaloleia fenestrata)</i>. During the floods, these patches became sinks, but at other times they were no different from other patches. If researchers had not considered what happened during the floods, they would not have understood the full complexity of the system.</p>
+<p>Dias<sup id="cite_ref-Dias-1996_5-1" class="reference"><a href="#cite_note-Dias-1996-5"><span>[</span>5<span>]</span></a></sup> also argued that an inversion between source and sink habitat is possible so that the sinks may actually become the sources. Because reproduction in source patches is much higher than in sink patches, natural selection is generally expected to favor adaptations to the source habitat. However, if the proportion of source to sink habitat changes so that sink habitat becomes much more available, organisms may begin to adapt to it instead. Once adapted, the sink may become a source habitat. This is believed to have occurred for the <a href="/wiki/Blue_Tit" title="Blue Tit" class="mw-redirect">Blue Tit</a> <i>(Parus caeruleus)</i> 7500 years ago as forest composition on <a href="/wiki/Corsica" title="Corsica">Corsica</a> changed, but few modern examples are known. Boughton<sup id="cite_ref-Boughton-1999_7-0" class="reference"><a href="#cite_note-Boughton-1999-7"><span>[</span>7<span>]</span></a></sup> described a source—pseudo-sink inversion in butterfly populations of <i>E. editha</i>.<sup id="cite_ref-Thomas-1996_4-1" class="reference"><a href="#cite_note-Thomas-1996-4"><span>[</span>4<span>]</span></a></sup> Following the frost, the butterflies had difficulty recolonizing the former source patches. Boughton found that the host plants in the former sources senesced much earlier than in the former pseudo-sink patches. As a result, immigrants regularly arrived too late to successfully reproduce. He found that the former pseudo-sinks had become sources, and the former sources had become true sinks.</p>
+<p>One of the most recent additions to the source-sink literature is by Tittler et al.,<sup id="cite_ref-Tittler-2006_8-0" class="reference"><a href="#cite_note-Tittler-2006-8"><span>[</span>8<span>]</span></a></sup> who examined <a href="/wiki/Wood_Thrush" title="Wood Thrush" class="mw-redirect">Wood Thrush</a> <i>(Hylocichla mustelina)</i> survey data for evidence of source and sink populations on a large scale. The authors reasoned that emigrants from sources would likely be the juveniles produced in one year dispersing to reproduce in sinks in the next year, producing a one-year time lag between population changes in the source and in the sink. Using data from the <a href="/wiki/Breeding_Bird_Survey" title="Breeding Bird Survey" class="mw-redirect">Breeding Bird Survey</a>, an annual survey of North American birds, they looked for relationships between survey sites showing such a one-year time lag. They found several pairs of sites showing significant relationships 60–80&#160;km apart. Several appeared to be sources to more than one sink, and several sinks appeared to receive individuals from more than one source. In addition, some sites appeared to be a sink to one site and a source to another (see Figure 1). The authors concluded that source-sink dynamics may occur on continental scales.</p>
+<p>One of the more confusing issues involves identifying sources and sinks in the field.<sup id="cite_ref-Runge-2006_9-0" class="reference"><a href="#cite_note-Runge-2006-9"><span>[</span>9<span>]</span></a></sup> Runge et al.<sup id="cite_ref-Runge-2006_9-1" class="reference"><a href="#cite_note-Runge-2006-9"><span>[</span>9<span>]</span></a></sup> point out that in general researchers need to estimate per capita reproduction, probability of survival, and probability of emigration to differentiate source and sink habitats. If emigration is ignored, then individuals that emigrate may be treated as mortalities, thus causing sources to be classified as sinks. This issue is important if the source-sink concept is viewed in terms of habitat quality (as it is in Table 1) because classifying high-quality habitat as low-quality may lead to mistakes in ecological management. Runge et al.<sup id="cite_ref-Runge-2006_9-2" class="reference"><a href="#cite_note-Runge-2006-9"><span>[</span>9<span>]</span></a></sup> showed how to integrate the theory of source-sink dynamics with population projection matrices<sup id="cite_ref-Caswell-2001_10-0" class="reference"><a href="#cite_note-Caswell-2001-10"><span>[</span>10<span>]</span></a></sup> and ecological statistics<sup id="cite_ref-Williams-2001_11-0" class="reference"><a href="#cite_note-Williams-2001-11"><span>[</span>11<span>]</span></a></sup> in order to differentiate sources and sinks.</p>
+<p><span id="table1"></span></p>
+<table class="wikitable" style="margin: 1em auto 1em auto">
+<caption>Table 1. Summary characteristics of variations on the source-sink dynamics model.</caption>
+<tr>
+<th></th>
+<th>Source-sink</th>
+<th>Source-pseudosink</th>
+<th>Ecological trap</th>
+</tr>
+<tr>
+<th>Source patch<br />
+(high quality habitat)</th>
+<td>Stable or growing<br />
+Attractive<br />
+Net exporter</td>
+<td>Stable or growing<br />
+Attractive<br />
+Net exporter</td>
+<td>Stable or growing<br />
+<i><b>Avoided (or equal)</b></i><br />
+Net exporter</td>
+</tr>
+<tr>
+<th>Sink, pseudo-sink,<br />
+or trap patch<br />
+(low quality habitat)</th>
+<td>Declines to extinction<br />
+Avoided<br />
+Net importer</td>
+<td><i><b>Declines to stable size</b></i><br />
+Either<br />
+Net importer</td>
+<td>Declines to extinction<br />
+<i><b>Attractive (or equal)</b></i><br />
+Net importer</td>
+</tr>
+<tr>
+<td colspan="4">
+<table>
+<tr>
+<td><i>Habitat patches are represented in terms of their (1) inherent abilities to maintain a population (in the absence of immigration), (2) their attractiveness to organisms that are actively dispersing and choosing habitat patches, and (3) whether they are net exporters or importers of dispersing individuals. Note that in all of these systems, source patches are capable of supporting stable or growing populations and are net exporters of individuals. The major difference between them is that in the ecological trap model, the source patch is avoided (or at least not preferred to the low quality trap patch). All of the low quality patches (whether sinks, pseudo-sinks, or traps) are net importers of dispersing individuals, and in the absence of dispersal, would show a population decline. However, pseudo-sinks would not decline to extinction as they are capable of supporting a smaller population. The other major difference between these low quality patch types is in their attractiveness; sink populations are avoided while trap patches are preferred (or at least not avoided).</i></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Modes_of_dispersal">Modes of dispersal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=2" title="Edit section: Modes of dispersal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Why would individuals ever leave high quality source habitat for a low quality sink habitat? This question is central to source-sink theory. Ultimately, it depends on the organisms and the way they move and distribute themselves between habitat patches. For example, plants disperse passively, relying on other agents such as wind or water currents to move seeds to another patch. Passive dispersal can result in source-sink dynamics whenever the seeds land in a patch that cannot support the plant’s growth or reproduction. Winds may continually deposit seeds there, maintaining a population even though the plants themselves do not successfully reproduce.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Another good example for this case are soil protists. Soil protists also disperse passively, relying mainly on wind to colonize other sites.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> As a result, source-sink dynamics can arise simply because external agents dispersed protist propagules (e.g., cysts, spores), forcing individuals to grow in a poor habitat.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup></p>
+<p>In contrast, many organisms that disperse actively should have no reason to remain in a sink patch,<sup id="cite_ref-Diffendorfer-1998_15-0" class="reference"><a href="#cite_note-Diffendorfer-1998-15"><span>[</span>15<span>]</span></a></sup> provided the organisms are able to recognize it as a poor quality patch (see discussion of <a href="/wiki/Ecological_traps" title="Ecological traps" class="mw-redirect">ecological traps</a> ). The reasoning behind this argument is that organisms are often expected to behave according to the “<a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">ideal free distribution</a>,” which describes a population in which individuals distribute themselves evenly among habitat patches according to how many individuals the patch can support.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> When there are patches of varying quality available, the ideal free distribution predicts a pattern of “balanced dispersal”.<sup id="cite_ref-Diffendorfer-1998_15-1" class="reference"><a href="#cite_note-Diffendorfer-1998-15"><span>[</span>15<span>]</span></a></sup> In this model, when the preferred habitat patch becomes crowded enough that the average <a href="/wiki/Fitness_(biology)" title="Fitness (biology)">fitness</a> (survival rate or reproductive success) of the individuals in the patch drops below the average fitness in a second, lower quality patch, individuals are expected to move to the second patch. However, as soon as the second patch becomes sufficiently crowded, individuals are expected to move back to the first patch. Eventually, the patches should become balanced so that the average fitness of the individuals in each patch and the rates of dispersal between the two patches are even. In this balanced dispersal model, the probability of leaving a patch is inversely proportional to the carrying capacity of the patch.<sup id="cite_ref-Diffendorfer-1998_15-2" class="reference"><a href="#cite_note-Diffendorfer-1998-15"><span>[</span>15<span>]</span></a></sup> In this case, individuals should not remain in sink habitat for very long, where the carrying capacity is zero and the probability of leaving is therefore very high.</p>
+<p>An alternative to the ideal free distribution and balanced dispersal models is when fitness can vary among potential breeding sites within habitat patches and individuals must select the best available site. This alternative has been called the “ideal preemptive distribution,” because a breeding site can be preempted if it has already been occupied.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> For example, the dominant, older individuals in a population may occupy all of the best territories in the source so that the next best territory available may be in the sink. As the subordinate, younger individuals age, they may be able to take over territories in the source, but new subordinate juveniles from the source will have to move to the sink. Pulliam<sup id="cite_ref-Pulliam-1988_2-1" class="reference"><a href="#cite_note-Pulliam-1988-2"><span>[</span>2<span>]</span></a></sup> argued that such a pattern of dispersal can maintain a large sink population indefinitely. Furthermore, if good breeding sites in the source are rare and poor breeding sites in the sink are common, it is even possible that the majority of the population resides in the sink.</p>
+<h2><span class="mw-headline" id="Importance_in_ecology">Importance in ecology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=3" title="Edit section: Importance in ecology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The source-sink model of population dynamics has made contributions to many areas in ecology. For example, a species’ <a href="/wiki/Ecological_niche" title="Ecological niche">niche</a> was originally described as the environmental factors required by a species to carry out its life history, and a species was expected to be found only in areas that met these niche requirements.<sup id="cite_ref-Grinnell-1917_18-0" class="reference"><a href="#cite_note-Grinnell-1917-18"><span>[</span>18<span>]</span></a></sup> This concept of a niche was later termed the “fundamental niche,” and described as all of the places a species could successfully occupy. In contrast, the “realized niche,” was described as all of the places a species actually did occupy, and was expected to be less than the extent of the fundamental niche as a result of competition with other species.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> However, the source-sink model demonstrated that the majority of a population could occupy a sink which, by definition, did not meet the niche requirements of the species,<sup id="cite_ref-Pulliam-1988_2-2" class="reference"><a href="#cite_note-Pulliam-1988-2"><span>[</span>2<span>]</span></a></sup> and was therefore outside the fundamental niche (see Figure 2). In this case, the realized niche was actually larger than the fundamental niche, and ideas about how to define a species’ niche had to change.</p>
+<p>Source–sink dynamics has also been incorporated into studies of <a href="/wiki/Metapopulation" title="Metapopulation">metapopulations</a>, a group of populations residing in patches of habitat. Though some patches may go extinct, the regional persistence of the metapopulation depends on the ability of patches to be re-colonized. As long as there are source patches present for successful reproduction, sink patches may allow the total number of individuals in the metapopulation to grow beyond what the source could support, providing a reserve of individuals available for re-colonization.<sup id="cite_ref-Howe-1991_20-0" class="reference"><a href="#cite_note-Howe-1991-20"><span>[</span>20<span>]</span></a></sup> Source–sink dynamics also has implications for studies of the coexistence of species within habitat patches. Because a patch that is a source for one species may be a sink for another, coexistence may actually depend on immigration from a second patch rather than the interactions between the two species.<sup id="cite_ref-Pulliam-1988_2-3" class="reference"><a href="#cite_note-Pulliam-1988-2"><span>[</span>2<span>]</span></a></sup> Similarly, source-sink dynamics may influence the regional coexistence and demographics of species within a <a href="/wiki/Metacommunity" title="Metacommunity">metacommunity</a>, a group of communities connected by the dispersal of potentially interacting species.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup> Finally, the source-sink model has greatly influenced <a href="/wiki/Ecological_traps" title="Ecological traps" class="mw-redirect">ecological trap theory</a>, a model in which organisms prefer sink habitat over source habitat.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Conservation">Conservation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=4" title="Edit section: Conservation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Land managers and conservationists have become increasingly interested in preserving and restoring high quality habitat, particularly where rare, threatened, or endangered species are concerned. As a result, it is important to understand how to identify or create high quality habitat, and how populations respond to habitat loss or change. Because a large proportion of a species’ population could exist in sink habitat, conservation efforts may misinterpret the species’ habitat requirements. Similarly, without considering the presence of a trap, conservationists might mistakenly preserve trap habitat under the assumption that an organism’s preferred habitat was also good quality habitat. Simultaneously, source habitat may be ignored or even destroyed if only a small proportion of the population resides there. Degradation or destruction of the source habitat will, in turn, impact the sink or trap populations, potentially over large distances.<sup id="cite_ref-Tittler-2006_8-1" class="reference"><a href="#cite_note-Tittler-2006-8"><span>[</span>8<span>]</span></a></sup> Finally, efforts to restore degraded habitat may unintentionally create an ecological trap by giving a site the appearance of quality habitat, but which has not yet developed all of the functional elements necessary for an organism’s survival and reproduction. For an already threatened species, such mistakes might result in a rapid population decline toward extinction.</p>
+<p>In considering where to place <a href="/wiki/Nature_reserves" title="Nature reserves" class="mw-redirect">reserves</a>, protecting source habitat is often assumed to be the goal, although if the cause of a sink is human activity, simply designating an area as a reserve has the potential to convert current sink patches to source patches (e.g. <a href="/w/index.php?title=No-take_zones&amp;action=edit&amp;redlink=1" class="new" title="No-take zones (page does not exist)">no-take zones</a>.<sup id="cite_ref-Roberts-1998_23-0" class="reference"><a href="#cite_note-Roberts-1998-23"><span>[</span>23<span>]</span></a></sup> Either way, determining which areas are sources or sinks for any one species may be very difficult, and an area that is a source for one species may be unimportant to others. Finally, areas that are sources or sinks currently may not be in the future as habitats are continually altered by human activity or climate change. Few areas can be expected to be universal sources, or universal sinks.<sup id="cite_ref-Roberts-1998_23-1" class="reference"><a href="#cite_note-Roberts-1998-23"><span>[</span>23<span>]</span></a></sup> While the presence of source, sink, or trap patches must be considered for short-term population survival, especially for very small populations, long-term survival may depend on the creation of networks of reserves that incorporate a variety of habitats and allow populations to interact.<sup id="cite_ref-Roberts-1998_23-2" class="reference"><a href="#cite_note-Roberts-1998-23"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Perceptual_trap" title="Perceptual trap">Perceptual trap</a></li>
+<li><a href="/wiki/Conservation_biology" title="Conservation biology">Conservation biology</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/List_of_ecology_topics" title="List of ecology topics" class="mw-redirect">List of ecology topics</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Holt, R. D. 1985. Population-Dynamics in 2-Patch Environments - Some Anomalous Consequences of an Optimal Habitat Distribution. <a href="/wiki/Theoretical_Population_Biology" title="Theoretical Population Biology">Theoretical Population Biology</a> 28:181-208.</span></li>
+<li id="cite_note-Pulliam-1988-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pulliam-1988_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pulliam-1988_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Pulliam-1988_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Pulliam-1988_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Pulliam, H. R. 1988. Sources, sinks, and population regulation. <a href="/wiki/American_Naturalist" title="American Naturalist" class="mw-redirect">American Naturalist</a> 132:652-661.</span></li>
+<li id="cite_note-Watkinson-1995-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Watkinson-1995_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Watkinson-1995_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Watkinson, A. R., and W. J. Sutherland. 1995. Sources, sinks and pseudo-sinks. <a href="/wiki/Journal_of_Animal_Ecology" title="Journal of Animal Ecology">Journal of Animal Ecology</a> 64:126-130.</span></li>
+<li id="cite_note-Thomas-1996-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thomas-1996_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thomas-1996_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Thomas, C. D., M. C. Singer, and D. A. Boughton. 1996. Catastrophic extinction of population sources in a butterfly metapopulation. <a href="/wiki/American_Naturalist" title="American Naturalist" class="mw-redirect">American Naturalist</a> 148:957-975.</span></li>
+<li id="cite_note-Dias-1996-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dias-1996_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dias-1996_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Dias, P. C. 1996. Sources and sinks in population biology. <a href="/wiki/Trends_in_Ecology_and_Evolution" title="Trends in Ecology and Evolution" class="mw-redirect">Trends in Ecology and Evolution</a> 11:326-330.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Johnson, D. M. 2004. Source-sink dynamics in a temporally, heterogeneous environment. <a href="/wiki/Ecology_(journal)" title="Ecology (journal)">Ecology</a> 85:2037-2045.</span></li>
+<li id="cite_note-Boughton-1999-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Boughton-1999_7-0">^</a></b></span> <span class="reference-text">Boughton, D. A. 1999. Empirical Evidence for Complex Source-Sink Dynamics with Alternative States in a Butterfly Metapopulation. <a href="/wiki/Ecology_(journal)" title="Ecology (journal)">Ecology</a> 80:2727-2739.</span></li>
+<li id="cite_note-Tittler-2006-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tittler-2006_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tittler-2006_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tittler, R., L. Fahrig, and M. A. Villard. 2006. Evidence of large-scale source-sink dynamics and long-distance dispersal among wood thrush populations. <a href="/wiki/Ecology_(journal)" title="Ecology (journal)">Ecology</a> 87:3029-3036.</span></li>
+<li id="cite_note-Runge-2006-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Runge-2006_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Runge-2006_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Runge-2006_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Runge, J. P., M. C. Runge and J. D. Nichols. 2006. The role of local populations within a landscape context:defining and classifying sources and sinks. <a href="/wiki/American_Naturalist" title="American Naturalist" class="mw-redirect">American Naturalist</a> 167:925-938.</span></li>
+<li id="cite_note-Caswell-2001-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Caswell-2001_10-0">^</a></b></span> <span class="reference-text">Caswell, H. 2001. Matrix population models: Construction, analysis, and interpretation. 2nd edition. Sinauer. Sunderland, Mass., USA.</span></li>
+<li id="cite_note-Williams-2001-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Williams-2001_11-0">^</a></b></span> <span class="reference-text">Williams, B. K., J. D. Nichols, and M. J. Conroy. 2001. Analysis and management of animal populations. Academic Press. San Diego, USA.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Keddy, P. A. 1982. Population Ecology on an Environmental Gradient - Cakile-Edentula on a Sand Dune. <a href="/wiki/Oecologia" title="Oecologia">Oecologia</a> 52:348-355.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Foissner, W. 1987. Soil protozoa: fundamental problems, ecological significance, adaptations in ciliates and testaceans, bioindicators, and guide to the literature. <a href="/w/index.php?title=Progress_in_Protistology&amp;action=edit&amp;redlink=1" class="new" title="Progress in Protistology (page does not exist)">Progress in Protistology</a> 2:69-212.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Fernández, L. D. 2015. Source-sink dynamics shapes the spatial distribution of soil protists in an arid shrubland of northern Chile. <a href="/wiki/Journal_of_Arid_Environments" title="Journal of Arid Environments">Journal of Arid Environments</a> 113:121-125.</span></li>
+<li id="cite_note-Diffendorfer-1998-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Diffendorfer-1998_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Diffendorfer-1998_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Diffendorfer-1998_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Diffendorfer, J. E. 1998. Testing models of source-sink dynamics and balanced dispersal. <a href="/wiki/Oikos_(journal)" title="Oikos (journal)">Oikos</a> 81:417-433.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Fretwell, S. D., and H. L. Lucas, Jr. 1969. On territorial behavior and other factors influencing habitat distribution in birds. <a href="/wiki/Acta_Biotheoretica" title="Acta Biotheoretica">Acta Biotheoretica</a> 19:16-36.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Pulliam, H. R., and B. J. Danielson. 1991. Sources, Sinks, and Habitat Selection - a Landscape Perspective on Population-Dynamics. <a href="/wiki/American_Naturalist" title="American Naturalist" class="mw-redirect">American Naturalist</a> 137:S50-S66.</span></li>
+<li id="cite_note-Grinnell-1917-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Grinnell-1917_18-0">^</a></b></span> <span class="reference-text">Grinnell, J. 1917. The Niche-Relationships of the California Thrasher. <a href="/wiki/The_Auk" title="The Auk">The Auk</a> 34:427-433.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Hutchinson, G. E. 1957. Concluding remarks. Cold Spring Harbor Symposium <a href="/w/index.php?title=Quantitative_Biology&amp;action=edit&amp;redlink=1" class="new" title="Quantitative Biology (page does not exist)">Quantitative Biology</a> 22:415-427.</span></li>
+<li id="cite_note-Howe-1991-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Howe-1991_20-0">^</a></b></span> <span class="reference-text">Howe, R. W., G. J. Davis, and V. Mosca. 1991. The Demographic Significance of Sink Populations. <a href="/wiki/Biological_Conservation" title="Biological Conservation" class="mw-redirect">Biological Conservation</a> 57:239-255.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Leibold, M. A., M. Holyoak, J. M. Chase, M. F. Hoopes, R. D. Holt, J. B. Shurin, R. Law, D. Tilman, M. Loreau, and A. Gonzalez. 2004. The metacommunity concept: a framework for multi-scale community ecology. <a href="/wiki/Ecology_Letters" title="Ecology Letters">Ecology Letters</a> 7:601-613.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Robertson, B. A., and R. L. Hutto. 2006. A framework for understanding ecological traps and an evaluation of existing evidence. <a href="/wiki/Ecology_(journal)" title="Ecology (journal)">Ecology</a> 87:1075-1085.</span></li>
+<li id="cite_note-Roberts-1998-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Roberts-1998_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Roberts-1998_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Roberts-1998_23-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Roberts, C. M. 1998. Sources, sinks, and the design of marine reserve networks. <a href="/w/index.php?title=Fisheries_(journal)&amp;action=edit&amp;redlink=1" class="new" title="Fisheries (journal) (page does not exist)">Fisheries</a> 23:16-19.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin columns references-column-width" style="-moz-column-width: 60em; -webkit-column-width: 60em; column-width: 60em;">
+<ul>
+<li>Battin, J. 2004. When good animals love bad habitats: Ecological traps and the conservation of animal populations. <a href="/wiki/Conservation_biology_(journal)" title="Conservation biology (journal)" class="mw-redirect">Conservation Biology</a> 18:1482-1491.</li>
+<li>Delibes, M., P. Gaona, and P. Ferreras. 2001. Effects of an attractive sink leading into maladaptive habitat selection. <a href="/wiki/American_Naturalist" title="American Naturalist" class="mw-redirect">American Naturalist</a> 158:277-285.</li>
+<li>Dwernychuk, L. W., and D. A. Boag. 1972. Ducks nesting in association with gulls-an ecological trap? <a href="/wiki/Canadian_Journal_of_Zoology" title="Canadian Journal of Zoology">Canadian Journal of Zoology</a> 50:559-563.</li>
+<li>Misenhelter, M. D., and J. T. Rotenberry. 2000. Choices and consequences of habitat occupancy and nest site selection in sage sparrows. <a href="/wiki/Ecology_(journal)" title="Ecology (journal)">Ecology</a> 81:2892-2901.</li>
+<li>Purcell, K. L., and J. Verner. 1998. Density and reproductive success of California Towhees. <a href="/wiki/Conservation_biology_(journal)" title="Conservation biology (journal)" class="mw-redirect">Conservation Biology</a> 12:442-450.</li>
+<li>Schlaepfer, M. A., M. C. Runge, and P. W. Sherman. 2002. Ecological and evolutionary traps. <a href="/wiki/Trends_in_Ecology_and_Evolution" title="Trends in Ecology and Evolution" class="mw-redirect">Trends in Ecology and Evolution</a> 17:474-480.</li>
+<li>Weldon, A. J., and N. M. Haddad. 2005. The effects of patch shape on Indigo Buntings: Evidence for an ecological trap. <a href="/wiki/Ecology_(journal)" title="Ecology (journal)">Ecology</a> 86:1422-1431.</li>
+</ul>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a> – <a href="/wiki/Trophic_level" title="Trophic level">trophic</a> components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abiotic_component" title="Abiotic component">Abiotic component</a></li>
+<li><a href="/wiki/Abiotic_stress" title="Abiotic stress">Abiotic stress</a></li>
+<li><a href="/wiki/Behavioral_ecology" title="Behavioral ecology">Behaviour</a></li>
+<li><a href="/wiki/Biogeochemical_cycle" title="Biogeochemical cycle">Biogeochemical cycle</a></li>
+<li><a href="/wiki/Biomass_(ecology)" title="Biomass (ecology)">Biomass</a></li>
+<li><a href="/wiki/Biotic_component" title="Biotic component">Biotic component</a></li>
+<li><a href="/wiki/Biotic_stress" title="Biotic stress">Biotic stress</a></li>
+<li><a href="/wiki/Carrying_capacity" title="Carrying capacity">Carrying capacity</a></li>
+<li><a href="/wiki/Competition_(biology)" title="Competition (biology)">Competition</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecosystem_ecology" title="Ecosystem ecology">Ecosystem ecology</a></li>
+<li><a href="/wiki/Ecosystem_model" title="Ecosystem model">Ecosystem model</a></li>
+<li><a href="/wiki/Keystone_species" title="Keystone species">Keystone species</a></li>
+<li><a href="/wiki/List_of_feeding_behaviours" title="List of feeding behaviours">List of feeding behaviours</a></li>
+<li><a href="/wiki/Metabolic_theory_of_ecology" title="Metabolic theory of ecology">Metabolic theory of ecology</a></li>
+<li><a href="/wiki/Productivity_(ecology)" title="Productivity (ecology)">Productivity</a></li>
+<li><a href="/wiki/Resource_(biology)" title="Resource (biology)">Resource</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="17" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:FoodWeb.jpg" class="image"><img alt="FoodWeb.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/140px-FoodWeb.jpg" width="140" height="162" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/210px-FoodWeb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/FoodWeb.jpg/280px-FoodWeb.jpg 2x" data-file-width="1200" data-file-height="1388" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Primary_producers" title="Primary producers">Producers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autotroph" title="Autotroph">Autotrophs</a></li>
+<li><a href="/wiki/Chemosynthesis" title="Chemosynthesis">Chemosynthesis</a></li>
+<li><a href="/wiki/Chemotroph" title="Chemotroph">Chemotrophs</a></li>
+<li><a href="/wiki/Foundation_species" title="Foundation species">Foundation species</a></li>
+<li><a href="/wiki/Mixotroph" title="Mixotroph">Mixotrophs</a></li>
+<li><a href="/wiki/Myco-heterotrophy" title="Myco-heterotrophy">Myco-heterotrophy</a></li>
+<li><a href="/wiki/Mycotroph" title="Mycotroph">Mycotroph</a></li>
+<li><a href="/wiki/Organotroph" title="Organotroph">Organotrophs</a></li>
+<li><a href="/wiki/Photoheterotroph" title="Photoheterotroph">Photoheterotrophs</a></li>
+<li><a href="/wiki/Photosynthesis" title="Photosynthesis">Photosynthesis</a></li>
+<li><a href="/wiki/Photosynthetic_efficiency" title="Photosynthetic efficiency">Photosynthetic efficiency</a></li>
+<li><a href="/wiki/Phototroph" title="Phototroph">Phototrophs</a></li>
+<li><a href="/wiki/Primary_nutritional_groups" title="Primary nutritional groups">Primary nutritional groups</a></li>
+<li><a href="/wiki/Primary_production" title="Primary production">Primary production</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Consumers_(food_chain)" title="Consumers (food chain)" class="mw-redirect">Consumers</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apex_predator" title="Apex predator">Apex predator</a></li>
+<li><a href="/wiki/Bacterivore" title="Bacterivore">Bacterivore</a></li>
+<li><a href="/wiki/Carnivore" title="Carnivore">Carnivores</a></li>
+<li><a href="/wiki/Chemoorganotroph" title="Chemoorganotroph" class="mw-redirect">Chemoorganotroph</a></li>
+<li><a href="/wiki/Foraging" title="Foraging">Foraging</a></li>
+<li><a href="/wiki/Generalist_and_specialist_species" title="Generalist and specialist species">Generalist and specialist species</a></li>
+<li><a href="/wiki/Intraguild_predation" title="Intraguild predation">Intraguild predation</a></li>
+<li><a href="/wiki/Herbivore" title="Herbivore">Herbivores</a></li>
+<li><a href="/wiki/Heterotroph" title="Heterotroph">Heterotroph</a></li>
+<li><a href="/wiki/Heterotrophic_nutrition" title="Heterotrophic nutrition">Heterotrophic nutrition</a></li>
+<li><a href="/wiki/Insectivore" title="Insectivore">Insectivore</a></li>
+<li><a href="/wiki/Mesopredator_release_hypothesis" title="Mesopredator release hypothesis">Mesopredator release hypothesis</a></li>
+<li><a href="/wiki/Omnivore" title="Omnivore">Omnivores</a></li>
+<li><a href="/wiki/Optimal_foraging_theory" title="Optimal foraging theory">Optimal foraging theory</a></li>
+<li><a href="/wiki/Predation" title="Predation">Predation</a></li>
+<li><a href="/wiki/Prey_switching" title="Prey switching">Prey switching</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Decomposer" title="Decomposer">Decomposers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemoorganoheterotrophy" title="Chemoorganoheterotrophy" class="mw-redirect">Chemoorganoheterotrophy</a></li>
+<li><a href="/wiki/Decomposition" title="Decomposition">Decomposition</a></li>
+<li><a href="/wiki/Detritivore" title="Detritivore">Detritivores</a></li>
+<li><a href="/wiki/Detritus" title="Detritus">Detritus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Microorganism#Habitats_and_ecology" title="Microorganism">Microorganisms</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Archaea" title="Archaea">Archaea</a></li>
+<li><a href="/wiki/Bacteriophage" title="Bacteriophage">Bacteriophage</a></li>
+<li><a href="/wiki/Environmental_microbiology" title="Environmental microbiology" class="mw-redirect">Environmental microbiology</a></li>
+<li><a href="/wiki/Lithoautotroph" title="Lithoautotroph">Lithoautotroph</a></li>
+<li><a href="/wiki/Lithotroph" title="Lithotroph">Lithotrophy</a></li>
+<li><a href="/wiki/Microbial_cooperation" title="Microbial cooperation">Microbial cooperation</a></li>
+<li><a href="/wiki/Microbial_ecology" title="Microbial ecology">Microbial ecology</a></li>
+<li><a href="/wiki/Microbial_food_web" title="Microbial food web">Microbial food web</a></li>
+<li><a href="/wiki/Microbial_intelligence" title="Microbial intelligence">Microbial intelligence</a></li>
+<li><a href="/wiki/Microbial_loop" title="Microbial loop">Microbial loop</a></li>
+<li><a href="/wiki/Microbial_mat" title="Microbial mat">Microbial mat</a></li>
+<li><a href="/wiki/Microbial_metabolism" title="Microbial metabolism">Microbial metabolism</a></li>
+<li><a href="/wiki/Phage_ecology" title="Phage ecology">Phage ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Food_web" title="Food web">Food webs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biomagnification" title="Biomagnification">Biomagnification</a></li>
+<li><a href="/wiki/Ecological_efficiency" title="Ecological efficiency">Ecological efficiency</a></li>
+<li><a href="/wiki/Ecological_pyramid" title="Ecological pyramid">Ecological pyramid</a></li>
+<li><a href="/wiki/Energy_flow_(ecology)" title="Energy flow (ecology)">Energy flow</a></li>
+<li><a href="/wiki/Food_chain" title="Food chain">Food chain</a></li>
+<li><a href="/wiki/Trophic_level" title="Trophic level">Trophic level</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Example webs</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Hydrothermal_vent#Biological_communities" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Intertidal_ecology" title="Intertidal ecology">Intertidal</a></li>
+<li><a href="/wiki/Kelp_forest#Trophic_ecology" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Lake_ecosystem#Trophic_relationships" title="Lake ecosystem">Lakes</a></li>
+<li><a href="/wiki/North_Pacific_Subtropical_Gyre" title="North Pacific Subtropical Gyre" class="mw-redirect">North Pacific Subtropical Gyre</a></li>
+<li><a href="/wiki/River_ecosystem#Trophic_relationships" title="River ecosystem">Rivers</a></li>
+<li><a href="/wiki/Ecology_of_the_San_Francisco_Estuary#Food_web" title="Ecology of the San Francisco Estuary">San Francisco Estuary</a></li>
+<li><a href="/wiki/Soil_food_web" title="Soil food web">Soil</a></li>
+<li><a href="/wiki/Tide_pool" title="Tide pool">Tide pool</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Processes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ascendency" title="Ascendency">Ascendency</a></li>
+<li><a href="/wiki/Bioaccumulation" title="Bioaccumulation">Bioaccumulation</a></li>
+<li><a href="/wiki/Cascade_effect_(ecology)" title="Cascade effect (ecology)">Cascade effect</a></li>
+<li><a href="/wiki/Climax_community" title="Climax community">Climax community</a></li>
+<li><a href="/wiki/Competitive_exclusion_principle" title="Competitive exclusion principle">Competitive exclusion principle</a></li>
+<li><a href="/wiki/Consumer-resource_systems" title="Consumer-resource systems">Consumer-resource systems</a></li>
+<li><a href="/wiki/Copiotroph" title="Copiotroph">Copiotrophs</a></li>
+<li><a href="/wiki/Dominance_(ecology)" title="Dominance (ecology)">Dominance</a></li>
+<li><a href="/wiki/Ecological_network" title="Ecological network">Ecological network</a></li>
+<li><a href="/wiki/Ecological_succession" title="Ecological succession">Ecological succession</a></li>
+<li><a href="/wiki/Energy_quality" title="Energy quality" class="mw-redirect">Energy quality</a></li>
+<li><a href="/wiki/Energy_Systems_Language" title="Energy Systems Language">Energy Systems Language</a></li>
+<li><a href="/wiki/F-ratio" title="F-ratio">f-ratio</a></li>
+<li><a href="/wiki/Feed_conversion_ratio" title="Feed conversion ratio">Feed conversion ratio</a></li>
+<li><a href="/wiki/Feeding_frenzy" title="Feeding frenzy">Feeding frenzy</a></li>
+<li><a href="/wiki/Mesotrophic_soil" title="Mesotrophic soil">Mesotrophic soil</a></li>
+<li><a href="/wiki/Nutrient_cycle" title="Nutrient cycle">Nutrient cycle</a></li>
+<li><a href="/wiki/Oligotroph" title="Oligotroph">Oligotroph</a></li>
+<li><a href="/wiki/Paradox_of_the_plankton" title="Paradox of the plankton">Paradox of the plankton</a></li>
+<li><a href="/wiki/Trophic_cascade" title="Trophic cascade">Trophic cascade</a></li>
+<li><a href="/wiki/Trophic_mutualism" title="Trophic mutualism">Trophic mutualism</a></li>
+<li><a href="/wiki/Trophic_state_index" title="Trophic state index">Trophic state index</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Defense/counter</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Animal_coloration" title="Animal coloration">Animal coloration</a></li>
+<li><a href="/wiki/Antipredator_adaptation" title="Antipredator adaptation" class="mw-redirect">Antipredator adaptations</a></li>
+<li><a href="/wiki/Camouflage" title="Camouflage">Camouflage</a></li>
+<li><a href="/wiki/Deimatic_behaviour" title="Deimatic behaviour">Deimatic behaviour</a></li>
+<li><a href="/wiki/Herbivore_adaptations_to_plant_defense" title="Herbivore adaptations to plant defense">Herbivore adaptations to plant defense</a></li>
+<li><a href="/wiki/Mimicry" title="Mimicry">Mimicry</a></li>
+<li><a href="/wiki/Plant_defense_against_herbivory" title="Plant defense against herbivory">Plant defense against herbivory</a></li>
+<li><a href="/wiki/Shoaling_and_schooling#Predator_avoidance" title="Shoaling and schooling">Predator avoidance in schooling fish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Modelling_ecosystems" title="Template:Modelling ecosystems"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Modelling_ecosystems" title="Template talk:Modelling ecosystems"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Modelling_ecosystems&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Ecosystem_model" title="Ecosystem model">Modelling ecosystems</a> – other components</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Population_ecology" title="Population ecology">Population ecology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abundance_(ecology)" title="Abundance (ecology)">Abundance</a></li>
+<li><a href="/wiki/Allee_effect" title="Allee effect">Allee effect</a></li>
+<li><a href="/wiki/Depensation" title="Depensation">Depensation</a></li>
+<li><a href="/wiki/Ecological_yield" title="Ecological yield">Ecological yield</a></li>
+<li><a href="/wiki/Effective_population_size" title="Effective population size">Effective population size</a></li>
+<li><a href="/wiki/Intraspecific_competition" title="Intraspecific competition">Intraspecific competition</a></li>
+<li><a href="/wiki/Logistic_function" title="Logistic function">Logistic function</a></li>
+<li><a href="/wiki/Malthusian_growth_model" title="Malthusian growth model">Malthusian growth model</a></li>
+<li><a href="/wiki/Maximum_sustainable_yield" title="Maximum sustainable yield">Maximum sustainable yield</a></li>
+<li><a href="/wiki/Overpopulation_in_wild_animals" title="Overpopulation in wild animals" class="mw-redirect">Overpopulation in wild animals</a></li>
+<li><a href="/wiki/Overexploitation" title="Overexploitation">Overexploitation</a></li>
+<li><a href="/wiki/Population_cycle" title="Population cycle">Population cycle</a></li>
+<li><a href="/wiki/Population_dynamics" title="Population dynamics">Population dynamics</a></li>
+<li><a href="/wiki/Population_modeling" title="Population modeling" class="mw-redirect">Population modeling</a></li>
+<li><a href="/wiki/Population_size" title="Population size">Population size</a></li>
+<li><a href="/wiki/Lotka%E2%80%93Volterra_equation" title="Lotka–Volterra equation">Predator–prey equations</a></li>
+<li><a href="/wiki/Recruitment_(biology)" title="Recruitment (biology)">Recruitment</a></li>
+<li><a href="/wiki/Resilience_(ecology)" title="Resilience (ecology)">Resilience</a></li>
+<li><a href="/wiki/Small_population_size" title="Small population size">Small population size</a></li>
+<li><a href="/wiki/Ecological_stability" title="Ecological stability">Stability</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="13" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Genomics_GTL_Program_Payoffs.jpg" class="image"><img alt="Genomics GTL Program Payoffs.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/140px-Genomics_GTL_Program_Payoffs.jpg" width="140" height="105" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/210px-Genomics_GTL_Program_Payoffs.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Genomics_GTL_Program_Payoffs.jpg/280px-Genomics_GTL_Program_Payoffs.jpg 2x" data-file-width="750" data-file-height="563" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a></li>
+<li><a href="/wiki/Density-dependent_inhibition" title="Density-dependent inhibition" class="mw-redirect">Density-dependent inhibition</a></li>
+<li><a href="/wiki/Ecological_effects_of_biodiversity" title="Ecological effects of biodiversity">Ecological effects of biodiversity</a></li>
+<li><a href="/wiki/Ecological_extinction" title="Ecological extinction">Ecological extinction</a></li>
+<li><a href="/wiki/Endemic_species" title="Endemic species" class="mw-redirect">Endemic species</a></li>
+<li><a href="/wiki/Flagship_species" title="Flagship species">Flagship species</a></li>
+<li><a href="/wiki/Gradient_analysis" title="Gradient analysis">Gradient analysis</a></li>
+<li><a href="/wiki/Indicator_species" title="Indicator species">Indicator species</a></li>
+<li><a href="/wiki/Introduced_species" title="Introduced species">Introduced species</a></li>
+<li><a href="/wiki/Invasive_species" title="Invasive species">Invasive species</a></li>
+<li><a href="/wiki/Latitudinal_gradients_in_species_diversity" title="Latitudinal gradients in species diversity">Latitudinal gradients in species diversity</a></li>
+<li><a href="/wiki/Minimum_viable_population" title="Minimum viable population">Minimum viable population</a></li>
+<li><a href="/wiki/Unified_neutral_theory_of_biodiversity" title="Unified neutral theory of biodiversity">Neutral theory</a></li>
+<li><a href="/wiki/Occupancy-abundance_relationship" title="Occupancy-abundance relationship" class="mw-redirect">Occupancy-abundance relationship</a></li>
+<li><a href="/wiki/Population_viability_analysis" title="Population viability analysis">Population viability analysis</a></li>
+<li><a href="/wiki/Priority_effect" title="Priority effect">Priority effect</a></li>
+<li><a href="/wiki/Rapoport%27s_rule" title="Rapoport's rule">Rapoport's rule</a></li>
+<li><a href="/wiki/Relative_abundance_distribution" title="Relative abundance distribution">Relative abundance distribution</a></li>
+<li><a href="/wiki/Relative_species_abundance" title="Relative species abundance">Relative species abundance</a></li>
+<li><a href="/wiki/Species_diversity" title="Species diversity">Species diversity</a></li>
+<li><a href="/wiki/Species_homogeneity" title="Species homogeneity">Species homogeneity</a></li>
+<li><a href="/wiki/Species_richness" title="Species richness">Species richness</a></li>
+<li><a href="/wiki/Species_distribution" title="Species distribution">Species distribution</a></li>
+<li><a href="/wiki/Species-area_curve" title="Species-area curve">Species-area curve</a></li>
+<li><a href="/wiki/Umbrella_species" title="Umbrella species">Umbrella species</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Species interaction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antibiosis" title="Antibiosis">Antibiosis</a></li>
+<li><a href="/wiki/Biological_interaction" title="Biological interaction">Biological interaction</a></li>
+<li><a href="/wiki/Commensalism" title="Commensalism">Commensalism</a></li>
+<li><a href="/wiki/Community_ecology" title="Community ecology" class="mw-redirect">Community ecology</a></li>
+<li><a href="/wiki/Ecological_facilitation" title="Ecological facilitation">Ecological facilitation</a></li>
+<li><a href="/wiki/Interspecific_competition" title="Interspecific competition">Interspecific competition</a></li>
+<li><a href="/wiki/Mutualism_(biology)" title="Mutualism (biology)">Mutualism</a></li>
+<li><a href="/wiki/Storage_effect" title="Storage effect">Storage effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Spatial_ecology" title="Spatial ecology">Spatial ecology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biogeography" title="Biogeography">Biogeography</a></li>
+<li><a href="/wiki/Cross-boundary_subsidy" title="Cross-boundary subsidy">Cross-boundary subsidy</a></li>
+<li><a href="/wiki/Ecocline" title="Ecocline" class="mw-redirect">Ecocline</a></li>
+<li><a href="/wiki/Ecotone" title="Ecotone">Ecotone</a></li>
+<li><a href="/wiki/Ecotype" title="Ecotype">Ecotype</a></li>
+<li><a href="/wiki/Disturbance_(ecology)" title="Disturbance (ecology)">Disturbance</a></li>
+<li><a href="/wiki/Edge_effects" title="Edge effects">Edge effects</a></li>
+<li><a href="/wiki/Foster%27s_rule" title="Foster's rule">Foster's rule</a></li>
+<li><a href="/wiki/Habitat_fragmentation" title="Habitat fragmentation">Habitat fragmentation</a></li>
+<li><a href="/wiki/Ideal_free_distribution" title="Ideal free distribution">Ideal free distribution</a></li>
+<li><a href="/wiki/Intermediate_Disturbance_Hypothesis" title="Intermediate Disturbance Hypothesis">Intermediate Disturbance Hypothesis</a></li>
+<li><a href="/wiki/Island_biogeography" title="Island biogeography" class="mw-redirect">Island biogeography</a></li>
+<li><a href="/wiki/Landscape_ecology" title="Landscape ecology">Landscape ecology</a></li>
+<li><a href="/wiki/Landscape_epidemiology" title="Landscape epidemiology">Landscape epidemiology</a></li>
+<li><a href="/wiki/Landscape_limnology" title="Landscape limnology">Landscape limnology</a></li>
+<li><a href="/wiki/Metapopulation" title="Metapopulation">Metapopulation</a></li>
+<li><a href="/wiki/Patch_dynamics" title="Patch dynamics">Patch dynamics</a></li>
+<li><a href="/wiki/R/K_selection_theory" title="R/K selection theory">r/K selection theory</a></li>
+<li><strong class="selflink">Source–sink dynamics</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Ecological_niche" title="Ecological niche">Niche</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ecological_niche" title="Ecological niche">Ecological niche</a></li>
+<li><a href="/wiki/Ecological_trap" title="Ecological trap">Ecological trap</a></li>
+<li><a href="/wiki/Ecosystem_engineer" title="Ecosystem engineer">Ecosystem engineer</a></li>
+<li><a href="/wiki/Environmental_niche_modelling" title="Environmental niche modelling">Environmental niche modelling</a></li>
+<li><a href="/wiki/Guild_(ecology)" title="Guild (ecology)">Guild</a></li>
+<li><a href="/wiki/Habitat" title="Habitat">Habitat</a></li>
+<li><a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></li>
+<li><a href="/wiki/Limiting_similarity" title="Limiting similarity">Limiting similarity</a></li>
+<li><a href="/wiki/Niche_apportionment_models" title="Niche apportionment models">Niche apportionment models</a></li>
+<li><a href="/wiki/Niche_construction" title="Niche construction">Niche construction</a></li>
+<li><a href="/wiki/Niche_differentiation" title="Niche differentiation">Niche differentiation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em"><a href="/wiki/Non-trophic_networks" title="Non-trophic networks">Other networks</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Assembly_rules" title="Assembly rules">Assembly rules</a></li>
+<li><a href="/wiki/Bateman%27s_principle" title="Bateman's principle">Bateman's principle</a></li>
+<li><a href="/wiki/Bioluminescence" title="Bioluminescence">Bioluminescence</a></li>
+<li><a href="/wiki/Ecological_collapse" title="Ecological collapse">Ecological collapse</a></li>
+<li><a href="/wiki/Ecological_debt" title="Ecological debt">Ecological debt</a></li>
+<li><a href="/wiki/Ecological_deficit" title="Ecological deficit" class="mw-redirect">Ecological deficit</a></li>
+<li><a href="/wiki/Ecological_energetics" title="Ecological energetics">Ecological energetics</a></li>
+<li><a href="/wiki/Ecological_indicator" title="Ecological indicator">Ecological indicator</a></li>
+<li><a href="/wiki/Ecological_threshold" title="Ecological threshold">Ecological threshold</a></li>
+<li><a href="/wiki/Ecosystem_diversity" title="Ecosystem diversity">Ecosystem diversity</a></li>
+<li><a href="/wiki/Emergence" title="Emergence">Emergence</a></li>
+<li><a href="/wiki/Extinction_debt" title="Extinction debt">Extinction debt</a></li>
+<li><a href="/wiki/Kleiber%27s_law" title="Kleiber's law">Kleiber's law</a></li>
+<li><a href="/wiki/Liebig%27s_law_of_the_minimum" title="Liebig's law of the minimum">Liebig's law of the minimum</a></li>
+<li><a href="/wiki/Marginal_value_theorem" title="Marginal value theorem">Marginal value theorem</a></li>
+<li><a href="/wiki/Thorson%27s_rule" title="Thorson's rule">Thorson's rule</a></li>
+<li><a href="/wiki/Xerosere" title="Xerosere">Xerosere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:9.5em">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Allometry" title="Allometry">Allometry</a></li>
+<li><a href="/wiki/Alternative_stable_state" title="Alternative stable state">Alternative stable state</a></li>
+<li><a href="/wiki/Balance_of_nature" title="Balance of nature">Balance of nature</a></li>
+<li><a href="/wiki/Biological_data_visualization" title="Biological data visualization">Biological data visualization</a></li>
+<li><a href="/wiki/Constructal_theory" title="Constructal theory" class="mw-redirect">Constructal theory</a></li>
+<li><a href="/wiki/Cline_(biology)" title="Cline (biology)">Ecocline</a></li>
+<li><a href="/wiki/Ecological_economics" title="Ecological economics">Ecological economics</a></li>
+<li><a href="/wiki/Ecological_footprint" title="Ecological footprint">Ecological footprint</a></li>
+<li><a href="/wiki/Ecological_forecasting" title="Ecological forecasting">Ecological forecasting</a></li>
+<li><a href="/wiki/Ecological_humanities" title="Ecological humanities">Ecological humanities</a></li>
+<li><a href="/wiki/Ecological_stoichiometry" title="Ecological stoichiometry">Ecological stoichiometry</a></li>
+<li><a href="/wiki/Ecopath" title="Ecopath">Ecopath</a></li>
+<li><a href="/wiki/Ecosystem_based_fisheries" title="Ecosystem based fisheries" class="mw-redirect">Ecosystem based fisheries</a></li>
+<li><a href="/wiki/Endolith" title="Endolith">Endolith</a></li>
+<li><a href="/wiki/Evolutionary_ecology" title="Evolutionary ecology">Evolutionary ecology</a></li>
+<li><a href="/wiki/Functional_ecology" title="Functional ecology">Functional ecology</a></li>
+<li><a href="/wiki/Industrial_ecology" title="Industrial ecology">Industrial ecology</a></li>
+<li><a href="/wiki/Macroecology" title="Macroecology">Macroecology</a></li>
+<li><a href="/wiki/Microecosystem" title="Microecosystem">Microecosystem</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Systems_ecology" title="Systems ecology">Systems ecology</a></li>
+<li><a href="/wiki/Theoretical_ecology" title="Theoretical ecology">Theoretical ecology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><a href="/wiki/List_of_ecology_topics" title="List of ecology topics" class="mw-redirect">List of ecology topics</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1258
+CPU time usage: 0.158 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 937/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41490/2097152 bytes
+Template argument size: 69/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.016/10.000 seconds
+Lua memory usage: 799 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.029      1 - -total
+ 56.07%   35.343      1 - Template:Modelling_ecosystems
+ 49.83%   31.405      2 - Template:Navbox
+ 34.04%   21.456      1 - Template:Reflist
+  6.34%    3.994      1 - Template:Refbegin
+  2.93%    1.845      1 - Template:Refend
+  2.91%    1.837      2 - Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10606078-0!*!0!!en!4!* and timestamp 20150627013926 and revision id 656240805
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Source–sink_dynamics&amp;oldid=656240805">https://en.wikipedia.org/w/index.php?title=Source–sink_dynamics&amp;oldid=656240805</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Landscape_ecology" title="Category:Landscape ecology">Landscape ecology</a></li><li><a href="/wiki/Category:Ecological_theories" title="Category:Ecological theories">Ecological theories</a></li><li><a href="/wiki/Category:Population" title="Category:Population">Population</a></li><li><a href="/wiki/Category:Conservation" title="Category:Conservation">Conservation</a></li><li><a href="/wiki/Category:Behavioral_ecology" title="Category:Behavioral ecology">Behavioral ecology</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Source%E2%80%93sink+dynamics&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Source%E2%80%93sink+dynamics" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Source%E2%80%93sink_dynamics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Source%E2%80%93sink_dynamics"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Source%E2%80%93sink_dynamics" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Source%E2%80%93sink_dynamics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Source%E2%80%93sink_dynamics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;oldid=656240805" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q7565181" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Source%E2%80%93sink_dynamics&amp;id=656240805" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Source%E2%80%93sink+dynamics">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Source%E2%80%93sink+dynamics&amp;oldid=656240805&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Source%E2%80%93sink_dynamics&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-add wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q7565181#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 April 2015, at 07:44.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Source%E2%80%93sink_dynamics&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1108"});
+}</script>
+	</body>
+</html>

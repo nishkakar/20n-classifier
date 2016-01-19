@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Niemann–Pick disease - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Niemann%E2%80%93Pick_disease" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Niemann%E2%80%93Pick_disease" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Niemann%E2%80%93Pick_disease" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Niemann–Pick_disease","wgTitle":"Niemann–Pick disease","wgCurRevisionId":666822985,"wgRevisionId":666822985,"wgArticleId":769389,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","CS1 errors: missing author or editor","CS1 errors: chapter ignored","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from June 2013","Commons category template with no category set","Commons category with page title same as on Wikidata","Articles that use a Medicine navs subtemplate","Autosomal recessive disorders","Rare diseases","Lipid storage disorders","Ashkenazi Jews topics","Skin conditions resulting from errors in metabolism","Neurodegenerative disorders"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Niemann–Pick_disease","wgRelevantArticleId":769389,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/56px-Autosomal_recessive_-_en.svg.png","wgULSAcceptLanguageList":["en-ca"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1419931"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Niemann–Pick_disease skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Niemann–Pick disease</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">Not to be confused with <a href="/wiki/Pick%27s_disease" title="Pick's disease">Pick's disease</a>.</div>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Niemann–Pick disease</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/E75.2">E75.2</a> (<a href="/wiki/ILDS" title="ILDS" class="mw-redirect">ILDS</a> E75.230)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=272.7">272.7</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/257200">257200</a> <a rel="nofollow" class="external text" href="//omim.org/entry/257220">257220</a> <a rel="nofollow" class="external text" href="//omim.org/entry/601015">601015</a> <a rel="nofollow" class="external text" href="//omim.org/entry/607608">607608</a> <a rel="nofollow" class="external text" href="//omim.org/entry/607616">607616</a> <a rel="nofollow" class="external text" href="//omim.org/entry/607623">607623</a> <a rel="nofollow" class="external text" href="//omim.org/entry/607625">607625</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb9016.htm">9016</a> <a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb34341.htm">34341</a></p>
+<a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb33390.htm">33390</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/MedlinePlus" title="MedlinePlus">MedlinePlus</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.nlm.nih.gov/medlineplus/ency/article/001207.htm">001207</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/derm/topic699.htm">derm/699</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Patient_UK" title="Patient UK">Patient UK</a></th>
+<td><a rel="nofollow" class="external text" href="http://patient.info/doctor/Niemann-Pick-Disease">Niemann–Pick disease</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D009542">D009542</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/GeneReviews" title="GeneReviews">GeneReviews</a></th>
+<td class="plainlist">
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/books/NBK1370/">Acid Sphingomyelinase Deficiency — includes: Niemann–Pick Disease Type A, B</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/books/NBK1296/">Niemann-Pick Disease Type C</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p><b>Niemann–Pick disease</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="'n' in 'no'">n</span><span title="/iː/ long 'e' in 'bead'">iː</span><span title="'m' in 'my'">m</span><span title="/ən/ 'on' in 'button'">ən</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'p' in 'pie'">p</span><span title="/ɪ/ short 'i' in 'bid'">ɪ</span><span title="'k' in 'kind'">k</span></span>/</a></span></span> <span title="English pronunciation respelling" class="Unicode"><a href="/wiki/Wikipedia:Pronunciation_respelling_key" title="Wikipedia:Pronunciation respelling key"><i>nee-mən-<b><span class="smallcaps"><span class="SMALLCAPS" style="FONT-VARIANT:SMALL-CAPS;"><span class="NOCAPS" style="TEXT-TRANSFORM:LOWERCASE;">PIK</span></span></span></b></i></a></span>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> is a group of inherited severe <a href="/wiki/Metabolic_disorders" title="Metabolic disorders">metabolic disorders</a> that allows a certain kind of fat to accumulate in cells. The fat, <a href="/wiki/Sphingomyelin" title="Sphingomyelin">sphingomyelin</a>, accumulates in <a href="/wiki/Lysosome" title="Lysosome">lysosomes</a> (membrane-bound organelles in cells). The lysosomes normally transport material through and out of the cell.</p>
+<p>The prognosis is individual but the severe form is fatal in toddlerhood and the milder forms may even in some cases have a normal lifespan.</p>
+<p>This disease involves dysfunctional metabolism of <a href="/wiki/Sphingolipids" title="Sphingolipids" class="mw-redirect">sphingolipids</a>, which are fats found in cell membranes, so it is a kind of <a href="/wiki/Sphingolipidosis" title="Sphingolipidosis" class="mw-redirect">sphingolipidosis</a>. Sphingolipidoses, in turn, are included in the larger family of <a href="/wiki/Lysosomal_storage_disease" title="Lysosomal storage disease">lysosomal storage diseases</a>.<sup id="cite_ref-Andrews_2-0" class="reference"><a href="#cite_note-Andrews-2"><span>[</span>2<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cause_and_genetics"><span class="tocnumber">2</span> <span class="toctext">Cause and genetics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Classification"><span class="tocnumber">2.1</span> <span class="toctext">Classification</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Incidence"><span class="tocnumber">3</span> <span class="toctext">Incidence</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Pathophysiology"><span class="tocnumber">4</span> <span class="toctext">Pathophysiology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Treatment"><span class="tocnumber">5</span> <span class="toctext">Treatment</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Experimental_use_of_2-hydroxypropyl-.CE.B2-cyclodextrin"><span class="tocnumber">5.1</span> <span class="toctext">Experimental use of 2-hydroxypropyl-β-cyclodextrin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Prognosis"><span class="tocnumber">6</span> <span class="toctext">Prognosis</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Research_directions"><span class="tocnumber">8</span> <span class="toctext">Research directions</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Symptoms are related to the organs in which sphingomyelin accumulates. Enlargement of the liver and spleen (<a href="/wiki/Hepatosplenomegaly" title="Hepatosplenomegaly">hepatosplenomegaly</a>) may cause reduced appetite, abdominal distension, and pain. Enlargement of the spleen (<a href="/wiki/Splenomegaly" title="Splenomegaly">splenomegaly</a>) may also cause low levels of <a href="/wiki/Platelet" title="Platelet">platelets</a> in the blood (<a href="/wiki/Thrombocytopenia" title="Thrombocytopenia">thrombocytopenia</a>).</p>
+<p>Accumulation of <a href="/wiki/Sphingomyelin" title="Sphingomyelin">sphingomyelin</a> in the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a> (including the <a href="/wiki/Cerebellum" title="Cerebellum">cerebellum</a>) results in unsteady gait (<a href="/wiki/Ataxia" title="Ataxia">ataxia</a>), slurring of speech (<a href="/wiki/Dysarthria" title="Dysarthria">dysarthria</a>), and difficulty in swallowing (<a href="/wiki/Dysphagia" title="Dysphagia">dysphagia</a>). <a href="/wiki/Basal_ganglia" title="Basal ganglia">Basal ganglia</a> dysfunction causes abnormal posturing of the limbs, trunk, and face (<a href="/wiki/Dystonia" title="Dystonia">dystonia</a>). Upper brainstem disease results in impaired voluntary rapid eye movements (supranuclear gaze palsy). More widespread disease involving the <a href="/wiki/Cerebral_cortex" title="Cerebral cortex">cerebral cortex</a> and subcortical structures causes gradual loss of intellectual abilities, causing <a href="/wiki/Dementia" title="Dementia">dementia</a> and <a href="/wiki/Seizure" title="Seizure" class="mw-redirect">seizures</a>.</p>
+<p>Bones can also be affected: symptoms can include enlarged <a href="/wiki/Bone_marrow" title="Bone marrow">bone marrow</a> cavities, thinned <a href="/wiki/Cortical_bone" title="Cortical bone">cortical bone</a>, or a distortion of the hip bone called <a href="/wiki/Coxa_vara" title="Coxa vara">coxa vara</a>. Sleep-related disorders, such as sleep inversion, sleepiness during the day and wakefulness at night, can occur. <a href="/wiki/Gelastic" title="Gelastic" class="mw-redirect">Gelastic</a> <a href="/wiki/Cataplexy" title="Cataplexy">cataplexy</a>, the sudden loss of muscle tone when the patient laughs, is also seen.</p>
+<h2><span class="mw-headline" id="Cause_and_genetics">Cause and genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=2" title="Edit section: Cause and genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Autosomal_recessive_-_en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/220px-Autosomal_recessive_-_en.svg.png" width="220" height="391" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/330px-Autosomal_recessive_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Autosomal_recessive_-_en.svg/440px-Autosomal_recessive_-_en.svg.png 2x" data-file-width="744" data-file-height="1323" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Autosomal_recessive_-_en.svg" class="internal" title="Enlarge"></a></div>
+Niemann–Pick disease has an autosomal recessive pattern of inheritance.</div>
+</div>
+</div>
+<p>Mutations in the <i><a href="/wiki/SMPD1" title="SMPD1" class="mw-redirect">SMPD1</a></i> <a href="/wiki/Gene" title="Gene">gene</a> cause Niemann–Pick disease types A and B. They stop the body from making an enzyme, acid sphingomyelinase, that breaks down lipids.<sup id="cite_ref-ghr_3-0" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Mutations in <i><a href="/wiki/NPC1" title="NPC1">NPC1</a></i> or <i><a href="/wiki/NPC2" title="NPC2" class="mw-redirect">NPC2</a></i> cause <a href="/wiki/Niemann%E2%80%93Pick_disease,_type_C" title="Niemann–Pick disease, type C">Niemann–Pick disease, type C</a> (NPC), which affects a protein used to transport lipids.<sup id="cite_ref-ghr_3-1" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>Type D was originally separated from type C to delineate a group of patients with otherwise identical disorders who shared a common <a href="/wiki/Nova_Scotia" title="Nova Scotia">Nova Scotian</a> ancestry. Patients in this group are known to share a specific mutation in the <i>NPC1</i> gene, so NPC is used for both groups. Before the molecular defects were described, the terms "Niemann–Pick type I" and "Niemann–Pick type II" were proposed to separate the high- and low-sphingomyelin forms of the disease in the early 1980s.</p>
+<p>Niemann–Pick disease is inherited in an <a href="/wiki/Autosomal_recessive" title="Autosomal recessive" class="mw-redirect">autosomal recessive</a> pattern, which means both copies, or <a href="/wiki/Allele" title="Allele">alleles</a>, of the gene must be defective to cause the disease. "Defective" means they are altered in a way that impairs their function. Most often, the parents of a child with an autosomal recessive disorder are carriers: they have one copy of the altered gene, but are not affected because the other copy produces the enzyme. If both parents are carriers, each pregnancy has a 25% chance of producing an affected child. <a href="/wiki/Genetic_counseling" title="Genetic counseling">Genetic counseling</a> and <a href="/wiki/Genetic_testing" title="Genetic testing">genetic testing</a> are recommended for families who may be carriers of Niemann–Pick.</p>
+<h3><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=3" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Niemann%E2%80%93Pick_disease,_SMPD1-associated" title="Niemann–Pick disease, SMPD1-associated">Niemann–Pick disease, SMPD1-associated</a>, which includes types A and B</li>
+</ul>
+<dl>
+<dd>
+<ul>
+<li>Niemann–Pick disease type A: classic infantile</li>
+<li>Niemann–Pick disease type B: visceral</li>
+</ul>
+</dd>
+</dl>
+<ul>
+<li><a href="/wiki/Niemann%E2%80%93Pick_disease,_type_C" title="Niemann–Pick disease, type C">Niemann–Pick disease, type C</a>: subacute/juvenile, includes types C1 (95% of type C) and C2. Type C is the most common form of the disease<sup id="cite_ref-ghr_3-2" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup> Type C2 is a rare form of the disease.<sup id="cite_ref-Curto-background_4-0" class="reference"><a href="#cite_note-Curto-background-4"><span>[</span>4<span>]</span></a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Incidence">Incidence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=4" title="Edit section: Incidence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Incidence_(epidemiology)" title="Incidence (epidemiology)">incidence</a> among <a href="/wiki/Ashkenazi_Jews" title="Ashkenazi Jews">Ashkenazi Jews</a> is estimated to be about one in 40,000 for type A of Niemann–Pick disease.<sup id="cite_ref-ghr_3-3" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup> The incidence of both Niemann–Pick disease types A and B in all other populations is estimated to be one in 250,000.<sup id="cite_ref-ghr_3-4" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup> The incidence of Niemann–Pick disease type C is estimated to be one in 150,000.<sup id="cite_ref-ghr_3-5" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Pathophysiology">Pathophysiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=5" title="Edit section: Pathophysiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Niemann–Pick diseases are a subgroup of <a href="/wiki/Lipid_storage_disorder" title="Lipid storage disorder">lipid storage disorders</a> called <a href="/wiki/Sphingolipidoses" title="Sphingolipidoses">sphingolipidoses</a> in which harmful quantities of fatty substances, or <a href="/wiki/Lipid" title="Lipid">lipids</a>, accumulate in the <a href="/wiki/Spleen" title="Spleen">spleen</a>, <a href="/wiki/Liver" title="Liver">liver</a>, <a href="/wiki/Human_lung" title="Human lung">lungs</a>, <a href="/wiki/Bone_marrow" title="Bone marrow">bone marrow</a>, and <a href="/wiki/Human_brain" title="Human brain">brain</a>.</p>
+<p>In the classic infantile type-A variant, a <a href="/wiki/Missense_mutation" title="Missense mutation">missense mutation</a> causes complete deficiency of <a href="/wiki/Sphingomyelinase" title="Sphingomyelinase" class="mw-redirect">sphingomyelinase</a>. Sphingomyelin is a component of cell membrane including the organellar membrane, so the enzyme deficiency blocks degradation of lipid, resulting in the accumulation of sphingomyelin within lysosomes in the macrophage-monocyte phagocyte lineage. Affected cells become enlarged, sometimes up to 90 μm in diameter, secondary to the distention of lysosomes with sphingomyelin and cholesterol. Histology shows lipid-laden macrophages in the marrow and "sea-blue histiocytes" on pathology. Numerous small vacuoles of relatively uniform size are created, giving the cytoplasm a foamy appearance.</p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=6" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>No specific treatment is known for type A, but symptoms are treated.</p>
+<p>In adult patients with type B, physicians try to keep cholesterol levels down to normal levels. If statins are used, they monitor liver function. If the spleen is enlarged and platelet levels low, acute episodes of bleeding may require transfusions of blood products. If they have symptoms of interstitial lung disease, they may need oxygen.<sup id="cite_ref-Curto-treatment_5-0" class="reference"><a href="#cite_note-Curto-treatment-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Anecdotally, organ transplant has been attempted with limited success. Future prospects include enzyme replacement and gene therapy. Bone marrow transplant has been tried for type B.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="no mention of these therapies in supplied reference (June 2013)">citation needed</span></a></i>]</sup></p>
+<p>In January 2009, <a href="/wiki/Actelion" title="Actelion">Actelion</a> announced the drug <a href="/wiki/Miglustat" title="Miglustat">miglustat</a> (Zavesca) had been approved in the European Union for the treatment of progressive neurological manifestations in adult patients and pediatric patients with NPC. The drug is available to patients in the United States on an experimental basis. In March 2010, the FDA requested additional preclinical and clinical information regarding Zavesca from Actelion before making a final decision on approving the drug in the United States for NPC. <sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h3><span class="mw-headline" id="Experimental_use_of_2-hydroxypropyl-.CE.B2-cyclodextrin">Experimental use of 2-hydroxypropyl-β-cyclodextrin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=7" title="Edit section: Experimental use of 2-hydroxypropyl-β-cyclodextrin">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Researchers at the <a href="/wiki/University_of_Texas_Southwestern_Medical_Center" title="University of Texas Southwestern Medical Center">University of Texas Southwestern Medical Center</a> found, when Niemann–Pick type C mice were injected with 2-hydroxypropyl-β-cyclodextrin (HPbCD) when they were 7 days old, marked improvement in liver function tests, much less neurodegeneration, and, ultimately, significant prolongation of life occurred. These results suggest HPbCD acutely reverses the storage defect seen in NPC.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>In April 2009, the FDA approved investigational new drug (IND) applications for eight-year-old identical twins, Addison and Cassidy Hempel of Reno, Nevada, to receive <a href="/wiki/Intravenous" title="Intravenous" class="mw-redirect">intravenous</a> infusions of HPbCD. The twins are the first in the United States to receive experimental treatment at Renown Regional Medical Center in Nevada. The twins received HPbCD, 2500&#160;mg/kg, administered as an eight-hour infusion, twice weekly.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="no reference in the whole paragraph (June 2013)">citation needed</span></a></i>]</sup></p>
+<p>In February 2010, the parents of the twins with the support of <a href="/wiki/Children%27s_Hospital_Oakland" title="Children's Hospital Oakland">Children's Hospital Oakland</a>, filed an <a href="/wiki/Orphan_drug" title="Orphan drug">orphan drug</a> application with the Office of Orphan Product Development at the FDA for Trappsol brand HPbCD for the treatment of NPC. On May 17, 2010, the FDA granted HPbCD orphan drug status and designated it as a promising treatment for NPC.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="no reference in the whole paragraph (June 2013)">citation needed</span></a></i>]</sup></p>
+<p>On July 14, 2010, Children's Hospital Oakland filed IND applications<sup id="cite_ref-fda_8-0" class="reference"><a href="#cite_note-fda-8"><span>[</span>8<span>]</span></a></sup> with the FDA on behalf of the Hempel twins, based on promising new animal data. Physicians proposed to deliver hydroxy-propyl-beta-cyclodextrin intrathecally and directly into the <a href="/wiki/Central_nervous_system" title="Central nervous system">central nervous system</a> of the twins in an attempt to deliver the compound across the <a href="/wiki/Blood%E2%80%93brain_barrier" title="Blood–brain barrier">blood–brain barrier</a> and arrest neurodegeneration. The drug was to be administered twice per month and dosing would start at 175&#160;mg (1 mM) and would be increased steadily to reach 875&#160;mg (5 mM) by day 60.<sup id="cite_ref-addi1_9-0" class="reference"><a href="#cite_note-addi1-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>The INDs were approved on September 23, 2010, and bimonthly <a href="/wiki/Intrathecal" title="Intrathecal" class="mw-redirect">intrathecal</a> injections of HPbCD into the spine were administered starting in October 2010. Additional filings have been made to the FDA by Children's Hospital Research Center Oakland requesting approval to surgically implant Medtronic SynchroMed pumps into the twins to deliver continuous doses of HPbCD into their brains.<sup id="cite_ref-addi2_10-0" class="reference"><a href="#cite_note-addi2-10"><span>[</span>10<span>]</span></a></sup></p>
+<p>In April 2011, the U.S. <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a> (NIH), in collaboration with the Therapeutics for Rare and Neglected Diseases Program (TRND),<sup id="cite_ref-nih1_11-0" class="reference"><a href="#cite_note-nih1-11"><span>[</span>11<span>]</span></a></sup> announced they are developing a <a href="/wiki/Clinical_trial" title="Clinical trial">clinical trial</a> using HPbCD for Niemann–Pick type C patients. The clinical trial is in the planning phase, not yet approved by the FDA.<sup id="cite_ref-addi3_12-0" class="reference"><a href="#cite_note-addi3-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>On September 20, 2011, the <a href="/wiki/European_Medicines_Agency" title="European Medicines Agency">European Medicines Agency</a> granted HPbCD orphan drug status and designated the compound as a potential treatment for Niemann–Pick type C disease.</p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=8" title="Edit section: Prognosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Type A Niemann–Pick disease (about 85% of cases)<sup id="cite_ref-schwartz2011_13-0" class="reference"><a href="#cite_note-schwartz2011-13"><span>[</span>13<span>]</span></a></sup> has an extremely poor prognosis, with most cases being fatal by the age of 18 months.<sup id="cite_ref-nih2_14-0" class="reference"><a href="#cite_note-nih2-14"><span>[</span>14<span>]</span></a></sup> Type B (adult onset) and type C (mutation affecting a different molecule) Niemann–Pick diseases have a better prognosis.<sup id="cite_ref-ghr_3-6" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=9" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Albert_Niemann_(paediatrician)" title="Albert Niemann (paediatrician)" class="mw-redirect">Albert Niemann</a> published the first description of what is now known as Niemann–Pick disease, type A, in 1914. <a href="/wiki/Ludwig_Pick" title="Ludwig Pick">Ludwig Pick</a> described the pathology of the disease in a series of papers in the 1930s.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></p>
+<p>In 1961, the classification of Niemann–Pick disease into types A, B, and C was introduced, and also contained a type D,<sup id="cite_ref-pmid13696518_18-0" class="reference"><a href="#cite_note-pmid13696518-18"><span>[</span>18<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup> also called the "Nova Scotian type". Genetic studies showed that type D is caused by the same gene as type C1, and the type D designation is no longer used.<sup id="cite_ref-ghr_3-7" class="reference"><a href="#cite_note-ghr-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Research_directions">Research directions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=10" title="Edit section: Research directions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Loss of <a href="/wiki/Myelin" title="Myelin">myelin</a> in the central nervous system is considered to be a main pathogenic factor. Research uses animal models carrying the underlying mutation for Niemann–Pick disease, e.g. a mutation in the <i>NPC1</i> gene as seen in Niemann-Pick type C disease. In this model, the expression of <a href="/wiki/Myelin_gene_regulatory_factor" title="Myelin gene regulatory factor" class="mw-redirect">myelin gene regulatory factor</a> (MRF) has been shown to be significantly decreased.<sup id="cite_ref-yan_20-0" class="reference"><a href="#cite_note-yan-20"><span>[</span>20<span>]</span></a></sup> MRF is a <a href="/wiki/Transcription_factor" title="Transcription factor">transcription factor</a> of critical importance in the development and maintenance of <a href="/wiki/Myelin_sheath" title="Myelin sheath" class="mw-redirect">myelin sheaths</a>.<sup id="cite_ref-koenning_21-0" class="reference"><a href="#cite_note-koenning-21"><span>[</span>21<span>]</span></a></sup> A perturbation of oligodendrocyte maturation and the myelination process might, therefore, be an underlying mechanism of the neurological deficits.<sup id="cite_ref-yan_20-1" class="reference"><a href="#cite_note-yan-20"><span>[</span>20<span>]</span></a></sup></p>
+<p>In 2011, <a href="/wiki/Fibroblast" title="Fibroblast">fibroblast</a> cells derived from patients with Niemann-Pick type C1 disease were shown to be resistant to <a href="/wiki/Ebola_virus" title="Ebola virus">Ebola virus</a> because of mutations in the NPC1 protein, which is needed for viral escape from the vesicular compartment.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup>Other studies have unturned small molecules which inhibit the receptor and may be a potential therapeutic strategy<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Niemann%E2%80%93Pick_disease,_type_C" title="Niemann–Pick disease, type C">Niemann–Pick disease, type C</a></li>
+<li><a href="/wiki/Gaucher%27s_disease" title="Gaucher's disease">Gaucher's disease</a></li>
+<li><a href="/wiki/Medical_genetics_of_Ashkenazi_Jews" title="Medical genetics of Ashkenazi Jews" class="mw-redirect">Medical genetics of Ashkenazi Jews</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span id="Reference-OED-Niemann.E2.80.93Pick" class="citation book"><a rel="nofollow" class="external text" href="http://oed.com/search?searchType=dictionary&amp;q=Niemann%E2%80%93Pick">"Niemann–Pick"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (3rd ed.). Oxford University Press. September 2005.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Niemann%E2%80%93Pick&amp;rft.btitle=Oxford+English+Dictionary&amp;rft.date=September+2005&amp;rft.edition=3rd&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Foed.com%2Fsearch%3FsearchType%3Ddictionary%26q%3DNiemann%25E2%2580%2593Pick&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Andrews-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Andrews_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">James, William D.; Berger, Timothy G.; et al. (2006). <i>Andrews' Diseases of the Skin: clinical Dermatology</i>. Saunders Elsevier. p.&#160;536. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7216-2921-0" title="Special:BookSources/0-7216-2921-0">0-7216-2921-0</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.au=James%2C+William+D.%3B+Berger%2C+Timothy+G.%3B&amp;rft.aulast=James%2C+William+D.%3B+Berger%2C+Timothy+G.%3B&amp;rft.btitle=Andrews%27+Diseases+of+the+Skin%3A+clinical+Dermatology&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-7216-2921-0&amp;rft.pages=536&amp;rft.pub=Saunders+Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-ghr-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-ghr_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ghr_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ghr_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ghr_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ghr_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ghr_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-ghr_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-ghr_3-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://ghr.nlm.nih.gov/condition/niemann-pick-disease">"Neimann-Pick Disease"</a>. <i>Genetics Home Reference</i>. NIH. January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2 October</span> 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Neimann-Pick+Disease&amp;rft.date=January+2008&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fghr.nlm.nih.gov%2Fcondition%2Fniemann-pick-disease&amp;rft.jtitle=Genetics+Home+Reference&amp;rft.pub=NIH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Curto-background-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Curto-background_4-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://emedicine.medscape.com/article/951564-overview">"Sphingomyelinase Deficiency Treatment &amp; Management"</a>. <i>Medscape Reference: Drugs, Diseases &amp; Procedures</i>. 27 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Background&amp;rft.btitle=Sphingomyelinase+Deficiency+Treatment+%26+Management&amp;rft.date=27+December+2012&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Femedicine.medscape.com%2Farticle%2F951564-overview&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|first1=</code> missing <code style="color:inherit; border:inherit; padding:inherit;">|last1=</code> in Authors list (<a href="/wiki/Help:CS1_errors#first_missing_last" title="Help:CS1 errors">help</a>);</span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Curto-treatment-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Curto-treatment_5-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://emedicine.medscape.com/article/951564-treatment">"Sphingomyelinase Deficiency Treatment &amp; Management"</a>. <i>Medscape Reference: Drugs, Diseases &amp; Procedures</i>. 27 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Medical+Care&amp;rft.btitle=Sphingomyelinase+Deficiency+Treatment+%26+Management&amp;rft.date=27+December+2012&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Femedicine.medscape.com%2Farticle%2F951564-treatment&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|first1=</code> missing <code style="color:inherit; border:inherit; padding:inherit;">|last1=</code> in Authors list (<a href="/wiki/Help:CS1_errors#first_missing_last" title="Help:CS1 errors">help</a>);</span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|chapter=</code> ignored (<a href="/wiki/Help:CS1_errors#chapter_ignored" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.drugs.com/nda/actelion-pharmaceuticals-ltd-ch-actelion-receives-fda-complete-response-letter-zavesca-miglustat-2828.html">Actelion Press Release retrieved 10-31-2014</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation journal">Liu, Benny et al. (2009). "Reversal of defective lysosomal transport in NPC disease ameliorates liver dysfunction and neurodegeneration in the <i>npc1−/−</i> mouse". <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>106</b> (7): 2377–82. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1073%2Fpnas.0810895106">10.1073/pnas.0810895106</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Reversal+of+defective+lysosomal+transport+in+NPC+disease+ameliorates+liver+dysfunction+and+neurodegeneration+in+the+npc1%E2%88%92%2F%E2%88%92+mouse&amp;rft.aufirst=Benny&amp;rft.aulast=Liu&amp;rft.au=Liu%2C+Benny&amp;rft.date=2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0810895106&amp;rft.issue=7&amp;rft.jtitle=Proc.+Natl.+Acad.+Sci.+U.S.A.&amp;rft.pages=2377-82&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=106" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span> Cited in <a href="/wiki/Chemical_%26_Engineering_News" title="Chemical &amp; Engineering News">Chemical &amp; Engineering News</a>, 9 February 2009 p. 9</span></li>
+<li id="cite_note-fda-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-fda_8-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.fda.gov/drugs/developmentapprovalprocess/howdrugsaredevelopedandapproved/approvalapplications/investigationalnewdrugindapplication/default.htm">"Investigational New Drug"</a>. U.S. Food and Drug Administration.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.btitle=Investigational+New+Drug&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fda.gov%2Fdrugs%2Fdevelopmentapprovalprocess%2Fhowdrugsaredevelopedandapproved%2Fapprovalapplications%2Finvestigationalnewdrugindapplication%2Fdefault.htm&amp;rft.pub=U.S.+Food+and+Drug+Administration&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-addi1-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-addi1_9-0">^</a></b></span> <span class="reference-text"><span class="citation web">Hastings, Caroline (13 August 2010). <a rel="nofollow" class="external text" href="http://addiandcassi.com/wordpress/wp-content/uploads/Hempel-Cyclodextrin-Intrathecal-FDA-Filing-2010-Aug.pdf">"Request for Intrathecal Delivery of HPBCD for Niemann Pick Type C Patients"</a> <span style="font-size:85%;">(PDF)</span>. <i>Addi and Cassi blog</i>. Children's Hospital and Research Center Oakland<span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Request+for+Intrathecal+Delivery+of++HPBCD+for+Niemann+Pick+Type+C+Patients&amp;rft.aufirst=Caroline&amp;rft.au=Hastings%2C+Caroline&amp;rft.aulast=Hastings&amp;rft.date=13+August+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Faddiandcassi.com%2Fwordpress%2Fwp-content%2Fuploads%2FHempel-Cyclodextrin-Intrathecal-FDA-Filing-2010-Aug.pdf&amp;rft.jtitle=Addi+and+Cassi+blog&amp;rft.pub=Children%27s+Hospital+and+Research+Center+Oakland&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-addi2-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-addi2_10-0">^</a></b></span> <span class="reference-text"><span class="citation web">Hempel, Chris (23 September 2010). <a rel="nofollow" class="external text" href="http://addiandcassi.com/fda-approves-request-cyclodextrin-treatment-niemann-pick-type/">"FDA Approval Received!"</a>. <i>Addi and Cassi blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=FDA+Approval+Received%21&amp;rft.aufirst=Chris&amp;rft.au=Hempel%2C+Chris&amp;rft.aulast=Hempel&amp;rft.date=23+September+2010&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Faddiandcassi.com%2Ffda-approves-request-cyclodextrin-treatment-niemann-pick-type%2F&amp;rft.jtitle=Addi+and+Cassi+blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-nih1-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-nih1_11-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://rarediseases.info.nih.gov/Resources.aspx?PageID=32">"Therapeutics for Rare and Neglected Diseases Program"</a>. U.S. National Institutes of Health.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.btitle=Therapeutics+for+Rare+and+Neglected+Diseases+Program&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frarediseases.info.nih.gov%2FResources.aspx%3FPageID%3D32&amp;rft.pub=U.S.+National+Institutes+of+Health&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-addi3-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-addi3_12-0">^</a></b></span> <span class="reference-text"><span class="citation web">Hempel, Chris (13 April 2011). <a rel="nofollow" class="external text" href="http://addiandcassi.com/niemann-pick-type-treatment-update-fda-filing-requesting-medtronic-synchromed-pump-deliver-cyclodextrin-brain/">"FDA Filing Made Requesting Use of Medtronic SynchroMed Pump To Deliver Cyclodextrin To Brain"</a>. <i>Addi and Cassi blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 June</span> 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=FDA+Filing+Made+Requesting+Use+of+Medtronic+SynchroMed+Pump+To+Deliver+Cyclodextrin+To+Brain&amp;rft.aufirst=Chris&amp;rft.au=Hempel%2C+Chris&amp;rft.aulast=Hempel&amp;rft.date=13+April+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Faddiandcassi.com%2Fniemann-pick-type-treatment-update-fda-filing-requesting-medtronic-synchromed-pump-deliver-cyclodextrin-brain%2F&amp;rft.jtitle=Addi+and+Cassi+blog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-schwartz2011-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-schwartz2011_13-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://emedicine.medscape.com/article/1114349-overview#a0199">"Dermatologic Manifestations of Niemann–Pick Disease"</a>. Medscape. 25 April 2011.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.btitle=Dermatologic+Manifestations+of+Niemann%E2%80%93Pick+Disease&amp;rft.date=25+April+2011&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Femedicine.medscape.com%2Farticle%2F1114349-overview%23a0199&amp;rft.pub=Medscape&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|first1=</code> missing <code style="color:inherit; border:inherit; padding:inherit;">|last1=</code> in Authors list (<a href="/wiki/Help:CS1_errors#first_missing_last" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-nih2-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-nih2_14-0">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.ninds.nih.gov/disorders/niemann">niemann</a></i> at <a href="/wiki/National_Institute_of_Neurological_Disorders_and_Stroke" title="National Institute of Neurological Disorders and Stroke">NINDS</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://www.whonamedit.com/synd.cfm/1029.html">synd/1029</a></i> at <a href="/wiki/Who_Named_It%3F" title="Who Named It?" class="mw-redirect">Who Named It?</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation journal">Niemann, A. (1914). "Ein unbekanntes Krankheitsbild". <i>Jahrbuch für Kinderheilkunde</i>. Neue Folge (Berlin) <b>79</b>: 1–10.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Ein+unbekanntes+Krankheitsbild&amp;rft.aufirst=A.&amp;rft.aulast=Niemann&amp;rft.au=Niemann%2C+A.&amp;rft.date=1914&amp;rft.genre=article&amp;rft.jtitle=Jahrbuch+f%C3%BCr+Kinderheilkunde&amp;rft.pages=1-10&amp;rft.place=Berlin&amp;rft.series=Neue+Folge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=79" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation journal">Pick, L. (1926). "Der Morbus Gaucher und die ihm ähnlichen Krankheiten (die lipoidzellige Splenohepatomegalie Typus Niemann und die diabetische Lipoidzellenhypoplasie der Milz)". <i>Ergebnisse der Inneren Medizin und Kinderheilkunde</i> (Berlin) <b>29</b>: 519–627.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Der+Morbus+Gaucher+und+die+ihm+%C3%A4hnlichen+Krankheiten+%28die+lipoidzellige+Splenohepatomegalie+Typus+Niemann+und+die+diabetische+Lipoidzellenhypoplasie+der+Milz%29&amp;rft.aufirst=L.&amp;rft.aulast=Pick&amp;rft.au=Pick%2C+L.&amp;rft.date=1926&amp;rft.genre=article&amp;rft.jtitle=Ergebnisse+der+Inneren+Medizin+und+Kinderheilkunde&amp;rft.pages=519-627&amp;rft.place=Berlin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid13696518-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid13696518_18-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Crocker AC (April 1961). "The cerebral defect in Tay–Sachs disease and Niemann–Pick disease". <i>Journal of Neurochemistry</i> <b>7</b>: 69–80. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1111%2Fj.1471-4159.1961.tb13499.x">10.1111/j.1471-4159.1961.tb13499.x</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13696518">13696518</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=The+cerebral+defect+in+Tay%E2%80%93Sachs+disease+and+Niemann%E2%80%93Pick+disease&amp;rft.au=Crocker+AC&amp;rft.aulast=Crocker+AC&amp;rft.date=April+1961&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1471-4159.1961.tb13499.x&amp;rft_id=info%3Apmid%2F13696518&amp;rft.jtitle=Journal+of+Neurochemistry&amp;rft.pages=69-80&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=7" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="/wiki/Mendelian_Inheritance_in_Man" title="Mendelian Inheritance in Man" class="mw-redirect">Online 'Mendelian Inheritance in Man'</a> (OMIM) <a rel="nofollow" class="external text" href="//omim.org/entry/257220">Niemann–Pick Disease, Type C1; NPC1 -257220</a></span></li>
+<li id="cite_note-yan-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-yan_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-yan_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Yan, X.; Lukas, J.; Witt, M.; Wree, A.; Hubner, R.; Frech, M.; Kohling, R.; Rolfs, A.; Luo, J. (2011-09-23). <a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;dopt=Citation&amp;list_uids=21938520">"Decreased expression of myelin gene regulatory factor in Niemann-Pick type C 1 mouse"</a>. <i>Metab Brain Dis</i> <b>26</b> (4): 299–306. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs11011-011-9263-9">10.1007/s11011-011-9263-9</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21938520">21938520</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Decreased+expression+of+myelin+gene+regulatory+factor+in+Niemann-Pick+type+C+1+mouse&amp;rft.aufirst=X.&amp;rft.au=Frech%2C+M.&amp;rft.au=Hubner%2C+R.&amp;rft.au=Kohling%2C+R.&amp;rft.aulast=Yan&amp;rft.au=Lukas%2C+J.&amp;rft.au=Luo%2C+J.&amp;rft.au=Rolfs%2C+A.&amp;rft.au=Witt%2C+M.&amp;rft.au=Wree%2C+A.&amp;rft.au=Yan%2C+X.&amp;rft.date=2011-09-23&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fentrez%2Fquery.fcgi%3Fcmd%3DRetrieve%26db%3DPubMed%26dopt%3DCitation%26list_uids%3D21938520&amp;rft_id=info%3Adoi%2F10.1007%2Fs11011-011-9263-9&amp;rft_id=info%3Apmid%2F21938520&amp;rft.issue=4&amp;rft.jtitle=Metab+Brain+Dis&amp;rft.pages=299-306&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-koenning-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-koenning_21-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Koenning, Matthias; Jackson, Stacey; Hay, Curtis M.; Faux, Clare; Kilpatrick, Trevor J.; Willingham, Melanie; Emery, Ben (September 5, 2012). <a rel="nofollow" class="external text" href="http://www.jneurosci.org/content/32/36/12528.abstract">"Myelin Gene Regulatory Factor Is Required for Maintenance of Myelin and Mature Oligodendrocyte Identity in the Adult CNS"</a>. <i>The Journal of Neuroscience</i> <b>32</b> (36): 12528–12542. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1523%2FJNEUROSCI.1069-12.2012">10.1523/JNEUROSCI.1069-12.2012</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22956843">22956843</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Myelin+Gene+Regulatory+Factor+Is+Required+for+Maintenance+of+Myelin+and+Mature+Oligodendrocyte+Identity+in+the+Adult+CNS&amp;rft.au=Emery%2C+Ben&amp;rft.au=Faux%2C+Clare&amp;rft.aufirst=Matthias&amp;rft.au=Hay%2C+Curtis+M.&amp;rft.au=Jackson%2C+Stacey&amp;rft.au=Kilpatrick%2C+Trevor+J.&amp;rft.au=Koenning%2C+Matthias&amp;rft.aulast=Koenning&amp;rft.au=Willingham%2C+Melanie&amp;rft.date=September+5%2C+2012&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.jneurosci.org%2Fcontent%2F32%2F36%2F12528.abstract&amp;rft_id=info%3Adoi%2F10.1523%2FJNEUROSCI.1069-12.2012&amp;rft_id=info%3Apmid%2F22956843&amp;rft.issue=36&amp;rft.jtitle=The+Journal+of+Neuroscience&amp;rft.pages=12528-12542&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=32" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation journal">Carette JE, Raaben M, Wong AC et al. (September 2011). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3175325">"Ebola virus entry requires the cholesterol transporter Niemann-Pick C1"</a>. <i>Nature</i> <b>477</b> (7364): 340–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature10348">10.1038/nature10348</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3175325">3175325</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21866103">21866103</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Ebola+virus+entry+requires+the+cholesterol+transporter+Niemann-Pick+C1&amp;rft.au=Carette+JE%2C+Raaben+M%2C+Wong+AC&amp;rft.aulast=Carette+JE%2C+Raaben+M%2C+Wong+AC&amp;rft.date=September+2011&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3175325&amp;rft_id=info%3Adoi%2F10.1038%2Fnature10348&amp;rft_id=info%3Apmc%2F3175325&amp;rft_id=info%3Apmid%2F21866103&amp;rft.issue=7364&amp;rft.jtitle=Nature&amp;rft.pages=340-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=477" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation journal">Côté, Marceline; Misasi, John; Ren, Tao; Bruchez, Anna; Lee, Kyungae; Filone, Claire Marie; Hensley, Lisa; Li, Qi; Ory, Daniel; Chandran, Kartik; Cunningham, James (24 August 2011). "Small molecule inhibitors reveal Niemann–Pick C1 is essential for Ebola virus infection". <i>Nature</i> <b>477</b> (7364): 344–348. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fnature10380">10.1038/nature10380</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANiemann%E2%80%93Pick+disease&amp;rft.atitle=Small+molecule+inhibitors+reveal+Niemann%E2%80%93Pick+C1+is+essential+for+Ebola+virus+infection&amp;rft.au=Bruchez%2C+Anna&amp;rft.au=C%C3%B4t%C3%A9%2C+Marceline&amp;rft.au=Chandran%2C+Kartik&amp;rft.au=Cunningham%2C+James&amp;rft.au=Filone%2C+Claire+Marie&amp;rft.aufirst=Marceline&amp;rft.au=Hensley%2C+Lisa&amp;rft.aulast=C%C3%B4t%C3%A9&amp;rft.au=Lee%2C+Kyungae&amp;rft.au=Li%2C+Qi&amp;rft.au=Misasi%2C+John&amp;rft.au=Ory%2C+Daniel&amp;rft.au=Ren%2C+Tao&amp;rft.date=24+August+2011&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fnature10380&amp;rft.issue=7364&amp;rft.jtitle=Nature&amp;rft.pages=344-348&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=477" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:Niemann%E2%80%93Pick_disease" class="extiw" title="commons:Category:Niemann–Pick disease">Niemann–Pick disease</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><i><a rel="nofollow" class="external text" href="http://www.ninds.nih.gov/disorders/niemann">niemann</a></i> at <a href="/wiki/National_Institute_of_Neurological_Disorders_and_Stroke" title="National Institute of Neurological Disorders and Stroke">NINDS</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nnpdf.org/">National Niemann–Pick Disease Foundation (U.S.)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.parseghian.org/">Ara Parseghian Medical Research Foundation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.niemannpick.org.uk/">Niemann–Pick Disease Group (UK)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.nnpdf.ca//">Niemann–Pick Disease Group Canada</a></li>
+<li>Clinical trial number <i><a rel="nofollow" class="external text" href="http://www.clinicaltrials.gov/show/NCT00344331">NCT00344331</a></i> for "Evaluation of Biochemical Markers and Clinical Investigation of Niemann-Pick Disease, Type C" at <a href="/wiki/ClinicalTrials.gov" title="ClinicalTrials.gov">ClinicalTrials.gov</a></li>
+<li><a rel="nofollow" class="external text" href="http://ghr.nlm.nih.gov/condition=niemannpickdisease/">Genetics Home Reference on Niemann–Pick Disease</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hideandseek.org//">Hide &amp; Seek Foundation for Lysosomal Disease Research</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.niemann-pick-c.com//">Detailed information about Niemann–Pick Type C for patients and Healthcare Professionals</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.humpath.com/spip.php?article7983">Pathology images and digital slides</a> (HP:7983)</li>
+</ul>
+<ul>
+<li><i>This article incorporates public domain text from <a rel="nofollow" class="external text" href="http://ghr.nlm.nih.gov">The U.S. National Library of Medicine</a></i></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lipid_storage_disorders" title="Template:Lipid storage disorders"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lipid_storage_disorders" title="Template talk:Lipid storage disorders"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lipid_storage_disorders&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">(<a href="/wiki/Lysosomal_storage_disease" title="Lysosomal storage disease">LSD</a>) <a href="/wiki/Inborn_error_of_metabolism" title="Inborn error of metabolism">Inborn error</a> of <a href="/wiki/Inborn_error_of_lipid_metabolism" title="Inborn error of lipid metabolism">lipid metabolism</a>: <a href="/wiki/Lipid_storage_disorder" title="Lipid storage disorder">lipid storage disorders</a> (<a href="/wiki/ICD-10_Chapter_IV:_Endocrine,_nutritional_and_metabolic_diseases#.28E75.29_Lipids" title="ICD-10 Chapter IV: Endocrine, nutritional and metabolic diseases">E75</a>, <a href="/wiki/List_of_ICD-9_codes_240%E2%80%93279:_endocrine,_nutritional_and_metabolic_diseases,_and_immunity_disorders#Other_metabolic_and_immunity_disorders_.28270.E2.80.93279.29" title="List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders">272.7–272.8</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sphingolipidoses" title="Sphingolipidoses">Sphingolipidoses</a><br />
+(to <a href="/wiki/Ceramide" title="Ceramide">ceramide</a>)</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">From <a href="/wiki/Ganglioside" title="Ganglioside">ganglioside</a><br />
+(<a href="/wiki/Gangliosidosis" title="Gangliosidosis">gangliosidoses</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ganglioside" title="Ganglioside">Ganglioside</a>: <a href="/wiki/GM1_gangliosidoses" title="GM1 gangliosidoses">GM1 gangliosidoses</a></li>
+<li><a href="/wiki/GM2_gangliosidoses" title="GM2 gangliosidoses">GM2 gangliosidoses</a> (<a href="/wiki/Sandhoff_disease" title="Sandhoff disease">Sandhoff disease</a></li>
+<li><a href="/wiki/Tay%E2%80%93Sachs_disease" title="Tay–Sachs disease">Tay–Sachs disease</a></li>
+<li><a href="/wiki/GM2-gangliosidosis,_AB_variant" title="GM2-gangliosidosis, AB variant">AB variant</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">From <a href="/wiki/Globoside" title="Globoside">globoside</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Globotriaosylceramide" title="Globotriaosylceramide">Globotriaosylceramide</a>: <a href="/wiki/Fabry_disease" title="Fabry disease">Fabry's disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">From <a href="/wiki/Sphingomyelin" title="Sphingomyelin">sphingomyelin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sphingomyelin" title="Sphingomyelin">Sphingomyelin</a>: <i>phospholipid:</i> <strong class="selflink">Niemann–Pick disease</strong> (<a href="/wiki/Niemann%E2%80%93Pick_disease,_SMPD1-associated" title="Niemann–Pick disease, SMPD1-associated">SMPD1-associated</a></li>
+<li><a href="/wiki/Niemann%E2%80%93Pick_disease,_type_C" title="Niemann–Pick disease, type C">type C</a>)</li>
+<li><a href="/wiki/Glucocerebroside" title="Glucocerebroside">Glucocerebroside</a>: <a href="/wiki/Gaucher%27s_disease" title="Gaucher's disease">Gaucher's disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">From <a href="/wiki/Sulfatide" title="Sulfatide">sulfatide</a><br />
+(<a href="/wiki/Sulfatidosis" title="Sulfatidosis">sulfatidoses</a>
+<ul>
+<li><a href="/wiki/Leukodystrophy" title="Leukodystrophy">leukodystrophy</a>)</li>
+</ul>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sulfatide" title="Sulfatide">Sulfatide</a>: <a href="/wiki/Metachromatic_leukodystrophy" title="Metachromatic leukodystrophy">Metachromatic leukodystrophy</a></li>
+<li><a href="/wiki/Multiple_sulfatase_deficiency" title="Multiple sulfatase deficiency">Multiple sulfatase deficiency</a></li>
+<li><a href="/wiki/Galactocerebroside" title="Galactocerebroside">Galactocerebroside</a>: <a href="/wiki/Krabbe_disease" title="Krabbe disease">Krabbe disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">To <a href="/wiki/Sphingosine" title="Sphingosine">sphingosine</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ceramide" title="Ceramide">Ceramide</a>: <a href="/wiki/Farber_disease" title="Farber disease">Farber disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Neuronal_ceroid_lipofuscinosis" title="Neuronal ceroid lipofuscinosis">NCL</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Infantile_neuronal_ceroid_lipofuscinosis" title="Infantile neuronal ceroid lipofuscinosis">Infantile</a></li>
+<li><a href="/wiki/Jansky%E2%80%93Bielschowsky_disease" title="Jansky–Bielschowsky disease">Jansky–Bielschowsky disease</a></li>
+<li><a href="/wiki/Batten_disease" title="Batten disease">Batten disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cerebrotendineous_xanthomatosis" title="Cerebrotendineous xanthomatosis">Cerebrotendineous xanthomatosis</a></li>
+<li><a href="/wiki/Cholesteryl_ester_storage_disease" title="Cholesteryl ester storage disease">Cholesteryl ester storage disease</a> (<a href="/wiki/Lysosomal_acid_lipase_deficiency" title="Lysosomal acid lipase deficiency">Lysosomal acid lipase deficiency</a>/<a href="/wiki/Wolman_disease" title="Wolman disease">Wolman disease</a>)</li>
+<li><a href="/wiki/Sea-blue_histiocytosis" title="Sea-blue histiocytosis">Sea-blue histiocytosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metabolic_navs" title="Template:Metabolic navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metabolic_navs" title="Template talk:Metabolic navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metabolic_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Inborn_error_of_metabolism" title="Inborn error of metabolism">inborn errors of metabolism</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Metabolism" title="Template:Metabolism">Metabolism</a></li>
+<li>Enzymes and pathways: <a href="/wiki/Template:Citric_acid_cycle" title="Template:Citric acid cycle">citric acid cycle</a>
+<ul>
+<li><a href="/wiki/Template:Citric_acid_cycle_enzymes_and_ETC" title="Template:Citric acid cycle enzymes and ETC">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_enzymes" title="Template:Pentose phosphate pathway enzymes">pentose phosphate</a>
+<ul>
+<li><a href="/wiki/Template:Pentose_phosphate_pathway_intermediates" title="Template:Pentose phosphate pathway intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycoproteins" title="Template:Glycoproteins">glycoproteins</a>
+<ul>
+<li><a href="/wiki/Template:Glycoprotein_metabolism_enzymes" title="Template:Glycoprotein metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Glycosaminoglycans" title="Template:Glycosaminoglycans">glycosaminoglycans</a>
+<ul>
+<li><a href="/wiki/Template:Proteoglycan_metabolism_enzymes" title="Template:Proteoglycan metabolism enzymes">proteoglycan enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Phospholipids" title="Template:Phospholipids">phospholipid</a>
+<ul>
+<li><a href="/wiki/Template:Phospholipid_metabolism" title="Template:Phospholipid metabolism">metabolism</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_metabolism_enzymes" title="Template:Cholesterol and steroid metabolism enzymes">cholesterol and steroid</a>
+<ul>
+<li><a href="/wiki/Template:Cholesterol_and_steroid_intermediates" title="Template:Cholesterol and steroid intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Sphingolipids" title="Template:Sphingolipids">sphingolipids</a>
+<ul>
+<li><a href="/wiki/Template:Glycolipid/sphingolipid_metabolism_enzymes" title="Template:Glycolipid/sphingolipid metabolism enzymes" class="mw-redirect">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Eicosanoids" title="Template:Eicosanoids">eicosanoids</a>
+<ul>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_enzymes" title="Template:Eicosanoid metabolism enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Amino_acid_metabolism_enzymes" title="Template:Amino acid metabolism enzymes">amino acid</a>
+<ul>
+<li><a href="/wiki/Template:Amino_acid_metabolism_intermediates" title="Template:Amino acid metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Urea_cycle" title="Template:Urea cycle">urea cycle</a>
+<ul>
+<li><a href="/wiki/Template:Urea_cycle_enzymes" title="Template:Urea cycle enzymes">enzymes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Nucleotide_metabolism_enzymes" title="Template:Nucleotide metabolism enzymes">nucleotide</a>
+<ul>
+<li><a href="/wiki/Template:Nucleotide_metabolism_intermediates" title="Template:Nucleotide metabolism intermediates">intermediates</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disorders</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Disorders_of_TCA_and_ETC" title="Template:Disorders of TCA and ETC">Citric acid cycle and electron transport chain</a></li>
+<li><a href="/wiki/Template:Glycoprotein_disorders" title="Template:Glycoprotein disorders">Glycoprotein</a></li>
+<li><a href="/wiki/Template:Proteoglycan_disorders" title="Template:Proteoglycan disorders">Proteoglycan</a></li>
+<li><a href="/wiki/Template:Fatty-acid_metabolism_disorders" title="Template:Fatty-acid metabolism disorders">Fatty-acid</a></li>
+<li><a href="/wiki/Template:Phospholipid_metabolism_disorders" title="Template:Phospholipid metabolism disorders">Phospholipid</a></li>
+<li><a href="/wiki/Template:Defects_of_cholesterol_and_steroid_metabolism" title="Template:Defects of cholesterol and steroid metabolism">Cholesterol and steroid</a></li>
+<li><a href="/wiki/Template:Eicosanoid_metabolism_disorders" title="Template:Eicosanoid metabolism disorders">Eicosanoid</a></li>
+<li><a href="/wiki/Template:Amino_acid_metabolic_pathology" title="Template:Amino acid metabolic pathology">Amino acid</a></li>
+<li><a href="/wiki/Template:Inborn_errors_of_purine-pyrimidine_metabolism" title="Template:Inborn errors of purine-pyrimidine metabolism">Purine-pyrimidine</a></li>
+<li><a href="/wiki/Template:Heme_metabolism_disorders" title="Template:Heme metabolism disorders">Heme metabolism</a></li>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_endocrinology,_nutrition,_and_metabolism" title="Template:Eponymous medical signs for endocrinology, nutrition, and metabolism">Symptoms and signs</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Other_alimentary_tract_and_metabolism_products" title="Template:Other alimentary tract and metabolism products">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Histiocytosis" title="Template:Histiocytosis"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Histiocytosis" title="Template talk:Histiocytosis"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Histiocytosis&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Histiocytosis" title="Histiocytosis">Histiocytosis</a> (<a href="/wiki/ICD-10_Chapter_III:_Diseases_of_the_blood_and_blood-forming_organs,_and_certain_disorders_involving_the_immune_mechanism#.28D70.E2.80.93D77.29_Other_diseases_of_blood_and_blood-forming_organs" title="ICD-10 Chapter III: Diseases of the blood and blood-forming organs, and certain disorders involving the immune mechanism">D76.0</a>, <a href="/wiki/List_of_ICD-9_codes_240%E2%80%93279:_endocrine,_nutritional_and_metabolic_diseases,_and_immunity_disorders#Other_metabolic_and_immunity_disorders_.28270.E2.80.93279.29" title="List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders">277.89</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">WHO-I/<a href="/wiki/Langerhans_cell_histiocytosis" title="Langerhans cell histiocytosis">Langerhans cell histiocytosis</a>/<br />
+<a href="/wiki/X-type_histiocytosis" title="X-type histiocytosis">X-type histiocytosis</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Letterer%E2%80%93Siwe_disease" title="Letterer–Siwe disease">Letterer–Siwe disease</a></li>
+<li><a href="/wiki/Hand%E2%80%93Sch%C3%BCller%E2%80%93Christian_disease" title="Hand–Schüller–Christian disease">Hand–Schüller–Christian disease</a></li>
+<li><a href="/wiki/Eosinophilic_granuloma" title="Eosinophilic granuloma">Eosinophilic granuloma</a></li>
+<li><a href="/wiki/Congenital_self-healing_reticulohistiocytosis" title="Congenital self-healing reticulohistiocytosis">Congenital self-healing reticulohistiocytosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">WHO-II/<a href="/wiki/Non-Langerhans_cell_histiocytosis" title="Non-Langerhans cell histiocytosis">non-Langerhans cell histiocytosis</a>/<br />
+<a href="/wiki/Non-X_histiocytosis" title="Non-X histiocytosis">Non-X histiocytosis</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Juvenile_xanthogranuloma" title="Juvenile xanthogranuloma">Juvenile xanthogranuloma</a></li>
+<li><a href="/wiki/Hemophagocytic_lymphohistiocytosis" title="Hemophagocytic lymphohistiocytosis">Hemophagocytic lymphohistiocytosis</a></li>
+<li><a href="/wiki/Erdheim%E2%80%93Chester_disease" title="Erdheim–Chester disease">Erdheim-Chester disease</a></li>
+<li><a href="/wiki/Niemann-Pick_disease" title="Niemann-Pick disease" class="mw-redirect">Niemann-Pick disease</a></li>
+<li><a href="/w/index.php?title=Sea-blue_histiocyte&amp;action=edit&amp;redlink=1" class="new" title="Sea-blue histiocyte (page does not exist)">Sea-blue histiocyte</a></li>
+<li><a href="/wiki/Benign_cephalic_histiocytosis" title="Benign cephalic histiocytosis">Benign cephalic histiocytosis</a></li>
+<li><a href="/wiki/Generalized_eruptive_histiocytoma" title="Generalized eruptive histiocytoma">Generalized eruptive histiocytoma</a></li>
+<li><a href="/wiki/Xanthoma_disseminatum" title="Xanthoma disseminatum">Xanthoma disseminatum</a></li>
+<li><a href="/wiki/Progressive_nodular_histiocytosis" title="Progressive nodular histiocytosis">Progressive nodular histiocytosis</a></li>
+<li><a href="/wiki/Papular_xanthoma" title="Papular xanthoma">Papular xanthoma</a></li>
+<li><a href="/wiki/Hereditary_progressive_mucinous_histiocytosis" title="Hereditary progressive mucinous histiocytosis">Hereditary progressive mucinous histiocytosis</a></li>
+<li><a href="/wiki/Reticulohistiocytosis" title="Reticulohistiocytosis">Reticulohistiocytosis</a> (<a href="/wiki/Multicentric_reticulohistiocytosis" title="Multicentric reticulohistiocytosis">Multicentric reticulohistiocytosis</a>, <a href="/wiki/Reticulohistiocytoma" title="Reticulohistiocytoma">Reticulohistiocytoma</a>)</li>
+<li><a href="/wiki/Indeterminate_cell_histiocytosis" title="Indeterminate cell histiocytosis">Indeterminate cell histiocytosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">WHO-III/<a href="/wiki/Malignant_histiocytosis" title="Malignant histiocytosis">malignant histiocytosis</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Histiocytic_sarcoma" title="Histiocytic sarcoma">Histiocytic sarcoma</a></li>
+<li><a href="/wiki/Langerhans_cell_sarcoma" title="Langerhans cell sarcoma">Langerhans cell sarcoma</a></li>
+<li><a href="/wiki/Interdigitating_dendritic_cell_sarcoma" title="Interdigitating dendritic cell sarcoma">Interdigitating dendritic cell sarcoma</a></li>
+<li><a href="/wiki/Follicular_dendritic_cell_sarcoma" title="Follicular dendritic cell sarcoma">Follicular dendritic cell sarcoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ungrouped</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Rosai%E2%80%93Dorfman_disease" title="Rosai–Dorfman disease">Rosai–Dorfman disease</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Myeloid_navs" title="Template:Myeloid navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Myeloid_navs" title="Template talk:Myeloid navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Myeloid_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Myeloid" title="Myeloid">cells from bone marrow</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Myeloid_innate_immune_system" title="Template:Myeloid innate immune system">Immune system</a></li>
+<li><a href="/wiki/Template:Myeloid_blood_cells_and_plasma" title="Template:Myeloid blood cells and plasma">Cells</a></li>
+<li><a href="/wiki/Template:Myeloid_physiology" title="Template:Myeloid physiology">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Coagulation" title="Template:Coagulation">coagulation</a></li>
+<li><a href="/wiki/Template:Hemeproteins" title="Template:Hemeproteins">proteins</a></li>
+<li><a href="/wiki/Template:Granule_contents" title="Template:Granule contents">granule contents</a></li>
+<li><a href="/wiki/Template:Colony-stimulating_factors" title="Template:Colony-stimulating factors">colony-stimulating</a></li>
+<li>heme and porphyrin
+<ul>
+<li><i><a href="/wiki/Template:Porphyrin_metabolism_enzymes" title="Template:Porphyrin metabolism enzymes">metabolism</a></i></li>
+<li><i><a href="/wiki/Template:Heme_metabolism_intermediates" title="Template:Heme metabolism intermediates">intermediates</a></i></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Diseases_of_RBCs_and_megakaryocytes" title="Template:Diseases of RBCs and megakaryocytes">Red blood cell</a></li>
+<li><a href="/wiki/Template:Monocyte_and_granulocyte_disease" title="Template:Monocyte and granulocyte disease">Monocyte and granulocyte</a></li>
+<li><a href="/wiki/Template:Myeloid_malignancy" title="Template:Myeloid malignancy">Neoplasms and cancer</a></li>
+<li><a href="/wiki/Template:Histiocytosis" title="Template:Histiocytosis">Histiocytosis</a></li>
+<li><a href="/wiki/Template:Cardiovascular_system_symptoms_and_signs" title="Template:Cardiovascular system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_hematology" title="Template:Eponymous medical signs for hematology">eponymous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Myeloid_blood_tests" title="Template:Myeloid blood tests">Blood tests</a>
+<ul>
+<li><a href="/wiki/Template:Abnormal_clinical_and_laboratory_findings_for_blood" title="Template:Abnormal clinical and laboratory findings for blood">findings</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Transfusion_medicine" title="Template:Transfusion medicine">Transfusion</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antithrombotics" title="Template:Antithrombotics">thrombosis</a></li>
+<li><a href="/wiki/Template:Antihemorrhagics" title="Template:Antihemorrhagics">bleeding</a></li>
+<li><a href="/wiki/Template:B03,_B05,_B06" title="Template:B03, B05, B06">other</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1253
+CPU time usage: 0.364 seconds
+Real time usage: 0.462 seconds
+Preprocessor visited node count: 2601/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 129814/2097152 bytes
+Template argument size: 3317/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  361.443      1 - -total
+ 33.66%  121.652      1 - Template:Reflist
+ 18.01%   65.085      1 - Template:Infobox_disease
+ 15.75%   56.934      1 - Template:Infobox
+ 14.10%   50.971      5 - Template:Navbox
+ 12.11%   43.760      3 - Template:Citation_needed
+ 10.27%   37.111      3 - Template:Fix
+  9.13%   33.004      6 - Template:Category_handler
+  8.28%   29.942      8 - Template:Cite_journal
+  7.77%   28.083      1 - Template:Lipid_storage_disorders
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:769389-0!*!0!!en!4!* and timestamp 20150711223605 and revision id 666822985
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Niemann–Pick_disease&amp;oldid=666822985">https://en.wikipedia.org/w/index.php?title=Niemann–Pick_disease&amp;oldid=666822985</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Autosomal_recessive_disorders" title="Category:Autosomal recessive disorders">Autosomal recessive disorders</a></li><li><a href="/wiki/Category:Rare_diseases" title="Category:Rare diseases">Rare diseases</a></li><li><a href="/wiki/Category:Lipid_storage_disorders" title="Category:Lipid storage disorders">Lipid storage disorders</a></li><li><a href="/wiki/Category:Ashkenazi_Jews_topics" title="Category:Ashkenazi Jews topics">Ashkenazi Jews topics</a></li><li><a href="/wiki/Category:Skin_conditions_resulting_from_errors_in_metabolism" title="Category:Skin conditions resulting from errors in metabolism">Skin conditions resulting from errors in metabolism</a></li><li><a href="/wiki/Category:Neurodegenerative_disorders" title="Category:Neurodegenerative disorders">Neurodegenerative disorders</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:CS1_errors:_missing_author_or_editor" title="Category:CS1 errors: missing author or editor">CS1 errors: missing author or editor</a></li><li><a href="/wiki/Category:CS1_errors:_chapter_ignored" title="Category:CS1 errors: chapter ignored">CS1 errors: chapter ignored</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li><li><a href="/wiki/Category:Commons_category_template_with_no_category_set" title="Category:Commons category template with no category set">Commons category template with no category set</a></li><li><a href="/wiki/Category:Commons_category_with_page_title_same_as_on_Wikidata" title="Category:Commons category with page title same as on Wikidata">Commons category with page title same as on Wikidata</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Niemann%E2%80%93Pick+disease&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Niemann%E2%80%93Pick+disease" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Niemann%E2%80%93Pick_disease"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Niemann%E2%80%93Pick_disease"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Niemann%E2%80%93Pick_disease" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Niemann%E2%80%93Pick_disease" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Niemann%E2%80%93Pick_disease" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;oldid=666822985" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1419931" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Niemann%E2%80%93Pick_disease&amp;id=666822985" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Niemann%E2%80%93Pick+disease">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Niemann%E2%80%93Pick+disease&amp;oldid=666822985&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Trastorn_de_Niemann-Pick" title="Trastorn de Niemann-Pick – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Niemann-Pick-Krankheit" title="Niemann-Pick-Krankheit – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Enfermedad_de_Niemann-Pick" title="Enfermedad de Niemann-Pick – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%DB%8C_%D9%86%DB%8C%D9%85%D9%86_%D9%BE%DB%8C%DA%A9" title="بیماری نیمن پیک – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Malattia_di_Niemann-Pick" title="Malattia di Niemann-Pick – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A0%D7%99%D7%9E%D7%9F_%D7%A4%D7%99%D7%A7" title="נימן פיק – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Choroba_Niemanna-Picka" title="Choroba Niemanna-Picka – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Doen%C3%A7a_de_Niemann-Pick" title="Doença de Niemann-Pick – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8C_%D0%9D%D0%B8%D0%BC%D0%B0%D0%BD%D0%BD%D0%B0_%E2%80%94_%D0%9F%D0%B8%D0%BA%D0%B0" title="Болезнь Ниманна — Пика – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="//sl.wikipedia.org/wiki/Niemann-Pickova_bolezen" title="Niemann-Pickova bolezen – Slovenian" lang="sl" hreflang="sl">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BC%D0%B0%D0%BD-%D0%9F%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B1%D0%BE%D0%BB%D0%B5%D1%81%D1%82" title="Ниман-Пикова болест – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Niemann%E2%80%93Pickin_tauti" title="Niemann–Pickin tauti – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%B0%BC%E6%9B%BC%E5%8C%B9%E5%85%8B%E7%97%87" title="尼曼匹克症 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1419931#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 13 June 2015, at 23:01.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Niemann%E2%80%93Pick_disease&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1064"});
+}</script>
+	</body>
+</html>

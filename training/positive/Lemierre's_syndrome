@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Lemierre's syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lemierre%27s_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Lemierre%27s_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lemierre%27s_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lemierre's_syndrome","wgTitle":"Lemierre's syndrome","wgCurRevisionId":661581571,"wgRevisionId":661581571,"wgArticleId":92962,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 French-language sources (fr)","Articles with contributors link","Articles that use a Medicine navs subtemplate","Bacterial diseases","Rare diseases"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lemierre's_syndrome","wgRelevantArticleId":92962,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgULSAcceptLanguageList":["en-us"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q72000"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Lemierre_s_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Lemierre's syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Lemierre's syndrome</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb31108.htm">31108</a></td>
+</tr>
+</table>
+<p><b>Lemierre's syndrome</b> (or <b>Lemierre's disease</b>, also known as <b>postanginal shock including sepsis</b> and <b>human necrobacillosis</b>) refers to <a href="/wiki/Thrombophlebitis" title="Thrombophlebitis">thrombophlebitis</a> of the internal jugular vein.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> It most often develops as a complication of a bacterial sore throat infection in young, otherwise healthy adults. The thrombophlebitis is a serious condition and may lead to further systemic complications such as <a href="/wiki/Bacteremia" title="Bacteremia">bacteria in the blood</a> or <a href="/wiki/Septic_embolism" title="Septic embolism">septic emboli</a>.</p>
+<p>Lemierre's syndrome occurs most often when a bacterial (e.g. <a href="/wiki/Fusobacterium_necrophorum" title="Fusobacterium necrophorum">Fusobacterium necrophorum</a>) throat infection progresses to the formation of a <a href="/wiki/Peritonsillar_abscess" title="Peritonsillar abscess">peritonsillar abscess</a>. Deep in the abscess, <a href="/wiki/Anaerobic_bacteria" title="Anaerobic bacteria" class="mw-redirect">anaerobic bacteria</a> can flourish and eventually may penetrate the abscess to infect nearby structures. Spread of infection to the nearby jugular vein may lead to clot formation or spread of bacteria through the bloodstream. Pieces of the infected clot break off and travel to the lungs as emboli, blocking branches of the pulmonary artery that carry deoxygenated blood from the heart to the lungs.</p>
+<p><a href="/wiki/Sepsis" title="Sepsis">Sepsis</a> following from a throat infection was described by Scottmuller in 1918.<sup id="cite_ref-Schottmuller_H_1918_1440_2-0" class="reference"><a href="#cite_note-Schottmuller_H_1918_1440-2"><span>[</span>2<span>]</span></a></sup> However it was <a href="/wiki/Andr%C3%A9_Lemierre" title="André Lemierre">André Lemierre</a>, in 1936, who published a series of 20 cases where throat infections were followed by identified anaerobic septicemia, of whom 18 patients died.<sup id="cite_ref-Lemierre_3-0" class="reference"><a href="#cite_note-Lemierre-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cause"><span class="tocnumber">2</span> <span class="toctext">Cause</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Pathophysiology"><span class="tocnumber">3</span> <span class="toctext">Pathophysiology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Diagnosis"><span class="tocnumber">4</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Treatment"><span class="tocnumber">5</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Prognosis"><span class="tocnumber">6</span> <span class="toctext">Prognosis</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Epidemiology"><span class="tocnumber">7</span> <span class="toctext">Epidemiology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#History"><span class="tocnumber">8</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The symptoms vary, but usually start with a sore throat, fever, and general body weakness. These are followed by extreme lethargy, spiked fevers, rigors, swollen <a href="/wiki/Cervical_lymph_node" title="Cervical lymph node" class="mw-redirect">cervical lymph nodes</a>, and a swollen, tender or painful neck. Often there is abdominal pain, diarrhea, nausea and vomiting during this phase. These signs and symptoms usually occur several days to 2 weeks after the initial symptoms.</p>
+<p>Symptoms of pulmonary involvement can be shortness of breath, cough and painful breathing (<a href="/wiki/Pleurisy" title="Pleurisy">pleuritic chest pain</a>). Rarely, <a href="/wiki/Hemoptysis" title="Hemoptysis">blood is coughed up</a>. <a href="/wiki/Arthralgia" title="Arthralgia">Painful</a> or <a href="/wiki/Septic_arthritis" title="Septic arthritis">inflamed joints</a> can occur when the joints are involved.</p>
+<p><a href="/wiki/Septic_shock" title="Septic shock">Septic shock</a> can also arise. This presents with <a href="/wiki/Hypotension" title="Hypotension">low blood pressure</a>, <a href="/wiki/Tachycardia" title="Tachycardia">increased heart rate</a>, <a href="/wiki/Oliguria" title="Oliguria">decreased urine output</a> and an <a href="/wiki/Tachypnea" title="Tachypnea">increased rate of breathing</a>. Some cases will also present with <a href="/wiki/Meningitis" title="Meningitis">meningitis</a>, which will typically manifest as <a href="/wiki/Meningism" title="Meningism">neck stiffness</a>, headache and <a href="/wiki/Photophobia" title="Photophobia">sensitivity of the eyes to light</a>.</p>
+<p><a href="/wiki/Hepatomegaly" title="Hepatomegaly">Liver enlargement</a> and <a href="/wiki/Splenomegaly" title="Splenomegaly">spleen enlargement</a> can be found, but are not always associated with hepatic or splenic abscesses.<sup id="cite_ref-Syed_4-0" class="reference"><a href="#cite_note-Syed-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Chirinos_5-0" class="reference"><a href="#cite_note-Chirinos-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>Other signs and symptoms that may occur:</p>
+<ul>
+<li>Headache (unrelated to meningitis)</li>
+<li>Memory loss</li>
+<li>Muscle pain</li>
+<li><a href="/wiki/Jaundice" title="Jaundice">Jaundice</a></li>
+<li><a href="/wiki/Trismus" title="Trismus">Decreased ability to open the jaw</a></li>
+<li><a href="/wiki/Rales" title="Rales" class="mw-redirect">Crepitations</a> are sometimes heard over the lungs</li>
+<li><a href="/wiki/Pericardial_friction_rub" title="Pericardial friction rub">Pericardial friction rubs</a> as a sign of <a href="/wiki/Pericarditis" title="Pericarditis">pericarditis</a> (rare)</li>
+<li><a href="/wiki/Cranial_nerve" title="Cranial nerve" class="mw-redirect">Cranial nerve</a> <a href="/wiki/Paralysis" title="Paralysis">paralysis</a> and <a href="/wiki/Horner%27s_syndrome" title="Horner's syndrome">Horner's syndrome</a> (both rare)</li>
+</ul>
+<h2><span class="mw-headline" id="Cause">Cause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=2" title="Edit section: Cause">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The bacteria causing the thrombophlebitis are anaerobic bacteria that are typically normal components of oropharyngeal flora. Species of <i><a href="/wiki/Fusobacterium" title="Fusobacterium">Fusobacterium</a></i>, specifically <i><a href="/wiki/Fusobacterium_necrophorum" title="Fusobacterium necrophorum">Fusobacterium necrophorum</a></i>, are most commonly the causative bacteria, but various bacteria have been implicated. One 1989 study found that 81% of Lemierres's syndrome had been infected with <i>Fusobacterium necrophorum</i>, while 11% were caused by other Fusobacterium species.<sup id="cite_ref-Sinave_6-0" class="reference"><a href="#cite_note-Sinave-6"><span>[</span>6<span>]</span></a></sup> <a href="/wiki/Methicillin-resistant_Staphylococcus_aureus" title="Methicillin-resistant Staphylococcus aureus">MRSA</a> might also be an issue in Lemierre infections.<sup id="cite_ref-NCBI_7-0" class="reference"><a href="#cite_note-NCBI-7"><span>[</span>7<span>]</span></a></sup> Rarely Lemierre's syndrome is caused by other (usually <a href="/wiki/Gram_staining" title="Gram staining">Gram-negative</a>) bacteria, which include <i><a href="/wiki/Bacteroides_fragilis" title="Bacteroides fragilis">Bacteroides fragilis</a></i> and <i><a href="/wiki/Bacteroides_melaninogenicus" title="Bacteroides melaninogenicus">Bacteroides melaninogenicus</a></i>, <i><a href="/wiki/Peptostreptococcus" title="Peptostreptococcus">Peptostreptococcus</a> spp.</i>, <i><a href="/w/index.php?title=Streptococcus_microaerophile&amp;action=edit&amp;redlink=1" class="new" title="Streptococcus microaerophile (page does not exist)">Streptococcus microaerophile</a></i>, <i><a href="/wiki/Staphylococcus_aureus" title="Staphylococcus aureus">Staphylococcus aureus</a></i>, and <i><a href="/wiki/Eikenella_corrodens" title="Eikenella corrodens">Eikenella corrodens</a></i>.<sup id="cite_ref-Sinave_6-1" class="reference"><a href="#cite_note-Sinave-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-Puymirat_8-0" class="reference"><a href="#cite_note-Puymirat-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Pathophysiology">Pathophysiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=3" title="Edit section: Pathophysiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lemierre's syndrome is initiated by an infection of the head and neck region. Usually this infection is a pharyngitis (which occurred in 87.1% of patients as reported by a literature review<sup id="cite_ref-Chirinos_5-1" class="reference"><a href="#cite_note-Chirinos-5"><span>[</span>5<span>]</span></a></sup>), but it can also be initiated by an <a href="/wiki/Otitis" title="Otitis">otitis</a>, a <a href="/wiki/Mastoiditis" title="Mastoiditis">mastoiditis</a>, a <a href="/wiki/Sinusitis" title="Sinusitis">sinusitis</a> or a <a href="/wiki/Parotitis" title="Parotitis">parotitis</a>.</p>
+<p>During the primary infection, <i>F. necrophorum</i> colonizes the infection site and the infection spreads to the <a href="/wiki/Parapharyngeal_space" title="Parapharyngeal space">parapharyngeal space</a>. The bacteria then invade the peritonsillar blood vessels where they can spread to the <a href="/wiki/Internal_jugular_vein" title="Internal jugular vein">internal jugular vein</a>.<sup id="cite_ref-Syed_4-1" class="reference"><a href="#cite_note-Syed-4"><span>[</span>4<span>]</span></a></sup> In this vein, the bacteria cause the formation of a <a href="/wiki/Thrombus" title="Thrombus">thrombus</a> containing these bacteria. Furthermore, the <a href="/wiki/Internal_jugular_vein" title="Internal jugular vein">internal jugular vein</a> becomes inflamed. This septic <a href="/wiki/Thrombophlebitis" title="Thrombophlebitis">thrombophlebitis</a> can give rise to septic <a href="/wiki/Septic_embolism" title="Septic embolism">microemboli</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup> that disseminate to other parts of the body where they can form abscesses and septic infarctions. The first <a href="/wiki/Capillary" title="Capillary">capillaries</a> that the emboli encounter where they can nestle themselves are the pulmonary capillaries. As a consequence, the most frequently involved site of septic metastases are the lungs, followed by the joints (knee, hip, <a href="/wiki/Sternoclavicular_articulation" title="Sternoclavicular articulation">sternoclavicular joint</a>, shoulder and elbow<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup>). In the lungs, the bacteria cause abscesses, nodulary and cavitary lesions. Pleural effusion is often present.<sup id="cite_ref-Chirinos_5-2" class="reference"><a href="#cite_note-Chirinos-5"><span>[</span>5<span>]</span></a></sup> Other sites involved in septic metastasis and abscess formation are the muscles and soft tissues, liver, spleen, kidneys and nervous system (intracranial abscesses, meningitis).<sup id="cite_ref-Syed_4-2" class="reference"><a href="#cite_note-Syed-4"><span>[</span>4<span>]</span></a></sup></p>
+<p>Production of bacterial toxins such as <a href="/wiki/Lipopolysaccharide" title="Lipopolysaccharide">lipopolysaccharide</a> leads to secretion of <a href="/wiki/Cytokines" title="Cytokines" class="mw-redirect">cytokines</a> by white blood cells which then both lead to symptoms of <a href="/wiki/Sepsis" title="Sepsis">sepsis</a>. <i>F. necrophorum</i> produces <a href="/wiki/Hemagglutinin" title="Hemagglutinin">hemagglutinin</a> which causes platelet aggregation that can lead to <a href="/wiki/Diffuse_intravascular_coagulation" title="Diffuse intravascular coagulation" class="mw-redirect">diffuse intravascular coagulation</a> and <a href="/wiki/Thrombocytopenia" title="Thrombocytopenia">thrombocytopenia</a>.<sup id="cite_ref-Kanoe_11-0" class="reference"><a href="#cite_note-Kanoe-11"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-Hagelskjaer_12-0" class="reference"><a href="#cite_note-Hagelskjaer-12"><span>[</span>12<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=4" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diagnosis and the imaging (and laboratory) studies to be ordered largely depend on the patient history, signs and symptoms. If a persistent sore throat, with the symptoms are found, physicians are cautioned to screen for Lemierre's syndrome.</p>
+<p>Laboratory investigations reveal signs of a bacterial infection with elevated <a href="/wiki/C-reactive_protein" title="C-reactive protein">C-reactive protein</a>, <a href="/wiki/Erythrocyte_sedimentation_rate" title="Erythrocyte sedimentation rate">erythrocyte sedimentation rate</a> and white blood cells (notably <a href="/wiki/Neutrophils" title="Neutrophils" class="mw-redirect">neutrophils</a>). Platelet count can be low or high. Liver function tests and renal function tests are often abnormal.</p>
+<p>Thrombosis of the internal jugular vein can be displayed with <a href="/wiki/Medical_ultrasonography" title="Medical ultrasonography" class="mw-redirect">sonography</a>. Thrombi that have developed recently have low echogenicity or echogenicity similar to the flowing blood, and in such cases pressure with the ultrasound probe show a non-compressible jugular vein - a sure sign of thrombosis. Also colour or power Doppler ultrasound identify a low echogenicity thrombus. A CT scan or an MRI scan is more sensitive in displaying the thrombus of the intra-thoracic retrosternal veins, but are rarely needed.</p>
+<p><a href="/wiki/Chest_X-ray" title="Chest X-ray" class="mw-redirect">Chest X-ray</a> and chest CT may show pleural effusion, nodules, infiltrates, abscesses and cavitations.</p>
+<p><a href="/wiki/Microbiological_culture" title="Microbiological culture">Bacterial cultures</a> taken from the blood, <a href="/wiki/Arthrocentesis" title="Arthrocentesis">joint aspirates</a> or other sites can identify the causative agent of the disease.</p>
+<p>Other illnesses that can be included in the <a href="/wiki/Differential_diagnosis" title="Differential diagnosis">differential diagnosis</a> are:</p>
+<ul>
+<li><a href="/wiki/Q_fever" title="Q fever">Q fever</a></li>
+<li><a href="/wiki/Tuberculosis" title="Tuberculosis">Tuberculosis</a></li>
+<li><a href="/wiki/Pneumonia" title="Pneumonia">Pneumonia</a></li>
+</ul>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=5" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lemierre's syndrome is primarily treated with <a href="/wiki/Antibiotics" title="Antibiotics">antibiotics</a> given intravenously. <i>Fusobacterium necrophorum</i> is generally highly susceptible to <a href="/wiki/Beta-lactam_antibiotic" title="Beta-lactam antibiotic" class="mw-redirect">beta-lactam antibiotics</a>, <a href="/wiki/Metronidazole" title="Metronidazole">metronidazole</a>, <a href="/wiki/Clindamycin" title="Clindamycin">clindamycin</a> and third generation <a href="/wiki/Cephalosporins" title="Cephalosporins" class="mw-redirect">cephalosporins</a> while the other fusobacteria have varying degrees of resistance to beta-lactams and clindamycin.<sup id="cite_ref-Hagelskjaer_12-1" class="reference"><a href="#cite_note-Hagelskjaer-12"><span>[</span>12<span>]</span></a></sup> Additionally, there may exist a co-infection by another bacterium. For these reasons is often advised not to use monotherapy in treating Lemierre's syndrome. Penicillin and penicillin-derived antibiotics can thus be combined with a <a href="/wiki/Beta-lactamase_inhibitor" title="Beta-lactamase inhibitor" class="mw-redirect">beta-lactamase inhibitor</a> such as <a href="/wiki/Clavulanic_acid" title="Clavulanic acid">clavulanic acid</a> or with metronidazole.<sup id="cite_ref-Syed_4-3" class="reference"><a href="#cite_note-Syed-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-Puymirat_8-1" class="reference"><a href="#cite_note-Puymirat-8"><span>[</span>8<span>]</span></a></sup> Clindamycin can be given as monotherapy.</p>
+<p>If antibiotic therapy does not improve the clinical picture, it may prove useful to drain any abscesses and/or perform ligation of the internal jugular vein where the antibiotic can not penetrate.<sup id="cite_ref-Chirinos_5-3" class="reference"><a href="#cite_note-Chirinos-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Puymirat_8-2" class="reference"><a href="#cite_note-Puymirat-8"><span>[</span>8<span>]</span></a></sup><sup id="cite_ref-Aspesberro_13-0" class="reference"><a href="#cite_note-Aspesberro-13"><span>[</span>13<span>]</span></a></sup></p>
+<p>There is no evidence to opt for or against the use of anticoagulation therapy. The low incidence of Lemierre's syndrome has not made it possible to set up clinical trials to study the disease.<sup id="cite_ref-Puymirat_8-3" class="reference"><a href="#cite_note-Puymirat-8"><span>[</span>8<span>]</span></a></sup></p>
+<p>The disease can often be un-treatable, especially if other negative factors occur, i.e. various diseases occurring at the same time, such as <a href="/wiki/Meningitis" title="Meningitis">meningitis</a>, <a href="/wiki/Pneumonia" title="Pneumonia">pneumonia</a>.</p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=6" title="Edit section: Prognosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When properly diagnosed, the mortality of Lemierre's syndrome is about 4.6%.<sup id="cite_ref-Sign_In_.E2.80.94_Ann_Intern_Med_14-0" class="reference"><a href="#cite_note-Sign_In_.E2.80.94_Ann_Intern_Med-14"><span>[</span>14<span>]</span></a></sup> Since this disease is not well known and often remains undiagnosed, mortality might be much higher.</p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=7" title="Edit section: Epidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lemierre's syndrome is currently rare, but was more common in the early 20th century before the discovery of <a href="/wiki/Penicillin" title="Penicillin">penicillin</a>. The reduced use of antibiotics for sore throats may have increased the risk of this disease, with 19 cases in 1997 and 34 cases in 1999 reported in the <a href="/wiki/United_Kingdom" title="United Kingdom">UK</a>.<sup id="cite_ref-cmo_update29_15-0" class="reference"><a href="#cite_note-cmo_update29-15"><span>[</span>15<span>]</span></a></sup> The incidence rate is currently 0.8 cases per million in the general population,<sup id="cite_ref-pmid15631168_16-0" class="reference"><a href="#cite_note-pmid15631168-16"><span>[</span>16<span>]</span></a></sup> leading it to be termed the "forgotten disease".<sup id="cite_ref-pmid8427443_17-0" class="reference"><a href="#cite_note-pmid8427443-17"><span>[</span>17<span>]</span></a></sup> The disease is known to affect healthy young adults. The disease is becoming less rare with many cases being reported, however it is still known as "the forgotten disease" as many doctors are unaware of its existence, therefore often not even diagnosed which might considerably change the above-mentioned statistics. The mortality rate was 90% prior to antibiotic therapy,<sup id="cite_ref-Lemierre_3-1" class="reference"><a href="#cite_note-Lemierre-3"><span>[</span>3<span>]</span></a></sup> but is now generally quoted as 15% once this illness is correctly diagnosed and cured with proper medical treatment, although one series of cases reported mortality as low as 6.4%.<sup id="cite_ref-Chirinos_5-4" class="reference"><a href="#cite_note-Chirinos-5"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=8" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Sepsis" title="Sepsis">Sepsis</a> following from a throat infection was described by Scottmuller in 1918.<sup id="cite_ref-Schottmuller_H_1918_1440_2-1" class="reference"><a href="#cite_note-Schottmuller_H_1918_1440-2"><span>[</span>2<span>]</span></a></sup> However it was Andre Lemierre, in 1936, who published a series of 20 cases where throat infections were followed by identified anaerobic septicemia, of whom 18 patients died.<sup id="cite_ref-Lemierre_3-2" class="reference"><a href="#cite_note-Lemierre-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://web.archive.org/web/20090616022448/http://www.mercksource.com/pp/us/cns/cns_hl_dorlands_split.jsp?pg=/ppdocs/us/common/dorlands/dorland/nine/100019144.htm">Lemierre syndrome</a>" at <i><a href="/wiki/Dorland%27s_medical_reference_works" title="Dorland's medical reference works">Dorland's Medical Dictionary</a></i></span></li>
+<li id="cite_note-Schottmuller_H_1918_1440-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Schottmuller_H_1918_1440_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Schottmuller_H_1918_1440_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Schottmuller H (1918). "Ueber die Pathogenität anaërober Bazillen". <i>Dtsch Med Wochenschr</i> (in German) <b>44</b>: 1440.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Ueber+die+Pathogenit%C3%A4t+ana%C3%ABrober+Bazillen&amp;rft.aulast=Schottmuller+H&amp;rft.au=Schottmuller+H&amp;rft.date=1918&amp;rft.genre=article&amp;rft.jtitle=Dtsch+Med+Wochenschr&amp;rft.pages=1440&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=44" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Lemierre-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lemierre_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lemierre_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Lemierre_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Lemierre A (1936). "On certain septicemias due to anaerobic organisms". <i>Lancet</i> <b>1</b> (5874): 701–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0140-6736%2800%2957035-4">10.1016/S0140-6736(00)57035-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=On+certain+septicemias+due+to+anaerobic+organisms&amp;rft.aulast=Lemierre+A&amp;rft.au=Lemierre+A&amp;rft.date=1936&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0140-6736%2800%2957035-4&amp;rft.issue=5874&amp;rft.jtitle=Lancet&amp;rft.pages=701-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Syed-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Syed_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Syed_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Syed_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Syed_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Syed MI, Baring D, Addidle M, Murray C, Adams C (September 2007). "Lemierre syndrome: two cases and a review". <i>The Laryngoscope</i> (The American Laryngological, Rhinological &amp; Otological Society; Lippincott Williams &amp; Wilkins) <b>117</b> (9): 1605–1610. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2FMLG.0b013e318093ee0e">10.1097/MLG.0b013e318093ee0e</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17762792">17762792</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Lemierre+syndrome%3A+two+cases+and+a+review&amp;rft.aulast=Syed+MI%2C+Baring+D%2C+Addidle+M%2C+Murray+C%2C+Adams+C&amp;rft.au=Syed+MI%2C+Baring+D%2C+Addidle+M%2C+Murray+C%2C+Adams+C&amp;rft.date=September+2007&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2FMLG.0b013e318093ee0e&amp;rft_id=info%3Apmid%2F17762792&amp;rft.issue=9&amp;rft.jtitle=The+Laryngoscope&amp;rft.pages=1605-1610&amp;rft.pub=The+American+Laryngological%2C+Rhinological+%26+Otological+Society%3B+Lippincott+Williams+%26+Wilkins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=117" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Chirinos-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chirinos_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chirinos_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Chirinos_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Chirinos_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Chirinos_5-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Chirinos JA, Lichtstein DM, Garcia J, Tamariz LJ (November 2002). "The evolution of Lemierre syndrome: report of 2 cases and review of the literature". <i>Medicine (Baltimore)</i> (Lippincott Williams &amp; Wilkins) <b>81</b> (6): 458–465. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F00005792-200211000-00006">10.1097/00005792-200211000-00006</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12441902">12441902</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=The+evolution+of+Lemierre+syndrome%3A+report+of+2+cases+and+review+of+the+literature&amp;rft.au=Chirinos+JA%2C+Lichtstein+DM%2C+Garcia+J%2C+Tamariz+LJ&amp;rft.aulast=Chirinos+JA%2C+Lichtstein+DM%2C+Garcia+J%2C+Tamariz+LJ&amp;rft.date=November+2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2F00005792-200211000-00006&amp;rft_id=info%3Apmid%2F12441902&amp;rft.issue=6&amp;rft.jtitle=Medicine+%28Baltimore%29&amp;rft.pages=458-465&amp;rft.pub=Lippincott+Williams+%26+Wilkins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=81" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sinave-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sinave_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sinave_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Sinave CP, Hardy GJ, Fardy PW (March 1989). "The Lemierre's syndrome: suppurative thrombophlebitis of the internal jugular vein secondary to oropharyngeal infection". <i>Medicine (Baltimore)</i> (Williams &amp; Wilkins) <b>68</b> (2): 85–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F00005792-198903000-00002">10.1097/00005792-198903000-00002</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2646510">2646510</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=The+Lemierre%27s+syndrome%3A+suppurative+thrombophlebitis+of+the+internal+jugular+vein+secondary+to+oropharyngeal+infection&amp;rft.aulast=Sinave+CP%2C+Hardy+GJ%2C+Fardy+PW&amp;rft.au=Sinave+CP%2C+Hardy+GJ%2C+Fardy+PW&amp;rft.date=March+1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2F00005792-198903000-00002&amp;rft_id=info%3Apmid%2F2646510&amp;rft.issue=2&amp;rft.jtitle=Medicine+%28Baltimore%29&amp;rft.pages=85-94&amp;rft.pub=Williams+%26+Wilkins&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=68" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-NCBI-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-NCBI_7-0">^</a></b></span> <span class="reference-text"><span class="citation journal">NCBI PubMed, Bentley TP, Brennan DF (August 2009). "Lemierre's syndrome: methicillin-resistant Staphylococcus aureus (MRSA) finds a new home.". <i>Medicine (Orlando)</i> (Bentley &amp; Brennan) <b>37</b> (2): 131–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.jemermed.2007.07.066">10.1016/j.jemermed.2007.07.066</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18280087">18280087</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Lemierre%27s+syndrome%3A+methicillin-resistant+Staphylococcus+aureus+%28MRSA%29+finds+a+new+home.&amp;rft.aulast=NCBI+PubMed%2C+Bentley+TP%2C+Brennan+DF&amp;rft.au=NCBI+PubMed%2C+Bentley+TP%2C+Brennan+DF&amp;rft.date=August+2009&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jemermed.2007.07.066&amp;rft_id=info%3Apmid%2F18280087&amp;rft.issue=2&amp;rft.jtitle=Medicine+%28Orlando%29&amp;rft.pages=131-4&amp;rft.pub=Bentley+%26+Brennan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=37" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Puymirat-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Puymirat_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Puymirat_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Puymirat_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Puymirat_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Puymirat E, Biais M, Camou F, Lefèvre J, Guisset O, Gabinski C (March 2008). "A Lemierre's syndrome variant caused by <i>Staphylococcus aureus</i>". <i>American journal of emergency medicine test</i> (Elsevier) <b>26</b> (3): 380–387. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ajem.2007.05.020">10.1016/j.ajem.2007.05.020</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18358967">18358967</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=A+Lemierre%27s+syndrome+variant+caused+by+Staphylococcus+aureus&amp;rft.aulast=Puymirat+E%2C+Biais+M%2C+Camou+F%2C+Lef%C3%A8vre+J%2C+Guisset+O%2C+Gabinski+C&amp;rft.au=Puymirat+E%2C+Biais+M%2C+Camou+F%2C+Lef%C3%A8vre+J%2C+Guisset+O%2C+Gabinski+C&amp;rft.date=March+2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ajem.2007.05.020&amp;rft_id=info%3Apmid%2F18358967&amp;rft.issue=3&amp;rft.jtitle=American+journal+of+emergency+medicine+test&amp;rft.pages=380-387&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=26" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation journal">Screaton NJ, Ravenel JG, Lehner PJ, Heitzman ER, Flower CD (November 1999). <a rel="nofollow" class="external text" href="http://radiology.rsnajnls.org/cgi/content/full/213/2/369">"Lemierre Syndrome: Forgotten but Not Extinct-Report of Four Cases"</a>. <i>Radiology</i> (Radiological Society of North America) <b>213</b> (2): 369–374. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1148%2Fradiology.213.2.r99nv09369">10.1148/radiology.213.2.r99nv09369</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10551214">10551214</a>. <q>The absence of proximal thrombus at CT pulmonary angiography suggests that microemboli, rather than the macroembolic clot burden more typical of acute pulmonary embolism, are responsible for the pulmonary findings in Lemierre syndrome</q></span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Lemierre+Syndrome%3A+Forgotten+but+Not+Extinct-Report+of+Four+Cases&amp;rft.aulast=Screaton+NJ%2C+Ravenel+JG%2C+Lehner+PJ%2C+Heitzman+ER%2C+Flower+CD&amp;rft.au=Screaton+NJ%2C+Ravenel+JG%2C+Lehner+PJ%2C+Heitzman+ER%2C+Flower+CD&amp;rft.date=November+1999&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fradiology.rsnajnls.org%2Fcgi%2Fcontent%2Ffull%2F213%2F2%2F369&amp;rft_id=info%3Adoi%2F10.1148%2Fradiology.213.2.r99nv09369&amp;rft_id=info%3Apmid%2F10551214&amp;rft.issue=2&amp;rft.jtitle=Radiology&amp;rft.pages=369-374&amp;rft.pub=Radiological+Society+of+North+America&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=213" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation journal">Beldman TF, Teunisse HA, Schouten TJ (November 1997). "Septic arthritis of the hip by Fusobacterium necrophorum after tonsillectomy: a form of Lemierre syndrome?". <i>European journal of pediatrics</i> (Springer-Verlag) <b>156</b> (11): 856–857. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fs004310050730">10.1007/s004310050730</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9392400">9392400</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Septic+arthritis+of+the+hip+by+Fusobacterium+necrophorum+after+tonsillectomy%3A+a+form+of+Lemierre+syndrome%3F&amp;rft.au=Beldman+TF%2C+Teunisse+HA%2C+Schouten+TJ&amp;rft.aulast=Beldman+TF%2C+Teunisse+HA%2C+Schouten+TJ&amp;rft.date=November+1997&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fs004310050730&amp;rft_id=info%3Apmid%2F9392400&amp;rft.issue=11&amp;rft.jtitle=European+journal+of+pediatrics&amp;rft.pages=856-857&amp;rft.pub=Springer-Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=156" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Kanoe-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kanoe_11-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Kanoe M, Yamanaka M, Inoue M (1989). "Effects of Fusobacterium necrophorum on the mesenteric microcirculation of guinea pigs". <i>Medical Microbiology and Immunology</i> (Springer Berlin / Heidelberg) <b>178</b> (2): 99–104. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1007%2Fbf00203305">10.1007/bf00203305</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/2659950">2659950</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Effects+of+Fusobacterium+necrophorum+on+the+mesenteric+microcirculation+of+guinea+pigs&amp;rft.au=Kanoe+M%2C+Yamanaka+M%2C+Inoue+M&amp;rft.aulast=Kanoe+M%2C+Yamanaka+M%2C+Inoue+M&amp;rft.date=1989&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1007%2Fbf00203305&amp;rft_id=info%3Apmid%2F2659950&amp;rft.issue=2&amp;rft.jtitle=Medical+Microbiology+and+Immunology&amp;rft.pages=99-104&amp;rft.pub=Springer+Berlin+%2F+Heidelberg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=178" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hagelskjaer-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hagelskjaer_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hagelskjaer_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Hagelskjaer Kristensen L, Prag J (Aug 2000). "Human necrobacillosis, with emphasis on Lemierre's syndrome". <i>Clinical Infectious Diseases</i> <b>31</b> (2): 524–532. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1086%2F313970">10.1086/313970</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/10987717">10987717</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Human+necrobacillosis%2C+with+emphasis+on+Lemierre%27s+syndrome&amp;rft.au=Hagelskjaer+Kristensen+L%2C+Prag+J&amp;rft.aulast=Hagelskjaer+Kristensen+L%2C+Prag+J&amp;rft.date=Aug+2000&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1086%2F313970&amp;rft_id=info%3Apmid%2F10987717&amp;rft.issue=2&amp;rft.jtitle=Clinical+Infectious+Diseases&amp;rft.pages=524-532&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Aspesberro-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Aspesberro_13-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Aspesberro F, Siebler T, Van Nieuwenhuyse JP, Panosetti E, Berthet F (September 2008). "Lemierre syndrome in a 5-month-old male infant: Case report and review of the pediatric literature". <i><a href="/wiki/Pediatric_Critical_Care_Medicine" title="Pediatric Critical Care Medicine">Pediatric Critical Care Medicine</a></i> (The Society of Critical Care Medicine and the World Federation of Pediatric Intensive and Critical Care Societies) <b>9</b> (5): e35-37. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2FPCC.0b013e31817319fa">10.1097/PCC.0b013e31817319fa</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18779698">18779698</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Lemierre+syndrome+in+a+5-month-old+male+infant%3A+Case+report+and+review+of+the+pediatric+literature&amp;rft.au=Aspesberro+F%2C+Siebler+T%2C+Van+Nieuwenhuyse+JP%2C+Panosetti+E%2C+Berthet+F&amp;rft.aulast=Aspesberro+F%2C+Siebler+T%2C+Van+Nieuwenhuyse+JP%2C+Panosetti+E%2C+Berthet+F&amp;rft.date=September+2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2FPCC.0b013e31817319fa&amp;rft_id=info%3Apmid%2F18779698&amp;rft.issue=5&amp;rft.jtitle=Pediatric+Critical+Care+Medicine&amp;rft.pages=e35-37&amp;rft.pub=The+Society+of+Critical+Care+Medicine+and+the+World+Federation+of+Pediatric+Intensive+and+Critical+Care+Societies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=9" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Sign_In_.E2.80.94_Ann_Intern_Med-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Sign_In_.E2.80.94_Ann_Intern_Med_14-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.annals.org/content/151/11/812.full">"Sign In — Ann Intern Med"</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.btitle=Sign+In+%E2%80%94+Ann+Intern+Med&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.annals.org%2Fcontent%2F151%2F11%2F812.full&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cmo_update29-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-cmo_update29_15-0">^</a></b></span> <span class="reference-text">UK Chief Medical Officer Update 29 February 2001 (<a rel="nofollow" class="external text" href="http://www.dh.gov.uk/PublicationsAndStatistics/LettersAndCirculars/CMOUpdate/CMOUpdateArticle/fs/en?CONTENT_ID=4003620&amp;chk=8Ifdm1">CMO Update29 Feb 2001</a>)</span></li>
+<li id="cite_note-pmid15631168-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid15631168_16-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Sibai K, Sarasin F (2004). "[Lemierre syndrome: a diagnosis to keep in mind]". <i>Revue médicale de la Suisse romande</i> (in French) <b>124</b> (11): 693–5. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15631168">15631168</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=%5BLemierre+syndrome%3A+a+diagnosis+to+keep+in+mind%5D&amp;rft.aulast=Sibai+K%2C+Sarasin+F&amp;rft.au=Sibai+K%2C+Sarasin+F&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F15631168&amp;rft.issue=11&amp;rft.jtitle=Revue+m%C3%A9dicale+de+la+Suisse+romande&amp;rft.pages=693-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=124" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-pmid8427443-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-pmid8427443_17-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Weesner CL, Cisek JE (1993). "Lemierre syndrome: the forgotten disease". <i>Annals of Emergency Medicine</i> <b>22</b> (2): 256–8. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2FS0196-0644%2805%2980216-1">10.1016/S0196-0644(05)80216-1</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8427443">8427443</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALemierre%27s+syndrome&amp;rft.atitle=Lemierre+syndrome%3A+the+forgotten+disease&amp;rft.aulast=Weesner+CL%2C+Cisek+JE&amp;rft.au=Weesner+CL%2C+Cisek+JE&amp;rft.date=1993&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2FS0196-0644%2805%2980216-1&amp;rft_id=info%3Apmid%2F8427443&amp;rft.issue=2&amp;rft.jtitle=Annals+of+Emergency+Medicine&amp;rft.pages=256-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=22" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Gram-negative_non-proteobacterial_diseases" title="Template:Gram-negative non-proteobacterial diseases"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Gram-negative_non-proteobacterial_diseases" title="Template talk:Gram-negative non-proteobacterial diseases"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Gram-negative_non-proteobacterial_diseases&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">
+<ul>
+<li><a href="/wiki/Infection" title="Infection">Infectious diseases</a></li>
+<li><a href="/wiki/Pathogenic_bacteria" title="Pathogenic bacteria">Bacterial diseases</a>: <a href="/wiki/Bergey%27s_Manual_of_Systematic_Bacteriology" title="Bergey's Manual of Systematic Bacteriology">BV4</a> non-<a href="/wiki/Proteobacteria" title="Proteobacteria">proteobacterial</a> <a href="/wiki/Gram-negative_bacterial_infection" title="Gram-negative bacterial infection">G-</a> (primarily <a href="/wiki/ICD-10_Chapter_I:_Certain_infectious_and_parasitic_diseases#A00.E2.80.93A79_.E2.80.93_Bacterial_infections.2C_and_other_intestinal_infectious_diseases.2C_and_STDs" title="ICD-10 Chapter I: Certain infectious and parasitic diseases">A00–A79</a>, <a href="/wiki/List_of_ICD-9_codes_001%E2%80%93139:_infectious_and_parasitic_diseases#1._Infectious_and_parasitic_diseases_.28001.E2.80.93139.29" title="List of ICD-9 codes 001–139: infectious and parasitic diseases">001–041, 080–109</a>)</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirochaete" title="Spirochaete">Spirochaete</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirochaetaceae" title="Spirochaetaceae">Spirochaetaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Treponema" title="Treponema">Treponema</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Treponema_pallidum" title="Treponema pallidum">Treponema pallidum</a></i>
+<ul>
+<li><a href="/wiki/Syphilis" title="Syphilis">Syphilis</a>/<a href="/wiki/Nonvenereal_endemic_syphilis" title="Nonvenereal endemic syphilis">bejel</a></li>
+<li><a href="/wiki/Yaws" title="Yaws">Yaws</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Treponema_carateum" title="Treponema carateum">Treponema carateum</a></i> (<a href="/wiki/Pinta_(disease)" title="Pinta (disease)">Pinta</a>)</li>
+<li><i><a href="/wiki/Treponema_denticola" title="Treponema denticola">Treponema denticola</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Borrelia" title="Borrelia">Borrelia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Borrelia_burgdorferi" title="Borrelia burgdorferi">Borrelia burgdorferi</a></i>/<i><a href="/wiki/Borrelia_afzelii" title="Borrelia afzelii">Borrelia afzelii</a></i>
+<ul>
+<li><a href="/wiki/Lyme_disease" title="Lyme disease">Lyme disease</a></li>
+<li><a href="/wiki/Erythema_chronicum_migrans" title="Erythema chronicum migrans">Erythema chronicum migrans</a></li>
+<li><a href="/wiki/Neuroborreliosis" title="Neuroborreliosis">Neuroborreliosis</a></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Borrelia_recurrentis" title="Borrelia recurrentis">Borrelia recurrentis</a></i> (<a href="/wiki/Relapsing_fever#Louse-borne_relapsing_fever" title="Relapsing fever">Louse borne relapsing fever</a>)</li>
+<li><i><a href="/wiki/Borrelia_hermsii" title="Borrelia hermsii">Borrelia hermsii</a></i>/<i><a href="/wiki/Borrelia_duttoni" title="Borrelia duttoni">Borrelia duttoni</a></i>/<i><a href="/wiki/Borrelia_parkeri" title="Borrelia parkeri">Borrelia parkeri</a></i> (<a href="/wiki/Relapsing_fever#Tick-borne_relapsing_fever" title="Relapsing fever">Tick borne relapsing fever</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leptospiraceae" title="Leptospiraceae">Leptospiraceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leptospira" title="Leptospira">Leptospira</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Leptospira_interrogans" title="Leptospira interrogans">Leptospira interrogans</a></i> (<a href="/wiki/Leptospirosis" title="Leptospirosis">Leptospirosis</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirillaceae" title="Spirillaceae">Spirillaceae</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Spirillum" title="Spirillum">Spirillum</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Spirillum_minus" title="Spirillum minus">Spirillum minus</a></i> (<a href="/wiki/Rat-bite_fever" title="Rat-bite fever">Rat-bite fever</a>/<a href="/wiki/Sodoku" title="Sodoku">Sodoku</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chlamydiaceae" title="Chlamydiaceae">Chlamydiaceae</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chlamydophila" title="Chlamydophila">Chlamydophila</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Chlamydophila_psittaci" title="Chlamydophila psittaci">Chlamydophila psittaci</a></i> (<a href="/wiki/Psittacosis" title="Psittacosis">Psittacosis</a>)</li>
+<li><i><a href="/wiki/Chlamydophila_pneumoniae" title="Chlamydophila pneumoniae">Chlamydophila pneumoniae</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Chlamydia_(genus)" title="Chlamydia (genus)">Chlamydia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Chlamydia_trachomatis" title="Chlamydia trachomatis">Chlamydia trachomatis</a></i>
+<ul>
+<li><a href="/wiki/Chlamydia_infection" title="Chlamydia infection">Chlamydia</a></li>
+<li><a href="/wiki/Lymphogranuloma_venereum" title="Lymphogranuloma venereum">Lymphogranuloma venereum</a></li>
+<li><a href="/wiki/Trachoma" title="Trachoma">Trachoma</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bacteroidetes" title="Bacteroidetes">Bacteroidetes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Bacteroides_fragilis" title="Bacteroides fragilis">Bacteroides fragilis</a></i></li>
+<li><i><a href="/wiki/Tannerella_forsythia" title="Tannerella forsythia">Tannerella forsythia</a></i></li>
+<li><i><a href="/wiki/Capnocytophaga_canimorsus" title="Capnocytophaga canimorsus">Capnocytophaga canimorsus</a></i></li>
+<li><i><a href="/wiki/Porphyromonas_gingivalis" title="Porphyromonas gingivalis">Porphyromonas gingivalis</a></i></li>
+<li><i><a href="/wiki/Prevotella_intermedia" title="Prevotella intermedia">Prevotella intermedia</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Fusobacteria" title="Fusobacteria">Fusobacteria</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Fusobacterium_necrophorum" title="Fusobacterium necrophorum">Fusobacterium necrophorum</a></i> (<strong class="selflink">Lemierre's syndrome</strong>)</li>
+<li><i><a href="/wiki/Fusobacterium_nucleatum" title="Fusobacterium nucleatum">Fusobacterium nucleatum</a></i></li>
+<li><i><a href="/wiki/Fusobacterium_polymorphum" title="Fusobacterium polymorphum">Fusobacterium polymorphum</a></i></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Streptobacillus_moniliformis" title="Streptobacillus moniliformis">Streptobacillus moniliformis</a></i> (<a href="/wiki/Rat-bite_fever" title="Rat-bite fever">Rat-bite fever</a>/<a href="/wiki/Haverhill_fever" title="Haverhill fever">Haverhill fever</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bacteria_navs" title="Template:Bacteria navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bacteria_navs" title="Template talk:Bacteria navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bacteria_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Pathogenic_bacteria" title="Pathogenic bacteria">bacterial disease</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bacteria" title="Template:Bacteria">Bacteria</a>
+<ul>
+<li><a href="/wiki/Template:Bacteria_classification" title="Template:Bacteria classification">classification</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Growth_media" title="Template:Growth media">Growth media</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Gram-positive_firmicutes_diseases" title="Template:Gram-positive firmicutes diseases">Gram-positive firmicutes</a></li>
+<li><a href="/wiki/Template:Gram-positive_actinobacteria_diseases" title="Template:Gram-positive actinobacteria diseases">Gram-positive actinobacteria</a></li>
+<li><a href="/wiki/Template:Gram-negative_proteobacterial_diseases" title="Template:Gram-negative proteobacterial diseases">Gram-negative proteobacteria</a></li>
+<li><a href="/wiki/Template:Gram-negative_non-proteobacterial_diseases" title="Template:Gram-negative non-proteobacterial diseases">Gram-negative non-proteobacteria</a></li>
+<li><a href="/wiki/Template:Cholera" title="Template:Cholera">Cholera</a></li>
+<li><a href="/wiki/Template:Tuberculosis" title="Template:Tuberculosis">Tuberculosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="text-align: center;">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Antibiotics
+<ul>
+<li><a href="/wiki/Template:Cell_wall_disruptive_antibiotics" title="Template:Cell wall disruptive antibiotics">cell wall</a></li>
+<li><a href="/wiki/Template:Nucleic_acid_inhibitors" title="Template:Nucleic acid inhibitors">nucleic acid</a></li>
+<li><a href="/wiki/Template:Antimycobacterials" title="Template:Antimycobacterials">mycobacteria</a></li>
+<li><a href="/wiki/Template:Protein_synthesis_inhibitor_antibiotics" title="Template:Protein synthesis inhibitor antibiotics">protein synthesis</a></li>
+<li><a href="/wiki/Template:Other_antibacterials" title="Template:Other antibacterials">other</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Immune_sera_and_immunoglobulins" title="Template:Immune sera and immunoglobulins">Antibodies</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1099
+CPU time usage: 0.336 seconds
+Real time usage: 0.393 seconds
+Preprocessor visited node count: 1564/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80529/2097152 bytes
+Template argument size: 119/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 3.07 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  322.442      1 - -total
+ 44.17%  142.436      1 - Template:Reflist
+ 29.28%   94.418      7 - Template:Navbox
+ 29.08%   93.772     14 - Template:Cite_journal
+ 26.06%   84.026      1 - Template:Infobox_disease
+ 22.37%   72.124      1 - Template:Infobox
+ 19.25%   62.066      1 - Template:Gram-negative_non-proteobacterial_bacterial_diseases
+  6.98%   22.497      1 - Template:Bacteria_navs
+  4.70%   15.145      1 - Template:Comma_separated_entries
+  4.27%   13.753      1 - Template:Namespace_detect
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:92962-0!*!0!!en!*!* and timestamp 20150707085258 and revision id 661581571
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lemierre%27s_syndrome&amp;oldid=661581571">https://en.wikipedia.org/w/index.php?title=Lemierre%27s_syndrome&amp;oldid=661581571</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bacterial_diseases" title="Category:Bacterial diseases">Bacterial diseases</a></li><li><a href="/wiki/Category:Rare_diseases" title="Category:Rare diseases">Rare diseases</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lemierre%27s+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lemierre%27s+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Lemierre%27s_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Lemierre%27s_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Lemierre%27s_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lemierre%27s_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lemierre%27s_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;oldid=661581571" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q72000" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lemierre%27s_syndrome&amp;id=661581571" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lemierre%27s+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Lemierre%27s+syndrome&amp;oldid=661581571&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lemierre%27s_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Lemierre-Syndrom" title="Lemierre-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Lemierre" title="Síndrome de Lemierre – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Lemierre" title="Syndrome de Lemierre – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Lemierre" title="Sindrome di Lemierre – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%AC%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%E7%97%87%E5%80%99%E7%BE%A4" title="レミエール症候群 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Lemierres_syndrom" title="Lemierres syndrom – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Lemierres_syndrom" title="Lemierres syndrom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q72000#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 9 May 2015, at 17:47.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lemierre%27s_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1249"});
+}</script>
+	</body>
+</html>

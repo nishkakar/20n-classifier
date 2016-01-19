@@ -1,0 +1,1905 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Wiskott–Aldrich syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wiskott%E2%80%93Aldrich_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Wiskott%E2%80%93Aldrich_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wiskott%E2%80%93Aldrich_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wiskott–Aldrich_syndrome","wgTitle":"Wiskott–Aldrich syndrome","wgCurRevisionId":669051625,"wgRevisionId":669051625,"wgArticleId":1211445,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing cite templates with deprecated parameters","Articles needing additional references from April 2013","All articles needing additional references","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from April 2013","Articles that use a Medicine navs subtemplate","Cytoskeletal defects","IUIS-PID table 3 immunodeficiencies","Rare diseases","Noninfectious immunodeficiency-related cutaneous conditions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wiskott–Aldrich_syndrome","wgRelevantArticleId":1211445,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/X-linked_recessive.svg/66px-X-linked_recessive.svg.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q953638"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Wiskott–Aldrich_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Wiskott–Aldrich syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2013)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Wiskott-Aldrich syndrome</th>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/D82.0">D82.0</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=279.12">279.12</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/301000">301000</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb14176.htm">14176</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/med/topic1162.htm">med/1162</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/ped/topic2443.htm#">ped/2443</a> <a rel="nofollow" class="external text" href="http://www.emedicine.com/derm/topic702.htm#">derm/702</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D014923">D014923</a></td>
+</tr>
+</table>
+<p><b>Wiskott–Aldrich syndrome</b> (WAS) is a rare <a href="/wiki/X-linked_recessive_inheritance" title="X-linked recessive inheritance">X-linked recessive</a> disease characterized by <a href="/wiki/Eczema" title="Eczema" class="mw-redirect">eczema</a>, <a href="/wiki/Thrombocytopenia" title="Thrombocytopenia">thrombocytopenia</a> (low <a href="/wiki/Platelet" title="Platelet">platelet</a> count), <a href="/wiki/Immune_deficiency" title="Immune deficiency" class="mw-redirect">immune deficiency</a>, and bloody diarrhea (secondary to the thrombocytopenia). It is also sometimes called the <b>eczema-thrombocytopenia-immunodeficiency syndrome</b> in keeping with Aldrich's original description in 1954.<sup id="cite_ref-Aldrich_1-0" class="reference"><a href="#cite_note-Aldrich-1"><span>[</span>1<span>]</span></a></sup> The WAS-related disorders of X-linked thrombocytopenia (XLT) and X-linked congenital neutropenia (XLN) may present similar but less severe symptoms and are caused by mutations of the same gene.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Diagnosis"><span class="tocnumber">2</span> <span class="toctext">Diagnosis</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Classification"><span class="tocnumber">3</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Pathophysiology"><span class="tocnumber">4</span> <span class="toctext">Pathophysiology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Genetics"><span class="tocnumber">4.1</span> <span class="toctext">Genetics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Treatment"><span class="tocnumber">5</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Epidemiology"><span class="tocnumber">6</span> <span class="toctext">Epidemiology</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#History"><span class="tocnumber">7</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The disease occurs only in males. The first signs of WAS are usually <a href="/wiki/Petechiae" title="Petechiae" class="mw-redirect">petechiae</a> and bruising, resulting from a low platelet count. Spontaneous <a href="/wiki/Epistaxis" title="Epistaxis" class="mw-redirect">nose bleeds</a> and bloody diarrhea are common. <a href="/wiki/Eczema" title="Eczema" class="mw-redirect">Eczema</a> develops within the first month of life. Recurrent bacterial <a href="/wiki/Infection" title="Infection">infections</a> develop by three months. <a href="/wiki/Splenomegaly" title="Splenomegaly">Enlargement of the spleen</a> is not an uncommon finding. The majority of WAS children develop at least one <a href="/wiki/Autoimmune_disorder" title="Autoimmune disorder" class="mw-redirect">autoimmune disorder</a>, and <a href="/wiki/Malignancies" title="Malignancies" class="mw-redirect">cancers</a> (mainly <a href="/wiki/Lymphoma" title="Lymphoma">lymphoma</a> and <a href="/wiki/Leukemia" title="Leukemia">leukemia</a>) develop in up to a third of patients.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<p><a href="/wiki/Immunoglobulin_M" title="Immunoglobulin M">Immunoglobulin M</a> (IgM) levels are reduced, <a href="/wiki/IgA" title="IgA" class="mw-redirect">IgA</a> and <a href="/wiki/IgE" title="IgE" class="mw-redirect">IgE</a> are elevated, and <a href="/wiki/IgG" title="IgG" class="mw-redirect">IgG</a> levels can be normal, reduced, or elevated.<sup id="cite_ref-isbn0-8385-1494-4_3-0" class="reference"><a href="#cite_note-isbn0-8385-1494-4-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Diagnosis">Diagnosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=2" title="Edit section: Diagnosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The diagnosis is made on the basis of clinical parameters, the <a href="/wiki/Peripheral_blood_smear" title="Peripheral blood smear" class="mw-redirect">peripheral blood smear</a>, and low <a href="/wiki/Immunoglobulin" title="Immunoglobulin" class="mw-redirect">immunoglobulin</a> levels. Typically, IgM levels are low, IgA levels are elevated, and IgE levels may be elevated; <a href="/wiki/Paraprotein" title="Paraprotein" class="mw-redirect">paraproteins</a> are occasionally observed.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup> Skin immunologic testing (allergy testing) may reveal hyposensitivity. Not all patients have a positive family history of the disorder; new mutations do occur. Often, leukemia may be suspected on the basis of low platelets and infections, and <a href="/wiki/Bone_marrow_biopsy" title="Bone marrow biopsy" class="mw-redirect">bone marrow biopsy</a> may be performed. Decreased levels of <a href="/wiki/Wiskott-Aldrich_syndrome_protein" title="Wiskott-Aldrich syndrome protein" class="mw-redirect">Wiskott-Aldrich syndrome protein</a> and/or confirmation of a causative mutation provides the most definitive diagnosis.</p>
+<p>Sequence analysis can detect the WAS-related disorders of Wiskott–Aldrich syndrome, XLT, and XLN. Sequence analysis of the <i>WASp</i> gene can detect about 98% of mutations in males and 97% of mutations in female carriers. Because XLT and XLN symptoms may be less severe than full WAS and because female carriers are usually asymptomatic, clinical diagnosis can be elusive. In these cases, genetic testing can be instrumental in diagnosis of WAS-related disorders.</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=3" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Jin et al. (2004) employ a numerical grading of severity:<sup id="cite_ref-Jin_5-0" class="reference"><a href="#cite_note-Jin-5"><span>[</span>5<span>]</span></a></sup></p>
+<ul>
+<li>0.5: intermittent thrombocytopenia</li>
+<li>1.0: thrombocytopenia and small platelets (microthrombocytopenia)</li>
+<li>2.0: microthrombocytopenia plus normally responsive eczema or occasional upper respiratory tract infections</li>
+<li>2.5: microthrombocytopenia plus therapy-responsive but severe eczema or airway infections requiring antibiotics</li>
+<li>3.0: microthrombocytopenia plus both eczema and airway infections requiring antibiotics</li>
+<li>4.0: microthrombocytopenia plus eczema continuously requiring therapy and/or severe or life-threatening infections</li>
+<li>5.0: microthrombocytopenia plus autoimmune disease or malignancy</li>
+</ul>
+<h2><span class="mw-headline" id="Pathophysiology">Pathophysiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=4" title="Edit section: Pathophysiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Wiskott–Aldrich syndrome, the platelets are small and do not function properly. They are removed by the <a href="/wiki/Spleen" title="Spleen">spleen</a>, which leads to low platelet counts.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2013)">citation needed</span></a></i>]</sup> The immune deficiency is caused by decreased <a href="/wiki/Antibody" title="Antibody">antibody</a> production, and the inability of <a href="/wiki/T_cell" title="T cell">T cells</a> to become polarized<sup id="cite_ref-titleWiskott-Aldrich_Syndrome:_Immunodeficiency_Disorders:_Merck_Manual_Professional_6-0" class="reference"><a href="#cite_note-titleWiskott-Aldrich_Syndrome:_Immunodeficiency_Disorders:_Merck_Manual_Professional-6"><span>[</span>6<span>]</span></a></sup> (making it a <a href="/wiki/Combined_immunodeficiency" title="Combined immunodeficiency" class="mw-redirect">combined immunodeficiency</a>). This leads to increased susceptibility to infections, particularly of the ears and sinuses. T cells are unable to reorganize their actin cytoskeleton.</p>
+<h3><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=5" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:X-linked_recessive.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/X-linked_recessive.svg/220px-X-linked_recessive.svg.png" width="220" height="334" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/X-linked_recessive.svg/330px-X-linked_recessive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/X-linked_recessive.svg/440px-X-linked_recessive.svg.png 2x" data-file-width="600" data-file-height="911" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:X-linked_recessive.svg" class="internal" title="Enlarge"></a></div>
+Wiskott–Aldrich syndrome has an <a href="/wiki/X-linked_recessive" title="X-linked recessive" class="mw-redirect">X-linked recessive</a> pattern of inheritance.</div>
+</div>
+</div>
+<p>Wiskott–Aldrich syndrome was linked in 1994<sup id="cite_ref-Derry1994_7-0" class="reference"><a href="#cite_note-Derry1994-7"><span>[</span>7<span>]</span></a></sup> to mutations in a <a href="/wiki/Gene" title="Gene">gene</a> on the short arm of the <a href="/wiki/X_chromosome" title="X chromosome">X chromosome</a>, which was termed <a href="/wiki/Wiskott-Aldrich_syndrome_protein" title="Wiskott-Aldrich syndrome protein" class="mw-redirect">Wiskott-Aldrich syndrome protein</a> gene (<i>WASp</i>). The disease X-linked thrombocytopenia was later discovered to be also due to <i>WASp</i> mutations, but different ones from those that cause full-blown Wiskott–Aldrich syndrome. Furthermore, the rare disorder X-linked neutropenia has been linked to particular mutations of the <i>WASp</i> gene.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2013)">citation needed</span></a></i>]</sup></p>
+<p>The <i>WASp</i> gene codes for the protein WASp, which is 502 <a href="/wiki/Amino_acid" title="Amino acid">amino acids</a> long and is mainly expressed in <a href="/wiki/Haematopoeisis" title="Haematopoeisis" class="mw-redirect">hematopoietic</a> cells (the cells in the bone marrow that develop into blood cells). The main function of WASp is to activate actin polymerization by binding to the <a href="/wiki/Arp2/3_complex" title="Arp2/3 complex">Arp2/3 complex</a>. In T-cells, WASp is important because it is known to be activated via <a href="/wiki/T-cell_receptor" title="T-cell receptor" class="mw-redirect">T-cell receptor</a> signaling pathways to induce cortical actin <a href="/wiki/Cytoskeleton" title="Cytoskeleton">cytoskeleton</a> rearrangements that are responsible for forming the <a href="/wiki/Immunological_synapse" title="Immunological synapse">immunological synapse</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2013)">citation needed</span></a></i>]</sup></p>
+<p>The type of mutation to the <i>WASp</i> gene correlates significantly with the degree of severity: those that led to the production of a truncated protein caused significantly more symptoms than those with a <a href="/wiki/Missense_mutation" title="Missense mutation">missense mutation</a> but a normal-length WASp.<sup id="cite_ref-Jin_5-1" class="reference"><a href="#cite_note-Jin-5"><span>[</span>5<span>]</span></a></sup> Although autoimmune disease and malignancy may occur in both types of mutations, those patients with truncated <i>WASp</i> carry a higher risk.</p>
+<p>A defect in the <a href="/wiki/CD43" title="CD43">CD43</a> molecule has been found in patients with Wiskott–Aldrich syndrome.<sup id="cite_ref-CD43_a_defective_molecule_in_Wiskott-Aldrich_syndrome_8-0" class="reference"><a href="#cite_note-CD43_a_defective_molecule_in_Wiskott-Aldrich_syndrome-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=6" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Treatment of Wiskott–Aldrich syndrome is currently based on correcting symptoms. <a href="/wiki/Aspirin" title="Aspirin">Aspirin</a> and other <a href="/wiki/Nonsteroidal_anti-inflammatory_drug" title="Nonsteroidal anti-inflammatory drug">nonsteroidal anti-inflammatory drugs</a> should be avoided, since these may interfere with platelet function. A protective helmet can protect children from <a href="/wiki/Intra-axial_hematoma" title="Intra-axial hematoma" class="mw-redirect">bleeding into the brain</a> which could result from head injuries. For severely low platelet counts, patients may require platelet transfusions or <a href="/wiki/Splenectomy" title="Splenectomy">removal of the spleen</a>. For patients with frequent infections, <a href="/wiki/Intravenous_immunoglobulin" title="Intravenous immunoglobulin">intravenous immunoglobulins</a> (IVIG) can be given to boost the immune system. <a href="/wiki/Anemia" title="Anemia">Anemia</a> from bleeding may require iron supplementation or <a href="/wiki/Blood_transfusion" title="Blood transfusion">blood transfusion</a>.</p>
+<p>As Wiskott–Aldrich syndrome is primarily a disorder of the blood-forming tissues, a <a href="/wiki/Haematopoiesis" title="Haematopoiesis">hematopoietic</a> <a href="/wiki/Stem_cell" title="Stem cell">stem cell</a> transplant, accomplished through a <a href="/wiki/Cord_blood" title="Cord blood">umbilical cord blood</a> or <a href="/wiki/Bone_marrow_transplant" title="Bone marrow transplant" class="mw-redirect">bone marrow transplant</a> offers the only current hope of cure. This may be recommended for patients with <a href="/wiki/Human_leukocyte_antigen" title="Human leukocyte antigen">HLA</a>-identical donors, matched sibling donors, or even in cases of incomplete matches if the patient is age 5 or under.</p>
+<p>Studies of correcting Wiskott–Aldrich syndrome with <a href="/wiki/Gene_therapy" title="Gene therapy">gene therapy</a> using a <a href="/wiki/Lentivirus" title="Lentivirus">lentivirus</a> have begun.<sup id="cite_ref-Galy_9-0" class="reference"><a href="#cite_note-Galy-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Frecha_10-0" class="reference"><a href="#cite_note-Frecha-10"><span>[</span>10<span>]</span></a></sup> Proof-of-principle for successful hematopoietic stem cell gene therapy has been provided for patients with Wiskott–Aldrich syndrome.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> Currently, many investigators continue to develop optimized gene therapy vectors.<sup id="cite_ref-Jin_5-2" class="reference"><a href="#cite_note-Jin-5"><span>[</span>5<span>]</span></a></sup><sup id="cite_ref-Galy_9-1" class="reference"><a href="#cite_note-Galy-9"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-Frecha_10-1" class="reference"><a href="#cite_note-Frecha-10"><span>[</span>10<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> In July 2013 the Italian San Raffaele Telethon Institute for Gene Therapy (HSR-TIGET) reported that three children with Wiskott–Aldrich syndrome showed significant improvement 20–30 months after being treated with a genetically modified lentivirus.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> In April 2015 results from a follow-up British and French trial where six children with Wiskott–Aldrich syndrome were treated with gene therapy were described as promising.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Median follow-up time was 27 months.</p>
+<h2><span class="mw-headline" id="Epidemiology">Epidemiology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=7" title="Edit section: Epidemiology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The estimated incidence of Wiskott–Aldrich syndrome in the United States is one in 250,000 live male births. No geographical factor is present.<sup id="cite_ref-emedicine.medscape.com_16-0" class="reference"><a href="#cite_note-emedicine.medscape.com-16"><span>[</span>16<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=8" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The syndrome is named after Dr. Robert Anderson Aldrich (1917–1998), an American pediatrician who described the disease in a family of Dutch-Americans in 1954,<sup id="cite_ref-Aldrich_1-1" class="reference"><a href="#cite_note-Aldrich-1"><span>[</span>1<span>]</span></a></sup> and Dr. Alfred Wiskott (1898–1978), a German pediatrician who first noticed the syndrome in 1937.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup> Wiskott described three brothers with a similar disease, whose sisters were unaffected. In 2006, a German research group analysed family members of Wiskott's three cases, and surmised they probably shared a novel frameshift mutation of the first exon of the <i>WASp</i> gene.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Aldrich-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Aldrich_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Aldrich_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Aldrich, R. A.; Steinberg, A. G.; Campbell, D. C. (1954). "Pedigree demonstrating a sex-linked recessive condition characterized by draining ears, eczematoid dermatitis and bloody diarrhea". <i>Pediatrics</i> <b>13</b> (2): 133–139. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13133561">13133561</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Pedigree+demonstrating+a+sex-linked+recessive+condition+characterized+by+draining+ears%2C+eczematoid+dermatitis+and+bloody+diarrhea&amp;rft.au=Aldrich%2C+R.+A.&amp;rft.au=Campbell%2C+D.+C.&amp;rft.aufirst=R.+A.&amp;rft.aulast=Aldrich&amp;rft.au=Steinberg%2C+A.+G.&amp;rft.date=1954&amp;rft.genre=article&amp;rft_id=info%3Apmid%2F13133561&amp;rft.issue=2&amp;rft.jtitle=Pediatrics&amp;rft.pages=133-139&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=13" class="Z3988"><span style="display:none;">&#160;</span></span><span class="plainlinks noprint" style="font-size:smaller">&#160;<a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_pmid/13133561&amp;action=edit&amp;editintro=Template:Cite_pmid/editintro2">edit</a></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://emedicine.medscape.com/article/137015-overview">http://emedicine.medscape.com/article/137015-overview</a></span></li>
+<li id="cite_note-isbn0-8385-1494-4-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-isbn0-8385-1494-4_3-0">^</a></b></span> <span class="reference-text"><span class="citation book">Sande, Merle A.; Wilson, Walter P. (2001). <i>Current diagnosis &amp; treatment in infectious diseases</i>. New York: Lange Medical Books/McGraw-Hill. p.&#160;361. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8385-1494-4" title="Special:BookSources/0-8385-1494-4">0-8385-1494-4</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.aulast=Sande%2C+Merle+A.%3B+Wilson%2C+Walter+P.&amp;rft.au=Sande%2C+Merle+A.%3B+Wilson%2C+Walter+P.&amp;rft.btitle=Current+diagnosis+%26+treatment+in+infectious+diseases&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-8385-1494-4&amp;rft.pages=361&amp;rft.place=New+York&amp;rft.pub=Lange+Medical+Books%2FMcGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Radl, J.; Dooren, L. H.; Morell, A.; Skvaril, F.; Vossen, J. M.; Uittenbogaart, C. H. (1976). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1541349">"Immunoglobulins and transient paraproteins in sera of patients with the Wiskott-Aldrich syndrome: a follow-up study"</a>. <i>Clinical and experimental immunology</i> <b>25</b> (2): 256–263. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1541349">1541349</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/954233">954233</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Immunoglobulins+and+transient+paraproteins+in+sera+of+patients+with+the+Wiskott-Aldrich+syndrome%3A+a+follow-up+study&amp;rft.au=Dooren%2C+L.+H.&amp;rft.aufirst=J.&amp;rft.aulast=Radl&amp;rft.au=Morell%2C+A.&amp;rft.au=Radl%2C+J.&amp;rft.au=Skvaril%2C+F.&amp;rft.au=Uittenbogaart%2C+C.+H.&amp;rft.au=Vossen%2C+J.+M.&amp;rft.date=1976&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1541349&amp;rft_id=info%3Apmc%2F1541349&amp;rft_id=info%3Apmid%2F954233&amp;rft.issue=2&amp;rft.jtitle=Clinical+and+experimental+immunology&amp;rft.pages=256-263&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span><span class="plainlinks noprint" style="font-size:smaller">&#160;<a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_pmid/954233&amp;action=edit&amp;editintro=Template:Cite_pmid/editintro2">edit</a></span></span></li>
+<li id="cite_note-Jin-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jin_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jin_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jin_5-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Jin, Y.; Mazza, C.; Christie, J.; Giliani, S.; Fiorini, M.; Mella, P.; Gandellini, F.; Stewart, D.; Zhu, Q.; Nelson, D. L.; Notarangelo, L. D.; Ochs, H. D. (2004). "Mutations of the Wiskott-Aldrich Syndrome Protein (WASP): hotspots, effect on transcription, and translation and phenotype/genotype correlation". <i>Blood</i> <b>104</b> (13): 4010–4019. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1182%2Fblood-2003-05-1592">10.1182/blood-2003-05-1592</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15284122">15284122</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Mutations+of+the+Wiskott-Aldrich+Syndrome+Protein+%28WASP%29%3A+hotspots%2C+effect+on+transcription%2C+and+translation+and+phenotype%2Fgenotype+correlation&amp;rft.au=Christie%2C+J.&amp;rft.au=Fiorini%2C+M.&amp;rft.aufirst=Y.&amp;rft.au=Gandellini%2C+F.&amp;rft.au=Giliani%2C+S.&amp;rft.au=Jin%2C+Y.&amp;rft.aulast=Jin&amp;rft.au=Mazza%2C+C.&amp;rft.au=Mella%2C+P.&amp;rft.au=Nelson%2C+D.+L.&amp;rft.au=Notarangelo%2C+L.+D.&amp;rft.au=Ochs%2C+H.+D.&amp;rft.au=Stewart%2C+D.&amp;rft.au=Zhu%2C+Q.&amp;rft.date=2004&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1182%2Fblood-2003-05-1592&amp;rft_id=info%3Apmid%2F15284122&amp;rft.issue=13&amp;rft.jtitle=Blood&amp;rft.pages=4010-4019&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=104" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1182.2Fblood-2003-05-1592&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-titleWiskott-Aldrich_Syndrome:_Immunodeficiency_Disorders:_Merck_Manual_Professional-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-titleWiskott-Aldrich_Syndrome:_Immunodeficiency_Disorders:_Merck_Manual_Professional_6-0">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.merck.com/mmpe/sec13/ch164/ch164n.html">"Wiskott-Aldrich Syndrome: Immunodeficiency Disorders: Merck Manual Professional"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-03-01</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.btitle=Wiskott-Aldrich+Syndrome%3A+Immunodeficiency+Disorders%3A+Merck+Manual+Professional&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.merck.com%2Fmmpe%2Fsec13%2Fch164%2Fch164n.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Derry1994-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Derry1994_7-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Derry JM, Ochs HD, Francke U (1994). "Isolation of a novel gene mutated in Wiskott-Aldrich syndrome". <i>Cell</i> <b>78</b>: 635–644, erratum on page 922. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2F0092-8674%2894%2990528-2">10.1016/0092-8674(94)90528-2</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/8069912">8069912</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Isolation+of+a+novel+gene+mutated+in+Wiskott-Aldrich+syndrome&amp;rft.au=Derry+JM%2C+Ochs+HD%2C+Francke+U&amp;rft.aulast=Derry+JM%2C+Ochs+HD%2C+Francke+U&amp;rft.date=1994&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2F0092-8674%2894%2990528-2&amp;rft_id=info%3Apmid%2F8069912&amp;rft.jtitle=Cell&amp;rft.pages=635-644%2C+erratum+on+page+922&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=78" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CD43_a_defective_molecule_in_Wiskott-Aldrich_syndrome-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-CD43_a_defective_molecule_in_Wiskott-Aldrich_syndrome_8-0">^</a></b></span> <span class="reference-text"><span class="citation journal">Rosenstein, Y.; Park, J. K.; Hahn, W. C.; Rosen, F. S.; Bierer, B. E.; Burakoff, S. J. (1991). "CD43, a molecule defective in Wiskott-Aldrich syndrome, binds ICAM-1". <i>Nature</i> <b>354</b> (6350): 233–235. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1991Natur.354..233R">1991Natur.354..233R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2F354233a0">10.1038/354233a0</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/1683685">1683685</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=CD43%2C+a+molecule+defective+in+Wiskott-Aldrich+syndrome%2C+binds+ICAM-1&amp;rft.au=Bierer%2C+B.+E.&amp;rft.au=Burakoff%2C+S.+J.&amp;rft.aufirst=Y.&amp;rft.au=Hahn%2C+W.+C.&amp;rft.aulast=Rosenstein&amp;rft.au=Park%2C+J.+K.&amp;rft.au=Rosen%2C+F.+S.&amp;rft.au=Rosenstein%2C+Y.&amp;rft.date=1991&amp;rft.genre=article&amp;rft_id=info%3Abibcode%2F1991Natur.354..233R&amp;rft_id=info%3Adoi%2F10.1038%2F354233a0&amp;rft_id=info%3Apmid%2F1683685&amp;rft.issue=6350&amp;rft.jtitle=Nature&amp;rft.pages=233-235&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=354" class="Z3988"><span style="display:none;">&#160;</span></span><span class="plainlinks noprint" style="font-size:smaller">&#160;<a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_pmid/1683685&amp;action=edit&amp;editintro=Template:Cite_pmid/editintro2">edit</a></span></span></li>
+<li id="cite_note-Galy-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Galy_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Galy_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Galy, A.; Roncarolo, M. G.; Thrasher, A. J. (2008). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2789278">"Development of lentiviral gene therapy for Wiskott Aldrich syndrome"</a>. <i>Expert Opinion on Biological Therapy</i> <b>8</b> (2): 181–190. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1517%2F14712598.8.2.181">10.1517/14712598.8.2.181</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC2789278">2789278</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18194074">18194074</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Development+of+lentiviral+gene+therapy+for+Wiskott+Aldrich+syndrome&amp;rft.aufirst=A.&amp;rft.au=Galy%2C+A.&amp;rft.aulast=Galy&amp;rft.au=Roncarolo%2C+M.+G.&amp;rft.au=Thrasher%2C+A.+J.&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC2789278&amp;rft_id=info%3Adoi%2F10.1517%2F14712598.8.2.181&amp;rft_id=info%3Apmc%2F2789278&amp;rft_id=info%3Apmid%2F18194074&amp;rft.issue=2&amp;rft.jtitle=Expert+Opinion+on+Biological+Therapy&amp;rft.pages=181-190&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=8" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1517.2F14712598.8.2.181&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-Frecha-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-Frecha_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Frecha_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation journal">Frecha, C; M G Toscano , C Costa , M J Saez-Lara , F L Cosset , E Verhoeyen &amp; F Martin (2008). "Improved lentiviral vectors for Wiskott Aldrich syndrome gene therapy mimic endogenous expression profiles throughout haematopoiesis". <i>Gene Therapy</i> <b>15</b> (12): 930–41. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1038%2Fgt.2008.20">10.1038/gt.2008.20</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18323794">18323794</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Improved+lentiviral+vectors+for+Wiskott+Aldrich+syndrome+gene+therapy+mimic+endogenous+expression+profiles+throughout+haematopoiesis&amp;rft.aufirst=C&amp;rft.au=Frecha%2C+C&amp;rft.aulast=Frecha&amp;rft.date=2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1038%2Fgt.2008.20&amp;rft_id=info%3Apmid%2F18323794&amp;rft.issue=12&amp;rft.jtitle=Gene+Therapy&amp;rft.pages=930-41&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=15" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Cite uses deprecated parameter <code style="color:inherit; border:inherit; padding:inherit;">|coauthors=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation journal">Boztug, K.; Schmidt, M.; Schwarzer, A.; Banerjee, P. P.; Díez, I. S. A.; Dewey, R. A.; Böhm, M.; Nowrouzi, A.; Ball, C. R.; Glimm, H.; Naundorf, S.; Kühlcke, K.; Blasczyk, R.; Kondratenko, I.; Maródi, L. S.; Orange, J. S.; Von Kalle, C.; Klein, C. (2010). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3064520">"Stem-Cell Gene Therapy for the Wiskott–Aldrich Syndrome"</a>. <i>New England Journal of Medicine</i> <b>363</b> (20): 1918–1927. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1056%2FNEJMoa1003548">10.1056/NEJMoa1003548</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3064520">3064520</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21067383">21067383</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Stem-Cell+Gene+Therapy+for+the+Wiskott%E2%80%93Aldrich+Syndrome&amp;rft.au=Ball%2C+C.+R.&amp;rft.au=Banerjee%2C+P.+P.&amp;rft.au=B%C3%B6hm%2C+M.&amp;rft.au=Blasczyk%2C+R.&amp;rft.au=Boztug%2C+K.&amp;rft.au=D%C3%ADez%2C+I.+S.+A.&amp;rft.au=Dewey%2C+R.+A.&amp;rft.aufirst=K.&amp;rft.au=Glimm%2C+H.&amp;rft.au=K%C3%BChlcke%2C+K.&amp;rft.au=Klein%2C+C.&amp;rft.au=Kondratenko%2C+I.&amp;rft.aulast=Boztug&amp;rft.au=Mar%C3%B3di%2C+L.+S.&amp;rft.au=Naundorf%2C+S.&amp;rft.au=Nowrouzi%2C+A.&amp;rft.au=Orange%2C+J.+S.&amp;rft.au=Schmidt%2C+M.&amp;rft.au=Schwarzer%2C+A.&amp;rft.au=Von+Kalle%2C+C.&amp;rft.date=2010&amp;rft.genre=article&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3064520&amp;rft_id=info%3Adoi%2F10.1056%2FNEJMoa1003548&amp;rft_id=info%3Apmc%2F3064520&amp;rft_id=info%3Apmid%2F21067383&amp;rft.issue=20&amp;rft.jtitle=New+England+Journal+of+Medicine&amp;rft.pages=1918-1927&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=363" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1056.2FNEJMoa1003548&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation journal">Dewey, R.; Avedillo Díez, I.; Ballmaier, M.; Filipovich, A.; Greil, J.; Güngör, T.; Happel, C.; Maschan, A.; Noyan, F.; Pannicke, U.; Schwarz, K.; Snapper, S.; Welte, K.; Klein, C. (2006). "Retroviral WASP gene transfer into human hematopoietic stem cells reconstitutes the actin cytoskeleton in myeloid progeny cells differentiated in vitro". <i>Experimental Hematology</i> <b>34</b> (9): 1161–1169. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.exphem.2006.04.021">10.1016/j.exphem.2006.04.021</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16939809">16939809</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Retroviral+WASP+gene+transfer+into+human+hematopoietic+stem+cells+reconstitutes+the+actin+cytoskeleton+in+myeloid+progeny+cells+differentiated+in+vitro&amp;rft.au=Avedillo+D%C3%ADez%2C+I.&amp;rft.au=Ballmaier%2C+M.&amp;rft.au=Dewey%2C+R.&amp;rft.au=Filipovich%2C+A.&amp;rft.aufirst=R.&amp;rft.au=G%C3%BCng%C3%B6r%2C+T.&amp;rft.au=Greil%2C+J.&amp;rft.au=Happel%2C+C.&amp;rft.au=Klein%2C+C.&amp;rft.aulast=Dewey&amp;rft.au=Maschan%2C+A.&amp;rft.au=Noyan%2C+F.&amp;rft.au=Pannicke%2C+U.&amp;rft.au=Schwarz%2C+K.&amp;rft.au=Snapper%2C+S.&amp;rft.au=Welte%2C+K.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1016%2Fj.exphem.2006.04.021&amp;rft_id=info%3Apmid%2F16939809&amp;rft.issue=9&amp;rft.jtitle=Experimental+Hematology&amp;rft.pages=1161-1169&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=34" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1016.2Fj.exphem.2006.04.021&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Aiuti, A.; Biasco, L.; Scaramuzza, S.; Ferrua, F.; Cicalese, M. P.; Baricordi, C.; Dionisio, F.; Calabria, A.; Giannelli, S.; Castiello, M. C.; Bosticardo, M.; Evangelio, C.; Assanelli, A.; Casiraghi, M.; Di Nunzio, S.; Callegaro, L.; Benati, C.; Rizzardi, P.; Pellin, D.; Di Serio, C.; Schmidt, M.; Von Kalle, C.; Gardner, J.; Mehta, N.; Neduva, V.; Dow, D. J.; Galy, A.; Miniero, R.; Finocchi, A.; Metin, A. (2013). "Lentiviral Hematopoietic Stem Cell Gene Therapy in Patients with Wiskott-Aldrich Syndrome". <i>Science</i> <b>341</b> (6148): 1233151. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1233151">10.1126/science.1233151</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/23845947">23845947</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Lentiviral+Hematopoietic+Stem+Cell+Gene+Therapy+in+Patients+with+Wiskott-Aldrich+Syndrome&amp;rft.au=Aiuti%2C+A.&amp;rft.au=Assanelli%2C+A.&amp;rft.au=Baricordi%2C+C.&amp;rft.au=Benati%2C+C.&amp;rft.au=Biasco%2C+L.&amp;rft.au=Bosticardo%2C+M.&amp;rft.au=Calabria%2C+A.&amp;rft.au=Callegaro%2C+L.&amp;rft.au=Casiraghi%2C+M.&amp;rft.au=Castiello%2C+M.+C.&amp;rft.au=Cicalese%2C+M.+P.&amp;rft.au=Di+Nunzio%2C+S.&amp;rft.au=Dionisio%2C+F.&amp;rft.au=Di+Serio%2C+C.&amp;rft.au=Dow%2C+D.+J.&amp;rft.au=Evangelio%2C+C.&amp;rft.au=Ferrua%2C+F.&amp;rft.au=Finocchi%2C+A.&amp;rft.aufirst=A.&amp;rft.au=Galy%2C+A.&amp;rft.au=Gardner%2C+J.&amp;rft.au=Giannelli%2C+S.&amp;rft.aulast=Aiuti&amp;rft.au=Mehta%2C+N.&amp;rft.au=Metin%2C+A.&amp;rft.au=Miniero%2C+R.&amp;rft.au=Neduva%2C+V.&amp;rft.au=Pellin%2C+D.&amp;rft.au=Rizzardi%2C+P.&amp;rft.au=Scaramuzza%2C+S.&amp;rft.au=Schmidt%2C+M.&amp;rft.au=Von+Kalle%2C+C.&amp;rft.date=2013&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1233151&amp;rft_id=info%3Apmid%2F23845947&amp;rft.issue=6148&amp;rft.jtitle=Science&amp;rft.pages=1233151&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=341" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1126.2Fscience.1233151&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Gallagher, James (21 April 2015) <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/news/health-32333161">Gene therapy: 'Tame HIV' used to cure disease</a> BBC News, Health, Retrieved 21 April 2015</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation journal">Malech, H. L.; Ochs, H. D. (2015). "An Emerging Era of Clinical Benefit from Gene Therapy". <i>JAMA (Journal of the American Medical Association)</i> <b>313</b> (15): 1522. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1001%2Fjama.2015.2055">10.1001/jama.2015.2055</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=An+Emerging+Era+of+Clinical+Benefit+from+Gene+Therapy&amp;rft.aufirst=H.+L.&amp;rft.aulast=Malech&amp;rft.au=Malech%2C+H.+L.&amp;rft.au=Ochs%2C+H.+D.&amp;rft.date=2015&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1001%2Fjama.2015.2055&amp;rft.issue=15&amp;rft.jtitle=JAMA+%28Journal+of+the+American+Medical+Association%29&amp;rft.pages=1522&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=313" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1001.2Fjama.2015.2055&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-emedicine.medscape.com-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-emedicine.medscape.com_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://emedicine.medscape.com/article/888939-overview#aw2aab6b2b5aa">Robert A Schwartz, MD, MPH; Chief Editor: Harumi Jyonouchi, MD. Pediatric Wiskott-Aldrich Syndrome</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation journal">Wiskott, A (1937). "<i>Familiärer, angeborener Morbus Werlhofii?</i> ("Familial congenital Werlhof's disease?")". <i>Montsschr Kinderheilkd</i> <b>68</b>: 212–16.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=Famili%26auml%3Brer%2C+angeborener+Morbus+Werlhofii%3F+%28%22Familial+congenital+Werlhof%27s+disease%3F%22%29&amp;rft.aufirst=A&amp;rft.aulast=Wiskott&amp;rft.au=Wiskott%2C+A&amp;rft.date=1937&amp;rft.genre=article&amp;rft.jtitle=Montsschr+Kinderheilkd&amp;rft.pages=212-16&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=68" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation journal">Binder, V.; Albert, M. H.; Kabus, M.; Bertone, M.; Meindl, A.; Belohradsky, B. H. (2006). "The Genotype of the Original Wiskott Phenotype". <i>New England Journal of Medicine</i> <b>355</b> (17): 1790–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1056%2FNEJMoa062520">10.1056/NEJMoa062520</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17065640">17065640</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWiskott%E2%80%93Aldrich+syndrome&amp;rft.atitle=The+Genotype+of+the+Original+Wiskott+Phenotype&amp;rft.au=Albert%2C+M.+H.&amp;rft.au=Belohradsky%2C+B.+H.&amp;rft.au=Bertone%2C+M.&amp;rft.au=Binder%2C+V.&amp;rft.aufirst=V.&amp;rft.au=Kabus%2C+M.&amp;rft.aulast=Binder&amp;rft.au=Meindl%2C+A.&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1056%2FNEJMoa062520&amp;rft_id=info%3Apmid%2F17065640&amp;rft.issue=17&amp;rft.jtitle=New+England+Journal+of+Medicine&amp;rft.pages=1790-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=355" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1056.2FNEJMoa062520&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&amp;part=was">GeneReviews/NIH/NCBI/UW entry on WAS-Related Disorders including Wiskott-Aldrich syndrome WAS X-linked thrombocytopenia XLT and X-linked congenital neutropenia XLN</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.primaryimmune.org/publications/book_pats/book_pats.htm">Immune Deficiency Foundation</a> - Chapter VII, "The Wiskott-Aldrich Syndrome"</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Diseases_of_the_skin_and_appendages_by_morphology" title="Template:Diseases of the skin and appendages by morphology"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Diseases_of_the_skin_and_appendages_by_morphology" title="Template talk:Diseases of the skin and appendages by morphology"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Diseases_of_the_skin_and_appendages_by_morphology&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Diseases of the skin and appendages by morphology</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Growths</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Epidermis" title="Epidermis">Epidermal</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wart" title="Wart">wart</a></li>
+<li><a href="/wiki/Callus" title="Callus">callus</a></li>
+<li><a href="/wiki/Seborrheic_keratosis" title="Seborrheic keratosis">seborrheic keratosis</a></li>
+<li><a href="/wiki/Acrochordon" title="Acrochordon">acrochordon</a></li>
+<li><a href="/wiki/Molluscum_contagiosum" title="Molluscum contagiosum">molluscum contagiosum</a></li>
+<li><a href="/wiki/Actinic_keratosis" title="Actinic keratosis">actinic keratosis</a></li>
+<li><a href="/wiki/Squamous-cell_carcinoma" title="Squamous-cell carcinoma">squamous-cell carcinoma</a></li>
+<li><a href="/wiki/Basal-cell_carcinoma" title="Basal-cell carcinoma">basal-cell carcinoma</a></li>
+<li><a href="/wiki/Merkel-cell_carcinoma" title="Merkel-cell carcinoma">Merkel-cell carcinoma</a></li>
+<li><a href="/wiki/Nevus_sebaceous" title="Nevus sebaceous">nevus sebaceous</a></li>
+<li><a href="/wiki/Trichoepithelioma" title="Trichoepithelioma">trichoepithelioma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Pigmented</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freckle" title="Freckle">Freckles</a></li>
+<li><a href="/wiki/Lentigo" title="Lentigo">lentigo</a></li>
+<li><a href="/wiki/Melasma" title="Melasma">melasma</a></li>
+<li><a href="/wiki/Nevus" title="Nevus">nevus</a></li>
+<li><a href="/wiki/Melanoma" title="Melanoma">melanoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dermis" title="Dermis">Dermal</a> and<br />
+subcutaneous</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Epidermoid_cyst" title="Epidermoid cyst">epidermal inclusion cyst</a></li>
+<li><a href="/wiki/Hemangioma" title="Hemangioma">hemangioma</a></li>
+<li><a href="/wiki/Benign_fibrous_histiocytoma" title="Benign fibrous histiocytoma">dermatofibroma (benign fibrous histiocytoma)</a></li>
+<li><a href="/wiki/Keloid" title="Keloid">keloid</a></li>
+<li><a href="/wiki/Lipoma" title="Lipoma">lipoma</a></li>
+<li><a href="/wiki/Neurofibroma" title="Neurofibroma">neurofibroma</a></li>
+<li><a href="/wiki/Xanthoma" title="Xanthoma">xanthoma</a></li>
+<li><a href="/wiki/Kaposi%27s_sarcoma" title="Kaposi's sarcoma">Kaposi's sarcoma</a></li>
+<li><a href="/wiki/Infantile_digital_fibromatosis" title="Infantile digital fibromatosis">infantile digital fibromatosis</a></li>
+<li><a href="/wiki/Granular_cell_tumor" title="Granular cell tumor">granular cell tumor</a></li>
+<li><a href="/wiki/Leiomyoma" title="Leiomyoma">leiomyoma</a></li>
+<li><a href="/wiki/Lymphangioma_circumscriptum" title="Lymphangioma circumscriptum">lymphangioma circumscriptum</a></li>
+<li><a href="/wiki/Myxoid_cyst" title="Myxoid cyst">myxoid cyst</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Rash" title="Rash">Rashes</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">With<br />
+epidermal<br />
+involvement</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Eczematous</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Contact_dermatitis" title="Contact dermatitis">contact dermatitis</a></li>
+<li><a href="/wiki/Atopic_dermatitis" title="Atopic dermatitis">atopic dermatitis</a></li>
+<li><a href="/wiki/Seborrhoeic_dermatitis" title="Seborrhoeic dermatitis">seborrheic dermatitis</a></li>
+<li><a href="/wiki/Stasis_dermatitis" title="Stasis dermatitis">stasis dermatitis</a></li>
+<li><a href="/wiki/Lichen_simplex_chronicus" title="Lichen simplex chronicus">lichen simplex chronicus</a></li>
+<li><a href="/wiki/Darier%27s_disease" title="Darier's disease">Darier's disease</a></li>
+<li><a href="/wiki/Glucagonoma_syndrome" title="Glucagonoma syndrome" class="mw-redirect">glucagonoma syndrome</a></li>
+<li><a href="/wiki/Langerhans_cell_histiocytosis" title="Langerhans cell histiocytosis">langerhans cell histiocytosis</a></li>
+<li><a href="/wiki/Lichen_sclerosus" title="Lichen sclerosus">lichen sclerosus</a></li>
+<li><a href="/wiki/Pemphigus" title="Pemphigus">pemphigus foliaceus</a></li>
+<li><strong class="selflink">Wiskott–Aldrich syndrome</strong></li>
+<li><a href="/wiki/Zinc_deficiency" title="Zinc deficiency">Zinc deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Scale_(dermatology)" title="Scale (dermatology)" class="mw-redirect">Scaling</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Psoriasis" title="Psoriasis">psoriasis</a></li>
+<li>tinea (<a href="/wiki/Tinea_corporis" title="Tinea corporis">corporis</a></li>
+<li><a href="/wiki/Tinea_cruris" title="Tinea cruris">cruris</a></li>
+<li><a href="/wiki/Athlete%27s_foot" title="Athlete's foot">pedis</a></li>
+<li><a href="/wiki/Tinea_manuum" title="Tinea manuum">manuum</a></li>
+<li><a href="/wiki/Tinea_faciei" title="Tinea faciei">faciei</a>)</li>
+<li><a href="/wiki/Pityriasis_rosea" title="Pityriasis rosea">pityriasis rosea</a></li>
+<li><a href="/wiki/Syphilis" title="Syphilis">secondary syphilis</a></li>
+<li><a href="/wiki/Mycosis_fungoides" title="Mycosis fungoides">mycosis fungoides</a></li>
+<li><a href="/wiki/Systemic_lupus_erythematosus" title="Systemic lupus erythematosus">systemic lupus erythematosus</a></li>
+<li><a href="/wiki/Pityriasis_rubra_pilaris" title="Pityriasis rubra pilaris">pityriasis rubra pilaris</a></li>
+<li><a href="/wiki/Parapsoriasis" title="Parapsoriasis">parapsoriasis</a></li>
+<li><a href="/wiki/Ichthyosis" title="Ichthyosis">ichthyosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Blister" title="Blister">Blistering</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Herpes_simplex" title="Herpes simplex">herpes simplex</a></li>
+<li><a href="/wiki/Herpes_zoster" title="Herpes zoster" class="mw-redirect">herpes zoster</a></li>
+<li><a href="/wiki/Chickenpox" title="Chickenpox">varicella</a></li>
+<li><a href="/wiki/Impetigo" title="Impetigo">bullous impetigo</a></li>
+<li><a href="/wiki/Contact_dermatitis" title="Contact dermatitis">acute contact dermatitis</a></li>
+<li><a href="/wiki/Pemphigus_vulgaris" title="Pemphigus vulgaris">pemphigus vulgaris</a></li>
+<li><a href="/wiki/Bullous_pemphigoid" title="Bullous pemphigoid">bullous pemphigoid</a></li>
+<li><a href="/wiki/Dermatitis_herpetiformis" title="Dermatitis herpetiformis">dermatitis herpetiformis</a></li>
+<li><a href="/wiki/Porphyria_cutanea_tarda" title="Porphyria cutanea tarda">porphyria cutanea tarda</a></li>
+<li><a href="/wiki/Epidermolysis_bullosa_simplex" title="Epidermolysis bullosa simplex">epidermolysis bullosa simplex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Papule" title="Papule">Papular</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scabies" title="Scabies">scabies</a></li>
+<li><a href="/wiki/Insect_bites_and_stings" title="Insect bites and stings">insect bite reactions</a></li>
+<li><a href="/wiki/Lichen_planus" title="Lichen planus">lichen planus</a></li>
+<li><a href="/wiki/Miliaria" title="Miliaria">miliaria</a></li>
+<li><a href="/wiki/Keratosis_pilaris" title="Keratosis pilaris">keratosis pilaris</a></li>
+<li><a href="/wiki/Lichen_spinulosus" title="Lichen spinulosus">lichen spinulosus</a></li>
+<li><a href="/wiki/Transient_acantholytic_dermatosis" title="Transient acantholytic dermatosis">transient acantholytic dermatosis</a></li>
+<li><a href="/wiki/Lichen_nitidus" title="Lichen nitidus">lichen nitidus</a></li>
+<li><a href="/wiki/Pityriasis_lichenoides_et_varioliformis_acuta" title="Pityriasis lichenoides et varioliformis acuta">pityriasis lichenoides et varioliformis acuta</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Pustule" title="Pustule" class="mw-redirect">Pustular</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acne_vulgaris" title="Acne vulgaris">acne vulgaris</a></li>
+<li><a href="/wiki/Acne_rosacea" title="Acne rosacea" class="mw-redirect">acne rosacea</a></li>
+<li><a href="/wiki/Folliculitis" title="Folliculitis">folliculitis</a></li>
+<li><a href="/wiki/Impetigo" title="Impetigo">impetigo</a></li>
+<li><a href="/wiki/Candidiasis" title="Candidiasis">candidiasis</a></li>
+<li><a href="/wiki/Neisseria_gonorrhoeae" title="Neisseria gonorrhoeae">gonococcemia</a></li>
+<li><a href="/wiki/Dermatophyte" title="Dermatophyte">dermatophyte</a></li>
+<li><a href="/wiki/Coccidioidomycosis" title="Coccidioidomycosis">coccidioidomycosis</a></li>
+<li><a href="/wiki/Subcorneal_pustular_dermatosis" title="Subcorneal pustular dermatosis" class="mw-redirect">subcorneal pustular dermatosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hypopigmented</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tinea_versicolor" title="Tinea versicolor">tinea versicolor</a></li>
+<li><a href="/wiki/Vitiligo" title="Vitiligo">vitiligo</a></li>
+<li><a href="/wiki/Pityriasis_alba" title="Pityriasis alba">pityriasis alba</a></li>
+<li><a href="/wiki/Postinflammatory_hyperpigmentation" title="Postinflammatory hyperpigmentation">postinflammatory hyperpigmentation</a></li>
+<li><a href="/wiki/Tuberous_sclerosis" title="Tuberous sclerosis">tuberous sclerosis</a></li>
+<li><a href="/wiki/Idiopathic_guttate_hypomelanosis" title="Idiopathic guttate hypomelanosis">idiopathic guttate hypomelanosis</a></li>
+<li><a href="/wiki/Leprosy" title="Leprosy">leprosy</a></li>
+<li><a href="/wiki/Mycosis_fungoides" title="Mycosis fungoides">hypopigmented mycosis fungoides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Without<br />
+epidermal<br />
+involvement</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Red</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Blanchable<br />
+<a href="/wiki/Erythema" title="Erythema">Erythema</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Generalized</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Drug_eruption" title="Drug eruption">drug eruptions</a></li>
+<li><a href="/wiki/Exanthem" title="Exanthem">viral exanthems</a></li>
+<li><a href="/wiki/Erythema_toxicum_neonatorum" title="Erythema toxicum neonatorum">toxic erythema</a></li>
+<li><a href="/wiki/Systemic_lupus_erythematosus" title="Systemic lupus erythematosus">systemic lupus erythematosus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Localized</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cellulitis" title="Cellulitis">cellulitis</a></li>
+<li><a href="/wiki/Abscess" title="Abscess">abscess</a></li>
+<li><a href="/wiki/Boil" title="Boil">boil</a></li>
+<li><a href="/wiki/Erythema_nodosum" title="Erythema nodosum">erythema nodosum</a></li>
+<li><a href="/wiki/Carcinoid_syndrome" title="Carcinoid syndrome">carcinoid syndrome</a></li>
+<li><a href="/wiki/Fixed_drug_eruption" title="Fixed drug eruption" class="mw-redirect">fixed drug eruption</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Specialized</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Urticaria" title="Urticaria">urticaria</a></li>
+<li>erythema (<a href="/wiki/Erythema_multiforme" title="Erythema multiforme">multiforme</a></li>
+<li><a href="/wiki/Erythema_chronicum_migrans" title="Erythema chronicum migrans">migrans</a></li>
+<li><a href="/wiki/Erythema_gyratum_repens" title="Erythema gyratum repens">gyratum repens</a></li>
+<li><a href="/wiki/Erythema_annulare_centrifugum" title="Erythema annulare centrifugum">annulare centrifugum</a></li>
+<li><a href="/wiki/Erythema_ab_igne" title="Erythema ab igne">ab igne</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Nonblanchable<br />
+Purpura</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">Macular</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thrombocytopenic_purpura" title="Thrombocytopenic purpura">thrombocytopenic purpura</a></li>
+<li><a href="/wiki/Solar_purpura" title="Solar purpura">actinic/solar purpura</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Papular</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Disseminated_intravascular_coagulation" title="Disseminated intravascular coagulation">disseminated intravascular coagulation</a></li>
+<li><a href="/wiki/Vasculitis" title="Vasculitis">vasculitis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Indurated</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scleroderma" title="Scleroderma">scleroderma</a>/<a href="/wiki/Morphea" title="Morphea">morphea</a></li>
+<li><a href="/wiki/Granuloma_annulare" title="Granuloma annulare">granuloma annulare</a></li>
+<li><a href="/wiki/Lichen_sclerosus" title="Lichen sclerosus">lichen sclerosis et atrophicus</a></li>
+<li><a href="/wiki/Necrobiosis_lipoidica" title="Necrobiosis lipoidica">necrobiosis lipoidica</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Miscellaneous<br />
+disorders</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Ulcer_(dermatology)" title="Ulcer (dermatology)">Ulcers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Hair</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Telogen_effluvium" title="Telogen effluvium">telogen effluvium</a></li>
+<li><a href="/wiki/Androgenic_alopecia" title="Androgenic alopecia" class="mw-redirect">androgenic alopecia</a></li>
+<li><a href="/wiki/Trichotillomania" title="Trichotillomania">trichotillomania</a></li>
+<li><a href="/wiki/Alopecia_areata" title="Alopecia areata">alopecia areata</a></li>
+<li><a href="/wiki/Systemic_lupus_erythematosus" title="Systemic lupus erythematosus">systemic lupus erythematosus</a></li>
+<li><a href="/wiki/Tinea_capitis" title="Tinea capitis">tinea capitis</a></li>
+<li><a href="/wiki/Loose_anagen_syndrome" title="Loose anagen syndrome">loose anagen syndrome</a></li>
+<li><a href="/wiki/Lichen_planopilaris" title="Lichen planopilaris" class="mw-redirect">lichen planopilaris</a></li>
+<li><a href="/wiki/Folliculitis_decalvans" title="Folliculitis decalvans">folliculitis decalvans</a></li>
+<li><a href="/wiki/Pseudofolliculitis_barbae" title="Pseudofolliculitis barbae">acne keloidalis nuchae</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nail_(anatomy)" title="Nail (anatomy)">Nail</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Onychomycosis" title="Onychomycosis">onychomycosis</a></li>
+<li><a href="/wiki/Psoriasis" title="Psoriasis">psoriasis</a></li>
+<li><a href="/wiki/Paronychia" title="Paronychia">paronychia</a></li>
+<li><a href="/wiki/Ingrown_nail" title="Ingrown nail">ingrown nail</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mucous_membrane" title="Mucous membrane">Mucous<br />
+membrane</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aphthous_stomatitis" title="Aphthous stomatitis">Aphthous stomatitis</a></li>
+<li><a href="/wiki/Oral_candidiasis" title="Oral candidiasis">oral candidiasis</a></li>
+<li><a href="/wiki/Lichen_planus" title="Lichen planus">lichen planus</a></li>
+<li><a href="/wiki/Leukoplakia" title="Leukoplakia">leukoplakia</a></li>
+<li><a href="/wiki/Pemphigus" title="Pemphigus">pemphigus vulgaris</a></li>
+<li><a href="/wiki/Mucous_membrane_pemphigoid" title="Mucous membrane pemphigoid" class="mw-redirect">mucous membrane pemphigoid</a></li>
+<li><a href="/wiki/Cicatricial_pemphigoid" title="Cicatricial pemphigoid">cicatricial pemphigoid</a></li>
+<li><a href="/wiki/Herpesviridae" title="Herpesviridae">herpesvirus</a></li>
+<li><a href="/wiki/Coxsackievirus" title="Coxsackievirus">coxsackievirus</a></li>
+<li><a href="/wiki/Syphilis" title="Syphilis">syphilis</a></li>
+<li><a href="/wiki/Histoplasmosis" title="Histoplasmosis">systemic histoplasmosis</a></li>
+<li><a href="/wiki/Squamous-cell_carcinoma" title="Squamous-cell carcinoma">squamous-cell carcinoma</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Integument_navs" title="Template:Integument navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Integument_navs" title="Template talk:Integument navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Integument_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Integumentary_system" title="Integumentary system">skin</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Integumentary_system" title="Template:Integumentary system">Anatomy</a></li>
+<li><a href="/wiki/Template:Integumentary_physiology" title="Template:Integumentary physiology">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Connective_tissue" title="Template:Connective tissue">connective tissue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Development_of_integument" title="Template:Development of integument">Development</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bacterial_cutaneous_infections" title="Template:Bacterial cutaneous infections">Infections</a>
+<ul>
+<li><a href="/wiki/Template:Diseases_of_the_skin_and_appendages_by_morphology" title="Template:Diseases of the skin and appendages by morphology">by morphology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesiculobullous_disease" title="Template:Vesiculobullous disease">Vesiculobullous</a></li>
+<li><a href="/wiki/Template:Dermatitis_and_eczema" title="Template:Dermatitis and eczema">Dermatitis and eczema</a>
+<ul>
+<li><a href="/wiki/Template:Factitial_dermatitis" title="Template:Factitial dermatitis">factitial</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Papulosquamous_disorders" title="Template:Papulosquamous disorders">Papulosquamous</a></li>
+<li><a href="/wiki/Template:Urticaria_and_erythema" title="Template:Urticaria and erythema">Urticaria and erythema</a></li>
+<li><a href="/wiki/Template:Radiation-related_disorders" title="Template:Radiation-related disorders">Radiation-related</a></li>
+<li><a href="/wiki/Template:Pigmentation_disorders" title="Template:Pigmentation disorders">Pigmentation</a></li>
+<li><a href="/wiki/Template:Mucinoses" title="Template:Mucinoses">Mucinoses</a></li>
+<li><a href="/wiki/Template:Cutaneous_keratosis,_ulcer,_atrophy,_and_necrobiosis" title="Template:Cutaneous keratosis, ulcer, atrophy, and necrobiosis">Keratosis, ulcer, atrophy, and necrobiosis</a></li>
+<li><a href="/wiki/Template:Cutaneous_vasculitis" title="Template:Cutaneous vasculitis">Vasculitis</a></li>
+<li><a href="/wiki/Template:Disorders_of_subcutaneous_fat" title="Template:Disorders of subcutaneous fat">Fat</a></li>
+<li><a href="/wiki/Template:Neutrophilic_and_eosinophilic_dermatosis" title="Template:Neutrophilic and eosinophilic dermatosis">Neutrophilic and eosinophilic</a></li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_integument" title="Template:Congenital malformations and deformations of integument">Congenital</a></li>
+<li>Neoplasms and cancer
+<ul>
+<li><a href="/wiki/Template:Skin_tumors,_nevi_and_melanomas" title="Template:Skin tumors, nevi and melanomas">nevi and melanomas</a></li>
+<li><a href="/wiki/Template:Skin_tumors,_epidermis" title="Template:Skin tumors, epidermis">epidermis</a></li>
+<li><a href="/wiki/Template:Skin_tumors,_dermis" title="Template:Skin tumors, dermis">dermis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Skin_and_subcutaneous_tissue_symptoms_and_signs" title="Template:Skin and subcutaneous tissue symptoms and signs">Symptoms and signs</a></li>
+<li><a href="/wiki/Template:Clinical_and_histological_nomenclature_for_skin_lesions" title="Template:Clinical and histological nomenclature for skin lesions">Terminology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Skin_and_subcutaneous_tissue_procedures" title="Template:Skin and subcutaneous tissue procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antibiotics_and_chemotherapeutics_for_dermatological_use" title="Template:Antibiotics and chemotherapeutics for dermatological use">antibiotics</a></li>
+<li><a href="/wiki/Template:Antiseptics_and_disinfectants" title="Template:Antiseptics and disinfectants">disinfectants</a></li>
+<li><a href="/wiki/Template:Emollients_and_protectives" title="Template:Emollients and protectives">emollients and protectives</a></li>
+<li><a href="/wiki/Template:Antipruritics" title="Template:Antipruritics">itch</a></li>
+<li><a href="/wiki/Template:Antipsoriatics" title="Template:Antipsoriatics">psoriasis</a></li>
+<li><a href="/wiki/Template:Other_dermatological_preparations" title="Template:Other dermatological preparations">other</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Preparations_for_treatment_of_wounds_and_ulcers" title="Template:Preparations for treatment of wounds and ulcers">Wound and ulcer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lymphoid_and_complement_immunodeficiency" title="Template:Lymphoid and complement immunodeficiency"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lymphoid_and_complement_immunodeficiency" title="Template talk:Lymphoid and complement immunodeficiency"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lymphoid_and_complement_immunodeficiency&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Immune_disorder" title="Immune disorder">Immune disorders</a>: <a href="/wiki/Lymphatic_system" title="Lymphatic system">Lymphoid</a> and <a href="/wiki/Complement_system" title="Complement system">complement</a> <a href="/wiki/Immunodeficiency" title="Immunodeficiency">immunodeficiency</a> (<a href="/wiki/ICD-10_Chapter_II:_Neoplasms;_Chapter_III:_Diseases_of_the_blood_and_blood-forming_organs,_and_certain_disorders_involving_the_immune_mechanism#.28D80.E2.80.93D89.29_Certain_disorders_involving_the_immune_mechanism" title="ICD-10 Chapter II: Neoplasms; Chapter III: Diseases of the blood and blood-forming organs, and certain disorders involving the immune mechanism" class="mw-redirect">D80–D85</a>, <a href="/wiki/List_of_ICD-9_codes_240%E2%80%93279:_endocrine,_nutritional_and_metabolic_diseases,_and_immunity_disorders#Disorders_involving_the_immune_mechanism" title="List of ICD-9 codes 240–279: endocrine, nutritional and metabolic diseases, and immunity disorders">279.0–4</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Primary_immunodeficiency" title="Primary immunodeficiency">Primary</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Antibody" title="Antibody">Antibody</a>/<a href="/wiki/Humoral_immune_deficiency" title="Humoral immune deficiency">humoral</a> (<a href="/wiki/B_cell" title="B cell">B</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hypogammaglobulinemia" title="Hypogammaglobulinemia">Hypogammaglobulinemia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X-linked_agammaglobulinemia" title="X-linked agammaglobulinemia">X-linked agammaglobulinemia</a></li>
+<li><a href="/wiki/Transient_hypogammaglobulinemia_of_infancy" title="Transient hypogammaglobulinemia of infancy">Transient hypogammaglobulinemia of infancy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dysgammaglobulinemia" title="Dysgammaglobulinemia">Dysgammaglobulinemia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Selective_immunoglobulin_A_deficiency" title="Selective immunoglobulin A deficiency">IgA deficiency</a></li>
+<li><a href="/wiki/Selective_deficiency_of_immunoglobulin_G" title="Selective deficiency of immunoglobulin G" class="mw-redirect">IgG deficiency</a></li>
+<li><a href="/wiki/Immunoglobulin_M_deficiency" title="Immunoglobulin M deficiency" class="mw-redirect">IgM deficiency</a></li>
+<li><a href="/wiki/Hyper_IgM_syndrome" title="Hyper IgM syndrome">Hyper IgM syndrome</a> (<a href="/wiki/Hyper-IgM_syndrome_type_2" title="Hyper-IgM syndrome type 2">2</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_3" title="Hyper-IgM syndrome type 3">3</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_4" title="Hyper-IgM syndrome type 4">4</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_5" title="Hyper-IgM syndrome type 5">5</a>)</li>
+<li><a href="/wiki/Wiskott-Aldrich_syndrome" title="Wiskott-Aldrich syndrome" class="mw-redirect">Wiskott-Aldrich syndrome</a></li>
+<li><a href="/wiki/Hyperimmunoglobulin_E_syndrome" title="Hyperimmunoglobulin E syndrome">Hyper-IgE syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Common_variable_immunodeficiency" title="Common variable immunodeficiency">Common variable immunodeficiency</a></li>
+<li><a href="/wiki/ICF_syndrome" title="ICF syndrome" class="mw-redirect">ICF syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/T_cell_deficiency" title="T cell deficiency">T cell deficiency</a> (<a href="/wiki/T_cell" title="T cell">T</a>)</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Thymic_hypoplasia" title="Thymic hypoplasia">thymic hypoplasia</a>:</i> <i>hypoparathyroid</i> (<a href="/wiki/DiGeorge_syndrome" title="DiGeorge syndrome">Di George's syndrome</a>)</li>
+<li><i>euparathyroid</i> (<a href="/wiki/Nezelof_syndrome" title="Nezelof syndrome">Nezelof syndrome</a></li>
+<li><a href="/wiki/Ataxia_telangiectasia" title="Ataxia telangiectasia">Ataxia telangiectasia</a>)</li>
+</ul>
+<p><i>peripheral:</i> <a href="/wiki/Purine_nucleoside_phosphorylase_deficiency" title="Purine nucleoside phosphorylase deficiency">Purine nucleoside phosphorylase deficiency</a></p>
+<ul>
+<li><a href="/wiki/Hyper_IgM_syndrome" title="Hyper IgM syndrome">Hyper IgM syndrome</a> (<a href="/wiki/Hyper-IgM_syndrome_type_1" title="Hyper-IgM syndrome type 1">1</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Severe_combined_immunodeficiency" title="Severe combined immunodeficiency">Severe</a> <a href="/wiki/Combined_immunodeficiencies" title="Combined immunodeficiencies">combined</a> (B+T)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i>x-linked:</i> <a href="/wiki/X-linked_severe_combined_immunodeficiency" title="X-linked severe combined immunodeficiency">X-SCID</a><br />
+<i>autosomal:</i> <a href="/wiki/Adenosine_deaminase_deficiency" title="Adenosine deaminase deficiency">Adenosine deaminase deficiency</a></li>
+<li><a href="/wiki/Omenn_syndrome" title="Omenn syndrome">Omenn syndrome</a></li>
+<li><a href="/wiki/ZAP70_deficiency" title="ZAP70 deficiency">ZAP70 deficiency</a></li>
+<li><a href="/wiki/Bare_lymphocyte_syndrome" title="Bare lymphocyte syndrome">Bare lymphocyte syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Immunodeficiency#acquired" title="Immunodeficiency">Acquired</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AIDS" title="AIDS" class="mw-redirect">AIDS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Leukopenia" title="Leukopenia">Leukopenia</a>:<br />
+<a href="/wiki/Lymphocytopenia" title="Lymphocytopenia">Lymphocytopenia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Idiopathic_CD4%2B_lymphocytopenia" title="Idiopathic CD4+ lymphocytopenia">Idiopathic CD4+ lymphocytopenia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Complement_deficiency" title="Complement deficiency">Complement deficiency</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/C1-inhibitor" title="C1-inhibitor">C1-inhibitor</a></i> (<a href="/wiki/Angioedema" title="Angioedema">Angioedema</a>/<a href="/wiki/Hereditary_angioedema" title="Hereditary angioedema">Hereditary angioedema</a>)</li>
+<li><a href="/wiki/Complement_2_deficiency" title="Complement 2 deficiency">Complement 2 deficiency</a>/<a href="/wiki/Complement_4_deficiency" title="Complement 4 deficiency">Complement 4 deficiency</a></li>
+<li><a href="/wiki/MBL_deficiency" title="MBL deficiency">MBL deficiency</a></li>
+<li><a href="/wiki/Properdin_deficiency" title="Properdin deficiency">Properdin deficiency</a></li>
+<li><a href="/wiki/Complement_3_deficiency" title="Complement 3 deficiency">Complement 3 deficiency</a></li>
+<li><a href="/wiki/Terminal_complement_pathway_deficiency" title="Terminal complement pathway deficiency">Terminal complement pathway deficiency</a></li>
+<li><a href="/wiki/Paroxysmal_nocturnal_hemoglobinuria" title="Paroxysmal nocturnal hemoglobinuria">Paroxysmal nocturnal hemoglobinuria</a></li>
+<li><a href="/wiki/Complement_receptor_deficiency" title="Complement receptor deficiency" class="mw-redirect">Complement receptor deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Lymph_immune_and_complement_navs" title="Template:Lymph immune and complement navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Lymph_immune_and_complement_navs" title="Template talk:Lymph immune and complement navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Lymph_immune_and_complement_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of the <a href="/wiki/Immune_system" title="Immune system">immune system</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Lymphocytic_immune_system" title="Template:Lymphocytic immune system">Physiology</a>
+<ul>
+<li><a href="/wiki/Template:Lymphocytes" title="Template:Lymphocytes">cells</a></li>
+<li><a href="/wiki/Template:Autoantigens" title="Template:Autoantigens">autoantigens</a></li>
+<li><a href="/wiki/Template:Autoantibodies" title="Template:Autoantibodies">autoantibodies</a></li>
+<li><a href="/wiki/Template:Complement_system" title="Template:Complement system">complement</a></li>
+<li><a href="/wiki/Template:Surface_antigens" title="Template:Surface antigens">surface antigens</a></li>
+<li><a href="/wiki/Template:Immunoglobulin_superfamily_immune_receptors" title="Template:Immunoglobulin superfamily immune receptors">IG receptors</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Allergic_conditions" title="Template:Allergic conditions">Allergies</a></li>
+<li><a href="/wiki/Template:Lymphoid_and_complement_immunodeficiency" title="Template:Lymphoid and complement immunodeficiency">Immunodeficiency</a></li>
+<li><a href="/wiki/Template:Immunoproliferative_immunoglobulin_disorders" title="Template:Immunoproliferative immunoglobulin disorders">Immunoproliferative immunoglobulin disorders</a></li>
+<li><a href="/wiki/Template:Hypersensitivity_and_autoimmune_diseases" title="Template:Hypersensitivity and autoimmune diseases">Hypersensitivity and autoimmune disorders</a></li>
+<li><a href="/wiki/Template:Lymphoid_malignancy" title="Template:Lymphoid malignancy">Neoplasms and cancer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Immunologic_techniques_and_tests" title="Template:Immunologic techniques and tests">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antihistamines" title="Template:Antihistamines">antihistamines</a></li>
+<li><a href="/wiki/Template:Immunostimulants" title="Template:Immunostimulants">immunostimulants</a></li>
+<li><a href="/wiki/Template:Immunosuppressants" title="Template:Immunosuppressants">immunosuppressants</a></li>
+<li><a href="/wiki/Template:Monoclonals_for_immune_system" title="Template:Monoclonals for immune system">monoclonal antibodies</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:X-linked_disorders" title="Template:X-linked disorders"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:X-linked_disorders" title="Template talk:X-linked disorders"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:X-linked_disorders&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Sex_linkage" title="Sex linkage">Sex linkage</a>: X-linked disorders</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div style="font-size:110%"><a href="/wiki/X-linked_recessive_inheritance" title="X-linked recessive inheritance">X-linked recessive</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Immune_disorder" title="Immune disorder">Immune</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chronic_granulomatous_disease" title="Chronic granulomatous disease">Chronic granulomatous disease (CYBB)</a></li>
+<li><strong class="selflink">Wiskott–Aldrich syndrome</strong></li>
+<li><a href="/wiki/X-linked_severe_combined_immunodeficiency" title="X-linked severe combined immunodeficiency">X-linked severe combined immunodeficiency</a></li>
+<li><a href="/wiki/X-linked_agammaglobulinemia" title="X-linked agammaglobulinemia">X-linked agammaglobulinemia</a></li>
+<li><a href="/wiki/Hyper-IgM_syndrome_type_1" title="Hyper-IgM syndrome type 1">Hyper-IgM syndrome type 1</a></li>
+<li><a href="/wiki/IPEX_(syndrome)" title="IPEX (syndrome)" class="mw-redirect">IPEX</a></li>
+<li><a href="/wiki/X-linked_lymphoproliferative_disease" title="X-linked lymphoproliferative disease">X-linked lymphoproliferative disease</a></li>
+<li><a href="/wiki/Properdin_deficiency" title="Properdin deficiency">Properdin deficiency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hematologic_disease" title="Hematologic disease">Hematologic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Haemophilia_A" title="Haemophilia A">Haemophilia A</a></li>
+<li><a href="/wiki/Haemophilia_B" title="Haemophilia B">Haemophilia B</a></li>
+<li><a href="/wiki/Sideroblastic_anemia" title="Sideroblastic anemia">X-linked sideroblastic anemia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Endocrine_disease" title="Endocrine disease">Endocrine</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Androgen_insensitivity_syndrome" title="Androgen insensitivity syndrome">Androgen insensitivity syndrome</a>/<a href="/wiki/Spinal_and_bulbar_muscular_atrophy" title="Spinal and bulbar muscular atrophy">Spinal and bulbar muscular atrophy</a></li>
+<li><a href="/wiki/Kallmann_syndrome" title="Kallmann syndrome">KAL1 Kallmann syndrome</a></li>
+<li><a href="/wiki/X-linked_adrenal_hypoplasia_congenita" title="X-linked adrenal hypoplasia congenita">X-linked adrenal hypoplasia congenita</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Metabolic_disorder" title="Metabolic disorder" class="mw-redirect">Metabolic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Inborn_errors_of_amino_acid_metabolism" title="Inborn errors of amino acid metabolism" class="mw-redirect">Amino acid</a>:</i> <a href="/wiki/Ornithine_transcarbamylase_deficiency" title="Ornithine transcarbamylase deficiency">Ornithine transcarbamylase deficiency</a></li>
+<li><a href="/wiki/Oculocerebrorenal_syndrome" title="Oculocerebrorenal syndrome">Oculocerebrorenal syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Dyslipidemia" title="Dyslipidemia">Dyslipidemia</a>:</i> <a href="/wiki/Adrenoleukodystrophy" title="Adrenoleukodystrophy">Adrenoleukodystrophy</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Carbohydrate_metabolism" title="Carbohydrate metabolism">Carbohydrate metabolism</a>:</i> <a href="/wiki/Glucose-6-phosphate_dehydrogenase_deficiency" title="Glucose-6-phosphate dehydrogenase deficiency">Glucose-6-phosphate dehydrogenase deficiency</a></li>
+<li><a href="/wiki/Pyruvate_dehydrogenase_deficiency" title="Pyruvate dehydrogenase deficiency">Pyruvate dehydrogenase deficiency</a></li>
+<li><a href="/wiki/Danon_disease" title="Danon disease">Danon disease/glycogen storage disease Type IIb</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Lipid_storage_disorder" title="Lipid storage disorder">Lipid storage disorder</a></i>: <a href="/wiki/Fabry%27s_disease" title="Fabry's disease" class="mw-redirect">Fabry's disease</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Mucopolysaccharidosis" title="Mucopolysaccharidosis">Mucopolysaccharidosis</a>:</i> <a href="/wiki/Hunter_syndrome" title="Hunter syndrome">Hunter syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Inborn_errors_of_purine-pyrimidine_metabolism" title="Inborn errors of purine-pyrimidine metabolism" class="mw-redirect">Purine-pyrimidine metabolism</a>:</i> <a href="/wiki/Lesch%E2%80%93Nyhan_syndrome" title="Lesch–Nyhan syndrome">Lesch–Nyhan syndrome</a></li>
+</ul>
+<ul>
+<li><i><a href="/wiki/Dietary_mineral" title="Dietary mineral" class="mw-redirect">Mineral</a>:</i> <a href="/wiki/Menkes_disease" title="Menkes disease">Menkes disease</a>/<a href="/wiki/Occipital_horn_syndrome" title="Occipital horn syndrome">Occipital horn syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Nervous_system_disease" title="Nervous system disease">Nervous system</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/X-linked_mental_retardation" title="X-linked mental retardation" class="mw-redirect">X-linked mental retardation</a>:</i> <a href="/wiki/Coffin%E2%80%93Lowry_syndrome" title="Coffin–Lowry syndrome">Coffin–Lowry syndrome</a></li>
+<li><a href="/wiki/MASA_syndrome" title="MASA syndrome">MASA syndrome</a></li>
+<li><a href="/wiki/X-linked_alpha_thalassemia_mental_retardation_syndrome" title="X-linked alpha thalassemia mental retardation syndrome" class="mw-redirect">X-linked alpha thalassemia mental retardation syndrome</a></li>
+<li><a href="/wiki/Siderius_X-linked_mental_retardation_syndrome" title="Siderius X-linked mental retardation syndrome" class="mw-redirect">Siderius X-linked mental retardation syndrome</a></li>
+</ul>
+<ul>
+<li><i>Eye disorders:</i> <a href="/wiki/Color_blindness#Genetic_modes_of_inheritance" title="Color blindness">Color blindness (red and green, but not blue)</a></li>
+<li><a href="/wiki/Ocular_albinism" title="Ocular albinism">Ocular albinism</a> (<a href="/wiki/Ocular_albinism_type_1" title="Ocular albinism type 1">1</a>)</li>
+<li><a href="/wiki/Norrie_disease" title="Norrie disease">Norrie disease</a></li>
+<li><a href="/wiki/Choroideremia" title="Choroideremia">Choroideremia</a></li>
+</ul>
+<ul>
+<li><i>Other:</i> <a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease (CMTX2-3)</a></li>
+<li><a href="/wiki/Pelizaeus%E2%80%93Merzbacher_disease" title="Pelizaeus–Merzbacher disease">Pelizaeus–Merzbacher disease</a></li>
+<li><a href="/wiki/X-linked_spinal_muscular_atrophy_2" title="X-linked spinal muscular atrophy 2" class="mw-redirect">SMAX2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Skin_disease" title="Skin disease" class="mw-redirect">Skin</a> and related tissue</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dyskeratosis_congenita" title="Dyskeratosis congenita">Dyskeratosis congenita</a></li>
+<li><a href="/wiki/Hypohidrotic_ectodermal_dysplasia" title="Hypohidrotic ectodermal dysplasia">Hypohidrotic ectodermal dysplasia (EDA)</a></li>
+<li><a href="/wiki/X-linked_ichthyosis" title="X-linked ichthyosis">X-linked ichthyosis</a></li>
+<li><a href="/wiki/X-linked_endothelial_corneal_dystrophy" title="X-linked endothelial corneal dystrophy">X-linked endothelial corneal dystrophy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Neuromuscular_disease" title="Neuromuscular disease">Neuromuscular</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Becker%27s_muscular_dystrophy" title="Becker's muscular dystrophy">Becker's muscular dystrophy</a>/<a href="/wiki/Duchenne_muscular_dystrophy" title="Duchenne muscular dystrophy">Duchenne</a></li>
+<li><a href="/wiki/Centronuclear_myopathy" title="Centronuclear myopathy">Centronuclear myopathy (MTM1)</a></li>
+<li><a href="/wiki/Conradi%E2%80%93H%C3%BCnermann_syndrome" title="Conradi–Hünermann syndrome">Conradi–Hünermann syndrome</a></li>
+<li><a href="/wiki/Emery%E2%80%93Dreifuss_muscular_dystrophy" title="Emery–Dreifuss muscular dystrophy">Emery–Dreifuss muscular dystrophy 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Urologic_disease" title="Urologic disease">Urologic</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alport_syndrome" title="Alport syndrome">Alport syndrome</a></li>
+<li><a href="/wiki/Dent%27s_disease" title="Dent's disease">Dent's disease</a></li>
+<li><a href="/wiki/Nephrogenic_diabetes_insipidus" title="Nephrogenic diabetes insipidus">X-linked nephrogenic diabetes insipidus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Bone" title="Bone">Bone</a>/<a href="/wiki/Tooth" title="Tooth">tooth</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amelogenesis_imperfecta" title="Amelogenesis imperfecta">AMELX Amelogenesis imperfecta</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">No primary system</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barth_syndrome" title="Barth syndrome">Barth syndrome</a></li>
+<li><a href="/wiki/McLeod_syndrome" title="McLeod syndrome">McLeod syndrome</a></li>
+<li><a href="/wiki/Smith%E2%80%93Fineman%E2%80%93Myers_syndrome" title="Smith–Fineman–Myers syndrome">Smith–Fineman–Myers syndrome</a></li>
+<li><a href="/wiki/Simpson%E2%80%93Golabi%E2%80%93Behmel_syndrome" title="Simpson–Golabi–Behmel syndrome">Simpson–Golabi–Behmel syndrome</a></li>
+<li><a href="/wiki/Mohr%E2%80%93Tranebj%C3%A6rg_syndrome" title="Mohr–Tranebjærg syndrome">Mohr–Tranebjærg syndrome</a></li>
+<li><a href="/wiki/Nasodigitoacoustic_syndrome" title="Nasodigitoacoustic syndrome">Nasodigitoacoustic syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div style="font-size:110%"><a href="/wiki/X-linked_dominant_inheritance" title="X-linked dominant inheritance">X-linked dominant</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist&#160;;" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/X-linked_hypophosphatemia" title="X-linked hypophosphatemia">X-linked hypophosphatemia</a></li>
+<li><a href="/wiki/Focal_dermal_hypoplasia" title="Focal dermal hypoplasia">Focal dermal hypoplasia</a></li>
+<li><a href="/wiki/Fragile_X_syndrome" title="Fragile X syndrome">Fragile X syndrome</a></li>
+<li><a href="/wiki/Aicardi_syndrome" title="Aicardi syndrome">Aicardi syndrome</a></li>
+<li><a href="/wiki/Incontinentia_pigmenti" title="Incontinentia pigmenti">Incontinentia pigmenti</a></li>
+<li><a href="/wiki/Rett_syndrome" title="Rett syndrome">Rett syndrome</a></li>
+<li><a href="/wiki/CHILD_syndrome" title="CHILD syndrome">CHILD syndrome</a></li>
+<li><a href="/wiki/Lujan%E2%80%93Fryns_syndrome" title="Lujan–Fryns syndrome">Lujan–Fryns syndrome</a></li>
+<li><a href="/wiki/Orofaciodigital_syndrome_1" title="Orofaciodigital syndrome 1">Orofaciodigital syndrome 1</a></li>
+<li><a href="/wiki/Craniofrontonasal_dysplasia" title="Craniofrontonasal dysplasia">Craniofrontonasal dysplasia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cytoskeletal_defects" title="Template talk:Cytoskeletal defects"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cytoskeletal_defects&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Cytoskeleton" title="Cytoskeleton">Cytoskeletal</a> defects</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Microfilament" title="Microfilament">Microfilaments</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Myofilament" title="Myofilament">Myofilament</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Actin" title="Actin">Actin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 11</a></li>
+<li><a href="/wiki/Dilated_cardiomyopathy" title="Dilated cardiomyopathy">Dilated cardiomyopathy 1AA</a></li>
+<li><a href="/wiki/Nonsyndromic_deafness" title="Nonsyndromic deafness">DFNA20</a></li>
+<li><a href="/wiki/Nemaline_myopathy" title="Nemaline myopathy">Nemaline myopathy 3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Myosin" title="Myosin">Myosin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Elejalde_syndrome" title="Elejalde syndrome">Elejalde syndrome</a></li>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 1, 8, 10</a></li>
+<li><a href="/wiki/Usher_syndrome" title="Usher syndrome">Usher syndrome 1B</a></li>
+<li><a href="/wiki/Freeman%E2%80%93Sheldon_syndrome" title="Freeman–Sheldon syndrome">Freeman–Sheldon syndrome</a></li>
+<li><a href="/wiki/Nonsyndromic_deafness" title="Nonsyndromic deafness">DFN A3, 4, 11, 17, 22; B2, 30, 37, 48</a></li>
+<li><a href="/wiki/May-Hegglin_anomaly" title="May-Hegglin anomaly" class="mw-redirect">May-Hegglin anomaly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Troponin" title="Troponin">Troponin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 7, 2</a></li>
+<li><a href="/wiki/Nemaline_myopathy" title="Nemaline myopathy">Nemaline myopathy 4, 5</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Tropomyosin" title="Tropomyosin">Tropomyosin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 3</a></li>
+<li><a href="/wiki/Nemaline_myopathy" title="Nemaline myopathy">Nemaline myopathy 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Titin" title="Titin">Titin</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hypertrophic_cardiomyopathy" title="Hypertrophic cardiomyopathy">Hypertrophic cardiomyopathy 9</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fibrillin" title="Fibrillin">Fibrillin</a>
+<ul>
+<li><a href="/wiki/Marfan_syndrome" title="Marfan syndrome">Marfan syndrome</a></li>
+<li><a href="/wiki/Weill-Marchesani_syndrome" title="Weill-Marchesani syndrome" class="mw-redirect">Weill-Marchesani syndrome</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Filamin" title="Filamin">Filamin</a>
+<ul>
+<li><a href="/wiki/FG_syndrome" title="FG syndrome">FG syndrome 2</a></li>
+<li><a href="/wiki/Boomerang_dysplasia" title="Boomerang dysplasia">Boomerang dysplasia</a></li>
+<li><a href="/wiki/Larsen_syndrome" title="Larsen syndrome">Larsen syndrome</a></li>
+<li><a href="/wiki/Terminal_osseous_dysplasia_with_pigmentary_defects" title="Terminal osseous dysplasia with pigmentary defects">Terminal osseous dysplasia with pigmentary defects</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Intermediate_filament" title="Intermediate filament">IF</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group">1/2</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Keratin_disease" title="Keratin disease">Keratinopathy</a> (<a href="/wiki/Keratosis" title="Keratosis">keratosis</a>, <a href="/wiki/Keratoderma" title="Keratoderma">keratoderma</a>, <a href="/wiki/Hyperkeratosis" title="Hyperkeratosis">hyperkeratosis</a>): <a href="/wiki/Keratin_1" title="Keratin 1">KRT1</a>
+<ul>
+<li><a href="/wiki/Striate_palmoplantar_keratoderma" title="Striate palmoplantar keratoderma" class="mw-redirect">Striate palmoplantar keratoderma 3</a></li>
+<li><a href="/wiki/Epidermolytic_hyperkeratosis" title="Epidermolytic hyperkeratosis">Epidermolytic hyperkeratosis</a></li>
+<li><a href="/wiki/Ichthyosis_hystrix" title="Ichthyosis hystrix">IHCM</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Keratin_2A" title="Keratin 2A">KRT2E</a> (<a href="/wiki/Ichthyosis_bullosa_of_Siemens" title="Ichthyosis bullosa of Siemens">Ichthyosis bullosa of Siemens</a>)</li>
+<li><a href="/wiki/Keratin_3" title="Keratin 3">KRT3</a> (<a href="/wiki/Meesmann_juvenile_epithelial_corneal_dystrophy" title="Meesmann juvenile epithelial corneal dystrophy" class="mw-redirect">Meesmann juvenile epithelial corneal dystrophy</a>)</li>
+<li><a href="/wiki/Keratin_4" title="Keratin 4">KRT4</a> (<a href="/wiki/White_sponge_nevus" title="White sponge nevus">White sponge nevus</a>)</li>
+<li><a href="/wiki/Keratin_5" title="Keratin 5">KRT5</a> (<a href="/wiki/Epidermolysis_bullosa_simplex" title="Epidermolysis bullosa simplex">Epidermolysis bullosa simplex</a>)</li>
+<li><a href="/wiki/Keratin_8" title="Keratin 8">KRT8</a> (<a href="/wiki/Familial_cirrhosis" title="Familial cirrhosis">Familial cirrhosis</a>)</li>
+<li><a href="/wiki/Keratin_10" title="Keratin 10">KRT10</a> (<a href="/wiki/Epidermolytic_hyperkeratosis" title="Epidermolytic hyperkeratosis">Epidermolytic hyperkeratosis</a>)</li>
+<li><a href="/wiki/Keratin_12" title="Keratin 12">KRT12</a> (<a href="/wiki/Meesmann_juvenile_epithelial_corneal_dystrophy" title="Meesmann juvenile epithelial corneal dystrophy" class="mw-redirect">Meesmann juvenile epithelial corneal dystrophy</a>)</li>
+<li><a href="/wiki/Keratin_13" title="Keratin 13">KRT13</a> (<a href="/wiki/White_sponge_nevus" title="White sponge nevus">White sponge nevus</a>)</li>
+<li><a href="/wiki/Keratin_14" title="Keratin 14">KRT14</a> (<a href="/wiki/Epidermolysis_bullosa_simplex" title="Epidermolysis bullosa simplex">Epidermolysis bullosa simplex</a>)</li>
+<li><a href="/wiki/Keratin_17" title="Keratin 17">KRT17</a> (<a href="/wiki/Steatocystoma_multiplex" title="Steatocystoma multiplex">Steatocystoma multiplex</a>)</li>
+<li><a href="/wiki/Keratin_18" title="Keratin 18">KRT18</a> (<a href="/wiki/Familial_cirrhosis" title="Familial cirrhosis">Familial cirrhosis</a>)</li>
+<li><a href="/wiki/KRT81" title="KRT81">KRT81</a>/<a href="/wiki/KRT83" title="KRT83">KRT83</a>/<a href="/wiki/KRT86" title="KRT86">KRT86</a> (<a href="/wiki/Monilethrix" title="Monilethrix">Monilethrix</a>)</li>
+<li><a href="/wiki/Naegeli%E2%80%93Franceschetti%E2%80%93Jadassohn_syndrome" title="Naegeli–Franceschetti–Jadassohn syndrome">Naegeli–Franceschetti–Jadassohn syndrome</a></li>
+<li><a href="/wiki/Reticular_pigmented_anomaly_of_the_flexures" title="Reticular pigmented anomaly of the flexures">Reticular pigmented anomaly of the flexures</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">3</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Desmin" title="Desmin">Desmin</a>: <a href="/wiki/Desmin-related_myofibrillar_myopathy" title="Desmin-related myofibrillar myopathy">Desmin-related myofibrillar myopathy</a></li>
+<li><a href="/wiki/Dilated_cardiomyopathy" title="Dilated cardiomyopathy">Dilated cardiomyopathy 1I</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Glial_fibrillary_acidic_protein" title="Glial fibrillary acidic protein">GFAP</a>: <a href="/wiki/Alexander_disease" title="Alexander disease">Alexander disease</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Peripherin" title="Peripherin">Peripherin</a>: <a href="/wiki/Amyotrophic_lateral_sclerosis" title="Amyotrophic lateral sclerosis">Amyotrophic lateral sclerosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">4</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Neurofilament" title="Neurofilament">Neurofilament</a>: <a href="/wiki/Parkinson%27s_disease" title="Parkinson's disease">Parkinson's disease</a></li>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 1F, 2E</a></li>
+<li><a href="/wiki/Amyotrophic_lateral_sclerosis" title="Amyotrophic lateral sclerosis">Amyotrophic lateral sclerosis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">5</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Laminopathy" title="Laminopathy">Laminopathy</a>: LMNA
+<ul>
+<li><a href="/wiki/Mandibuloacral_dysplasia" title="Mandibuloacral dysplasia">Mandibuloacral dysplasia</a></li>
+<li><a href="/wiki/Dunnigan_familial_partial_lipodystrophy" title="Dunnigan familial partial lipodystrophy">Dunnigan</a> <a href="/wiki/Familial_partial_lipodystrophy" title="Familial partial lipodystrophy">Familial partial lipodystrophy</a></li>
+<li><a href="/wiki/Emery-Dreifuss_muscular_dystrophy" title="Emery-Dreifuss muscular dystrophy" class="mw-redirect">Emery-Dreifuss muscular dystrophy 2</a></li>
+<li><a href="/wiki/Limb-girdle_muscular_dystrophy" title="Limb-girdle muscular dystrophy">Limb-girdle muscular dystrophy 1B</a></li>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 2B1</a></li>
+</ul>
+</li>
+<li>LMNB
+<ul>
+<li><a href="/wiki/Barraquer%E2%80%93Simons_syndrome" title="Barraquer–Simons syndrome">Barraquer–Simons syndrome</a></li>
+</ul>
+</li>
+<li>LEMD3
+<ul>
+<li><a href="/wiki/Buschke%E2%80%93Ollendorff_syndrome" title="Buschke–Ollendorff syndrome">Buschke–Ollendorff syndrome</a></li>
+<li><a href="/wiki/Osteopoikilosis" title="Osteopoikilosis">Osteopoikilosis</a></li>
+</ul>
+</li>
+<li>LBR
+<ul>
+<li><a href="/wiki/Pelger-Huet_anomaly" title="Pelger-Huet anomaly" class="mw-redirect">Pelger-Huet anomaly</a></li>
+<li><a href="/wiki/Hydrops-ectopic_calcification-moth-eaten_skeletal_dysplasia" title="Hydrops-ectopic calcification-moth-eaten skeletal dysplasia">Hydrops-ectopic calcification-moth-eaten skeletal dysplasia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Microtubule" title="Microtubule">Microtubules</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Kinesin" title="Kinesin">Kinesin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charcot%E2%80%93Marie%E2%80%93Tooth_disease" title="Charcot–Marie–Tooth disease">Charcot–Marie–Tooth disease 2A</a></li>
+<li><a href="/wiki/Hereditary_spastic_paraplegia" title="Hereditary spastic paraplegia">Hereditary spastic paraplegia 10</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dynein" title="Dynein">Dynein</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Primary_ciliary_dyskinesia" title="Primary ciliary dyskinesia">Primary ciliary dyskinesia</a></li>
+<li><a href="/wiki/Short_rib-polydactyly_syndrome" title="Short rib-polydactyly syndrome" class="mw-redirect">Short rib-polydactyly syndrome 3</a></li>
+<li><a href="/wiki/Asphyxiating_thoracic_dysplasia" title="Asphyxiating thoracic dysplasia">Asphyxiating thoracic dysplasia 3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tauopathy" title="Tauopathy">Tauopathy</a></li>
+<li><a href="/wiki/Cavernous_venous_malformation" title="Cavernous venous malformation">Cavernous venous malformation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Membrane_protein" title="Membrane protein">Membrane</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spectrin" title="Spectrin">Spectrin</a>: <a href="/wiki/Spinocerebellar_ataxia" title="Spinocerebellar ataxia">Spinocerebellar ataxia 5</a></li>
+<li><a href="/wiki/Hereditary_spherocytosis" title="Hereditary spherocytosis">Hereditary spherocytosis 2, 3</a></li>
+<li><a href="/wiki/Hereditary_elliptocytosis" title="Hereditary elliptocytosis">Hereditary elliptocytosis 2, 3</a></li>
+</ul>
+<p><a href="/wiki/Ankyrin" title="Ankyrin">Ankyrin</a>: <a href="/wiki/Long_QT_syndrome" title="Long QT syndrome">Long QT syndrome 4</a></p>
+<ul>
+<li><a href="/wiki/Hereditary_spherocytosis" title="Hereditary spherocytosis">Hereditary spherocytosis 1</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Catenin" title="Catenin">Catenin</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Adenomatous_polyposis_coli" title="Adenomatous polyposis coli">APC</a></i>
+<ul>
+<li><a href="/wiki/Gardner%27s_syndrome" title="Gardner's syndrome">Gardner's syndrome</a></li>
+<li><a href="/wiki/Familial_adenomatous_polyposis" title="Familial adenomatous polyposis">Familial adenomatous polyposis</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Plakoglobin" title="Plakoglobin">plakoglobin</a></i> (<a href="/wiki/Naxos_syndrome" title="Naxos syndrome">Naxos syndrome</a>)</li>
+<li><i><a href="/wiki/Gigaxonin" title="Gigaxonin">GAN</a></i> (<a href="/wiki/Giant_axonal_neuropathy" title="Giant axonal neuropathy">Giant axonal neuropathy</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Desmoplakin" title="Desmoplakin">desmoplakin</a>: <a href="/wiki/Striate_palmoplantar_keratoderma" title="Striate palmoplantar keratoderma" class="mw-redirect">Striate palmoplantar keratoderma 2</a></li>
+<li><a href="/wiki/Carvajal_syndrome" title="Carvajal syndrome" class="mw-redirect">Carvajal syndrome</a></li>
+<li><a href="/wiki/Arrhythmogenic_right_ventricular_dysplasia" title="Arrhythmogenic right ventricular dysplasia">Arrhythmogenic right ventricular dysplasia 8</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Plectin" title="Plectin">plectin</a>: <a href="/wiki/Epidermolysis_bullosa_simplex_with_muscular_dystrophy" title="Epidermolysis bullosa simplex with muscular dystrophy" class="mw-redirect">Epidermolysis bullosa simplex with muscular dystrophy</a></li>
+<li><a href="/wiki/Epidermolysis_bullosa_simplex_of_Ogna" title="Epidermolysis bullosa simplex of Ogna" class="mw-redirect">Epidermolysis bullosa simplex of Ogna</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Plakophilin" title="Plakophilin">plakophilin</a>: <a href="/wiki/Skin_fragility_syndrome" title="Skin fragility syndrome">Skin fragility syndrome</a></li>
+<li><a href="/wiki/Arrhythmogenic_right_ventricular_dysplasia" title="Arrhythmogenic right ventricular dysplasia">Arrhythmogenic right ventricular dysplasia 9</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Centrosome" title="Centrosome">centrosome</a>: <i><a href="/wiki/PCNT" title="PCNT">PCNT</a></i> (<a href="/wiki/Microcephalic_osteodysplastic_primordial_dwarfism_type_II" title="Microcephalic osteodysplastic primordial dwarfism type II">Microcephalic osteodysplastic primordial dwarfism type II</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><i>See also: <a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeletal proteins</a></i></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cell_navs" title="Template:Cell navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cell_navs" title="Template talk:Cell navs" class="mw-redirect"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cell_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of cells</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Cellular_structures" title="Template:Cellular structures">Structure</a>
+<ul>
+<li><a href="/wiki/Template:Nucleus" title="Template:Nucleus">nucleus</a>
+<ul>
+<li><a href="/wiki/Template:Chromosome_genetics" title="Template:Chromosome genetics"><i>chromosome genetics</i></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Organelles
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_proteins" title="Template:Peroxisomal proteins">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_proteins" title="Template:Cytoskeletal proteins">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Centrosome" title="Template:Centrosome">centrosome</a></li>
+<li><a href="/wiki/Template:Epithelial_proteins" title="Template:Epithelial proteins">epithelia</a></li>
+<li><a href="/wiki/Template:Ciliary_proteins" title="Template:Ciliary proteins">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_proteins" title="Template:Mitochondrial proteins">mitochondria</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Cell_membranes" title="Template:Cell membranes">Membranes</a>
+<ul>
+<li><a href="/wiki/Template:Cell_membrane_proteins" title="Template:Cell membrane proteins" class="mw-redirect">proteins</a></li>
+<li><a href="/wiki/Template:Cell_adhesion_molecules" title="Template:Cell adhesion molecules">cell adhesions</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Membrane_transport" title="Template:Membrane transport">Membrane transport</a>
+<ul>
+<li><a href="/wiki/Template:Ion_channels" title="Template:Ion channels">ion channels</a></li>
+<li><a href="/wiki/Template:Vesicular_transport_proteins" title="Template:Vesicular transport proteins">vesicular transport</a></li>
+<li><a href="/wiki/Template:Solute_carrier_family" title="Template:Solute carrier family">solute carrier</a></li>
+<li><a href="/wiki/Template:ABC_transporters" title="Template:ABC transporters">ABC transporters</a></li>
+<li><a href="/wiki/Template:ATPase" title="Template:ATPase">ATPase</a></li>
+<li><a href="/wiki/Template:Oxidoreduction-driven_transporters" title="Template:Oxidoreduction-driven transporters">oxidoreduction-driven</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Structural
+<ul>
+<li><a href="/wiki/Template:Peroxisomal_disorders" title="Template:Peroxisomal disorders">peroxisome</a></li>
+<li><a href="/wiki/Template:Cytoskeletal_defects" title="Template:Cytoskeletal defects">cytoskeleton</a></li>
+<li><a href="/wiki/Template:Ciliopathy" title="Template:Ciliopathy">cilia</a></li>
+<li><a href="/wiki/Template:Mitochondrial_diseases" title="Template:Mitochondrial diseases">mitochondria</a></li>
+<li><a href="/wiki/Template:Nucleus_diseases" title="Template:Nucleus diseases">nucleus</a></li>
+<li><a href="/wiki/Template:Scleroprotein_disease" title="Template:Scleroprotein disease">scleroprotein</a></li>
+</ul>
+</li>
+<li>Membrane
+<ul>
+<li><a href="/wiki/Template:Channelopathy" title="Template:Channelopathy">channelopathy</a></li>
+<li><a href="/wiki/Template:Solute_carrier_disorders" title="Template:Solute carrier disorders">solute carrier</a></li>
+<li><a href="/wiki/Template:ATPase_disorders" title="Template:ATPase disorders">ATPase</a></li>
+<li><a href="/wiki/Template:ABC_transporter_disorders" title="Template:ABC transporter disorders">ABC transporters</a></li>
+<li><a href="/wiki/Template:Other_cell_membrane_protein_disorders" title="Template:Other cell membrane protein disorders">other</a></li>
+<li><a href="/wiki/Template:Extracellular_ligand_disorders" title="Template:Extracellular ligand disorders">extracellular ligands</a></li>
+<li><a href="/wiki/Template:Cell_surface_receptor_deficiencies" title="Template:Cell surface receptor deficiencies">cell surface receptors</a></li>
+<li><a href="/wiki/Template:Deficiencies_of_intracellular_signaling_peptides_and_proteins" title="Template:Deficiencies of intracellular signaling peptides and proteins">intracellular signalling</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Vesicular_transport_protein_disorders" title="Template:Vesicular transport protein disorders">Vesicular transport</a></li>
+<li><a href="/wiki/Template:Pore-forming_toxins" title="Template:Pore-forming toxins">Pore-forming toxins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1010
+CPU time usage: 1.054 seconds
+Real time usage: 1.283 seconds
+Preprocessor visited node count: 3445/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 385930/2097152 bytes
+Template argument size: 2955/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 12/500
+Lua time usage: 0.387/10.000 seconds
+Lua memory usage: 4.32 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  909.079      1 - -total
+ 46.89%  426.274     23 - Template:Navbox
+ 36.81%  334.608      1 - Template:Reflist
+ 16.65%  151.347     13 - Template:Cite_journal
+ 13.63%  123.935      7 - Template:Cite_doi
+ 12.96%  117.854      1 - Template:Infobox_disease
+ 11.95%  108.658      3 - Template:Cite_pmid
+ 11.38%  103.444      1 - Template:Infobox
+ 11.17%  101.574      1 - Template:Refimprove
+  9.06%   82.384      1 - Template:Diseases_of_the_skin_and_appendages_by_morphology
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1211445-0!*!0!!en!4!* and timestamp 20150711222912 and revision id 669051625
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wiskott–Aldrich_syndrome&amp;oldid=669051625">https://en.wikipedia.org/w/index.php?title=Wiskott–Aldrich_syndrome&amp;oldid=669051625</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cytoskeletal_defects" title="Category:Cytoskeletal defects">Cytoskeletal defects</a></li><li><a href="/wiki/Category:IUIS-PID_table_3_immunodeficiencies" title="Category:IUIS-PID table 3 immunodeficiencies">IUIS-PID table 3 immunodeficiencies</a></li><li><a href="/wiki/Category:Rare_diseases" title="Category:Rare diseases">Rare diseases</a></li><li><a href="/wiki/Category:Noninfectious_immunodeficiency-related_cutaneous_conditions" title="Category:Noninfectious immunodeficiency-related cutaneous conditions">Noninfectious immunodeficiency-related cutaneous conditions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_cite_templates_with_deprecated_parameters" title="Category:Pages containing cite templates with deprecated parameters">Pages containing cite templates with deprecated parameters</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2013" title="Category:Articles needing additional references from April 2013">Articles needing additional references from April 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2013" title="Category:Articles with unsourced statements from April 2013">Articles with unsourced statements from April 2013</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wiskott%E2%80%93Aldrich+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wiskott%E2%80%93Aldrich+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Wiskott%E2%80%93Aldrich_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Wiskott%E2%80%93Aldrich_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Wiskott%E2%80%93Aldrich_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wiskott%E2%80%93Aldrich_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wiskott%E2%80%93Aldrich_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;oldid=669051625" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q953638" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wiskott%E2%80%93Aldrich_syndrome&amp;id=669051625" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wiskott%E2%80%93Aldrich+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Wiskott%E2%80%93Aldrich+syndrome&amp;oldid=669051625&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%85%D8%AA%D9%84%D8%A7%D8%B2%D9%85%D8%A9_%D9%88%D9%8A%D8%B3%D9%83%D9%88%D8%AA_%D8%A3%D9%84%D8%AF%D8%B1%D9%8A%D8%AE" title="متلازمة ويسكوت ألدريخ – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%9F_%E0%A6%85%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%9A_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%AE" title="উইস্কট অল্ড্রিচ সিন্ড্রোম – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Wiskott-Aldrich-Syndrom" title="Wiskott-Aldrich-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Wiskott-Aldrich" title="Síndrome de Wiskott-Aldrich – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Wiskott-Aldrich" title="Syndrome de Wiskott-Aldrich – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%B9%84%EC%8A%A4%EC%BD%94%ED%8A%B8-%EC%98%AC%EB%93%9C%EB%A6%AC%EC%B9%98_%EC%A6%9D%ED%9B%84%EA%B5%B0" title="비스코트-올드리치 증후군 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Wiskott-Aldrich" title="Sindrome di Wiskott-Aldrich – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%A1%D7%9E%D7%95%D7%A0%D7%AA_%D7%95%D7%99%D7%A1%D7%A7%D7%95%D7%98-%D7%90%D7%95%D7%9C%D7%93%D7%A8%D7%99%D7%A5%27" title="תסמונת ויסקוט-אולדריץ' – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Wiskott%E2%80%93Aldrich-szindr%C3%B3ma" title="Wiskott–Aldrich-szindróma – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Syndroom_van_Wiskott-Aldrich" title="Syndroom van Wiskott-Aldrich – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Wiskotta-Aldricha" title="Zespół Wiskotta-Aldricha – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Wiskott-Aldrich" title="Síndrome de Wiskott-Aldrich – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%92%D0%B8%D1%81%D0%BA%D0%BE%D1%82%D1%82%D0%B0_%E2%80%94_%D0%9E%D0%BB%D0%B4%D1%80%D0%B8%D1%87%D0%B0" title="Синдром Вискотта — Олдрича – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Wiskott-Aldrichs_syndrom" title="Wiskott-Aldrichs syndrom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q953638#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 28 June 2015, at 14:59.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wiskott%E2%80%93Aldrich_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1248"});
+}</script>
+	</body>
+</html>

@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Klippel–Feil syndrome - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Klippel%E2%80%93Feil_syndrome" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Klippel%E2%80%93Feil_syndrome" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Klippel%E2%80%93Feil_syndrome" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Klippel–Feil_syndrome","wgTitle":"Klippel–Feil syndrome","wgCurRevisionId":665501700,"wgRevisionId":665501700,"wgArticleId":1977327,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Explicit use of et al.","Wikipedia articles that are too technical from December 2010","All articles that are too technical","Articles needing expert attention from December 2010","All articles needing expert attention","Articles with contributors link","All articles with unsourced statements","Articles with unsourced statements from June 2013","Articles with unsourced statements from April 2010","Articles with DMOZ links","Articles that use a Medicine navs subtemplate","Wikipedia articles with GND identifiers","Congenital disorders of musculoskeletal system","Genodermatoses","Syndromes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Klippel–Feil_syndrome","wgRelevantArticleId":1977327,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Klippel.JPG/69px-Klippel.JPG","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1774751"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Klippel–Feil_syndrome skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Klippel–Feil syndrome</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="metadata plainlinks ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a href="//en.wiktionary.org/wiki/technical#Adjective" class="extiw" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit">improve</a> this article to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="/wiki/Talk:Klippel%E2%80%93Feil_syndrome" title="Talk:Klippel–Feil syndrome">talk page</a> may contain suggestions.</span> <small><i>(December 2010)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: lightgrey">Klippel-Feil syndrome</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Klippel.JPG" class="image"><img alt="Klippel.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Klippel.JPG/230px-Klippel.JPG" width="230" height="332" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Klippel.JPG/345px-Klippel.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0b/Klippel.JPG 2x" data-file-width="421" data-file-height="607" /></a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Classification and external resources</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/ICD-10" title="ICD-10">10</a></th>
+<td><a rel="nofollow" class="external text" href="http://apps.who.int/classifications/icd10/browse/2015/en#/Q76.1">Q76.1</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems" title="International Statistical Classification of Diseases and Related Health Problems">ICD</a>-<a href="/wiki/List_of_ICD-9_codes" title="List of ICD-9 codes">9-CM</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.icd9data.com/getICD9Code.ashx?icd9=756.16">756.16</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/OMIM" title="OMIM" class="mw-redirect">OMIM</a></th>
+<td><a rel="nofollow" class="external text" href="http://omim.org/entry/118100">118100</a> <a rel="nofollow" class="external text" href="//omim.org/entry/214300">214300</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Diseases_Database" title="Diseases Database">DiseasesDB</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.diseasesdatabase.com/ddb7197.htm">7197</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/EMedicine" title="EMedicine">eMedicine</a></th>
+<td><a rel="nofollow" class="external text" href="http://www.emedicine.com/orthoped/topic408.htm">orthoped/408</a></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a></th>
+<td><a rel="nofollow" class="external text" href="//www.nlm.nih.gov/cgi/mesh/2015/MB_cgi?field=uid&amp;term=D007714">D007714</a></td>
+</tr>
+</table>
+<p><b>Klippel–Feil syndrome</b> is a rare <a href="/wiki/Disease" title="Disease">disease</a>, initially reported in 1912 by <a href="/wiki/Maurice_Klippel" title="Maurice Klippel">Maurice Klippel</a> and André Feil from France,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup> characterized by the congenital fusion of any 2 of the 7 <a href="/wiki/Cervical_vertebrae" title="Cervical vertebrae">cervical vertebrae</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup><sup class="reference" style="white-space:nowrap;">:578</sup> The syndrome occurs in a heterogeneous group of patients unified only by the presence of a congenital defect in the formation or segmentation of the cervical spine. Klippel–Feil syndrome can be identified by shortness of the neck. Those with the syndrome have a very low hairline and the ability of the neck to move is limited.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>3<span>]</span></a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Signs_and_symptoms"><span class="tocnumber">1</span> <span class="toctext">Signs and symptoms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Prevalence"><span class="tocnumber">2</span> <span class="toctext">Prevalence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Classification"><span class="tocnumber">3</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Treatment"><span class="tocnumber">4</span> <span class="toctext">Treatment</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Prognosis"><span class="tocnumber">5</span> <span class="toctext">Prognosis</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Genetics"><span class="tocnumber">6</span> <span class="toctext">Genetics</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_cases"><span class="tocnumber">7</span> <span class="toctext">Notable cases</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Signs_and_symptoms">Signs and symptoms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=1" title="Edit section: Signs and symptoms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Numerous associated abnormalities of other organ systems may be present. This <a href="/wiki/Heterogeneity" title="Heterogeneity" class="mw-redirect">heterogeneity</a> requires comprehensive evaluation of all patients and treatment regimes that can vary from modification of activities to extensive spinal surgeries. Furthermore, it is unclear whether Klippel–Feil syndrome is a unique disease, or if it is one part of a spectrum of congenital spinal deformities. Klippel–Feil syndrome is usually diagnosed after birth.</p>
+<p>The most common signs of the disorder are a short neck, low hairline at the back of the head, and restricted mobility of the upper spine.</p>
+<p>Associated abnormalities may include:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2013)">citation needed</span></a></i>]</sup></p>
+<ul>
+<li><a href="/wiki/Scoliosis" title="Scoliosis">scoliosis</a> (side-to-side curvature of the spine), which is abnormal curving of the spine. The spine sometimes appears as a “C” or an “S”.</li>
+<li><a href="/wiki/Spina_bifida" title="Spina bifida">spina bifida</a>, when the spinal canal and the back bone do not close completely during birth.</li>
+<li>anomalies of the <a href="/wiki/Kidneys" title="Kidneys" class="mw-redirect">kidneys</a> and the <a href="/wiki/Rib" title="Rib">ribs</a>,</li>
+<li><a href="/wiki/Cleft_palate" title="Cleft palate" class="mw-redirect">cleft palate</a> (hole in the roof of the mouth),</li>
+<li>respiratory problems,</li>
+<li><a href="/wiki/Heart" title="Heart">heart</a> malformations.</li>
+<li>short stature</li>
+<li><a href="/wiki/Duane_syndrome" title="Duane syndrome">Duane syndrome</a></li>
+<li>Approximately 35% of patient's with Klippel–Feil syndrome will also have a congenital elevation of the scapula known as <a href="/wiki/Sprengel%27s_deformity" title="Sprengel's deformity">Sprengel's Deformity</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></li>
+</ul>
+<p>The disorder also may be associated with abnormalities of the head and face, <a href="/wiki/Skeleton" title="Skeleton">skeleton</a>, <a href="/wiki/Sex_organs" title="Sex organs" class="mw-redirect">sex organs</a>, <a href="/wiki/Muscle" title="Muscle">muscles</a>, <a href="/wiki/Brain" title="Brain">brain</a> and <a href="/wiki/Spinal_cord" title="Spinal cord">spinal cord</a>, arms, legs, fingers and heart defects. These heart defects often lead to a shortened life expectancy, the average being 35–45 years of age among males and 40–50 among females. This condition is similar to the heart failure seen in <a href="/wiki/Gigantism" title="Gigantism">gigantism</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup></p>
+<p>In 2011, a study identifying the occurrence of symptoms of 100 patients was published.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Prevalence">Prevalence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=2" title="Edit section: Prevalence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The actual <a href="/wiki/Prevalence" title="Prevalence">prevalence</a> of Klippel–Feil syndrome is unknown due to the fact that there was no study done to determine the true prevalence.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup></p>
+<p>Although the actual occurrence for the KFS syndrome is unknown, it is estimated to occur 1 in 40,000 to 42,000 newborns <a href="/wiki/World" title="World">worldwide</a>. In addition, females seem to be affected slightly more often than males.<sup id="cite_ref-ghr.nlm.nih.gov_8-0" class="reference"><a href="#cite_note-ghr.nlm.nih.gov-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=3" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1912, <a href="/wiki/Maurice_Klippel" title="Maurice Klippel">Maurice Klippel</a> and Andre Feil independently provided the first descriptions of Klippel–Feil syndrome. They described patients who had a short, <a href="/wiki/Webbed_neck" title="Webbed neck">webbed neck</a>; decreased range of motion (ROM) in the cervical spine; and a low hairline. Feil subsequently classified the syndrome into 3 categories:</p>
+<ul>
+<li>Type I — Fusion of C2 and C3 with occipitalization of the <a href="/wiki/Atlas" title="Atlas">atlas</a>. Further complications were later reported by McRae in 1953. <a href="/wiki/Flexion" title="Flexion" class="mw-redirect">Flexion</a> and <a href="/wiki/Extension_(kinesiology)" title="Extension (kinesiology)" class="mw-redirect">extension</a> is concentrated within the C1 and C2. As with aging, an <a href="/wiki/Odontoid" title="Odontoid" class="mw-redirect">odontoid</a> can become hypermobile, which narrows the <a href="/wiki/Spinal_cord" title="Spinal cord">spinal cord</a> and <a href="/wiki/Brain_stem" title="Brain stem" class="mw-redirect">brain stem</a>.</li>
+</ul>
+<ul>
+<li>Type II — Long fusion below C2 with an abnormal occipital-cervical junction. Similar to the C2-C3 fusion of McRae and could be reviewed as a more elaborate variation. <a href="/wiki/Flexion" title="Flexion" class="mw-redirect">Flexion</a>, extension, and rotation are all concentrated in the area of the abnormal odontoid or poorly developed ring of C1 which cannot withstand the effects of aging. Difference in pattern from the patient with a long fusion and a normal C1-C2 articulation, is that C1-C2 can live a normal life expectancy.</li>
+</ul>
+<ul>
+<li>Type III — A single open interspace between two fused segments. Cervical spine motion is concentrated at single open articulation. This <a href="/wiki/Hypermobility_(joints)" title="Hypermobility (joints)">hypermobility</a> may lead to instability or degenerative <a href="/wiki/Osteoarthritis" title="Osteoarthritis">osteoarthritis</a>. This pattern can be recognized as the cervical spine is often seen to be at an angle or hinge at this open segment.</li>
+</ul>
+<p>A classification scheme for Klippel–Feil syndrome was proposed in 1919 by Andre Feil, which accounted for <a href="/wiki/Neck" title="Neck">cervical</a>, <a href="/wiki/Thoracic" title="Thoracic" class="mw-redirect">thoracic</a>, and <a href="/wiki/Lumbar" title="Lumbar">lumbar</a> spine <a href="/wiki/Malformations" title="Malformations" class="mw-redirect">malformations</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>9<span>]</span></a></sup></p>
+<p>However, recently, Dino Samartzis and colleagues in 2006 proposed 3 classification-types that specifically addressed the cervical spine anomalies and their associated cervical spine-related symptoms, with additional elaboration on various time-dependent factors regarding this syndrome.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Treatment">Treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=4" title="Edit section: Treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Treatment for Klippel–Feil syndrome is symptomatic and may include surgery to relieve cervical or craniocervical instability and constriction of the spinal cord, and to correct <a href="/wiki/Scoliosis" title="Scoliosis">scoliosis</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2010)">citation needed</span></a></i>]</sup></p>
+<p>Failing non-surgical therapies, spinal surgery may provide relief. Adjacent segment disease and scoliosis are two examples of common symptoms associated with Klippel–Feil syndrome, and they may be treated surgically. The three categories treated for types of spinal cord deficiencies are massive fusion of the cervical spine (Type I), the fusion of 1 or 2 vertebrae (Type II), and the presence of thoracic and lumbar spine anomalies in association with type I or type II Klippel–Feil syndrome (Type III).</p>
+<p>Adjacent segment disease can be addressed by performing cervical disc arthroplasty using a device such as the Bryan cervical disc prosthesis.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> The option of the surgery is to maintain range of motion and attenuate the rate of adjacent segment disease advancement without fusion.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup> Another type of arthroplasty that is becoming an alternate choice to <a href="/wiki/Spinal_fusion" title="Spinal fusion">spinal fusion</a> is <a href="/wiki/Total_Disc_Replacement" title="Total Disc Replacement" class="mw-redirect">Total Disc Replacement</a>. Total disc replacement objective is to reduce pain or eradicate it.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> <a href="/wiki/Spinal_fusion" title="Spinal fusion">Spinal fusion</a> is commonly used to correct spinal deformities such as <a href="/wiki/Scoliosis" title="Scoliosis">scoliosis</a>. <a href="/wiki/Arthrodesis" title="Arthrodesis">Arthrodesis</a> is the last resort in pain relieving procedures, usually when arthroplasties fail.</p>
+<h2><span class="mw-headline" id="Prognosis">Prognosis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=5" title="Edit section: Prognosis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Heterogeneity" title="Heterogeneity" class="mw-redirect">heterogeneity</a> of the Klippel–Feil syndrome has made it difficult to outline the <a href="/wiki/Diagnosis" title="Diagnosis">diagnosis</a> as well as the <a href="/wiki/Prognosis" title="Prognosis">prognosis</a> classes for this disease. Because of this, it has complicated the exact explanation of the genetic <a href="/wiki/Etiology" title="Etiology">etiology</a> of the syndrome.</p>
+<p>The <a href="/wiki/Prognosis" title="Prognosis">prognosis</a> for most individuals with KFS is good if the disorder is treated early on and appropriately. Activities that can injure the neck should be avoided, as it may contribute to further damage. Other diseases associated with the syndrome can be fatal if not treated, or if found too late to be treatable.<sup id="cite_ref-CartwrightWallace2007_14-0" class="reference"><a href="#cite_note-CartwrightWallace2007-14"><span>[</span>14<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Genetics">Genetics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=6" title="Edit section: Genetics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Genetic_genealogy" title="Genetic genealogy">Genetic genealogy</a> has identified a specific location of a gene on a <a href="/wiki/Chromosome" title="Chromosome">chromosome</a> for Klippel-Feil Syndrome. Mutations in the <a href="/wiki/GDF6" title="GDF6">GDF6</a> and <a href="/wiki/GDF3" title="GDF3">GDF3</a> genes have also been identified to cause the disease. Although some people with Klippel–Feil syndrome do not have identified mutations in the GDF6 or GDF3 genes. In this case, the cause of the condition in these individuals is unknown. GDF6 and GDF3 genes provide the body with instructions for making proteins involved in regulating the growth and maturation of bone and cartilage. These proteins actively regulate cell growth in <a href="/wiki/Embryonic" title="Embryonic">embryonic</a> and adult tissue. GDF6 specifically is involved in the formation of vertebral bones, among others, and establishing boundaries between bones in skeletal development while GDF3 is involved with bone and cartilage growth. <a href="/wiki/Mutations" title="Mutations" class="mw-redirect">Mutations</a> cause reductions in these functional proteins but, it is unclear exactly how a shortage in these proteins leads to incomplete separation of the vertebrae in people with Klippel–Feil syndrome.<sup id="cite_ref-ghr.nlm.nih.gov_8-1" class="reference"><a href="#cite_note-ghr.nlm.nih.gov-8"><span>[</span>8<span>]</span></a></sup> However, when the GDF6 gene was knocked out in mice, the result was the fusion of bones.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> Only by identifying the link between the genetic etiology and the phenotypic pathoanatomy of Klippel–Feil syndrome will we be able to rationalize the heterogeneity of the syndrome.</p>
+<p>These mutations can be inherited in two ways:</p>
+<ul>
+<li>Autosomal dominant inheritance, where one copy of the altered gene in each cell is sufficient to cause the disorder, is especially associated with C2-C3 fusion.<sup id="cite_ref-ghr.nlm.nih.gov_8-2" class="reference"><a href="#cite_note-ghr.nlm.nih.gov-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Autosomal recessive inheritance, where both copies of a gene contain mutations, is especially associated with C5-C6 fusion.<sup id="cite_ref-ghr.nlm.nih.gov_8-3" class="reference"><a href="#cite_note-ghr.nlm.nih.gov-8"><span>[</span>8<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>Another autosomal dominant form (mapped on locus 8q22.2) known as Klippel–Feil syndrome with laryngeal malformation has been identified. It is also known as Segmentation syndrome 1.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></li>
+</ul>
+<div class="hatnote">See also: <a href="/wiki/Dominance_(genetics)" title="Dominance (genetics)">Dominance (genetics)</a></div>
+<h2><span class="mw-headline" id="Notable_cases">Notable cases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=7" title="Edit section: Notable cases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A case of a child in <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> was discovered in a <a href="/wiki/Necropolis" title="Necropolis">necropolis</a> dated between 4500 and 4000 BC.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></p>
+<p>In 2009, archaeologists excavating at a <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> site of the <a href="/wiki/%C4%90a_B%C3%BAt_culture" title="Đa Bút culture">Đa Bút culture</a> of northern <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> discovered the remains of a young man around age 25, "Burial 9", living between 2000 BC and 1500 BC with Klippel–Feil syndrome, who had apparently been supported by his subsistence-level community for at least a decade before his death.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></p>
+<p>The 18th Dynasty Egyptian <a href="/wiki/Pharaoh" title="Pharaoh">pharaoh</a> <a href="/wiki/Tutankhamun" title="Tutankhamun">Tutankhamun</a> is believed by some to have suffered from Klippel–Feil syndrome,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup> though others dispute this claim.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></p>
+<p>A more recent case is the English cricketer <a href="/wiki/Gladstone_Small" title="Gladstone Small">Gladstone Small</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation journal">Klippel M, Feil A (1912). "Un cas d'absence des vertebres cervicales. Avec cage thoracique remontant jusqu'a la base du crane (cage thoracique cervicale)". <i>Nouv Iconog Salpetriere</i> <b>25</b>: 223–250.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Un+cas+d%27absence+des+vertebres+cervicales.+Avec+cage+thoracique+remontant+jusqu%27a+la+base+du+crane+%28cage+thoracique+cervicale%29&amp;rft.au=Klippel+M%2C+Feil+A&amp;rft.aulast=Klippel+M%2C+Feil+A&amp;rft.date=1912&amp;rft.genre=article&amp;rft.jtitle=Nouv+Iconog+Salpetriere&amp;rft.pages=223-250&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=25" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Andrews, James, William; Berger, Timothy; Elston, Dirk (2005). <i>Andrews' Diseases of the Skin: Clinical Dermatology</i>. (10th ed.). Saunders. <a href="/wiki/Special:BookSources/0721629210" class="internal mw-magiclink-isbn">ISBN 0-7216-2921-0</a>.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hon.ch/HONselect/RareDiseases/EN/C05.116.099.370.535.html">"Klippel-Feil Syndrome"</a>. HONselect.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.btitle=Klippel-Feil+Syndrome&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.hon.ch%2FHONselect%2FRareDiseases%2FEN%2FC05.116.099.370.535.html&amp;rft.pub=HONselect&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation journal">Farsetti P, Weinstein SL, Caterini R, De Maio F, Ippolito E (May 2003). <a rel="nofollow" class="external text" href="http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=1060-152X&amp;volume=12&amp;issue=3&amp;spage=202">"Sprengel's deformity: long-term follow-up study of 22 cases"</a>. <i>J Pediatr Orthop B</i> <b>12</b> (3): 202–10. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F01.bpb.0000049568.52224.1e">10.1097/01.bpb.0000049568.52224.1e</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12703036">12703036</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Sprengel%27s+deformity%3A+long-term+follow-up+study+of+22+cases&amp;rft.au=Farsetti+P%2C+Weinstein+SL%2C+Caterini+R%2C+De+Maio+F%2C+Ippolito+E&amp;rft.aulast=Farsetti+P%2C+Weinstein+SL%2C+Caterini+R%2C+De+Maio+F%2C+Ippolito+E&amp;rft.date=May+2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmeta.wkhealth.com%2Fpt%2Fpt-core%2Ftemplate-journal%2Flwwgateway%2Fmedia%2Flandingpage.htm%3Fissn%3D1060-152X%26volume%3D12%26issue%3D3%26spage%3D202&amp;rft_id=info%3Adoi%2F10.1097%2F01.bpb.0000049568.52224.1e&amp;rft_id=info%3Apmid%2F12703036&amp;rft.issue=3&amp;rft.jtitle=J+Pediatr+Orthop+B&amp;rft.pages=202-10&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=12" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation book">Sarwark, JF; LaBella, CR, eds. (2010). <i>Pediatric Orthopaedics and Sports Injuries: A Quick Reference Guide</i>. Elk Grove Village IL: American Academy of Pediatrics. pp.&#160;231–4.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.btitle=Pediatric+Orthopaedics+and+Sports+Injuries%3A+A+Quick+Reference+Guide&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pages=231-4&amp;rft.place=Elk+Grove+Village+IL&amp;rft.pub=American+Academy+of+Pediatrics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation journal">McGaughran JM, Kuna P, Das V (October 1998). <a rel="nofollow" class="external text" href="http://adc.bmj.com/cgi/pmidlookup?view=long&amp;pmid=9875048">"Audiological abnormalities in the Klippel-Feil syndrome"</a>. <i>Arch. Dis. Child.</i> <b>79</b> (4): 352–5. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1136%2Fadc.79.4.352">10.1136/adc.79.4.352</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1717726">1717726</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/9875048">9875048</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Audiological+abnormalities+in+the+Klippel-Feil+syndrome&amp;rft.aulast=McGaughran+JM%2C+Kuna+P%2C+Das+V&amp;rft.au=McGaughran+JM%2C+Kuna+P%2C+Das+V&amp;rft.date=October+1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fadc.bmj.com%2Fcgi%2Fpmidlookup%3Fview%3Dlong%26pmid%3D9875048&amp;rft_id=info%3Adoi%2F10.1136%2Fadc.79.4.352&amp;rft_id=info%3Apmc%2F1717726&amp;rft_id=info%3Apmid%2F9875048&amp;rft.issue=4&amp;rft.jtitle=Arch.+Dis.+Child.&amp;rft.pages=352-5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=79" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Longpre D. <a rel="nofollow" class="external free" href="http://www.klippel-feil.info/document/klippelfeilsymptoms2011.pdf">http://www.klippel-feil.info/document/klippelfeilsymptoms2011.pdf</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Angeli, E., Wagner, J., Lawrick, E., Moore, K., Anderson, M., Soderland, L., &amp; Brizee, A. (2010, May 5). General format title. Retrieved from <a rel="nofollow" class="external free" href="http://owl.english.purdue.edu/owl/resource/560/01/">http://owl.english.purdue.edu/owl/resource/560/01/</a></span></li>
+<li id="cite_note-ghr.nlm.nih.gov-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-ghr.nlm.nih.gov_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ghr.nlm.nih.gov_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ghr.nlm.nih.gov_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ghr.nlm.nih.gov_8-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><i><a rel="nofollow" class="external autonumber" href="http://ghr.nlm.nih.gov/condition=klippel-feil-syndrome">[1]</a></i> at <a href="/wiki/U.S._National_Library_of_Medicine" title="U.S. National Library of Medicine" class="mw-redirect">NLM</a> Genetics Home Reference</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Feil A. L'absence et la diminuaton des vertebres cervicales (etude cliniqueet pathogenique); le syndrome dereduction numerique cervicales. Theses de Paris; 1919.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation journal">Samartzis DD, Herman J, Lubicky JP, Shen FH (2006). "Classification of congenitally fused cervical patterns in Klippel-Feil patients: epidemiology and role in the development of cervical spine-related symptoms". <i>Spine</i> <b>31</b> (21): E798–804. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F01.brs.0000239222.36505.46">10.1097/01.brs.0000239222.36505.46</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17023841">17023841</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Classification+of+congenitally+fused+cervical+patterns+in+Klippel-Feil+patients%3A+epidemiology+and+role+in+the+development+of+cervical+spine-related+symptoms&amp;rft.aulast=Samartzis+DD%2C+Herman+J%2C+Lubicky+JP%2C+Shen+FH&amp;rft.au=Samartzis+DD%2C+Herman+J%2C+Lubicky+JP%2C+Shen+FH&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1097%2F01.brs.0000239222.36505.46&amp;rft_id=info%3Apmid%2F17023841&amp;rft.issue=21&amp;rft.jtitle=Spine&amp;rft.pages=E798-804&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=31" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation journal">Goffin J, Casey A, Kehr P et al. (September 2002). <a rel="nofollow" class="external text" href="http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0148-396X&amp;volume=51&amp;issue=3&amp;spage=840">"Preliminary clinical experience with the Bryan Cervical Disc Prosthesis"</a>. <i>Neurosurgery</i> <b>51</b> (3): 840–5; discussion 845–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1227%2F00006123-200209000-00048">10.1227/00006123-200209000-00048</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12188968">12188968</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Preliminary+clinical+experience+with+the+Bryan+Cervical+Disc+Prosthesis&amp;rft.au=Goffin+J%2C+Casey+A%2C+Kehr+P&amp;rft.aulast=Goffin+J%2C+Casey+A%2C+Kehr+P&amp;rft.date=September+2002&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmeta.wkhealth.com%2Fpt%2Fpt-core%2Ftemplate-journal%2Flwwgateway%2Fmedia%2Flandingpage.htm%3Fissn%3D0148-396X%26volume%3D51%26issue%3D3%26spage%3D840&amp;rft_id=info%3Adoi%2F10.1227%2F00006123-200209000-00048&amp;rft_id=info%3Apmid%2F12188968&amp;rft.issue=3&amp;rft.jtitle=Neurosurgery&amp;rft.pages=840-5%3B+discussion+845-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=51" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation journal">Papanastassiou ID, Baaj AA, Dakwar E, Eleraky M, Vrionis FD (March 2011). <a rel="nofollow" class="external text" href="http://www.ijoonline.com/article.asp?issn=0019-5413;year=2011;volume=45;issue=2;spage=174;epage=177;aulast=Papanastassiou">"Failure of cervical arthroplasty in a patient with adjacent segment disease associated with Klippel-Feil syndrome"</a>. <i>Indian J Orthop</i> <b>45</b> (2): 174–7. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.4103%2F0019-5413.77139">10.4103/0019-5413.77139</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3051126">3051126</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/21430874">21430874</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Failure+of+cervical+arthroplasty+in+a+patient+with+adjacent+segment+disease+associated+with+Klippel-Feil+syndrome&amp;rft.aulast=Papanastassiou+ID%2C+Baaj+AA%2C+Dakwar+E%2C+Eleraky+M%2C+Vrionis+FD&amp;rft.au=Papanastassiou+ID%2C+Baaj+AA%2C+Dakwar+E%2C+Eleraky+M%2C+Vrionis+FD&amp;rft.date=March+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ijoonline.com%2Farticle.asp%3Fissn%3D0019-5413%3Byear%3D2011%3Bvolume%3D45%3Bissue%3D2%3Bspage%3D174%3Bepage%3D177%3Baulast%3DPapanastassiou&amp;rft_id=info%3Adoi%2F10.4103%2F0019-5413.77139&amp;rft_id=info%3Apmc%2F3051126&amp;rft_id=info%3Apmid%2F21430874&amp;rft.issue=2&amp;rft.jtitle=Indian+J+Orthop&amp;rft.pages=174-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=45" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation journal">Phillips FM, Garfin SR (September 2005). <a rel="nofollow" class="external text" href="http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0362-2436&amp;volume=30&amp;issue=17&amp;spage=S27">"Cervical disc replacement"</a>. <i>Spine</i> <b>30</b> (17 Suppl): S27–33. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1097%2F01.brs.0000175192.55139.69">10.1097/01.brs.0000175192.55139.69</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16138062">16138062</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Cervical+disc+replacement&amp;rft.aulast=Phillips+FM%2C+Garfin+SR&amp;rft.au=Phillips+FM%2C+Garfin+SR&amp;rft.date=September+2005&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fmeta.wkhealth.com%2Fpt%2Fpt-core%2Ftemplate-journal%2Flwwgateway%2Fmedia%2Flandingpage.htm%3Fissn%3D0362-2436%26volume%3D30%26issue%3D17%26spage%3DS27&amp;rft_id=info%3Adoi%2F10.1097%2F01.brs.0000175192.55139.69&amp;rft_id=info%3Apmid%2F16138062&amp;rft.issue=17+Suppl&amp;rft.jtitle=Spine&amp;rft.pages=S27-33&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=30" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-CartwrightWallace2007-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-CartwrightWallace2007_14-0">^</a></b></span> <span class="reference-text"><span class="citation book">Cathy C. Cartwright; Donna C. Wallace (3 May 2007). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=G6o3uSlfRKcC&amp;pg=PA205"><i>Nursing care of the pediatric neurosurgery patient</i></a>. pp.&#160;205–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-540-29703-1" title="Special:BookSources/978-3-540-29703-1">978-3-540-29703-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2010</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.au=Cathy+C.+Cartwright&amp;rft.au=Donna+C.+Wallace&amp;rft.aulast=Cathy+C.+Cartwright&amp;rft.btitle=Nursing+care+of+the+pediatric+neurosurgery+patient&amp;rft.date=3+May+2007&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DG6o3uSlfRKcC%26pg%3DPA205&amp;rft.isbn=978-3-540-29703-1&amp;rft.pages=205-&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation journal">Tassabehji M, Fang ZM, Hilton EN et al. (August 2008). "Mutations in GDF6 are associated with vertebral segmentation defects in Klippel-Feil syndrome". <i>Hum. Mutat.</i> <b>29</b> (8): 1017–27. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1002%2Fhumu.20741">10.1002/humu.20741</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18425797">18425797</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Mutations+in+GDF6+are+associated+with+vertebral+segmentation+defects+in+Klippel-Feil+syndrome&amp;rft.aulast=Tassabehji+M%2C+Fang+ZM%2C+Hilton+EN&amp;rft.au=Tassabehji+M%2C+Fang+ZM%2C+Hilton+EN&amp;rft.date=August+2008&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1002%2Fhumu.20741&amp;rft_id=info%3Apmid%2F18425797&amp;rft.issue=8&amp;rft.jtitle=Hum.+Mutat.&amp;rft.pages=1017-27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=29" class="Z3988"><span style="display:none;">&#160;</span></span> <span class="citation-comment" style="display:none; color:#33aa33">CS1 maint: Explicit use of et al. (<a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">link</a>)</span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="/wiki/Mendelian_Inheritance_in_Man" title="Mendelian Inheritance in Man" class="mw-redirect">Online 'Mendelian Inheritance in Man'</a> (OMIM) <a rel="nofollow" class="external text" href="//omim.org/entry/118100">Klippel-Feil Syndrome 1, Autosomal Dominant; KFS1 -118100</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://rarediseases.info.nih.gov/GARD/Disease.aspx?diseaseID=6838">http://rarediseases.info.nih.gov/GARD/Disease.aspx?diseaseID=6838</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.klippel-feil.info/histoire.html">http://www.klippel-feil.info/histoire.html</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://archive.is/VgLA">"Oldest Known Paralyzed Human Discovered"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-18</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.btitle=Oldest+Known+Paralyzed+Human+Discovered&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Farchive.is%2FVgLA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation journal">Tilley, Lorna; Oxenham, Marc F (March 2011). <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S1879981711000064">"Survival against the odds: Modeling the social implications of care provision to seriously disabled individuals"</a>. <i>International Journal of Paleopathology</i> <b>1</b> (1): 35–42. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1016%2Fj.ijpp.2011.02.003">10.1016/j.ijpp.2011.02.003</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 April</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Survival+against+the+odds%3A+Modeling+the+social+implications+of+care+provision+to+seriously+disabled+individuals&amp;rft.aufirst=Lorna&amp;rft.aulast=Tilley&amp;rft.au=Oxenham%2C+Marc+F&amp;rft.au=Tilley%2C+Lorna&amp;rft.date=March+2011&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1879981711000064&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ijpp.2011.02.003&amp;rft.issue=1&amp;rft.jtitle=International+Journal+of+Paleopathology&amp;rft.pages=35-42&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=1" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation news">Gorman, James (2012-12-17). <a rel="nofollow" class="external text" href="http://www.nytimes.com/2012/12/18/science/ancient-bones-that-tell-a-story-of-compassion.html?pagewanted=2&amp;_r=1">"Ancient Bones That Tell a Story of Compassion"</a> (17 December 2012, New York edition, D1). The New York Times. The New York Times<span class="reference-accessdate">. Retrieved <span class="nowrap">12 April</span> 2015</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.aufirst=James&amp;rft.au=Gorman%2C+James&amp;rft.aulast=Gorman&amp;rft.btitle=Ancient+Bones+That+Tell+a+Story+of+Compassion&amp;rft.date=2012-12-17&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.nytimes.com%2F2012%2F12%2F18%2Fscience%2Fancient-bones-that-tell-a-story-of-compassion.html%3Fpagewanted%3D2%26_r%3D1&amp;rft.issue=17+December+2012%2C+New+York+edition%2C+D1&amp;rft.pub=The+New+York+Times&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/1408698/Tutankhamun-shows-his-face-80-years-after-tomb-is-opened.html">"Tutankhamun shows his face 80 years after tomb is opened"</a>. <i>The Telegraph</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-07-12</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=Tutankhamun+shows+his+face+80+years+after+tomb+is+opened&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fworldnews%2Fafricaandindianocean%2Fegypt%2F1408698%2FTutankhamun-shows-his-face-80-years-after-tomb-is-opened.html&amp;rft.jtitle=The+Telegraph&amp;rft.place=London&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><span class="citation journal">Boyer RS, Rodin EA, Grey TC, Connolly RC (2003). <a rel="nofollow" class="external text" href="http://www.ajnr.org/cgi/content/full/24/6/1142">"The skull and cervical spine radiographs of Tutankhamen: a critical appraisal"</a>. <i>AJNR. American journal of neuroradiology</i> <b>24</b> (6): 1142–7. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12812942">12812942</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.atitle=The+skull+and+cervical+spine+radiographs+of+Tutankhamen%3A+a+critical+appraisal&amp;rft.au=Boyer+RS%2C+Rodin+EA%2C+Grey+TC%2C+Connolly+RC&amp;rft.aulast=Boyer+RS%2C+Rodin+EA%2C+Grey+TC%2C+Connolly+RC&amp;rft.date=2003&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.ajnr.org%2Fcgi%2Fcontent%2Ffull%2F24%2F6%2F1142&amp;rft_id=info%3Apmid%2F12812942&amp;rft.issue=6&amp;rft.jtitle=AJNR.++American+journal+of+neuroradiology&amp;rft.pages=1142-7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=24" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation web">Hughes, Simon (1997-09-05). <a rel="nofollow" class="external text" href="http://content-www.cricinfo.com/ci/content/story/74180.html">"Small gains from wealth of partners"</a>. Cricinfo<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-13</span></span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AKlippel%E2%80%93Feil+syndrome&amp;rft.aufirst=Simon&amp;rft.au=Hughes%2C+Simon&amp;rft.aulast=Hughes&amp;rft.btitle=Small+gains+from+wealth+of+partners&amp;rft.date=1997-09-05&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcontent-www.cricinfo.com%2Fci%2Fcontent%2Fstory%2F74180.html&amp;rft.pub=Cricinfo&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<p><i>This article incorporates information in the public domain prepared by the <a rel="nofollow" class="external text" href="http://www.ninds.nih.gov/">National Institute of Neurological Disorders and Stroke</a>.</i></p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://www.dmoz.org/Health/Conditions_and_Diseases/Musculoskeletal_Disorders/Congenital_Anomalies/Klippel-Feil_Syndrome/">Klippel–Feil syndrome</a> at <a href="/wiki/DMOZ" title="DMOZ">DMOZ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cafamily.org.uk/Direct/k20.html">Klippel-Feil syndrome in the</a> <a href="/wiki/Contact_a_Family" title="Contact a Family">Contact a Family Directory</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.klippel-feil.info/">Regroupement francophone international Klippel-Feil</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Congenital_malformations_and_deformations_of_musculoskeletal_system" title="Template:Congenital malformations and deformations of musculoskeletal system"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Congenital_malformations_and_deformations_of_musculoskeletal_system" title="Template talk:Congenital malformations and deformations of musculoskeletal system"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Congenital_malformations_and_deformations_of_musculoskeletal_system&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Congenital_disorder" title="Congenital disorder">Congenital</a> malformations and deformations of <a href="/wiki/Human_musculoskeletal_system" title="Human musculoskeletal system">musculoskeletal system</a> / <a href="/wiki/Musculoskeletal_abnormality" title="Musculoskeletal abnormality">musculoskeletal abnormality</a> (<a href="/wiki/ICD-10_Chapter_Q#.28Q65.E2.80.93Q79.29_musculoskeletal_system" title="ICD-10 Chapter Q" class="mw-redirect">Q65–Q76</a>, <a href="/wiki/List_of_ICD-9_codes_740%E2%80%93759:_congenital_anomalies#Musculoskeletal_system" title="List of ICD-9 codes 740–759: congenital anomalies">754–756.3</a>)</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Appendicular_skeleton" title="Appendicular skeleton">Appendicular</a><br />
+<a href="/wiki/Congenital_limb_deformities" title="Congenital limb deformities">limb</a> / <a href="/wiki/Dysmelia" title="Dysmelia">dysmelia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Upper_limb" title="Upper limb">Upper</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Clavicle" title="Clavicle">clavicle</a> / <a href="/wiki/Shoulder" title="Shoulder">shoulder</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cleidocranial_dysostosis" title="Cleidocranial dysostosis">Cleidocranial dysostosis</a></li>
+<li><a href="/wiki/Sprengel%27s_deformity" title="Sprengel's deformity">Sprengel's deformity</a></li>
+<li><a href="/wiki/Wallis%E2%80%93Zieff%E2%80%93Goldblatt_syndrome" title="Wallis–Zieff–Goldblatt syndrome">Wallis–Zieff–Goldblatt syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hand_deformity" title="Hand deformity">hand deformity</a>:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Madelung%27s_deformity" title="Madelung's deformity">Madelung's deformity</a></li>
+<li><a href="/wiki/Clinodactyly" title="Clinodactyly">Clinodactyly</a></li>
+<li><a href="/wiki/Oligodactyly" title="Oligodactyly">Oligodactyly</a></li>
+<li><a href="/wiki/Polydactyly" title="Polydactyly">Polydactyly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Human_leg" title="Human leg">Lower</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Hip" title="Hip">hip</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dislocation_of_hip" title="Dislocation of hip">Dislocation of hip</a> / <a href="/wiki/Hip_dysplasia_(human)" title="Hip dysplasia (human)">Hip dysplasia</a></li>
+<li><a href="/wiki/Upington_disease" title="Upington disease">Upington disease</a></li>
+<li><a href="/wiki/Coxa_valga" title="Coxa valga">Coxa valga</a></li>
+<li><a href="/wiki/Coxa_vara" title="Coxa vara">Coxa vara</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Knee" title="Knee">knee</a>:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Genu_valgum" title="Genu valgum">Genu valgum</a></li>
+<li><a href="/wiki/Genu_varum" title="Genu varum">Genu varum</a></li>
+<li><a href="/wiki/Genu_recurvatum" title="Genu recurvatum">Genu recurvatum</a></li>
+<li><a href="/wiki/Discoid_meniscus" title="Discoid meniscus">Discoid meniscus</a></li>
+<li><a href="/wiki/Congenital_patellar_dislocation" title="Congenital patellar dislocation" class="mw-redirect">Congenital patellar dislocation</a></li>
+<li><a href="/wiki/Congenital_knee_dislocation" title="Congenital knee dislocation" class="mw-redirect">Congenital knee dislocation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Foot_deformity" title="Foot deformity">foot deformity</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Varus_deformity" title="Varus deformity">varus</a></i>
+<ul>
+<li><a href="/wiki/Club_foot" title="Club foot">Club foot</a></li>
+<li><a href="/wiki/Pigeon_toe" title="Pigeon toe">Pigeon toe</a></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Valgus_deformity" title="Valgus deformity">valgus</a></i>
+<ul>
+<li><a href="/wiki/Flat_feet" title="Flat feet">Flat feet</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Pes_cavus" title="Pes cavus">Pes cavus</a></li>
+<li><a href="/wiki/Rocker_bottom_foot" title="Rocker bottom foot">Rocker bottom foot</a></li>
+<li><a href="/wiki/Hammer_toe" title="Hammer toe">Hammer toe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Either / both</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Dactyly" title="Dactyly">dactyly</a> / digit:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polydactyly" title="Polydactyly">Polydactyly</a> / <a href="/wiki/Syndactyly" title="Syndactyly">Syndactyly</a>
+<ul>
+<li><a href="/wiki/Webbed_toes" title="Webbed toes">webbed toes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Arachnodactyly" title="Arachnodactyly">Arachnodactyly</a></li>
+<li><a href="/wiki/Cenani%E2%80%93Lenz_syndactylism" title="Cenani–Lenz syndactylism">Cenani–Lenz syndactylism</a></li>
+<li><a href="/wiki/Ectrodactyly" title="Ectrodactyly">Ectrodactyly</a></li>
+<li><a href="/wiki/Brachydactyly" title="Brachydactyly">Brachydactyly</a>
+<ul>
+<li><a href="/wiki/Clubbed_thumb" title="Clubbed thumb">Clubbed thumb</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">reduction deficits / limb:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acheiropodia" title="Acheiropodia">Acheiropodia</a></li>
+<li><i><a href="/wiki/Ectromelia" title="Ectromelia">ectromelia</a></i>
+<ul>
+<li><a href="/wiki/Phocomelia" title="Phocomelia">Phocomelia</a></li>
+<li><a href="/wiki/Amelia_(birth_defect)" title="Amelia (birth defect)">Amelia</a></li>
+<li><a href="/wiki/Hemimelia" title="Hemimelia">Hemimelia</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">multiple joints:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arthrogryposis" title="Arthrogryposis">Arthrogryposis</a></li>
+<li><a href="/wiki/Larsen_syndrome" title="Larsen syndrome">Larsen syndrome</a></li>
+<li><a href="/wiki/Rapadilino_syndrome" title="Rapadilino syndrome">Rapadilino syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Axial_skeleton" title="Axial skeleton">Axial</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Craniofacial_abnormality" title="Craniofacial abnormality">Craniofacial</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Craniosynostosis" title="Craniosynostosis">Craniosynostosis</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scaphocephaly" title="Scaphocephaly">Scaphocephaly</a></li>
+<li><a href="/wiki/Oxycephaly" title="Oxycephaly">Oxycephaly</a></li>
+<li><a href="/wiki/Trigonocephaly" title="Trigonocephaly">Trigonocephaly</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Craniofacial_dysostosis" title="Craniofacial dysostosis" class="mw-redirect">Craniofacial dysostosis</a>:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Crouzon_syndrome" title="Crouzon syndrome">Crouzon syndrome</a></li>
+<li><a href="/wiki/Hypertelorism" title="Hypertelorism">Hypertelorism</a></li>
+<li><a href="/wiki/Hallermann%E2%80%93Streiff_syndrome" title="Hallermann–Streiff syndrome">Hallermann–Streiff syndrome</a></li>
+<li><a href="/wiki/Treacher_Collins_syndrome" title="Treacher Collins syndrome">Treacher Collins syndrome</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">other:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Macrocephaly" title="Macrocephaly">Macrocephaly</a></li>
+<li><a href="/wiki/Platybasia" title="Platybasia">Platybasia</a></li>
+<li><a href="/wiki/Craniodiaphyseal_dysplasia" title="Craniodiaphyseal dysplasia">Craniodiaphyseal dysplasia</a></li>
+<li><a href="/wiki/Dolichocephaly" title="Dolichocephaly">Dolichocephaly</a></li>
+<li><a href="/wiki/Greig_cephalopolysyndactyly_syndrome" title="Greig cephalopolysyndactyly syndrome">Greig cephalopolysyndactyly syndrome</a></li>
+<li><a href="/wiki/Plagiocephaly" title="Plagiocephaly">Plagiocephaly</a></li>
+<li><a href="/wiki/Saddle_nose" title="Saddle nose">Saddle nose</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Vertebral_column" title="Vertebral column">Vertebral column</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Spinal_curvature" title="Spinal curvature" class="mw-redirect">spinal curvature</a>
+<ul>
+<li><a href="/wiki/Scoliosis" title="Scoliosis">Scoliosis</a></li>
+</ul>
+</li>
+<li><strong class="selflink">Klippel–Feil syndrome</strong></li>
+<li><a href="/wiki/Spondylolisthesis" title="Spondylolisthesis">Spondylolisthesis</a></li>
+<li><a href="/wiki/Spina_bifida_occulta" title="Spina bifida occulta" class="mw-redirect">Spina bifida occulta</a></li>
+<li><a href="/wiki/Sacralization_of_the_fifth_lumbar_vertebra" title="Sacralization of the fifth lumbar vertebra" class="mw-redirect">Sacralization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Thoracic_skeleton" title="Thoracic skeleton" class="mw-redirect">Thoracic skeleton</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Rib" title="Rib">ribs</a>:</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cervical_rib" title="Cervical rib">Cervical</a></li>
+<li><a href="/wiki/Bifid_rib" title="Bifid rib">Bifid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sternum" title="Sternum">sternum</a>:</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Pectus_excavatum" title="Pectus excavatum">Pectus excavatum</a></li>
+<li><a href="/wiki/Pectus_carinatum" title="Pectus carinatum">Pectus carinatum</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: transparent; padding: 0px;">
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Joint_navs" title="Template:Joint navs"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Joint_navs" title="Template talk:Joint navs"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Joint_navs&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%">Index of <a href="/wiki/Joint" title="Joint">joint</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Description</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Joints" title="Template:Joints">Anatomy</a>
+<ul>
+<li><a href="/wiki/Template:Joints_of_head_and_neck" title="Template:Joints of head and neck">head and neck</a></li>
+<li><a href="/wiki/Template:Cranial_fibrous_joints" title="Template:Cranial fibrous joints">cranial</a></li>
+<li><a href="/wiki/Template:Joints_of_upper_limbs" title="Template:Joints of upper limbs">arms</a></li>
+<li><a href="/wiki/Template:Joints_of_torso_and_pelvis" title="Template:Joints of torso and pelvis">torso and pelvis</a></li>
+<li><a href="/wiki/Template:Joints_of_lower_limbs" title="Template:Joints of lower limbs">legs</a></li>
+<li><a href="/wiki/Template:Bursae_and_sheaths" title="Template:Bursae and sheaths">bursae and sheathes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Bone_and_cartilage_physiology" title="Template:Bone and cartilage physiology">Physiology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Disease</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Arthropathies_and_related_conditions" title="Template:Arthropathies and related conditions">Arthritis</a>
+<ul>
+<li><a href="/wiki/Template:Acquired_musculoskeletal_deformities" title="Template:Acquired musculoskeletal deformities">acquired</a></li>
+<li><a href="/wiki/Template:Spinal_disease" title="Template:Spinal disease">back</a></li>
+<li><a href="/wiki/Template:Arthritis_in_children" title="Template:Arthritis in children">childhood</a></li>
+<li><a href="/wiki/Template:Soft_tissue_disorders" title="Template:Soft tissue disorders">soft tissue</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Congenital_malformations_and_deformations_of_musculoskeletal_system" title="Template:Congenital malformations and deformations of musculoskeletal system">Congenital</a></li>
+<li><a href="/wiki/Template:Dislocations,_sprains_and_strains" title="Template:Dislocations, sprains and strains">Injury</a></li>
+<li><a href="/wiki/Template:Nervous_and_musculoskeletal_system_symptoms_and_signs" title="Template:Nervous and musculoskeletal system symptoms and signs">Symptoms and signs</a>
+<ul>
+<li><a href="/wiki/Template:Eponymous_medical_signs_for_skeletal_system_and_joints" title="Template:Eponymous medical signs for skeletal system and joints">eponymous</a></li>
+<li><a href="/wiki/Template:Orthopaedic_Eponyms" title="Template:Orthopaedic Eponyms">orthopaedic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Template:Orthopedic_examination" title="Template:Orthopedic examination">Examination</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Treatment</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Template:Bone,_cartilage,_and_joint_procedures" title="Template:Bone, cartilage, and joint procedures">Procedures</a></li>
+<li>Drugs
+<ul>
+<li><a href="/wiki/Template:Antirheumatic_products" title="Template:Antirheumatic products">rheumatoid arthritis</a></li>
+<li><a href="/wiki/Template:Antigout_preparations" title="Template:Antigout preparations">gout</a></li>
+<li><a href="/wiki/Template:Topical_products_for_joint_and_muscular_pain" title="Template:Topical products for joint and muscular pain">topical analgesics</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4367829-4">4367829-4</a></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1049
+CPU time usage: 0.517 seconds
+Real time usage: 0.621 seconds
+Preprocessor visited node count: 2095/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 122563/2097152 bytes
+Template argument size: 1567/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 4/500
+Lua time usage: 0.204/10.000 seconds
+Lua memory usage: 4.22 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  491.407      1 - -total
+ 35.91%  176.462      1 - Template:Reflist
+ 26.38%  129.610      9 - Template:Navbox
+ 15.68%   77.051     10 - Template:Cite_journal
+ 15.55%   76.412      1 - Template:Infobox_disease
+ 14.57%   71.587      1 - Template:Congenital_malformations_and_deformations_of_musculoskeletal_system
+ 13.60%   66.833      1 - Template:Technical
+ 13.27%   65.226      1 - Template:Infobox
+  9.02%   44.310      1 - Template:Ambox
+  5.77%   28.361      1 - Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1977327-0!*!0!!en!4!* and timestamp 20150711062148 and revision id 665501700
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Klippel–Feil_syndrome&amp;oldid=665501700">https://en.wikipedia.org/w/index.php?title=Klippel–Feil_syndrome&amp;oldid=665501700</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Congenital_disorders_of_musculoskeletal_system" title="Category:Congenital disorders of musculoskeletal system">Congenital disorders of musculoskeletal system</a></li><li><a href="/wiki/Category:Genodermatoses" title="Category:Genodermatoses">Genodermatoses</a></li><li><a href="/wiki/Category:Syndromes" title="Category:Syndromes">Syndromes</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Explicit_use_of_et_al." title="Category:CS1 maint: Explicit use of et al.">CS1 maint: Explicit use of et al.</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_December_2010" title="Category:Wikipedia articles that are too technical from December 2010">Wikipedia articles that are too technical from December 2010</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_December_2010" title="Category:Articles needing expert attention from December 2010">Articles needing expert attention from December 2010</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Articles_with_contributors_link" title="Category:Articles with contributors link">Articles with contributors link</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2013" title="Category:Articles with unsourced statements from June 2013">Articles with unsourced statements from June 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2010" title="Category:Articles with unsourced statements from April 2010">Articles with unsourced statements from April 2010</a></li><li><a href="/wiki/Category:Articles_with_DMOZ_links" title="Category:Articles with DMOZ links">Articles with DMOZ links</a></li><li><a href="/wiki/Category:Articles_that_use_a_Medicine_navs_subtemplate" title="Category:Articles that use a Medicine navs subtemplate">Articles that use a Medicine navs subtemplate</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Klippel%E2%80%93Feil+syndrome&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Klippel%E2%80%93Feil+syndrome" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Klippel%E2%80%93Feil_syndrome"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Klippel%E2%80%93Feil_syndrome"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Klippel%E2%80%93Feil_syndrome" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Klippel%E2%80%93Feil_syndrome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Klippel%E2%80%93Feil_syndrome" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;oldid=665501700" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q1774751" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Klippel%E2%80%93Feil_syndrome&amp;id=665501700" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Klippel%E2%80%93Feil+syndrome">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Klippel%E2%80%93Feil+syndrome&amp;oldid=665501700&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%9A%D0%BB%D0%B8%D0%BF%D0%B5%D0%BB-%D0%A4%D0%B0%D0%B9%D0%BB" title="Синдром на Клипел-Файл – Bulgarian" lang="bg" hreflang="bg">Български</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Klippel-Feil-Syndrom" title="Klippel-Feil-Syndrom – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/S%C3%ADndrome_de_Klippel-Feil" title="Síndrome de Klippel-Feil – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%86%D8%B4%D8%A7%D9%86%DA%AF%D8%A7%D9%86_%DA%A9%D9%84%DB%8C%D9%BE%D9%84_%D9%81%D8%A7%DB%8C%D9%84" title="نشانگان کلیپل فایل – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Syndrome_de_Klippel-Feil" title="Syndrome de Klippel-Feil – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Sindrome_di_Klippel-Feil" title="Sindrome di Klippel-Feil – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Zesp%C3%B3%C5%82_Klippla-Feila" title="Zespół Klippla-Feila – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/S%C3%ADndrome_de_Klippel-Feil" title="Síndrome de Klippel-Feil – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC_%D0%9A%D0%BB%D0%B8%D0%BF%D0%BF%D0%B5%D0%BB%D1%8F_%E2%80%94_%D0%A4%D0%B5%D0%B9%D0%BB%D1%8F" title="Синдром Клиппеля — Фейля – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="//sv.wikipedia.org/wiki/Klippel-Feils_syndrom" title="Klippel-Feils syndrom – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q1774751#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 June 2015, at 18:02.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Klippel%E2%80%93Feil_syndrome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1104"});
+}</script>
+	</body>
+</html>

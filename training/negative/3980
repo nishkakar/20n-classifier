@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Actor–network theory - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Actor%E2%80%93network_theory" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/Actor%E2%80%93network_theory" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Actor%E2%80%93network_theory" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Actor–network_theory","wgTitle":"Actor–network theory","wgCurRevisionId":665674325,"wgRevisionId":665674325,"wgArticleId":505093,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing potentially dated statements from 2008","All articles containing potentially dated statements","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from December 2012","Articles with specifically marked weasel-worded phrases from June 2014","All articles with unsourced statements","Articles with unsourced statements from May 2014","Articles with specifically marked weasel-worded phrases from July 2013","Articles with specifically marked weasel-worded phrases from October 2014","Articles needing more detailed references","Anthropology","Innovation","Philosophy of science","Science studies","Sociological theories","Actor-network theory","Semiotics","Technological change","Sociology index","Sociology of knowledge","Bruno Latour"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Actor–network_theory","wgRelevantArticleId":505093,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/100px-Social_Network_Diagram_%28segment%29.svg.png","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q421953"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Actor–network_theory skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Actor–network theory</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Anthropology" title="Anthropology"><span style="color:black">Anthropology</span></a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">Disciplines</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Archaeology" title="Archaeology">Archaeological</a></li>
+<li><a href="/wiki/Biological_anthropology" title="Biological anthropology">Biological</a></li>
+<li><a href="/wiki/Cultural_anthropology" title="Cultural anthropology">Cultural</a></li>
+<li><a href="/wiki/Linguistic_anthropology" title="Linguistic anthropology">Linguistic</a></li>
+<li><a href="/wiki/Social_anthropology" title="Social anthropology">Social</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">Discipline subfields</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<dl>
+<dt><span style="font-weight:normal;"><i>Social and</i><br />
+<i>cultural subfields</i></span></dt>
+</dl>
+<ul>
+<li><a href="/wiki/Applied_anthropology" title="Applied anthropology">Applied</a></li>
+<li><a href="/wiki/Anthropology_of_art" title="Anthropology of art">Art</a></li>
+<li><a href="/wiki/Cognitive_anthropology" title="Cognitive anthropology">Cognitive</a></li>
+<li><a href="/wiki/Cyborg_anthropology" title="Cyborg anthropology">Cyborg</a></li>
+<li><a href="/wiki/Anthropology_of_development" title="Anthropology of development">Development</a></li>
+<li><a href="/wiki/Digital_anthropology" title="Digital anthropology">Digital</a></li>
+<li><a href="/wiki/Ecological_anthropology" title="Ecological anthropology">Ecological</a></li>
+<li><a href="/wiki/Environmental_anthropology" title="Environmental anthropology">Environmental</a></li>
+<li><a href="/wiki/Economic_anthropology" title="Economic anthropology">Economic</a></li>
+<li><a href="/wiki/Political_economy_in_anthropology" title="Political economy in anthropology">Political economy</a></li>
+<li><a href="/wiki/Feminist_anthropology" title="Feminist anthropology">Feminist</a></li>
+<li><a href="/wiki/Ethnohistory" title="Ethnohistory">Historical</a></li>
+<li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Legal_anthropology" title="Legal anthropology">Legal</a></li>
+<li><a href="/wiki/Media_anthropology" title="Media anthropology" class="mw-redirect">Media</a></li>
+<li><a href="/wiki/Medical_anthropology" title="Medical anthropology">Medical</a></li>
+<li><a href="/wiki/Ethnomusicology" title="Ethnomusicology">Musical</a></li>
+<li><a href="/wiki/Nutritional_anthropology" title="Nutritional anthropology">Nutritional</a></li>
+<li><a href="/wiki/Political_anthropology" title="Political anthropology">Political</a></li>
+<li><a href="/wiki/Psychological_anthropology" title="Psychological anthropology">Psychological</a></li>
+<li><a href="/wiki/Public_anthropology" title="Public anthropology">Public</a></li>
+<li><a href="/wiki/Anthropology_of_religion" title="Anthropology of religion">Religion</a></li>
+<li><a href="/wiki/Transpersonal_anthropology" title="Transpersonal anthropology">Transpersonal</a></li>
+<li><a href="/wiki/Urban_anthropology" title="Urban anthropology">Urban</a></li>
+<li><a href="/wiki/Visual_anthropology" title="Visual anthropology">Visual</a></li>
+</ul>
+<dl>
+<dt><span style="font-weight:normal;"><i>Linguistic subfields</i></span></dt>
+</dl>
+<ul>
+<li><a href="/wiki/Linguistic_description" title="Linguistic description">Descriptive</a></li>
+<li><a href="/wiki/Ethnolinguistics" title="Ethnolinguistics">Ethno-</a></li>
+<li><a href="/wiki/Historical_linguistics" title="Historical linguistics">Historical</a></li>
+<li><a href="/wiki/Semiotic_anthropology" title="Semiotic anthropology">Semiotic</a></li>
+<li><a href="/wiki/Sociolinguistics" title="Sociolinguistics">Sociolinguistics</a></li>
+</ul>
+<dl>
+<dt><span style="font-weight:normal;"><i>Archaeological and</i><br />
+<i>biological subfields</i></span></dt>
+</dl>
+<ul>
+<li><a href="/wiki/Anthrozoology" title="Anthrozoology">Anthrozoological</a></li>
+<li><a href="/wiki/Biocultural_anthropology" title="Biocultural anthropology">Biocultural</a></li>
+<li><a href="/wiki/Evolutionary_anthropology" title="Evolutionary anthropology">Evolutionary</a></li>
+<li><a href="/wiki/Feminist_archaeology" title="Feminist archaeology">Feminist</a></li>
+<li><a href="/wiki/Forensic_anthropology" title="Forensic anthropology">Forensic</a></li>
+<li><a href="/wiki/Maritime_archaeology" title="Maritime archaeology">Maritime</a></li>
+<li><a href="/wiki/Palaeoanthropology" title="Palaeoanthropology" class="mw-redirect">Palaeoanthropological</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">Research framework</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Ethnocentrism" title="Ethnocentrism">Ethnocentrism</a></li>
+<li><a href="/wiki/Ethnography" title="Ethnography">Ethnography</a></li>
+<li><a href="/wiki/Ethnology" title="Ethnology">Ethnology</a></li>
+<li><a href="/wiki/Emic_and_etic" title="Emic and etic">Emic and etic</a></li>
+<li><a href="/wiki/Participant_observation" title="Participant observation">Participant observation</a></li>
+<li><a href="/wiki/Online_ethnography" title="Online ethnography" class="mw-redirect">Online ethnography</a></li>
+<li><a href="/wiki/Standard_cross-cultural_sample" title="Standard cross-cultural sample">Cross-cultural comparison</a></li>
+<li><a href="/wiki/Holism_in_science" title="Holism in science">Holism</a></li>
+<li><a href="/wiki/Reflexivity_(social_theory)" title="Reflexivity (social theory)">Reflexivity</a></li>
+<li><a href="/wiki/Cultural_relativism" title="Cultural relativism">Cultural relativism</a></li>
+<li><a href="/wiki/History_of_anthropology" title="History of anthropology">History of anthropology</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">Key theories</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Actor-network_theory" title="Actor-network theory" class="mw-redirect">Actor-network theory</a></li>
+<li><a href="/wiki/Alliance_theory" title="Alliance theory">Alliance theory</a></li>
+<li><a href="/wiki/Cross-cultural_studies" title="Cross-cultural studies">Cross-cultural studies</a></li>
+<li><a href="/wiki/Cultural_ecology" title="Cultural ecology">Cultural ecology</a></li>
+<li><a href="/wiki/Cultural_materialism_(anthropology)" title="Cultural materialism (anthropology)">Cultural materialism</a></li>
+<li><a href="/wiki/Culture_theory" title="Culture theory">Culture theory</a></li>
+<li><a href="/wiki/Trans-cultural_diffusion" title="Trans-cultural diffusion">Diffusionism</a></li>
+<li><a href="/wiki/Feminist_anthropology" title="Feminist anthropology">Feminism</a></li>
+<li><a href="/wiki/Structural_functionalism" title="Structural functionalism">Functionalism</a></li>
+<li><a href="/wiki/Historical_particularism" title="Historical particularism">Historical particularism</a></li>
+<li><a href="/wiki/Symbolic_anthropology" title="Symbolic anthropology">Interpretive</a></li>
+<li><a href="/wiki/Performance_studies" title="Performance studies">Performance studies</a></li>
+<li><a href="/wiki/Political_economy_in_anthropology" title="Political economy in anthropology">Political economy</a></li>
+<li><a href="/wiki/Practice_theory" title="Practice theory">Practice theory</a></li>
+<li><a href="/wiki/Structural_anthropology" title="Structural anthropology">Structuralism</a></li>
+<li><a href="/wiki/Post-structuralism" title="Post-structuralism">Post-structuralism</a></li>
+<li><a href="/wiki/Systems_theory_in_anthropology" title="Systems theory in anthropology">Systems theory</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">Key concepts</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Evolution" title="Evolution">Evolution</a></li>
+<li><a href="/wiki/Society" title="Society">Society</a></li>
+<li><a href="/wiki/Culture" title="Culture">Culture</a></li>
+<li><a href="/wiki/Prehistory" title="Prehistory">Prehistory</a></li>
+<li><a href="/wiki/Sociocultural_evolution" title="Sociocultural evolution">Sociocultural evolution</a></li>
+<li><a href="/wiki/Kinship_and_descent" title="Kinship and descent" class="mw-redirect">Kinship and descent</a></li>
+<li><a href="/wiki/Gender" title="Gender">Gender</a></li>
+<li><a href="/wiki/Race_(human_classification)" title="Race (human classification)">Race</a></li>
+<li><a href="/wiki/Ethnicity" title="Ethnicity" class="mw-redirect">Ethnicity</a></li>
+<li><a href="/wiki/Development_anthropology" title="Development anthropology">Development</a></li>
+<li><a href="/wiki/Colonialism" title="Colonialism">Colonialism</a></li>
+<li><a href="/wiki/Postcolonialism" title="Postcolonialism">Postcolonialism</a></li>
+<li><a href="/wiki/Anthropological_theories_of_value" title="Anthropological theories of value">Value</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:lavender;">Lists</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Outline_of_anthropology" title="Outline of anthropology">Outline</a></li>
+<li><a href="/wiki/Bibliography_of_anthropology" title="Bibliography of anthropology">Bibliography</a></li>
+<li><a href="/wiki/List_of_anthropology_journals" title="List of anthropology journals">Journals</a></li>
+<li><a href="/wiki/List_of_years_in_anthropology" title="List of years in anthropology">By years</a></li>
+<li><a href="/wiki/List_of_indigenous_peoples" title="List of indigenous peoples">List of indigenous peoples</a></li>
+<li><a href="/wiki/Category:Anthropology_organizations" title="Category:Anthropology organizations">Organizations</a></li>
+<li><a href="/wiki/Category:Anthropologists_by_nationality" title="Category:Anthropologists by nationality">Anthropologists by nationality</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;padding-top:0.15em;"><span class="metadata"><a href="/wiki/File:Moai_Easter_Island_InvMH-35-61-1.jpg" class="image"><img alt="Portal icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Moai_Easter_Island_InvMH-35-61-1.jpg/10px-Moai_Easter_Island_InvMH-35-61-1.jpg" width="10" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Moai_Easter_Island_InvMH-35-61-1.jpg/16px-Moai_Easter_Island_InvMH-35-61-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Moai_Easter_Island_InvMH-35-61-1.jpg/21px-Moai_Easter_Island_InvMH-35-61-1.jpg 2x" data-file-width="1160" data-file-height="1750" /></a></span> <a href="/wiki/Portal:Anthropology" title="Portal:Anthropology">Anthropology portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Anthropology_collapsible" title="Template:Anthropology collapsible"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Anthropology_collapsible" title="Template talk:Anthropology collapsible"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Anthropology_collapsible&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Sociology" title="Sociology">Sociology</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Social_Network_Diagram_(segment).svg" class="image"><img alt="Social Network Diagram (segment).svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/220px-Social_Network_Diagram_%28segment%29.svg.png" width="220" height="85" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/330px-Social_Network_Diagram_%28segment%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Social_Network_Diagram_%28segment%29.svg/440px-Social_Network_Diagram_%28segment%29.svg.png 2x" data-file-width="670" data-file-height="260" /></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Outline_of_sociology" title="Outline of sociology">Outline</a></li>
+<li><a href="/wiki/History_of_sociology" title="History of sociology">History</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Sociological_theory" title="Sociological theory">Theory</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Antipositivism" title="Antipositivism">Antipositivism</a></li>
+<li><a href="/wiki/Structural_functionalism" title="Structural functionalism">Functionalism</a></li>
+<li><a href="/wiki/Conflict_theories" title="Conflict theories">Conflict theories</a></li>
+<li><a href="/wiki/Social_constructionism" title="Social constructionism">Social constructionism</a></li>
+<li><a href="/wiki/Structuralism" title="Structuralism">Structuralism</a></li>
+<li><a href="/wiki/Interactionism" title="Interactionism">Interactionism</a></li>
+<li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li>
+<li><a href="/wiki/Structure_and_agency" title="Structure and agency">Structure and agency</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Social_research" title="Social research">Methods</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Quantitative_research" title="Quantitative research">Quantitative</a></li>
+<li><a href="/wiki/Qualitative_research" title="Qualitative research">Qualitative</a></li>
+<li><a href="/wiki/Comparative_historical_research" title="Comparative historical research">Historical</a></li>
+<li><a href="/wiki/Mathematical_sociology" title="Mathematical sociology">Mathematical</a></li>
+<li><a href="/wiki/Computational_sociology" title="Computational sociology">Computational</a></li>
+<li><a href="/wiki/Ethnography" title="Ethnography">Ethnography</a></li>
+<li><a href="/wiki/Ethnomethodology" title="Ethnomethodology">Ethnomethodology</a></li>
+<li><a href="/wiki/Social_network_analysis" title="Social network analysis">Network analysis</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Subfields_of_sociology" title="Subfields of sociology" class="mw-redirect">Subfields</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Social_conflict" title="Social conflict">Conflict</a></li>
+<li><a href="/wiki/Criminology" title="Criminology">Criminology</a></li>
+<li><a href="/wiki/Sociology_of_culture" title="Sociology of culture">Culture</a></li>
+<li><a href="/wiki/Development_theory" title="Development theory">Development</a></li>
+<li><a href="/wiki/Deviance_(sociology)" title="Deviance (sociology)">Deviance</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li><a href="/wiki/Sociology_of_education" title="Sociology of education">Education</a></li>
+<li><a href="/wiki/Economic_sociology" title="Economic sociology">Economic</a></li>
+<li><a href="/wiki/Environmental_sociology" title="Environmental sociology">Environmental</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Family</a></li>
+<li><a href="/wiki/Sociology_of_gender" title="Sociology of gender">Gender</a></li>
+<li><a href="/wiki/Sociology_of_health_and_illness" title="Sociology of health and illness">Health</a></li>
+<li><a href="/wiki/Industrial_sociology" title="Industrial sociology">Industrial</a></li>
+<li><a href="/wiki/Social_inequality" title="Social inequality">Inequality</a></li>
+<li><a href="/wiki/Sociology_of_knowledge" title="Sociology of knowledge">Knowledge</a></li>
+<li><a href="/wiki/Sociology_of_law" title="Sociology of law">Law</a></li>
+<li><a href="/wiki/Sociology_of_literature" title="Sociology of literature">Literature</a></li>
+<li><a href="/wiki/Medical_sociology" title="Medical sociology">Medical</a></li>
+<li><a href="/wiki/Military_sociology" title="Military sociology">Military</a></li>
+<li><a href="/wiki/Organizational_theory" title="Organizational theory">Organizational</a></li>
+<li><a href="/wiki/Political_sociology" title="Political sociology">Political</a></li>
+<li><a href="/wiki/Sociology_of_race_and_ethnic_relations" title="Sociology of race and ethnic relations">Race &amp; ethnicity</a></li>
+<li><a href="/wiki/Sociology_of_religion" title="Sociology of religion">Religion</a></li>
+<li><a href="/wiki/Rural_sociology" title="Rural sociology">Rural</a></li>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">Science</a></li>
+<li><a href="/wiki/Social_change" title="Social change">Social change</a></li>
+<li><a href="/wiki/Social_movement" title="Social movement">Social movements</a></li>
+<li><a href="/wiki/Social_psychology_(sociology)" title="Social psychology (sociology)">Social psychology</a></li>
+<li><a href="/wiki/Social_stratification" title="Social stratification">Stratification</a></li>
+<li><a href="/wiki/Social_construction_of_technology" title="Social construction of technology">Technology</a></li>
+<li><a href="/wiki/Urban_sociology" title="Urban sociology">Urban</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th class="navbox-abovebelow" style="padding:0.1em"><a href="/wiki/Index_of_sociology_articles" title="Index of sociology articles">Browse</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-top:0.2em;">
+<ul>
+<li><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Portal</a></li>
+<li><a href="/wiki/List_of_sociologists" title="List of sociologists">People</a></li>
+<li><a href="/wiki/List_of_sociological_associations" title="List of sociological associations">Organizations</a></li>
+<li><a href="/wiki/List_of_sociology_journals" title="List of sociology journals">Journals</a></li>
+<li><a href="/wiki/Index_of_sociology_articles" title="Index of sociology articles">Index</a></li>
+<li><a href="/wiki/Timeline_of_sociology" title="Timeline of sociology">Timeline</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sociology" title="Template:Sociology"><span title="View this template">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sociology" title="Template talk:Sociology"><span title="Discuss this template">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sociology&amp;action=edit"><span title="Edit this template">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Actor–network theory</b> (<b>ANT</b>) is an approach to <a href="/wiki/Social_theory" title="Social theory">social theory</a> and research, originating in the field of <a href="/wiki/Science_studies" title="Science studies">science studies</a>, which treats objects as part of social networks. Although it is best known for its controversial insistence on the capacity of <a href="/wiki/Non_human" title="Non human" class="mw-redirect">nonhumans</a> to act or participate in systems or networks or both, ANT is also associated with forceful critiques of conventional and critical sociology. Developed by <a href="/wiki/Science_and_technology_studies" title="Science and technology studies" class="mw-redirect">science and technology studies</a> (STS) scholars <a href="/wiki/Michel_Callon" title="Michel Callon">Michel Callon</a> and <a href="/wiki/Bruno_Latour" title="Bruno Latour">Bruno Latour</a>, the sociologist <a href="/wiki/John_Law_(sociologist)" title="John Law (sociologist)">John Law</a>, and others, it can more technically be described as a "material-semiotic" method. This means that it maps relations that are simultaneously material (between things) and <a href="/wiki/Semiotic" title="Semiotic" class="mw-redirect">semiotic</a> (between concepts). It assumes that many relations are both material and semiotic.</p>
+<p>Broadly speaking, ANT is a <a href="/wiki/Social_constructivism" title="Social constructivism">constructivist</a> approach in that it avoids <a href="/wiki/Essentialist" title="Essentialist" class="mw-redirect">essentialist</a> explanations of events or innovations (e.g. explaining a successful theory by understanding the combinations and interactions of elements that make it successful, rather than saying it is “true” and the others are “false”). However, it is distinguished from many other <a href="/wiki/Science_and_technology_studies" title="Science and technology studies" class="mw-redirect">STS</a> and sociological <a href="/wiki/Social_network" title="Social network">network theories</a> for its distinct material-semiotic approach.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_context"><span class="tocnumber">1</span> <span class="toctext">Background and context</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#A_material-semiotic_method"><span class="tocnumber">2</span> <span class="toctext">A material-semiotic method</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#The_actor-network"><span class="tocnumber">3</span> <span class="toctext">The actor-network</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Human_and_non-human_actors"><span class="tocnumber">4</span> <span class="toctext">Human and non-human actors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Intermediaries_and_mediators"><span class="tocnumber">4.1</span> <span class="toctext">Intermediaries and mediators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Other_central_concepts"><span class="tocnumber">5</span> <span class="toctext">Other central concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Translation"><span class="tocnumber">5.1</span> <span class="toctext">Translation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Tokens.2C_or_quasi-objects"><span class="tocnumber">5.2</span> <span class="toctext">Tokens, or quasi-objects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Criticism"><span class="tocnumber">6</span> <span class="toctext">Criticism</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Bibliographies_and_resources"><span class="tocnumber">9.1</span> <span class="toctext">Bibliographies and resources</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Further_reading"><span class="tocnumber">9.2</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background_and_context">Background and context</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=1" title="Edit section: Background and context">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ANT was first developed at the <a href="/wiki/Centre_de_Sociologie_de_l%27Innovation" title="Centre de Sociologie de l'Innovation">Centre de Sociologie de l'Innovation</a> (CSI) of the <a href="/wiki/%C3%89cole_nationale_sup%C3%A9rieure_des_mines_de_Paris" title="École nationale supérieure des mines de Paris" class="mw-redirect">École nationale supérieure des mines de Paris</a> in the early 1980s by staff (<a href="/wiki/Michel_Callon" title="Michel Callon">Michel Callon</a> and <a href="/wiki/Bruno_Latour" title="Bruno Latour">Bruno Latour</a>) and visitors (including <a href="/wiki/John_Law_(sociologist)" title="John Law (sociologist)">John Law</a>). The 1984 book co-authored by John Law and fellow-sociologist Peter Lodge (Science for Social Scientists; London: Macmillan Press LTD) is a good example of early explorations of how the growth and structure of knowledge could be analyzed and interpreted through the interactions of actors and networks. Initially created in an attempt to understand processes of innovation and knowledge-creation in science and technology, the approach drew on existing work in <a href="/wiki/Science_and_technology_studies" title="Science and technology studies" class="mw-redirect">STS</a>, on studies of large technological systems (see <a href="/wiki/Large_technical_system" title="Large technical system">large technical system</a>), and on a range of French intellectual resources including the semiotics of <a href="/wiki/Algirdas_Julien_Greimas" title="Algirdas Julien Greimas">Algirdas Julien Greimas</a>, the writing of philosopher <a href="/wiki/Michel_Serres" title="Michel Serres">Michel Serres</a>, and the <a href="/wiki/Annales_School" title="Annales School">Annales School</a> of history.</p>
+<p>ANT appears to reflect many of the preoccupations of French <a href="/wiki/Post-structuralism" title="Post-structuralism">post-structuralism</a>, and in particular a concern with non-foundational and multiple material-semiotic relations. At the same time, it was much more firmly embedded in English-language academic traditions than most post-structuralist-influenced approaches. Its grounding in (predominantly English) <a href="/wiki/Science_and_technology_studies" title="Science and technology studies" class="mw-redirect">science and technology studies</a> was reflected in an intense commitment to the development of theory through qualitative empirical case-studies. Its links with largely US-originated work on large technical systems were reflected in its willingness to analyse large scale technological developments in an even-handed manner to include political, organizational, legal, technical and scientific factors.</p>
+<p>Many of the characteristic ANT tools (including the notions of translation, generalized symmetry and the “heterogeneous network”), together with a <a href="/wiki/Scientometric" title="Scientometric" class="mw-redirect">scientometric</a> tool for mapping innovations in science and technology (“co-word analysis”) were initially developed during the 1980s, predominantly in and around the CSI. The “state of the art” of ANT in the late 1980s is well-described in Latour’s 1987 text, <i>Science in Action</i>.<sup id="cite_ref-science_1-0" class="reference"><a href="#cite_note-science-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>From about 1990 onwards, ANT started to become popular as a tool for analysis in a range of fields beyond STS. It was picked up and developed by authors in parts of organizational analysis, informatics, health studies, geography, sociology, anthropology, feminist studies and economics.</p>
+<p>As of 2008<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit">[update]</a></sup>, ANT is a widespread, if controversial range of material-semiotic approaches for the analysis of heterogeneous relations. In part because of its popularity, it is interpreted and used in a wide range of alternative and sometimes incompatible ways. There is no orthodoxy in current ANT, and different authors use the approach in substantially different ways. Some authors talk of “after-ANT” to refer to “successor projects” blending together different problem-focuses with those of ANT.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="A_material-semiotic_method">A material-semiotic method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=2" title="Edit section: A material-semiotic method">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although it is called a “<a href="/wiki/Philosophical_theory" title="Philosophical theory">theory</a>”, ANT does not usually explain “why” or "how" a network takes the form that it does.<sup id="cite_ref-RtS_3-0" class="reference"><a href="#cite_note-RtS-3"><span>[</span>3<span>]</span></a></sup> Rather, ANT is a way of thoroughly exploring the relational ties within a network (which can be a multitude of different things). As Latour notes,<sup id="cite_ref-technology_4-0" class="reference"><a href="#cite_note-technology-4"><span>[</span>4<span>]</span></a></sup> "explanation does not follow from description; it is description taken that much further." It is not, in other words, a theory "of" anything, but rather a method, or a "how-to book" as Latour <sup id="cite_ref-RtS_3-1" class="reference"><a href="#cite_note-RtS-3"><span>[</span>3<span>]</span></a></sup> puts it.</p>
+<p>The approach is related to other versions of material-semiotics (notably the work of philosophers <a href="/wiki/Gilles_Deleuze" title="Gilles Deleuze">Gilles Deleuze</a>, <a href="/wiki/Michel_Foucault" title="Michel Foucault">Michel Foucault</a> and feminist scholar <a href="/wiki/Donna_Haraway" title="Donna Haraway">Donna Haraway</a>). It can also be seen as a way of being faithful to the insights of <a href="/wiki/Ethnomethodology" title="Ethnomethodology">ethnomethodology</a> and its detailed descriptions of how common activities, habits and procedures sustain themselves. Similarities between ANT and <a href="/wiki/Symbolic_interactionist" title="Symbolic interactionist" class="mw-redirect">symbolic interactionist</a> approaches such as the newer forms of <a href="/wiki/Grounded_theory" title="Grounded theory">grounded theory</a> like <a href="/wiki/Situational_analysis" title="Situational analysis">situational analysis</a>, exist,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>5<span>]</span></a></sup> although Latour<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>6<span>]</span></a></sup> objects to such a comparison.</p>
+<p>Although ANT is mostly associated with studies of science and technology and with the sociology of science, it has been making steady progress in other fields of sociology as well. ANT is adamantly empirical, and as such yields useful insights and tools for sociological inquiry in general. ANT has been deployed in studies of identity and subjectivity, urban transportation systems, and passion and addiction.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>7<span>]</span></a></sup> It also makes steady progress in political and historical sociology.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="The_actor-network">The actor-network</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=3" title="Edit section: The actor-network">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As the term implies, the actor-network is the central concept in ANT. The term "network" is somewhat problematic in that it, as Latour <sup id="cite_ref-RtS_3-2" class="reference"><a href="#cite_note-RtS-3"><span>[</span>3<span>]</span></a></sup><sup id="cite_ref-technology_4-1" class="reference"><a href="#cite_note-technology-4"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-on_9-0" class="reference"><a href="#cite_note-on-9"><span>[</span>9<span>]</span></a></sup> notes, has a number of unwanted connotations. Firstly, it implies that what is described takes the shape of a network, which is not necessarily the case. Secondly, it implies "transportation without deformation," which, in ANT, is not possible since any actor-network involves a vast number of <a href="#Translation">translations</a>. Latour,<sup id="cite_ref-on_9-1" class="reference"><a href="#cite_note-on-9"><span>[</span>9<span>]</span></a></sup> however, still contends that network is a fitting term to use, because "it has no a priori order relation; it is not tied to the axiological myth of a top and of a bottom of society; it makes absolutely no assumption whether a specific locus is macro- or micro- and does not modify the tools to study the element 'a' or the element 'b'." This use of the term "network" is very similar to Deleuze and Guattari's <a href="/wiki/Rhizome_(philosophy)" title="Rhizome (philosophy)">rhizomes</a>; Latour <sup id="cite_ref-technology_4-2" class="reference"><a href="#cite_note-technology-4"><span>[</span>4<span>]</span></a></sup> even remarks tongue in cheek that he would have no objection to renaming ANT "actant-rhizome ontology" if it only had sounded better, which hints at Latour's uneasiness with the word "theory".</p>
+<p>Actor–network theory tries to explain how material–semiotic networks come together to act as a whole; the clusters of actors involved in creating meaning are both material and semiotic. As a part of this it may look at explicit strategies for relating different elements together into a network so that they form an apparently coherent whole. These networks are potentially transient, existing in a constant making and re-making.<sup id="cite_ref-RtS_3-3" class="reference"><a href="#cite_note-RtS-3"><span>[</span>3<span>]</span></a></sup> This means that relations need to be repeatedly “performed” or the network will dissolve. They also assume that networks of relations are not intrinsically coherent, and may indeed contain conflicts. Social relations, in other words, are only ever in process, and must be <a href="/wiki/Performativity" title="Performativity">performed</a> continuously.</p>
+<p>Actants denote human and non-human actors, and in a network take the shape that they do by virtue of their relations with one another. It assumes that nothing lies outside the network of relations, and as noted above, suggests that there is no difference in the ability of technology, humans, animals, or other non-humans to act (and that there are only enacted alliances.) As soon as an actor engages with an actor-network it too is caught up in the web of relations, and becomes part of the <a href="/wiki/Entelechy" title="Entelechy" class="mw-redirect">entelechy</a>.</p>
+<p>If taken to its logical conclusion, then, nearly any actor can be considered merely a sum of other, smaller actors. A car is an example of a complex system. It contains many electronic and <a href="/wiki/Machine" title="Machine">mechanical</a> components, all of which are essentially hidden from view to the driver, who simply deals with the car as a single object. This effect is known as <i>punctualisation</i>, and is similar to the idea of <a href="/wiki/Encapsulation_(object-oriented_programming)" title="Encapsulation (object-oriented programming)" class="mw-redirect">encapsulation</a> in <a href="/wiki/Object-oriented_programming" title="Object-oriented programming">object-oriented programming</a>.</p>
+<p>When an actor network breaks down, the punctualisation effect tends to cease as well. In the automobile example above, a non-working engine would cause the driver to become aware of the car as a collection of parts rather than just a vehicle capable of transporting him or her from place to place. This can also occur when elements of a network act contrarily to the network as a whole. In his book <i>Pandora’s Hope</i>, Latour likens depunctualization to the opening of a black box. When closed, the box is perceived simply as a box, although when it is opened all elements inside it becomes visible.</p>
+<h2><span class="mw-headline" id="Human_and_non-human_actors">Human and non-human actors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=4" title="Edit section: Human and non-human actors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ANT is often associated with the equal treatment of human and non-human actors. ANT assumes that all entities in a network can and should be described in the same terms. This is called the principle of <i><a href="/w/index.php?title=Generalized_symmetry&amp;action=edit&amp;redlink=1" class="new" title="Generalized symmetry (page does not exist)">generalized symmetry</a></i>. The rationale for this is that differences between them are generated in the network of relations, and should not be presupposed.</p>
+<h3><span class="mw-headline" id="Intermediaries_and_mediators">Intermediaries and mediators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=5" title="Edit section: Intermediaries and mediators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The distinction between intermediaries and mediators is key to ANT sociology. Intermediaries are entities which make no difference (to some interesting state of affairs which we are studying) and so can be ignored. They transport the force of some other entity more or less without transformation and so are fairly uninteresting. Mediators are entities which multiply difference and so should be the object of study. Their outputs cannot be predicted by their inputs. From an ANT point of view sociology has tended to treat too much of the world as intermediaries.</p>
+<p>For instance, a sociologist might take silk and nylon as intermediaries, holding that the former “means”, “reflects”, or “symbolises” the upper classes and the latter the lower classes. In such a view the real world silk–nylon difference is irrelevant — presumably many other material differences could also, and do also, transport this class distinction. But taken as mediators these fabrics would have to be engaged with by the analyst in their specificity: the internal real-world complexities of silk and nylon suddenly appear relevant, and are seen as actively constructing the ideological class distinction which they once merely reflected.</p>
+<p>For the committed ANT analyst, social things—like class distinctions in taste in the silk and nylon example, but also groups and power—must constantly be constructed or performed anew through complex engagements with complex mediators. There is no stand-alone social repertoire lying in the background to be reflected off, expressed through, or substantiated in, interactions (as in an intermediary conception).<sup id="cite_ref-RtS_3-4" class="reference"><a href="#cite_note-RtS-3"><span>[</span>3<span>]</span></a></sup></p>
+<h2><span class="mw-headline" id="Other_central_concepts">Other central concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=6" title="Edit section: Other central concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Translation">Translation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=7" title="Edit section: Translation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/Translation_(sociology)" title="Translation (sociology)">Translation (sociology)</a></div>
+<p>Central to ANT is the concept of translation which is sometimes referred to as <b>sociology of translation</b>, in which innovators attempt to create a <i>forum,</i> a central network in which all the actors agree that the network is worth building and defending. In his widely debated 1986 study of how marine biologists try to restock the St Brieuc Bay in order to produce more scallops,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>10<span>]</span></a></sup> <a href="/wiki/Michel_Callon" title="Michel Callon">Michel Callon</a> has defined 4 moments of translation: <a href="/wiki/Problematization" title="Problematization">problematization</a>, <a href="/wiki/Interessement" title="Interessement">interessement</a>, enrollment and mobilisation of allies.</p>
+<h3><span class="mw-headline" id="Tokens.2C_or_quasi-objects">Tokens, or quasi-objects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=8" title="Edit section: Tokens, or quasi-objects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the above examples, “social order” and “functioning car” come into being through the successful interactions of their respective actor-networks, and actor-network theory refers to these creations as <i>tokens</i> or <i>quasi-objects</i> which are passed between actors within the network.</p>
+<p>As the token is increasingly transmitted or passed through the network, it becomes increasingly punctualized and also increasingly <a href="/wiki/Reification_(Marxism)" title="Reification (Marxism)">reified</a>. When the token is decreasingly transmitted, or when an actor fails to transmit the token (e.g., the oil pump breaks), punctualization and reification are decreased as well.</p>
+<h2><span class="mw-headline" id="Criticism">Criticism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=9" title="Edit section: Criticism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Actor–network theory insists on the capacity of <a href="/wiki/Non_human" title="Non human" class="mw-redirect">nonhumans</a> to be actors or participants in networks and systems. Critics including figures such as <a href="/wiki/Langdon_Winner" title="Langdon Winner">Langdon Winner</a> maintain that such properties as <i><a href="/wiki/Intentionality" title="Intentionality">intentionality</a></i> fundamentally distinguish humans from animals or from “things” (see <a href="/wiki/Activity_Theory" title="Activity Theory" class="mw-redirect">Activity Theory</a>).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup> ANT scholars<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (December 2012)">who?</span></a></i>]</sup> respond with the following arguments:</p>
+<ul>
+<li>They do not attribute intentionality and similar properties to <a href="/wiki/Non_human" title="Non human" class="mw-redirect">nonhumans</a>.</li>
+<li>Their conception of <a href="/wiki/Human_agency" title="Human agency" class="mw-redirect">agency</a> does not presuppose intentionality.</li>
+<li>They locate agency neither in human “subjects” nor in non-human “objects”, but in heterogeneous associations of humans and nonhumans.</li>
+</ul>
+<p>ANT has been criticized as amoral.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (June 2014)">who?</span></a></i>]</sup> <a href="/wiki/Wiebe_Bijker" title="Wiebe Bijker">Wiebe Bijker</a> has responded to this criticism by stating that the amorality of ANT is not a necessity. Moral and political positions are possible, but one must first describe the network before taking up such positions. This position has been further explored by Stuart Shapiro who contrasts ANT with the history of ecology, and argues that research decisions are moral rather than methodological, but this moral dimension has been sidelined.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></p>
+<p>Whittle and Spicer note that "ANT has also sought to move beyond deterministic models that trace organizational phenomena back to powerful individuals, social structures, hegemonic discourses or technological effects. Rather, ANT prefers to seek out complex patterns of causality rooted in connections between actors." They argue that ANT's ontological realism makes it, "less well equipped for pursuing a critical account of organizations that is, one which recognises the unfolding nature of reality, considers the limits of knowledge and seeks to challenge structures of domination." <sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup> This implies that ANT does not account for pre-existing structures, such as power, but rather sees these structures as emerging from the actions of actors within the network and their ability to align in pursuit of their interests. Accordingly, ANT can be seen as an attempt to re-introduce <a href="/wiki/Whig_history" title="Whig history">Whig history</a> into <a href="/wiki/Science_and_technology_studies" title="Science and technology studies" class="mw-redirect">science and technology studies</a>; like the myth of the <a href="/wiki/Heroic_theory_of_invention_and_scientific_development" title="Heroic theory of invention and scientific development">heroic inventor</a>, ANT can be seen as an attempt to explain successful innovators by saying only that they were successful. Likewise, for organization studies, Whittle and Spicer assert that ANT is, "ill suited to the task of developing political alternatives to the imaginaries of market managerialism."</p>
+<p>Key early criticism came from other members of the STS community, in particular the "Epistemological Chicken" debate between Collins and Yearley with responses from Latour and Callon as well as Woolgar.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> Collins and Yearley accused ANTs approach of collapsing into an endless relativist regress.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup> Some critics<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup> have argued that research based on ANT perspectives remains entirely descriptive and fails to provide explanations for social processes. ANT—like comparable social scientific methods—requires judgement calls from the researcher as to which actors are important within a network and which are not. Critics<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (July 2013)">who?</span></a></i>]</sup> argue that the importance of particular actors cannot be determined in the absence of “out-of-network” criteria. Similarly, others<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (October 2014)">who?</span></a></i>]</sup> argue that actor-networks risk degenerating into endless chains of association (<a href="/wiki/Six_degrees_of_separation" title="Six degrees of separation">six degrees of separation</a>—we are all networked to one another). Other research perspectives such as <a href="/wiki/Social_constructionism" title="Social constructionism">social constructionism</a>, <a href="/wiki/Social_shaping_of_technology" title="Social shaping of technology">social shaping of technology</a>, <a href="/wiki/Social_network_theory" title="Social network theory" class="mw-redirect">social network theory</a>, <a href="/wiki/Normalization_Process_Theory" title="Normalization Process Theory" class="mw-redirect">Normalization Process Theory</a>, <a href="/wiki/Diffusion_of_Innovations" title="Diffusion of Innovations" class="mw-redirect">Diffusion of Innovations</a> theory are held to be important alternatives to ANT approaches.</p>
+<p>In a workshop called “On Recalling ANT”, <a href="/wiki/Bruno_Latour" title="Bruno Latour">Bruno Latour</a> stated that there are four things wrong with actor-network theory: “actor”, “network”, “theory” and the hyphen.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup> In a later book however (<i><a href="/wiki/Bruno_Latour#Reassembling_the_Social" title="Bruno Latour">Reassembling the Social: An Introduction to Actor–Network–Theory</a></i>), Latour reversed himself, accepting the wide use of the term, “<i>including</i> the hyphen” (Latour 2005:9).<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (May 2014)">full citation needed</span></a></i>]</sup> He also remarked how he had been helpfully reminded that the ANT acronym “was perfectly fit for a blind, myopic, workaholic, trail-sniffing, and collective traveler” (the ant, Latour 2005:9) — qualitative hallmarks of actor-network <a href="/wiki/Epistemology" title="Epistemology">epistemology</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Annemarie_Mol" title="Annemarie Mol">Annemarie Mol</a></li>
+<li><a href="/wiki/Helen_Verran" title="Helen Verran">Helen Verran</a></li>
+<li><a href="/wiki/Science_and_technology_studies" title="Science and technology studies" class="mw-redirect">Science and technology studies</a> (STS)</li>
+<li><a href="/wiki/Social_construction_of_technology" title="Social construction of technology">Social construction of technology</a> (SCOT)</li>
+<li><a href="/wiki/Technology_dynamics" title="Technology dynamics">Technology dynamics</a></li>
+<li><a href="/wiki/Mapping_controversies" title="Mapping controversies">Mapping controversies</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-science-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-science_1-0">^</a></b></span> <span class="reference-text">Latour, B. (1987). <i><a href="/wiki/Science_in_Action:_How_to_Follow_Scientists_and_Engineers_Through_Society" title="Science in Action: How to Follow Scientists and Engineers Through Society" class="mw-redirect">Science in Action: How to Follow Scientists and Engineers Through Society</a>.</i> Milton Keynes: Open University Press.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">John Law and John Hassard (eds) (1999). <i>Actor Network Theory and After</i> (Oxford and Keele: Blackwell and the Sociological Review).</span></li>
+<li id="cite_note-RtS-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-RtS_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RtS_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RtS_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RtS_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-RtS_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Latour, B., 2005. <i><a href="/wiki/Bruno_Latour#Reassembling_the_Social" title="Bruno Latour">Reassembling the Social: An Introduction to Actor-Network-Theory</a></i>. Oxford: Oxford UP.</span></li>
+<li id="cite_note-technology-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-technology_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-technology_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-technology_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Latour, B. (1999). <a rel="nofollow" class="external text" href="http://www.bruno-latour.fr/sites/default/files/46-TECHNOLOGY-DURABLE-GBpdf.pdf">"Technology Is Society Made Durable"</a>. In Law, J., ed., <i>Sociology of Monsters</i>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Fernback, J., 2007. “Beyond the Diluted Community Concept: A Symbolic Interactionist Perspective on Online Social Relations.” <i>New Media &amp; Society</i>, 9(1), pp.49-69. <a href="//dx.doi.org/10.1177/1461444807072417" class="extiw" title="doi:10.1177/1461444807072417">doi:10.1177/1461444807072417</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Blok, A, &amp; Elgaard Jensen, T. (2011). <i><a rel="nofollow" class="external text" href="http://www.excursions-journal.org.uk/index.php/excursions/article/download/100/134">Bruno Latour: Hybrid thoughts in a hybrid world</a></i>. Suffolk: Routledge.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">See e.g. Gomart, Emilie, and Hennion, Antoin (1999) “<a rel="nofollow" class="external text" href="https://www.academia.edu/866668/A_Sociology_of_Attachment_Music_Amateurs_Drug_Addicts">A Sociology of Attachment: Music Amateurs, Drug Users</a>”. In: J. Law and J. Hassard (eds.) Actor Network Theory and After. Oxford: Blackwell, 220–247; Valderrama Pineda, Andres, and Jorgensen, Ulrik (2008) “Urban Transport Systems in Bogota and Copenhagen: An Approach from STS.” Built Environment 34(2),200–217.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">See e.g. Carroll, Patrick (2012) “Water and Technoscientific State Formation in California.” Social Studies of Science 42(2), 313–321; Shamir, Ronen (2013) Current Flow: The Electrification of Palestine. Stanford: Stanford University Press</span></li>
+<li id="cite_note-on-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-on_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-on_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Latour, B. "<a rel="nofollow" class="external text" href="http://www.bruno-latour.fr/sites/default/files/P-67%20ACTOR-NETWORK.pdf">On Actor Network Theory: A Few Clarifications</a>"</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Michel Callon (1986). “<a rel="nofollow" class="external text" href="http://www.vub.ac.be/SOCO/tesa/RENCOM/Callon%20%281986%29%20Some%20elements%20of%20a%20sociology%20of%20translation.pdf">Some Elements of a Sociology of Translation: Domestication of the Scallops and the Fishermen of St Brieuc Bay</a>”. In John Law (ed.), <i>Power, Action and Belief: A New Sociology of Knowledge</i> (London: Routledge &amp; Kegan Paul).</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Winner, L. (1993). <a rel="nofollow" class="external text" href="http://www.nyu.edu/projects/nissenbaum/papers/openingblackbox.pdf">"Upon Opening the Black Box and Finding It Empty&#160;: Social Constructivism and the Philosophy of Technology Science, Technology, &amp; Human Values"</a> (Vol. 18, pp. 362-378).</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Shapiro, S. (1997). Caught in a web: The implications of ecology for radical symmetry in STS. Social Epistemology, 11(1), 97-110. <a href="//dx.doi.org/10.1080/02691729708578832" class="extiw" title="doi:10.1080/02691729708578832">doi:10.1080/02691729708578832</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Andrea Whittle and André Spicer, 2008. Is actor network theory critique? <i>Organization Studies</i> 2008 29: 611</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Collins, H. M., &amp; Yearley, S. (1992). Epistemological Chicken. In A. Pickering (Ed.), Science as Practice and Culture (pp. 301-326). Chicago: The University of Chicago Press.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Amsterdamska, O. (1990). 'Surely You're Joking, Mr Latour!'. Science, Technology, Human Values. Vol.15(4) pp.495-504.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lancaster.ac.uk/sociology/research/publications/papers/latour-recalling-ant.pdf">Keynote Speech: On Recalling ANT</a>, Lancester University, Department of Sociology</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Bibliographies_and_resources">Bibliographies and resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=13" title="Edit section: Bibliographies and resources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.lancs.ac.uk/fass/centres/css/ant/antres.htm">John Law’s actor-network theory resource</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bruno-latour.fr/">Bruno Latour’s Page</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.normalizationprocess.org">Normalization Process Theory toolkit</a></li>
+</ul>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Online version of the article <a rel="nofollow" class="external text" href="http://www.nettime.org/Lists-Archives/nettime-l-9801/msg00019.html">“On Actor Network Theory: A Few Clarifications”</a>, in which Latour responds to criticisms.</li>
+<li>Introductory article <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/0j537m2362328336.html">"Dolwick, JS. 2009. The 'Social' and Beyond: Introducing Actor–Network Theory"</a>, which includes an analysis of other social theories</li>
+<li>ANThology. Ein einführendes Handbuch zur Akteur–Netzwerk-Theorie, von Andréa Belliger und David Krieger, transcript Verlag (German)</li>
+<li>Transhumanism as Actor-Network Theory <a rel="nofollow" class="external text" href="http://www.hplusmagazine.com/editors-blog/n00bz-actor-network-transhumanist-traductions">"N00bz &amp; the Actor-Network: Transhumanist Traductions"</a> (<a href="/wiki/Humanity%2B" title="Humanity+">Humanity+</a> Magazine) by <a href="/wiki/Woody_Evans" title="Woody Evans">Woody Evans</a>.</li>
+<li>John Law (1992). "<a rel="nofollow" class="external text" href="http://www.lancs.ac.uk/fass/sociology/papers/law-notes-on-ant.pdf">Notes on the Theory of the Actor Network: Ordering, Strategy, and Heterogeneity</a>."</li>
+<li>John Law (1987). “Technology and Heterogeneous Engineering: The Case of Portuguese Expansion.” In W.E. Bijker, T.P. Hughes, and T.J. Pinch (eds.), <i>The Social Construction of Technological Systems: New Directions in the Sociology and History of Technology</i> (Cambridge, MA: MIT Press).</li>
+<li>Gianpaolo Baiocchi, Diana Graizbord, and Michael Rodríguez-Muñiz. 2013. “<a rel="nofollow" class="external text" href="https://www.academia.edu/5801413/Actor-Network_Theory_and_the_Ethnographic_Imagination_An_Exercise_in_Translation">Actor-Network Theory and the ethnographic imagination: An exercise in translation</a>”. <i>Qualitative Sociology</i> Volume 36, Issue 4, pp 323-341.</li>
+<li>Seio Nakajima. 2013. “Re-imagining Civil Society in Contemporary Urban China: Actor-Network-Theory and Chinese Independent Film Consumption.” <i>Qualitative Sociology</i> Volume 36, Issue 4, pp 383-402. <a rel="nofollow" class="external autonumber" href="http://link.springer.com/article/10.1007/s11133-013-9255-7">[1]</a></li>
+<li>Isaac Marrero-Guillamón. 2013. “Actor-Network Theory, Gabriel Tarde and the Study of an Urban Social Movement: The Case of Can Ricart, Barcelona.” <i>Qualitative Sociology</i> Volume 36, Issue 4, pp 403-421. <a rel="nofollow" class="external autonumber" href="http://link.springer.com/article/10.1007/s11133-013-9259-3">[2]</a></li>
+<li>John Law and Vicky Singleton. 2013. “<a rel="nofollow" class="external text" href="http://www.sv.uio.no/sai/english/research/projects/newcomers/publications/working-papers-web/ant-and-politics.pdf">ANT and Politics: Working in and on the World</a>”. <i>Qualitative Sociology</i> Volume 36, Issue 4, pp 485-502.</li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Science_and_technology_studies" title="Template:Science and technology studies"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Science_and_technology_studies" title="Template talk:Science and technology studies"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Science_and_technology_studies&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Science,_technology_and_society" title="Science, technology and society">Science and technology studies</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Economics" title="Economics">Economics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Economics_of_science" title="Economics of science">Economics of science</a></li>
+<li><a href="/wiki/Economics_of_scientific_knowledge" title="Economics of scientific knowledge">Economics of scientific knowledge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History" title="History">History</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_and_philosophy_of_science" title="History and philosophy of science">History and philosophy of science</a></li>
+<li><a href="/wiki/History_of_science" title="History of science">History of science</a>
+<ul>
+<li><a href="/wiki/History_of_science_and_technology" title="History of science and technology">and technology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/History_of_technology" title="History of technology">History of technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antipositivism" title="Antipositivism">Antipositivism</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Fuzzy_logic" title="Fuzzy logic">Fuzzy logic</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Philosophy of science</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">Philosophy of social science</a></li>
+<li><a href="/wiki/Philosophy_of_technology" title="Philosophy of technology">Philosophy of technology</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Postpositivism" title="Postpositivism">Postpositivism</a></li>
+<li><a href="/wiki/Social_constructivism" title="Social constructivism">Social constructivism</a></li>
+<li><a href="/wiki/Social_epistemology" title="Social epistemology">Social epistemology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Sociology" title="Sociology">Sociology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Actor–network theory</strong></li>
+<li>Social
+<ul>
+<li><a href="/wiki/Social_construction_of_technology" title="Social construction of technology">construction of technology</a></li>
+<li><a href="/wiki/Social_shaping_of_technology" title="Social shaping of technology">shaping of technology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sociology_of_knowledge" title="Sociology of knowledge">Sociology of knowledge</a>
+<ul>
+<li><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">scientific</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Sociology_of_scientific_ignorance" title="Sociology of scientific ignorance">Sociology of scientific ignorance</a></li>
+<li><a href="/wiki/Sociology_of_the_history_of_science" title="Sociology of the history of science">Sociology of the history of science</a></li>
+<li><a href="/wiki/Strong_programme" title="Strong programme">Strong programme</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Science_studies" title="Science studies">Science<br />
+studies</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antiscience" title="Antiscience">Antiscience</a></li>
+<li><a href="/wiki/Bibliometrics" title="Bibliometrics">Bibliometrics</a></li>
+<li><a href="/wiki/Boundary-work" title="Boundary-work">Boundary-work</a></li>
+<li><a href="/wiki/Demarcation_problem" title="Demarcation problem">Demarcation problem</a></li>
+<li><a href="/wiki/Double_hermeneutic" title="Double hermeneutic">Double hermeneutic</a></li>
+<li><a href="/wiki/Mapping_controversies" title="Mapping controversies">Mapping controversies</a></li>
+<li><a href="/wiki/Paradigm_shift" title="Paradigm shift">Paradigm shift</a></li>
+<li><a href="/wiki/Pseudoscience" title="Pseudoscience">Pseudoscience</a></li>
+<li>Science
+<ul>
+<li><a href="/wiki/Citizen_science" title="Citizen science">citizen</a></li>
+<li><a href="/wiki/Science_communication" title="Science communication">communication</a></li>
+<li><a href="/wiki/Science_education" title="Science education">education</a></li>
+<li><a href="/wiki/Normal_science" title="Normal science">normal</a></li>
+<li><a href="/wiki/Post-normal_science" title="Post-normal science">post-normal</a></li>
+<li><a href="/wiki/Rhetoric_of_science" title="Rhetoric of science">rhetoric</a></li>
+<li><a href="/wiki/Science_wars" title="Science wars">wars</a></li>
+</ul>
+</li>
+<li>Scientific
+<ul>
+<li><a href="/wiki/Scientific_method" title="Scientific method">method</a></li>
+<li><a href="/wiki/Scientific_consensus" title="Scientific consensus">consensus</a></li>
+<li><a href="/wiki/Scientific_controversy" title="Scientific controversy">controversy</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Scientometrics" title="Scientometrics">Scientometrics</a></li>
+<li><a href="/wiki/Science_of_team_science" title="Science of team science">Team science</a></li>
+<li><a href="/wiki/Traditional_knowledge" title="Traditional knowledge">Traditional knowledge</a>
+<ul>
+<li><a href="/wiki/Traditional_ecological_knowledge" title="Traditional ecological knowledge">ecological</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Unity_of_science" title="Unity of science">Unity of science</a></li>
+<li><a href="/wiki/Women_in_science" title="Women in science">Women in science</a>
+<ul>
+<li><a href="/wiki/Women_in_STEM_fields" title="Women in STEM fields">STEM</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Technology" title="Technology">Technology</a><br />
+studies</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coproduction_(society)" title="Coproduction (society)">Coproduction</a></li>
+<li><a href="/wiki/Cyborg_anthropology" title="Cyborg anthropology">Cyborg anthropology</a></li>
+<li><a href="/wiki/Digital_anthropology" title="Digital anthropology">Digital anthropology</a></li>
+<li><a href="/wiki/Dematerialization_(products)" title="Dematerialization (products)">Dematerialization</a></li>
+<li><a href="/wiki/Early_adopter" title="Early adopter">Early adopter</a></li>
+<li><a href="/wiki/Innovation" title="Innovation">Innovation</a>
+<ul>
+<li><a href="/wiki/Diffusion_of_innovations" title="Diffusion of innovations">diffusion</a></li>
+<li><a href="/wiki/Disruptive_innovation" title="Disruptive innovation">disruptive</a></li>
+<li><a href="/wiki/Linear_model_of_innovation" title="Linear model of innovation">linear model</a></li>
+<li><a href="/wiki/Technological_innovation_system" title="Technological innovation system">system</a></li>
+<li><a href="/wiki/User_innovation" title="User innovation">user</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Leapfrogging" title="Leapfrogging">Leapfrogging</a></li>
+<li><a href="/wiki/Normalization_process_theory" title="Normalization process theory">Normalization process theory</a></li>
+<li><a href="/wiki/Reverse_salient" title="Reverse salient">Reverse salient</a></li>
+<li><a href="/wiki/Sociotechnical_system" title="Sociotechnical system">Sociotechnical system</a></li>
+<li><a href="/wiki/Technical_change" title="Technical change">Technical change</a></li>
+<li><a href="/wiki/Technoscience" title="Technoscience">Technoscience</a>
+<ul>
+<li><a href="/wiki/Feminist_technoscience" title="Feminist technoscience">feminist</a></li>
+</ul>
+</li>
+<li>Technological
+<ul>
+<li><a href="/wiki/Technological_change" title="Technological change">change</a></li>
+<li><a href="/wiki/Technological_convergence" title="Technological convergence">convergence</a></li>
+<li><a href="/wiki/Technological_determinism" title="Technological determinism">determinism</a></li>
+<li><a href="/wiki/Technological_revolution" title="Technological revolution">revolution</a></li>
+<li><a href="/wiki/Technological_transitions" title="Technological transitions">transitions</a></li>
+</ul>
+</li>
+<li>Technology
+<ul>
+<li><a href="/wiki/Technology_and_society" title="Technology and society">and society</a></li>
+<li><a href="/wiki/Critique_of_technology" title="Critique of technology">critique of</a></li>
+<li><a href="/wiki/Technology_dynamics" title="Technology dynamics">dynamics</a></li>
+<li><a href="/wiki/Theories_of_technology" title="Theories of technology">theories of</a></li>
+<li><a href="/wiki/Technology_transfer" title="Technology transfer">transfer</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Engineering_studies" title="Engineering studies">Engineering studies</a></li>
+<li><a href="/wiki/Women_in_engineering" title="Women in engineering">Women in engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Policy" title="Policy">Policy</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Digital_divide" title="Digital divide">Digital divide</a></li>
+<li><a href="/wiki/Evidence-based_policy" title="Evidence-based policy">Evidence-based policy</a></li>
+<li><a href="/wiki/Factor_10" title="Factor 10">Factor 10</a></li>
+<li><a href="/wiki/Science_policy" title="Science policy">Science policy</a>
+<ul>
+<li><a href="/wiki/History_of_science_policy" title="History of science policy">history of</a></li>
+<li><a href="/wiki/Science_of_science_policy" title="Science of science policy">science of</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Politicization_of_science" title="Politicization of science">Politicization of science</a></li>
+<li><a href="/wiki/Regulation_of_science" title="Regulation of science">Regulation of science</a></li>
+<li><a href="/wiki/Socio-scientific_issues" title="Socio-scientific issues">Socio-scientific issues</a></li>
+<li><a href="/wiki/Technology_assessment" title="Technology assessment">Technology assessment</a></li>
+<li><a href="/wiki/Technology_policy" title="Technology policy">Technology policy</a></li>
+<li><a href="/wiki/Transition_management_(governance)" title="Transition management (governance)">Transition management</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> Portals
+<ul>
+<li><a href="/wiki/Portal:Science" title="Portal:Science">Science</a></li>
+<li><a href="/wiki/Portal:History_of_science" title="Portal:History of science">History of science</a></li>
+<li><a href="/wiki/Portal:Technology" title="Portal:Technology">Technology</a></li>
+<li><a href="/wiki/Portal:Sociology" title="Portal:Sociology">Sociology</a></li>
+</ul>
+</li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Science_and_technology_studies" title="Category:Science and technology studies">Category</a>
+<ul>
+<li><a href="/wiki/Category:Science_and_technology_studies_associations" title="Category:Science and technology studies associations">Associations</a></li>
+<li><a href="/wiki/Category:Science_and_technology_studies_journals" title="Category:Science and technology studies journals">Journals</a></li>
+<li><a href="/wiki/Category:Science_and_technology_studies_scholars" title="Category:Science and technology studies scholars">Scholars</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Bruno_Latour" title="Template:Bruno Latour"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Bruno_Latour" title="Template talk:Bruno Latour"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Bruno_Latour&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div style="font-size:110%"><a href="/wiki/Bruno_Latour" title="Bruno Latour">Bruno Latour</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Works</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Laboratory_Life" title="Laboratory Life">Laboratory Life</a></i> (1979)</li>
+<li><i><a href="/w/index.php?title=The_Pasteurization_of_France&amp;action=edit&amp;redlink=1" class="new" title="The Pasteurization of France (page does not exist)">The Pasteurization of France</a></i> (1984)</li>
+<li><i><a href="/wiki/Science_In_Action" title="Science In Action" class="mw-redirect">Science In Action</a></i> (1987)</li>
+<li><i><a href="/wiki/We_Have_Never_Been_Modern" title="We Have Never Been Modern">We Have Never Been Modern</a></i> (1991)</li>
+<li><i><a href="/wiki/Aramis,_or_the_Love_of_Technology" title="Aramis, or the Love of Technology">Aramis, or the Love of Technology</a></i> (1992)</li>
+<li><i><a href="/w/index.php?title=Conversations_on_Science,_Culture_and_Time&amp;action=edit&amp;redlink=1" class="new" title="Conversations on Science, Culture and Time (page does not exist)">Conversations on Science, Culture and Time</a></i> (1992)</li>
+<li><i><a href="/wiki/The_Berlin_Key" title="The Berlin Key">The Berlin Key</a></i> (1993)</li>
+<li><i><a href="/wiki/Politics_of_Nature" title="Politics of Nature">Politics of Nature</a></i> (1999)</li>
+<li><i><a href="/w/index.php?title=Pandora%27s_Hope&amp;action=edit&amp;redlink=1" class="new" title="Pandora's Hope (page does not exist)">Pandora's Hope</a></i> (1999)</li>
+<li><i><a href="/w/index.php?title=Rejoicing:_Or_the_Torments_of_Religious_Speech&amp;action=edit&amp;redlink=1" class="new" title="Rejoicing: Or the Torments of Religious Speech (page does not exist)">Rejoicing: Or the Torments of Religious Speech</a></i> (2002)</li>
+<li><i><a href="/w/index.php?title=Iconoclash_Beyond_the_Image_Wars_in_Science,_Religion_and_Art&amp;action=edit&amp;redlink=1" class="new" title="Iconoclash Beyond the Image Wars in Science, Religion and Art (page does not exist)">Iconoclash Beyond the Image Wars in Science, Religion and Art</a></i> (2002)</li>
+<li><i><a href="/w/index.php?title=The_Making_of_Law&amp;action=edit&amp;redlink=1" class="new" title="The Making of Law (page does not exist)">The Making of Law</a></i> (2002)</li>
+<li><i><a href="/w/index.php?title=Making_Things_Public&amp;action=edit&amp;redlink=1" class="new" title="Making Things Public (page does not exist)">Making Things Public</a></i> (2005)</li>
+<li><i><a href="/w/index.php?title=Reassembling_the_Social&amp;action=edit&amp;redlink=1" class="new" title="Reassembling the Social (page does not exist)">Reassembling the Social</a></i> (2005)</li>
+<li><i><a href="/w/index.php?title=On_the_Modern_Cult_of_the_Factish_Gods&amp;action=edit&amp;redlink=1" class="new" title="On the Modern Cult of the Factish Gods (page does not exist)">On the Modern Cult of the Factish Gods</a></i> (2009)</li>
+<li><i><a href="/w/index.php?title=Coping_With_the_Past&amp;action=edit&amp;redlink=1" class="new" title="Coping With the Past (page does not exist)">Coping With the Past</a></i> (2010)</li>
+<li><i><a href="/w/index.php?title=The_Prince_and_the_Wolf&amp;action=edit&amp;redlink=1" class="new" title="The Prince and the Wolf (page does not exist)">The Prince and the Wolf</a></i> (2011)</li>
+<li><i><a href="/w/index.php?title=An_Inquiry_Into_Modes_of_Existence&amp;action=edit&amp;redlink=1" class="new" title="An Inquiry Into Modes of Existence (page does not exist)">An Inquiry Into Modes of Existence</a></i> (2013)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Actor–network theory</strong></li>
+<li><a href="/wiki/Blackboxing" title="Blackboxing">Blackboxing</a></li>
+<li><a href="/wiki/Graphism_thesis" title="Graphism thesis">Graphism thesis</a></li>
+<li><a href="/wiki/Mapping_controversies" title="Mapping controversies">Mapping controversies</a></li>
+<li><a href="/wiki/Oligopticon" title="Oligopticon">Oligopticon</a></li>
+<li><a href="/wiki/Translation_(sociology)" title="Translation (sociology)">Translation (sociology)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt>Institutions</dt>
+<dd><a href="/wiki/Centre_de_Sociologie_de_l%27Innovation" title="Centre de Sociologie de l'Innovation">Centre de Sociologie de l'Innovation</a></dd>
+<dd><a href="/wiki/Mines_ParisTech" title="Mines ParisTech">Mines ParisTech</a></dd>
+<dd><a href="/wiki/Sciences_Po" title="Sciences Po">Sciences Po</a></dd>
+</dl>
+<dl>
+<dt>Fields</dt>
+<dd><a href="/wiki/Cyborg_anthropology" title="Cyborg anthropology">Cyborg anthropology</a></dd>
+<dd><a href="/wiki/Science,_technology,_and_society" title="Science, technology, and society" class="mw-redirect">Science, technology, and society</a></dd>
+<dd><a href="/wiki/Science_studies" title="Science studies">Science studies</a></dd>
+<dd><a href="/wiki/Social_construction_of_technology" title="Social construction of technology">Social construction of technology</a></dd>
+<dd><a href="/wiki/Social_shaping_of_technology" title="Social shaping of technology">Social shaping of technology</a></dd>
+<dd><a href="/wiki/Sociology_of_scientific_knowledge" title="Sociology of scientific knowledge">Sociology of scientific knowledge</a></dd>
+<dd><a href="/wiki/Technocriticism" title="Technocriticism">Technocriticism</a></dd>
+<dd><a href="/wiki/Technoscience" title="Technoscience">Technoscience</a></dd>
+</dl>
+<dl>
+<dt>People</dt>
+<dd><a href="/wiki/Anders_Blok" title="Anders Blok">Anders Blok</a></dd>
+<dd><a href="/wiki/Michel_Callon" title="Michel Callon">Michel Callon</a></dd>
+<dd><a href="/wiki/Graham_Harman" title="Graham Harman">Graham Harman</a></dd>
+<dd><a href="/wiki/John_Law_(sociologist)" title="John Law (sociologist)">John Law</a></dd>
+<dd><a href="/wiki/Michel_Serres" title="Michel Serres">Michel Serres</a></dd>
+<dd><a href="/wiki/Peter_Weibel" title="Peter Weibel">Peter Weibel</a></dd>
+<dd><a href="/wiki/Steve_Woolgar" title="Steve Woolgar">Steve Woolgar</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1105
+CPU time usage: 0.358 seconds
+Real time usage: 0.431 seconds
+Preprocessor visited node count: 1730/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 71984/2097152 bytes
+Template argument size: 3887/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Lua time usage: 0.082/10.000 seconds
+Lua memory usage: 2.26 MB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  264.620      1 - -total
+ 23.99%   63.494      1 - Template:Anthropology_collapsible
+ 22.38%   59.221      1 - Template:Sidebar_with_collapsible_lists
+ 20.57%   54.426      4 - Template:Who
+ 20.46%   54.140      6 - Template:Fix
+ 17.57%   46.485      7 - Template:Category_handler
+ 12.08%   31.959      2 - Template:Navbox
+ 11.09%   29.339      1 - Template:Science_and_technology_studies
+  7.73%   20.452      1 - Template:Reflist
+  7.33%   19.392      1 - Template:As_of
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:505093-0!*!0!!en!4!* and timestamp 20150704105037 and revision id 665674325
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Actor–network_theory&amp;oldid=665674325">https://en.wikipedia.org/w/index.php?title=Actor–network_theory&amp;oldid=665674325</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anthropology" title="Category:Anthropology">Anthropology</a></li><li><a href="/wiki/Category:Innovation" title="Category:Innovation">Innovation</a></li><li><a href="/wiki/Category:Philosophy_of_science" title="Category:Philosophy of science">Philosophy of science</a></li><li><a href="/wiki/Category:Science_studies" title="Category:Science studies">Science studies</a></li><li><a href="/wiki/Category:Sociological_theories" title="Category:Sociological theories">Sociological theories</a></li><li><a href="/wiki/Category:Actor-network_theory" title="Category:Actor-network theory">Actor-network theory</a></li><li><a href="/wiki/Category:Semiotics" title="Category:Semiotics">Semiotics</a></li><li><a href="/wiki/Category:Technological_change" title="Category:Technological change">Technological change</a></li><li><a href="/wiki/Category:Sociology_of_knowledge" title="Category:Sociology of knowledge">Sociology of knowledge</a></li><li><a href="/wiki/Category:Bruno_Latour" title="Category:Bruno Latour">Bruno Latour</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2008" title="Category:Articles containing potentially dated statements from 2008">Articles containing potentially dated statements from 2008</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_December_2012" title="Category:Articles with specifically marked weasel-worded phrases from December 2012">Articles with specifically marked weasel-worded phrases from December 2012</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2014" title="Category:Articles with specifically marked weasel-worded phrases from June 2014">Articles with specifically marked weasel-worded phrases from June 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_July_2013" title="Category:Articles with specifically marked weasel-worded phrases from July 2013">Articles with specifically marked weasel-worded phrases from July 2013</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2014" title="Category:Articles with specifically marked weasel-worded phrases from October 2014">Articles with specifically marked weasel-worded phrases from October 2014</a></li><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li><li><a href="/wiki/Category:Sociology_index" title="Category:Sociology index">Sociology index</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Actor%E2%80%93network+theory&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Actor%E2%80%93network+theory" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Actor%E2%80%93network_theory"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Actor%E2%80%93network_theory"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Actor%E2%80%93network_theory" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Actor%E2%80%93network_theory" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Actor%E2%80%93network_theory" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;oldid=665674325" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q421953" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Actor%E2%80%93network_theory&amp;id=665674325" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Actor%E2%80%93network+theory">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Actor%E2%80%93network+theory&amp;oldid=665674325&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Actor%E2%80%93network_theory&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="//ca.wikipedia.org/wiki/Teoria_de_l%27actor-xarxa" title="Teoria de l'actor-xarxa – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="//cs.wikipedia.org/wiki/Actor-network_teorie" title="Actor-network teorie – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="//de.wikipedia.org/wiki/Akteur-Netzwerk-Theorie" title="Akteur-Netzwerk-Theorie – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Teor%C3%ADa_del_Actor-Red" title="Teoría del Actor-Red – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27acteur-r%C3%A9seau" title="Théorie de l'acteur-réseau – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-is"><a href="//is.wikipedia.org/wiki/Gerendanetskenningin" title="Gerendanetskenningin – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="//it.wikipedia.org/wiki/Teoria_actor-network" title="Teoria actor-network – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%AA%D7%90%D7%95%D7%A8%D7%99%D7%99%D7%AA_%D7%94%D7%A9%D7%97%D7%A7%D7%9F-%D7%A8%D7%A9%D7%AA" title="תאוריית השחקן-רשת – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="//lv.wikipedia.org/wiki/Aktoru_t%C4%ABklu_teorija" title="Aktoru tīklu teorija – Latvian" lang="lv" hreflang="lv">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/Actor-netwerktheorie" title="Actor-netwerktheorie – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="//no.wikipedia.org/wiki/Akt%C3%B8r-nettverksteori" title="Aktør-nettverksteori – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="//pl.wikipedia.org/wiki/Teoria_aktora-sieci" title="Teoria aktora-sieci – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="//pt.wikipedia.org/wiki/Teoria_ator-rede" title="Teoria ator-rede – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE-%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F" title="Акторно-сетевая теория – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="//sk.wikipedia.org/wiki/Te%C3%B3ria_actor-network" title="Teória actor-network – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/Toimijaverkkoteoria" title="Toimijaverkkoteoria – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="//tr.wikipedia.org/wiki/Akt%C3%B6r_A%C4%9F_Teorisi" title="Aktör Ağ Teorisi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q421953#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 5 June 2015, at 21:30.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Actor%E2%80%93network_theory&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1211"});
+}</script>
+	</body>
+</html>

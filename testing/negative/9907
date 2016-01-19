@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>C-52 (cipher machine) - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.26wmf13" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/C-52_(cipher_machine)" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=C-52_(cipher_machine)&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=C-52_(cipher_machine)&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="alternate" hreflang="x-default" href="/wiki/C-52_(cipher_machine)" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/C-52_(cipher_machine)" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: global:resourceloader:filter:minify-css:7:de1ab5287c9076b96eedd3f97a84a7b6 */</style>
+<script src="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"C-52_(cipher_machine)","wgTitle":"C-52 (cipher machine)","wgCurRevisionId":579017313,"wgRevisionId":579017313,"wgArticleId":1513791,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category with local link same as on Wikidata","Encryption devices"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"C-52_(cipher_machine)","wgRelevantArticleId":1513791,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wikilove-recipient":"","wikilove-anon":0,"wgPoweredByHHVM":true,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hagelin_CX-52-IMG_0568-white.jpg/100px-Hagelin_CX-52-IMG_0568-white.jpg","wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2014707"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});
+/* cache key: global:resourceloader:filter:minify-js:7:b2706269305541eba923c165462b22c4 */
+}</script>
+<script>if(window.mw){
+mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"});});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.imageMetrics.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.26wmf13/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-C-52_cipher_machine skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">C-52 (cipher machine)</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hagelin_CX-52-IMG_0568-white.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hagelin_CX-52-IMG_0568-white.jpg/220px-Hagelin_CX-52-IMG_0568-white.jpg" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hagelin_CX-52-IMG_0568-white.jpg/330px-Hagelin_CX-52-IMG_0568-white.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hagelin_CX-52-IMG_0568-white.jpg/440px-Hagelin_CX-52-IMG_0568-white.jpg 2x" data-file-width="5000" data-file-height="5000" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hagelin_CX-52-IMG_0568-white.jpg" class="internal" title="Enlarge"></a></div>
+The CX-52</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:BC-52.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5a/BC-52.jpg/220px-BC-52.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/5/5a/BC-52.jpg/330px-BC-52.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/5/5a/BC-52.jpg/440px-BC-52.jpg 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:BC-52.jpg" class="internal" title="Enlarge"></a></div>
+A combination of a C-52 cipher machine with a B-52 keyboard attachment, such as pictured here, was denoted the BC-52.</div>
+</div>
+</div>
+<div class="hatnote">"BC-52" redirects here. For the music band the BC-52's, see <a href="/wiki/BC-52%27s" title="BC-52's" class="mw-redirect">BC-52's</a>.</div>
+<p>The <b>(<a href="/wiki/Boris_Hagelin" title="Boris Hagelin">Hagelin</a>) C-52</b> and <b>CX-52</b> were cipher machines manufactured by <a href="/wiki/Crypto_AG" title="Crypto AG">Crypto AG</a> starting 1951/1952. These pin-and-lug type cipher machines were advanced successors of the C-38/<a href="/wiki/M-209" title="M-209">M-209</a>. The machine measures 8&#160;1/2in × 5&#160;3/8in × 4&#160;3/8in. The device is mechanical, but when combined with an electric keyboard attachment, the <b>B-52</b>, the resultant system is termed the <b>BC-52</b>. The B-52 is larger, measuring 12&#160;1/2in × 8&#160;1/2in × 6&#160;3/8in.</p>
+<p>Both C and CX models are equipped with six pinwheels. In the C-52 version, these six wheels are chosen from a possible set of 12, with the number of pins on each wheel being 25, 26, 29, 31, 34, 37, 38, 41, 42, 43, 46, and 47. The C model had a fixed stepping system with a large wheel cycle due to the prime numbers of the six wheels. <a rel="nofollow" class="external autonumber" href="http://www.deathstar.ch/security/encryption/history/images/CX-52_01.jpg">[1]</a>. The CX-52 version has 6 pinwheels with 47 pins each and a flexible wheel movement system. The lug cage of both models contains 32 movable bars: 27 of the bars are used for encryption and the remaining 5 bars control the stepping of the pinwheels. The early CX models used the control bars also for encryption but due to complications in creating acceptable lug settings later CX models used these bars only for controlling of the wheel stepping. The stepping of the CX wheels was controlled by adjustable lugs on the control bars.</p>
+<p>The C-52 and CX-52 were very flexible machines that could be produced in various ways, creating a unique machine with unique cryptographic characteristics for each customer. There were special detachable wheel movement bars and their position on the drum could change, interchangeable print wheels, custom pinwheel labels, versions with One-time Tape reader instead of wheels <a rel="nofollow" class="external autonumber" href="http://www.jproc.ca/crypto/cx52.html">[2]</a>, versions that only enciphered numbers, and many other details that influenced the enciphering process.</p>
+<p>There is some speculation that the CX-52 might have been broken by communist signals intelligence services of the <a href="/wiki/GDR" title="GDR" class="mw-redirect">GDR</a>, <a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a> and <a href="/wiki/Peoples_Republic_of_Poland" title="Peoples Republic of Poland" class="mw-redirect">Poland</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Hell_54.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hell_54.jpg/170px-Hell_54.jpg" width="170" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hell_54.jpg/255px-Hell_54.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hell_54.jpg/340px-Hell_54.jpg 2x" data-file-width="1416" data-file-height="1743" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hell_54.jpg" class="internal" title="Enlarge"></a></div>
+A Hell 54, a licensed German copy of the C-52</div>
+</div>
+</div>
+<p>The <b>Hell 54</b> was a licensed copy of the C-52 by German company Hell.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=C-52_(cipher_machine)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/M-209" title="M-209">M-209</a></li>
+<li><a href="/wiki/C-36_(cipher_machine)" title="C-36 (cipher machine)">C-36 (cipher machine)</a></li>
+<li><a href="/wiki/CD-57" title="CD-57">CD-57</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=C-52_(cipher_machine)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>H. Paul Greenough, Cryptanalysis of the Hagelin C-52 and similar machines a known plaintext attack, <i>Cryptologia</i>, 23(2), July 1999, pp139–156.</li>
+<li>Louis Kruh, The Hagelin Cryptographer, Type C-52, <i>Cryptologia</i> 3(2), April 1979, pp78–82.</li>
+<li>Jan Bury, <a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/01611190902742467">From the Archives: CX-52 Messages Read by Red Poles?</a>, <i>Cryptologia</i> 33(4), October 2009, pp347–352.</li>
+<li>Jan Bury, <a rel="nofollow" class="external text" href="http://www.tandfonline.com/doi/abs/10.1080/01611194.2012.713804">Polish Cold War Codebreaking of 1959–1989: A Preliminary Assessment</a>, <i>Cryptologia</i> 36(4), October 2012, pp341–379.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=C-52_(cipher_machine)&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="//commons.wikimedia.org/wiki/Category:CX-52" class="extiw" title="commons:Category:CX-52">CX-52</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://users.telenet.be/d.rijmenants/en/c52tech.htm">Technical details of the C-52 and CX-52</a> Encryption principle and machine variations, by Dirk Rijmenants</li>
+<li><a rel="nofollow" class="external text" href="http://users.telenet.be/d.rijmenants/en/bc-52.htm">Dirk Rijmenants' Hagelin BC-52 Simulator</a></li>
+<li><a rel="nofollow" class="external text" href="http://hem.passagen.se/tan01/cx52.html">The HAGELIN cryptographer CX-52</a> by Torbjorn Andersson — a write-up, photograph and a <a href="/wiki/QBASIC" title="QBASIC" class="mw-redirect">QBASIC</a> simulator.</li>
+<li><a rel="nofollow" class="external text" href="http://www.jproc.ca/crypto/cx52.html">Jerry Proc's page on the CX-52</a> — also covers the B-52 keyboard unit.</li>
+<li>Photographs: <a rel="nofollow" class="external autonumber" href="http://home.ca.inter.net/~hagelin/C52-1.jpg">[3]</a>, <a rel="nofollow" class="external autonumber" href="http://home.ca.inter.net/~hagelin/C52-2.jpg">[4]</a>, <a rel="nofollow" class="external autonumber" href="http://www.deathstar.ch/security/encryption/history/images/CX-52_01.jpg">[5]</a>, <a rel="nofollow" class="external autonumber" href="http://www.apprendre-en-ligne.net/crypto/instruments/cx52.jpg">[6]</a>, <a rel="nofollow" class="external autonumber" href="http://www.eclipse.net/~dhamer/images/A143082_022As.JPG">[7]</a>, <a rel="nofollow" class="external autonumber" href="http://www.homeworlds.com/crypto/Cipher_Machines_Pictures.html">[8]</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.jproc.ca/crypto/hell54.html">Jerry Proc's page on the Hell 54</a> — a licensed copy of the C-52 by Hell</li>
+<li><a rel="nofollow" class="external text" href="http://www.codasaurus.com/ubb/Forum29/HTML/000040.html">Descriptions from sales of C-52 and CX-52 equipment</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gemmary.com/instcat/11/11-001.html">CX-52 Cryptographic Machine &amp; B-52 Motorized Base</a></li>
+<li><a rel="nofollow" class="external text" href="http://scz.bplaced.net/mfs_zco.html#cx52">CX-52-related Stasi files</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cryptography_machines" title="Template:Cryptography machines"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cryptography_machines" title="Template talk:Cryptography machines"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cryptography_machines&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<span style="float:right;width:6em">&#160;</span>
+<div style="font-size:110%">Cipher machines</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Rotor_machine" title="Rotor machine">Rotor machines</a>:</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Combined_Cipher_Machine" title="Combined Cipher Machine">CCM</a></li>
+<li><a href="/wiki/Enigma_machine" title="Enigma machine">Enigma</a></li>
+<li><a href="/wiki/Fialka" title="Fialka">M-125 Fialka</a></li>
+<li><a href="/wiki/Hebern_rotor_machine" title="Hebern rotor machine">Hebern</a></li>
+<li><a href="/wiki/HX-63" title="HX-63">HX-63</a></li>
+<li><a href="/wiki/KL-7" title="KL-7">KL-7</a></li>
+<li><a href="/wiki/Lacida" title="Lacida">Lacida</a></li>
+<li><a href="/wiki/M-325" title="M-325">M-325</a></li>
+<li><a href="/wiki/Mercury_(cipher_machine)" title="Mercury (cipher machine)">Mercury</a></li>
+<li><a href="/wiki/NEMA_(machine)" title="NEMA (machine)">NEMA</a></li>
+<li><a href="/wiki/OMI_cryptograph" title="OMI cryptograph">OMI</a></li>
+<li><a href="/wiki/Portex" title="Portex">Portex</a></li>
+<li><a href="/wiki/Red_(cipher_machine)" title="Red (cipher machine)">RED</a></li>
+<li><a href="/wiki/SIGABA" title="SIGABA">SIGABA</a></li>
+<li><a href="/wiki/SIGCUM" title="SIGCUM">SIGCUM</a></li>
+<li><a href="/wiki/BID/60" title="BID/60">Singlet</a></li>
+<li><a href="/wiki/Typex" title="Typex">Typex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mechanical:</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jefferson_disk" title="Jefferson disk">Bazeries cylinder</a></li>
+<li><a href="/wiki/C-36_(cipher_machine)" title="C-36 (cipher machine)">C-36</a></li>
+<li><strong class="selflink">C-52</strong></li>
+<li><a href="/wiki/CD-57" title="CD-57">CD-57</a></li>
+<li><a href="/wiki/Cipher_disk" title="Cipher disk">Cipher disk</a></li>
+<li><a href="/wiki/HC-9" title="HC-9">HC-9</a></li>
+<li><a href="/wiki/Kryha" title="Kryha">Kryha</a></li>
+<li><a href="/wiki/Jefferson_disk" title="Jefferson disk">Jefferson disk</a></li>
+<li><a href="/wiki/M-94" title="M-94">M-94</a></li>
+<li><a href="/wiki/M-209" title="M-209">M-209</a></li>
+<li><a href="/wiki/Reihenschieber" title="Reihenschieber">Reihenschieber</a></li>
+<li><a href="/wiki/Scytale" title="Scytale">Scytale</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Teleprinter:</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/5-UCO" title="5-UCO">5-UCO</a></li>
+<li><a href="/wiki/BID_770" title="BID 770">BID 770</a></li>
+<li><a href="/wiki/DUDEK" title="DUDEK">DUDEK</a></li>
+<li><a href="/wiki/KW-26" title="KW-26">KW-26</a></li>
+<li><a href="/wiki/KW-37" title="KW-37">KW-37</a></li>
+<li><a href="/wiki/Lorenz_cipher" title="Lorenz cipher">Lorenz SZ 40/42</a></li>
+<li><a href="/wiki/Siemens_and_Halske_T52" title="Siemens and Halske T52">Siemens and Halske T52</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Secure_voice" title="Secure voice">Secure voice</a>:</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/BID_150" title="BID 150">BID 150</a></li>
+<li><a href="/wiki/FASCINATOR" title="FASCINATOR">FASCINATOR</a></li>
+<li><a href="/wiki/KY-3" title="KY-3">KY-3</a></li>
+<li><a href="/wiki/KY-57" title="KY-57">KY-57</a></li>
+<li><a href="/wiki/KY-58" title="KY-58">KY-58</a></li>
+<li><a href="/wiki/KY-68" title="KY-68">KY-68</a></li>
+<li><a href="/wiki/OMNI_(SCIP)" title="OMNI (SCIP)">OMNI</a></li>
+<li><a href="/wiki/Secure_Communications_Interoperability_Protocol" title="Secure Communications Interoperability Protocol">SCIP</a></li>
+<li><a href="/wiki/Sect%C3%A9ra_Secure_Module" title="Sectéra Secure Module">Sectéra Secure Module</a></li>
+<li><a href="/wiki/SIGSALY" title="SIGSALY">SIGSALY</a></li>
+<li><a href="/wiki/Secure_Terminal_Equipment" title="Secure Terminal Equipment">STE</a></li>
+<li><a href="/wiki/STU-II" title="STU-II">STU-II</a></li>
+<li><a href="/wiki/STU-III" title="STU-III">STU-III</a></li>
+<li><a href="/wiki/VINSON" title="VINSON">VINSON</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Miscellaneous:</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JADE_(cypher_machine)" title="JADE (cypher machine)">JADE</a></li>
+<li><a href="/wiki/KG-84" title="KG-84">KG-84</a></li>
+<li><a href="/wiki/KL-43" title="KL-43">KL-43</a></li>
+<li><a href="/wiki/KL-51" title="KL-51">KL-51</a></li>
+<li><a href="/wiki/Noreen" title="Noreen">Noreen</a></li>
+<li><a href="/wiki/Purple_(cipher_machine)" title="Purple (cipher machine)">PURPLE</a></li>
+<li><a href="/wiki/Pinwheel_(cryptography)" title="Pinwheel (cryptography)">Pinwheel</a></li>
+<li><a href="/wiki/Rockex" title="Rockex">Rockex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cryptography_navbox" title="Template:Cryptography navbox"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cryptography_navbox" title="Template talk:Cryptography navbox"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cryptography_navbox&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<span style="float:right;width:6em">&#160;</span>
+<div style="font-size:110%"><a href="/wiki/Cryptography" title="Cryptography">Cryptography</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_cryptography" title="History of cryptography">History of cryptography</a></li>
+<li><a href="/wiki/Cryptanalysis" title="Cryptanalysis">Cryptanalysis</a></li>
+<li><a href="/wiki/Portal:Cryptography" title="Portal:Cryptography">Cryptography portal</a></li>
+<li><a href="/wiki/Outline_of_cryptography" title="Outline of cryptography">Outline of cryptography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Symmetric-key_algorithm" title="Symmetric-key algorithm">Symmetric-key algorithm</a></li>
+<li><a href="/wiki/Block_cipher" title="Block cipher">Block cipher</a></li>
+<li><a href="/wiki/Stream_cipher" title="Stream cipher">Stream cipher</a></li>
+<li><a href="/wiki/Public-key_cryptography" title="Public-key cryptography">Public-key cryptography</a></li>
+<li><a href="/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash function</a></li>
+<li><a href="/wiki/Message_authentication_code" title="Message authentication code">Message authentication code</a></li>
+<li><a href="/wiki/Cryptographically_secure_pseudorandom_number_generator" title="Cryptographically secure pseudorandom number generator">Random numbers</a></li>
+<li><a href="/wiki/Steganography" title="Steganography">Steganography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1238
+CPU time usage: 0.104 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 306/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47504/2097152 bytes
+Template argument size: 170/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.025/10.000 seconds
+Lua memory usage: 1,014 KB/50 MB
+-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   99.320      1 - -total
+ 52.43%   52.071      4 - Template:Navbox
+ 46.47%   46.154      1 - Template:Commons_category
+ 31.83%   31.614      1 - Template:Cryptography_navbox
+ 21.46%   21.316      1 - Template:Redirect
+ 14.45%   14.355      1 - Template:Commons
+ 12.37%   12.289      1 - Template:Sister_project
+  9.32%    9.254      1 - Template:Cryptography_machines
+  8.99%    8.933      1 - Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1513791-0!*!0!!*!4!* and timestamp 20150626235214 and revision id 579017313
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=C-52_(cipher_machine)&amp;oldid=579017313">https://en.wikipedia.org/w/index.php?title=C-52_(cipher_machine)&amp;oldid=579017313</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Encryption_devices" title="Category:Encryption devices">Encryption devices</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=C-52+%28cipher+machine%29&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=C-52+%28cipher+machine%29" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/C-52_(cipher_machine)"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:C-52_(cipher_machine)"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/C-52_(cipher_machine)" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=C-52_(cipher_machine)&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=C-52_(cipher_machine)&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/C-52_(cipher_machine)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/C-52_(cipher_machine)" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=C-52_(cipher_machine)&amp;oldid=579017313" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=C-52_(cipher_machine)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2014707" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=C-52_%28cipher_machine%29&amp;id=579017313" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=C-52+%28cipher+machine%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=C-52+%28cipher+machine%29&amp;oldid=579017313&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=C-52_(cipher_machine)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/C-52" title="C-52 – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="//nl.wikipedia.org/wiki/C-52_(codeermachine)" title="C-52 (codeermachine) – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-fi"><a href="//fi.wikipedia.org/wiki/C-52" title="C-52 – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2014707#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 October 2013, at 22:18.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=C-52_(cipher_machine)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="//en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_132x47.png 1.5x, //en.wikipedia.org/static/1.26wmf13/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>if(window.jQuery)jQuery.ready();</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<link rel="stylesheet" href="//en.wikipedia.org/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.wikimediaBadges&amp;only=styles&amp;skin=vector&amp;*" />
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.cirrusSearch.loggingSchema","mmv.bootstrap.autostart","ext.imageMetrics.loader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.wikimediaEvents.statsd","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.WatchlistGreenIndicators","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"],null,true);
+}</script>
+<script>if(window.mw){
+document.write("\u003Cscript src=\"//en.wikipedia.org/w/load.php?debug=false\u0026amp;lang=en\u0026amp;modules=site\u0026amp;only=scripts\u0026amp;skin=vector\u0026amp;*\"\u003E\u003C/script\u003E");
+}</script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1110"});
+}</script>
+	</body>
+</html>
