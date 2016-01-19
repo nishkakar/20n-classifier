@@ -62,12 +62,23 @@ def classify_bayesian(filename, priors, likelihood):
 def print_details(sibling, details):
     if sibling.name == 'p':
         details += sibling.text + "\n"
-        return print_details(sibling.next_sibling.next_sibling, details)
+        if sibling.next_sibling and sibling.next_sibling.next_sibling:
+            return print_details(sibling.next_sibling.next_sibling, details)
+        else:
+            if details:
+                return details
+            else:
+                details += "Couldn't find any relevant information\n"
+                return details
     else:
         if details:
             return details
         else:
-            return print_details(sibling.next_sibling.next_sibling, details)
+            if sibling.next_sibling and sibling.next_sibling.next_sibling:
+                return print_details(sibling.next_sibling.next_sibling, details)
+            else:
+                details += "Couldn't find any relevant information\n"
+                return details
 
 
 def main():
